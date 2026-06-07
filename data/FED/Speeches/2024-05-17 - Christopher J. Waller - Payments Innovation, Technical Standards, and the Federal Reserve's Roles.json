@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Payments Innovation, Technical Standards, and the Federal Reserve's Roles",
+  "date_original": "2024-05-17",
+  "date_au": "17/05/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240517a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-17 - Christopher J. Waller - Payments Innovation, Technical Standards, and the Federal Reserve's Roles.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-17 - Christopher J. Waller - Payments Innovation, Technical Standards, and the Federal Reserve's Roles.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "40da472035e53d1f68e5e1cada1263fb554607b109aabfe999b5fe936edfde88"
+}

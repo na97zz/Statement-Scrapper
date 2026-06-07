@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Ishikawa)",
+  "date_original": "2024-09-10",
+  "date_au": "10/09/2024",
+  "datetime_original": "",
+  "speaker": "TAKATA Hajime",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240910a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-09-10 - TAKATA Hajime - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Ishikawa).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-09-10 - TAKATA Hajime - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Ishikawa).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1d4dd66574a303357aab55e61d65768e52e7b6c372b418253b9fa0771cf6d2ff"
+}

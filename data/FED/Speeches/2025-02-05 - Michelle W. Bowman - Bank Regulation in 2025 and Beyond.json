@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Bank Regulation in 2025 and Beyond",
+  "date_original": "2025-02-05",
+  "date_au": "05/02/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250205a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-05 - Michelle W. Bowman - Bank Regulation in 2025 and Beyond.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-05 - Michelle W. Bowman - Bank Regulation in 2025 and Beyond.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c314f10ab907f115fb16c6b6215d8c8df570daf880a7efe477f83fc68e1d82e5"
+}

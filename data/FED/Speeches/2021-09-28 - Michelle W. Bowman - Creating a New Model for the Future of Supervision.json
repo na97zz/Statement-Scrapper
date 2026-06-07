@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Creating a New Model for the Future of Supervision",
+  "date_original": "2021-09-28",
+  "date_au": "28/09/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210928a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-09-28 - Michelle W. Bowman - Creating a New Model for the Future of Supervision.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-09-28 - Michelle W. Bowman - Creating a New Model for the Future of Supervision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "289679a064934c275f7e8d31514bfde520b4697efc190b06bd3dfab4e9e73d2d"
+}

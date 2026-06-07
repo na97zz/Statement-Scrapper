@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Climate Biennial Exploratory Scenario: Insurance Insights – speech by Stefan Claus",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Stefan Claus",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/june/anna-sweeney-speech-at-the-association-of-british-insurers-climate-change-summit-2022",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Stefan Claus - Climate Biennial Exploratory Scenario_ Insurance Insights – speech by Stefan Claus.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Stefan Claus - Climate Biennial Exploratory Scenario_ Insurance Insights – speech by Stefan Claus.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:19:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "19f3995761e3e982dd22ff24b759cde754734756597642b86b761a8e8eabea47"
+}

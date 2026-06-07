@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2026-02-19",
+  "date_au": "19/02/2026",
+  "datetime_original": "",
+  "speaker": "Opening Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260219a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-02-19 - Opening Remarks - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-02-19 - Opening Remarks - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "51ad053ca2021f48af538354e62594d20314ac8688a03a1d5eb244b086c21158"
+}

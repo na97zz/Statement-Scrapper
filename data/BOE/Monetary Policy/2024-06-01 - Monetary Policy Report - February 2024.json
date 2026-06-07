@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - February 2024",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2024/february/monetary-policy-report-february-2024.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2024-06-01 - Monetary Policy Report - February 2024.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2024-06-01 - Monetary Policy Report - February 2024.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:55:00",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2024/february-2024",
+  "content_sha256": "83a7c1ee5e3cf597a8ddc28dc99857615c0a916696ad5381d4b69fc10c328619"
+}

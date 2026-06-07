@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Future of Stress Testing and the Stress Capital Buffer Framework",
+  "date_original": "2024-09-10",
+  "date_au": "10/09/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240910a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-10 - Michelle W. Bowman - The Future of Stress Testing and the Stress Capital Buffer Framework.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-10 - Michelle W. Bowman - The Future of Stress Testing and the Stress Capital Buffer Framework.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1ef725ba4724e7b180cb7b808270e477885d398c3316bf1cba4823966ce1c568"
+}

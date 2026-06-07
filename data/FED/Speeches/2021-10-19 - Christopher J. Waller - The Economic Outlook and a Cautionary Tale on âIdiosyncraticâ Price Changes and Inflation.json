@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and a Cautionary Tale on âIdiosyncraticâ Price Changes and Inflation",
+  "date_original": "2021-10-19",
+  "date_au": "19/10/2021",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20211019a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-19 - Christopher J. Waller - The Economic Outlook and a Cautionary Tale on âIdiosyncraticâ Price Changes and Inflation.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-19 - Christopher J. Waller - The Economic Outlook and a Cautionary Tale on âIdiosyncraticâ Price Changes and Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "289bee70e51eb12ef6a3bb0cf986cde4e646bb9a4b97299389ddb0f125464417"
+}

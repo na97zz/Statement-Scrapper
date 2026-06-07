@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Towards a gold standard on climate transition planning − speech by Ben Stimson",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Ben Stimson",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/june/ben-stimson-keynote-speech-on-boe-climate-transition-plan",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Ben Stimson - Towards a gold standard on climate transition planning − speech by Ben Stimson.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Ben Stimson - Towards a gold standard on climate transition planning − speech by Ben Stimson.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "07174986c8774873e3bc6abc0bb36377be3d1140c0e0539189a8722d5be3aac5"
+}

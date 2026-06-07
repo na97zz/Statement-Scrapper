@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Technological Advancements in Payments",
+  "date_original": "2025-08-20",
+  "date_au": "20/08/2025",
+  "datetime_original": "",
+  "speaker": "Technological Advancements in Payments",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250820a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-20 - Technological Advancements in Payments - Technological Advancements in Payments.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-20 - Technological Advancements in Payments - Technological Advancements in Payments.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3da08f123f969a934bf1d3ecf6427d7f7f6fb2b7fd4525911f01c6a863493d75"
+}

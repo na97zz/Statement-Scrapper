@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Regulations, the Supply Side, and Monetary Policy",
+  "date_original": "2026-01-14",
+  "date_au": "14/01/2026",
+  "datetime_original": "",
+  "speaker": "Stephen I. Miran",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/miran20260114a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-01-14 - Stephen I. Miran - Regulations, the Supply Side, and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-01-14 - Stephen I. Miran - Regulations, the Supply Side, and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d987d610ecbd13b124cfde6b307065bd62ca5677551ea9105831ba9abfb655da"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "U.S. Economic Outlook and Monetary Policy: An Update",
+  "date_original": "2021-03-02",
+  "date_au": "02/03/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210302a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-02 - Lael Brainard - U.S. Economic Outlook and Monetary Policy_ An Update.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-02 - Lael Brainard - U.S. Economic Outlook and Monetary Policy_ An Update.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b67c8875c17c103df69ee78c79dd60d27d8fb49715b87f4f0cc507df27c22c77"
+}

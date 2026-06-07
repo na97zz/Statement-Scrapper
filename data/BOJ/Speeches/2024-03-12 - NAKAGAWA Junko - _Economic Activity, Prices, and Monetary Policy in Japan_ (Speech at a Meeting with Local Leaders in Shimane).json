@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Shimane)",
+  "date_original": "2024-03-12",
+  "date_au": "12/03/2024",
+  "datetime_original": "",
+  "speaker": "NAKAGAWA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240312a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-03-12 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Shimane).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-03-12 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Shimane).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3b5dd3c904aabf2e139fd38b41ec1b6883e725bcde62a0e789bb355ba70a0461"
+}

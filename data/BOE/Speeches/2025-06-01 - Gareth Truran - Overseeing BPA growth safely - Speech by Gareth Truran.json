@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Overseeing BPA growth safely - Speech by Gareth Truran",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Gareth Truran",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/april/gareth-truran-speech-at-the-22nd-conference-on-bulk-annuities",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Gareth Truran - Overseeing BPA growth safely - Speech by Gareth Truran.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Gareth Truran - Overseeing BPA growth safely - Speech by Gareth Truran.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:12:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3d1ba234dfa532122ce800fe0c8b42d61c4a6b7d6e8d5bf5dba1ce1c5cb48ce4"
+}

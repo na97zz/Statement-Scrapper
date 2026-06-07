@@ -1,0 +1,499 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Forks in the Curve: whether and how to respond to monetary policy divergence - speech by Megan Greene
+DATE: 01/06/2026
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2026/january/megan-greene-speech-at-the-resolution-foundation-worlds-apart
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Forks in the Curve: whether and how to respond to monetary policy divergence - speech by Megan Greene
+Given at the Resolution Foundation
+Published on 
+
+ 23 January 2026
+In this speech, Megan Greene argues the UK economy is shaped by choices made by other central banks, mainly the Federal Reserve and the European Central Bank. Using history and fresh evidence, she explains how monetary policy divergence impacts UK inflation and growth, and how UK policy should react to the domestic effects.
+Speech
+Introduction
+It’s wonderful to be here with you at the Resolution Foundation today. The turn of the year is a time when we often take stock of where the economy has been and look ahead to the next 12 months. It’s this annual ritual that has motivated my remarks today.
+As a monetary policymaker at an inflation-targeting central bank, I spend a lot of time thinking about the future path for UK inflation when setting policy. But it isn’t just the UK’s monetary policy that matters for the evolution of inflation—monetary policy in other jurisdictions can impact our financial conditions and economy as well.
+We can determine how markets expect interest rates to evolve by looking at the instantaneous forward OIS curves for the US, UK and euro area (Figure 1). You can see there is difference in the level of policy rates, particularly between the US and UK on the one hand and the euro area on the other, reflecting both cyclical and structural differences in these economies. More importantly, markets are pricing continued rate cuts for the UK and US this year, while the ECB is expected to keep rates on hold. If the markets are to be believed, some monetary policy divergence will emerge in 2026.
+Figure 1: Market implied paths for policy rates
+Instantaneous forward curves for the UK, US and Euro area
+(a)
+Footnotes
+All data are as of 21 January 2026. The market-implied path for US policy rates is the expected effective federal funds rate. The ECB deposit rate is based on the date from which changes in policy rates are effective. The final data points are forward rates for 01/01/2030.
+Source: Bloomberg Finance L.P. and Bank calculations.
+Although the focus of this speech will be on the potential spillovers of US and euro area monetary policy on the UK economy, it is worth pointing out that markets expect even more monetary policy divergence, with rate hikes priced in for the Reserve Bank of Australia, Reserve Bank of New Zealand and Bank of Japan.
+This market pricing doesn’t reveal where investors think the risks lie, however. For this, we need to look at the option-implied distribution around these central cases (
+Clews, Panigirtzoglou, & Proudman, 2000
+), shown in Figure 2. Over 2025, the distribution around the value of the Secured Overnight Financing Rate (SOFR) in December 2026, which closely tracks the Federal Funds Rate, became more negatively skewed. This suggests markets believe the risks to the Fed Funds Rate are increasingly to the downside. Options markets attach roughly a 14% probability to the Fed cutting rates below 2.75% by December of this year (compared to the central pricing of two rate cuts to 3.25%).
+The distribution around the Euribor Rate (Euro Interbank Offered Rate), on the other hand, has become more balanced since last autumn, when investors judged the risks to the ECB’s deposit rate to be on the downside. For the UK, risks around the December 2026 SONIA rate have moved from being slightly positive at the beginning of last year to a moderately negative skew.
+Figure 2: The negative skew of market pricing for December 2026 has increased for SOFR but fallen for Euribor
+The skew of the market implied probability density function
+(a)
+Footnotes
+(a) The skew of the option-implied probability density function provides a measure of asymmetry for the distribution. The more negative the skew the greater the probability implied by options markets of outcomes below the mean, relative to that above the mean. See: “
+Terminology and concepts: implied probability density functions
+” for more info.
+Source: Bloomberg Finance L.P. and Bank calculations.
+If these risks materialise, even more significant monetary policy divergence will emerge than is currently priced in the markets. My interest today isn’t why such monetary policy divergence may occur. Instead, I want to examine the potential implications of this kind of divergence for the UK economy and monetary policy.
+First, I’ll look at the history of monetary policy divergence, focusing mainly on policy rates because they’re the primary tool by which central banks conduct monetary policy. Then, I’ll put forward some explanations why monetary policy has tended to converge among developed economies in recent decades. This tendency towards convergence lends weight to the conventional wisdom that other central banks must "follow the Fed", to use a common phrase. But looking at the potential spillovers from foreign monetary policy to UK growth and inflation, I find there is a strong case for the Bank of England doing exactly the opposite in the face of monetary policy divergence.
+A history of decreasing divergence
+As we saw in Figure 1, the levels of interest rates in different jurisdictions can differ significantly. This can result from idiosyncratic shocks, unsynchronised business cycles or structural factors resulting in different neutral rates. Rather than focus on policy rate levels, I am going to consider monetary policy divergence through the lens of rate changes, shown in Figure 3. Here I’ve plotted the 6-monthly change in the policy rate for the UK, US and Germany/euro area over time, stacking these changes on top of one another. I use the 6-monthly change to identify periods of meaningful and lasting policy divergence.
+Figure 3: Changes in policy rates since 1948
+Rolling 6-monthly change in Bank Rate, federal funds effective rate, ECB deposit facility rate
+(a)
+and notable historical events
+(b)
+Footnotes
+(a) Discount rate of the Deutsche Bundesbank used instead of ECB rate up to 1999. Change is calculated as the difference between the policy rate at 6-month intervals for each month from January 1948 for Bank Rate and July 1948 for Discount rate of Deutsche Bundesbank and from July 1954 for the Federal Funds Effective Rate.
+(b) Lines on the chart indicate: 1: the OAPEC oil embargo in 1973, 2: the signing of the Jamaica Accords in 1976 to formally end Bretton Woods system of currency convertibility, 3: the IMF bailout for the UK in late 1976, 4: the Iranian Revolution in 1979 and 5: the reunification of Germany in 1990.
+Source: Bank of England, Deutsche Bundesbank, Federal Reserve Bank of St. Louis and Bank calculations.
+Under the system of currency convertibility that emerged from the Bretton Woods conference in 1944, participating countries (including the UK and West Germany) pegged their currencies to the US dollar – which was itself pegged to gold. One of the goals of the system was to limit the incentives for countries to implement beggar-thy-neighbour policies such as competitive currency devaluations, often delivered via sharp cuts in domestic interest rates, with capital controls safeguarding a degree of domestic monetary policy independence. This, along with generally low levels of inflation in the 1950s and 60s, meant that changes in policy rates were smaller than in subsequent decades, with roughly equal periods of divergence and convergence.
+In the 1970s and 1980s, countries faced two oil price shocks, the first sparked by the OAPEC oil embargo in 1973 and the second by the Iranian Revolution in 1979. Currencies were also allowed to float, reducing the need for policy rates to help manage the exchange rate.
+footnote
+[1]
+During this period, countries faced a mix of common shocks – such as the oil price shocks – and idiosyncratic ones – such as the tightening of UK policy in 1976 as part of the deal agreed with the IMF. Because of this, changes in policy rates were larger and more volatile and, as with previous decades, periods of convergence and divergence were almost equally common.
+The “Great Moderation” (
+Stock & Watson, 2002
+;
+Bernanke, 2004
+), which arguably began in the late 1980s, was marked by a decline in the volatility of policy rates and greater synchronicity between central banks. But even during this period divergence occurred. One prominent episode is in the early 1990s when the Deutsche Bundesbank raised interest rates in response to the inflationary pressures stemming from German reunification, at the same time the Federal Reserve and Bank of England were cutting rates in response to domestic downturns. A few years later the picture was reversed. The Bundesbank cut rates as inflationary pressures eased and the economy weakened, while the Fed tightened policy in mid-1994 in response to an accelerating economy. The Bank of England also tightened policy that same year in response to signs of inflationary pressure (
+Bank of England, August 1994
+,
+November 1994
+)
+Since 2000, however, central banks have been more in sync, with relatively few periods when rates moved in opposite directions. Central banks engaged in synchronised tightening and loosening—denoted by the troughs and peaks in Figure 3—around the Global Financial Crisis (GFC) and Covid Pandemic/Russian invasion of Ukraine.
+In an extensive study of the monetary policy cycles of advanced economies from 1970 to 2024, one of my predecessors on the MPC, Kristin Forbes, and her co-authors estimate global factors that capture the degree of synchronisation in interest rates, GDP growth and inflation. They find that changes in these variables have increasingly converged across countries
+(
+Forbes, Ha, & Kose, 2024
+). Figure 4 shows that the ‘global rate factor’ explained just over 10% of the variation in domestic policy rates between 1970 and 1999, but this has increased to 38% since 1999. Global factors have also played an increasingly important role in explaining the variation in inflation and output growth, suggesting that business cycles have also become more synchronised.
+Figure 4: Amount of variance explained by global factors
+Per cent of total variation in policy rates, inflation and output growth, averaged across countries in sample
+(a)
+Footnotes
+(a) Hashed bars show whole sample. See Forbes, Ha and Kose (
+2024
+) for full details
+Source: (
+Forbes, Ha , & Kose, 2024
+)
+For the UK specifically, Forbes and colleagues identified 7 distinct tightening and easing phases since 1970. In four of the five before the GFC, domestic factors played a large part, including the IMF-mandated tightening of policy in 1976, and the tightening of policy in response to the “Lawson Boom” in the late 1980s.
+footnote
+[2]
+By contrast the two most recent UK cycles – the run-up and response to the GFC, and the response to the post-Covid rise in inflation – were largely driven by global shocks.
+Figure 5 provides another lens through which to view the degree of divergence over time. It shows the percentage of 6-monthly periods within each decade in which Bank Rate was diverging from the policy rate of the Bundesbank or ECB (LHS) and the Fed (RHS). Although the degree of divergence has fluctuated there is a downward trend since the 1980s, particularly when comparing the Bank to the Bundesbank and ECB. The 2020s has thus far been the least-divergent decade, though we’ve still got half of it to go.
+Figure 5: Proportion of time in which policy rates have diverged by decade
+Percentage of 6-monthly periods in which monetary policy was diverging
+(a)
+Footnotes
+(a) Discount rate of the Deutsche Bundesbank used instead of ECB rate up to 1999. Change is calculated as the difference between the policy rate at 6-month intervals.
+Source: Bank of England, Deutsche Bundesbank, Federal Reserve Bank of St. Louis and Bank calculations.
+While Forbes et al showed that a ‘global rate factor’ drove more monetary policy convergence since 1999, Figure 5 reveals divergence nevertheless still happened. In the 2010s, the ECB cut rates below 0% in response to the euro crisis while the Bank held Bank Rate steady at 0.5%—shown in pink. Towards the end of the same decade, the Fed went much further in tightening policy in the run-up to the pandemic than the Bank—shown in green.
+However, Figure 5 only looks at policy rates, and therefore understates the degree of policy convergence in the 2010s given the Bank, Fed and ECB were all employing unconventional monetary policy tools. One way to incorporate the full suite of policy tools—including interest rates, forward guidance and changes in balance sheets—is to compute “shadow rates” for central banks. Work by Bank staff reveals that the Bank, Fed and ECB all reduced their shadow rates in the 2010s (shown in Figure 6), though the specific timing varied. There remained some divergence in the second half of the decade as the Fed hiked rates in the lead-up to the pandemic in response to stronger growth and inflation.
+footnote
+[3]
+Figure 6: Shadow policy rates for UK, US, and Euro area
+Shadow policy rates, 2005 - 2019
+(a)
+Footnotes
+(a) Shadow rates measure the overall stance of monetary policy and are computed using a term structure model using three pricing factors. See
+De Rezende & Ristiniemi, 2020
+for more details and see
+here
+for the data beyond that discussed in the paper.
+Source:
+De Rezende & Ristiniemi, 2020
+.
+Why has convergence increased and why does divergence still occur
+The evidence shows that policy cycles have become increasingly synchronised since the 1990’s but that monetary policy divergence has nevertheless occasionally emerged. What explains this?
+Increased monetary policy convergence is partly a result of greater globalisation resulting in more intertwined supply chains and financial markets (
+Greene, 2025
+). Although globalisation has slowed in recent years—and according to some metrics has reversed
+footnote
+[4]
+—strong trade and financial market linkages remain and have left economies sensitive to developments elsewhere. For a small, open economy like the UK, domestic prices are likely to be influenced by price dynamics abroad. In addition, research by Bank staff suggests that financial linkages help foster the spread of idiosyncratic shocks across borders and contribute to business cycle synchronisation (
+Cesa-Bianchi, Imbs and Saleheen, 2019
+).
+We have also seen monetary policy objectives become increasingly aligned across jurisdictions in the last few decades. Many central banks, including those in the UK, US and euro area, are legally and institutionally independent from their respective governments and operate under mandates including inflation targets of (at or around) 2%. These targets have helped anchor inflation expectations and strengthen central bank credibility and transparency in recent years (
+Suh and Kim, 2013
+;
+Mann, 2025
+).
+Of course, simply aligning monetary policy objectives does not itself guarantee policy convergence. But in a globalised world, it does suggest a common decision-making framework: as individual central banks attempt to maintain price stability, we are likely to see a synchronised response to any global shocks that push inflation away from target. I expect such global shocks to become more frequent as a result of geoeconomic risk, economic statecraft and climate change (
+Greene, 2025
+). Divergence nevertheless still happens. Despite deep trade and financial linkages in the global economy, business cycles are not perfectly aligned, requiring domestic central banks to respond to specific conditions faced at home. Similarly, integration can help propagate shocks, but the ways in which these shocks reverberate through different economies can be idiosyncratic. As a result, central banks may differ in their policy responses.
+Moreover, monetary policy objectives may have become more aligned across jurisdictions, but there remain some differences. For example, unlike the Bank or ECB, the Fed has a dual mandate that emphasises the importance of maximum employment alongside price stability. This sort of difference impacts central bank reaction functions, particularly when there is a trade-off between supporting activity and bringing inflation to target such as in the face of a negative supply shock.
+How monetary policy divergence impacts the UK via trade and financial markets
+Ultimately, whether or not divergence matters for domestic policy depends on the extent to which foreign monetary policy washes up on UK shores. There are multiple channels through which this can happen. They can be direct – via trade – or indirect – via financial markets (
+Greene, 2025
+).
+Let’s start with trade. As a simple example we can imagine that the UK’s trade partner—Economy A—tightens monetary policy while the UK does not. As policy tightens in Economy A, aggregate demand in Economy A falls, lowering the demand for exports from the UK. All else equal, this pushes down on UK activity and inflation.
+The extent to which a fall in Economy A’s demand will impact the UK depends in part on how much the UK exports to Economy A and what exactly the UK exports. If UK exports to Economy A are made of up of goods and services that form a large part of the UK’s inflation basket, the impact of rate hikes in Economy A will be larger (all else equal).
+Of course this explicit demand channel isn’t the only way a monetary policy tightening in Economy A can spill over to the UK. Such policy divergence can also lead to adjustments in financial markets, including exchange rates. When Economy A raises the policy rate, its currency typically appreciates against sterling. This is because higher rates in Economy A attract capital inflows from investors seeking higher returns. All else equal, weaker sterling makes it cheaper for Economy A to import from the UK and more expensive for the UK to import from Economy A. This stimulates UK exports – adding to demand – and also increases the price of UK imports from Economy A, both of which put upward pressure on UK activity and inflation.
+This picture is complicated further by the fact that firms can choose the currency in which they invoice goods and services—and often choose the US dollar (
+Boz, Gopinath and Plagborg-Møller, 2017
+). Imagine Economy A is the US. An appreciation in the US dollar is likely to have an outsized impact on the UK because there has been a significant rise in dollar invoicing among UK exporters since the Brexit referendum (
+Garofalo, Rosso and Vicquéry, 2024
+)—even when they are not trading with the US. If the dollar appreciates, UK exports invoiced in dollars would become relatively more expensive and so there would be a fall in demand for such exports and, in aggregate, less upward pressure on activity and inflation.
+footnote
+[5]
+Overall then, rate moves in a trade partner could push UK activity and inflation up or down.
+Changes in monetary policy elsewhere feeds through into other asset classes beyond currencies, helping to shape broader UK financial conditions. Financial conditions play a role in transmitting monetary policy through to the real economy. As financial conditions tighten, it becomes increasingly difficult for firms and households to borrow and demand wanes. As financial conditions loosen, access to financing becomes easier and demand is stimulated.
+Think back to Economy A again. As monetary policy tightens there, spillovers are likely to result in a tightening of financial conditions in the UK. For example, as returns become more attractive in Economy A, capital will flow to Economy A from the UK. All else equal, this would cause sterling to depreciate and would push UK equity and bond prices down and increase borrowing costs. UK financial conditions would be tighter, depressing UK activity and inflation.
+We can look at how monetary policy spillovers impact different asset classes by using a structural VAR model of asset prices developed by staff at the Bank (based on
+Brandt et al., 2021
+;
+Mann 2023
+and
+technical appendix
+;
+Mann 2024
+). I won’t go into all the technical details of the model, but I’ll outline a few of its key features before turning to the results.
+The model identifies the underlying drivers of movements in yields, equity prices and exchange rates across the UK, US and euro area. As a result, we can use it to see which drivers have exerted the most influence over UK financial variables over time. These factors are split by type (macroeconomic and monetary policy) as well as geography (UK, US and euro area) and reflect investors’ reappraisal of macroeconomic conditions and monetary policy over time. This approach allows us to disentangle the influence of the different drivers and assess their individual contributions to moves in UK financial markets.
+The model includes a global risk factor to capture global flight-to-safety behaviour and a UK risk factor to capture net capital flows into and out of any sterling-denominated assets. For the purposes of today’s discussion, I’ll focus mainly on what this model tells us about the role of foreign monetary policy in driving UK financial variables—in particular 10-year gilt yields, foreign exchange and equities.
+Figures 8 and 9 show the cumulative percentage change in 10-year gilt yields over two periods, respectively: (1) the UK’s most recent hiking and holding cycle
+footnote
+[6]
+and (2) the UK’s ongoing cutting cycle
+footnote
+[7]
+.
+Focusing on Figure 8, we can see that US and euro area factors (in orange and green, respectively) bolstered UK gilt yields over the hiking/holding cycle. In particular, the decomposition highlights the large influence of US monetary policy and US macroeconomic factors over the period. At times, US monetary policy has played a larger role in pushing up gilt yields than UK monetary policy. Risk factors (in purple), while not the focus here, also played an important role, with a notable uptick around the LDI episode in September 2022.
+Figure 8: Decomposition of cumulative change in 10-year UK gilt yields over the UK’s most recent hiking and holding cycle
+Contributions in percentage points and total in per cent
+Footnotes
+Source: Bank calculations. Notes: The above decomposition is based on a structural VAR identified using sign and zero restrictions following
+Brandt et al. (2021)
+.
+Turning to Figure 9, we see a different dynamic play out over the rate cutting cycle. UK 10-year yields continued to rise over this period even as Bank Rate fell. This was partly driven by investors reappraising the extent to which the UK and euro area would loosen policy (dark aqua and dark green), but a large bulk of this boost in yields came from risk factors. Global risk-on behaviour (the positive dark purple area), consistent with investors selling bonds and buying equities, sent bond prices lower and yields higher. A deteriorating UK risk environment also helped push yields higher as fiscal sustainability concerns may have helped drive a rise in term premia.
+However, a striking feature of this decomposition is the growing downward pressure exerted by US monetary policy over the course of the UK’s cutting cycle (in dark orange), as markets priced in an increasingly accommodative US monetary policy stance.
+Figure 9: Decomposition of cumulative change in ten-year UK gilt yields over the UK’s ongoing cutting cycle
+Contributions in percentage points and total in per cent
+Footnotes
+Source: Bank calculations. Notes: The above decomposition is based on a structural VAR identified using sign and magnitude restrictions following
+Brandt et al. (2021)
+.
+We can also examine the role of monetary policy spillovers in driving UK exchange rates. To do this, I decompose the underlying drivers of the two sterling pairs (GBP/USD and GBP/EUR) in Figure 10 and Figure 11. Here, I combine the rate hiking and cutting phases to concentrate on the cumulative change in exchange rates since the start of the hiking cycle, with the distance between the two vertical dashed lines covering the time Bank Rate was on hold at 5.25%.
+Figure 10 focuses on movements in the sterling-dollar exchange rate. The model suggests that US monetary policy (dark orange) played a large role in strengthening the dollar against the pound during the hiking/holding cycle. An increase in UK-specific risk (light purple) around the time of the LDI crisis (September 2022) also helped contribute to sterling’s depreciation. Since the turn of last year, market pricing of looser Fed policy has caused the pound to strengthen against the dollar.
+Figure 10: Decomposition of cumulative change in GBP/USD exchange rate
+Contributions in percentage points and total in per cent
+Footnotes
+Source: Bank calculations. Notes: The above decomposition is based on a structural VAR identified using sign and magnitude restrictions following
+Brandt et al. (2021)
+. The distance between the two vertical dashed lines covers the time Bank Rate spent on hold at 5.25% from 3
+rd
+August 2023 to 1
+st
+August 2024.
+Next let’s consider moves in sterling-euro in Figure 11. A perceived improvement in the euro area’s macroeconomic performance contributed to the euro’s relative strength during the UK’s hiking cycle (light green area), as did tighter-than-expected euro area monetary policy (dark green area). During the UK’s current cutting cycle, however, the contribution of ECB monetary policy fell back as markets priced in a looser stance. This reversed in the past year as tighter-than-expected ECB monetary policy weighed on sterling alongside an improvement in the euro area macro outlook.
+Figure 11: Decomposition of cumulative change in GBP/EUR exchange rate
+Contributions in percentage points and total in per cent
+Footnotes
+Source: Bank calculations. Notes: The above decomposition is based on a structural VAR identified using sign and magnitude restrictions following
+Brandt et al. (2021)
+. The distance between the two vertical dashed lines covers the time Bank Rate spent on hold at 5.25% from 3
+rd
+August 2023 to 1
+st
+August 2024.
+The model also suggests a substantial role for foreign monetary policy spillovers in driving price changes in the FTSE 250 over this period (Figure 12). We focus on this index because it’s comprised of more UK-focused stocks than the FTSE 100. We can see from this decomposition that investors’ views of monetary policy in the UK, US and euro area (dark aqua, orange and green) have consistently pushed down on UK equity prices even during the rate cutting cycle,
+footnote
+[8]
+reflecting the negative impact of higher rates on risk assets.
+Figure 12: Decomposition of cumulative change in FTSE 250 index
+Contributions in percentage points and total in per cent
+Footnotes
+Source: Bank calculations. Notes: The above decomposition is based on a structural VAR identified using sign and magnitude restrictions following
+Brandt et al. (2021)
+. The distance between the two vertical dashed lines covers the time Bank Rate spent on hold at 5.25% from 3 August 2023 to 1 August 2024.
+Together, these decompositions demonstrate the significant role of foreign monetary policy in shaping UK financial conditions. In particular, reappraisals for tighter Fed and ECB policy have tightened UK financial conditions.
+…And ultimately this feeds through to UK activity and inflation
+Foreign monetary policy spills over to the UK through both trade and financial channels. But rate moves in a trading partner can push UK activity and inflation both up and down, leaving the overall impact through trade somewhat ambiguous. The impact of monetary policy divergence on UK growth and activity via financial conditions is more straight-forward; Fed and ECB rate hikes tighten UK financial conditions (all else equal).
+Ultimately, I’m interested in the potential implications of monetary policy divergence on UK monetary policy. It is therefore not enough just to understand the channels via which foreign monetary policy impacts the UK. We need to aggregate these channels to determine the overall impact of foreign monetary policy on UK activity and inflation and therefore the appropriate monetary policy response.
+One way to do this is to use a top-down approach to isolate the impact of foreign monetary policy shifts on the UK versus other factors. For this, I draw on the work of Miranda-Agrippino and Nenova (
+2022
+). They look at changes in US and euro area yields across a range of maturities that occur immediately after Fed and ECB decisions (respectively). These shifts reflect central bank news that had not already been priced into markets.
+footnote
+[9]
+I focus on two parts of the yield curve: 2-year yields and 10-year yields. 2-year yields are highly relevant for borrowing in the real economy and incorporate shifts at the very short end of the yield curve as well. Surprise shifts in 2-year yields therefore stand as a proxy for surprises in the policy rate. Surprise changes in 10-year yields, on the other hand, reflect surprises in unconventional monetary policies such as quantitative easing that impact the long end of the yield curve.
+footnote
+[10]
+I measure the impact of a 1 percentage point shift in each on UK GDP and inflation.
+footnote
+[11]
+Figure 13 shows the impact on UK real GDP of an unanticipated 1 percentage point increase in 2-year Treasury yields. Again, this serves as a proxy for a surprise in the Fed Funds rate. It’s worth highlighting that a 1 percentage point surprise in US rates off the back of a single policy decision would indeed be dramatic—and unlikely. I’ve used a 1 percentage point change for ease of interpretation. The model is linear and symmetrical, so this impact can be scaled up or down or the sign can be reversed for a given change in interest rates.
+The LHS chart shows a surprise increase in the 2-year yield initially pushes CPI and GDP down. This is consistent with other studies (
+Rey, 2016
+) and work by Bank colleagues (Anesti, Cesa-Bianchi, Esady, Hjortsø, & Hong, 2026). The intial fall in GDP and inflation likely reflects a tightening in UK financial conditions off the back of a surprise tightening in Fed policy. Subsequently, both UK GDP and inflation are pushed up. This likely reflects the exchange rate channel. A depreciation of sterling against the dollar increases UK import prices and makes UK exports more competitive, pushing up on inflation and activity.
+footnote
+[12]
+Figure 13: Impact of US monetary policy shocks on UK real GDP and CPI
+Effect of an unanticipated 1 percentage point increase in US interest rates on UK real GDP and CPI
+(a)
+Footnotes
+(a) Panels show impulse response functions of the impact of a 1 percentage point increase in 2-year and 10-year US interest rates on UK CPI and real GDP. See footnote 11 for details of estimation.
+Source: LSEG, ONS, Federal Reserve Bank of St. Louis, and Bank calculations.
+That said, not all studies looking at the impact of Fed policy on the UK economy support these results. One paper by
+Cesa-Bianchi & Sokol (2022)
+, for example, finds that a Fed rate hike has a more enduring negative impact on GDP and inflation. This paper is based on a longer data series from the late 1970s to 2016 (versus our study based on data from 1997-2019), and so encompasses some of the more dramatic rate hiking cycles and accompanying declines in GDP in the 1980s and 1990s. Off the back of the latest significant rate hiking cycle, this study may be a better guide for the spillover of Fed policy moves to the UK economy. The more negative impact of Fed policy on UK GDP and inflation in this paper may also reflect a different degree of pass through for exchange rates than in our analysis.
+The notion that an unanticipated Fed tightening may put downward pressure on UK activity and inflation is further supported by including unconventional central bank tools in our analysis. The RHS panel of Figure 13 shows that a 1 percentage point rise in 10-year Treasury yields from central bank decisions clearly pushes down on UK growth and inflation.
+Overall, we have to consider moves in the entire curve to understand the impact of Fed policy on the UK economy and inflation, and so shifts in the short-, medium- and long-end of the Treasury yield curve must be aggregated. Together, we can see that shifts up in 2- and 10-year Treasury yields from Fed decisions push down on inflation, while the impact on growth is more ambiguous.
+The impact of a surprise change in euro area yields as a result of ECB decisions on the UK economy is more straightforward than that of Treasuries. Figure 14 shows that an unanticipated 1 percentage point tightening in 2-year Bund yields (derived from changes in short-term euro OIS rates) has a broadly neutral impact on UK CPI but pushes down on GDP. Such surprises appear to have a larger negative impact on UK GDP than Fed policy rate surprises. This is in line with Bank staff findings that spillovers from euro area activity tend to have a larger impact on UK GDP than those from the US (
+Bank of England Quarterly Bulletin, 2021
+). The relatively muted impact of a rise in short-term euro OIS rates on UK inflation may indicate that the exchange rate channel is weak. This could be because fewer internationally-traded goods are priced in euros, and so the effect of a weaker pound versus the euro has a smaller impact on imported UK inflation.
+Figure 14: Impact of Euro area monetary policy on UK real GDP and CPI
+Effect of an unanticipated 1 percentage point increase in Euro area interest rates on UK real GDP and CPI
+(a)
+Footnotes
+(a) Panels show impulse response functions of the impact of a 1 percentage point increase in 2-year and 10-year Euro area interest rates on UK CPI and real GDP. See footnote 11 for details of estimation.
+Source: LSEG, ONS, Federal Reserve Bank of St. Louis, and Bank calculations.
+A surprise rise in 10-year yields off the back of ECB decisions—reflecting unconventional policies—clearly pushes UK GDP and inflation down. This can be seen in the right hand panel in Figure 14. This is in line with other studies using similar techniques to isolate the impact of ECB policy on the UK.
+footnote
+[13]
+Again, we have to consider the entire yield curve when determining how ECB monetary policy spills over to the UK. Aggregating moves in 2- and 10-year yields following ECB decisions, it is clear an ECB monetary policy tightening pushes UK GDP and CPI down.
+International monetary policy surprises versus other shocks
+All else equal, moves in Fed and ECB policy impact the UK economy and consequently policy divergence with these central banks should bear on the appropriate UK monetary policy stance. But how important are foreign monetary policy shocks relative to other factors driving UK activit (Cascaldi-Garcia, 2022)y and inflation?
+We can get a sense of this by using a structural vector autoregression (SVAR) model Bank Staff have developed to quantify the how much different shocks have pushed UK inflation away from target and growth away from trend. The model does not explicitly measure the impact of ECB monetary policy, so I will focus on the impact of US monetary policy shocks and world financial shocks, the latter to capture spillovers in financial conditions.
+footnote
+[14]
+Figure 15 shows that over the whole sample – 1994 to Q3 2025 – US monetary policy and global financial conditions together explain 33% of the variation in UK CPI inflation and 28% of the variation in UK real GDP growth. US monetary policy has a bigger impact on CPI and GDP growth than world financial conditions. It is striking that the impact of UK domestic conditions (which includes the effect of domestic monetary policy but is much broader than that) is of a similar magnitude as these two factors; explaining 37% of the variation in CPI and 36% of the variation in GDP.
+Figure 15: US monetary policy and global financial conditions have a material impact on UK inflation and growth
+Historical decomposition of UK real GDP growth and seasonally adjusted CPI inflation, deviation from deterministic component
+(a)
+Footnotes
+(a) Bars decompose real GDP growth and seasonally adjusted CPI inflation, relative to a deterministic component (which can be thought of as trend for GDP growth and approximately 2% inflation for CPI inflation), for each shock identified within the model. The Covid period (2020Q1–2021Q2) is treated using pandemic dummies following the pandemic prior approach of (
+Cascaldi-Garcia, 2022
+). See (Anesti, Cesa-Bianchi, Esady, Hjortsø, & Hong, 2026) for more details.
+Source: Bank calculations.
+What divergence means for domestic monetary policy
+Divergence in monetary policy has become rarer over time, particularly since the turn of the millennium. But periods of divergence still occur, often when economies are at different points in the business cycle, at different stages in their recoveries from global shocks or they are facing idiosyncratic shocks.
+Given this, it is not entirely surprising markets have priced in monetary policy divergence ahead. While investors expect the Fed and Bank to continue cutting rates this year, they expect the ECB to keep rates on hold. The distribution of market pricing, however, reveals that risk to the Fed Funds rate is weighted to the downside. If this risk were to materialise, we would see more Fed rate cuts than currently priced.
+I’ll leave policy divergence between the Bank and the ECB to one side for now since based on market pricing, there is a higher conviction about the ECB’s interest rate path this year. Instead, I’ll focus on monetary policy divergence between the UK and US.
+My interest today is not exactly why such divergence between the Bank and the Fed might come to pass. It is whether or how I should respond as a UK rate setter if it does. Interest rate moves abroad wash up on these shores via trade and financial markets.
+The implications of policy divergence on UK inflation via trade is ambiguous. If the Fed were to cut rates more aggressively than the Bank this year, this should cause US demand for UK exports to rebound, providing upward pressure on UK inflation. At the same time, sterling should appreciate (all else equal) so the UK would be importing disinflationary pressures.
+The impact of more Fed cuts on UK inflation via financial conditions is much clearer. A surprise Fed loosening of policy would impact 10-year gilt yields, currencies and the FTSE250 (among other asset classes), loosening UK financial conditions.
+There is, unfortunately, no tidy way to aggregate the effects of these various channels. We can therefore take a top-down view to look at how much surprises in US policy feed through different parts of the Treasury curve to UK activity and inflation. I showed earlier that a surprise tightening of the Fed’s monetary policy stance is likely to push down on UK growth and inflation. Because our model is linear and symmetrical, a surprise loosening of Fed policy is likely to put upward pressure on UK inflation. This is corroborated by other studies as well.
+So how should the MPC put all this together when considering the most appropriate monetary policy stance for the UK? In my view, it would not make sense to set UK monetary policy based on a risk that another central bank may surprise us with its rate decisions. Domestic policy cannot affect what is decided beyond our borders. However, we should respond to the impact those decisions have on domestic conditions.
+If monetary policy divergence were to emerge between the US and UK with the Fed delivering surprise rate cuts, I think the risk to UK inflation would be to the upside. I would expect the upward pressure from looser financial conditions to outweigh the downward pressure from a relatively stronger sterling.
+This could be mitigated by other central banks holding (in the case of the ECB) or hiking (in the case of a number of other central banks). Any surprise tightening of policy by other central banks would likely weigh on inflation and could offset some of the inflationary impulse from surprise Fed cuts.
+All of this has to be placed within the larger picture of the UK domestic economy. The MPC now expects headline inflation to fall back more quickly in the second quarter of this year to closer to 2% than had been forecast previous to the Budget. But there are two-sided risks around the underlying disinflationary process.
+On the one hand, weak demand and a deteriorating labour market could pose a downside risk to inflation. I ascribe some probability to this risk. In particular, waiting for consumption to rebound in the UK has become a bit like waiting for Godot. There may be scarring from shocks over the past few years that will preclude the expected recovery in consumption. Consumption is expected to be the main driver of growth over the forecast period. If this recovery does not materialise, inflation is likely to be weaker. I am less concerned about risks from the labour market. As expected, the labour market continues to soften. But our measure for underlying employment growth continues to trend sideways, and vacancies appear to have levelled out. There is no evidence a non-linear rise in unemployment is imminent. Further weakening of the labour market may be buffeted by two factors: firms entered this tightening cycle with relatively strong balance sheets and credit supply remains plentiful.
+On the other hand, there is a risk the underlying disinflationary process has slowed. I am less concerned about this now than a few months ago, but still put more weight on this risk than that of weaker demand. The budget will mechanically reduce headline inflation below the threshold for inflation feeding more into expectations. This is largely because of energy prices, a particularly salient part of the inflation basket. This should reduce the risk of elevated inflation expectations generating second round effects. Still, 1-year household inflation expectations remain at the top of the range that can be explained by inflation outturns. Expectations also tend to be more responsive to rising rather than falling inflation, and we are coming out of a period in which inflation has been above target for the best part of four years. I will be watching household and business inflation expectations over the next few months to see if they come down in line with lower inflation outturns.
+Even more concerning, in my view, are the forward indicators for wage growth. Private sector regular AWE growth has been coming down, predominantly because of base effects from stronger wage growth at the end of 2024. But our outlook for next year is that this decline may have run its course. We’ll get the full survey results next month but Agents’ contacts suggest pay settlements are expected to be around 3.5% this year. Our Decision Makers’ Panel (DMP) respondents expected year-ahead wage growth of 3.7% in December, a figure that until the latest print had been rising for 3 successive surveys. Even if you think productivity growth will rebound –I am certainly sceptical–such wage growth is not target-consistent. I will be looking for a signal on the evolution of wage growth in the full Agents’ pay settlement survey.
+It does not make sense to set policy based on the risk of surprises from other central banks. Were such surprises to materialise, the MPC would need to consider the impact on the UK economy. The markets are currently pricing in a large risk of a looser Fed policy stance in 2026. If this were to materialise, then it would—all else equal—push up on UK inflation. This would, in my view, give even greater cause for concern about a risk of UK inflation persistence over that of weaker demand, warranting a slower withdrawal of monetary policy restriction in the UK.
+With that, I’m happy to answer your questions.
+Acknowledgements
+The views expressed in these remarks are not necessarily those of the Bank of England or the Monetary Policy Committee. Opinions and all errors and omissions are mine.
+I would particularly like to thank Emma Hatwell and Stephen Nelson-Clarke for their help in the preparation of this speech.
+This text has also benefitted from useful comments, data and analysis from Huw Pill, Fergal Shortall, Alan Castle, Kristin Forbes, Carlo Altavilla, Lennart Brandt, Vania Esady, Ida Hjortsoe, Nikoleta Anesti, Ambrogio Cesa-Bianchi, Lisa Panigrahi, Shiv Chowla, Geoff Coppins, Arif Merali, Lydia Henning, Nades Raviraj, Amarjot Sidhu, Alan Mankikar, Swasti Gupta, Jenny Chan, Fons Strik, Micheal McLeay and Natalie Burr, for which I am extremely grateful.
+References
+Altavilla, C., Brugnolini, L., Gürkaynak, R. S., Motto, R., & Ragusa, G. (2019). Measuring euro area monetary policy.
+Journal of Monetary Economics (108)
+, 162-179.
+Anesti, N., Cesa-Bianchi, A., Esady, V., Hjortsø, I., & Hong, S. (2026). Global to UK SVAR (Forthcoming).
+Bank of England Macro Technical Paper series
+.
+Bailey, A., Cesa-Bianchi, A., Garofalo, M., Harrison, R., McLaren, N., Piton, S., & Sajedi, R. (2022). Structural change, global R* and the missing-investment puzzle.
+The Official Monetary and Financial Institutions Forum.
+Bank of England. (1994).
+Bank of England Quarterly Bulletin: August 1994.
+Bank of England. (1994).
+Bank of England Quarterly Bulletin: November 1994.
+Bank of England Quarterly Bulletin. (2021).
+No economy is an island: how foreign shocks affect UK macrofinancial stability.
+Bernanke, B. S. (2004). The great moderation.
+Remarks at the meetings of the Eastern Economic Association, Washington DC, .
+Braun, R., Miranda-Agrippino, S., & Saha, T. (2025). Measuring monetary policy in the UK: The UK monetary policy event-study database.
+Journal of Monetary Economics 149
+.
+Burr, N., & Willems, T. (2024).
+About a rate of (general) interest: how monetary policy transmits.
+Bank of England Quarterly Bulletin.
+Carella, A., Chen, R., Dai, K., Li, G., Lama, R., & Meeks, R. (2024).
+Monetary Policy Issues in the UK.
+IMF Select Issues Papers.
+Cascaldi-Garcia, D. (2022). Pandemic Priors.
+International Finance Discussion Paper
+.
+Cesa-Bianchi, A., & Sokol, A. (2022). Financial shocks, credit spreads, and the international credit channel.
+Journal of International Economics 135
+.
+Chen, Q., Lombardi, M., Ross, A., & Zhu, F. (2017). Global Impact of US and Euro Area Unconventional Monetary Policies: A Comparison.
+BIS Working Paper No. 610
+.
+Clews, R., Panigirtzoglou, N., & Proudman, J. (2000). Recent developments in extracting information from options markets.
+Bank of England Quarterly Bulletin
+.
+De Rezende, R., & Ristiniemi, A. (2020). A shadow rate without a lower bound.
+Staff Working Paper No. 864
+.
+ECB - Monetary Policy Committee, Taskforce on Rate Forward Guidance and Reinvestment. (2022).
+Rate forward guidance in an environment of large central bank balance sheets: a Eurosystem stock-taking assessment.
+Forbes, K., Ha , J., & Kose, A. (2024).
+Rate Cycles.
+World Bank Working Paper.
+Hajek, J., & Horvath, R. (2018). International spillovers of (un)conventional monetary policy: The effect of the ECB and the US Fed on non-euro EU countries.
+Economic Systems 42 (1)
+.
+Jarociński, M., & Karadi, P. (2020). Deconstructing monetary policy surprises-The role of information shocks.
+American Economic Journal
+.
+Kucharčuková, O. B., Claeys, P., & Vašíček, B. (2016). Spillover of the ECB's monetary policy outside the euro area: How different is conventional from unconventional policy?
+Journal of Policy Modeling 38 (2)
+.
+Mann, C. L. (2022). UK monetary policy in the context of global spillovers.
+McLeay, M., & Tenreyro, S. (2026). Dollar Dominance and the Transmission of Monetary Policy.
+The Quarterly Journal of Economics 141
+.
+Miranda-Agrippino, S., & Nenova, T. (2022). A tale of two global monetary policies.
+Journal of International Economics 136
+.
+Rey , H. (2016). International Channels of Transmission of Monetary Policy and the Mundellian Trilemma.
+IMF Economic Review 64
+.
+Rey, H., & Miranda-Agrippino, S. (2022). The Global Financial Cycle.
+Handbook of International Economics (6)
+.
+Stock, J. H., & Watson, M. W. (2002). Has the Business Cycle Changed and Why?
+NBER Macroeconomics Annual
+.
+Stock, J. H., & Watson, M. W. (2018). Identification and estimation of dynamic causal effects in macroeconomics using external instruments.
+NBER Working Paper 24216
+.
+The Bretton Woods currency convertibility system was formally ended by the ratification of the Jamaica Accords in 1976.
+The “Lawson Boom” is a term used to describe the period of rapid economic growth in the UK in the late 1980s. Tax cuts and financial market deregulation contributed to a period of rapid economic growth and falling employment but also helped push RPI inflation to a peak of 10.9% in October 1990. In response the Bank of England’s base rate was increased by around 7.5 percentage points between mid-1988 and mid-1990.
+The Bank of England, and then the Fed, announcing large scale asset purchases in Iate-2008, which pushed US and UK shadow down in late 2008 and early 2009 respectively (see Figure 7), while the ECB began purchases later, pushing the ECB shadow rate down in the second quarter of 2012 (
+De Rezende & Ristiniemi, 2020
+).
+According to data sourced from the
+World Bank
+, global trade as a percentage of global GDP increased from an average of 39.6% over 1980-99 to 54.1% over 2000-09. Since then, global trade as percentage of global GDP has averaged 56.8%. Similarly, global net inflows of FDI as a percentage of global GDP increased from an average of 1.1% over 1980-99 to 3.2% over 2000-2009. Since then, global net inflows of FDI as a percentage of global GDP have averaged 2.3%.
+However, research has shown that this also depends on how flexible the prices of those exports priced in dollars are (
+McLeay & Tenreyro, 2026
+).
+16
+th
+December 2021 to 31
+st
+July 2024. Bank Rate was kept on hold at 5.25% from 3
+rd
+August 2023 to 1
+st
+August 2024.
+1
+st
+August 2024 to 5
+th
+January 2026.
+While monetary policy has loosened, long rates, which are often treated as the relevant discount factor for equities, have been rising over this period.
+For US and euro area monetary policy surprises I use the series produced by Miranda-Agrippino and Nenova (2022) who calculate changes in Federal Funds rate futures (the current- and next-month contract rate), Eurodollar futures (the next-quarter rate and the contract rates for each of the following two quarters), and Treasury bond yields (2, 5, and 10-year maturities). For the euro area, they use an equivalent set of contracts, namely, OIS rates at 1 and 3-month, and at 1, 2, 5 and 10-year maturities. The sample covers all announcements from January 1999 to March 2021 and makes use of data from Altavilla, Brugnolini, Gürkaynak, Motto, & Ragusa (2019)
+For the US we use 2-year and 10-year bond rates. For the euro area we use 2-year and 10-year German bond rates. All available on LSEG.
+Figures 15 and 16 show the impulse response functions (IRFs) of the seasonally adjusted CPI price level or level of GDP to a 100bps shock to 2 different interest rates (the 2-year and 10-year rates). These are derived from local projections models where 2- and 10-year rates are instrumented (via first-stage regressions) (
+Stock & Watson, 2018
+) with the monetary policy surprise factors of Miranda-Agrippino and Nenova (
+2022
+) which, as shown by Miranda-Agrippino and Nenova, are uncorrelated with each other and across jurisdictions. The first stage regressions are carried out by regressing the 2-year rates on the ‘Path’ and ‘Target’ factors along with 12 lags of each, and the 10-year rates on the ‘QE factor’. These factors are restricted to only include observations where there is a negative correlation between changes in equity prices and rates using the ‘poor man’ sign restrictions of Jarociński and Karadi (
+2020
+) to remove any ‘information’ effect. The IRFs are drawn from separate regressions in which CPI or GDP is regressed on the US or the euro area shocks. Either the 2-year or 10-year fitted values are included as the key explanatory variable along with the following control variables: UK GDP or CPI, UK 3-month rates (to control for UK monetary policy) US-UK or UK-EA exchange rates, US or EA industrial production and US CPI or euro area HICP, the oil price, and the S&P 500 or the EuroStoxx600. So, for example we regress UK seasonally adjusted CPI on the US 2-year fitted values (the predicted values from the first-stage regressions), UK 3-month rates, UK GDP, US-UK exchange rates, US 10-year rates, US industrial production, US CPI, the oil price, and the S&P 500. Each model is estimated using 6 lags of all variables. Confidence intervals are derived from Newey-West standard errors. The sample is from January 1997 (for the US models) or January 1999 (for the euro area models) to December 2019 in monthly frequency.
+As also found in previous work, such as
+Mann (2022
+).
+See
+Kucharčuková, Claeys, & Vašíček, (2016
+),
+Chen, Lombardi, Ross, & Zhu, (2017
+),
+Hajek & Horvath, (2018
+).
+The latter captures deviations in global financial conditions that are heavily influenced by developments in US financial markets (
+Rey & Miranda-Agrippino, 2022
+)
+The latter captures deviations in global financial conditions that are heavily influenced by developments in US financial markets (
+Rey & Miranda-Agrippino, 2022
+)
+Close
+See
+Kucharčuková, Claeys, & Vašíček, (2016
+),
+Chen, Lombardi, Ross, & Zhu, (2017
+),
+Hajek & Horvath, (2018
+).
+Close
+As also found in previous work, such as
+Mann (2022
+).
+Close
+Figures 15 and 16 show the impulse response functions (IRFs) of the seasonally adjusted CPI price level or level of GDP to a 100bps shock to 2 different interest rates (the 2-year and 10-year rates). These are derived from local projections models where 2- and 10-year rates are instrumented (via first-stage regressions) (
+Stock & Watson, 2018
+) with the monetary policy surprise factors of Miranda-Agrippino and Nenova (
+2022
+) which, as shown by Miranda-Agrippino and Nenova, are uncorrelated with each other and across jurisdictions. The first stage regressions are carried out by regressing the 2-year rates on the ‘Path’ and ‘Target’ factors along with 12 lags of each, and the 10-year rates on the ‘QE factor’. These factors are restricted to only include observations where there is a negative correlation between changes in equity prices and rates using the ‘poor man’ sign restrictions of Jarociński and Karadi (
+2020
+) to remove any ‘information’ effect. The IRFs are drawn from separate regressions in which CPI or GDP is regressed on the US or the euro area shocks. Either the 2-year or 10-year fitted values are included as the key explanatory variable along with the following control variables: UK GDP or CPI, UK 3-month rates (to control for UK monetary policy) US-UK or UK-EA exchange rates, US or EA industrial production and US CPI or euro area HICP, the oil price, and the S&P 500 or the EuroStoxx600. So, for example we regress UK seasonally adjusted CPI on the US 2-year fitted values (the predicted values from the first-stage regressions), UK 3-month rates, UK GDP, US-UK exchange rates, US 10-year rates, US industrial production, US CPI, the oil price, and the S&P 500. Each model is estimated using 6 lags of all variables. Confidence intervals are derived from Newey-West standard errors. The sample is from January 1997 (for the US models) or January 1999 (for the euro area models) to December 2019 in monthly frequency.
+Close
+For the US we use 2-year and 10-year bond rates. For the euro area we use 2-year and 10-year German bond rates. All available on LSEG.
+Close
+For US and euro area monetary policy surprises I use the series produced by Miranda-Agrippino and Nenova (2022) who calculate changes in Federal Funds rate futures (the current- and next-month contract rate), Eurodollar futures (the next-quarter rate and the contract rates for each of the following two quarters), and Treasury bond yields (2, 5, and 10-year maturities). For the euro area, they use an equivalent set of contracts, namely, OIS rates at 1 and 3-month, and at 1, 2, 5 and 10-year maturities. The sample covers all announcements from January 1999 to March 2021 and makes use of data from Altavilla, Brugnolini, Gürkaynak, Motto, & Ragusa (2019)
+Close
+While monetary policy has loosened, long rates, which are often treated as the relevant discount factor for equities, have been rising over this period.
+Close
+1
+st
+August 2024 to 5
+th
+January 2026.
+Close
+16
+th
+December 2021 to 31
+st
+July 2024. Bank Rate was kept on hold at 5.25% from 3
+rd
+August 2023 to 1
+st
+August 2024.
+Close
+However, research has shown that this also depends on how flexible the prices of those exports priced in dollars are (
+McLeay & Tenreyro, 2026
+).
+Close
+According to data sourced from the
+World Bank
+, global trade as a percentage of global GDP increased from an average of 39.6% over 1980-99 to 54.1% over 2000-09. Since then, global trade as percentage of global GDP has averaged 56.8%. Similarly, global net inflows of FDI as a percentage of global GDP increased from an average of 1.1% over 1980-99 to 3.2% over 2000-2009. Since then, global net inflows of FDI as a percentage of global GDP have averaged 2.3%.
+Close
+The Bank of England, and then the Fed, announcing large scale asset purchases in Iate-2008, which pushed US and UK shadow down in late 2008 and early 2009 respectively (see Figure 7), while the ECB began purchases later, pushing the ECB shadow rate down in the second quarter of 2012 (
+De Rezende & Ristiniemi, 2020
+).
+Close
+The “Lawson Boom” is a term used to describe the period of rapid economic growth in the UK in the late 1980s. Tax cuts and financial market deregulation contributed to a period of rapid economic growth and falling employment but also helped push RPI inflation to a peak of 10.9% in October 1990. In response the Bank of England’s base rate was increased by around 7.5 percentage points between mid-1988 and mid-1990.
+Close
+The Bretton Woods currency convertibility system was formally ended by the ratification of the Jamaica Accords in 1976.
+Close
+Convert this page to PDF
+Megan Greene
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

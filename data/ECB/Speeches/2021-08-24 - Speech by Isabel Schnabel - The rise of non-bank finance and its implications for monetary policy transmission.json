@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The rise of non-bank finance and its implications for monetary policy transmission",
+  "date_original": "2021-08-24",
+  "date_au": "24/08/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210824~9ab47b501b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-08-24 - Speech by Isabel Schnabel - The rise of non-bank finance and its implications for monetary policy transmission.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-08-24 - Speech by Isabel Schnabel - The rise of non-bank finance and its implications for monetary policy transmission.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c721fdc3a8d2b512771e427d5d5fc372b8e0dc4c5a846e5e39284aea9165247a"
+}

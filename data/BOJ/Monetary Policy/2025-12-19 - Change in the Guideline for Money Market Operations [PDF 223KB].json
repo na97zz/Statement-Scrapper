@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "Change in the Guideline for Money Market Operations [PDF 223KB]",
+  "date_original": "2025-12-19",
+  "date_au": "19/12/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k251219a.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2025-12-19 - Change in the Guideline for Money Market Operations [PDF 223KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2025-12-19 - Change in the Guideline for Money Market Operations [PDF 223KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bcef45990da1895de03cb336cb4fdb17e4155df51f3f4b6def60afdea7968e4e"
+}

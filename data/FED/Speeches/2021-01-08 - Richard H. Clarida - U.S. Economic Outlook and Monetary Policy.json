@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "U.S. Economic Outlook and Monetary Policy",
+  "date_original": "2021-01-08",
+  "date_au": "08/01/2021",
+  "datetime_original": "",
+  "speaker": "Richard H. Clarida",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/clarida20210108a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-01-08 - Richard H. Clarida - U.S. Economic Outlook and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-01-08 - Richard H. Clarida - U.S. Economic Outlook and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f77c6fefbabce4facdc5adf93746a8436c5a53692d852431f1f7bb0c9f34e76f"
+}

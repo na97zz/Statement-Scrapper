@@ -1,0 +1,1558 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: UK inflation: What's done and what's to come - speech by Jonathan Haskel
+DATE: 01/06/2024
+SPEAKER: Jonathan Haskel
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/july/uk-inflation-whats-done-and-whats-to-come-speech-by-jonathan-haskel.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+ 
+ 
+UK inflation: What's done and 
+what's to come – speech by 
+Jonathan Haskel 
+Given at King’s College London with the Economic Statistics Centre of 
+Excellence (ESCoE) 
+08 July 2024 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech 
+I am delighted to be at the Economic Statistics Centre of Excellence (ESCoE) today. 
+Economic measurement is central to good decision-making. But it’s difficult and I applaud 
+the key contributions that ESCoE continues to make in this very challenging area.  
+As I’m in the last eight weeks of my time on the Monetary Policy Committee, I want to talk 
+about our key concern: UK inflation. I’ll try to look at the past and future of inflation: what’s 
+done, and what’s to come.  
+To address these questions, we will need a model. Now, economic models get a bad 
+press and the Bank recently commissioned a review of economic forecasting from Ben 
+Bernanke. So why am I using a model? We’ll need to measure lots of concepts and 
+understand their inter-relationships. Economic models, and the measurement that 
+underpins them, can help us map this complicated system and make real-time decisions. 
+In this speech I draw on ongoing research work to implement for the UK the model of 
+inflation, wages and expectations developed by Olivier Blanchard and Ben Bernanke 
+(unrelated to the Bernanke review, on which more later) which was also applied by various 
+central banks to study post-pandemic inflation.1 This is joint work with Josh Martin and 
+Lennart Brandt that I spoke about in November 2023, and today will update those results 
+and develop them.  
+As I reflect on six years on the MPC, and the current situation, I find I have a lot to say! So, 
+with apologies for a long speech, let me try to be up front about my two main points. 
+First, on the inflation outlook: there are considerable encouraging signs, most notably 
+from normalising inflation expectations and a (spoiler: temporary) return of headline 
+inflation to target in May 2024. However, the wage-price system in the UK has been 
+subject to a sequence of enormous shocks over recent years. The playing out of those 
+shocks through the economy, and the continued tight and impaired labour market, means 
+that inflation will remain above target for quite some time. I would rather hold rates until 
+there is more certainty that underlying inflationary pressures have subsided sustainably. 
+Second, on Central Bank credibility: learning from history, the upward burst of inflation 
+in the 1970s and post-pandemic were caused by broadly the same factors: massive, 
+unexpected rises in imported commodity prices. But the post-peak trajectories were very 
+ 
+1 The initial paper for the US is Bernanke and Blanchard (2023) and the subsequent paper comparing across 
+countries is Bernanke and Blanchard (2024). The application of their model to the UK is set out in Haskel, 
+Martin and Brandt (2023) and we were thereby able to contribute to the international work. I am very grateful 
+to Olivier Blanchard and Ben Bernanke and research teams in other central banks for the chance to work 
+together. 
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+different: inflation was much more persistent in the 1970s, due to unanchored price 
+expectations and inflexible labour markets, than it has been so far for the recent inflation. 
+The lesson of this comparison is, in my view, that Central Bank credibility is an incredibly 
+valuable (intangible) asset. The independence of the Central Bank is important, but assets 
+need investment to maintain their value. The way the Bank of England invests in credibility 
+is by doing and communicating good economics.  
+Along the way, I’ll try to answer some other questions. 
+1. What caused the pandemic-era inflation? There is little consensus on this 
+question, and commentators hold diametrically opposed views. Some say the Bank 
+did “too little” and were “behind the curve” in 2021. Others say the Bank has done 
+“too much”, and CPI inflation of 2.0% in May 2024 proves it. Still others blame 
+“greedflation”. Rather than conjecture, I’ll use the Bernanke-Blanchard model to try 
+to answer this debate. 
+2. Why was the 1970s so different? Those interested in the more technical aspects 
+will know that the Bernanke-Blanchard model has been applied successfully in a 
+range of countries, as summarised in Bernanke and Blanchard (2024). Another test 
+of the model is to apply it to the past. I’ll show some initial results from applying the 
+Bernanke-Blanchard model to the UK since the 1970s. These will help understand 
+changes in the inflation process in the UK over time. 
+3. How do you make policy in real-time? I will reflect on the challenges of making 
+policy in real time, in the presence of uncertainty. Recent revisions to the data on 
+unemployment from the Labour Force Survey provide a case study about the 
+importance of economic measurement for policymaking. I remain concerned about 
+an impaired labour market, albeit less so than before following data revisions. 
+A model of inflation, wages and price expectations 
+Let me start by summarising the model of inflation, wages and expectations developed in 
+Bernanke and Blanchard (2023), applied to the UK. This section draws heavily on a 
+speech in November 2023 and the accompanying paper Haskel, Martin and Brandt 
+(2023), those familiar with this might care to skip to the next section with updated results.2 
+The model consists of four equations, which can be conveniently thought about in 
+sequence, as illustrated in Chart 1.3 Following Chart 1 from left to right, the blocks show 
+each of the four equations: 
+ 
+2 The Bernanke and Blanchard framework is simple and transparent and follows a rich tradition of evidence on 
+wage-price interactions. See footnote 9 for references. 
+3 The model is a semi-structural model of wage and price determination which can be written as a structural 
+VAR with additional theory-consistent parameter restrictions. The wage equation is identified by including only 
+ 
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+1. Wage inflation is determined by past wage inflation, short-run inflation 
+expectations, labour market tightness (measured by the vacancies-to-
+unemployment ratio in practice), productivity growth, and a “catch-up” term. The 
+dependence on past wage inflation captures some inertia or “stickiness” in wage 
+setting, while the “catch-up” term relates to real wage resistance and the desire of 
+workers to recoup unexpected real wage losses. 
+2. Price inflation is determined by past price inflation, wage inflation, energy price 
+growth, food price growth, shortages, and productivity. Energy and food prices are 
+relative to wages (as a proxy for domestic price pressures). 
+3. Long-run inflation expectations depend on past long-run expectations and actual 
+price inflation. If the role of actual inflation here is small, then it can be said that 
+long-run expectations are well-anchored, since they will respond little to fluctuations 
+in actual inflation. 
+4. Short-run inflation expectations depend on past short-run expectations, long-run 
+inflation expectations, and actual price inflation. There is, in effect, a balance 
+between anchoring to long-run expectations and deviations induced by actual 
+inflation. 
+Chart 1: Structure of the Bernanke-Blanchard (2023) empirical model
+Source: Bernanke and Blanchard (2024), Figure 1. 
+ 
+To illustrate the model, imagine an energy price shock which pushes up price inflation – 
+that is, a permanent rise in the price level of energy, but a one-off rise in inflation. This 
+ 
+lagged independent variables, and the other endogenous variables (price inflation, and inflation expectations) 
+can be written in a causal chain starting with wages. The equations are estimated separately, and the model 
+is solved recursively. 
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+affects short-run and long-run price expectations, which in turn affect wage growth in two 
+ways – first, if workers now have higher inflation expectations they may push for higher 
+wages; second, workers may try to recoup the real income losses brought on by the 
+unexpectedly high price inflation. If wages are higher, that pushes up inflation, and so the 
+cycle continues. 
+The long-run consequences of a price shock in the model depend on the various 
+parameters in the equations. Two types of economy can be described using Chart 2, 
+which is drawn from Bernanke and Blanchard (2023), and based on a stylised version of 
+the model. The left-hand panel describes the response of inflation to a permanent increase 
+in the price level (or one-period upward shock to inflation), and the right-hand panel to a 
+permanent increase in labour market tightness. Imagine that inflation starts at steady-state 
+(which might be at target) and these shocks move inflation away from steady-state – the 
+chart plots the response of inflation to the shock, rather than the resultant level of inflation. 
+Chart 2: Theoretical model response to shocks in two types of economy
+Source: Bernanke and Blanchard (2023), Figures 1 and 2. 
+Notes: The chart shows the response of quarterly inflation to a permanent shock to the price level (left panel) 
+and a permanent increase in labour market tightness (right panel), under alternative parameter choices. The 
+blue lines show an economy characterised as “Weak feedback”, which has well-anchored inflation 
+expectations and little ‘catch-up’ (𝛼=0.2, 𝛿=0.9, 𝛾=0.95). The red lines show an economy characterised as 
+“Strong feedback”, which has weakly-anchored inflation expectations and strong ‘catch-up’ (𝛼=0.6, 𝛿=0.7, 
+𝛾=0.9). 𝛼=elasticity of wage growth to catch-up, 𝛿=weight on long-run inflation expectations in short-run 
+inflation expectations equation, 𝛾=weight on long-run inflation expectations in long-run inflation expectations 
+equation. 
+ 
+Starting with the left-hand panel, the blue economy is one with well-anchored inflation 
+expectations and little real wage resistance (catch-up). While a price shock initially raises 
+inflation, the effect wears off quickly, and after a year inflation is no higher than it was 
+before (i.e. the graph is back to zero, so inflation is essentially back to its steady-state 
+level). In the language of the model, the coefficients on current inflation in the expectations 
+Response of inflation to a permanent shock to the price 
+level, alternative parameter choices
+Response of inflation to a permanent increase in labour 
+market tightness, alternative parameter choices
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Percentage change to previous level
+Quarter
+Weak feedback
+Strong feedback
+0.5
+0.75
+1
+1.25
+1.5
+1.75
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Percentage change to previous level
+Quarter
+Weak feedback
+Strong feedback
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+equations are low (so expectations are well-anchored), and the coefficient on catch-up in 
+the wage equation is low (so there is little real wage resistance). 
+The red economy is one with weakly-anchored inflation expectations and high real wage 
+resistance. In this economy, a price shock leads to an initial burst of inflation directly, but 
+persistently higher inflation forever (assuming no other changes in the exogenous 
+variables). This is because expectations become de-anchored (are permanently higher), 
+which leads to permanently higher wage growth and so permanently higher price inflation. 
+In the red economy, the coefficients on current inflation in the expectations equations are 
+high, and the coefficient on catch-up in the wage equation is high, so the degree of 
+second-round effects is large. Of course, an inflation-targeting central bank would likely 
+respond by increasing rates, cooling the economy, and returning inflation to target. Chart 2 
+suggests this job would be harder in a ‘red’ economy. 
+Turning to the right-hand panel, a similar result emerges. A permanent increase in labour 
+market tightness leads to far higher inflation in the red economy (with weakly anchored 
+expectations and strong real wage resistance) than in the blue economy (with well-
+anchored expectations and little real wage resistance). Note that in both cases, inflation 
+continues to rise forever, since a permanently tighter labour market sets off a wage-price 
+spiral of higher wage growth, higher inflation, higher expectations, higher wage growth, 
+and so forth. The extent of this spiral is less severe in the blue economy than the red. 
+Again, in reality, inflation-targeting central banks would not allow the labour market to be 
+permanently tighter forever. 
+As the model shows, what then is crucial is both the extent of real wage resistance, 
+captured here by the extent of “catch up”, and the anchoring of inflation expectations. We 
+may perhaps think of the first as related to labour market flexibility and/or the institutional 
+arrangements within labour markets, most obviously indexation of wages. The second may 
+be thought of as the institutional arrangements around monetary policy, most obviously the 
+independence and reputation of the central bank, though independence alone is likely 
+insufficient.4 We may now apply this model to answer a number of questions. 
+Applying the model to the present 
+Chart 3 shows the results of this model applied to the latest data. The chart shows a 
+decomposition of annual UK CPI inflation5 (black line) into its proximate drivers identified in 
+the Bernanke-Blanchard model (the various coloured bars). This is an update of the chart I 
+ 
+4 An overview of theory and evidence on central bank independence and how it helps credibility, particularly 
+over time, is to be found in Bernanke (2010) and a 2024 blog by the White House Council of Economic 
+Advisers. 
+5 The model is estimated on quarter-on-quarter annualised seasonally adjusted variables, but for easier 
+interpretation I have converted the results into annual inflation. The quarterly equivalent of Chart 3 is in the 
+Appendix. More detail of the data, model and methods can be found in Haskel, Martin and Brandt (2023). 
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+showed in a speech in November 2023, with the model now estimated on data up to 
+2024 Q1. The coefficients in the model are little changed.6 
+Chart 3: Decomposition of annual UK inflation, 2020 Q1 to 2024 Q1
+Source: Author’s calculations, update of Haskel, Martin and Brandt (2023). 
+Notes: “Initial conditions” reflect the model response under hypothetical conditions where V/U remains at the 
+level in 2019 Q4, relative food and energy price changes are pre-pandemic averages, shortages are at 
+‘normal’ pre-pandemic levels, and productivity growth is 0.5% per year in line with post-2007 averages. The 
+dynamic effects of two dummies for the pandemic period are removed. See Haskel (2023) and Haskel, 
+Martin and Brandt (2023) for details and discussion. Inflation is annual inflation, based on a transformation 
+of quarterly inflation, on which the model is fitted. Equivalent quarterly chart in the Appendix. 
+ 
+Following Bernanke and Blanchard (2023), this decomposition is produced by simulating 
+the model under different information sets and comparing the results.7 The further one 
+gets from the jumping-off point of 2019 Q4, the less precise the model estimates will be. 
+Overall, the model fits the data remarkably well, though at quarterly frequency the match is 
+not quite as good in recent quarters (see quarterly chart in the appendix). 
+ 
+6 Two changes since my November 2023 speech and associated paper are 1) we now use the Global Supply 
+Chain Pressure Index (GSCPI), published by the Federal Reserve Bank of New York, as a measure of 
+shortages; and 2) we now seasonally adjust the energy price data. The impacts of both changes are small. 
+7 The model is given outturn data for all periods up to 2019 Q4 inclusive. Then, the model is simulated quarter 
+by quarter. The prediction of the full model uses the outturn data of all the exogenous variables but the past 
+model estimates of the endogenous variables (wage growth, price inflation, and short-run and long-run inflation 
+expectations) rather than their outturns. To decompose the model prediction into the role of each of the 
+exogenous variables, we set each of the exogenous variables in turn to a counterfactual value (as in the ‘initial 
+conditions’), and re-simulate the model, giving alternative predictions for all the endogenous variables. The 
+difference between the full dynamic model prediction and this partial model outcome is the contribution of the 
+particular exogenous variable to the endogenous variable outcome. This contribution covers both direct and 
+indirect effects via other endogenous variables. 
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+So, what caused UK inflation over this period? Looking at the whole period, the “initial 
+conditions” (grey) bars represent the model estimate of what inflation would have been 
+had the economy remained in its pre-pandemic condition and no further shocks had 
+occurred. Since the UK labour market was tight at the end of 2019 (the V/U ratio was 
+high), and assuming it would stay that way for 4 years, the model predicts a gradual 
+increase in wage growth and price inflation, consistent with the right-hand panel of Chart 2. 
+It is of course impossible to know what would have happened absent the pandemic, but it 
+seems unlikely that the Bank of England would not have responded to cool the labour 
+market.8 
+Turning to the post-2020 drivers of UK inflation, and proceeding chronologically, what 
+caused the rise in inflation in 2021 as the economy recovered from the pandemic? The 
+initial increases in inflation in 2021 were driven by energy prices (dark blue bars) and 
+shortages (yellow bars). As seen in Chart 2, such price shocks would be transitory in an 
+economy with well-anchored expectations and little real wage resistance (the blue 
+economy). The UK in the inflation-targeting era is such an economy, as we’ll explore in 
+more detail later (Charts 5-7). Thus, the model says that the MPC was right to think about 
+these initial price shocks as transitory. 
+However, in late-2021 and early-2022, two important things changed. First, the labour 
+market quickly tightened (V/U increased) and began to put upward pressure on inflation 
+(red bars). As Chart 2 showed, labour market tightness has persistent inflation effects, 
+even in an economy with well-anchored expectations. In Chart 2, which is a decomposition 
+of annual inflation, the red bars only appear positive from 2022 Q2. But in quarterly 
+inflation (Chart A in the Appendix) labour market tightness started pushing up on inflation 
+(via wages) in 2021 Q4, immediately after the end of the furlough scheme at the end of 
+September 2021.9 
+Second, the price shocks continued and intensified, with larger energy price shocks 
+following Russia’s invasion of Ukraine, and an emerging food price shock (light blue bars). 
+The repeated and large nature of these shocks increased the risk of the de-anchoring of 
+expectations, and introduced a role for inertia. Recall that in the model, inflation depends 
+on past inflation – that is, inflation is sticky. High inflation, no matter what the cause, risks 
+ 
+8 Interestingly, in the cross-country work described in Bernanke and Blanchard (2024) (see their Figure 8), 
+the importance of these starting conditions seems only relevant in the UK: in the US, Japan and the Euro Area, 
+initial conditions in 2019 Q4 seemed consistent with target inflation. Haskel, Martin and Brandt (2023) note 
+that the MPC judged the UK labour market to be “tight” in late 2019 and early 2020. 
+9 The furlough scheme closed on 30 September 2021, with one million jobs still furloughed at the end. The 
+lags in the official labour market data meant we didn’t know whether this would translate to a spike in 
+unemployment until 14 December. Meanwhile Omicron was designated a Covid-19 “variant of concern” by the 
+WHO on 26 November, there were Omicron cases in the UK from 27 November, a new vaccine booster 
+program announced on 30 November, work from home guidance re-introduced on 13 December, and a major 
+incident declared in London on 18 December. In the face of all of that, the MPC raised rates on 16 December. 
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+becoming embedded if it persists for too long. In my view, the Bank of England was right to 
+raise interest rates in late 2021, the first major central bank to do so.10 
+Finally, what about inflation in 2023? As Chart 3 shows, headline CPI inflation is falling 
+sharply, driven by falling energy prices (the negative blue bars). In the data for May 2024, 
+the latest release, annual UK CPI inflation was 2.0%. This is excellent news, but as the 
+effects of energy prices and base effects fade, the May MPR forecast is for inflation to 
+rebound and peak at around 2.6% in late-2024 and early-2025, before falling to the 2% 
+target in early-2026. I view this shape to the inflation forecast as a feature, not a bug. 
+Crucially, it reflects that underlying inflation is persistent and declining more slowly, with 
+headline inflation pushed around by volatile energy and base effects. 
+To summarise, the model suggests the initial burst in inflation in 2021 and the subsequent 
+rise in 2022 was driven mostly by external shocks (energy and food prices and shortages). 
+The subsequent fall has been driven by the unwinding of these shocks, but the labour 
+market has remined tight and policy has rightly leaned against this. 
+Some other accounts of the pandemic-era inflation 
+This is quite a different narrative to some others. The “greedflation” theory is that inflation 
+was caused by firms profiteering and raising their mark-ups. While there may be variation 
+across firms, products and industries, there is no evidence for this in aggregate in the UK, 
+at least that I can discern in official data (see Haskel, 2023). The level of corporate profits 
+has increased, but so too has the level of wages and the level of prices. As a share of total 
+national income, profits have remained largely the same. 
+Another theory is that the inflation of summer 2021 could have been detected, and acted 
+upon sooner, had the Bank based policy on money supply growth which rose sharply in 
+late 2020 and 2021. The money supply and inflation have a theoretically and empirically 
+strong relationship at very low frequencies of 20-80 years, with a correlation coefficient of 
+around 0.8. However, as Box B in the May 2024 Monetary Policy Report makes clear, 
+this relationship breaks down at higher-frequencies (2-8 years), and money growth has not 
+proved a reliable short-run indicator of inflation in the UK – indeed, the correlation at 
+higher-frequencies is weakly negative over the past 80 years, around -0.1 (Chart A, Box B, 
+May 2024 MPR). 
+Finally, it has been argued that since inflation expectations are well-anchored, and since 
+CPI inflation was 2.0% in May 2024, the Bank need not have raised rates at all. My view is 
+ 
+10 The Bank of England raised rates in December 2021, and started quantitative tightening (QT) in February 
+2022. The Federal Reserve’s tightening cycle began in March 2022, also ending quantitative easing (QE) at 
+the same time, and beginning QT in June 2022. The Riksbank tightening started in May 2022, ceasing QE in 
+April 2022 and starting QT later in the year, while the ECB tightening began in July 2022 and QT started in 
+March 2023. 
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+that this confuses cause and effect. I would argue that inflation expectations have stayed 
+well-anchored precisely because the MPC responded to above-target inflation by raising 
+interest rates. 
+Applying the model to the past 
+So far, I’ve described the pandemic-era inflation, but what of the past? The 1970s was a 
+period of high energy shocks and enduring inflation. Can the model tell us then how the 
+UK inflation process has changed over time? 
+A history of shocks 
+It is first worth noting that the large price shocks faced in the UK (and euro area) in recent 
+years are not without historical parallel. Chart 4 shows UK inflation since 1950 and the 
+associated changes in energy prices. Energy prices here include household energy bills of 
+electricity and natural gas (and some solid fuels), as well as fuels for transportation (petrol 
+and diesel), and account for the changing mix over time. As the chart shows, energy price 
+shocks are common. The 1974 and 1979 shocks show up clearly. The shock in 2022 was 
+larger at its peak than the shocks of the 1970s, though perhaps more short-lived. 
+Chart 4: UK inflation and energy contributions, 1950 to 2023 
+Source: ONS, author’s calculations. 
+Notes: CPI components used since 1989, RPI components used prior to 1989 in the absence of CPI data for 
+earlier periods. Given limited breakdowns in historic RPI data, the energy inflation rates and contributions 
+should be seen as indicative only. 
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+Chart 4 also shows UK inflation. Here the difference between the pandemic era and the 
+1970s era is notable. Just before the 1974 oil price shock UK inflation was already near 
+10%. Following that shock it rose to almost 25%, and even though the shock wore away, 
+inflation only dropped to 7% by 1978. By contrast, the pandemic era shock, which was 
+much larger, started with inflation at around 1% in 2020. It then rose to 11% but fell rapidly 
+and in December 2023 had gone down to 4%. 
+Why were the 1970s so different?  
+Why, then, does the response of inflation to an energy price shock in the modern economy 
+differ to that of the 1970s economy?11 
+To answer this, we have tried to fit the Bernanke-Blanchard model to UK data dating back 
+to the 1960s. Full details are in a technical appendix. Naturally, working with historical data 
+presents challenges. Many of the variables that we rely on are not available on an entirely 
+consistent basis historically, though excellent work by Ryland Thomas and colleagues, as 
+part of an ESCoE project, has developed the “Millenium of macroeconomic data” which 
+is a fantastic resource and made our lives much easier. Despite this, there is no reliable 
+series for long-run inflation expectations earlier than 1985 in the UK, and so we have 
+modelled a backseries. I should therefore emphasise that this is a work in progress, and 
+should be interpreted as indicative only. 
+To understand the possible changes in the model and the economy over time, we estimate 
+the model using three 30-year windows. The first such window is 1967-1997, broadly the 
+period before inflation targeting in the UK. Thus, we can contrast the economy as to how it 
+looked during the era of the 1970s energy shocks, with how it looks in the modern era. 
+Chart 5 shows the estimated response in the model to an energy price shock, based on 
+three estimation windows: 1967-1997 (red), 1977-2007 (orange), and 1989-2019 (blue). 
+These are broadly speaking: a pre-inflation targeting era, a transition era, and the modern 
+era. The first panel shows the response to inflation in quarter-on-quarter annualised space, 
+then second panel in annual inflation space, and the third panel in price level space. Recall 
+that the theoretical model responses in Chart 2 were on quarter-on-quarter inflation, which 
+correspond to the first panel of Chart 5. The second and third panel of Chart 5 are simply 
+transformations of the quarter-on-quarter inflation response, to aid in understanding. As in 
+Chart 2, imagine that inflation was at steady-state (e.g. at target) before the shock, so 
+Chart 5 shows the response of inflation to the shock (e.g. deviation from steady-state). 
+The shock is a one-period energy price inflation shock – that is to say, the level of energy 
+prices goes up unexpectedly in period 0 and stays up. The shock is calibrated to be 1pp 
+ 
+11 There is much excellent work in this space already, including on real wage resistance effects as analysed 
+by, for example, Bruno and Sachs (1985), Layard, Nickell and Jackman (2005), and Newell and Symons 
+(1987): see Bean (1994) for a survey. See also Blanchard and Gali (2007). 
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+on quarter-on-quarter annualised inflation on impact (in period 1) in all estimation periods 
+for comparability. Importantly these estimated model responses assume no other shocks 
+to the exogenous variables. These are, in effect, the impulse response functions of the 
+model to a single shock in isolation. 
+The model seems to capture the stylised story for the 1970s pretty well. In all the panels of 
+Chart 5 the red line (highest line on all charts) shows a persistent response of inflation to a 
+one-off energy shock. The model estimated on 1967-97 data (red line, at the top) is in 
+striking contract with the model estimated on 1989-2019 data (blue line, at the bottom). 
+The model covering the 1970s inflation episode (the red line, estimated on 1967-97 data) 
+looks very much like the red line from the simulated model in Chart 2. Recall that in  
+Chart 2, the hypothetical economy with a persistent inflation response to shocks was an 
+economy with weakly anchored expectations and strong real wage resistance. In this 
+economy, a price shock (such as an energy price shock) leads to permanently higher 
+inflation. By contrast, the model estimated on 1989-2019 data (blue line) looks like the 
+‘blue’ economy from Chart 2 – the energy price shock causes temporary inflation, but no 
+long-run effect on inflation. The model estimated on 1977-2007 data (orange line), the 
+intermediate period, follows an intermediate path. 
+Chart 5: Response of inflation to a one-period energy price shock, different 
+estimation windows 
+ 
+Source: Author’s calculations, based on Haskel, Martin and Brandt (2023) and Bernanke and Blanchard 
+(2023). 
+Notes: First panel shows the response of quarter-on-quarter annualised inflation to a one-period energy price 
+shock, calibrated to have a 1pp effect on quarter-on-quarter annualised inflation on impact. Second panel 
+shows the response of annual inflation. Third panel shows the response of the price level. Coloured lines in 
+each panel reflect different estimation periods: 1967-1997 (red), 1977-2007 (orange), 1989-2019 (blue). 
+-0.6
+-0.4
+-0.2
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1
+3
+5
+7
+9
+11 13 15
+Quarter-on-quarter 
+annualised inflation
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+1
+3
+5
+7
+9
+11 13 15
+Annual inflation
+1967-1997
+1977-2007
+1989-2019
+100.0
+100.5
+101.0
+101.5
+102.0
+102.5
+103.0
+103.5
+104.0
+104.5
+105.0
+0
+2
+4
+6
+8 10 12 14 16
+Price level
+
+
+Bank of England  
+ 
+ Page 13 
+ 
+Chart 6 is equivalent to Chart 5 but for a labour market tightness shock – a permanently 
+higher level of V/U. Again, it is clear that the earlier periods had less well-anchored 
+expectations – a permanently tighter labour market leads to a wage-price spiral  
+(ever-increasing inflation) which is much more aggressive in the earlier periods than the 
+modern era. 
+Chart 6: Response of inflation to a permanent labour market tightness shock, 
+different estimation windows 
+  
+Source: Author’s calculations, based on Haskel, Martin and Brandt (2023) and Bernanke and Blanchard 
+(2023). 
+Notes: First panel shows the response of quarter-on-quarter annualised inflation to a permanent labour 
+market tightness shock (V/U permanently higher by 0.1). Second panel shows the response of annual 
+inflation. Third panel shows the response of the price level. Coloured lines in each panel reflect different 
+estimation periods: 1967-1997 (red), 1977-2007 (orange), 1989-2019 (blue). 
+ 
+Examining the coefficients in the estimated equations gives some insight into these 
+differences. Chart 7 shows the sum of coefficients on catch-up in the wage equation, 
+actual inflation in the short-run expectations equation, and actual inflation in the long-run 
+expectations equation, for the three estimation periods. Catch-up (real wage resistance) 
+appears to have been important in the 1967-1997 period, but not in the later periods. 
+Expectations were more responsive to actual inflation in the earlier periods, but much less 
+so in the modern era. It appears then that the UK economy has transitioned from a ‘red’ 
+economy to a ‘blue’ economy – with stronger anchoring of inflation expectations, and 
+weaker real wage resistance. That means that price shocks today should have less  
+long-lasting effects on inflation that they would have had in the past. 
+ 
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+1
+3
+5
+7
+9
+11 13 15
+Quarter-on-quarter 
+annualised inflation
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+1
+3
+5
+7
+9
+11 13 15
+Annual inflation
+1967-1997
+1977-2007
+1989-2019
+100
+120
+140
+160
+180
+200
+220
+0
+2
+4
+6
+8
+10 12 14 16
+Price level
+
+
+Bank of England  
+ 
+ Page 14 
+ 
+Chart 7: Selected coefficients from Bernanke-Blanchard model, different estimation 
+periods
+ 
+Source: Author’s calculations, based on Haskel, Martin and Brandt (2023) and Bernanke and Blanchard 
+(2023). 
+Notes: The coefficients given in the notes to Chart 2 related to a stylised version of the model, with several 
+differences to the empirical model which underlies the empirical results in Chart 7 and other charts. Coloured 
+bars reflect different estimation periods: 1967-1997 (red), 1977-2007 (orange), 1989-2019 (blue). 
+ 
+This is very good news for policymakers. It suggests that the economic costs of bringing 
+down inflation, in the form of higher unemployment and lower economic output, might be 
+less today than they were in the past. Indeed, as found in Blanchard and Galí (2007), real 
+wage rigidities lead to a trade-off between stabilising inflation and closing the output gap. 
+The simulations in Charts 5 and 6 suggest that a shock of a given size leads to less 
+inflation today than in the past. In other words, second-round effects today are smaller 
+than in the past – in the language of the model, that’s because catch-up effects are smaller 
+and/or inflation expectations are now more well-anchored.12 
+However, this statistical model cannot tell us why this is the case – there is nothing causal 
+here.13 Most likely is that inflation expectations are better anchored because of a credible 
+inflation targeting regime and an independent central bank (see a little more discussion in 
+the concluding section). It could also be that policymakers are (or perceived to be) more 
+willing to act as required to achieve price stability. 
+Crucially though, the fact that inflation expectations seem well-anchored does not mean 
+policymakers should do nothing in response to price shocks. Rather, the model identifies, 
+from past relationships in the data, the reaction of inflation to price shocks conditional on 
+ 
+12 It is not easy to disentangle these effects, but it is an interesting question which of the two are more important 
+here. 
+13 Of course, it is important to note that there are other differences in the UK and global economies since the 
+1970s, including the transformation of supply chains and use of oil and gas. Some of these differences will be 
+picked up in the data and the coefficients, others will not. 
+-0.04
+-0.02
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.16
+Catch-up in wage equation
+Current inflation in short-run
+expectations equation
+Current inflation in long-run
+expectations equation
+67-97
+77-07
+89-19
+
+
+Bank of England  
+ 
+ Page 15 
+ 
+past reactions of policy. If expectations react little to inflation in the estimation period, that 
+will largely be because of the reaction (and expected reaction) of monetary policy to 
+inflation over that period. If monetary policy today were not to react to inflation, in contrast 
+to the past, then outcomes could be quite different.  
+It should also be noted that monetary and fiscal policy, both domestic and global, are 
+effectively in the model, but not easily identifiable. Increases in energy and food prices 
+could be due to expansions in aggregate demand (both domestically and globally) or 
+contractions in aggregate supply, or a combination thereof. Aggregate demand will 
+depend, in turn, on monetary and fiscal policy (both domestically and globally). Similarly, 
+V/U reflects in part demand for labour, which will depend in part on domestic aggregate 
+demand, which partly reflects monetary and fiscal policy. The effect of monetary policy 
+tightening will, to a large extent, be seen through declining V/U. While the primitive drivers 
+are not identified in the model, their effects are implicitly included.  
+Finally, I should say that whilst drafting this speech we were made aware of parallel work 
+in progress by Michael Bordo and colleagues at the Bank, Oliver Bush and Ryland 
+Thomas.14 They use econometric methods to find upward inflation expectations regime 
+changes in the 1970s, which have subsequently fallen. Their results are directionally very 
+similar to those here. They find substantial contributions of such expectations changes to 
+1970s inflation persistence, and have a fascinating discussion of the institutional reasons 
+for this, including the role of permissive monetary and fiscal policy. They argue that higher 
+inflation expectations were brought down after regime shifts, including the introduction of 
+inflation targeting and the independence of monetary policy making. 
+Making real-time judgements on inflation: a real-world case 
+study  
+I turn now to recent policymaking in the UK. 
+The Bernanke review rightly points out the difficulties that any forecaster has in making 
+judgements in real time with noisy data. I want to spend a moment setting out a case study 
+that illustrates this very point. To be clear, my purpose is not to make excuses. Rather, for 
+those interested in real-time policy making, I hope it is an interesting real-world example of 
+some of the issues that have to be confronted. 
+Under the framework of wages and prices set out in the Bernanke-Blanchard model, the 
+prospects for inflation depend upon a number of key issues, notably the exogenous 
+ 
+14 An early version of the paper is available at - Michael Bordo, Oliver Bush and Ryland Thomas (2022) 
+“Muddling Through or Tunnelling Through? UK monetary and fiscal exceptionalism during the Great Inflation”. 
+In more recent work they apply a modified version of the Bernanke and Blanchard model to the UK in the 
+1970s. 
+
+
+Bank of England  
+ 
+ Page 16 
+ 
+variables such as relative energy and food prices. The other key exogenous variable is 
+labour market tightness. A tighter labour market increases wage pressure which then 
+feeds through into prices and expectations in the system. The measure of labour market 
+tightness used in the Bernanke-Blanchard model is the vacancies-to-unemployment (V/U) 
+ratio. Labour market tightness is among the measures that the MPC watches closely to 
+understand inflation persistence, and the Bernanke-Blanchard model says that it is right to 
+do so (see Chart 2). However, understanding this in real-time is challenging, so I want to 
+provide a case study of how difficult it is in practice to apply this model in real time (see 
+Bernanke and Blanchard (2024) for a similar discussion across countries with data to 
+2023 Q2). 
+Setting the scene: data available at our February 2024 meeting 
+My aim in this case study is to show how successive data releases matter. Chart 8 plots 
+the vacancy rate against the unemployment rate, with the relationship between the two 
+described by the Beveridge curve, using the data available at the February 2024 MPC 
+meeting.15 What is this curve? Think of the labour market as matching workers with jobs. 
+In a recession, vacancies tend to fall, and unemployment rises, tracing out a downward-
+sloping line. A labour market with worse matching means more unemployed at given 
+vacancies, shifting the line outwards.  
+Starting with the pre-pandemic era, the Beveridge curve lay roughly along the downward 
+sloping blue line shown in the chart. Then came the pandemic, which led to a sharp fall in 
+vacancies and rise in measured unemployment, attenuated by the furlough programme. 
+During this time the labour market was enormously influenced by public policy, and so it’s 
+difficult to interpret the dynamics around the labour market over this period. 
+Turning to the post-pandemic data which lie on the top left of the chart, there are two eras. 
+Between 2022 and 2023 (the top left orange dots) unemployment fell and vacancies rose 
+sharply. At the peak of this adjustment the vacancy rate was a little above the 
+unemployment rate, meaning that for every unemployed person there was about one 
+vacancy. This is in marked contrast to the kinds of ratios we see in more normal times 
+along the blue line where more than two unemployed people are pursuing each vacancy. 
+From 2023, however, the red linked-up dots, the labour market began to loosen as 
+vacancies started to fall. What was happening to unemployment? The data available to us 
+at the February 2024 MPC meeting was a combination of data from the Labour Force 
+ 
+15 This diagram has featured in recent Monetary Policy Reports (Chart 3.5 in May 2024 and Feb 2023, amongst 
+others) and in speeches by colleagues past and present on the MPC (such as Greene, 2024, Broadbent, 
+2023 and Nickell, 2001). I stressed the importance for inflation of movements on the Beveridge curve in 
+Haskel (2021). See Yashiv (2007) for a brief survey on the Beveridge curve. 
+
+
+Bank of England  
+ 
+ Page 17 
+ 
+Survey (LFS) up to 2023 Q2, and thereafter experimental data published by the Office for 
+National Statistics (ONS).16 
+Chart 8: Vacancy rate, unemployment rate and Beveridge curve, data available at 
+February 2024 MPC meeting
+ 
+Source: ONS, author’s calculations. 
+Notes: Pre-covid “Beveridge curve” is a simple linear line of best fit through the data and is intended as 
+illustrative only. Data during the pandemic are distorted by the furlough scheme. Experimental data due to 
+low response rates cover periods from May-July 2023 to Sept-Nov 2023. 
+ 
+The combination of the vacancies data (which come from a separate survey) and this 
+experimental unemployment data traced out the economy from the northwest to the 
+southeast along the red line. As the chart shows, it looked like the economy was starting to 
+travel down an outwardly-shifted Beveridge curve, relative to the pre-pandemic Beveridge 
+curve illustrated by the blue line.17 
+How does this relate to inflation? If the economy is moving along an outwardly-shifted 
+Beveridge curve, that is a sign that the matching process between vacancies and 
+unemployment has become impaired. Thus, any level of unemployment is associated with 
+higher vacancies, and thus more wage pressure. Ultimately monetary policy would have to 
+ 
+16 This experimental data was an interim measure published by the ONS in response to their suspension of 
+the LFS results, following the dramatic decline in response rates to that survey during and since the pandemic. 
+The ONS extended the unemployment rate using the Claimant Count – a measure constructed using largely 
+administrative data, that tracks the number of claims for out-of-work benefits. This should be related to the 
+economic unemployment rate (as defined by ILO definitions), but the two are not the same conceptually or 
+empirically. 
+17 I should immediately add that the true Beveridge curve is not a line of best fit between these points, but must 
+be estimated using auxiliary data on job hires, flows into and out of unemployment, and so forth. However, a 
+much more formal statistical analysis of these data confirms the view that the Beveridge curve had shifted out 
+relative to pre-pandemic, at least for the quarters for which the necessary data were available. 
+
+
+Bank of England  
+ 
+ Page 18 
+ 
+respond to this – the impaired labour market requires the monetary authorities to set a 
+higher interest rate than they would otherwise have done, in order to return inflation 
+sustainably to target. This reading of the labour market therefore suggests a more 
+‘hawkish’ outlook to rate setting, and in conjunction with a number of other signals, was 
+one of the reasons that I was on the more ‘hawkish’ side in my voting record. 
+Data available at our March 2024 meeting 
+By the March 2024 MPC meeting, however, the ONS published revised data.18 
+Chart 9 shows the new vacancy and unemployment data available to us at the March 
+2024 MPC meeting (green dots and line), in contrast with that from the February 2024 
+meeting (red dots and line, which were shown in Chart 8). The new data re-weighted the 
+population over the past couple of years towards older people, who are more likely to be 
+economically inactive. It also replaced the experimental Claimant Count-based estimates 
+with 6 months of genuine survey data. These revisions painted a strikingly different picture. 
+While the fall in the vacancy rate was about the same as in the previous data, the apparent 
+rise in unemployment in late 2023 was revealed to be temporary and most likely due to 
+sample variability. Instead, the unemployment rate fell sharply back to the low levels seen 
+through most of 2022 and 2023, as shown by the green line shifting towards the 
+southwest. Looking through the volatility in the green line, the data were now much more 
+indicative of travelling down the steep portion of the pre-pandemic Beveridge curve, rather 
+than travelling along an outwardly-shifted curve as the previous data (red dots and lines) 
+had suggested. 
+If indeed we are back on the pre-pandemic Beveridge curve, and that remains uncertain 
+given the ongoing data issues, that suggests that the labour market might not have been 
+as badly impaired by the pandemic as we had thought. This suggests inflation could be 
+returned to target at a lower interest rate than would have been the case with an 
+outwardly-shifted Beveridge curve. Such new information was, along with other 
+conjunctural data, my motivation for changing my vote at the March meeting to a hold. 
+That being said, I remain concerned that the labour market remains somewhat impaired, 
+consistent with an increase in the natural rate of unemployment (U*), albeit not as much of 
+ 
+18 While response rates were still low, the ONS had corrected one of the issues that led them to suspend the 
+releases, namely re-weighting of the data to new population information. Following the 2021 census, new 
+information on the size and composition of the population had become available, but had not yet been 
+reflected in the LFS weights. This led to concerns that the data was increasingly unrepresentative of the 
+population. The re-weighting of the data published in February 2024 accounted for this, though several other 
+shortcomings of the data remain – not least the low response rate and small achieved sample, as well as 
+further population information that is still not accounted for. 
+
+
+Bank of England  
+ 
+ Page 19 
+ 
+an increase as I had previously feared. Judging the labour market continues to be critical 
+and difficult. 
+All this is to illustrate one corner of the difficulties involved in making policy in real time. 
+While economic models give a helpful structure to think about the economy, they are only 
+as good as the data you put in. Interpreting that data in real-time is sometimes difficult. 
+Chart 9: Vacancy rate, unemployment rate and Beveridge curve, data available at 
+March 2024 MPC meeting and comparison with earlier data
+Source: ONS, author’s calculations. 
+Notes: Data during the pandemic are distorted by the furlough scheme and are removed from this chart for 
+clarity. Data available at the February 2024 meeting run up to Sept-Nov 2023 and data available at the 
+March 2024 meeting run up to Dec-Feb 2024. 
+ 
+This example is complementary, I think, to a number of themes raised in the  
+recently-published Bernanke review of forecasting for monetary policy making and 
+communication at the Bank of England. One particularly perspicacious point (page 13, 
+paragraph 1) is that economic forecasting is made even harder since it’s often not even 
+clear where the economy is starting from. Rightly, data is revised as further information is 
+gathered: it takes time, for example, for respondents to reply to official questionnaires. 
+I find it useful that many of the recommendations try to address this issue related to 
+decision making under radical uncertainty.19 I would like to add that I’m a supporter of the 
+MPC’s decision to embrace and act upon the twelve Bernanke recommendations. To me, 
+broadening the information base upon which to take decisions (better data, using a variety 
+of models, more scenarios) can improve our operational resilience. For example, 
+ 
+19 “Radical uncertainty” as set out by John Kay and Mervyn King in their important book “Radical Uncertainty: 
+Decision-making for an Unknowable Future”. 
+
+
+Bank of England  
+ 
+ Page 20 
+ 
+scenarios in particular have external and internal benefits. Externally, they help outsiders 
+to learn more about how the MPC is thinking. Internally, they help the organisation to learn 
+more about its models (their strengths, assumptions and limitations) and to provide a 
+mechanism to consider a wide range of information. 
+Future inflation: persistence and second-round effects 
+What of the future? As the above section noted, the future path of the driving variables, 
+notably food, energy, shortages and the V/U ratio are key to the evolution of inflation, both 
+via their direct effects on wages and prices and their “second-round” or indirect effects. We 
+can think about these second-round effects as capturing the effect of price shocks on 
+inflation expectations, as well as via real wage resistance (catch-up), which both push up 
+wage growth and so increase inflation. 
+How important are these second-round effects, and how long will they persist? To illustrate 
+these points, Charts 10 and 11 explore a variant of the Bernanke-Blanchard model that 
+tries to remove the second-round effects of price shocks. This is an inexact science, so the 
+results should be treated as indicative only, but I find this a useful experiment. 
+I will define second-round effects as the impacts on wage growth and inflation from  
+higher-than-normal inflation expectations and catch-up effects. To capture this, we 
+simulate the model over the past few years and assume no catch-up effects on wage 
+growth, and hold short-run and long-run inflation expectations at their long-run averages. 
+Wage growth still increases in response to labour market tightness, and price inflation still 
+reacts to energy and food prices and wage growth, but the feedback loop from prices to 
+wages (and then back to prices etc) is cut off. 
+Second-round effects in past data 
+Chart 10 shows three lines. The black line is actual data on wage growth (adjusted for 
+compositional and furlough effects during the pandemic). The blue line is the full 
+Bernanke-Blanchard model simulation and shows a reasonable fit to the black line. The 
+orange line is the model without second-round effects. This suggests that wage growth 
+would have risen (due to a tight labour market) over the past couple of years, but would 
+have been substantially lower in the absence of second round effects. The effect of 
+second-round effects on annual wage growth is estimated to have been about 1pp in late 
+2022, just under 2pp throughout 2023, and about 1pp in early-2024. The consequences for 
+inflation follow directly, given the importance of wage growth in inflation and the lagged 
+relationship – peaking at about 1pp in late 2023 and now beginning to fade. 
+These are large effects. While Chart 5 showed that the long-run effects of price shocks on 
+inflation are negligible in the modern economy with anchored inflation expectations, the 
+dynamic effects can be large, especially in response to large shocks. 
+
+
+Bank of England  
+ 
+ Page 21 
+ 
+Chart 10: Annual wage growth simulations from the Bernanke-Blanchard model, 
+with and without second-round effects 
+ 
+Source: Author’s calculations, based on an update of Haskel, Martin and Brandt (2023). 
+Notes: Outturn data are “underlying” annual growth in private regular pay, as estimated by Bank of England 
+staff, stripping out compositional and furlough effects during the pandemic. Bernanke-Blanchard model 
+estimates come from dynamic simulations of the model, with outturn data for periods up to 2019 Q4 and only 
+data on exogenous variables thereafter. The “No second-round effects” line eliminates the effect of catch-up 
+and above-normal inflation expectations on wage growth. 
+Second-round effects in the future  
+Turning to the future, how long might these second-round effects last? We could try to 
+answer this again with the Bernanke-Blanchard model, by projecting wage growth and 
+inflation with and without second-round effects. To do this, we immediately need to decide 
+on some conditioning paths for the exogenous variables. For energy prices we follow the 
+forecast in May 2024 Monetary Policy Report (MPR), which extends until 2027. For food 
+prices, the May MPR gives a 6-month forecast, and thereafter I assume food price inflation 
+reverts to pre-pandemic averages. We assume shortages return immediately to their pre-
+pandemic average, and productivity growth averages 0.5% per year in line with the recent 
+(slow) record. 
+For V/U, we take the May 2024 MPR forecast for unemployment and combine that with the 
+assumption that the economy will move along the pre-pandemic Beveridge curve. This 
+gives a forecast for vacancies that corresponds with that for unemployment, and 
+combining gives a trajectory for V/U.  
+0
+1
+2
+3
+4
+5
+6
+7
+8
+2019 Q4
+2020 Q4
+2021 Q4
+2022 Q4
+2023 Q4
+Annual wage growth (%)
+Outturn data
+Bernanke-Blanchard model:
+With second-round effects
+Bernanke-Blanchard model:
+No second-round effects
+
+
+Bank of England  
+ 
+ Page 22 
+ 
+How should we simulate the forecast without second-round effects? As Chart 10 showed, 
+without second-round effects to date, the model predicts that wage growth (and inflation) 
+would be lower than they actually are. In fact, the outturn data on wage growth (and 
+inflation) were also higher than the simulated ‘full’ model (including second-round effects) 
+in 2024 Q1. Should we simulate the model afresh, starting from the recent outturn data? 
+Or persist with the model estimates from Chart 10? The answer is not immediately 
+obvious, but to make some progress we will proceed as follows. 
+Chart 11 shows some of the same data as in Chart 10, now overlaid with some additional 
+lines. First, Chart 11 includes the wage growth ‘swathe’ (grey) from Chart 3.8 of the May 
+2024 MPR, which is based on three wage growth models maintained by Bank of England 
+staff. It also includes the MPC’s wage growth forecast consistent with the May 2024 MPR 
+(black dashed line). 
+The other dashed lines are two simulations of the Bernanke-Blanchard model. The dashed 
+blue line is the ‘full’ Bernanke-Blanchard model simulation (including second-round 
+effects), starting from the outturn data up to 2024 Q1. This starts above the solid blue line, 
+since the recent wage growth outturn data have been above the prior simulation of the 
+model. 
+The dashed orange line is the Bernanke-Blanchard model simulation excluding  
+second-round effects. This starts slightly above the orange solid line, consistent with the 
+‘full’ model projections, to account for the under-estimation of outturn wage growth in the 
+‘full’ model and thus be more comparable with those projections with second-round effects 
+(the blue dashed lines). 
+Three points emerge. First, the Bernanke-Blanchard model simulation excluding second-
+round effects (orange lines) is broadly within the grey swathe, both over the past and into 
+the future. This would suggest that those suite of models (or at least one of them) does not 
+fully account for second-round effects. 
+Second, the gap between the model forecasts with and without second-round effects 
+persists during 2024, but shrinks and the lines quickly converge (compare dashed orange 
+and dashed blue lines). This convergence, around the end of 2024, suggests that the 
+additional wage growth due to the second-round effects of past unexpected price shocks 
+will have disappeared by the end of 2024. Does that mean that price inflation will return to 
+target at that point? No. Price inflation endures even with no second-round effects. This is 
+for two reasons: first, wages take time to pass through into prices, and second, inflation 
+itself is sticky and so high past inflation has lasting effects. The May 2024 MPR forecast 
+has inflation returning to the 2% target in early 2026, and the Bernanke-Blanchard model 
+(conditioned on similar assumptions) exhibits similar dynamics.  
+ 
+
+
+Bank of England  
+ 
+ Page 23 
+ 
+Chart 11: Annual wage growth projections from the Bernanke-Blanchard model, 
+with and without second-round effects 
+ 
+Source: Author’s calculations, based on an update of Haskel, Martin and Brandt (2023), May 2024 MPR 
+(chart 3.10). 
+Notes: Bernanke-Blanchard model estimates come from forecasts from the model, with outturn data for 
+periods up to 2024 Q1 and conditioning paths of exogenous variables thereafter (as described in text). The 
+“No second-round effects” line eliminates the effect of catch-up and above-normal inflation expectations on 
+wage growth, both in the past and in the forecast.  
+ 
+Third, the MPC forecast for wage growth is above all of those from the Bernanke-
+Blanchard model in the near-term. One reason for this is the increase in the National 
+Minimum Wage in April 2024. Naturally the Bernanke-Blanchard model cannot anticipate 
+this, but accounting for it would move the dashed blue line substantially closer to the 
+MPC’s forecast (black dashed line). A second reason is that the MPC have taken steers 
+from a range of information not available to the model, such as information from the Bank 
+of England’s regional agents on expected pay settlements this year, and survey data 
+from the Decision Maker Panel and other sources. They point to pay settlements of 
+around 5% this year, above the forecast of the Bernanke-Blanchard model. Through 
+judgement, the MPC is able to account for this information in a way that an economic 
+model cannot easily do.  
+2
+3
+4
+5
+6
+7
+8
+9
+2022 Q1
+2023 Q1
+2024 Q1
+2025 Q1
+2026 Q1
+2027 Q1
+Annual wage growth (%)
+Outturn data
+May MPR
+BB model: Full model
+BB model: No second-round effects
+BB model forecast: Full model
+BB model forecast: No second round effects
+
+
+Bank of England  
+ 
+ Page 24 
+ 
+There are many things that this simulation cannot account for. Naturally the forecast is 
+sensitive to the assumed path for V/U. The degree of second-round effects will also 
+depend on any future price shocks. In this model, unexpectedly low inflation can also lead 
+to negative second-round effects, i.e. downward pressure on wage growth. Nominal wage 
+rigidity might limit the extent to which downward price shocks lead to lower wage growth.  
+The effects of all of this for inflation are broadly consistent with the MPC’s forecast in the 
+May 2024 MPR, namely that there are considerable second-round effects at play currently, 
+and that they will fade over the coming years.  
+In summary, the model suggests that in the current conjuncture, second-round effects 
+matter a good deal.  
+Conclusion 
+I’ve tried in this speech to answer some questions using an updated version of the 
+Bernanke-Blanchard model applied to the UK. Referring back to questions in the 
+introduction, I would summarise the answers as follows.  
+Let me start with the past. 
+First, was the Bank “behind the curve” when inflation started? No. Our updated results 
+confirm the conclusion I set out in November 2023. The initial burst of inflation was due to 
+the economy being hit by a succession of external shocks, unforeseen by even the most 
+informed market participants. The inflationary impulse from the labour market was minimal 
+until 2021 Q4, at which point, the Bank raised rates, the first major central bank to do so. 
+And we did so in the face of the Omicron variant of the coronavirus which, at the time, 
+looked like it might require the entire nation to be locked down again and revaccinated. 
+These are the actions of an institution ahead of the curve, not behind it. 
+Second, why was inflation so much more persistent in the 1970s than it appears to be 
+today? Our new evidence in this speech suggests that the 1970s labour market was much 
+less flexible (in the form of higher real wage resistance), and expectations were less  
+well-anchored.  
+Third, what of the challenges of making policy in real-time? I have tried to show an 
+example of how the flow of new data will rightly have policymakers changing their minds 
+and how vital economic measurement is to policymaking.20 
+ 
+20 On a personal note, in a speech in July 2021, with over 1.5 million workers still on furlough and the unknown 
+Delta variant spreading I argued that “tight policy was not the right policy”. We know now, but didn’t know then, 
+that many of those furloughed workers were absorbed into the labour market and the vaccine was robust to 
+the Delta variant. The labour market became very tight very quickly. 
+
+
+Bank of England  
+ 
+ Page 25 
+ 
+I turn to the future. 
+What is the near-term inflation outlook? Assuming no further shocks, the model suggests 
+that it depends on the interaction of a tight labour market and second-round effects as 
+previous inflation works its way through the wage-price system. That previous inflation is 
+sufficient to impart momentum to current inflation, although not as much as in the 1970s. I 
+hope this helps explain why the MPC is looking closely at labour market conditions and 
+underlying inflationary indicators such as services inflation. The labour market continues to 
+be tight, and I worry it is still impaired. I would rather hold rates until there is more certainty 
+that underlying inflationary pressures have subsided sustainably. 
+Finally, the more long-term overarching question is the importance of central bank 
+credibility. A credible institution is something that the public trusts: in the case of a Central 
+Bank, to fulfil its remit of price stability. Trust is an (intangible) asset and so, like any asset, 
+depreciates and requires investment to be maintained. So how can a central bank make 
+that investment, or put another way, earn that trust?  
+Organisational scientists cast trust in an “ABI” framework – the trustor needs to 
+demonstrate to the trustee: ability, benevolence, and integrity.21 
+Applying this to the Bank of England, to the extent that integrity means sticking to 
+promises, the economics literature concentrates heavily on independence from political 
+interference as a key determinant (on the theory that an independent institution is more 
+likely to stick to its promise, in this case to keep inflation down, because it is free from 
+political interference). But this ABI framework suggests other elements matter too.  
+What of ability? As the Bernanke review sets out, the Bank is not short of ability: it has top 
+PhDs and experienced staff. But the perception of ability is, I suspect, heavily influenced 
+by forecast errors, not least since the Bank sets such great store by the central forecast. 
+Perhaps this is an area where the scenarios that the Bernanke review suggests will help: 
+they will allow outsiders to learn more about our view of the economy, and allow us to 
+learn more about how our models work under different circumstances. 
+Turning to benevolence, I suspect many think that benevolence is split between “hawks” 
+(who don’t have much of it) and “doves” (who do). This is a category error. All MPC 
+members are committed to the remit, but view the appropriate policy stance differently. If 
+you will forgive a personal note, during my time on the committee I have been variously 
+described as being both amongst the most dovish and the most hawkish. This shows how 
+uninformative those labels are. As Keynes is reputed to have said: “When the facts 
+ 
+21 See Mayer at al. (1995). I’m grateful to Professor Bobby Duffy of King’s College London for discussions on 
+this. The academic literature has specific discussions around these headings, but a broad summary would be 
+this: Ability is competence and influence; Benevolence is working towards a goal with no extrinsic reward; 
+Integrity is adherence to set goals and principles. 
+
+
+Bank of England  
+ 
+ Page 26 
+ 
+change, I change my mind – what do you do, sir?”22 What this highlights, I think, is the 
+repeated need for the committee, as it does, to keep earning trust by being clear about 
+what facts are changing and the models by which it interprets them.  
+In conclusion, a central bank is part of a very delicate social bargain: trusted with great 
+powers, but having to earn that trust. Anyone working at the Bank of England knows what 
+a privilege it is to be given that trust. Equally, anyone leaving the Bank knows it is bigger 
+than any single individual. With good data, models and economics my successors can 
+take and explain hard decisions. There will be times when this doesn’t earn the public’s 
+affection, but it will end up earning their trust. 
+Thank you. 
+ 
+I am grateful to Josh Martin and Vitor Dotta for their help preparing this speech. Thanks 
+also to Andrew Bailey, Harvey Daniell, Swati Dhingra, Bobby Duffy, Chris Duffy,  
+Andrew Gimber, Huw Pill, Doug Rendle, Martin Seneca, Carleton Webb and Tim Willems 
+for helpful comments. Finally, it has been an extraordinary privilege to serve on the 
+Monetary Policy Committee and I’d like to thank colleagues throughout the Bank for all 
+their work and support.  
+ 
+ 
+ 
+22 This and similar quotes have also been attributed to Paul Samuelson, who has in turn attributed them to 
+Keynes, who expressed a similar idea in 1924. 
+
+
+Bank of England  
+ 
+ Page 27 
+ 
+Appendix  
+Brief description of our Bernanke-Blanchard model equations: 
+The nominal wage level depends on expected prices, real aspirational wages, and labour 
+market tightness 
+e
+A
+t
+t
+t
+t
+w
+p
+x
+
+
+
+
+
+ 
+Real aspiration wages are a function of the last period’s real aspiration wages, last 
+period’s realised real wage, and wage-push factors 
+1
+1
+1
+,
+(1
+)(
+)
+A
+A
+t
+t
+t
+t
+t
+w
+p
+z
+
+
+
+
+
+
+
+
+
+
+
+ 
+Substituting and rearranging gives: 
+1
+1
+1
+1
+1
+(
+)
+(
+)
+(
+(1
+)
+)
+e
+e
+t
+t
+t
+t
+t
+t
+t
+w w
+p
+p
+p
+p
+x
+x
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Prices depend on the wage level plus a non-wage price-push term 
+P
+p w z
+
+ 
+Short-run inflation expectations are a weighted average of long-run expectations and last 
+period’s actual inflation 
+
+
+*
+1
+1
+2
+(1
+)
+e
+t
+t
+t
+t
+p
+p
+p
+p
+
+
+
+
+
+
+
+
+
+
+ 
+Long-run expectations are an average of lagged long-run expectations themselves and 
+last period’s actual inflation 
+
+
+*
+*
+1
+1
+2
+(1
+)
+t
+t
+t
+p
+p
+
+
+
+
+
+
+
+
+
+ 
+ 
+The model at work: 
+Inflation is wage changes plus shocks 
+P
+p
+w
+z
+
+ 
+Wages growth depends on expected inflation, catch-up, labour market tightness (level 
+and change), and a wage-push shock 
+
+1
+1
+Exp inf
+Lab tightness
+Catch up
+(
+)
+(
+(1
+)
+)
+e
+e
+t
+t
+t
+w
+p
+p
+p
+x
+x
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Expected inflation is a weighted average of long-run inflation expectations and last year’s 
+inflation 
+
+
+Bank of England  
+ 
+ Page 28 
+ 
+
+
+*
+1
+Long run 
+Lagged inf
+inf expects
+(1
+)
+e
+t
+t
+p
+p
+
+
+
+
+
+
+
+
+
+ 
+ 
+Chart A: Decomposition of quarter-on-quarter annualised seasonally adjusted UK 
+inflation, 2020 Q1 to 2024 Q1 
+ 
+Source: Author’s calculations, update of Haskel, Martin and Brandt (2023). 
+Notes: “Initial conditions” reflect the model response under hypothetical conditions where V/U remains at the 
+level in 2019 Q4, relative food and energy price changes are pre-pandemic averages, shortages are at 
+‘normal’ pre-pandemic levels, and productivity growth is 0.5% per year in line with post-2007 averages. The 
+dynamic effects of two dummies for the pandemic period are removed. See Haskel (2023) and Haskel, 
+Martin and Brandt (2023) for details and discussion. Inflation is quarter-on-quarter annualised seasonally 
+adjusted inflation. Chart 3 in the main text is the annual equivalent of this chart. 
+ 
+Historic Bernanke-Blanchard model 
+For this speech we applied the Bernanke-Blanchard model to the UK since 1967. The 
+basic structure of the model is the same as in Haskel, Martin and Brandt (2023). The 
+data used for estimating the model are also mostly the same as in Haskel, Martin and 
+Brandt (2023) for periods since 1989 – see the technical appendix to that paper for more 
+details and links. There are a few small changes, and the data were extended historically, 
+as summarised below. The speech uses estimates of the model equations for three 30-
+year windows, chosen to be representative of changes in the estimated model parameters 
+over time. Windows of 30-years were used to ensure sufficient time periods in each 
+estimation window for robust results.  
+
+
+Bank of England  
+ 
+ Page 29 
+ 
+ Price inflation – CPI published by ONS (from 1988) linked onto the historic CPI 
+published by ONS (pre-1988). Seasonally adjusted using the “seasonal” package 
+in R (an implementation of X-13ARIMA-SEATS). 
+ Wage growth – private sector regular pay from Average Weekly Earnings (AWE) 
+(from 2000), extended historically using private sector regular pay AWE backcast by 
+Bank of England staff (to 1987), extended further using historic whole economy total 
+pay AWE published by ONS (pre-1987) (available here, see Crane and Elliott 
+(2013) for more details). Adjusted for compositional changes using the trend (from a 
+HP filter) in labour composition from the ONS compositionally adjusted labour 
+input measures. 
+ Vacancies-to-unemployment ratio (V/U): 
+o For vacancies, the Vacancies Survey (from 2000), extended historically 
+using job centre vacancies (to 1980), extended further using various series 
+for vacancies notified to employment offices (pre-1980), as compiled in the 
+Millenium of macroeconomic data (Thomas and Dimsdale, 2017). 
+o For unemployment, the official unemployment data from the Labour Force 
+Survey (LFS) (from 1971), extended historically using administrative 
+unemployment levels from Denman and Macdonald (1996), sourced from 
+the Millenium of macroeconomic data (Thomas and Dimsdale, 2017). 
+o Given trends in V and U rates over such a long period of time, we de-trend 
+the V/U ratio as follows: fit a HP filter through the V and U rates separately, 
+with smoothing parameter 16,000 and 8,000 respectively (based on testing); 
+combine the respectively trends for a V/U trend; use this constructed V/U 
+trend to de-trend V/U; use the de-trended V/U in estimation and drop the 
+constant from the wage equation. 
+ Productivity growth – market sector output per hour worked published by ONS 
+(from 1997), extended historically using previous vintages of market sector output 
+per hour worked and output per worker published by ONS (to 1992), extended 
+further using annual market sector output per hour worked published by ONS as 
+part of their growth accounting data (to 1970), extended further using whole 
+economy output per worker (pre-1970). Trend extracted using HP filter with 
+smoothing parameter 1,600. 
+ Energy prices – energy aggregate of CPI published by ONS (from 1988), linked 
+onto a constructed energy aggregate from various RPI indices (pre-1988). Energy 
+covers household energy bills of electricity, gas and oil, and vehicle fuels of petrol 
+and diesel. Seasonally adjusted using the “seasonal” package in R (an 
+implementation of X-13ARIMA-SEATS). In estimation, energy prices are expressed 
+relative to wages. 
+ Food prices – food and non-alcoholic beverages aggregate of CPI published by 
+ONS (from 1988), linked onto the food and non-alcoholic beverages aggregate of 
+historic CPI published by ONS (pre-1988). Seasonally adjusted using the 
+
+
+Bank of England  
+ 
+ Page 30 
+ 
+“seasonal” package in R (an implementation of X-13ARIMA-SEATS). In estimation, 
+food prices are expressed relative to wages. 
+ Shortages – the Global Supply Chain Pressure Index (GSCPI) as published by 
+the Federal Reserve of New York (from 1998), extended historically using the Index 
+of Global Real Economic Activity (IGREA) as published by the Federal Reserve 
+of Dallas (pre-1998). Converted into z-scores for use in estimation, and drop the 
+constant from the price equation. 
+ Short-run (one-year) inflation expectations – a composite measure covering 
+households, experts and financial markets expectations, from the Millenium of 
+macroeconomic data (Thomas and Dimsdale, 2017). This measure is 
+benchmarked to the composite measure constructed by Anderson and Maule 
+(2014), and adjusted for the difference in the main inflation measure (CPI, RPI, etc.) 
+over time. 
+ Long-run (five to ten years) inflation expectations – a composite measure covering 
+households, experts and financial markets expectations, from the Millenium of 
+macroeconomic data (Thomas and Dimsdale, 2017) (from 1985). This measure is 
+benchmarked to the composite measure constructed by Anderson and Maule 
+(2014), and adjusted for the difference in the main inflation measure (CPI, RPI, etc.) 
+over time. 
+o To extend historically, in the absence of any data or direct measures to our 
+knowledge, we model a backseries. Our approach and results are similar to 
+the long-run inflation expectations variables in the FRB/US model used by 
+the Federal Reserve, which similarly is based on survey data back to the 
+1980s, and prior to this is a backcast using time-series models (see Clark 
+and Nakata (2008) and Mishkin (2007) for description, and the FRB/US 
+model documentation for details). 
+o For the backcast, we regress long-run inflation expectations on the average 
+inflation over the preceding 6 years, the deviation of annual inflation in the 
+previous quarter relative to that trend, and short-run inflation expectations in 
+the previous quarter, for quarters from 1985 Q1 (when we first have long-run 
+inflation expectations estimates) to 1996 Q4 (prior to Bank of England 
+independence). We use the fitted model to estimate long-run inflation 
+expectations prior to 1985. 
+o The backcast starts around 2-3% in the late 1960s, following inflation up with 
+a lag during the early 1970s, peaking around 12-13% in 1975, before 
+stabilising around 10-11% through the rest of the 1970s. It picks up again to 
+12-13% in 1980, before falling steadily with inflation to settle around 4-5% 
+from the late 1980s to the early 1990s. The data-based estimates from the 
+Millenium of macroeconomic data (Thomas and Dimsdale, 2017) start in 
+1985.

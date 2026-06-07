@@ -1,0 +1,214 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The end of the (Libor) world as we know it – remarks by Arif Merali
+DATE: 01/06/2023
+SPEAKER: Arif Merali
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/september/arif-merali-remarks-from-industry-panel-on-libor-transition
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The end of the (Libor) world as we know it – remarks by Arif Merali
+Given at a Libor transition panel discussion hosted by Deutsche Bank, London
+Published on 
+
+ 06 September 2023
+Arif Merali answers questions on the transition away from Libor, considering how we got to where we are today, what remains to be done and lessons learnt from the experience. He highlights the importance of public-private partnerships and international coordination in achieving the extraordinary shift in financial markets to risk-free rates.
+Remarks
+QUESTION 1: It is 9 years since the Financial Stability Board (FSB) originally recommended identification of alternative near risk-free rates and 6 years since Andrew Bailey announced that “the survival of Libor could not and would not be guaranteed past end 2021”. The Bank has been involved in this reform from inception to completion. Has Libor transition worked? Have we landed where you had hoped we would when this was initiated?
+Good afternoon and many thanks to Deutsche Bank for having me here today.
+I joined the Bank of England in 2020 as a Senior Advisor in the Markets directorate and lead the Bank’s work on Risk-Free Rate (RFR) transition. Prior to that, I spent my entire career at various investment banks as a rates trader. I also sat on the Bank’s Working Group on Sterling Risk-Free Reference Rates (Working Group) from 2016 so I have been involved in this project for some time now – and had the unique opportunity to contribute from both sides of the table.
+And, you are right it has been a long journey! Indeed, I could cite even earlier dates than the ones you mention. For example, it’s been over 15 years since systemic vulnerabilities in Libor began to emerge. And it’s been 11 years since the 2012 Wheatley Review, one of the first official steps towards the transition away from Libor. But as you say it was Andrew Bailey’s announcement on 27 July 2017 that turned a conceptual aspiration into a practical, concrete project.
+footnote
+[1]
+Even then, the goal of being out by a fixed date was viewed as pretty ambitious by many in the market. After all, Libor was coined as “the world’s most important number” by the British Bankers Association, as it was deeply interwoven into every aspect of the financial system, offered in five currencies and linked to more than $300 trillion worth of contracts globally. And these figures exclude other ‘IBORs’, which markets have also been working towards reforming or replacing with robust alternatives.
+But, with a huge amount of work right across the public and private sectors in all the major financial centres worldwide, we did it! All five Libor panels have now ended – and markets have transitioned to RFRs such as SONIA and SOFR. That makes floating rate markets safer, with RFRs providing robust, transaction-based rates that can be used across the full range of assets, including loans, bonds and derivatives. In sterling markets, the Bank of England’s Financial Policy Committee concluded this Spring that the financial stability risks associated with Libor had effectively been mitigated.
+footnote
+[2]
+And globally, the Financial Stability Board (FSB) published its final reflections, describing the Libor transition as a ‘monumental undertaking that has seen an unprecedented shift in wholesale markets’.
+footnote
+[3]
+What is more, despite the wholly unexpected intervention of the global Covid pandemic and the many other challenges that cropped up along the way, transition was largely achieved on the timeline that Andrew Bailey originally set out in 2017. By end-2021, the sterling, euro, yen and Swiss franc panels had all been wrapped up, and new US dollar business had effectively ceased. The temporary extension of the US dollar panel was only really to allow for the smooth transition of legacy contracts – something that is now history. And the four synthetic Libor settings, which exist only to allow the few remaining historic Libor contracts to transition safely, have firm cessation dates in 2024.
+Though Andrew Bailey’s words in 2017 may have sounded confident, the truth is the efforts of market participants and the success of the transition have far exceeded everyone’s expectations. The fact that the cessation of the US dollar Libor panel passed on 30 June this year with barely a whisper is a real testament to the combined efforts of everyone involved. The Libor transition has been an excellent example of what is achievable through working together in public-private partnerships and across jurisdictions.
+QUESTION 2: Could you pick one of the key moments/challenges for you in this multi-year journey?
+If you allow me to break the rules slightly, I will mention two – though they are linked!
+The first, appropriately enough, is ‘SONIA First.’ The Bank first announced this initiative, with the UK Financial Conduct Authority (FCA), in January 2020.
+footnote
+[4]
+The idea was to provide a credible focal point and a real sense of momentum for the critical mass of the market to switch reference rates in new sterling interest rate swaps to SONIA. Originally March 2020 was targeted for the switchover – which seemed ambitious but doable until Covid derailed proceedings. The relaunch in October 2020, dubbed ‘SONIA First – Take Two’ by some, really helped turbo charge the market transition (see Chart 1).
+The chart shows contracts with maturities of 1-year and above. Source: LCH Ltd. and Bank calculations.
+This initiative was a great example of public authorities using their convening powers together with influence and persuasion, rather than enforcing regulatory requirements. It helped market participants co-ordinate on a market wide change that was in everyone’s collective interests, but which no individual firm had the incentive or capability to execute solely on their own. The Bank of England had done this sort of thing before – for example when it helped the sterling market to modernise its settlement arrangements
+footnote
+[5]
+and develop a new repo market in the mid-1990s.
+footnote
+[6]
+But it was the biggest such example in sterling markets for many years, and in completely new territory – so we were all learning by doing, conscious that there could be significant reputational risk if the initiative proved a damp squib.
+The best ideas are always quickly copied. Sure enough, similar ‘First’ initiatives quickly became a market standard elsewhere too – they’ve been used across products and jurisdictions, with ‘RFR First’
+footnote
+[7]
+in the cross-currency swap market, ‘TONA First’
+footnote
+[8]
+in Japan and ‘SOFR First’
+footnote
+[9]
+in the US (see Chart 2) following in quick succession. Most recently it’s been used in Canada with ‘CORRA First’ supporting their transition from CDOR’
+footnote
+[10]
+We could have made a lot of money if we’d trademarked that initiative from the outset!
+Source: CME Group Inc., LCH Ltd. and Bank calculations
+But there is an important postscript to this story. And that’s because, although SONIA First played an important part in kickstarting transition, SONIA’s share of the swap market struggled to break above 50%, despite a series of milestones from the Working Group aimed at eliminating new use of Libor altogether. Market suasion, it seemed, could only get us so far: it needed a second helping hand to push transition firmly over the line.
+The breakthrough – and my second key moment – came in March 2021 when the UK authorities decided to issue, through the Prudential Regulation Authority (PRA) and the FCA, a ‘Dear CEO’ letter, asking all regulated firms to meet Working Group milestones.
+footnote
+[11]
+This was designed to focus minds across key market players by making sure that all financial institutions’ management teams were aware of the Working Group’s targets, and incorporating them into their risk management planning. I have to say that, as a
+non-supervisor, I found myself a bit of an innocent when it came to understanding the force of such formal communications. Within days of the letters being issued, Libor transition teams across the market were reporting powerful additional top-down support for hitting the Working Group deadlines. Lesson learned!
+QUESTION 3: As you and your colleagues review markets what is there still to do: what’s on your benchmark radar at this point?
+The first point I’d make is that, as I touched on earlier, there are still four synthetic Libor settings remaining; 3-month synthetic sterling Libor and 1-, 3- and 6-month synthetic US dollar Libor (with the majority of residual exposures in the final three US dollar Libor settings). The sterling setting is due to cease at end-March 2024 whilst the US dollar Libor settings are set to cease at end-September 2024. In the near term, it’s therefore obviously still really important that everyone continues to focus on active transition of any remaining legacy contracts ahead of those cessation dates, and sooner rather than later. In the UK, the PRA and FCA will continue to monitor supervised firms’ progress in engaging relevant counterparties and remediating outstanding Libor exposures.
+Second, we’re keeping a close eye on ensuring markets adopt the most robust benchmarks: such as SONIA for sterling, SOFR for US dollars, and so on. It’s vital that market participants steer clear of using new benchmarks that have the potential to replicate financial stability risks similar to those associated with Libor. That includes the so-called Credit Sensitive Rates (CSRs) launched or mooted in recent years. I would encourage anyone who hasn’t yet done so to read the recent statement by IOSCO, which concluded that, because certain CSRs currently in use exhibit some of the same inherent “inverted pyramid” weaknesses as Libor, absent modification, their use may threaten market integrity and financial stability.
+footnote
+[12]
+I speak for everyone involved, in both the private and public sectors globally, when I say that we simply cannot afford to go through another benchmark transition any time soon! Use of RFR-based term rates should also be limited, particularly in derivative markets, in line with guidance from the FSB,
+footnote
+[13]
+the FPC
+footnote
+[14]
+and industry working groups.
+footnote
+[15]
+Third, the day-to-day operation of SONIA will of course always be on the Bank of England’s “benchmark radar,” given our role as administrator. As well as producing the rate and Compounded Index on a daily basis, we also continuously monitor underlying transactions to ensure SONIA remains robust, and liquidity in overnight sterling markets is strong. Following the reform of SONIA in 2018, underlying volumes have increased more than threefold
+footnote
+[16]
+and have remained robust including in recent episodes of stress (see Chart 3). The Bank also periodically reviews its methodology to make sure it continues to measure the underlying market adequately. Unlike Libor, SONIA has been designed in such a way as to facilitate evolution of the benchmark in future, if that were to become necessary, without disruption to contracts referencing it.
+Source: Bank of England
+Finally, we’re keeping a close eye on liquidity in the new markets linked to SONIA. Whilst sterling derivative markets have generally embraced SONIA – and volumes are comparable to those pre-transition – liquidity in some products, such as SONIA futures and options, is not yet back to the levels equivalent to those seen in Libor contracts pre-transition. Market participants that we speak to put a good part of this down to the recent elevated level of macroeconomic uncertainty, and hence interest rate volatility. But there may be other factors at work too – including an as-yet incomplete adjustment in the necessary market infrastructure. It’s important that market participants have access to a diverse and appropriately liquid set of underlying instruments to manage their risks. And effective price discovery on such instruments helps us in the public sector too, by increasing assurance on the transmission of monetary policy, and allowing us to monitor market expectations of economic conditions and policy responses. We are therefore watching developments in this area closely.
+QUESTION 4: What lessons have you learnt from this experience? How would you advise someone embarking on a similar challenge in the future?
+I think for me, overwhelmingly the key lesson from the Libor transition has been the importance of collaboration between the private sector and the public authorities.
+Libor transition really has been genuinely market-led, even if that phrase sometimes generates a bit of eye rolling. That’s because it needed market expertise, knowledge, resources and commercial impetus at every stage to design, implement and embed alternative products that markets would embrace. In that context, the engine room for transition came from the various industry working groups, which brought together subject matter experts from buy and sell side firms, trade associations and infrastructure providers to develop conventions, set clear timelines and roadmaps and identify and remove barriers to transition. Those are not things the public sector is capable of doing singlehandedly: it simply never would have worked as a pure regulatory initiative.
+Public sector involvement has however been critical in supplementing industry-led efforts at key points. That support has ranged from advice on project management, to acting as an honest broker between diverse market players, to providing focal points for market transition (as we did with ‘SONIA First’). And, where it was really necessary, it meant harder-edged supervisory guidance too. So it was a transition led by market participants – but using the authorities’ convening powers to bring them together, and their supervisory powers to enforce the guidance that market participants had set for themselves. We were also able to help bring international authorities and foreign working groups together, to ensure clear and consistent messaging across jurisdictions. This was particularly important given the global use of Libor and multi-national incorporation of many of its users.
+It's worth unpicking how public/private co-working happened in practice, because it has important lessons for any future reform of a similar kind. I’d pull out five key principles: credibility; communication; inter-agency and cross-border collaboration; regulatory support; and regulatory oversight. Let me elaborate a little on each.
+Credibility:
+The limitation on formal powers or tools available to the industry Working Group meant it had to earn its legitimacy. While that legitimacy was backstopped by the authorities’ involvement, it was built in substance by the standing and breadth of the Working Group’s participants and the quality and relevance of the material it generated. Technical credibility was shaped by product experts; and decision-making authority was delivered through the close engagement of senior industry leaders. A Senior Advisory Group consisting of C-suite leaders sat alongside the Working Group to ensure that: the biggest trade-offs and decisions in transition had visibility and strategic input; that different business lines within the largest firms spoke with a single voice; and that Libor transition teams had sufficient senior support and resources to drive the necessary change.
+Communication
+: Transition was also supported by a wide-ranging communications effort. Regular speeches by Andrew Bailey and other senior leaders sent clear high-level messages on progress. And the Working Group benefitted from the Bank of England’s brand by using our website to host the Working Group web pages. This became an independent source of trusted information for both market participants and the end users of benchmarks, and allowed firms to economise on their own client communications by providing standardised educational and guidance material, minimising the scope for conflicting messages and allowing us to reach key sectors – for example corporate users of Libor – who might otherwise be under-informed about what they needed to do to enable transition. Different products targeted different audiences, from complex technical working papers to bitesize introductions to key concepts. During the peak of the transition, the website was getting over ten thousand visits a month. And we used other lines of communication too, including LinkedIn, podcasts, videos and monthly newsletters, to communicate a simple and clear set of industry milestones all designed to deliver transition away from Libor.
+Inter-agency and cross-border collaboration:
+As well as the successful public-private partnership embodied by the Working Group, it was important that the UK authorities (the Bank/PRA, FCA and HM Treasury) were closely aligned. Regular joint meetings ensured a constructive and co-operative partnership and enabled the delivery of legislation and joint supervisory programmes, and provided support to the Working Group. Close collaboration with international peers was also a key priority, to ensure consistency amongst jurisdictions, where possible, for both market conventions and legislative solutions. This was done directly with the five Libor jurisdictions as well as more broadly via the FSB’s Official Sector Steering Group.
+Regulatory support:
+While Libor transition was genuinely market-led, it would be naïve to think that, left solely to the market, transition would have happened organically. A mechanism was needed to ensure there were effective incentives for market participants to act decisively and collectively. That came through providing clear official support for industry milestones and initiatives – and, where needed, sparing use of formal or legislative powers. Synthetic Libor for example is backed by two pieces of legislation and a number of FCA policy documents.
+Regulatory oversight
+: Market participants are of course not wholly selfless actors; and there were a number of occasions during the transition process where, absent appropriate official oversight and deterrents, participants risked drifting from doing what was right from a systemic stability perspective to contemplating rather shorter-term solutions aimed more at helping their individual businesses. In the UK, harder-edged tools such as the Senior Managers Regime and mandatory regulatory reporting were used to complement the authorities’ softer convening powers, to ensure co-operative behaviour. Extensive engagement at a firm level from supervisors also ensured clear visibility, accountability and consistency in approaches across supervised entities, and reduced the risks of fragmentation that could have come from transitioning away from such a widely used reference rate.
+Oh great, you might think, does that mean every future market-wide change programme is going to involve the sort of resource and time commitment devoted to Libor? Certainly not. We are acutely aware of, and grateful for, the long hours and expertise that people right across the market devoted to this change. So while we do have something of a proven playbook to take away from Libor transition, such an approach should be used very sparingly and only where a similarly systemic strategic change is required. Efficient
+public-private partnerships and international authority coordination work effectively to make structural change, but excessive use may diminish their power.
+I am grateful to Charlotte Buckingham for helping me to prepare these remarks and to Charlotte Barton, Olga Dyakova, David Glanville, Andrew Hauser, Alice Hobday, Alastair Hughes, Rebecca Jackson, William Rawstorne, Raza Rehman, Joseph Smart and Ashley Young for their helpful contributions.
+See
+The future of LIBOR | FCA
+See
+the Financial Policy Summary and Record of the Financial Policy Committee meeting on
+23 March 2023, Libor transition | Bank of England
+See
+Final Reflections on the LIBOR Transition | FSB
+See
+FCA and Bank of England encourage switch from LIBOR to SONIA for sterling interest rate swaps from Spring 2020 | Bank of England
+See
+Building the market infrastructure of tomorrow: CREST, RTGS and the Bank of England,
+20 years on - speech by Andrew Hauser | Bank of England
+See
+Gilt repo—and beyond | Bank of England
+The “RFR First” initiative encouraged a convention swap to RFRs for the cross-currency swaps market. See
+The FCA and the Bank of England encourage market participants in a switch to RFRs in the LIBOR cross-currency swaps market from 21 September
+See
+Release of the Transition of Quoting Conventions in the JPY interest rate swaps market ("TONA First") | Bank of Japan
+See
+CFTC Market Risk Advisory Committee Adopts SOFR First Recommendation at Public Meeting | CFTC
+See
+CARR’s CORRA-first initiatives for derivatives to begin on January 9 – update | Bank of Canada
+See
+Transition from LIBOR to Risk Free Rates | Bank of England
+See
+Statement on Credit Sensitive Rates | IOSCO
+See
+Interest rate benchmark reform | FSB
+See
+the Financial Policy Summary and Record of the Financial Policy Committee meeting on 23 March 2023, Libor transition | Bank of England
+See guidance for use of
+Term SONIA
+and
+Term SOFR
+See
+SONIA reform implemented | Bank of England
+See
+SONIA reform implemented | Bank of England
+Close
+See guidance for use of
+Term SONIA
+and
+Term SOFR
+Close
+See
+the Financial Policy Summary and Record of the Financial Policy Committee meeting on 23 March 2023, Libor transition | Bank of England
+Close
+See
+Interest rate benchmark reform | FSB
+Close
+See
+Statement on Credit Sensitive Rates | IOSCO
+Close
+See
+Transition from LIBOR to Risk Free Rates | Bank of England
+Close
+See
+CARR’s CORRA-first initiatives for derivatives to begin on January 9 – update | Bank of Canada
+Close
+See
+CFTC Market Risk Advisory Committee Adopts SOFR First Recommendation at Public Meeting | CFTC
+Close
+See
+Release of the Transition of Quoting Conventions in the JPY interest rate swaps market ("TONA First") | Bank of Japan
+Close
+The “RFR First” initiative encouraged a convention swap to RFRs for the cross-currency swaps market. See
+The FCA and the Bank of England encourage market participants in a switch to RFRs in the LIBOR cross-currency swaps market from 21 September
+Close
+See
+Gilt repo—and beyond | Bank of England
+Close
+See
+Building the market infrastructure of tomorrow: CREST, RTGS and the Bank of England,
+20 years on - speech by Andrew Hauser | Bank of England
+Close
+See
+FCA and Bank of England encourage switch from LIBOR to SONIA for sterling interest rate swaps from Spring 2020 | Bank of England
+Close
+See
+Final Reflections on the LIBOR Transition | FSB
+Close
+See
+the Financial Policy Summary and Record of the Financial Policy Committee meeting on
+23 March 2023, Libor transition | Bank of England
+Close
+See
+The future of LIBOR | FCA
+Close
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

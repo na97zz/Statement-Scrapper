@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "High Inflation and the Outlook for Monetary Policy",
+  "date_original": "2022-02-21",
+  "date_au": "21/02/2022",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20220221a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-02-21 - Michelle W. Bowman - High Inflation and the Outlook for Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-02-21 - Michelle W. Bowman - High Inflation and the Outlook for Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "aff069f615a8a1f505c0bd1cebb6e48d11123d40cf9b1ec98592c1e493678c34"
+}

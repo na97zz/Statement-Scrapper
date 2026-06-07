@@ -1,0 +1,97 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Synchronisation and beyond: enabling the next wave of financial innovation − speech by Victoria Cleland
+DATE: 01/06/2025
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/july/victoria-cleland-keynote-address-at-city-week-2025
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Synchronisation and beyond: enabling the next wave of financial innovation − speech by Victoria Cleland
+Given at the 15th annual edition of City Week
+Published on 
+
+ 01 July 2025
+Building on her remarks at the UK Finance Digital Innovation Summit highlighting the benefits unlocked by the renewed RTGS service, RT2, Victoria Cleland gives an update on the Bank's plans for a synchronised settlement and programme of experiments in wholesale payments. She highlights how the Bank is laying the foundations for innovation in payments to enable broader benefits and economic growth.
+Speech
+Our strategy for our renewed RTGS service RT2
+Wholesale payments are the lifeblood of financial markets, which themselves play an essential role in enabling investment and economic growth. At the Bank, we are taking a keen interest in how emerging technology could enable these markets to operate more efficiently, tackling challenges such as fragmentation, and the inefficiencies, costs and increased risks that arise from legacy ways of doing business. We are also focusing on the role that we can play, using these technologies (supported by appropriate risk management and supervision) to enable a range of new functionality, improve liquidity in markets, mobilise collateral and help market participants to manage risk more effectively.
+As the ultimate risk-free asset, central bank money settlement has a crucial role to play in facilitating the safe adoption of new innovations. This can be achieved by laying the foundations for innovation (e.g. by driving the availability of richer data in payment messages) and by keeping up with emerging demands such as faster settlement and interoperability with new technologies.
+Our vision is that our Real Time Gross Settlement (RTGS) service is a resilient and responsive, widely used platform for central bank money settlement, enabling growth and innovation.
+Our renewed RTGS service, RT2, went live on
+28 April 2025
+. It is delivering on all four of the core objectives: higher resilience, broader access, wider interoperability, and improved user functionality. This achievement reflects not only a major technological milestone but also the strength of our collaboration with nearly 250 industry participants and our suppliers. Their input and readiness were vital to the success of this transformation.
+As I outlined in my recent
+speech at the UK Finance Digital Innovation Summit
+, RT2 is more than just a system upgrade. It is a launchpad for future change: a platform that opens up new frontiers for innovation, enabling the private sector to develop the next generation of services to benefit people and businesses making payments across the UK and cross border.
+Ultimately, its benefits apply to everyone. Alongside changes to regulation and policy, RT2 facilitates a diverse and innovative ecosystem. One where banks, non-banks, and market infrastructures – including new entrants – have a safe platform on which to innovate, fostering economic growth and financial inclusion.
+As we plan for the future, we are focused on enabling innovation by supporting the next generation of payments. Beyond renewing RTGS, we have identified a series of enhancements to the platform to meet the evolving needs of the UK payments ecosystem, particularly as digital innovation reshapes the payments landscape.
+Today, I would like to focus on potential new services, covering our plans to introduce a Synchronisation Lab and to undertake further experiments in wholesale payments. This is just one part of the Bank’s wider work and thinking on digital innovation. Sasha Mills, the Executive Director for Financial Market Infrastructures, will be speaking here tomorrow on the wider landscape, including our proposed stablecoin regime and how market infrastructure might evolve alongside the existing financial system.
+A synchronisation interface for RT2
+Synchronisation is an exciting development that we have been progressing with industry. In response to our
+2022 consultation on the Future Roadmap for RTGS
+industry indicated a clear appetite for this to be one of the enhancements prioritised by the Bank. We are now transitioning to the delivery stage.
+But what is Synchronisation in this context? Synchronisation will allow for the conditional settlement of funds in RTGS against assets on a variety of external asset ledgers. This means the funds will settle if and only if the asset also settles. It will involve a new type of entity, a 'synchronisation operator' (SO), which will orchestrate the movement of funds in RTGS with the assets on the external ledgers.
+The solution will allow SOs to work with central bank money and with different users and third-party ledgers, irrespective of ledger architecture. This means we would be able to connect RTGS to ledgers built on innovative technology, including Distributed Ledger Technology (DLT), as well as the more traditional databases currently used by many banks. Additionally, it enables the Bank to expand the availability of real-time central bank money settlement to a range of use cases, for example tokenised assets, while avoiding the cost and complexity required to build and integrate a new settlement platform.
+Through RT2, the Bank has set the foundations for private innovation. And our proposed model for synchronisation is designed to be collaborative. The Bank will provide the core synchronisation functionality within RTGS, and SOs will develop and deliver specific use cases and products. This approach is intended to drive further competition and innovation and unlock new business models across the ecosystem.
+It has been extremely important for us to co-create. By working with prospective SOs and the wider payments industry, we can design the service in the way that is most beneficial and will result in the greatest value for users. We have spoken to industry and prospective SOs bilaterally, sought views in our co-creation meetings, and asked about design choices via surveys that have elicited extremely useful insights and shaped our plans. We will continue to collaborate with industry to ensure synchronisation delivers the exciting benefits we are collectively working towards.
+To explore the potential of synchronisation, we have been running a series of targeted experiments with industry and international partners.
+Project Meridian
+, in collaboration with the BIS Innovation Hub’s London centre in 2023, demonstrated synchronised settlement between an RTGS system and a digital asset ledger in the context of UK housing transaction, yielding valuable insights. It showed how synchronisation could streamline complex processes, such as home purchases, using a digital housing deed.
+Let me bring this to life. Imagine a couple buying their first home a few years from now. With the synchronisation interface fully integrated into RTGS, their solicitor initiates the payment and property transfer in one seamless, synchronised transaction. Within seconds, the funds move securely from buyer to seller, and the property title updates on the digital land registry—automatically, without delays or settlement risk. A process that once required significant time and efforts now happens almost instantly, with lower costs, reduced risk, and a far smoother experience. This is the type of real-world impact we are aiming for—where innovation in central bank infrastructure delivers tangible benefits to people, businesses, and the wider economy.
+More recently, through our work on the BIS Innovation Hub’s
+Project Meridian FX
+, on which we co-published results in April jointly with the ECB, we explored payment-versus-payment (PvP) settlement in foreign exchange. It confirmed the technical feasibility of interfacing RTGS with a range of external ledgers, including those based on DLT. This work is attracting growing interest – particularly among other central bank peers, who, like us, are exploring how synchronisation can provide safer, faster, and more transparent cross-border FX transactions.
+We recognise the need to demonstrate the model in a realistic setting, with prospective synchronisation operators who would be offering the service, and to demonstrate to industry the value they can offer. To enable this, we will launch a Synchronisation Lab next year which will provide a non-live environment for potential synchronisation operators to test their flows with the RTGS synchronisation functionality that we are designing.
+We know that the applications of synchronisation are numerous. Experiments like Project Meridian and Project Meridian FX have clarified the potential benefit synchronisation can unlock, but the Lab aims to take things further; it will be the first step in our journey to synchronisation implementation and will provide learnings in a number of areas. It will help produce practical insights for us as operators of the new RT2 platform. It is a useful step for prospective synchronisation operators to test their operational readiness. And it is an opportunity for members of the wider ecosystem that could emerge around synchronisation operators – including payment service providers (PSPs) and asset ledgers – to get a real feel for what is to come. We’re particularly keen for the Synchronisation Lab to be a means for RTGS account holders to engage more with the synchronisation concept, as we recognise the importance of these payment providers for the success of a synchronisation model.
+The Lab represents a strategic step toward translating innovation into operational capability and shaping the future of wholesale settlement. We will continue to make this journey to implementation a collaborative one, so do get in touch if you are interested in taking part in the Lab.
+Programme of wholesale experiments
+Taking the valuable tools and insights we have gained from our Meridian experiments, we are keen to expand our exploration of synchronisation’s potential to support new and efficient forms of settlement using central bank money. That is why, in addition to the Lab, we have launched a programme of wholesale experiments, testing the relative merits of different methods of central bank money settlement for innovative payment systems. The first of these experiments will apply the tools built in Project Meridian to innovative use cases in tokenised securities settlement, supported by technical assistance from the BIS Innovation Hub London. Following feedback from market participants about the importance of these use cases for liquidity efficiency, we will focus on testing the potential for synchronisation to enhance the efficiency and programmability of same day secured lending and collateralisation. We are hoping to share our insights from this experiment later this year.
+At present, we see synchronisation interfaces as a promising and near-term option for supporting new forms of settlement like tokenisation, given their potential to be deployed more quickly by building on the capabilities of RT2. However, we also recognise that this is not the only way in which future innovation might happen and that there is ongoing discussion—both in the UK and internationally—about the most effective ways for innovative settlement models to emerge supported by central bank money.
+In this discussion, two distinct approaches are being explored. An Orchestration approach, whereby a synchronisation operator would act to coordinate settlement across multiple ledgers. This is the approach that a synchronisation interface is best adapted to support, which will be tested in the Synchronisation Lab. The other approach is the concept of a Unified Ledger, where a synchronisation operator would record both assets and payments on a single platform, potentially supported by a wholesale central bank digital currency (wCBDC). This approach could offer a more integrated framework for settlement enhancing programmability, though it remains at an early stage of development and might have a significantly longer and more complex time to market.
+Within the Bank, we have already taken some concrete steps to support innovation in the unified ledger space through the introduction of our omnibus account.
+footnote
+[1]
+The first user of this functionality, the Sterling Fnality Payment System (£FnPS), facilitates sterling transactions on a distributed ledger using a digital representation of funds held at the Bank. This is an important step that means that when Fnality is able to integrate other currencies into its model, it will be able to offer a multi-currency unified ledger to its users, backed by central bank money.
+This prompts the broader question of how the Bank can best support new and efficient forms of settlement using central bank money, and whether the measures we already have in place (omnibus accounts) or are in train (synchronisation) will be meet the evolving needs of the industry. To answer this question, we need to compare the possible routes for enhancing our wholesale payments infrastructure — including a wholesale CBDC. Hence our wholesale experiments.
+These experiments will focus on testing where wholesale CBDC could offer meaningful advantages over synchronisation. This targeted approach will identify a potential added value of wholesale CBDC and help to inform future decisions on the evolution of the UK’s wholesale payments infrastructure.
+The experiments are not intended to reassess the case for synchronisation—we are already progressing it —but rather to explore whether wholesale CBDC might provide a meaningful advantage beyond synchronisation. It is important that we work closely with industry in defining the outcomes we should work toward to ensure the innovations we pursue bring tangible benefits, whether in terms of programmability, settlement finality, or cross-border interoperability. Throughout this process, our objective remains to ensure that the UK’s payment systems are resilient, efficient, and adaptable, and that they continue to support innovation while maintaining trust and stability in the financial system.
+Through our experimentation, we will build a robust body of evidence comparing the capabilities of wholesale CBDC and synchronisation in supporting new forms of settlement in central bank money. This will be included in our final report of the Wholesale Experiments Programme in the second half of 2026. It will also inform our assessment of whether wholesale CBDC offers tangible benefits that merit deeper exploration through additional experiments, alongside further improvements to RTGS.
+We also see this programme of experiments as a driver in the global conversation on how central banks can most effectively support the settlement of tokenised assets. Our experiments will bring together key learnings from our central bank colleagues and add value to exciting experiments we are already involved in like Project Agora. We also hope the tools and technical knowledge we develop through this process bring value to the wider central banking community. For example, we are planning to take forward the approach we tested in Meridian FX and explore with Asian central banks how it might be applied to cross-border FX transactions between sterling and their currencies.
+Conclusion
+RT2 provides a strong platform to deliver innovation in wholesale payments. Through our Synchronisation Lab and wholesale experiments, we are building the foundation for a new generation of sterling payment infrastructure, resilient and ready for the challenges and opportunities ahead. We are riding the wave of innovation: together let’s harness its power.
+Acknowledgements
+I would like to thank Regis Bouther, Zaki Said, Rajan Patel, Conor McFarlane, Richard Lewis and Nina Turnbull for their help in preparing these remarks.
+References
+For further detail on experimentation to support innovation, see
+Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden
+For further detail on experimentation to support innovation, see
+Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden | Bank of England
+For further detail on experimentation to support innovation, see
+Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden | Bank of England
+Close
+Convert this page to PDF
+Victoria Cleland
+Executive Director, Payments
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

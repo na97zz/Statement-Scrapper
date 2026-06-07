@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Laudatory speech",
+  "date_original": "2023-05-16",
+  "date_au": "16/05/2023",
+  "datetime_original": "",
+  "speaker": "Laudatory speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230516~f6f9794177.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-05-16 - Laudatory speech by Christine Lagarde - Laudatory speech.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-05-16 - Laudatory speech by Christine Lagarde - Laudatory speech.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d1a02fd74acafea6bb863651766a58708cab1cb9b44b75f5e88dbfec6b8ff63a"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Case for Continuing Rate Cuts",
+  "date_original": "2025-11-17",
+  "date_au": "17/11/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20251117a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-11-17 - Christopher J. Waller - The Case for Continuing Rate Cuts.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-11-17 - Christopher J. Waller - The Case for Continuing Rate Cuts.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5ebc987431f45be2f9f808c2f72ab061385cd8198bc27f10d75c9aa612c16cd3"
+}

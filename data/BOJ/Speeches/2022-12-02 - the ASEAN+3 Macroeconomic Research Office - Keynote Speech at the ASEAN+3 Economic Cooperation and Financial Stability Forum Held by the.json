@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Keynote Speech at the ASEAN+3 Economic Cooperation and Financial Stability Forum Held by the ASEAN+3 Macroeconomic Research Office",
+  "date_original": "2022-12-02",
+  "date_au": "02/12/2022",
+  "datetime_original": "",
+  "speaker": "the ASEAN+3 Macroeconomic Research Office",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko221202a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-12-02 - the ASEAN+3 Macroeconomic Research Office - Keynote Speech at the ASEAN+3 Economic Cooperation and Financial Stability Forum Held by the.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-12-02 - the ASEAN+3 Macroeconomic Research Office - Keynote Speech at the ASEAN+3 Economic Cooperation and Financial Stability Forum Held by the.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1b684b5df22eb698bcf64fa34924da3e994d07bd40544185429d23cb689dc7bb"
+}

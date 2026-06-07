@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Aomori (via webcast))",
+  "date_original": "2022-03-31",
+  "date_au": "31/03/2022",
+  "datetime_original": "",
+  "speaker": "KATAOKA Goushi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220331a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-03-31 - KATAOKA Goushi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Aomori (via webcast.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-03-31 - KATAOKA Goushi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Aomori (via webcast.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3d6f99b7b24071f532434e8351f95be47fc380a765d1d331267042764f34463d"
+}

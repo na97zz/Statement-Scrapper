@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement on Longer-Run Goals and Monetary Policy Strategy",
+  "date_original": "2025-08-22",
+  "date_au": "22/08/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2025-08-22 - Statement on Longer-Run Goals and Monetary Policy Strategy.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2025-08-22 - Statement on Longer-Run Goals and Monetary Policy Strategy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a21de6b159f62eea9227f4c78cd7b86eaa4e3a29d4b36d24495b1d5f132633a1"
+}

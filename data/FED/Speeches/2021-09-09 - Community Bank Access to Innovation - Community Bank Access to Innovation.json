@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Community Bank Access to Innovation",
+  "date_original": "2021-09-09",
+  "date_au": "09/09/2021",
+  "datetime_original": "",
+  "speaker": "Community Bank Access to Innovation",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210909a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-09-09 - Community Bank Access to Innovation - Community Bank Access to Innovation.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-09-09 - Community Bank Access to Innovation - Community Bank Access to Innovation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a8bffa9710b8a58b51a14c1cf6f69a66f0110fe3583ed9b48d539eb235270131"
+}

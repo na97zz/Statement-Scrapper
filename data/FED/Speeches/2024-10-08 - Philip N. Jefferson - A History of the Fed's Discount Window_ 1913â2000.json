@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A History of the Fed's Discount Window: 1913â2000",
+  "date_original": "2024-10-08",
+  "date_au": "08/10/2024",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20241008a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-08 - Philip N. Jefferson - A History of the Fed's Discount Window_ 1913â2000.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-08 - Philip N. Jefferson - A History of the Fed's Discount Window_ 1913â2000.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ef482a75829c970e36ff971a10ed2c4f9310bf493d6af0df83fff20e03cfa050"
+}

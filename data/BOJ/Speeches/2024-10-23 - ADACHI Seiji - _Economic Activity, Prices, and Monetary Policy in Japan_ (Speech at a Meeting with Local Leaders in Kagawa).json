@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kagawa)",
+  "date_original": "2024-10-23",
+  "date_au": "23/10/2024",
+  "datetime_original": "",
+  "speaker": "ADACHI Seiji",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko241023a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-10-23 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kagawa).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-10-23 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kagawa).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bff4706756727b1552361bbccf80613d85753113887e1f1e4e64fabcf66122af"
+}

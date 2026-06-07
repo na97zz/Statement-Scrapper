@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "What are government bond yields telling us about the economic outlook? - speech by Gertjan Vlieghe",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Gertjan Vlieghe",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/may/what-are-government-bond-yields-telling-us-about-the-economic-outlook-speech-by-gertjan-vlieghe.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Gertjan Vlieghe - What are government bond yields telling us about the economic outlook_ - speech by Gertjan Vlieghe.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Gertjan Vlieghe - What are government bond yields telling us about the economic outlook_ - speech by Gertjan Vlieghe.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:48",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/may/gertjan-vlieghe-speech-hosted-by-the-department-of-economics-and-the-ipr",
+  "content_sha256": "5333814ff2530e65602e9293e6b9e09870e5a7804c3b4f6cb93ac687d938306e"
+}

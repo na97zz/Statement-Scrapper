@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks on the Economy, Monetary Policy, and Bank Regulation",
+  "date_original": "2024-06-27",
+  "date_au": "27/06/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240627a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-06-27 - Michelle W. Bowman - Brief Remarks on the Economy, Monetary Policy, and Bank Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-06-27 - Michelle W. Bowman - Brief Remarks on the Economy, Monetary Policy, and Bank Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6b61573377f26ac7d01c244a6a43a6e2ebff0c44c1753dc777e6ae0a76c09788"
+}

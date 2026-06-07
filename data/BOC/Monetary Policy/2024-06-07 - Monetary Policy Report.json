@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report",
+  "date_original": "2024-07",
+  "date_au": "07/06/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/publications/mpr/mpr-2024-07/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2024-06-07 - Monetary Policy Report.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2024-06-07 - Monetary Policy Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "980d35fcabc91e9dcfd16d10d078a7d27925eb705418f55e78dcce205d01db93"
+}

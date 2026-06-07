@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Euro area current policy challenges",
+  "date_original": "2022-09-15",
+  "date_au": "15/09/2022",
+  "datetime_original": "",
+  "speaker": "Euro area current policy challenges",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220915~84012f3dea.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-09-15 - Euro area current policy challenges - Euro area current policy challenges.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-09-15 - Euro area current policy challenges - Euro area current policy challenges.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "24511e08021ea99374df6e2f05d4924249440b7196e375a50fd25bce40ea5e22"
+}

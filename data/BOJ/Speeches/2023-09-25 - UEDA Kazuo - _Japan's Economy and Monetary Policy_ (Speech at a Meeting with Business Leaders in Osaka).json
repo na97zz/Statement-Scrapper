@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Business Leaders in Osaka)",
+  "date_original": "2023-09-25",
+  "date_au": "25/09/2023",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230925a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-09-25 - UEDA Kazuo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Business Leaders in Osaka).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-09-25 - UEDA Kazuo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Business Leaders in Osaka).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f39d605b9764d018f2ab35a259fbe0f03faa0244833adcf6a5ac8baf4a2f8590"
+}

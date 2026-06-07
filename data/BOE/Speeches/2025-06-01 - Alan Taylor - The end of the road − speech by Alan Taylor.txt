@@ -1,0 +1,927 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The end of the road − speech by Alan Taylor
+DATE: 01/06/2025
+SPEAKER: Alan Taylor
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2025/july/the-end-of-the-road-speech-by-alan-taylor.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+ 
+ 
+The end of the road − 
+speech by Alan Taylor 
+Given at the London School of Economics and Political Science 
+04 July 2025 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech 
+Thank you for the kind introduction and the invitation to come to LSE to deliver my second 
+speech as a member of the Monetary Policy Committee since I joined the Bank of England 
+last September. 
+LSE is a special place in terms of its history with the Bank, going back many decades. 
+Since 1997 it has also been the academic home to many distinguished members of the 
+MPC, to name a few: Mervyn King, Charles Goodhart, Stephen Nickell, Charlie Bean,    
+Tim Besley, Silvana Tenreyro, and my current colleague on the Committee, Swati Dhingra. 
+Through their service they have all set a great example and provide inspiration for me as 
+just the latest professor to serve on the committee. 
+Now on to the speech. Or at least I think it is a speech. On re-reading it I wonder if it is a 
+bit more like an economics seminar—but given our location I hope I can be somewhat 
+forgiven for that. 
+1. Introduction 
+The meta subject of practically any speech by any monetary policymaker is 
+communication. However, paradoxically, in the ideal state of the world, this communication 
+is almost unnecessary. If everyone knows the policy reaction function, through knowledge 
+of the relevant data, history, and actions, then everyone can predict almost without fail the 
+actions you will take now, and in most future states of the world. 
+Now the actual subject of my speech today, given the title, is the end of the road. But if you 
+are now asking yourself the question, “the end of the road for what?” then I have fallen 
+short of that communications benchmark.  
+But at least it leaves me with something to talk about tonight. 
+To cut to the point, the end of the road that I will be speaking about is the end of the road 
+for Bank Rate, our main policy instrument. Also known as the end point, the neutral rate, 
+the rate obtained after all shocks have washed out. That destination, and how we get there 
+is of enormous interest and consequence to the economy, affecting financial markets, 
+banks, firms, households, everyone. 
+This raises further questions: is it really that important? And if so, where is it? I believe that 
+it is important, and that trying to avoid the question is hard, problematic, and in my view, 
+counterproductive. I argued as much in some brief remarks I gave a couple of days ago in 
+Sintra, and I hope to expand further on that theme today. 
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+Whilst one could take a step by step, or meeting by meeting approach to guiding the 
+interest rate, the question of the end point, the final resting place of interest rates, in a 
+steady state can, in my view, never quite be fully sidestepped. 
+I will try to explain why that is, and then try to answer the question as directly as I can by 
+providing my own view, which is of course not necessarily that of my MPC colleagues. 
+2. Recent history: elusive stability 
+To start with some useful historical context, we can look at the recent path of short-term 
+rates, inflation, the output gap, that is, an estimate of the balance between aggregate 
+supply and demand, as well as an estimate of the natural rate in the UK over the last 50 
+years. Remember, one of the hats I wear is that of the economic historian, so 50 years ago 
+is very recent. We’ll be going much further back in a moment. 
+Chart 1: Bank Rate, inflation, the output gap, and r* 
+Percent  
+ 
+Source: Office for National Statistics, Bank of England, Davis et al. (2024), and Bank calculations. Notes: 
+UK 𝑟∗ is an updated version of the measure in Davis et al.; the output gap until the 1990’s is constructed 
+using the HP-filter, then spliced with the output gap from the May 2025 Monetary Policy Report. Latest 
+observation: May 2025. 
+As Chart 1 shows, the Bank’s policy rate, Bank Rate (aqua), has been on a downward 
+trend for the last 50 years, notwithstanding some major fluctuations on either side of that 
+trend. Part of it can be attributed to the fall in the real natural rate of interest (orange) 
+which went from about 3% in the 1980s to near 1% now. Over that same time frame, also 
+inflation has come down from its 1970s highs, settling around 2%, the MPC’s target, but 
+with a lot of noisy fluctuations along the way. 
+-5
+0
+5
+10
+15
+20
+-5
+0
+5
+10
+15
+20
+1975
+1980
+1985
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+2025
+Bank Rate
+UK real neutral rate r*
+Percent
+CPI inflation
+Output gap
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+The question, of course, is why these trends happened and then, where they might go 
+next. But that will take a few steps, and an attempt to get a handle on the underlying 
+economics and the relevant historical evidence. 
+As we can see, in this period, Bank Rate reached its highest level in 1979 and then stayed 
+high through the 1980s, a time when all major central banks sought to put an end to a long 
+inflation surge that began slowly in the 1960s and accelerated with the oil shocks of the 
+1970s. Inflation had been allowed to get out of control and into double digits on an annual 
+basis. The 10%+ inflation unleashed by too loose monetary conditions and unanchored 
+expectations was painful and unpopular, as was the 10%+ unemployment rate that 
+followed under the tight monetary conditions instituted to bring down inflation. In an 
+already dismal science, those years bequeathed new terms of art such as `stagflation’ and 
+the `misery index’—the sum of inflation and unemployment rates, which at times rose to 
+the 20%+ range. 
+Thankfully, we never saw that kind of misery index again, but the macroeconomic 
+aftershocks did not fully subside until around 1990, and they left a big mark on economists 
+and on economic policy. By the early 1990s, in a growing range of advanced economies, 
+we saw the emergence of the current monetary framework of inflation targeting by an 
+independent central bank, an idea that became the global norm and remains with us 
+today. Yet the period of subsequent macroeconomic calm was fleeting and would last for 
+barely 20 years, until 2008, a time that is wistfully referred to by macroeconomists as The 
+Great Moderation. 
+In the case of the UK, those were the ‘nice’ decades—non-inflationary, consistently 
+expansionary (King, 2003). In that window, inflation settled at low and stable levels, 
+economic growth hummed along, and policy interest rates remained on a mostly steady 
+course, and in a fairly stable channel. Bank Rate began this current century at a relatively 
+high level of 5.75%, falling to 3.5% in mid-2003 and tightening before the financial crisis in 
+2008. Up to that point growth was strong and inflation stable. Immediately after, however, 
+rates fell to near zero in early 2009. Subsequent economic growth was weak, and many 
+parts of the world entered a long and deep recession. In this period after the financial 
+crisis, UK inflation was volatile and often meaningfully above and even below target.  
+However, having interest rates on the floor at zero was certainly not seen as a normal level 
+in the long run, and interest rates in some advanced economies began to lift off in the late 
+2010s as economies recovered. The pandemic then hit, the economy was at risk of 
+collapse, rates went back to the floor, and more economic volatility followed. Central banks 
+supported the economy, as did fiscal measures. At the exit from the pandemic, inflation 
+began to rise as supply chains struggled to meet resurgent demand, and then took off after 
+the food and energy supply shocks triggered by the Russian invasion of Ukraine. In that 
+context, Bank Rate, like interest rates across the world, swung from very accommodative 
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+to very restrictive, to push back against inflation dynamics and the risk of expectations 
+unanchoring. 
+In that very brief summary of events, it is pretty clear that, at least since 2008, interest 
+rates here in the UK as well as in other parts of the world, have hardly ever been near their 
+neutral level. And for good reason: the emergence of one shock after another has required 
+central banks to intervene resolutely first in one direction, and then in the other. 
+As a result, and unlike the period before 2008, it is very hard to simply look at the policy 
+rate itself, take some kind of average or trend, and draw any firm conviction as to where 
+the neutral level might be. 
+So, what can we do? Tonight, I will walk through the kind of analytical approach that most 
+macroeconomists would typically use as of now, the current best practice as I see it, and 
+try to explain how that guides my thinking. 
+3. Ancient history: four great epochs 
+However, I did promise a deeper dive into history, and now is a good time to do that. Not 
+for the sake of it, but because I think it provides us with further insights and motivation to 
+ponder the question of what drives interest rates today. 
+The history of interest rates is very long indeed1 and should prompt us to ask what key 
+economic mechanisms have mattered over the very long run and to think about how they 
+have ebbed and flowed in terms of their influence in different times and places. With those 
+perspectives in hand, we are in a better place to think about what might be the most 
+operative forces that bind on interest rates today and in the near future. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 See Homer and Sylla, ‘A History of Interest Rates’. 
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+ 
+Chart 2: Eight hundred years of interest rates 
+Percent 
+ 
+ 
+Source: Schmelzing, 2020. Notes: The chart shows 7-year average real safe rates, obtained from GDP-
+weighted nominal rates and inflation in Italy, United Kingdom, Netherlands, Germany, France, United States, 
+Spain, and Japan since 1310. Latest observation: 2018. 
+Chart 2 is a remarkable figure, built from a remarkable dataset, one that was constructed 
+by a financial historian, Paul Schmelzing, who, a few years ago, worked at the Bank of 
+England and contributed this work to the Bank’s data archive (Schmelzing, 2020). 
+Now of course, even going from 50 to 800 years leaves us with still something of a 
+subsample. There are interest rates from even earlier periods going back several thousand 
+years (see Haldane, 2015). A large body of inscriptions on clay tablets and papyri that 
+have been dug up by archaeologists actually deal with economic records, including 
+oftentimes debt contracts. So debt, and therefore interest rates, and many of the 
+foundations of modern finance, actually go back millennia to ancient civilisations. 
+But in terms of a cleaned, codified, and somewhat standardised time series of interest 
+rates over several centuries, the work of Schmelzing stands out as being useful to us, and 
+not least because it is a continuous study that goes all the way up to the present day. It 
+records interest on debt issued by sovereigns, princes, churches and other debtors which 
+might be the closest analogues to today’s benchmark safe asset issuers. And what stands 
+out, to me, first and foremost as the central message of this chart is this: interest rates 
+have been declining for not just 50 years but for 800 years. 
+-15
+-10
+-5
+0
+5
+10
+15
+20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+1300
+1350
+1400
+1450
+1500
+1550
+1600
+1650
+1700
+1750
+1800
+1850
+1900
+1950
+2000
+50-year centred moving average
+Schmelzing (2020):
+Global real interest rate
+Percent
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+Now we have to ask: why? The data that we see here are just one part of the story. The 
+other parts of the story rely on history and theory, completing the three legs on which any 
+good work of economic history must rest. 
+So let me jump to theory, and then circle back to these historical data. Hopefully, after I 
+have tried to convince you that there are some useful analytical threads that run through 
+the last eight centuries, we will turn back to the present—the recent decades, the here and 
+now, and what comes next. 
+For this purpose, and in an act of gross simplification, let me divide the 800-year history of 
+interest rates into four broad epochs, and then try to bring a bit of economic history to bear 
+on the interest rates in each period. 
+1. The pre-Modern period, which I will take to mean the Malthusian era before the 
+onset of the full-steam Industrial Revolution and the broad development of modern 
+financial markets after 1800. 
+2. The ‘long’ 19th century growth acceleration up to 1914 via industrial development, 
+financial deepening, and the first era of globalisation, amid the first demographic 
+shift. 
+3. The ‘short’ 20th century, beginning with war, depression, war, and followed by the 
+slow and reconstruction of economic and financial structures in the midst of a 
+second demographic shift up to the 1990s. 
+4. The 21st century so far, of accelerated globalisation, and financialisation, of a third 
+demographic shift of pronounced ageing, with continued wealth accumulation, and 
+slower growth (so far). 
+ 
+What I plan to do is to come back to each of these four periods in turn and try to interpret 
+them through some economic lenses. 
+Before I can do that, I will first need a basic theoretical framing, a toolkit to explain what I 
+am doing. 
+4. Theoretical drivers in the very long run 
+What is our theoretical setup going to be? It is shown in Chart 3 and is a very simple and 
+stylised view of the determinants of interest rates as well as savings and investment in an 
+economy populated by savers and borrowers. 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+Chart 3: A simple model of savings and investment 
+ 
+ 
+Savers, think of households, on net, or those acting on their behalf, supply funds to the 
+loan market. Borrowers, think of firms, on net, borrow funds in these markets to invest in 
+productive assets that will be the basis of economic growth in the future. And this is a 
+single economy, a closed economy, for the time being. This exposition resembles one of 
+the earliest, or perhaps the first, discussion about the neutral rate of interest put forward by 
+Knut Wicksell in the late 1800s.2 
+Of course, it is a big simplification. In reality, some households borrow, some firms lend, 
+and government may also be in the picture. But here we will just think of the net flows to 
+focus on the main forces. Gross flows will be much bigger than these net flows, for these 
+reasons, and that is one explanation as to why the financial system is so large. 
+The diagram shows the interaction between households’ supply of funds via savings and 
+firms’ demand for funds to use for investment. The horizontal axis is the quantity of 
+savings and investment, and on the vertical axis is the price, the real interest rate, nominal 
+minus inflation, the real cost of borrowing and the real return on lending. As real rates 
+increase, savers are incentivized to save more by higher rates of return, but borrowers are 
+similarly incentivized to invest less given the high cost of borrowed funds. So the savings 
+supply curve slopes up and the investment demand curve slopes down. 
+We will think of the intersection point in this picture as describing a steady state 
+equilibrium, one with full employment and stable inflation, and where savings equal 
+investment so that the simple financial market has demand equal to supply. In that case, 
+ 
+2 Wicksell, K. (1898). Interest and Prices. 
+0
+2
+4
+6
+8
+10
+0
+20
+40
+60
+80
+100
+120
+Real
+interest rate
+Savings and investment
+Investment
+demand
+Savings
+supply
+r*
+S=I
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+the equilibrium real rate is what is usually called the natural rate, famously known by the 
+symbol 𝑟∗. This is the real interest rate that results when all shocks to the economy, both 
+real and nominal have fully dissipated. 
+If you think those conditions are never obtained, you are right: shocks never fully dissipate, 
+and there are always new ones coming along. This picture, the equilibrium, will never be 
+seen. And thus 𝑟∗ as shown is not actually an observable concept. But despite all that, 𝑟∗ 
+is a very real economic object and one of great importance, as it is the central tendency of 
+the real interest rate, the mean toward which we are always reverting. 
+So in the very long run, even if shocks move the real rate around in the short run, we 
+should see real rates, on average, tending to steer close to 𝑟∗. 
+And then, going back to our historical problem, we can ask how the model can be useful. 
+And that means asking what are the relevant shifts in the patterns of saving and 
+investment that determine 𝑟∗ and what might have made them change in the course of 
+history?  
+Let me list a few prime candidates, the historical movers that economic research has 
+identified as relevant for our problem. 
+1. Property rights: Savers feel less certain that they will actually receive the amount 
+they have been promised when they lend. A contractual mechanism. See Chart 3a. 
+2. Financial frictions: Banks or other market participants become less efficient or 
+competitive. An intermediation mechanism. See Chart 3a. 
+3. People want to save more, and firms invest less out of caution. They are more 
+afraid in a more risky economic environment. A risk or uncertainty mechanism. See 
+Chart 3b. 
+4. People want to save more, and firms invest less because growth prospects are 
+weaker. A growth mechanism. See Chart 3b. 
+5. People want to or can afford to save more for future needs, due to a propensity to 
+save out of higher incomes, fewer children, and/or a longer expected life/retirement. 
+A demographic mechanism. See Chart 3c. 
+6. There appear some external forms of capital inflow which increase available funds 
+in the home economy. A global spillovers mechanism. See Chart 3c. 
+ 
+There may be other forces to consider but these are some of the main ones, and although 
+the quantity implications can be ambiguous, as for example in Chart 3b, in each case the 
+directional impact on 𝑟∗ is clear and intuitive. 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+Chart 3: Drivers of r* in the simple model of savings and investment 
+a) A friction in the market due to poor property rights or costly intermediation 
+ 
+b) Higher savings and lower investment due to elevated uncertainty or weaker growth 
+ 
+c) Savings glut due to higher propensity to save, demographic change, or capital inflows 
+ 
+0
+2
+4
+6
+8
+10
+0
+20
+40
+60
+80
+100
+120
+Real
+interest rate
+Savings and investment
+Investment
+demand
+Savings
+supply
+r*
+Cost of 
+friction
+0
+2
+4
+6
+8
+10
+0
+20
+40
+60
+80
+100
+120
+Real
+interest rate
+Savings and investment
+Investment
+demand
+Savings
+supply
+r*
+0
+2
+4
+6
+8
+10
+0
+20
+40
+60
+80
+100
+120
+Real
+interest rate
+Savings and investment
+Investment
+demand
+Savings
+supply
+r*
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+5. History seen through the lens of theory 
+Let me now dive back into history and try to give an account of the last 800 years of 
+interest rates. Obviously, such an account will be multicausal not monocausal, a sensible 
+way to go despite the standard temptation in economics to shoehorn everything into one 
+theory. Here our theoretical toolkit is well suited without being too specific, allowing for 
+multiple factors to change the equilibrium and the resulting natural rate in different epochs. 
+Let me turn to the first epoch, the years from the Middle Ages to the 1800s in Europe, and 
+with special attention to Britain. In this pre-industrial era, growth was slow as rates of 
+productivity advancement were minimal, and the population was, at least early on, often in 
+a Malthusian stasis. Incomes and wealth were low and few people had much beyond 
+subsistence. Financial intermediation was poor until at least the 1700s, and somewhat 
+embryonic even after that. With both investment opportunities and sources of savings very 
+repressed, the question then remains, what kept the interest rate so high? 
+I think the answer lies in the first and second examples we considered – property rights 
+and financial frictions. Financial frictions were indeed high, given the primitive state of 
+banking and capital markets. But perhaps even more of a binding constraint was the often 
+unreliable nature of financial contracts. In a world of often arbitrary property rights and 
+weak rule of law, returns were never sure, and confiscation or default risks were high. The 
+investor in a project might not see the payoff; and any payoff might not translate into 
+repayment of the lender. That meant a risk premium that would end up in the price, in the 
+equilibrium real interest rate 𝑟∗. 
+Only over many centuries would that environment change, and only slowly through 
+changing property rights, rule of law, and contract enforcement. In British history we think 
+of 1215, 1688, and many other points along the road. For even just the most basic 
+financial channels to function reasonable smoothly, institutions needed to change. In the 
+words of the economic historian Eric Jones, these centuries saw not a slew of 
+technological advances, but a removal of impediments setting the stage for things to 
+come: 
+What was important instead was the slow planing away of roughness and risk, so 
+that entrepreneurs might not merely maximise profits but retain them too. And as 
+interest rates were brought down so choices among investments became technical 
+exercises in deciding what the market demanded, rather than matters of guessing 
+merely where it was least risky to hazard resources. The economy became 
+regulated by economic rather than political decisions.3 
+ 
+3 Eric Jones, The European Miracle: Environments, economies and geopolitics in the history of Europe and 
+Asia, 3rd edition (Cambridge: Cambridge University Press), pp. 234-235. In the lead up to this passage, 
+ 
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+ 
+Let me now turn to the second epoch, from around 1800 to 1914, marking the onset of 
+modern economic growth and global economic integration. In Britain, after the war’s end in 
+1815, the Industrial Revolution gathered steam in the first half of the 19th century, and the 
+first era of globalisation took shape in the second half of the 19th century. The first 
+demographic transition unleashed for a time a population boom. The financial sector grew 
+to a hitherto unprecedented size, and Britain led the way as the financial capital of the 
+world in this era, the first true full-scale era of finance-capitalism which channelled savings 
+into enterprise at home and then increasingly overseas. 
+Both savings supply and investment demand were up, relative to their moribund levels in 
+centuries past. But which was pushing harder? How did rates move? Interest rates had 
+briefly suffered their biggest upward spike in centuries during the Napoleonic war; hardly a 
+surprise as it was a very expensive war: British government debt peaked at 213% of GDP 
+(Hills, Thomas & Dimsdale, 2010). But after Waterloo, as time wore on, interest rates 
+returned to their inexorable downward path. The great wave of savings was in full flow, its 
+pace running well ahead of the surging investment demands of even the heavy industrial 
+age. 
+Through the lens of our models, I think we can interpret this as a combination of a growth 
+shock (potentially raising 𝑟∗) and rising global capital demand after 1870 (also potentially 
+raising 𝑟∗), but also a 19th century savings glut at home and a continued diminution of risks 
+and frictions in the finance sector (acting to lower 𝑟∗) with the latter dominating. 
+It was a world now made safer for savers, and unsurprisingly, many more savers there 
+would be. But that was also because at the same time incomes rose and the economy had 
+decisively broken out of the Malthusian trap. Initially, saving may have been the domain of 
+only the very wealthy in previous centuries, but saving was now spreading to the middle 
+classes, whose incomes were advancing far away from subsistence, and whose financial 
+concerns end up grist for many a Victorian novel. The sources of saving grew rapidly at 
+home. Interest rates fell further, and the downforces on 𝑟∗ were quite strong, even 
+absorbing an increasing demand from the rest of the world after 1870 as financial 
+integration brought a new source of demand for abundant British funds from abroad. 
+Integration meant further downforce as home savings were freer to roam when the pace of 
+economic growth decelerated in the Edwardian era and home investment needs abated. 
+ 
+Jones quotes the famous line of Smith that ‘Little else is requisite to carry a state to the highest degree of 
+opulence from the lowest barbarism, but peace, easy taxes, and a tolerable administration of justice; all the 
+rest being brought about by the natural course of things.’ 
+
+
+Bank of England  
+ 
+ Page 13 
+ 
+Let me now turn to the third epoch, the 20th century. Perhaps this ought to be broken up 
+further into two halves. 
+If we are asking the question of what could stop the downforce on interest rates, the first 
+decades of war and depression and another war did not cause a decisive break. Economic 
+growth was subdued and a shift to greater risk and economic (and policy) uncertainty 
+compounded the urge to save more and invest less due to precautionary motives. Those 
+sentiments would be lodged for some time, and shape savers’ financial behaviour even 
+after 1945 (Malmendier & Nagel, 2011 and Malmendier & Shen, 2024). 
+Governments borrowed on a large scale again, but often used new techniques of financial 
+repression to keep interest rates low, so we are not entirely sure of the market equilibrium 
+in these times of war and its aftermath, in financial markets just as in other markets. Add to 
+this the arrival of inflations and hyperinflations after the 1914 break from gold, and 
+observed real interest rates became very volatile, as we saw in Chart 2. 
+All that said, we emerged in the post-war period of the 1950s with real rates at about the 
+same level we had last seen them before the dislocations of 1914-1945. A pause perhaps 
+but no decisive break from the 800-year trend. That would very briefly change, chiefly for 
+an unusual and time-specific demographic reason: the Baby Boom. This event, through its 
+subsequent echo in the 1970s and 1980s, would momentarily boost investment and 
+economic growth, against an already rapid growth backdrop, and those expanding 
+investment needs would, for a generation, just nose ahead of savings supply that was 
+being held back by the same growth and demographic mechanism. Older children entered 
+the workforce which grew at a faster pace, while younger children put downward pressure 
+on household savings. In that moment, the trend of 800 years was held in check. 
+But that countertrend didn’t last long. One reason was a downshift in growth rates again 
+from the 1970s onwards. An even bigger and more persistent force derives from another 
+demographic pattern, which this time wasn’t a one-off blip, like the Baby Boom, but a 
+permanent shift in our population patterns that endures today and into the infinite future as 
+far as we can see: Ageing. The old person. And, increasingly, as time has gone by, the old 
+person with savings. And those savings were increasingly needed to finance the 
+increasingly lengthy period of retirement in old age, that had simply never been much of a 
+possibility in previous epochs, and which, beyond a baseline level, could not be provided 
+for out of state pension provision alone.4 
+ 
+4 This may explain why it is hard, if not impossible, to find a statistically significant relationship between 
+demographics and interest rates in sample periods prior to the late 20th century. The motive to save for 
+retirement was weak to non-existent given prevailing life expectancies (see for example Rogoff, Rossi & 
+Schmelzing, 2024). 
+
+
+Bank of England  
+ 
+ Page 14 
+ 
+The continuation of those trends well describes the times we have been living in since, the 
+fourth epoch.  
+The savings glut of the old has rolled on and on, and the average wealth of ageing 
+individuals seems to rise with age not fall, as was pointed out by former MPC member Jan 
+Vlieghe in his speech here at LSE almost exactly four years ago. Moreover, the 
+savings glut of the old seems to be particularly strongly felt in the space of safe assets (like 
+fixed income) as opposed to risky assets (like equity), which may be a reflection of the 
+variation in risk preferences across different age groups (Kopecky & Taylor, 2022). For 
+that reason, this new ageing pressure on returns to capital may be more powerfully and 
+differentially felt on debt yields, and thus on 𝑟∗, than in any other asset returns. 
+We have also seen other savings glut pressures. Capital flows to poor countries were 
+common in the 19th century and even in the 1960s and 1970s. In recent decades, capital 
+tends to flow more uphill, especially public savings in the form of foreign currency reserves 
+and sovereign wealth funds which have pushed savings into the advanced economies. So, 
+global forces have been acting to push the 𝑟∗ in advanced economies down, not up 
+(Bernanke, 2005 and Rachel and Summers, 2019). A further savings glut may be driven 
+by inequality, if the rich have higher propensities to save, and this force has also been in 
+play (Mian, Straub & Sufi, 2020 and Mian, Straub & Sufi, 2021). 
+Summing up this history of how we got here and what it means for where we go next, I 
+would make two points. 
+First, for most of our peacetime history one or more of the following five conditions was 
+met:  
+1. a poor financial contracting environment; 
+2. an inefficient, backward financial sector; 
+3. very few people able to save or incentivized to do so by ageing; 
+4. a high pace of economic growth at home requiring investment; 
+5. strong demand for borrowing from abroad.  
+Each of these forces acted during one or more phases of history to prop up the natural 
+rate, 𝑟∗. They came and went, but one by one they have gradually fallen away, and for the 
+first time in history all five forces are absent. This is why we are where we are. 
+Second, and looking forward, the absence of these five factors seems to me likely to 
+continue at least in the near term. Those who believe that 𝑟∗ may rise in the near future, 
+which is not my view, presumably have strong reasons to think that some kind of reversal 
+on at least some of these dimensions is likely. Let me speculate on where, if at all, that 
+seems likely. 
+
+
+Bank of England  
+ 
+ Page 15 
+ 
+I will not speak to items 1, 2, or 3; if we are to have a collapse of rule of law then we will 
+have bigger things to worry about than 𝑟∗; a return to inefficient financial markets, a going 
+backwards, also seems unlikely to me; and the desire to save for retirement seems to be 
+destined only to get stronger, as ageing progresses further all over the world.5 
+That leaves items 4 and 5: some reason for more investment to support growth, or a 
+reversal of the global savings glut in poorer countries. Whilst many people propose the 
+first, and we may have some updraft from the climate transition or AI, based on the 
+numbers I have seen, the investment needs may not be of such a magnitude as to match 
+what we saw in the peak investment age from the 1800s to the mid-1900s when heavy 
+industrial and infrastructure needs were at their apex. 
+If anything, I wonder about the last item, the possible reversal of capital flows from poor to 
+rich countries; it will depend on how well each country can finance its own investments 
+through home savings (their demographic shift to ageing is even faster), and it will matter 
+just as much how the institutional environment adapts to boost growth and attract foreign 
+investment. But at best, they would have a large capital accumulation gap to fill, and if that 
+kicks into gear even with partial force it would be felt in global capital flow pressures. 
+I doubt it, but I would be happy to be proved wrong, as it would mean rapid economic 
+development in many poorer countries would be getting underway. Rather I think the 21st 
+century 𝑟∗ will be defined most of all by yet more ageing: an even greater savings glut of 
+the old, but now accelerating to become a global phenomenon, in more emerging 
+developing countries, and it will be an important shift and likely a big challenge for us all. 
+6. Where now? Trend and cycle in advanced economies 
+Now, given what has been presented so far, you might be asking: If 𝑟∗ is not directly 
+observable, how can we measure it?  
+For that, we need a model. And preferably one that captures the time dimension, unlike 
+the simple, static demand-and-supply model I showed above. I said before that 𝑟∗ is 
+something like the mean that real rates will revert to when shocks wash out. However, 
+since at any point in time what we observe is not the steady state, and departures from 
+steady state can be very persistent, inference about 𝑟∗ requires more than a statistical 
+trend-cycle decomposition—although all models of this class tend to be, in the end, some 
+sort of fancy moving average. 
+ 
+5 I should mention here that, as Charles Goodhart has pointed out, there might be a countervailing force in 
+ageing societies which again puts upward pressure on 𝑟∗ (Goodhart and Pradhan, 2020). That is, when the 
+dis-saving of the retired outweighs the saving of the still-in-work, then our supply curve can again shift 
+inwards. 
+
+
+Bank of England  
+ 
+ Page 16 
+ 
+The models that we have of 𝑟∗ typically embody restrictions that are consistent with some 
+economic theory of what that steady state might look like. For example, if we posit that the 
+steady state is one where demand and supply in the goods market are in balance (i.e. the 
+output gap is closed), and that inflation is at its target or some long-run trend rate, and we 
+have estimates of the structural equations governing the world, then we can design a filter 
+which, at any point in time, yields that real rate which is consistent with those conditions 
+being true. 
+What I have described is a version of probably the most well-known and widely used 𝑟∗ 
+model, that is, the New York Fed’s. It was first estimated by Thomas Laubach and John 
+Williams for the United States in 2003 and later extended to other countries in Holston-
+Laubach-Williams (2017). Their model is a semi-structural version of the New Keynesian 
+model with a Phillips curve and an IS curve. And, crucially, it has time-varying trends which 
+they back out using the Kalman filter.  
+Many other 𝑟∗ models have subsequently built on this tradition.6 My own preference is for 
+a macro-financial state-space model, which joins up the macroeconomic block of the 
+Laubach-Williams model with the financial block of a standard affine term structure model 
+of the government bond yield curve, as described in my recent work with coauthors (Davis 
+et al., 2024). There we estimated 𝑟∗ across a group of advanced economies. To briefly 
+explain a bit of the methodology, the macro block models the lower-frequency long-run 
+stochastic trends in inflation and 𝑟∗, and the finance block allows higher-frequency cyclical 
+bond market fluctuations around these trends (where 𝑦̅𝑡 is the average yield on 
+government bonds, and 𝜖𝑡
+𝑐𝑦𝑐 is a cyclical disturbance which includes risk factors):7 
+𝑦̅𝑡= 𝑎𝑦+ 𝑏𝜋𝜋𝑡
+∗+ 𝑏𝑟𝑟𝑡
+∗+ 𝜖𝑡
+𝑐𝑦𝑐 
+For this speech, I have updated the estimation of this model and taken it up to the latest 
+quarter (2025Q1). Chart 4 shows point estimates of the real neutral rate for five advanced 
+economies (US, UK, Japan, France, and Germany) since the 1990s, using the non-
+recursive variant of the model with a two-sided Kalman filter to capture the smooth long-
+run trends using the full sample of data. The estimates are reasonably precise, with 95% 
+confidence intervals of about 50 to 150 basis points. 
+ 
+6 Other models of this type, placing more or less restrictions on the structural parameters, include the 
+Richmond Fed’s Lubik & Matthes (2023) and Ferreira & Shousha (2023). Another class of models includes 
+certain structural Overlapping Generations (OLG) models. These are valuable not necessarily for estimating 
+today’s 𝑟∗ at business cycle frequency, but allow for forward-looking inferences based on expected 
+demographic changes, productivity growth, and the impact of factors such as climate change and climate 
+change policies as well as emerging technologies like AI (for example, Kopecky & Taylor, 2022 and Cesa-
+Bianchi, Harrison & Sajedi, 2023). 
+7 See also Cieslak & Povala (2015) and Bauer & Rudebusch (2020). 
+ 
+
+
+Bank of England  
+ 
+ Page 17 
+ 
+Chart 4: Neutral rate estimates for G5 economies 
+Percent 
+ 
+Source: Davis et al. (2024) and Bank calculations. Latest observation: March 2025. 
+Several features of the chart stand out. First, 𝑟∗ has been on a strong downward trend in 
+all the countries. Second, real rates began in positive territory between 3% and 7%. Third, 
+in the recent period after the financial crisis of 2008, these trends have approached and, in 
+some cases, passed through zero and into negative territory. Fourth, the overall ranking of 
+rates today bears some intuitive relationship to fundamentals like growth rates and 
+demography. In Japan and the euro area growth is slow and ageing is further advanced. In 
+the UK and US these downforces are not yet as pronounced.8 
+Finally, note the levels and their relatively smooth profile in recent years. Neutral rates 
+have ticked up a little bit from the lows seen during the years of the pandemic period, but 
+they have not moved massively. 
+What might this imply for the neutral nominal rate? The point estimate of 𝑟∗ for the UK is 
+about 0.75% per annum for Q1 2025, similar to the levels that were seen in the UK in 
+2015-2016. Adding 2% for our inflation target, we reach a nominal neutral rate of 2.75%, 
+and around that we might place a suitable confidence band to keep in mind possible 
+measurement error to arrive at a range of 2.25% to 3.25%, which I don’t think is a 
+particularly controversial or unusual range for such an estimate.9 
+ 
+8 Without financial frictions and with free flow of capital, one would expect neutral rates to converge across 
+countries. However, these frictions exist, and they cause persistent cross-country gaps between neutral 
+rates. See, for example, Cesa-Bianchi, A., Lloyd, S., Sajedi, R., Sampaolesi, M. A. (forthcoming). "The 
+Natural Rate of Interest in Small-Open Economies: Asymmetries and Fragmentation", mimeo. 
+9 This is applying the 95% posterior interval at the end of the UK 𝑟∗ series in Davis et. al. (2024), which is a 
+range of roughly 100 basis points. 
+-2
+0
+2
+4
+6
+8
+-2
+0
+2
+4
+6
+8
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+2025
+United Kingdom
+Percent
+United States
+Japan
+Germany
+France
+
+
+Bank of England  
+ 
+ Page 18 
+ 
+7. Where next? My near-term outlook 
+Now to conclude, on two happy notes. Our model provides us with an end point for the 
+interest rate. That, in turn, allows me to provide you with an end point for this lecture. 
+Should we close in to a state of the world where all shocks have mostly dissipated, I would 
+expect Bank Rate to normalise at close to the central estimate of 2.75%. That means with 
+Bank Rate currently at 4.25% we still have a long way to go to get to neutral, and our 
+current policy is still quite restrictive, as we can see from Chart 5, which plots the path of 
+UK 𝑟∗ against the ex-post real short term rate both in the past an as implied by our May 
+2025 MPR forecast. Here, the aqua line measures the inflation-adjusted return that an 
+investor would have made over each four-quarter period by investing their money at Bank 
+Rate. 
+Chart 5: UK ex-post real short-term rate and r* 
+Percent 
+ 
+Source: Office for National Statistics, Davis et al. (2024), Bank of England, and Bank calculations. Notes: 
+The ex-post real short-term rate is calculated as the four-quarter rolling average of Bank Rate less annual 
+CPI inflation over the same four quarters. It is projected forward using the May 2025 MPR forecast. Latest 
+observation: 2025 Q1 (realised), 2028 Q2 (forecast). 
+To say a little more about that May 2025 MPR forecast: There is a bump in inflation in 
+2025, due to one-off factors like taxes and administered prices (which is also why there is 
+a dip in the real rate forecast at the start of the horizon). There may be a small excess of 
+inflation over target in 2026, but by late 2026 we are again very close to 2%, and the 
+forecast sees a degree of slack opening up in the economy, with unemployment rising to 
+5%. I would expect Bank Rate, should those projections be close to what we actually see, 
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+1990
+1995
+2000
+2005
+2010
+2015
+2020
+2025
+UK ex-post real short-term rate
+UK real neutral rate r*
+Percent
+May 2025 MPR
+
+
+Bank of England  
+ 
+ Page 19 
+ 
+to be near neutral, say around 3% by the end of 2026, if inflation still sits a bit above 
+target. 
+However, our forecast is based on a market curve that anticipates a much higher level of 
+rates in 2026 and 2027, levelling off between 3½ and 4%. In my view, given my estimate 
+of 𝑟∗, that would imply continued, and even increasing restrictiveness in our monetary 
+policy stance in 2026 and into 2027, as shown in this chart. This, to my mind, risks pushing 
+inflation below target and opening up an unduly large degree of slack. 
+These considerations were behind my votes in May and June, in the last two MPC 
+meetings. In February and March, I had voted with the majority to make one 0.25% cut in 
+February and no cut in March. 
+That quarterly pace of cuts has been often associated, by some financial market analysts, 
+with a ‘gradual’ pace of loosening. I was happy at that time to wait and let more data 
+materialize to be sure that we understood the bump, we had more insight into wage and 
+services inflation dynamics, and hopefully more clarity of the uncertain and shifting global 
+economic environment. 
+Recently, I have felt more assurance on these three factors. The 2025 bump remains but 
+is expected to subside as the causal factors peel away with a 12-month lag. The incoming 
+data suggest wage settlements of about 3.7% in 2025, a big step down from last year, and 
+close to a target-consistent level, and labour market slack has opened up and is 
+expanding. Globally, trade war tensions remain, despite the many pauses, and both the 
+uncertainty effect and the mechanics of trade diversion imply downside risks to our 
+inflation forecast. 
+So in the near term I see stronger disinflationary forces building up over the rest of this 
+year, and then in the medium term I see a need to reach for a lower neutral level over the 
+course of 2026 and 2027 should we be able to normalize smoothly. For those two reasons, 
+I was persuaded to not only vote for a lower level of Bank Rate now but also to signal the 
+need to be on a lower path over the year to come. 
+I also think that, for the reasons given, we remain restrictive such that for me a better risk 
+management approach at this point is to cut and hold for longer later, rather than hold too 
+much, and have to cut in a hurry later. I think of this as a form of insurance. 
+I am now near the end of my first year on the MPC and over that time much has changed. 
+I think the balance of risks has shifted. We are having to look through a lot more noise and 
+focus on the direction of the underlying trends at home and the mounting risks around the 
+world. The constellation of these deeper forces continues, in my view, to push in a 
+direction that is weakening demand faster than supply and generating a lot of downside 
+risk for our economy. Optimism has faded and geoeconomic storms have blown in. 
+
+
+Bank of England  
+ 
+ Page 20 
+ 
+Many could imagine a soft landing a year ago, but I think that soft landing is at risk. I think 
+right now some insurance against deteriorating demand is advisable, and I think 
+macroeconomic history shows that insurance is best taken out sooner rather than later. 
+For sure there will be future shocks, and our policy interest rate must react to them as they 
+materialise, to get the degree of restriction or accommodation right. But, as I have argued 
+tonight, that is something to be judged relative to neutral. 
+So I will leave you with what is, if you like, the paradox of monetary policy making:  
+We know we will never see the end of the road, but we must always be looking for it. 
+ 
+ 
+ 
+ 
+The views expressed in this speech are not necessarily those of the Bank of England or 
+the Monetary Policy Committee. 
+Thanks to Lennart Brandt and Vitor Dotta for help preparing this speech, and to Andrew 
+Bailey, Natalie Burr, Olly Bush, Ambrogio Cesa-Bianchi, Christoph Herler, Simon Lloyd, 
+Catherine L. Mann, Martin Seneca, and Fergal Shortall for helpful comments.

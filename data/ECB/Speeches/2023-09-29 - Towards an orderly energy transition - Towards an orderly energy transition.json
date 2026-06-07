@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Towards an orderly energy transition",
+  "date_original": "2023-09-29",
+  "date_au": "29/09/2023",
+  "datetime_original": "",
+  "speaker": "Towards an orderly energy transition",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230929~9cd14eddfc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-09-29 - Towards an orderly energy transition - Towards an orderly energy transition.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-09-29 - Towards an orderly energy transition - Towards an orderly energy transition.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3e68069213819c33ef52305c7ff7d74ffebe3eeca9d8c76389c3381d8665bab6"
+}

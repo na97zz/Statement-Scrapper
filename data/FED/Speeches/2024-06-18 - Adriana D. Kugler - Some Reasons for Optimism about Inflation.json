@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Some Reasons for Optimism about Inflation",
+  "date_original": "2024-06-18",
+  "date_au": "18/06/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20240618a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-06-18 - Adriana D. Kugler - Some Reasons for Optimism about Inflation.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-06-18 - Adriana D. Kugler - Some Reasons for Optimism about Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ef56110c2c869ce8db9ddac31004cacd10f58d975db8d8a91dcd9e219efad87b"
+}

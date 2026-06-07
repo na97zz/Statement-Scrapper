@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Building Climate Scenario Analysis on the Foundations of Economic Research",
+  "date_original": "2021-10-07",
+  "date_au": "07/10/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20211007a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-07 - Lael Brainard - Building Climate Scenario Analysis on the Foundations of Economic Research.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-07 - Lael Brainard - Building Climate Scenario Analysis on the Foundations of Economic Research.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "201ff2130304288a8beb6bdc623137874013a90d9ef6748e8d1fff33b023f811"
+}

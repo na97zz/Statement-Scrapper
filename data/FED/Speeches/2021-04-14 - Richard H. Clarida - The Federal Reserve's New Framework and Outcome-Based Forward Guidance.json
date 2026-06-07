@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Federal Reserve's New Framework and Outcome-Based Forward Guidance",
+  "date_original": "2021-04-14",
+  "date_au": "14/04/2021",
+  "datetime_original": "",
+  "speaker": "Richard H. Clarida",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/clarida20210414a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-04-14 - Richard H. Clarida - The Federal Reserve's New Framework and Outcome-Based Forward Guidance.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-04-14 - Richard H. Clarida - The Federal Reserve's New Framework and Outcome-Based Forward Guidance.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "589a3e1697c269b761b9f6ec8f8183aa5407bf582156af9b4baf7c8187f9c653"
+}

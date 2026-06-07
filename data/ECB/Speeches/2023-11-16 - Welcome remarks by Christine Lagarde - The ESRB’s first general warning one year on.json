@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The ESRB’s first general warning one year on",
+  "date_original": "2023-11-16",
+  "date_au": "16/11/2023",
+  "datetime_original": "",
+  "speaker": "Welcome remarks by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231116~1bdd773fdc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-11-16 - Welcome remarks by Christine Lagarde - The ESRB’s first general warning one year on.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-11-16 - Welcome remarks by Christine Lagarde - The ESRB’s first general warning one year on.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "aec7a4c07ea465706a6d03f63f2521303cac13431eb56fd8daa633c7e0798c8a"
+}

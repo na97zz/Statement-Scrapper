@@ -1,0 +1,149 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Beyond faster horses: Wholesale Financial Markets in the Digital Age - speech by Sasha Mills
+DATE: 01/06/2024
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/november/beyond-faster-horses-wholesale-financial-markets-in-the-digital-age
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Beyond faster horses: Wholesale Financial Markets in the Digital Age - speech by Sasha Mills
+Given at The Tokenisation Summit 2024
+Published on 
+
+ 21 November 2024
+Sasha Mills, Executive Director for Financial Market Infrastructures, talks about how innovation in wholesale financial markets could boost growth and economic development, in much the same way that the invention and production of the internal combustion engine changed the way we travelled and traded in the 19th and 20th centuries. Sasha highlights how the potential impact of tokenisation, programmable platforms, and the adoption of other new technologies could make post-trade processes faster, cheaper and more efficient, restructuring our financial system and the way we engage with it.
+Speech
+Good afternoon, it’s a pleasure to be here at the Tokenisation Summit. I know many of you are at the forefront of modernising financial services and this summit is helpfully bringing entrepreneurs and practitioners together. The Bank of England (the Bank) is following these developments closely, so this is a timely opportunity to speak to you.
+Innovation occurring in wholesale financial markets today could have a truly transformative impact. It might change how well markets function, how participants and regulators interact with those markets, and consequently boost growth and economic development. To give a sense of the scale of the potential change, in twenty years we may look back and see parallels between the way the financial system works today and the way we used to travel in the 19th century.
+Back in the late 1800s people got around by horse and cart; once the first commercially successful combustion engine was invented it took only a few decades for production line processes to make that invention available to the general public, transforming the world of travel. Today, tokenisation and the adoption of new technologies in financial markets, such as programmable platforms, including those based on distributed ledger technologies (DLT), have the potential to make post-trade processes faster, cheaper and more efficient, restructuring our financial system and the way we engage with it.
+The way people travelled in the 19th century involved many steps, each adding costs. A horse’s energy and capabilities constrained travel to certain routes, and required frequent stops to refuel or rest overnight. As with many transformative inventions, when the combustion engine was invented, people could not imagine what it would mean for them. If you asked people in the 19
+th
+century what they needed to improve travel they would have asked for faster horses. The rapid transition from horse and cart to cars removed many transport inefficiencies. The economic benefits of highly efficient production lines made car travel affordable and accessible for a larger market. This led to incentives to invest in quality road infrastructure, creating a virtuous cycle of increasing efficiencies.
+Digitisation has been the combustion engine of financial markets, transforming paper-based systems of the 1960s and 70s to computer-based activity, on to the digital systems of today. Tokenisation and the adoption of new technology can further revolutionise financial markets, like automated production lines fundamentally altered our conception of what was possible in transportation.
+Tokenisation refers to the process of issuing or representing assets in the form of digital tokens, usually on a programmable platform. In some sense, tokenisation is not a novel concept – financial securities like stocks have existed primarily as digital representations on databases for a long time, and we have found ways of representing commodities such as gold electronically, so it is easier to trade them. The real innovation is the type of infrastructure on which that token sits, and what that enables.
+As it stands today, the implementation of programmable ledgers and tokenisation initiatives in traditional financial markets, for both securities and money, is at the experimental or early adoption stage. Think of these as the new machines and processes in our car factory which are replacing manual assembly.
+Right now, we are testing the machines. Some of them might work out, some of them might not. But it could in time bring about better outcomes, even if mass adoption could still be many years away.
+Let me first turn to what the new machines can do:
+Distributed ledgers, as opposed to centralised ones that all participants need to reconcile with, can reduce the need for a single central party to perform record-keeping on the ledger and can also mean there isn’t a single point of failure in how critical data is stored.
+The use of cryptographic techniques to secure data can reduce risk by improving the security and integrity of financial transactions.
+Programmability, the ability to write specific rules that will execute automatically in response to predetermined conditions or data, known as ‘smart contracts’, has facilitated the consolidation and collapsing of the trade and post-trade functions, resulting in reduced settlement risk, and unprecedented efficiency gains in the trade lifecycle.
+The role of regulators in enabling and facilitating innovation
+The invention of the car, and its mass production, came from private enterprise. But public authorities had a role to play too in its safe adoption across the population. Better public infrastructure like roads and pavements were needed. And over time, as the risks became clearer, effective regulations greatly reduced casualties from road accidents, without disincentivising the innovations that led to mass car ownership.
+In the same way today, public authorities have a role to play in the reinvention of wholesale financial markets, both as enablers of innovation and providers of public infrastructure, and as regulators to ensure adoption happens in a way that preserves financial stability and is safe for participants in these financial markets.
+The Bank of England understands the role that it needs to play in this reinvention, and we have been active in facilitating innovation in wholesale markets, in relation to both assets and money. Today I’m going to talk more about the assets side, but we are cognisant both are key components to the transition, and both are progressing promisingly. Let me highlight some of the Bank’s work in this space, alongside some of the potential developments in the wider financial markets.
+Digital Securities Sandbox
+The Digital Securities Sandbox, or DSS, has recently opened for applications. This joint initiative between the Bank and the Financial Conduct Authority (FCA), open to UK-registered firms, is a really significant milestone for the UK. The Sandbox gives the Bank the power to ‘turn off’ the rules, to allow industry to experiment with developing technologies, including tokenisation, to issue, trade and settle both digitally native securities, and so-called ‘digital twin’ tokenised securities in a safe and secure environment for a range of regulated asset classes.
+Echoing the words of the minister earlier, we look forward to seeing proposals supporting the issuance of a digital gilt in the Sandbox. This encapsulates both our traditional objective on financial stability through supporting the functioning of the critical gilt market, but also our newer secondary objective on innovation by looking at how thinking differently and trying new approaches could support developing this market.
+Digital money
+If tokenisation of securities is like the move from horse and cart to mass-produced cars, the transformation of money and payments is like the creation of the railways. As Deputy Governor Sarah Breeden has previously discussed, payments provide the rails for the trains of our financial system to run on.
+footnote
+[1]
+To unlock more of the benefits of tokenisation, including the programmability of securities, money needs to keep up with developments in tokenised assets. At the same time, ensuring the orderly settlement of wholesale market transactions is critical. Singleness of money – the principle that all different forms of money must be exchangeable with each other at par – is fundamental to monetary and financial stability. For this reason we’ve indicated that we have a low-risk appetite for a significant shift away from current levels of settlement in central bank money to privately-issued forms of money like tokenised deposits.
+As outlined in the Payments Innovation Discussion Paper published over the summer
+footnote
+[2]
+the Bank is considering ways to preserve and enhance the usefulness of central-bank money as a settlement asset for digital asset transactions. Part of this is the work taking place on the Bank’s RTGS
+footnote
+[3]
+system where we have already introduced omnibus accounts, and are working closely with the industry to design and develop a synchronisation service.
+Synchronisation could enable an asset to be transferred from one party to another on an external platform, including potentially one based on DLT, with the cash leg of the transaction taking place on the existing RTGS ledger. The Bank has tested synchronisation in experiments working together with the Bank of International Settlement (BIS)’s Innovation Hub London Centre and other partners.
+Alongside synchronisation, we are also considering what additional functionality a so-called wholesale central bank digital currency could bring. The Bank will launch a programme of experiments across both use cases in the coming months.
+The age of programmable ledgers and tokenisation
+The settlement process after a trade is agreed in traditional securities markets retains sequential, often manual processes that are time-consuming, costly, and operationally risky for all users of financial markets. Inefficiencies impose financial costs and operational risks on almost all financial market participants. This includes financial market infrastructure (FMI) operators, financial intermediaries such as banks, and end-investors such as pension funds. Post-trade processes are today more efficient than ever before, but there is a ceiling to the efficiency that can be achieved using legacy technology – just as you could only make a horse transport you so far before it needed to rest.
+There is an increasing amount of investment in the application of distributed ledger technology in financial markets. The tokenisation of securities on distributed ledgers – digital securities – offers the potential to merge trade and post-trade functions, shortening settlement cycles and offering more programmability and automation in financial transactions. This could introduce more liquidity to a wider range of financial assets, and provide opportunity for more assets to be utilised – for example, as collateral – in the way traditional securities are used today. The potential benefits from distributed ledgers and the potential benefits from tokenisation are more powerful when considered together.
+Unlocking new markets
+Representing assets in digital form, or ‘tokenisation’, could offer improved investor access and opportunities, such as through more widespread fractionalisation of assets. Fractional ownership can unlock access to assets that were previously illiquid or exhibited prohibitively high barriers for investment. Tokenisation can lower these barriers to entry for investors by making it cheaper to interact with the market.
+As mentioned earlier by the FCA, there is great interest in the tokenisation of Money Market Funds (MMFs) in particular, and the role these can play in the financial system in the future. A number of firms have successfully issued tokenised MMFs on private and public blockchains in the past year.
+Tokenised MMFs could reduce some liquidity mismatch risks in stress events by reducing the need for investors to redeem their MMF shares for cash to meet short-term liquidity needs – such as margin calls – where market participants could transfer tokenised MMF shares instead. But this activity could also create new risks, particularly in more severe stress events where funds need to suspend redemptions, or where confidence was lost that the MMF unit could be redeemed at par.
+Our view is that further exploration of fund tokenisation is consistent with the objectives of the DSS, and we encourage firms to utilise the Sandbox to experiment with MMFs as securities. Fund tokenisation activity taking place in the DSS will allow us to consider the risks and benefits from potential use cases in a safe, controlled environment, including using tokenised fund units as collateral. We look forward to seeing applications to the DSS that propose to support fund tokenisation. However, in line with the principles the Bank has set out for money to function effectively, we do not consider MMF tokens to be a form of money or to be suitable for use as a settlement asset.
+More efficient markets?
+The DSS is also an invaluable opportunity for regulators to learn how to best support innovation and changes in the financial markets environment whilst also protecting financial stability. Currently the only assets used widely in activities such as repo, lending and collateralisation are cash, and those assets held at central securities depositories. Tokenisation has the potential to widen this perimeter to other asset classes. While the Sandbox is our primary tool for assessing how to modify the UK settlement regime, it also enables regulators to track how the assets are traded and utilised more efficiently. This could be through fractionalisation of commodities such as gold or removing the barriers to trading private and currently illiquid assets like loans or private equity.
+To take an example, short-term lending, particularly secured lending, is one area that has traditionally been hindered by operational frictions; existing systems make it very difficult to move assets quickly or without settlement delivery risk. A combination of programmable transactions and distributed ledgers can unlock the potential for more precise, simultaneous transactions that allow for securities to be pledged, borrowed or lent for short periods of time. This can lead to a more efficient use of assets (and by extension, a firm’s balance sheet), and potentially reduce the impact of settlement failure and funding squeezes. For example, Digital Financing, a blockchain-based application built on JP Morgan’s Onyx (now Kinexys) platform demonstrated a 56% reduction in operational costs and faster alternatives to receive secured intraday funding without requiring balance sheet usage.
+footnote
+[4]
+Any future settlement regime will need to consider these additional use cases in the round to ensure support for growth in demand and innovation. Through our work on the DSS, we will learn what the implications for financial stability might be, to help us design a regime that delivers safe and sustainable innovation.
+The wider landscape
+Although it is exciting to see a wide variety of innovation and exploration, unchecked, this variation might lead to market fragmentation which may trap liquidity. The importance of facilitating the transfer of information such as records of ownership, or forms of money between distinct platforms and ecosystems, will continue to serve as one of the key pillars of success in an increasingly digital financial system. Both regulation and market forces can work towards achieving the right level of interoperability to fully utilise the infrastructure being developed to serve this new market.
+Our work in international fora also aims to prevent market fragmentation. In particular, tokenisation should preserve the global nature of financial markets.
+A key part of this will be the adoption of consistent standards internationally.
+footnote
+[5]
+We are working with other international regulators and standard setting bodies to develop a common understanding of the benefits and risks of tokenisation. This helps to ensure our approaches to regulation are consistent with each other, under the principle of “same risk same regulatory outcome”. To the extent tokenised assets bring similar risks to financial stability as other assets, they should be subject to equivalent regulatory standards.
+footnote
+[6]
+Regulators are also conducting joint experimentation to further our collective understanding, including on interoperability in this landscape. For example, the Bank is participating in BIS’ Project Agorá
+footnote
+[7]
+– alongside six other central banks. This project is exploring how tokenised commercial bank deposits and central bank money may be exchanged on a public-private programmable platform, initially focused on
+cross-border payments.
+Central Bank led projects such as the Monetary Authority of Singapore’s Global Layer 1 also seek to advance technical standards for tokenisation platforms.
+Conclusion
+Much like the productivity of the worker in a car factory was transformed with the advent of the production line, the institutional investor’s experience of wholesale markets could prove to be simpler, faster and cheaper if the opportunities programmable ledgers and tokens present are realised. Settling trades in financial securities like shares and bonds could be faster, as could cross-border payments. The tokenisation of new types of assets could open up and develop new markets where infrastructure was previously cumbersome. These larger and more diverse markets are how this innovation can drive growth.
+Across wholesale financial markets the Bank of England is committed to exploring opportunities for innovation and tokenisation and working alongside innovators to ensure this digital transformation benefits everyone. From facilitating innovation in securities settlement to exploring opportunities for new forms of money, the Bank and international regulators have a significant role to play.
+We understand what that role is - wholesale financial markets involve a lot of risk, and it is important that innovation happens in a way that is safe for participants and does not propagate risk in the system. Regulation has a key role to play in ensuring our financial markets innovate while remaining safe. Public-private partnership experimentation in developing technologies is also crucial.
+I, and my colleagues, believe that the continued experimentation and development of these technologies can ultimately redefine the frontiers of market connectivity, financial system efficiency and sustainability. We look forward to working with industry to ensure the UK can move from the horse and cart era of manual post-trade processes, to the automated production line equivalent of tokenised securities settlement, and the transformation and optimisation of wholesale financial markets.
+Thank you.
+I would like to thank Alexandra Haydock, Joshua Hanlan, Shane Scott, Kushal Balluck, Alex Gee, Noreen Rana, Honey Fafowora, Magda Rutkowska, Mei Jie Wang and Katherine Tajer for their assistance in preparing these remarks, and Andrew Bailey, Sarah Breeden, Emma Butterworth, Rajan Patel, and Rachita Syal for their comments.
+Sarah Breeden (2024), ‘
+Modernising the trains and rails of UK payments – Speech by Sarah Breeden’
+The Bank of England’s approach to innovation in money and payments | Bank of England
+Real-time gross settlement.
+J.P. Morgan (2024), ‘
+Digital Financing | Onyx by J.P. Morgan’
+For example, ISO20022 messaging standards or the recent APEX recommendations for payment APIs.
+Some examples of work in this space include the Committee on Payments and Market Infrastructure and BIS’ recent report on the potential opportunities and challenges associated with tokenisation in the context of money and other assets (Bank of International Settlements (2024), ‘
+Tokenisation in the context of money and other assets: concepts and implications for central banks
+’); and the Financial Stability Board’s report on the Financial Stability Implications of Tokenisation (Financial Stability Board (2024), ‘
+The Financial Stability Implications of Tokenisation - Financial Stability Board
+’).
+Bank of International Settlements (2024), ‘
+Private sector partners join Project Agorá
+’
+Bank of International Settlements (2024), ‘
+Private sector partners join Project Agorá
+’
+Close
+Some examples of work in this space include the Committee on Payments and Market Infrastructure and BIS’ recent report on the potential opportunities and challenges associated with tokenisation in the context of money and other assets (Bank of International Settlements (2024), ‘
+Tokenisation in the context of money and other assets: concepts and implications for central banks
+’); and the Financial Stability Board’s report on the Financial Stability Implications of Tokenisation (Financial Stability Board (2024), ‘
+The Financial Stability Implications of Tokenisation - Financial Stability Board
+’).
+Close
+For example, ISO20022 messaging standards or the recent APEX recommendations for payment APIs.
+Close
+J.P. Morgan (2024), ‘
+Digital Financing | Onyx by J.P. Morgan’
+Close
+Real-time gross settlement.
+Close
+The Bank of England’s approach to innovation in money and payments | Bank of England
+Close
+Sarah Breeden (2024), ‘
+Modernising the trains and rails of UK payments – Speech by Sarah Breeden’
+Close
+Convert this page to PDF
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

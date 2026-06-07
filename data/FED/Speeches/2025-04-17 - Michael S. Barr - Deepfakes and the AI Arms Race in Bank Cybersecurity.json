@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Deepfakes and the AI Arms Race in Bank Cybersecurity",
+  "date_original": "2025-04-17",
+  "date_au": "17/04/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250417a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-04-17 - Michael S. Barr - Deepfakes and the AI Arms Race in Bank Cybersecurity.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-04-17 - Michael S. Barr - Deepfakes and the AI Arms Race in Bank Cybersecurity.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "15922f908b2eb38cb01d0bc9e723d18361dc6eef692f343eb7af52f4c26d5c02"
+}

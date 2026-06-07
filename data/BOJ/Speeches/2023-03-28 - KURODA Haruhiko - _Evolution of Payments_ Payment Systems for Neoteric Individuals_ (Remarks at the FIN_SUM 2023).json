@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Evolution of Payments: Payment Systems for Neoteric Individuals\" (Remarks at the FIN/SUM 2023)",
+  "date_original": "2023-03-28",
+  "date_au": "28/03/2023",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230328a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-03-28 - KURODA Haruhiko - _Evolution of Payments_ Payment Systems for Neoteric Individuals_ (Remarks at the FIN_SUM 2023).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-03-28 - KURODA Haruhiko - _Evolution of Payments_ Payment Systems for Neoteric Individuals_ (Remarks at the FIN_SUM 2023).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f10c8dbb0c4d2d2439ea8cc9245f92a1c3b3fd5a3361df366e8db62848a77878"
+}

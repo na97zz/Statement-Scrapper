@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Fighting Inflation with Rate Hikes and Balance Sheet Reduction",
+  "date_original": "2022-02-24",
+  "date_au": "24/02/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220224a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-02-24 - Christopher J. Waller - Fighting Inflation with Rate Hikes and Balance Sheet Reduction.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-02-24 - Christopher J. Waller - Fighting Inflation with Rate Hikes and Balance Sheet Reduction.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0c4005914fd393c39dfe976c22c6b9312d6cea1e78b75e2e02122b71c81287c1"
+}

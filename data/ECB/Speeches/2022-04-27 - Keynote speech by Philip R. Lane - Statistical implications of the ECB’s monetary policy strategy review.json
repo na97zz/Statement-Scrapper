@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Statistical implications of the ECB’s monetary policy strategy review",
+  "date_original": "2022-04-27",
+  "date_au": "27/04/2022",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220427~df7c9ea061.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-04-27 - Keynote speech by Philip R. Lane - Statistical implications of the ECB’s monetary policy strategy review.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-04-27 - Keynote speech by Philip R. Lane - Statistical implications of the ECB’s monetary policy strategy review.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9ab2d6a89de6dafc58ab70ab01dfdae79c775231173ce452dc58be8c6b10722a"
+}

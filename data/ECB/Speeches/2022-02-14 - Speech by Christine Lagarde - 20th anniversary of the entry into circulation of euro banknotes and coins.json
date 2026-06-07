@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "20th anniversary of the entry into circulation of euro banknotes and coins",
+  "date_original": "2022-02-14",
+  "date_au": "14/02/2022",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220214~2c44645ea0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-02-14 - Speech by Christine Lagarde - 20th anniversary of the entry into circulation of euro banknotes and coins.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-02-14 - Speech by Christine Lagarde - 20th anniversary of the entry into circulation of euro banknotes and coins.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dfe92669f71d405dbaff0669f8650a558f3e9b929088992329f575f35fbb20f8"
+}

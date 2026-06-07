@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Community Banking",
+  "date_original": "2025-02-27",
+  "date_au": "27/02/2025",
+  "datetime_original": "",
+  "speaker": "Community Banking",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250227a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-27 - Community Banking - Community Banking.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-27 - Community Banking - Community Banking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bdc2ed29de8e452b4cb45b92716a831899348a2cba2f137b75710b530dc2e2f3"
+}

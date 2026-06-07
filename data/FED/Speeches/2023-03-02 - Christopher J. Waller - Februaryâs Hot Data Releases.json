@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Februaryâs Hot Data Releases",
+  "date_original": "2023-03-02",
+  "date_au": "02/03/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230302a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-03-02 - Christopher J. Waller - Februaryâs Hot Data Releases.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-03-02 - Christopher J. Waller - Februaryâs Hot Data Releases.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0e1060fc9625dec658a49581d3cce540d02ddaa1627e09300f7a949f8a3909e8"
+}

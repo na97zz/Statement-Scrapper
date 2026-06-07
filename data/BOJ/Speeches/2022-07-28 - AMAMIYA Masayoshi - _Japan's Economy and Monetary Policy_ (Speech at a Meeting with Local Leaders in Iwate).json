@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Iwate)",
+  "date_original": "2022-07-28",
+  "date_au": "28/07/2022",
+  "datetime_original": "",
+  "speaker": "AMAMIYA Masayoshi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220728a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-07-28 - AMAMIYA Masayoshi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Iwate).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-07-28 - AMAMIYA Masayoshi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Iwate).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6af60b06cf717d5040fd6ceaa8908af5475fd37dfae8d9f86c48090c02ae4803"
+}

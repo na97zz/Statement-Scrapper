@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "BOC Speeches",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Michelle Alexopoulos",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/wp-content/uploads/2026/05/remarks-130526.pdf",
+  "raw_file_path": "data\\BOC\\Speeches\\2026-06-01 - Michelle Alexopoulos - BOC Speeches.pdf",
+  "text_file_path": "data\\BOC\\Speeches\\2026-06-01 - Michelle Alexopoulos - BOC Speeches.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:24:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fc7a19b5d8ce803b7e7b535926491651d53dce64a64d3f26432bb6771557a323"
+}

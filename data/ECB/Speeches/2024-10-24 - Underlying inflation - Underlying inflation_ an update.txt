@@ -1,0 +1,211 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Underlying inflation: an update
+DATE: 24/10/2024
+SPEAKER: Underlying inflation
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241024~ceec66a375.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Underlying inflation: an update
+Speech by Philip R. Lane, Member of the Executive Board of the ECB, at the Inflation: Drivers and Dynamics Conference 2024 organised by the Federal Reserve Bank of Cleveland and the ECB
+Cleveland, 24 October 2024
+Introduction
+My aim today is to provide an update on underlying inflation in the euro area.
+[
+1
+]
+The concept of underlying inflation plays a central role in the conduct of the ECB’s monetary policy: our interest rate decisions are based on our assessment of the inflation outlook in light of the incoming economic and financial data, the dynamics of underlying inflation and the strength of monetary policy transmission. This three-pronged reaction function complements the traditional focus on the inflation forecast for inflation-targeting central banks with the signals embodied in underlying inflation measures, while also incorporating the evolving evidence on the strength of monetary policy transmission in the calibration of the monetary stance. This pragmatic approach reflects the value of data dependence under highly atypical macroeconomic conditions.
+Latest developments in euro area underlying inflation
+Underlying inflation is the persistent component of inflation, signalling where headline inflation will settle in the medium term after temporary factors have vanished. In practice, underlying inflation is unobservable and needs to be proxied or estimated. There are two broad categories of measures that aim to capture this concept. Exclusion-based measures omit certain items – such as energy and food – that are typically volatile and more sensitive to global factors than domestic fundamentals. Model-based measures, meanwhile, capture more complex channels and dynamics, subject to the limitations imposed by sensitivity to model estimation. An overview of such measures is shown in Chart 1.
+Model-based measures at the ECB include the Persistent and Common Component of Inflation (PCCI), which is constructed by estimating a dynamic factor model that extracts the persistent and common component of inflation from granular price data at the item-country level, thereby exploiting the relative advantages of both cross-sectional and time series approaches.
+[
+2
+]
+Another model-based measure is Supercore inflation, which picks out those items that are estimated to co-move with the business cycle. These model-based measures are reduced form in nature and, among other factors, reflect the empirical contribution of monetary policy tightening to delivering disinflation. That is to say, if current inflation is above target, one reason why underlying inflation might run below current inflation is that the projected mean reversion is partly driven by endogenous monetary policy tightening that has historically contributed to the return of inflation to the target over the medium term. In turn, monitoring the evolution of underlying inflation is an important element in diagnosing whether monetary policy is appropriately calibrated.
+Each of the underlying inflation indicators tracked by the ECB has declined significantly since the post-pandemic inflation surges, with the range narrowing towards its historical average. The majority of indicators are hovering around 1.9 per cent to 2.8 per cent, down from a much wider range between 3.4 per cent to 7.5 per cent at its peak (Chart 1). Core inflation is the most prominent exclusion-based measure, defined as HICP inflation excluding energy and food: this edged down to 2.7 per cent in September, continuing the marked decline from 4.5 per cent a year ago.
+[
+3
+]
+In terms of model-based measures, the PCCI today is at the bottom of the range, standing at 1.9 per cent in September and having hovered around 2.0 per cent since the end of last year. Most other measures that we regularly monitor have also come down over the past year and show signs of continued easing in September.
+One challenge in interpreting standard indicators of underlying inflation is that these were affected by the past extraordinary supply shocks, as well as by temporary mismatches between demand and supply. As I pointed out in my March 2023 speech, it is helpful to think of headline inflation as being driven by three factors: (i) underlying inflation; (ii) a reverting component; and (iii) pure noise.
+[
+4
+]
+In particular, the major dislocations of recent years induced a substantial reverting component of inflation that was sufficiently long-lasting not to constitute pure noise but that was also expected to fade out over time. These dislocations included the impact of energy inflation and supply bottlenecks. To capture their indirect impact on measures of underlying inflation, we have in parallel monitored adjusted measures of underlying inflation that “partial out” these indirect influences. These adjusted measures had a significantly lower peak rate of underlying inflation than the un-adjusted measures but, by construction, were also less affected by the sharp turnaround in energy prices and easing of supply bottlenecks during 2023 that flattered the speed of progress in the un-adjusted measures. Currently, these adjustments bring down the range to between 2 per cent and 2.5 per cent, as the impact of past supply-side shocks has greatly diminished. In particular, the forward-looking PCCI measures are by now free of such impacts.
+Chart 1
+Euro area underlying inflation measures and their adjusted counterpart
+(annual percentage changes)
+Exclusion-based measures
+Model-based measures
+Sources: Eurostat and ECB calculations.
+Notes: HICPX stands for HICP inflation excluding energy and food; HICPXX for HICP inflation excluding energy, food, travel-related items, clothing and footwear; PCCI is the persistent and common component of inflation, while Supercore aggregates HICPX items sensitive to domestic business cycle. See also Bańbura et al. (2023), “
+Underlying inflation measures: an analytical guide for the euro area
+”,
+Economic Bulletin
+, Issue 5, ECB. The ‘adjusted’ measures abstract from energy and supply-bottlenecks shocks using a large SVAR, see Bańbura, M., Bobeica, E. and Martínez-Hernández, C. 2023, “
+What drives core inflation? The role of supply shocks.
+”,
+ECB Working Paper
+No 2875.
+The latest observations are for September 2024.
+Each measure of underlying inflation provides useful information about future headline inflation, although their forecasting performance varies. Chart 2 shows the root mean squared forecast error (RMSFE) for each measure vis-à-vis inflation two years ahead and vis-à-vis a smoothed inflation rate. Forecasting performance is normalised to the predictive power of current headline inflation: that is, a ratio below unity means that the measure does a better job than current headline inflation in forecasting future inflation. Indeed, most measures beat current headline inflation in forecasting future inflation. The PCCI measures have the best predictive power, while most exclusion-based measures perform less well.
+However, in understanding the inflation process and calibrating monetary policy, it is essential to look beyond overall predictive power and also examine how the various underlying inflation measures can shed light on the speed and sequencing of the disinflation process. For instance, external shocks were a prominent feature of the post-pandemic economic landscape.
+[
+5
+]
+While the PCCI measures provided a powerful signal that these shocks would ultimately fade out, the delayed and lagged adjustment in indicators such as services inflation, domestic inflation and wage growth served to highlight that convergence to the medium-term target would not be immediate.
+[
+6
+]
+I will focus on these indicators in the next part of my talk.
+Chart 2
+Predictive properties of underlying inflation measures for HICP inflation
+(RMSFE of each measure relative to RMSFE of headline inflation)
+Sources: Eurostat and ECB calculations.
+Notes: RMSFE 24 months and RMSFE smoothed HICP are the root mean squared forecast errors of each measure with respect to headline inflation 24 months ahead and the two-year centred moving average of inflation covering two years of future data, respectively, divided by the RMSFE of headline inflation. A ratio lower than unity indicates that the measure performs better than headline inflation. The sample covers the period from April 2001 to September 2024.
+Services, domestic inflation and wages
+Domestic inflation captures price dynamics in consumption items that are less influenced by external factors, being more determined by domestic economic conditions, including monetary policy. While trends in the relative prices of globally-determined components (mostly in the energy, food and goods categories) mean that the two per cent target for overall inflation is not a target for domestic inflation, domestic inflation cannot remain at an excessive level if the target is to be sustainably achieved.
+[
+7
+]
+Moreover, assessing the strength of domestic inflation is essential to the calibration of monetary policy, since domestic inflation will be more responsive than global inflation components to the impact of monetary policy via the dampening of domestic demand.
+The domestic inflation indicator monitored at the ECB is an aggregation of HICP items with low import content.
+[
+8
+]
+As shown in Chart 3, domestic inflation and services inflation co-move closely. This reflects the dominance of services items in the domestic inflation measures, accounting for 97 per cent of the overall index. At the same time, it remains useful to maintain domestic inflation and services inflation as separate measures: while almost 80 per cent of the services items are included in the domestic inflation index, the overall services category also includes highly-traded services items (Chart 4). These internationally-traded services items currently have a lower contribution to services inflation than domestic services items.
+Chart 3
+Services inflation and domestic inflation
+(annual percentage changes)
+Sources: Eurostat and ECB staff calculations.
+Notes: Domestic inflation is an aggregate of HICP items with a relatively low import intensity, as explained in Fröhling, A., O’Brien, D. and Schaefer, S. (2022), “
+A new indicator of domestic inflation for the euro area
+”,
+Economic Bulletin
+, Issue 4, ECB.
+The latest observations are for September 2024.
+Chart 4
+Services inflation and domestic inflation
+(percentage point contribution to services inflation)
+Sources: Eurostat and ECB staff calculations.
+Notes: The chart shows all services items and the x axis shows the contribution of each item to total services inflation in September 2024. In weighted terms, 80 per cent of services are in domestic inflation and 97 per cent of domestic inflation is composed of services items. Domestic inflation also includes three good items which are not shown on the chart.
+The large supply-side shocks of the post-pandemic period have been feeding through to domestic inflation with a lag compared with other measures of underlying inflation. Large supply-side shocks have travelled across sectors and consumption items at different speeds, so it is unsurprising that these had differential impacts on the various measures of underlying inflation, depending on their nature and construction.
+Domestic inflation and services inflation tend to lag headline inflation more than other measures, exhibiting a lower frequency of price adjustment compared with the energy, food and goods categories in the HICP.
+[
+9
+]
+For this reason, many items in services inflation and domestic inflation were late movers that responded with a much longer lag to the latest inflationary shock, such that annual services inflation remains elevated.
+[
+10
+]
+Chart 5 shows the impact of energy and supply-chain bottlenecks on the PCCIs, domestic inflation and other measures of underlying inflation. Among these measures, PCCIs are more forward-looking and have picked up certain shocks faster, but with the byproduct that the effects of the shocks also faded quicker. Other indicators, like domestic inflation, are more backward-looking, and the currently higher levels also reflect the still ongoing propagation of past shocks. In similar vein, the past shocks took longer to build up in domestic inflation and are also taking longer to dissipate.
+Chart 5
+Impact of energy and supply-side bottlenecks shocks across measures of underlying inflation
+(percentage points)
+Impact of energy-related shocks
+Impact of global supply chain-related shocks
+Sources: Eurostat and ECB calculations
+Notes: The range covers the estimated impact of shocks across all monitored underlying inflation measures. The impact of the energy and supply bottleneck shocks are estimated in a large SVAR, see Bańbura, M. et al. (2023), op. cit..
+The latest observations are for September 2024.
+The PCCI for services indicates that there is currently a sizeable gap between services inflation and its medium-term underlying trend, suggesting there is scope for downward adjustment in services inflation in the coming months. Services PCCI has been around 2.4 per cent since the end of last year, well below the current annual rate for services (Chart 6, left panel).
+[
+11
+]
+This difference suggests that idiosyncratic and non-persistent factors are currently driving services inflation. Examples of such idiosyncratic factors include the base effect related to the introduction of the cheap travel Deutschland-ticket in Germany in May 2023, rent inflation in the Netherlands, and items that reprice less frequently, such as insurance or other administered prices (like hospital services) in some countries.
+Over time, the fading out of these idiosyncratic and temporary factors should means that services inflation declines towards the underlying rate. Indeed, momentum indicators for services confirm the slight easing of inflation dynamics. While services momentum (i.e. the three-month-on-three-month growth rate of the seasonally-adjusted index) remains high, it has been continuously easing since May (Chart 6, right panel). The month-on-month seasonally-adjusted rate markedly dropped in September.
+[
+12
+]
+Chart 6
+Services inflation
+(annual percentage changes (left panel) and annualised three-month-on-three-month and month-on-month changes (right panel))
+Gap compared with PCCI
+Momentum of services inflation
+Sources: Eurostat and ECB staff calculations.
+Note: The latest observations are for September 2024.
+Services and domestic inflation are closely linked to wage growth: the expected easing of wage growth in 2025, together with the impact of past monetary policy tightening, should contribute to further disinflation. Wages constitute a higher direct share in costs of services than goods and Chart 7 highlights the strong link between domestic inflation, services and wages: their level is normally similar and they closely co-move with each other.
+[
+13
+]
+Chart 7 also shows how pressures in these three components can take time to moderate following a tightening in policy.
+Chart 7
+Services and domestic inflation and wage growth after episodes of monetary policy tightening
+(annual percentage changes)
+Sources: Eurostat, ECB and ECB calculations.
+Notes: Shaded areas show monetary policy tightening episodes. CPE stands for compensation per employee. The dotted line shows latest Eurostat data up to Q2 2024 for CPE carried forward with quarter-on-quarter rates from the September ECB staff projections. The latest observations are for the second quarter of 2024 for CPE and the third quarter of 2024 for the rest.
+Wage growth is expected to ease from its current high level, with the cumulative increase in nominal wages over 2023-2024 largely restoring the purchasing power that was lost during the inflation surges of 2021-2022. Wage pressures are currently still high: the growth rate of compensation per employee stood at 4.5 per cent in the second quarter of 2024, albeit down from its peak of 5.6 per cent in the second quarter of 2023.
+Recently, the incoming information for 2024 in the ECB wage tracker indicator of latest agreements shows that wage agreements signed in 2024 had substantially lower structural wage growth for the next 12 months if their previous agreement was signed in 2023 or 2022, as compared with 2021 (Chart 8, left panel). Moreover, in the months ahead, there are fewer wage agreements coming up for renegotiation that have not had an agreement since the surge in inflation (Chart 8, right panel). This suggests that the catching up motive in wage negotiations is losing ground as inflation normalises. Forward-looking indicators suggest further diminishing wage pressures into 2025 (Chart 9). The forward-looking wage tracker (dark blue line in Chart 9) shows the wage growth until the end of 2025 in the available contracts that have been agreed and signed.
+One caveat in interpreting developments in the forward- looking wage tracker is that, since it only considers agreements that are active in the future, the contract coverage on which it is based declines as contracts expire (solid grey area in Chart 9). For this reason, scenarios for the expiring contracts (in the grey striped area) can help to assess risks around the outlook for wages. The scenarios illustrated in Chart 9 assume different renegotiated annual wage growth for expired contracts: (i) full pass-through of HICP and real productivity growth top-up to wages; (ii) HICPX and real productivity growth top-up to wages; (iii) wages increase at the same very strong level as contracts signed in the second quarter of 2024 that were still recouping large real wage losses (this is an upper bound scenario). Even this upper-bound scenario points to a slowdown in wage pressures in 2025 compared with 2024. This reflects in part that base effects, for example those related to high one-off payments this year, will dampen future wage growth in year-on-year terms.
+Chart 8
+Euro area wage tracker
+(annual percentage changes (left panel) and millions of workers (right panel))
+12-months-ahead growth for contracts signed in 2024 by its preceding agreement signing year
+Expiring agreements by preceding contract signing
+Sources: Calculated based on micro data on wage agreements provided by the Deutsche Bundesbank, Banco de España, the Dutch employer association (AWVN), Oesterreichische Nationalbank, Bank of Greece, Banca d’Italia, Bank of Ireland and Banque de France.
+Note: The latest observations are for June 2025 for the workers under expiring agreements.
+Chart 9
+Euro area wage tracker – forward-looking scenarios
+(annual percentage changes)
+Sources: ECB staff calculations based on the ECB wage tracker database.
+Notes: The forecast scenarios take sectors with contracts expiring after the current date and assumes that new contracts are concluded with a structural wage increase per year based on a full pass-through of projected (September 2024 ECB staff projections) HICP or HICPX inflation and productivity growth (scenarios HICP+PROD and HICPX+PROD), or at the same rate of wage increase observed for contracts signed in the second quarter of 2024 (forecast scenario Q2 2024). The forward-looking tracker only considers active agreements. All scenarios include one-off payments smoothed over 12 months.
+The latest observations are for December 2025.
+The latest information from surveys reinforces the projection of easing wage growth that will underpin the moderation in services inflation and domestic inflation. Chart 10 presents consecutive rounds of various ECB surveys, which provide a wealth of valuable information that helps us gauge the pulse of the economy in real time. The incoming survey information on wage growth provided by both firms and professional forecasters confirm the narrative embedded in our September 2024 ECB staff projection that wage growth will ease in 2025 compared with 2024, primarily owing to the fading out of the catch-up dynamic that has dominated wage negotiations between 2022 and 2024.
+Chart 10
+Eurosystem and ECB staff macroeconomic projections on wages and survey-based wage expectations
+(annual percentage changes)
+Sources: Survey of Professional Forecasters (SPF), June 2024 Eurosystem Staff Macroeconomic Projections and September 2024 ECB Staff Macroeconomic Projections, September and October 2024 Consensus Economics Forecasts, July and October Corporate Telephone Survey (CTS) and the survey on the access to finance of enterprises (SAFE) for the first and second quarters of 2024. Notes: The SAFE survey asks 12-month-ahead wage growth, while all the other surveys are for calendar years.
+In summary, in analysing services inflation and domestic inflation, it is crucial to distinguish between the underlying persistent component that matters for the medium term and the backward-looking reverting component that takes time to fade out but that ultimately reflects the staggered nature of the adjustment process to the original and extraordinary inflation shocks. This backward-looking component has been substantial: the inflation shocks of 2021-2022 spread across sectors at varying speeds. The slowest-moving sectors were those in which prices adjust more slowly or are most closely tied to wage adjustment. For these indicators, we need patience as the normalisation process takes time.
+Conclusion
+In my remarks today, I have sought to provide an update on the dynamics of underlying inflation. I have emphasised that underlying inflation measures not only serve to extract the persistent component from the latest inflation readings but also provide insights into the nature of disinflation, especially in relation to the staggered nature of the adjustment process. In particular, the analysis of underlying inflation suggests that 2024 is a transition year, in which backward-looking components are still playing out. But the analysis of underlying inflation also indicates that the disinflation process is well on track, and inflation is set to return to target in the course of 2025.
+I am grateful to Katalin Bodnar, Bruno Fagandini, Peter Healy, Eliza Lis and Lourdes María Zulli Gandur for their contributions to this speech.
+Bańbura, M. and Bobeica, E. (2020), "
+PCCI – a data-rich measure of underlying inflation in the euro area
+" Statistics Paper Series No. 38, ECB. The PCCI is similar in spirit to the New York’s Fed Multivariate Core Trend. See Almuzara, M. and Sbordone, A. (2024), “Measurement and Theory of Core Inflation”, Staff Reports No 1115, Federal Reserve Bank of New York.
+Most of this decline happened by March this year, since then it has edged down only slightly.
+Lane, P. (2023), “
+Underlying inflation
+”, lecture at Trinity College Dublin, Dublin, 6 March 2023.
+See, for instance, Forbes, K., Jongrim, H. and Ayhan, K. M. (2024), “Rate Cycles”,
+presentation at the 2024 ECB Forum on Central Banking Sintra, Portugal,
+3 July.
+This is confirmed when employing a forecast combination algorithm for the available underlying inflation measures designed to minimise the two-year ahead RMSFE for headline inflation. Over time, the algorithm tends to pick one or more of the monitored measures, but recently PCCIs have prevailed.
+To the extent that trend productivity growth is higher in more tradable sectors such as manufacturing than in less tradable sectors such as services, the relative price of services will trend higher over time so that the average inflation rate for services will be higher than for goods. At the same time, the equilibrium relative price of services versus goods can shift over time due to a range of factors.
+See Fröhling, A., O'Brien, D. and Schaefer, S. (2022). "
+A new indicator of domestic inflation for the euro area
+",
+Economic Bulletin
+, Issue 4, ECB. Currently, the indicator includes those items where the import contents is below 18 per cent, where the threshold for inclusion was chosen by the forecasting performance of this indicator for medium-term inflation.
+Dedola, L., Henkel, L., Höynck, C., Osbat, C. and Santoro, S. (2024), "What does new micro price evidence tell us about inflation dynamics and monetary policy transmission?," Economic Bulletin Articles, European Central Bank, vol. 3.
+See Banca d’Italia (2023), “
+The heterogenous developments of the components of euro area-core inflation
+”,
+Economic Bulletin
+, No 4.
+The gap has already closed for goods inflation.
+The seasonally adjusted month-on-month rate of services prices declined in September, in part correcting for the impact of the 2024 Olympics. Looking through this impact, the month-on-month rate moved down and was close to its long-term average in August and September pointing to disinflationary dynamics.
+Fagandini, B., Gonçalves, E., Rubene, I., Kouvavas, O., Bodnár, K. and Koester, G. (2024), “
+Decomposing HICPX inflation into energy-sensitive and wage-sensitive items
+”,
+Economic Bulletin
+, Issue 3
+, European Central Bank.
+Related topics
+Monetary policy
+Inflation
+Policies
+Euro area
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

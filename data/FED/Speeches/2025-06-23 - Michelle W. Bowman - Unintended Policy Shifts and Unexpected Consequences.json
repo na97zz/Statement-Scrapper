@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Unintended Policy Shifts and Unexpected Consequences",
+  "date_original": "2025-06-23",
+  "date_au": "23/06/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250623a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-06-23 - Michelle W. Bowman - Unintended Policy Shifts and Unexpected Consequences.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-06-23 - Michelle W. Bowman - Unintended Policy Shifts and Unexpected Consequences.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bcde9fd22acda0ae3764dc9c72d6076092dfc09a4c0be72cc1d404a862a02e5b"
+}

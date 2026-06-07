@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "What Will Artificial Intelligence Mean for the Labor Market and the Economy?",
+  "date_original": "2026-02-17",
+  "date_au": "17/02/2026",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260217a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-02-17 - Michael S. Barr - What Will Artificial Intelligence Mean for the Labor Market and the Economy_.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-02-17 - Michael S. Barr - What Will Artificial Intelligence Mean for the Labor Market and the Economy_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f213a72deaa969670c5460b9a5d50f744bc46be0b4d5d1f3ea8ba97fd2e151b3"
+}

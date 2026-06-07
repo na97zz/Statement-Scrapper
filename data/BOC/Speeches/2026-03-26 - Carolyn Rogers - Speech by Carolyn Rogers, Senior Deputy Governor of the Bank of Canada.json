@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
+  "date_original": "2026-03-26",
+  "date_au": "26/03/2026",
+  "datetime_original": "",
+  "speaker": "Carolyn Rogers",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2026/03/speech-carolyn-rogers-2026-03-26/",
+  "raw_file_path": "data\\BOC\\Speeches\\2026-03-26 - Carolyn Rogers - Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2026-03-26 - Carolyn Rogers - Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:57:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "20ce44ace10cc6027f07eb8a48c479da4d629a96c5fa130a65423d849fd0e763"
+}

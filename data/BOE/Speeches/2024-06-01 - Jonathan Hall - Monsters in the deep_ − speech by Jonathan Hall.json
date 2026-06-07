@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Monsters in the deep? − speech by Jonathan Hall",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Jonathan Hall",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2024/may/jon-hall-speech-at-the-university-of-exeter",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Jonathan Hall - Monsters in the deep_ − speech by Jonathan Hall.html",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Jonathan Hall - Monsters in the deep_ − speech by Jonathan Hall.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c874f49b5e60bacdadf605321ad3579746223201f5bb858b77b6b541dc36ea70"
+}

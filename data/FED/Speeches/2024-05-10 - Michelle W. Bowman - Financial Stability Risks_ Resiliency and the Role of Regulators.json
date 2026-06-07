@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stability Risks: Resiliency and the Role of Regulators",
+  "date_original": "2024-05-10",
+  "date_au": "10/05/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240510a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-10 - Michelle W. Bowman - Financial Stability Risks_ Resiliency and the Role of Regulators.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-10 - Michelle W. Bowman - Financial Stability Risks_ Resiliency and the Role of Regulators.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "daa2c6cdc7a6412602faf9c0131bbf1462c867ec7a4960a9bf2394c82ca83b00"
+}

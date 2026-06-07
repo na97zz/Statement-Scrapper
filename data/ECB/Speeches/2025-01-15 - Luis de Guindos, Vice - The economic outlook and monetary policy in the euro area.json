@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The economic outlook and monetary policy in the euro area",
+  "date_original": "2025-01-15",
+  "date_au": "15/01/2025",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250115~4f46a22389.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-01-15 - Luis de Guindos, Vice - The economic outlook and monetary policy in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-01-15 - Luis de Guindos, Vice - The economic outlook and monetary policy in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f56dcac87545bf79c5de09d4fc89f9683ff5f61b1132fa32a02ccfb68afcd150"
+}

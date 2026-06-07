@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"The Bank's Thinking on Monetary Policy: Toward Achieving the Price Stability Target in a Sustainable and Stable Manner\" (Speech at the Kisaragi-kai Meeting in Tokyo)",
+  "date_original": "2022-06-06",
+  "date_au": "06/06/2022",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220606a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-06-06 - KURODA Haruhiko - _The Bank's Thinking on Monetary Policy_ Toward Achieving the Price Stability Target in a Sustainable and Stable Manner.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-06-06 - KURODA Haruhiko - _The Bank's Thinking on Monetary Policy_ Toward Achieving the Price Stability Target in a Sustainable and Stable Manner.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "61227a3aad4180e693be2b33444f5cabd1658b8b1146cc15f11ad7a793738dd0"
+}

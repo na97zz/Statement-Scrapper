@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy during an atypical recovery",
+  "date_original": "2021-09-28",
+  "date_au": "28/09/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210928~4cc57f558d.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-09-28 - Speech by Christine Lagarde - Monetary policy during an atypical recovery.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-09-28 - Speech by Christine Lagarde - Monetary policy during an atypical recovery.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fc5bbb2ee17e84ac9737cfa7bb1c899880f8393d2946a51ee982285254b376a8"
+}

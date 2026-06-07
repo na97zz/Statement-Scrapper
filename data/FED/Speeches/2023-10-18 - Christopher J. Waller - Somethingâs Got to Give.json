@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Somethingâs Got to Give",
+  "date_original": "2023-10-18",
+  "date_au": "18/10/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20231018a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-18 - Christopher J. Waller - Somethingâs Got to Give.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-18 - Christopher J. Waller - Somethingâs Got to Give.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ccd91240fd4a887d7616bdb32ff175330efed0fcc971d330708e38206afc1baf"
+}

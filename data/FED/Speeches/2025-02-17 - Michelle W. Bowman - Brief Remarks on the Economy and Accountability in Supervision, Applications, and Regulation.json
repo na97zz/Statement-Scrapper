@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks on the Economy and Accountability in Supervision, Applications, and Regulation",
+  "date_original": "2025-02-17",
+  "date_au": "17/02/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250217a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-17 - Michelle W. Bowman - Brief Remarks on the Economy and Accountability in Supervision, Applications, and Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-17 - Michelle W. Bowman - Brief Remarks on the Economy and Accountability in Supervision, Applications, and Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "20528eb8c00caf1cf510adeccd3f6c8ae17554cdf0ca968ad7e5eabbd2f2e32d"
+}

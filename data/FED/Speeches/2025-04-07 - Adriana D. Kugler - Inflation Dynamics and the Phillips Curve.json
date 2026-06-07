@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Inflation Dynamics and the Phillips Curve",
+  "date_original": "2025-04-07",
+  "date_au": "07/04/2025",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250407a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-04-07 - Adriana D. Kugler - Inflation Dynamics and the Phillips Curve.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-04-07 - Adriana D. Kugler - Inflation Dynamics and the Phillips Curve.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1fda74fe0988d7af02dd5e0af4586a4b32f3ffe9162388ace6eefc71cd078d53"
+}

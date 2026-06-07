@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Building a More Inclusive Financial System through Collaboration and Action",
+  "date_original": "2023-12-05",
+  "date_au": "05/12/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20231205a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-12-05 - Michelle W. Bowman - Building a More Inclusive Financial System through Collaboration and Action.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-12-05 - Michelle W. Bowman - Building a More Inclusive Financial System through Collaboration and Action.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e3c60b637fbdf6f338faf5008be82bac72708bd074c22877131bec97a38a9ea7"
+}

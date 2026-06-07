@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Labor Market Data: Signal or Noise?",
+  "date_original": "2026-02-23",
+  "date_au": "23/02/2026",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-02-23 - Christopher J. Waller - Labor Market Data_ Signal or Noise_.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-02-23 - Christopher J. Waller - Labor Market Data_ Signal or Noise_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fc653602a039dab25983588acf971b025afe4f5c63b2fd95f0dd54093a0df43f"
+}

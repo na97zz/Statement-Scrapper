@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "TreasuryâFederal Reserve Cooperation and the Importance of Central Bank Independence",
+  "date_original": "2021-03-29",
+  "date_au": "29/03/2021",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20210329a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-29 - Christopher J. Waller - TreasuryâFederal Reserve Cooperation and the Importance of Central Bank Independence.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-29 - Christopher J. Waller - TreasuryâFederal Reserve Cooperation and the Importance of Central Bank Independence.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3108b73b05f95370451f6fb92886a3cc9272261707fffd2b040042261b304e95"
+}

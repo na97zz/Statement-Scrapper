@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report",
+  "date_original": "2025-04-16",
+  "date_au": "16/04/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/publications/mpr/mpr-2025-04-16/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2025-04-16 - Monetary Policy Report.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2025-04-16 - Monetary Policy Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fb32ac38718b338e8f7edc28b9f4faf9d9829f16a6d8874ff8fb73b3ec6325c5"
+}

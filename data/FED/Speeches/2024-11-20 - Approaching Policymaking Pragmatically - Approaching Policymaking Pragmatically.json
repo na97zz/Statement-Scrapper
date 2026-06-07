@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Approaching Policymaking Pragmatically",
+  "date_original": "2024-11-20",
+  "date_au": "20/11/2024",
+  "datetime_original": "",
+  "speaker": "Approaching Policymaking Pragmatically",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20241120a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-11-20 - Approaching Policymaking Pragmatically - Approaching Policymaking Pragmatically.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-11-20 - Approaching Policymaking Pragmatically - Approaching Policymaking Pragmatically.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "68d07681a57a805d562674d5586ef0d565bf1d3d83f9010e936d6667c118a475"
+}

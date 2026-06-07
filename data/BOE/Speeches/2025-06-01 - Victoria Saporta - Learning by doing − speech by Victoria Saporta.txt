@@ -1,0 +1,388 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Learning by doing − speech by Victoria Saporta
+DATE: 01/06/2025
+SPEAKER: Victoria Saporta
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/june/victoria-saporta-speech-at-the-bank-of-finland-and-suerf-conference-monetary-policy-implementation
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Learning by doing − speech by Victoria Saporta
+Given at Bank of Finland & SUERF Conference, Helsinki
+Published on 
+
+ 11 June 2025
+In this speech Vicky discusses the Bank's transition to a repo-led, demand-driven operating framework. Vicky reviews the lessons the Bank has learned from the history of its recent frameworks, the current academic debate, and its recent
+discussion paper
+. She sets out some of the next steps in that transition and emphasises the need for both Bank and firms to continue to learn by doing.
+Speech
+Introduction
+It’s a pleasure to be here in Helsinki for this year’s conference on ‘Old Wisdoms and New Trends’.
+For more than a decade, a number of central banks, including the Bank of England, expanded their balance sheets by purchasing assets financed by abundant reserves as part of Quantitative Easing (QE) programmes. Over recent years, most central banks, including the Bank, have started the process of balance sheet normalisation. The key question we have all been asking is what does the new norm look like?
+At the Bank of England we have been grappling with this question for a number of years. In 2023, my predecessor, Andrew Hauser, gave a speech confirming our intention to return to a demand-driven operating framework but one where we are going to be supplying more reserves than before the global financial crisis and laid down the pros and cons of large versus small central bank balance sheets.
+footnote
+[1]
+In 2024, the Governor, Andrew Bailey, and I gave speeches in which we confirmed our intention to supply the majority of our reserves through lending facilities (repo); in my speech, I also emphasised the importance of firms’ readiness to actively borrow from all our facilities, which are ‘open for business’.
+footnote
+[2]
+These speeches were followed by a discussion paper (DP) that set out in more detail our new operating framework and sought feedback including on the calibration of one of our core lending facilities, the Indexed Long-Term Repo (ILTR) facility
+footnote
+[3]
+.
+Today we are publishing a Market Notice
+footnote
+[4]
+, a guide explaining how to bid effectively in the ILTR facility and a feedback statement that sets out our response to the valuable feedback we received. We have also updated and improved our online market operations guide for participants. I encourage all market participants to read these materials carefully.
+In these remarks I would like to set out the key features of our operating framework and how they have grown out of a process of active learning – learning from our own history, learning from the public debate, learning from market participants and learning from observing how the framework works in practice:
+learning by doing
+. I will also highlight some key messages I would like market participants to focus on. As in the previous speeches on the Bank’s operating framework I just mentioned, I will refer to quantitative easing and tightening, but these programmes are not my focus for today.
+Our new operating framework
+Starting
+with the key features of our operating framework.
+As this audience is well aware, reserves are market participants’ deposits at the central bank. A central bank’s operating framework is the set of market operations through which it supplies reserves to the market.
+footnote
+[5]
+The terms of these operations guide the price of money in short-term markets and provide liquidity insurance to the banking system.
+footnote
+[6]
+This is the reason why our operating framework is core to both monetary policy and financial stability.
+The briefest comparison of international operating frameworks or, for that matter, the Bank’s own history demonstrates that central banks can and have operated with very different levels of reserves.
+footnote
+[7]
+In the UK, reserves reached a historical high in the aftermath of the Covid pandemic and are now falling as we unwind quantitative easing (QE) and a crisis-era lending scheme is being repaid (Chart 1).
+Chart 1: Reserve liabilities of the Bank of England
+Footnotes
+Source: Bank of England, ONS and Bank calculations
+Going forward, the Bank intends to let the level of reserves be driven by our counterparties’ demand in the lending facilities we offer them – we refer to these as our ‘repo facilities’ and the resulting framework as ‘repo-led, demand-driven’.
+We have two weekly, market-wide facilities to supply the majority of reserves to the market, the Short-Term Repo facility (STR) and the Indexed Long-Term Repo (ILTR).
+The STR supplies unlimited reserves for one week against high quality collateral at Bank Rate. The Bank’s haircuts on this collateral tend to be higher, on average, than the market’s and firms need to take into account balance sheet costs when they borrow from us. As a result, we estimate that the average all-in cost of the facility is around 5-10bps above Bank Rate. The time series of overnight repo rates in Chart 2 shows that on average repo rates are trading within the all-in cost range of the STR, suggesting that it is doing a good job at capping secured money market rates.
+Chart 2: Money market interest rates as a spread to Bank Rate
+Footnotes
+Source: Bank of England, Sterling Money Markets Data (SMMD) and Bank calculations.
+The ILTR supplies reserves against the full range of SMF-eligible collateral at a variable price and quantity for six months, at a minimum clearing spread of 15bps above Bank rate for our broadest collateral set (‘Level C collateral’). As demand for the ILTR grows the facility is designed to align with comparable market rates.
+footnote
+[8]
+We also have two bilateral standing facilities that can be tapped on any day of the week, on demand: the Operational Standing Facility (OSF) which lends reserves at 25bps above Bank rate and the Discount Window facility (DWF).
+footnote
+[9]
+As Chart 3 shows, usage of our weekly lending facilities have been steadily increasing, which we encourage and welcome.
+footnote
+[10]
+Currently, we have lent £68bn in the Short-Term Repo (STR) and £23bn in the ILTR
+footnote
+[11]
+. While not easily identifiable from the longer time series in Charts 2 and 3, over the past year, STR usage has tended to decline somewhat before quarter-ends, during which times banks seek to manage down their balance sheets temporarily for regulatory reasons. This balance sheet management activity – which is anticipated and understood well by us and market participants – is also reflected in short-term spikes in overnight repo rates around quarter ends that are then brought down through greater STR usage.
+footnote
+[12]
+Nonetheless the stock of reserves continues to fall, as the decline in reserves resulting from the unwind of QE and a crisis-era lending scheme (TFSME) continues to outpace growing usage of our lending facilities (Chart 4). For now, these facilities are smoothing bumps in the road as we transition towards a new equilibrium. We are watching carefully for where that level will settle.
+Chart 3: Increase in usage of the STR and ILTR
+Footnotes
+Source: Bank of England
+Chart 4: Reserve drain with and without active lending in STR and ILTR
+(a)
+Reserves continue to fall as QE and TFSME unwind, despite an increase in reserves due to uptake of the STR and ILTR
+Footnotes
+Source: Bank of England(a) Reserves drain stripping out the increase in borrowing in STR and ILTR (purple line) excludes borrowing in the STR and ILTR after July 2023.
+We cannot know ex-ante what that level will be and since we are not operating a supply-driven system, we do not need to rely on accurate estimates of demand to determine how much we supply. That said, it is useful to have such estimates, for planning purposes, including by asking banks what is their preferred minimum range of reserves (PMRR).
+footnote
+[13]
+The latest survey suggests that PMRR is £385-540bn, marginally higher than £385-530bn in Q3 2024.
+footnote
+[14]
+Chart 2 shows a time series of the spread between SONIA and Bank Rate. Although the spread has been narrowing it is still negative. In an environment of falling reserves and upwards pressure in repo markets, depositors in overnight unsecured markets have been able to demand a higher rate of return on their deposits with SMF banks. We would expect the spread to narrow further as reserves and deposits reach their preferred level.
+So far, so good. The operating framework we have designed is transitioning to an equilibrium level of reserves well – secured money market (repo) rates are being capped by our marginal facility and unsecured rates are slowly increasing towards their new level. At the same time, participants are increasingly tapping our longer-term facility that alongside the STR will supply the majority of reserves, which is welcome and a process we would like to see continuing.
+We need to recognise that we can only know whether our operating framework achieves its monetary control and financial stability objectives once we have experienced stress after reserves have settled at the PMRR. In the meantime, we can ensure that our design best reflects the lessons from the past, the public debate and what our market analysis and our market participants are telling us. I will now turn to these lessons to persuade you that it does.
+Lessons from history
+Our framework seeks to build on the lessons we learned from operating a variety of frameworks before the global financial crisis and during the era of QE asset purchases. Let me give a brief overview of what we’ve learned from these experiences.
+Before 2006, the Bank ran an operationally intensive framework of multiple daily operations to supply a small number of large commercial banks with just enough reserves to settle intra-day payments. Compared to today, bank balances held overnight at the central bank (i.e. the reserve supply) were extremely low because we actively disincentivised banks from holding any more reserves than was strictly necessary. This complex, scarce-reserves framework came at the cost of significant overnight rate volatility.
+The year 2006 marked a major shift in our framework when we started to pay interest on reserves.
+footnote
+[15]
+This incentivised banks to hold positive reserve balances: the reserve supply increased from the tens of millions to the tens of billions. This enabled our counterparties to absorb short-term fluctuations in reserves demand without causing volatility in market rates. By remunerating reserves at Bank Rate, we anchored short-term market rates to the Monetary Policy Committee’s chosen policy rate – a core feature of the framework that remains in place today. Put simply, we implement monetary policy through the interest we pay on reserves, and this has delivered a significant improvement in our ability to steer market rates. Chart 5 shows the decline in overnight volatility starting in May 2006.
+Chart 5: Decline in overnight interest rate volatility in 2006
+Footnotes
+Source: Bank of England
+In addition to remunerated reserves, this framework – known as reserves averaging – had two main elements: voluntary reserves targets set by participants themselves, and weekly lending operations. In many respects, it resembles the framework to which we are transitioning today – you could say it was repo-led and demand-driven. It performed well at implementing monetary policy under normal market conditions. However, as my colleagues have detailed elsewhere, it proved inadequate when it encountered stress in the form of the global financial crisis.
+footnote
+[16]
+The most important lesson we drew from that period – others are summarised in Table A – was that rigid individual reserve targets were not resilient to sudden shifts in aggregate demand. Penalties for deviating from targets and the stigma associated with accessing bilateral standing facilities limited the system’s flexibility to rapidly scale up reserves supply. This weakened the Bank’s ability to effectively implement and transmit monetary policy. And when this interacted with widespread credit concerns in liquidity and funding markets, the framework’s reliance on a relatively small number of firms to distribute reserves to the wider financial system broke down: liquidity could not reach the parts of the system where it was needed most.
+Table A: Key lessons of different operating frameworks
+Lesson
+Response
+Reserves averaging
+1. Requiring firms to manage reserves to rigid individual targets is not robust to large shocks to aggregate reserves demand (and supply) – and so weakens control of short-term market rates
+A demand-driven system that facilitates adjustments in reserve supply in response to market price signals is most likely to maintain control of market rates
+2. Regular and normalised usage of central bank lending facilities in normal conditions is critical to expanding reserves supply in stress
+SMF facilities are ‘open for business’ – usage should be seen as routine liquidity management
+3. Reliance on a small number of firms to distribute reserves to the wider financial system poses risks to financial stability during stress
+SMF access has been widened to a much higher number and variety of counterparties
+4. Collateral eligible in central bank facilities, in both normal and stressed conditions, should correspond to collateral availability in the financial system
+Lending against a broad range of collateral is a permanent feature of the SMF
+Supply-driven abundant reserves framework
+5. Abundant reserves have been highly effective at guiding market rates, including during stress, but transfer interest rate risk from the private sector to the public sector when supplied by asset purchases
+The Bank’s balance sheet will remain larger than before the financial crisis though not as large as today and be backed by repo
+In 2009, we suspended much of the reserves averaging framework to accommodate the excess reserves created to fund the MPC’s programme of asset purchases. This shift marked the beginning of a supply-driven abundant reserves framework in which the design of our operations was shaped largely by the objectives of QE. Although in this period market-wide lending facilities were rarely used outside stress episodes, we introduced several important innovations that now underpin our repo-led, demand-driven approach. These innovations include a fundamental change in the positioning and supervisory treatment of our facilities
+footnote
+[17]
+, the widening of access to our framework (from around 40 counterparties in 2006 to over 225 today
+footnote
+[18]
+), as well as new and normalised facilities like the STR and ILTR, the latter of which is available against a broad range of collateral.
+Chart 6: Money market rates since before the global financial crisis
+Footnotes
+Source: Bank of England, Sterling Money Markets Data (SMMD) and Bank calculations.
+One of the key insights from this period was that abundant reserves supply could be highly effective at guiding short-term market rates, including during financial-stability driven shocks (Chart 6). However, when reserves are supplied via outright gilt purchases, an abundant reserves framework transfers a substantial amount of interest rate risk from the private sector to the public sector. As Andrew Bailey explained in his Goodhart lecture,
+footnote
+[19]
+a repo-led framework allows the bulk of interest rate risk to be managed in the private sector, where it better belongs.
+Learning from the public debate
+How do the lessons from our operating framework history stack up against the public debate on the subject?
+Here at the Bank, we have profited from a wide range of central bank research conferences and public discussions that have considered the design of central bank balance sheets. And in February this year, the Bank of England hosted its own Annual Research conference on this theme
+footnote
+[20]
+. Annette Vissing-Jorgensen of the Federal Reserve Board gave a keynote speech based on contributions she and her co-authors have made in the field. In her presentation she demonstrated an important result: given that central banks are monopolist suppliers of reserves, demand is endogenous to the terms of supply and hence central banks can always achieve monetary control.
+footnote
+[21]
+Given that a variety of operational framework can achieve monetary control, the question then becomes which operational framework is more robust to shocks. To get a sense of this, take the Bank’s experience with reserves averaging and the supply-driven abundant reserves framework we have been operating since QE. During normal times, we were able to maintain monetary control well, but as soon as stress crystallised, reserves averaging did less well in maintaining control. The Bank did succeed in maintaining control but after significant innovations and introductions of new schemes, which effectively resulted in an abandonment of the original operating framework. Put differently, although it’s always possible for the monopolist supplier of reserves to keep overnight rates close to its policy target, only certain operating frameworks appear to be robust to unanticipated shifts in demand and supply.
+In terms of which framework is more robust, Chart 7 shows a demand curve for reserves with three stylised segments: scarce reserves, ample reserves and abundant reserves.
+footnote
+[22]
+Our own experience with QE suggests that abundant or ample reserves systems that ensure central banks do not hit the most inelastic part of the demand curve are robust to sudden increases in demand and are very good at delivering monetary control. But are they optimal from a welfare perspective?
+Chart 7: Stylised reserves demand curve
+(a)
+Footnotes
+(a) For illustrative purposes we have assigned colours to different regimes of reserves supply. In reality, the boundary between each regime is porous, and so we would not expect to see sudden shifts from ample to scarce reserves, for example.
+To answer this question a natural starting point – emphasised by the Dallas Fed’s Lorie Logan – is the classical Friedman rule in which the ‘opportunity cost to banks of holding reserves is approximately equal to the central bank’s cost of supplying reserves’.
+10
+Such a rule would imply that the central bank expands reserve supply until demand is satiated at the prevailing policy rate, given that reserve supply is argued to essentially be costless.
+But in a separate contribution, Vissing-Jorgensen
+footnote
+[23]
+has accounted for the fact that reserves provision is not costless.
+Reserves need to be supplied either through the central bank purchasing assets, usually government bonds, or lending against collateral. When purchasing assets, the central bank removes these assets from the financial system by taking title of them. But different assets offer different convenience value related to their inherent liquidity value – that is they confer different benefits from holding them over and above the interest rate they yield. For example, government bonds have a higher convenience value for a broad range of market participants, than illiquid assets such as loans because they are more easily monetisable in financial markets and they can also be used to fulfil regulatory requirements such as the Liquidity Coverage Ratio (LCR). So the Friedman rule ought to be adjusted to take account of not only
+the marginal cost a central bank faces in supplying reserves but also the marginal welfare cost of removing assets with convenience value from the market. This gives rise to Vissing-Jorgensen’s extension of the Friedman rule. Put differently, it is not only balance sheet size that matters, but also asset composition and the latter influences the former. A central bank that in steady state supplies all of its reserves through gilt purchases should optimally have a smaller balance sheet than a central bank that supplies a material stock of its reserves through active lending against a broad set of collateral, other factors being equal.
+What does this mean in practical terms? I think it still implies ample central bank balance sheets, as shown in Chart 7, but by accounting for marginal welfare costs, it implies less abundance than the pure Friedman rule would suggest. A larger balance sheet, as we have seen from our QE experience, is more robust to sudden shifts in demand. And if lending can be conducted against a broad set of collateral then this allows the central bank to aim for a larger balance sheet than if it supplied it mainly through government bond purchases.
+There are two reasonable challenges to this position. The first is that the market’s ability to effectively distribute reserves affects both their convenience value and that of other assets. Claudio Borio, formerly at the BIS, has noted that higher levels of reserve supply could weaken market functioning, depth and the efficiency of intermediation.
+footnote
+[24]
+In this world, less efficient money markets for liquidating high-quality collateral might lower their convenience value to investors relative to reserves, shifting the demand curve for reserves outward in normal times, further undermining the efficiency of liquidity and funding markets, or producing larger-than-otherwise demand shocks in stress with consequences for financial stability.
+In the UK, there is little empirical evidence that abundant reserves have harmed activity in money markets (Chart 8). Granted, unsecured interbank activity is much less likely to play a role in liquidity management
+footnote
+[25]
+but secured money market activity, both between banks and between banks and non-banks does not seem to have been affected by the injection of abundant reserves. Moreover, by stabilising market conditions, ample reserves may actually support market liquidity and broader market functioning, as Roberto Perli has recently argued, including in the recent tariff-related turmoil in early April.
+footnote
+[26]
+The second challenge to the case for ample reserve supply in normal market conditions is that it fails to account properly for the central bank’s ability to expand reserves supply rapidly in stress. In this view, in a flight-to-safety scenario, the convenience value of reserves is likely to increase relative to other assets. So assessments of the optimal level of reserve supply based on measures of convenience value in normal market conditions may be inconsistent with measures of convenience value in stress. Borio therefore argues not only that the central bank balance sheet should be small in normal times to nurture healthy markets but that they should expand elastically in stress when markets are not functioning well.
+However, the effective expansion of the central bank’s balance sheet cannot simply be taken for granted. There are a wide-range of policy, operational and stigma-related frictions that, if not addressed, can undermine the speed and scale at which market operations are able to expand reserve supply in stress
+footnote
+[27]
+. Put simply, we judge that our ability to expand reserve supply is likely to work far more effectively if lending facilities are used regularly and widely by our counterparties in normal times – as we are now starting to see through borrowing in the STR and ILTR.
+footnote
+[28]
+The more counterparties are comfortable that they are able to draw in scale from our facilities in stress the less likely they are to demand in normal times. Practically, a framework based on active lending against broad collateral still implies a reasonably ample level of reserves in normal market conditions.
+Chart 8: Secured money market remains active
+(a)
+Footnotes
+Source: Bank of England, Sterling Money Markets Data (SMMD), and Bank calculations. (a) Gilt repo activity defined in terms of amounts outstanding. Pre-July 2017 data are estimates derived from Bankstats to match the wider coverage of SMMD. QE periods refer to when the Bank was actively increasing the stock of assets in the Asset Purchase Facility (APF) for QE purposes.
+There is a further consideration here. For a central bank to expand reserve supply elastically in stress, there needs to be sufficient unencumbered and eligible collateral in circulation: so-called ‘dry powder’ to meet the increased demand for reserves in stress. Supplying a large quantity of reserves through lending against broad collateral in normal times can leave less ‘dry powder’ in the banking sector. While we are still in transition and cannot know with certainty where reserves will settle, reasonable estimates suggest that the increase in the level of encumbrance involved, at least in aggregate, will be quite modest, and will leave plenty of dry powder in circulation which can be used for borrowing reserves in stress (Chart 9). So at this stage I do not put much weight on this point; once reserves have settled at their new level, we can reassess available dry powder against plausible estimates of needs in stress.
+Chart 9: Eligible sterling collateral in the UK banking system
+(a)
+Footnotes
+Source: Bank of England, PRA regulatory returns, and Bank calculations. (a) Sterling-only assets. Drawing capacity is defined as the market value of loans adjusted by conservative haircuts. Potentially eligible loan collateral comprising household mortgage, corporate, and personal lending (excluding overdrafts and credit card lending) by UK firms. Data excludes level C securities collateral.
+Learning from the market
+Learning from the past and from public debate can take us only so far. We also need to test our approach through continuous engagement with the market – and especially the participants in our framework.
+We do that regularly – the Bank’s robust qualitative and quantitative market intelligence function supports policymaking across our remits. We speak regularly with the breadth of participants in our operations to get their view on the design of our facilities and broader market conditions. Engaging with the market in this way has been an ongoing process, helping us to iterate on the design of our framework.
+The transition to a repo-led, demand-driven framework is a major change in operating practice, both for us and firms. This is why we felt it was important to set out our thinking at greater length in a DP last December and invited formal feedback.
+We have today put out a feedback statement
+to that DP
+– and here I will talk through a few key points.
+A key purpose of the DP was to outline our proposals to recalibrate the ILTR, to make it fit for purpose to supply the stock of reserves, alongside the STR.
+We received 61 responses, primarily from SMF participants and a variety of trade associations. Respondents generally supported our approach to the recalibration of ILTR which involves supplying a larger total amount available per weekly auction, an increase in the quantity of reserves available at fixed minimum spreads, and a gentler upward sloping supply curve than before to ensure that clearing spreads only rise gradually.
+The Bank will continue to review the ILTR to ensure it remains effective and aligned with market conditions. From November 2025, the minimum spread on bids against Level A collateral in the ILTR will rise from 0 to 3 basis points above Bank Rate. By introducing a modest spread above Bank Rate, this change is intended to balance incentives for participants between the STR and ILTR facilities against Level A collateral by more closely aligning the effective costs of the facilities given the longer tenor of the ILTR. This change will be confirmed in advance, with no changes planned for Level B or C collateral.
+Some respondents asked for further clarity about how the ILTR pricing and allocation work, especially as and when demand increases.
+We’ve published a new ILTR guide for participants to address this. The guide provides practical guidance for firms and example auction outcomes which demonstrate principles for how to bid effectively in the ILTR.
+Many respondents welcomed the increase in transparency around the facility’s pricing and design. However, a number of respondents also asked for greater flexibility around the tenor of loan – either in the form of shorter maturity options or the option to repay ILTR drawings early. While we are making no changes now, as
+we transition to the steady state framework we will review whether increasing the flexibility offered by the ILTR could improve its usability without undermining the facility’s integrity as a competitive auction.
+Some respondents requested greater clarity on the role of the Operational Standing Facilities (OSFs) and the Discount Window Facility (DWF) in a repo-led framework. We expect the OSFs and DWF to both play an important role in our framework, alongside our regular market-wide operations.
+As with all SMF facilities, the OSFs and DWF are ‘open for business’ and should be used by SMF participants for the purposes of liquidity management.
+footnote
+[29]
+Firms recognised that OSFs could play a role in responding to shocks in demand for reserves which occur outside of the ILTR or STR auction window. However, given some comments from firms that they would use OSFs only as a last resort,
+we intend to review the current design and effectiveness of OSFs and we will engage with the market as part of this piece of work.
+In addition, several respondents set out changes to the Bank’s current collateral eligibility and settlement processes that in their view would enhance the overall usability of the Bank’s facilities to SMF firms. We’ve engaged with that thoroughly in the feedback statement, and welcome further engagement on these topics – it’s vital that operational robustness and effective risk management processes enable effective usage of our facilities.
+To sum up this section, I want to reiterate our thanks to all the respondents to the discussion paper for their engagement with our proposals. We invite continued engagement on these issues as we go through the next stage of transition. And the next stage of transition, for us and for firms, is the topic I will now move to.
+Learning by doing
+I would like to finish by making the case that this will be an ongoing process of learning by doing – not just for the Bank, but also for firms. That’s because, as we’ve said before, we will continue to learn as the liquidity environment changes, including how market liquidity conditions – particularly in liquidity and funding markets – evolve. As conditions evolve, so too will the Bank’s approach. Change won’t happen overnight – we fully appreciate the value of certainty and planning. But it would be surprising if we hadn’t reflected on the precise calibration of our facilities in, say, a few years’ time. Any changes would be clearly signalled to the market: we will continue to update our framework in a gradual and predictable way, ensuring that the liquidity of sterling markets supports our objectives of monetary and financial stability.
+An ongoing open dialogue with SMF participants and interested parties will be critical to ensuring a smooth transition to the new framework. Over time, more frequent participation from a broader range of firms will be essential for supplying the system with the liquidity it needs. The PRA statements on the STR and ILTR are clear on the fact that our lending facilities should be seen as routine.
+footnote
+[30]
+I want to emphasise that firms should now be looking to use these facilities for routine liquidity management and not just as backstops. It has been welcome to see a broadening range of institutions in these operations, and we want to see more.
+Chart 10 sets out the path for reserves together with the latest survey-based PMRR estimate I referred to earlier taking into account projected decline of reserves due to QE and
+TFSME unwind. The path of TFSME unwind has become smoother as more firms have repaid their drawings. This would suggest we could arrive at the upper range of this estimate by Q2 2026. Exactly when we reach this level will depend amongst other things on changes in our facilities usage, as well as the pace of QT (which is a decision for the MPC). But it sharpens the mind as a planning assumption.
+Chart 10: We could reach the PMRR next year
+(a)
+Footnotes
+Source: Bank of England(a) Reserve unwind shown under different stylised MPC scenarios for QT, based on the different choices during the first three QT annual review cycle. For simplicity it assumes no further change to STR or ILTR usage.
+By engaging actively, planning thoughtfully, and being adaptive to change, firms support a smooth transition to a repo-led framework. That means that SMF
+firms must now fully consider the changing liquidity environment, and their plans to source reserves within that. That means borrowing in larger volumes routinely from the Bank, considering their market access, testing operations regularly and thinking actively about levels of pre-positioned collateral – both for use in market-wide and our bilateral on-demand standing facilities. There’s no one-size-fits-all approach to liquidity management, but firms should not assume that their use of our facilities in the future will be the same as their use today. The liquidity environment is changing. That’s also why we’re running virtual seminars on our facilities (a so-called SMF showcase) to build familiarity and readiness across treasury, repo, and operational teams. The message is clear: the Bank’s facilities are open for business – use them, learn by doing, and be ready to adapt as market conditions and pricing evolves.
+We will do the same.
+This speech was joint work with Raf Kinston, Daire MacFadden and Jack Worlidge. I would also like to thank Andrew Bailey, Dan Beale, Nat Benjamin, Sarah Breeden, Charlotte Gerken, Rand Fakhoury, Tom Horn, Clare Lombardelli, Arif Merali, Waris Panjwani, Huw Pill, Matt Roberts-Sklar, Andrea Rosen, Martin Seneca, Tom Smith, Annette Vissing-Jorgensen, Sam Woods and Dave Ramsden for their helpful comments.
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser | Bank of England
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Let’s get ready to repo! - speech by Victoria Saporta | Bank of England
+Transitioning to a repo-led operating framework | Bank of England
+ILTR Guide
+At the Bank of England, we call this set of operations the Sterling Market Framework (SMF) and they are set out in the Bank of England Markets Operations Guide (BEMOG).
+Bank of England Market Operations Guide | Bank of England
+Our SMF refers to operations with the banking system. Earlier this year we launched the Contingent Non-Bank Financial Institution Repo Facility (CNRF) for pension funds, insurance companies and liability-driven Investment funds (LDIs) with material exposures to the gilt market. The tool will only be activated in the event of severe gilt market dysfunction and its purpose is not to provide liquidity insurance to non-banks, unlike the SMF tools. For more detail see
+Getting the balance right: ensuring the Bank’s balance sheet can support financial stability − speech by Dave Ramsden | Bank of England
+and
+MNI INTERVIEW: BOE Urges Signups For Non-Bank Gilt Facility
+For a long-run history of the Bank’s balance sheet size see
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+See Box B in the Discussion Paper, which details pricing in comparable markets such as six-month GC repo, six-month Certificates of Deposit, covered bonds, and one-year retail deposits.
+DWF pricing varies from market rates in routine circumstances but offer SMF participants more affordable liquidity during less normal conditions. As with all SMF facilities, the DWF is ‘open for business’ and should be used by SMF participants for the purposes of liquidity management. Further information is available here:
+Bank of England Market Operations Guide: Our tools | Bank of England
+For more detail on facility usage, please see:
+How is the transition to a repo-led framework progressing? | Bank of England
+As at 11 June 2025.
+See
+How is the transition to a repo-led framework progressing? | Bank of England
+For example the Bank also pays attention to econometric models – such as described in
+What do we know about the demand for Bank of England reserves? | Bank of England
+or presented here
+Quantitative tightening and monetary policy stance − speech by Catherine L. Mann | Bank of England
+As quoted in the December Discussion Paper. In my speech I cited the Q1 2024 survey estimate and that was £345-490bn.
+For details on the change in the Bank’s operating framework at that time – both concerns with the prior framework and the initial thinking around the design launched in 2006, see:
+Managing the Central Bank's Balance Sheet: Where Monetary Policy Meets Financial Stability - speech by Paul Tucker | Bank of England
+The Bank of England’s Balance Sheet: Monetary Policy and Liquidity Provision during the Financial Crisis - Speech by Paul Fisher, 19 November 2009
+;
+Bank of England Quarterly Bulletin 2010 Q1
+;
+The Development of the
+Bank of England's Market Operations: A consultative paper by the Bank of England, October 2008
+Mark Carney: Speech as part of the Financial Times 125th anniversary celebrations, London | Bank of England
+Banks, building societies, broker dealers, CCPs (central counterparties) and ICSDs (International Central Securities Depositaries).
+‘… in line with the fundamental principle of minimising market distortions from central bank operations … financial risk is best managed and distributed by the financial sector unless there is a strong policy case for the public sector to take on the risk (as was the case with QE). So from this perspective, providing central bank reserves through repo-operations has much appeal.’
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Bank of England’s 2025 BEAR Conference | Bank of England
+Vissing-Jorgensen’s analysis draws on the operational framework of the Federal Reserve and so emphasises the importance of interest rates on reserves as part of making this argument. However, the approach can be generalised to other frameworks and, in the UK, past and present, the net terms across all of our SMF facilities play a role in determining the demand for reserves.
+On the Optimal Supply of Reserves - FEDERAL RESERVE BANK of NEW YORK
+Reserve Demand, Interest Rate Control, and Quantitative Tightening
+(with David Lopez-Salido), 2025
+Getting up from the floor
+An important research question is whether the demise of unsecured interbank markets matters in a world where we know that in the presence of credit and liquidity shocks in the banking system they do not appear to work. One argument is that in their absence we do not have sufficient signals of credit and liquidity distress, although there are many other asset prices that can produce such signals such as CDS spreads, spreads on Tier 1 and Tier 2 bonds and equity prices.
+Recent Developments in Treasury Market Liquidity and Funding Conditions - FEDERAL RESERVE BANK of NEW YORK
+See the important considerations set out by Andrew Hauser in 2023 -
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser | Bank of England
+This point is also made by Lopez Salido & Vissing Jorgensen in their revised working paper (May 2025).
+We encourage usage of these bilateral facilities. Both are available daily, on-demand, to meet firm-specific liquidity needs.
+PRA statement on Short Term Repo (STR) facility | Bank of England
+PRA statement on Indexed Long-Term Repo (ILTR) facility | Bank of England
+PRA statement on Short Term Repo (STR) facility | Bank of England
+PRA statement on Indexed Long-Term Repo (ILTR) facility | Bank of England
+Close
+We encourage usage of these bilateral facilities. Both are available daily, on-demand, to meet firm-specific liquidity needs.
+Close
+This point is also made by Lopez Salido & Vissing Jorgensen in their revised working paper (May 2025).
+Close
+See the important considerations set out by Andrew Hauser in 2023 -
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser | Bank of England
+Close
+Recent Developments in Treasury Market Liquidity and Funding Conditions - FEDERAL RESERVE BANK of NEW YORK
+Close
+An important research question is whether the demise of unsecured interbank markets matters in a world where we know that in the presence of credit and liquidity shocks in the banking system they do not appear to work. One argument is that in their absence we do not have sufficient signals of credit and liquidity distress, although there are many other asset prices that can produce such signals such as CDS spreads, spreads on Tier 1 and Tier 2 bonds and equity prices.
+Close
+Getting up from the floor
+Close
+Reserve Demand, Interest Rate Control, and Quantitative Tightening
+(with David Lopez-Salido), 2025
+Close
+On the Optimal Supply of Reserves - FEDERAL RESERVE BANK of NEW YORK
+Close
+Vissing-Jorgensen’s analysis draws on the operational framework of the Federal Reserve and so emphasises the importance of interest rates on reserves as part of making this argument. However, the approach can be generalised to other frameworks and, in the UK, past and present, the net terms across all of our SMF facilities play a role in determining the demand for reserves.
+Close
+Bank of England’s 2025 BEAR Conference | Bank of England
+Close
+‘… in line with the fundamental principle of minimising market distortions from central bank operations … financial risk is best managed and distributed by the financial sector unless there is a strong policy case for the public sector to take on the risk (as was the case with QE). So from this perspective, providing central bank reserves through repo-operations has much appeal.’
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Close
+Banks, building societies, broker dealers, CCPs (central counterparties) and ICSDs (International Central Securities Depositaries).
+Close
+Mark Carney: Speech as part of the Financial Times 125th anniversary celebrations, London | Bank of England
+Close
+The Bank of England’s Balance Sheet: Monetary Policy and Liquidity Provision during the Financial Crisis - Speech by Paul Fisher, 19 November 2009
+;
+Bank of England Quarterly Bulletin 2010 Q1
+;
+The Development of the
+Bank of England's Market Operations: A consultative paper by the Bank of England, October 2008
+Close
+For details on the change in the Bank’s operating framework at that time – both concerns with the prior framework and the initial thinking around the design launched in 2006, see:
+Managing the Central Bank's Balance Sheet: Where Monetary Policy Meets Financial Stability - speech by Paul Tucker | Bank of England
+Close
+As quoted in the December Discussion Paper. In my speech I cited the Q1 2024 survey estimate and that was £345-490bn.
+Close
+For example the Bank also pays attention to econometric models – such as described in
+What do we know about the demand for Bank of England reserves? | Bank of England
+or presented here
+Quantitative tightening and monetary policy stance − speech by Catherine L. Mann | Bank of England
+Close
+See
+How is the transition to a repo-led framework progressing? | Bank of England
+Close
+As at 11 June 2025
+Close
+For more detail on facility usage, please see:
+How is the transition to a repo-led framework progressing? | Bank of England
+Close
+DWF pricing varies from market rates in routine circumstances but offer SMF participants more affordable liquidity during less normal conditions. As with all SMF facilities, the DWF is ‘open for business’ and should be used by SMF participants for the purposes of liquidity management. Further information is available here:
+Bank of England Market Operations Guide: Our tools | Bank of England
+Close
+See Box B in the Discussion Paper, which details pricing in comparable markets such as six-month GC repo, six-month Certificates of Deposit, covered bonds, and one-year retail deposits.
+Close
+For a long-run history of the Bank’s balance sheet size see
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Close
+Our SMF refers to operations with the banking system. Earlier this year we launched the Contingent Non-Bank Financial Institution Repo Facility (CNRF) for pension funds, insurance companies and liability-driven Investment funds (LDIs) with material exposures to the gilt market. The tool will only be activated in the event of severe gilt market dysfunction and its purpose is not to provide liquidity insurance to non-banks, unlike the SMF tools. For more detail see
+Getting the balance right: ensuring the Bank’s balance sheet can support financial stability − speech by Dave Ramsden | Bank of England
+and
+MNI INTERVIEW: BOE Urges Signups For Non-Bank Gilt Facility
+Close
+At the Bank of England, we call this set of operations the Sterling Market Framework (SMF) and they are set out in the Bank of England Markets Operations Guide (BEMOG).
+Bank of England Market Operations Guide | Bank of England
+Close
+ILTR Guide
+Close
+Transitioning to a repo-led operating framework | Bank of England
+Close
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Let’s get ready to repo! - speech by Victoria Saporta | Bank of England
+Close
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser | Bank of England
+Close
+Convert this page to PDF
+Victoria Saporta
+Executive Director, Markets
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

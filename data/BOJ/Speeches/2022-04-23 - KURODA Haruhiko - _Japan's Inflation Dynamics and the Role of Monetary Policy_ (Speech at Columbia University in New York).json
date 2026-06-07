@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Inflation Dynamics and the Role of Monetary Policy\" (Speech at Columbia University in New York)",
+  "date_original": "2022-04-23",
+  "date_au": "23/04/2022",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220423a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-04-23 - KURODA Haruhiko - _Japan's Inflation Dynamics and the Role of Monetary Policy_ (Speech at Columbia University in New York).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-04-23 - KURODA Haruhiko - _Japan's Inflation Dynamics and the Role of Monetary Policy_ (Speech at Columbia University in New York).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "181b825b936ca29dde16eb26fed6d6915ac3fcc2e1d554f934974c43154c566c"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Fed's Discount Window: 1990 to the Present",
+  "date_original": "2024-10-09",
+  "date_au": "09/10/2024",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20241009a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-09 - Philip N. Jefferson - The Fed's Discount Window_ 1990 to the Present.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-09 - Philip N. Jefferson - The Fed's Discount Window_ 1990 to the Present.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4522fb2ba0eca3db9455a649d83f83f4be34eba1f30e72fe3f85404c05d7bd7d"
+}

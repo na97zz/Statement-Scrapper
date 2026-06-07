@@ -1,0 +1,14 @@
+metric,value
+generated_at,2026-06-06T12:28:37.690236+00:00
+total_meetings_tested,268
+total_banks,10
+policy_decisions_available,True
+market_reactions_available,False
+overall_policy_hit_rate,0.5638766519823789
+overall_next_meeting_hit_rate,0.48847926267281105
+best_validated_bank,BOJ
+weakest_validated_bank,ECB
+strongest_hawkish_score,"{""bank"": ""BOE"", ""meeting_cycle_lean"": ""hawkish"", ""meeting_cycle_score"": 7.886917501586543, ""meeting_date"": ""2023-06-01"", ""meeting_id"": ""BOE_2023_06_B""}"
+strongest_dovish_score,"{""bank"": ""BOE"", ""meeting_cycle_lean"": ""dovish"", ""meeting_cycle_score"": -4.437895002019237, ""meeting_date"": ""2025-06-01"", ""meeting_id"": ""BOE_2025_06_C""}"
+average_meeting_score,0.11478839629146212
+average_absolute_score_change,0.7775175502171678

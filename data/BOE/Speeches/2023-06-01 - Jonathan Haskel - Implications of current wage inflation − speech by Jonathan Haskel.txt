@@ -1,0 +1,1103 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Implications of current wage inflation − speech by Jonathan Haskel
+DATE: 01/06/2023
+SPEAKER: Jonathan Haskel
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/september/inflation-models-and-research-distilling-dynamics-for-monetary-policy-decision-making.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+Inflation Models and 
+Research:  Distilling dynamics 
+for monetary policy decision-
+making - speech by 
+Catherine L. Mann   
+Given at the Canadian Association for Business Economics 
+11 September 2023 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech 
+Introduction 
+Central banks have come under fire for missing their inflation targets, but at least as much 
+because their inflation forecasts have really missed outturns. It is reasonable for people to 
+wonder: How can monetary policy be set correctly if the forecast misses are so 
+large?  But, this has been an unprecedented time with a series of shocks and subsequent 
+evolution of the macroeconomy that present significant challenges to forecasting 
+inflation.  Our toolbox for economic assessment includes multiple models, but some have 
+been estimated over time periods without major shocks or surges in inflation, and those 
+forecasts effectively assume that quiescent conditions will re-emerge.  Most are linear and 
+symmetric and skimp on price-setting or wage-setting fundamentals, which may be 
+reflected as time-varying and state-dependency in inflation dynamics.  Some implicitly 
+assume, and others are agnostic about, the stability of monetary policy transmission 
+through financial markets, even as inflation rates and central bank hikes have been the 
+most dramatic in a generation.   
+No single model can incorporate all these important questions about the inflation process 
+today.  But, central bank researchers have risen to the challenge of producing research 
+that does address many of these issues.  The key for monetary policy decision-making is 
+how to weight information and predictions from existing models along with innovative new 
+research, to distil a reasonable picture for how inflation might evolve under different 
+economic and monetary policy scenarios.   
+Inevitably, and unfortunately, the inflation forecast and therefore the monetary policy 
+maker likely will make a mistake; after all, we don’t have a perfect crystal ball!  Ex-post, 
+either policy will tighten too much, in that the activity costs of monetary tightening are 
+larger than warranted to achieve a deceleration in inflation to target. Or policy will be 
+inappropriately loose, such that inflation will remain above target for an even longer period, 
+risking expectations becoming unanchored.  Which mistake would I rather make and do 
+the data and analysis help me in that judgment?   
+At issue in the current conjuncture, and speaking just for myself, the risk of tightening too 
+little is more salient.  I make this judgment for the UK based on a variety of information. 
+For instance data on inflation in core and services persisting at over 6% for over a year by 
+now.  Econometric analysis of the decomposition of inflation dynamics into components of 
+expectations and inertia reveals an increasing role for these, which is supportive of 
+continued inflation persistence. Worrying to me, is that a statistically-derived time-varying 
+trend of inflation has drifted above 2%.  
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+As I’ve discussed before, monetary policy transmits through financial markets to price 
+setting and the real economy explicitly via an expectations channel.  Therefore, duration 
+above target matters for policy risk assessment:  the longer inflation remains way above 
+target, the more difficult it will be and the activity costs greater to ultimately get inflation to 
+target.  To pause or to hold the policy rate lower for longer risks inflation becoming more 
+deeply embedded, which would then require more tightening in total, to both change 
+inflation itself and to wring-out the embedded inflation that comes from the sustained 
+duration above target.  This is why I would rather err on the side of over-tightening.  But, if 
+I am wrong, and inflation decelerates more quickly and activity deteriorates more 
+significantly, I will not hesitate to cut rates.     
+ 
+On the MPC forecast 
+First, let me say a couple of things about the nature of the MPC’s forecast as I understand 
+and interpret it.  Over the course of a forecast round, it develops with staff assessments 
+and key technical assumptions. Importantly, it is a process of incorporating and distilling 
+from multiple inputs a short-term data-driven and then longer-term models-driven inflation 
+trajectory.  But, ultimately, it represents the ‘best collective judgment’ of the Monetary 
+Policy Committee (Burgess et al., 2013).    
+Judgment is key – of particular importance when large and sequential shocks hit an 
+economy.  This judgment applies not only to the lines that you see in Chart 1 but also to 
+the choice of data to augment statistical outputs, which models to pay attention to in the 
+first place and how to weight their conclusions. The data, the models and the judgments 
+are reflected not only in the central tendency in the fan chart of the Monetary Policy Report 
+but also reflected in the skew (and indeed the overall fan).  The difference between the 
+modal and mean inflation trajectories has been abnormally large over the last year.  In this 
+speech I will consider some of the research that has been particularly informative for my 
+judgments which in turn underpin my risk assessment and monetary policy decisions.   
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+Chart 1: Inflation forecast from the August 2023 MPR 
+Percent growth over same-quarter average the year prior 
+ 
+ 
+Source: August 2023 Monetary Policy Report. Notes: Solid line in the chart shows the modal forecast for 
+inflation, that is the most likely path, the dashed line the mean, or risk-weighted path (Britton et al., 1998). 
+Latest observation: 2023 Q2 (actual), 2026 Q3 (A23 forecast). 
+Conditioning assumptions, especially the market curve 
+ 
+Along with judgments, the inflation trajectory depends on a range of conditioning 
+assumptions.  They are assumptions about the near-term outlook, future energy prices, 
+exchange rates, fiscal stance, and a particular future path for interest rates.  These market 
+expectations of the future path of short-rates is not necessarily the path that the MPC 
+collectively or any member individually would prefer. Neither is it an optimal path in a 
+welfare-maximising sense1, nor the unconditional prediction of any model. By convention, 
+we condition on the future path of short rates implied by financial markets, which in theory 
+should reflect both the MPC’s actions to date, as well as participants’ expectations of its 
+current plans, and its likely reaction to future data outturns. However, it will also reflect 
+market participants aggregated assumptions over underlying macroeconomic trends which 
+can make things complicated when these assumptions differ from those embodied in our 
+forecast process. But I’ll come back to that later. 
+In general, I believe it is not a good idea to over-interpret the line, which is the modal 
+forecast generated by the models and data, as well as judgments. At least as important, 
+especially these days, is to consider the balance of risks embodied in the fan. The width of 
+the fan measures the average expected forecast error, which uses as a starting point the 
+ 
+1 See, for example, Chapter 4 of Galí (2015) for an overview over optimal monetary policy in macroeconomic 
+models. 
+-2
+0
+2
+4
+6
+8
+10
+12
+-2
+0
+2
+4
+6
+8
+10
+12
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+Actual inflation
+August 2023
+MPR forecast swathe
+Percent
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+analysis of actual past forecast errors at the different horizons, so that’s a statistical 
+assessment of past model, data, judgmental inputs relative to actual outturns.  On the 
+other hand, the skew going forward is fully judgmental, albeit also based on models, 
+statistical analysis, and data.  The MPC will collectively agree on a skew which gives rise 
+to the mean forecast. 
+The evolving mean and mode 
+ 
+Over the recent past, the mode and the mean inflation projections have differed 
+substantially.  The collective MPC judgment in August moved about half of the skew from 
+previous forecasts into the mode (Chart 2), noting that some risks of persistence, 
+previously reflected in the skew had indeed begun to ‘crystallize’.2  Even in the August 
+forecast, the MPC judgment is that it is more likely for future shocks to be inflationary, such 
+that, on an average, risk-weighted basis, the expected inflation rate at the end of the 
+forecast horizon is just about 2% while the modal case is that inflation will fall below target. 
+Chart 2: Inflation forecast and skew at year 3 across MPR vintages 
+Percent and percentage points 
+ 
+Source: Bank calculations. Notes: Diamonds in aqua show the modal CPI inflation forecast at year 3 of 
+successive MPR vintages, purple bars the (un-normalized) skewness, and orange diamonds the resulting 
+mean forecast. 
+Should policy be set on the basis of either the mean or modal path?  One problem with this 
+question is that these paths are created under the assumption that we can model future 
+economic outcomes as draws from a continuous and uni-modal distribution. That may not 
+be how the world actually works, and no single outcome path from the true distribution 
+ 
+2 See Paragraph 24 of the minutes to the MPC’s August 2023 meeting. 
+0.0
+0.5
+1.0
+1.5
+2.0
+0.0
+0.5
+1.0
+1.5
+2.0
+February 2022
+May 2022
+August 2022
+November 2022
+February 2023
+May 2023
+August 2023
+Mean
+Skew
+Mode
+Percent
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+may even look like the pointwise mode or mean.3 It is also key to recognize that ex-post, 
+more likely than not, we will have made errors. Thus, I consider it more useful, in this 
+unprecedented environment, to think about discrete potential outcomes and associated 
+errors.  
+Over the past year I have often said that I am in the upper part of the fan. That is because 
+I believe that the MPR forecast, for a long time, has been telling a story fundamentally 
+different from the one that I consider likely. My story has been one of more resilient 
+domestic demand and more persistent price pressures which therefore requires a more 
+restrictive monetary policy stance. The data that we have seen over the past half year or 
+so has led me to believe that this was and is a useful story.  And my policy votes have 
+reflected this.   
+Of course, ‘past performance does not guarantee future results’. Each policy round, I ask 
+myself: Which error would I rather make? Based on the data and research so far, I would 
+rather make the error of over-estimating the persistence of inflation than be continually 
+surprised on the upside. 
+ 
+Explaining past errors and avoiding repeat misses 
+A dissection of the inflation forecast relative to outturns is a first strategy to help inform 
+policy judgments.  Fundamentally, the forecast depends on the economic environment, 
+which is beset by shocks, other policies, but also behavioral changes.  Whereas we can’t 
+predict shocks (although scenario analysis might be informative), and we can make 
+assessments of the implications of policies (as and when they are official), the key area for 
+research is the nature, extent, and longevity of behavioral changes.  If these are all small 
+or dissipate quickly, then assuming that future economic relationships will be the same as 
+the past is a good working underpinning to the inflation forecast and associated monetary 
+policy decision.   
+However, an increasing body of research from Bank staff points to behavioral changes that 
+yield strong persistence in core inflation, even after the shocks that precipitated the surge 
+have dissipated. Persistence in behavioral changes can also be revealed as structural 
+changes in the underlying relationships.  Incorporating this research into forecast 
+judgments and decision-making is key, because they point to continued inflation 
+persistence.   
+ 
+3 This point is related to the multiple-models problem described by Fry and Pagan (2011). If there is 
+uncertainty about the properties of the correct model, then pointwise moments of the posterior density, such 
+as means and modes, may not represent the behavior of the economy under any single possible model. 
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+A sequence of shocks 
+ 
+Why have we been continually surprised by inflation over the past couple of years? On top 
+of the first chart, let me now layer on a second fan (Chart 3). It shows the modal forecast 
+and associated uncertainty bands made in February 2022, prior to Russia’s invasion of 
+Ukraine. Following this large and unforeseen shock, actual inflation accelerated to be far 
+above the fan, something that should only happen with 5% probability – at most!4 
+Chart 3: Inflation forecast from August 2023 and February 2022 MPR 
+Percent growth over same-quarter average the year prior 
+ 
+ 
+Source: August 2023 and February 2022 Monetary Policy Report. Latest observation: 2023 Q2 (actual), 
+2024 Q3 (F22 forecast), 2026 Q3 (A23 forecast). 
+ 
+Thus, one reason for our forecast misses has simply been that it is impossible to predict shocks.5  
+This is by definition:  If they were predictable, they would not be shocks anymore. However, I believe 
+that another reason for our misses was that, after we had observed the shock, we under-estimated 
+the potential for changes in the behavior of consumers and firms in response to the shock and to the 
+associated fiscal response.  
+ 
+ 
+ 
+ 
+4 The outer band of the fan chart is calibrated to cover 90% of possible outcomes, so we should see 
+surprises entirely to the upside or entirely to the downside with 5% probability each. See 'The Inflation 
+Report projections: understanding the fan chart' for more detail. At the time, a major land war in Europe 
+appeared to be sufficiently unlikely such that a surprise relative to the fan is appropriate. 
+5 See Annex 2 of the August 2023 Monetary Policy Report for analysis of the MPC’s forecast errors with a 
+focus on the role of energy and food prices. 
+-2
+0
+2
+4
+6
+8
+10
+12
+-2
+0
+2
+4
+6
+8
+10
+12
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+Actual inflation
+August 2023
+MPR forecast swathe
+Percent
+February 2022 
+MPR forecast swathe
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+Changing behaviors 
+ 
+If the behaviors we knew from the low-inflation, low-volatility pre-Covid era have changed, 
+then models which reflect aggregate behavior from this time, and performed well during it, 
+would no longer be suitable for the current period. In general, models that have fixed 
+parameters and are linear in variables, or log-linearized around a deterministic steady 
+state, may perform poorly in times of large shocks and changing behaviors.  And 
+behavioral change patterns such as these are hard to identify in real-time. But, since the 
+issue of model instability is, in all practicality, an unavoidable feature of economic 
+forecasting, what should we do?  I suggest, as Bank staff have done, to focus research 
+efforts on questions of those behavioral changes or regime changes using new data and 
+new methodologies and what they might imply for inflation dynamics and persistence. 
+ 
+Non-linearities and asymmetries 
+The issue of non-linearities in the inflation process is one that I have flagged multiple 
+times.6 In general, it is difficult to estimate non-linear models on actual data since we rarely 
+experience large shocks and more flexible models are prone to over-fitting. One way to 
+confront these challenges is to tightly constrain the type of non-linearity to, for example, 
+allow for asymmetric behavior in the run-up of an inflationary shock versus the subsequent 
+come-down.  Bank staff have undertaken research to investigate the existence, 
+prevalence, and stickiness of inflation persistence through a variety of approaches.  No 
+one of these carries the day, but collectively, they strongly support the notion that 
+behaviors have changed sufficiently to yield continued inflation persistence.     
+Asymmetries  
+ 
+Bank of England staff, in a recent blog post (Mrabet and Page, 2023), explore the effects 
+of energy and food price shocks through the supply chain. They find that compared to a 
+benchmark of complete and symmetric pass-through, inflationary shocks tend to linger for 
+much longer, exerting upward pressure on consumer price inflation over the MPC’s entire 
+3-year forecast horizon.  The prevalence of this asymmetry is widespread in manufacturing 
+sectors.  
+In the MPR forecast, on the other hand, this pass-through is assumed to be symmetric 
+which shortens the time it takes for shocks to wash out. Additional staff analysis of the 
+autocorrelation function of forecast errors reveals that once inflation crosses the 3-4% 
+threshold, the errors become much more sticky.  This is consistent with an inflation 
+ 
+6 See Mann (2022) ‘Inflation expectations, inflation persistence, and monetary policy strategy’ for the 
+role of non-linearities in the Phillips curve and Mann (2023) ‘Expectations, lags, and the transmission of 
+monetary policy’ for a discussion about the non-linear effects of backward-looking expectations formation 
+on the monetary transmission mechanism. 
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+outcome that would be more persistent and where degree and duration above target can 
+matter for inflation dynamics.  
+ 
+A Neural Network Phillips Curve 
+In another investigation of non-linearities and inflation persistence, Bank researchers 
+developed a new model of the inflation process using novel machine learning techniques.7 
+It focuses on the services component of CPI which has been a recent source of 
+surprisingly persistent inflation, remaining sticky at over 6% for more than an entire year.   
+They find that inflation since Russia’s invasion of Ukraine can be explained in large part by 
+input costs such as food and gas prices.  But, importantly, there is an inertial component 
+that includes wages and other compensation measures (Chart 4). The outsized role for 
+nominal inertia, and its jointly positive contribution with inputs costs now, is what is 
+different in this inflationary episode relative to those before and after the Global Financial 
+Crisis when input costs dominated. 
+Chart 4: Decomposition of predicted services inflation from the Neural Network 
+Phillips curve 
+ 
+Source: Buckmann, Potjagailo, and Schnattinger (2023). Notes: The dashed line at 3.3% represents 
+average services price inflation over the pre-Covid sample (1997-2019). Latest observation: 2023 Q3.   
+ 
+ 
+7 See Buckmann, Potjagailo, and Schnattinger (2023) ‘Dissecting UK service inflation via a neural 
+network Phillips curve’ for details. The model is a neural network, following Goulet Coulombe (2022), 
+enhanced with an economically intuitive structure to yield a decomposition in line with an expectations-
+augmented open-economy Phillips curve for UK services inflation. The authors discipline the model by using 
+out-of-bag cross-validation to prevent over-fitting. 
+1
+2
+3
+4
+5
+6
+7
+8
+89
+92
+95
+98
+01
+04
+07
+10
+13
+16
+19
+22
+Short-term inflation expectations
+Long-term inflation expectations
+Nominal inertia
+Domestic input costs
+Slack
+Percentage points
+2
+3
+4
+5
+6
+2020
+2021
+2022
+2023
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+Another concern derived from this analysis is the increasing importance of inflation 
+expectations, a type of data and behavior that I have addressed in my speeches before. In 
+the current nowcast for the third quarter, inflation expectations add about half a percentage 
+point to the explained variation of services inflation relative to its in-sample mean. As 
+headline inflation falls back, and is concentrated especially in salient goods prices, we 
+would expect this short-term expectations component to begin to drag on realized services 
+inflation. However, as of now, this short-term expectations contribution is still rising. I worry 
+that with a long duration of inflation well above target, persistence of target-inconsistent 
+long-term expectations could emerge and support target-inconsistent services inflation.   
+Consider the experience of the late 1980s and early 90s as an example for when this 
+happened.  High inflation expectations created a gap between inflation outturns and 
+economic fundamentals which required significant policy interventions to get it under 
+control.8 As I flagged in a speech last year, rising inflation expectations shift the Phillips 
+curve (Mann, 2022), thus making it necessary for monetary policy to work harder to bring 
+down both inflation and inflation expectations – at a greater cost to output and 
+unemployment. 
+ 
+Structural change 
+The predictive ability of models can break down when underlying trends change as a result 
+of economic turmoil. To confront this issue, we can try to estimate models with  
+time-varying parameters which typically discount observations that are in the more distant 
+past. But that does not help when we are right now switching to a new, yet-unknown 
+regime. We can only really know ex-post whether there was a regime change, but in real 
+time we need to have a prior to interpret the emerging but uncertain evidence. 
+It may be less helpful to just estimate parameters on data in the distant past and apply 
+them to the present. For example, while indeed the 1970s were a time of large supply 
+shocks they were also a time of fundamentally different institutional regimes for UK 
+monetary policy. There was no inflation-targeting, no independent MPC, and less 
+integrated international trade and financial systems. To the extent that the pass-through of 
+shocks depends on these institutions, we should pay attention to these periods while being 
+careful about the conclusions that we can and cannot draw.  
+ 
+ 
+8 In the 1990s, high inflation ultimately led to the UK leaving the European Exchange Rate Mechanism and 
+moving to an inflation targeting framework – two very dramatic changes in macroeconomic policy. See  
+Mann (2023), ‘The ERM crisis: A teachable episode for international macro’ and other chapters in  
+Corsetti and Hale (2023) for a detailed review of causes and effects of the ERM crisis. 
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+A time-varying inflation trend 
+ 
+If underlying inflationary pressures rise, that is, the trend component of inflation increases, 
+models that assume an equilibrium consistent with calm periods will likely over-estimate 
+the pace of normalization. In technical jargon, they will overstate the importance of the 
+error correction term.  As is turns out, we do have evidence of a time-varying inflation 
+trend, which has implications for how to interpret the inflation forecast.     
+In order to improve our short-term inflation forecasting toolkit, Bank staff are working with a 
+flexible statistical framework, so-called ‘unobserved component models with stochastic 
+volatility’.9 These models are designed to capture the time-varying trend and time-varying 
+importance of seasonality in every component of the inflation basket, specifically with the 
+aim of maximising forecast performance. Chart 5 shows the resulting underlying trend in 
+headline inflation. We see how, before 2021, the inflation trend was more or less 
+indistinguishable from 2%, supporting the choice of fixed-trend model. Since then, 
+however, the trend has risen markedly. 
+Chart 5: Model-based inflation trend 
+Percent growth over previous month at annualized rates 
+ 
+Source: Esady and Mate (mimeo). Latest observation: July 2023. 
+ 
+ 
+9 See Esady and Mate, ‘Component Level Short-Term Inflation Forecasting for the UK’ (mimeo), who use the 
+methodology of Stock and Watson (2016) to robustly forecast UK CPI components and create a bottom-up 
+forecast of UK inflation consistent with the predictions for these individual components. In February, my 
+colleague Huw Pill highlighted the results of a forecast evaluation exercise using this research to show how 
+they can improve the Bank’s traditional forecasting toolkit. 
+-2
+0
+2
+4
+6
+8
+10
+12
+-2
+0
+2
+4
+6
+8
+10
+12
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Median inflation trend and 
+80% confidence interval
+Percent
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+One does not need to interpret this as a drifting nominal anchor (as suggested by  
+Ascari and Sbordone, 2014).  More agnostically, it is simply the persistent and thus 
+predictable component of a statistical decomposition (Stock and Watson, 2007). In the 
+short term, however, this is the centre of gravity for inflation and it suggests a drifting 
+Phillips curve.  
+The MPR forecast imposes that, once all shocks have dissipated and the output gap is 
+closed, inflation will be at 2%. This is a sensible assumption for the long run: After all, 
+monetary policy, i.e. the MPC, will ensure that inflation returns to target sustainably in the 
+medium-term.  
+Suppose the time-invariant trend is assumed throughout, how do the forecast mechanics 
+work?  In this case, the more realized inflation overshoots its target, the more the error 
+correction mechanics drag on inflation in the near-term forecast, so as to bring the inflation 
+forecast back to the assumed 2% mean.  Unfortunately, I believe that in the real world right 
+now the dynamics do not work this way.  The more and the longer inflation is allowed to 
+overshoot the target, the weaker the attractor of 2%, and the more persistent inflation 
+strays away from target.  The charts and previous research cited suggest that is the case.  
+The rationale behind this alternative story includes consumers and firms that are, to some 
+degree, backward-looking, not forward-looking rational, a scenario that I have worked 
+through before (Mann, 2023).    
+Time varying trend and inflation persistence  
+ 
+To see how much this matters for inflation over the forecast horizon, we can look at the 
+predictions of models which do not impose an inflation trend of exactly 2%. For example, 
+the MPC has been presented with a purely empirical vector-autoregressive (VAR) model 
+of the UK economy which was given the same conditioning assumptions as the main 
+forecast and then allowed to generate predictions for inflation and output.10 
+Depending on the sample over which this model was estimated, it generates different 
+paths for inflation. To illustrate, in Chart 6 I show three paths for output and inflation 
+implied by different estimates of the same model – versus the MPR forecast in light grey, 
+solid line for the mode, dashed line for the mean. First, consider the purple line in the lower 
+half of the swathe. It restricts the sample to the inflation-targeting period from 1992 
+onwards but cuts off the data after 2019. This was a period of overall low macroeconomic 
+volatility and inflation at or relatively close to the target. This line, which I labelled ‘low 
+ 
+10 The model is a large-scale Bayesian VAR estimated over different subsamples between 1990 and 2023 
+with five lags in 20 endogenous variables. It is estimated in (log) levels thereby allowing for possible  
+co-integrating relationships between variables. In order to account for pandemic-related outliers, time 
+dummies are used following Cascaldi-Garcia (2022). The model is then constrained by the same 
+conditioning assumptions as the MPR forecast. See Angelini et al. (2019) for a related model and 
+conditional forecasting exercise. 
+
+
+Bank of England  
+ 
+ Page 13 
+ 
+inflation, low persistence’, shows a profile not far off the MPR forecast, save for the added 
+persistence judgment imposed in 2024. Given this set of parameters, inflation is predicted 
+to fall below target in 2025 and remain there until the end of the horizon. 
+Chart 6: VAR model forecasts of inflation (LHS) and GDP growth (RHS) 
+Percent growth over same-quarter average the year prior 
+ 
+ 
+ 
+Source: Bank calculations. Notes: The lines are the conditional forecasts generated by estimating the same 
+model on three different samples. The model underlying Scenario 1 is estimated on the sample spanning 
+1992-2019, Scenario 2 on 1992-2023, and Scenario 3 on 1990-2023. The swathe shows the 90% 
+confidence region derived from the model of Scenario 2 which implies a low-inflation steady state but a 
+relatively persistent inflation process. The grey lines are taken from the A23 MPR forecast. Latest 
+observation: 2023 Q2. 
+To show the sensitivity of the inflation prediction to different assumptions about the 
+properties of the steady state going forward, I have added two other versions of the same 
+model, varying only by the time period of the sample. The pink line in the middle of the 
+swathe now also includes the period all the way to the present (appropriately controlling for 
+data issues during the Covid-induced lockdowns). I have labelled this the ‘low inflation, 
+high persistence’ scenario because inflation is stickier in the near term while having similar 
+convergence properties by the end of the horizon. In expectation, inflation does not return 
+to target until 2026, but afterwards it is roughly in line with the mean MPR forecast.  
+However, a third scenario which includes data from the high-inflation period at the 
+beginning of the 1990s, yields a higher trend inflation rate, and a very different picture 
+emerges. Under these parameter estimates, not only is inflation higher in the near term, it 
+also remains above target for the entirety of the forecast horizon. Notably, this high 
+inflation forecast is accompanied by slower output growth than under the alternatives, 
+although still far above the MPR’s. To me this corroborates a point I have made before: 
+-2
+0
+2
+4
+6
+8
+10
+12
+-2
+0
+2
+4
+6
+8
+10
+12
+2022
+2023
+2024
+2025
+2026
+Actual
+Scenario 2:
+low inflation
+high persistence
+Percent
+Scenario 1:
+low inflation
+low persistence
+Scenario 3:
+high inflation
+high persistence
+-2
+0
+2
+4
+6
+8
+10
+12
+-2
+0
+2
+4
+6
+8
+10
+12
+2022
+2023
+2024
+2025
+2026
+Actual
+Scenario 2
+Percent
+Scenario 1
+Scenario 3
+
+
+Bank of England  
+ 
+ Page 14 
+ 
+when inflation is already very high, there is no inflation-output trade-off:  the best way to 
+generate real economic growth is to get inflation under control. 
+From the perspective of this model, the MPR forecast looks quite optimistic on inflation. 
+How probable is it that behaviors and outturns will return to pre-Covid times of a low 
+inflation, low stickiness steady-state?  In a technical sense, these differences only 
+mechanically reflect the different sub-sample averages of realized inflation. But they 
+underline the importance of accurately capturing the time-varying inflation trend for the 
+short-term dynamics of the forecast. 
+Revealing structural changes  
+ 
+Another source of model instability can arise because we have not correctly modelled 
+deep structural relationships in the first place.  Our approximations to the behavior of the 
+economy by aggregate decision rules and correlations in the past may have been 
+acceptable, but now are revealed to be wanting.  
+Chart 7: SAM model forecasts of unemployment (LHS) and GDP growth (RHS) 
+Percent (LHS) and percent growth (RHS) 
+  
+ 
+Source: Bank calculations. Notes: The pink line is the unconditional forecast of a DSGE model with  
+search-and-matching frictions in the labor market estimated on UK data from 1997 to 2022. The orange line 
+is the forecast conditional on the MPC’s conditioning assumptions for the A23 MPR forecast. The grey lines 
+are taken directly from the A23 MPR forecast. Latest observation: 2023 Q2. 
+An example includes the surprising resilience and persistent tightness of the labor market.  
+Bank researchers have developed a structural model of the UK economy with an explicitly 
+micro-founded search-and-matching process in the labor market. This model, in its latest 
+update, indicates significant downside risks to the forecast.  As the yield curve shifted up 
+markedly in response to upside surprises in wage growth and inflation, the search-and-
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+2022
+2023
+2024
+2025
+2026
+Actual
+Unconditional forecast
+Percent
+Conditional forecast
+-2
+0
+2
+4
+6
+8
+10
+12
+-2
+0
+2
+4
+6
+8
+10
+12
+2022
+2023
+2024
+2025
+2026
+Actual
+Unconditional forecast
+Percent
+Conditional forecast
+
+
+Bank of England  
+ 
+ Page 15 
+ 
+matching (SAM) model predicts a significantly higher unemployment rate and lower GDP 
+growth than is in the MPR (Chart 7).  
+Monetary transmission in VAR and SAM  
+ 
+Why do these two models, the VAR and the SAM, show such different outlooks for the 
+economy even though they are estimated on roughly the same samples and conditioned 
+on the same paths for energy prices, interest rates, etc.?  It is because, under the hood, 
+they rationalize these conditioning paths using different underlying shocks and, crucially, 
+make different assumptions about the nature of the monetary transmission mechanism.  
+The search-and-matching model is a structural model of the DSGE type. It imposes a  
+well-defined monetary transmission mechanism in which inflation is a function of the output 
+gap and fully forward-looking, rational inflation expectations while the output gap in turn is 
+a function of the deviation of interest rates from their natural level. A static monetary policy 
+rule, known and accepted by all agents ‘closes the model’ by linking Bank Rate to 
+deviations from the inflation target and the output gap. 
+As a result of assumptions about the structure of the economy, the SAM, and to some 
+extent the forecast process, ascribes a large part of the reason for why the yield curve is 
+so high to a series of contractionary monetary policy shocks – that is inexplicably tight 
+monetary policy, an over-reaction. This drags on output and inflation such that we end up 
+with weak growth and inflation below target. 
+This is indicated by the difference between the orange and the pink line in Chart 7. The 
+former shows the forecast which is most comparable to the MPR and the VAR since it is 
+conditioned on the same assumptions about future energy prices, fiscal policy, and interest 
+rates. The latter, on the other hand, is the purely model-implied unconditional forecast. It 
+makes no assumptions about future variables and simply unwinds the shocks that it has 
+observed up to the current period according to their reaction functions. In this forecast, 
+since Bank Rate already is far above what the SAM considers neutral, the unconditional 
+forecast for Bank Rate is much shallower than implied by the current market curve. 
+Therefore, because of the structure of the SAM model, monetary policy is the major driver 
+of the forecast. 
+The VAR on the other hand is purely statistical. It does not explicitly impose a monetary 
+policy rule or channels of transmission, it just reflects co-movements in the historical data. 
+Without identifying restrictions, it is agnostic about causal relationships.11 The VAR simply 
+ 
+11 That does not mean that forecasting with these so-called reduced-form models is inferior or deficient. To 
+the contrary, it’s a common finding in the literature that it is difficult to statistically outperform these types of 
+models. On average, they are probably the best we can do for forecasting, but without identifying restrictions 
+they cannot be used for story-telling or scenario analysis. See Antolín-Díaz et al. (2021) for an example on 
+how to conduct conditional forecasting and scenario analysis in identified VAR models. 
+
+
+Bank of England  
+ 
+ Page 16 
+ 
+asks: “What are the economic conditions that are, on average, consistent with the given 
+path for Bank Rate?” These economic conditions need not be driven by inexplicably tight 
+monetary policy, but can be generated by any combination of supply, demand, monetary 
+policy, or other shocks. It will statistically select a combination of underlying drivers that 
+are most likely given the historical regularities embodied in its parameters. 
+So which of these characterizations is more likely to play out? If we look at the experience 
+of the past two years, I am partial to one with more demand and less monetary policy 
+tightness.  There also is evidence on how much monetary tightening there has actually 
+been relative to what would be assumed in the SAM.  Staff analysis of past MPC decisions 
+relative to policy rules shows that the MPC on average moved Bank Rate by less than 
+expected under these rules. Considering the past two years of MPC decisions, and using 
+high-frequency moves of asset prices around policy announcements as proxies12 the 
+evidence points towards an accumulation of expansionary monetary policy shocks over 
+the past two years.  Should economic agents update their assessment of the monetary 
+policy reaction function in response to these surprises, it would increase the likelihood of a 
+drifting inflation trend.13  
+In the end, what determines the stance of monetary policy is not just Bank Rate but the 
+level and shape of the entire yield curve. So we need to consider both expectations of 
+nominal rates and inflation over the forecast horizon against their neutral level in the short, 
+medium, and long run. 
+ 
+What does it mean to be restrictive? 
+In the minutes to the August MPC decision, the committee noted that monetary policy 
+was now ‘restrictive’. This assessment is based on the likely output effect of the Bank Rate 
+increases undertaken over the course of the past two years and expectations of the policy 
+stance over the forecast horizon. The level of real rates, that is expected interest rates 
+ 
+12 In empirical macroeconomics we use these moves as proxies for exogenous changes in Bank Rate to 
+estimate the causal effects of monetary policy.  I have used these types of proxies in multiple speeches. First 
+to estimate spillovers of US monetary policy on UK variables using the instruments of Miranda-Agrippino 
+and Nenova (2022), and second to estimate the causal effect of UK monetary policy following Cesa-Bianchi 
+et al. (2020) and Braun, Miranda-Agrippino, and Saha (mimeo). 
+13 This line of argument goes back to the Lucas critique which makes the point that systematic deviations 
+from perceived decision rules will eventually lead agents to update their beliefs about the rules. This 
+updating causes changes in the reaction of aggregate variables to economic shocks. Sequences of shocks 
+as in Bernanke (1997) or Sims and Zha (1998) may not change behaviors if they are ‘modest’ (Leeper & 
+Zha, 2003), but the longer-lasting and more pronounced these are, the more likely regime change becomes. 
+For a more recent reference see McKay and Wolf (2022) who confront this issue by explicitly capturing 
+news shocks. 
+
+
+Bank of England  
+ 
+ Page 17 
+ 
+adjusted for expected inflation over the same horizon, can give a first indication of the 
+restrictiveness of monetary policy.  
+Real rates are now positive  
+ 
+In Chart 8 I have plotted an estimate for the average real rate expected over the next 
+twelve months derived by combining inflation expectations and 1-year risk-free rates from 
+financial markets and surveys. This year, for the first time since the Global Financial 
+Crisis14, most of these measures have now turned positive. As this rise in borrowing costs 
+feeds through to households, firms, and the public sector, it will weigh on both inflation 
+expectations and aggregate demand. 
+Chart 8: Measures of 1-year spot real interest rates 
+Percent per annum 
+ 
+Source: Bank of England and Bank calculations. Notes: The grey swathe represents the range of estimates 
+of 1-year expected real interest rates derived by combining information from financial market measures, as 
+well as surveys of households, firms, and professional forecasters. The solid line represents the mean, the 
+dashed line the median across these estimates. Latest observation: August 2023. 
+Inflation expectations have moderated but still a concern  
+ 
+Part of the recent increase in expected real rates can be attributed to the fall in measures 
+of inflation expectations off their highs last year (Chart 9). These charts (which I have 
+shown before) show the time series of medium-term expectations of households and firms 
+on the left-hand side as well the distribution from the household survey on the right. For 
+households, their central tendency is back in line with the historical series mainly from the 
+ 
+14 See Chart 10 in Mann (2023), ‘Turning Points and Monetary Policy Strategy’ for a longer time series of 
+one of the measures in the swathe. 
+
+
+Bank of England  
+ 
+ Page 18 
+ 
+upper tail decreasing, reducing what Ricardo Reis and co-authors call the likelihood of 
+inflation disasters (Hilscher et al., 2022). But still, almost 25 percent of respondents 
+expect inflation above 4% in two years’ time, even as 10% now expect prices to fall.  For 
+firms, the stickiness in 3-year ahead expectations should be a concern.   
+Chart 9: Medium-term inflation expectations of households and firms 
+ 
+ 
+ 
+Source: Bank of England Inflation Attitudes Survey and Decision Maker Panel. Latest observation:  
+2023 Q2 (IAS), August 2023 (DMP). 
+Monetary stance and stars  
+ 
+The level of interest rates alone, even after controlling for expected inflation, is not a 
+sufficient measure of the stance of monetary policy. We have to always keep in mind that 
+there exists a neutral level of interest rates which is consistent with the economy being in 
+equilibrium – r*. There is some evidence that this might have risen in the aftermath of 
+Covid.15 In Chart 10 I have added a survey measure of r* to the swathe of observed real 
+rates from the Bank’s Market Participants Survey. Theoretically, if expected real rates 
+are below r*, monetary policy is accommodative. This was the case for most of the past 
+two years (a point noted above, but using very different techniques). Only very recently 
+has the swathe moved in line with or above this particular estimate of the neutral level. 
+ 
+15 See the update of Lubik and Matthes (2015) as well as Baker et al. (2023) for prominent examples for 
+the US. For the purposes of this speech, I am talking about a short-term notion of r* here, not the long-term 
+version pinned down by slow-moving trends in productivity and demographics – which at the Bank would be 
+called big-R*. See Box 6 of the August 2018 Inflation Report in which the MPC laid out their argument for 
+assuming a real neutral rate of 0.25% in the long term. However, splitting just short and long-term neutral 
+rates is a simplification as there exists a whole term structure of r*. And the stance of monetary policy will 
+depend on this entire term structure of r*, of expectations about nominal rates, and of expectations about 
+inflation. 
+
+
+Bank of England  
+ 
+ Page 19 
+ 
+Chart 10: Measures of real 1y spot rates and the neutral real rate 
+Percent per annum 
+  
+Source: Bank of England and Bank calculations. Notes: The grey swathe represents the range of estimates 
+of 1-year expected real interest rates derived by combining information from financial market measures, as 
+well as surveys of households, firms, and professional forecasters. The solid line represents the mean, the 
+dashed line the median across these estimates. The measure of r* is from the Bank’s Market Participants 
+Survey. Latest observation: August 2023. 
+ 
+Considering both real rates and r*, monetary policy was tightening from two directions: one 
+by raising nominal interest rates, one by lowering inflation expectations.  However, this 
+tightening was being offset, in part, by a rise in the neutral level of interest rates. If we take 
+the perceptions of MaPS respondents as given, then more than 100 basis points of  
+Bank Rate tightening over the past year was just chasing a rising neutral rate – and 
+therefore was not actually restrictive. 
+Bottom line:  Monetary policy definitely has been tightening; all the Bank Rate increases 
+are tightening.  But whether or not the current condition is restrictive is a statement about 
+levels relative to r*, and this is more difficult to assess, given that r* is unobserved.  In any 
+case, the question of restrictiveness, to me, is one about the relationship between interest 
+rates and economic activity, about the IS curve if you will.  
+An inflation risk premium  
+ 
+However, our remit of course is inflation.  And I worry that there is an increasing inflation 
+risk premium being priced into the UK’s macroeconomic prospects.  
+
+
+Bank of England  
+ 
+ Page 20 
+ 
+The good news first: the MPC is credible that it will bring inflation down to target 
+sustainably in the medium-term. Virtually all measures of long-term inflation expectations 
+are close to target-consistent, be it from households, financial market participants, or 
+professional forecasters. However, when asked about the interest rate that would be 
+consistent with achieving the target in the long run, this rate has risen, and with significant 
+uncertainty around it. Surveys now have the long-term level of Bank Rate at about 3 
+percent or even a little above that, versus between 1 and 2 percent pre-Covid. If the world 
+on average has become more inflationary and if inflation will tend to over-shoot rather than 
+under-shoot over the next decade or so, then nominal rates will need to be permanently 
+higher.16 
+This seems to be observed for the UK. Although, based on survey evidence, pure 
+expectations are roughly at target in the long term, inflation compensation implied by 
+financial markets, which explicitly includes an inflation risk premium, has been volatile and 
+high over the past two years. Chart 11 shows the evolution of inflation compensation 
+derived from inflation-linked swaps over the past 20 years. After falling back from the highs 
+during 2021 and 2022, this measure is again drifting up since the turn of the year and is 
+currently at the very upper edge of its pre-Covid distribution.  
+Chart 11: Long-term inflation compensation derived from inflation-linked swaps 
+Adjusted for effects of anticipated RPI reform 
+  
+ 
+Source: Bloomberg Finance L.P. and Bank calculations. Notes: See Chart 2.26 of the August 2023 
+Monetary Policy Report for details on the adjustment of the series. Latest observation: 29 August 2023. 
+ 
+16 I am talking about medium to long-term inflation risk here. Schnabel (2023) showed a model-based 
+measure of the inflation risk premium in short-term inflation swaps for the euro area. At the same conference 
+Ricardo Reis presented findings from a Bank of England Staff working paper (Bahaj et al., 2023) highlighting 
+the importance of liquidity premia and intermediation frictions for short-dated UK inflation swaps. 
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+2021
+2023
+5y5y inflation compensation
+2010-2019 average and 
+2-sigma range
+Percent
+
+
+Bank of England  
+ 
+ Page 21 
+ 
+The inflation risk premium is that part of the return on nominal assets which compensates 
+investors, for example those saving for retirement, for the possibility of inflation surprises 
+over the length of the obligation. Thus, it will tend to rise if people expect inflation to be 
+overall more volatile in the future, or to be skewed to the upside. 
+Subtracting survey-based expectations of inflation from the above series can give us a first 
+indication of this premium component. If we take responses from Consensus survey as 
+given, the gap between fundamental inflation expectations and required compensation has 
+risen from 0.2 in 2014 to 0.4 in 2019 to currently 0.9 percentage points. This increase 
+underlines a point that I have made previously about the interaction between inflation 
+uncertainty and monetary policy strategy.17 If there is fundamental uncertainty about the 
+inflation process, monetary policy should tighten more forcefully and earlier in order to rule 
+out long periods above target. 
+The existence of an inflation risk premium matters since this affects the long-run neutral 
+rate.  Our forecast assumes a long-run nominal neutral rate of 2¼%, which is a real neutral 
+rate of 0.25% with inflation at the 2% target.  As discussed above, a higher real rate would 
+be restrictive, generate a negative output gap and below-target inflation. Right now the 
+long-run market-implied path for Bank Rate (at 3%, see above) is inconsistent with the 
+MPC’s assumption about the long-term equilibrium of the economy; and this is because 
+financial markets may have a different perceived level of the neutral rate. In my view, this 
+inconsistency is one of the reasons for why our forecast is relatively weak and still  
+under-estimates the stickiness of inflation. The forecast over-estimates what the amount of 
+monetary tightening that is in the curve further out means for the real economy and 
+inflation.18 
+The relevance of the Lucas critique  
+ 
+The past conjuncture of relatively low and stable inflation and generally little 
+macroeconomic volatility19 was conditional on prevailing policy rules and choices made at 
+the time, importantly with a backdrop of global economic conditions—the  
+Great Moderation.  The Lucas critique teaches us that trying to exploit historical 
+regularities carries the risk of invalidating those exact regularities. To be specific, to exploit 
+the fact that inflation expectations are firmly anchored by looking through or under-reacting 
+to inflationary shocks may lead us to lose the anchor we try to exploit in the first place. We 
+need to validate the anchor at every step to make it stay in place (Cogley and Sargent, 
+2005). 
+ 
+ 
+17 See Mann (2022), ‘A monetary policymaker faces uncertainty’ and references therein. 
+18 See also Mann (2023), ‘Expectations, lags, and the transmission of monetary policy’. 
+19 See for example Haskel (2022), ‘Current monetary policy’. 
+
+
+Bank of England  
+ 
+ Page 22 
+ 
+Policy judgment  
+ 
+At the start of this speech I asked: Which error would I rather make? Would I rather 
+assume that, with the current monetary policy stance and standard models, inflation is 
+forecast to undershoot the target? Or that, given what we have learned about time-
+variation and non-linearities, we need to position ourselves accordingly and raise rates by 
+more. I believe it would be prudent to risk an error that can be more easily rectified. Right 
+now, that is to err on the side of tightening further in order to prevent the risks of further 
+inflation persistence from crystalizing.  If I am wrong, and there are excess negative effects 
+to the real economy, it is an easier task to rectify as compared to regaining control over 
+inflation.20 
+In my view, holding rates constant at the current level risks enabling further inflation 
+persistence which will have to be unwound eventually with a worse trade-off. If we 
+underestimate the rise in the persistent component of inflation and set policy consistent 
+with a world that may no longer exist we will ourselves contribute to the persistent 
+overshoot of the target. And the longer this overshoot is allowed to continue, the more 
+likely a departure from the old ‘low inflation, low volatility’ steady state. 
+It’s a risky bet that inflation expectations are sufficiently well-anchored and to wait for core 
+inflation to ease down, as this extends the duration way above the target-consistent 
+rate.  We need to prepare for a world where inflation is more likely to be volatile in the 
+future, and the neutral nominal rate is likely to be higher than in the past. While these 
+might support a “3% inflation is close enough”, popular in some circles, it cannot be our 
+guide.  We need to communicate and act on our commitment to do what is necessary to 
+achieve the 2% target, sooner rather than later.  
+ 
+ 
+I would like to thank in particular Lennart Brandt and Natalie Burr, as well as  
+Andrew Bailey, Dario Bonciani, Robin Braun, Marcus Buckmann, Alan Castle,  
+Vania Esady, Saba Farooq, Andrew Gaffney, Gosia Goralczyk, Jonathan Haskel,  
+Derrick Kanngiesser, Josh Martin, Mansi Mate, Michael McLeay, Andre Moreira,  
+Hela Mrabet, Galina Potjagailo, Kate Reinold, Philip Schnattinger, Fergal Shortall,  
+Gavin Wallis, and Tim Willems for their comments and help with data and analysis.  
+ 
+20 Recent research from the San Francisco Fed (Jorda et al., 2023) has shown that monetary tightening can 
+have large and lasting effects on output, exacerbating the risks from over-tightening monetary policy. 
+However, if a too cautious monetary reaction leads to a loss of credibility or drifting inflation expectations, the 
+costs of reversal increase by more down the line. See for example Beaudry et al. (2023) who in their  
+Bank of Canada working paper show that a forceful monetary policy reaction is desirable in response to 
+large supply shocks.

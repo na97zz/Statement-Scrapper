@@ -1,0 +1,118 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Private equity financing − speech by Rebecca Jackson
+DATE: 01/06/2024
+SPEAKER: Rebecca Jackson
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/april/rebecca-jackson-speech-uk-finance-on-private-equity-focused-thematic-review
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Private equity financing − speech by Rebecca Jackson
+Given at UK Finance
+Published on 
+
+ 23 April 2024
+The private equity market has grown considerably over the past decade, and with it, Banks’ exposures to the sector have also grown considerably. The PRA recently concluded a thematic review of firms’ private equity financing risk management frameworks. In this speech, Rebecca Jackson sets out the review’s findings, and highlights a number of gaps in firms’ risk management frameworks.
+Speech
+Hello everyone. It is a great pleasure to be with you here today. Thank you very much to UK finance for hosting this event, my first as Executive Director for ARTIS. For those of you who don't know me, or that acronym, I'm Rebecca Jackson, and I’m the Executive Director for the PRA’s Authorisations, RegTech, and International Supervision Directorate, otherwise known as ARTIS. In this role I’m responsible for – among other things – the supervision of the banks and designated investment firms that operate in the UK but are headquartered abroad, and it’s in that capacity that I’m speaking to you today.
+While I’m new to this role, I’m not entirely new to the world of private equity. Some time ago – in 2006 – I wrote a lengthy discussion paper on this very topic – the Financial Services Authorities’ DP06/06, if you’re interested. And a lot has changed since then. The FSA was replaced by the Prudential Regulation Authority and the Financial Conduct Authority. Our personal lives have been transformed by new technology, such as iPhones, social media and ubiquitous connectivity. And the private equity market has changed a huge amount, driven by innovations in banking and finance that while lower profile, may be no less significant. It’s those developments in the private equity sector, and their implications for banks’ safety and soundness, about which I’ll be talking to you today.
+Market developments
+Describing any activity in high finance as ‘traditional’ has always felt like somewhat of a misnomer to me, as if ‘traditional’ private equity finance was once conducted alongside hand weaving, or blacksmithing. But to the extent ‘traditional’ private equity markets have ever existed – and arguably they have, in the form of 13
+th
+century rentiering - a lot has happened to those traditions even since 2006.
+First, private equity as an asset class has grown significantly, particularly over the past decade. Global assets under management have grown from around $2 trillion dollars in 2012
+footnote
+[1]
+to around $8 trillion in 2023
+footnote
+[2]
+- an annual growth rate of just over 13%. And when I last wrote about private equity, the global fund-raising record was $15.6bn
+footnote
+[3]
+. Now, the record stands at almost twice that – a $29bn fund raised by CVC, in July 2023.
+Second, there has been a Cambrian explosion in the variety and complexity of financing products that banks now provide to the private equity industry. When I wrote about the topic in 2006, funds generally weren’t leveraged
+footnote
+[4]
+, at least not at the fund level. Rather, banks provided financing by facilitating loans and bonds through the capital markets, on behalf of the companies that funds own - portfolio companies - to finance acquisitions and refinance debt.
+But since then, this lending to portfolio companies ‘downstream’ of the fund level has been joined by a material increase in ‘upstream’ lending, which has recourse to the investors and managers of funds, as well as novel forms of leverage through ‘midstream’ lending, to the funds that own portfolio companies. Here we see the emergence of complex structures and ‘leverage on leverage’, including Net Asset Value (NAV) loans secured by fund assets, which provide leverage to funds against already leveraged portfolio companies. Growth in secured financing facilities, for example, backed by Limited Partner interests, has also been a notable trend. This increase in complexity has been driven by a range of factors, including investors seeking exits from illiquid long-term private assets as Initial Public Offer markets remain weak.
+Finally, we have seen the emergence of private credit funds, who both raise financing from banks in a mutually beneficial relationship and compete directly with them to provide both traditional and non-traditional forms of leverage. Competition is the mother of invention, one might say, and we think this competition may be an important driver of the new forms of bank lending that we’ve seen. But while such competition has a role to play in ensuring that borrowers can access the funding they need, competition in any market tends to affect the price and quality of whatever is offered in that market, and sometimes not for the better.
+The overall result of these developments is that exposures and revenues in banks have grown considerably over this period, as banks charge fees for arranging a variety of transactions and earn interest on the financing they provide.
+But reward does not come without risk, so you can see why in August last year, the PRA decided that the scale, breadth, complexity, and interconnectedness of banks’ private equity related exposures, warranted closer attention. So we conducted a thematic review of these businesses, to assess the adequacy of banks’ risk management frameworks. And leveraging our role as the world’s largest host supervisor, this review covered the exposures and risk management practices of a large cross section of major UK and international banks that have material aggregate exposures to the sector, and also involved other regulators from across the globe. Today I’ll be summarising the findings and recommendations of that review, ahead of a Dear CRO letter that we’ll be publishing on our website today and sending to the CROs of participating banks, while yesterday my colleague Nat Benjamin covered the macro-prudential implications of these developments.
+Findings
+The finding that I would like to focus on today is that only a very small number of banks can consistently aggregate data in a manner that is appropriate to their exposures to the private equity sector. There were gaps, and often significant gaps, identified in most of the frameworks that we assessed. Nevertheless, there is a great deal of variation across firms, with some demonstrating significantly more developed practices and having clear remediation plans for gaps, while at the other extreme, some firms had almost no ability to aggregate data or even appreciate its crucial importance. Given how the private equity market has developed over the past decade, this isn’t terribly surprising – though it is disappointing.
+Data aggregation and holistic risk management
+Fund managers, investors, and portfolio companies now have very sophisticated and varied needs for both hedging and financing, and their engagement with banks has naturally become more complex as a result.
+Many different parts of a bank’s business can now touch the sector, not only across different business lines within a division, but also across different divisions within a group. For example, wealth management or corporate banking divisions might offer subscription financing lines; investment banking units may originate leveraged financing underwriting exposures; corporate banking units may hold leveraged loan portfolios; and global markets units might provide derivatives hedging solutions and, in some cases, secured financing facilities too. If that sounded confusing and complex, that’s because it is.
+This fragmentation in business activity is mirrored by a fragmentation in the view that risk management and control functions have of the associated risks. Counterparty and credit risk functions are usually organised by industry sector, counterparty type, underlying collateral class, or product. And this arrangement makes sense, as it enables the development of business and risk management expertise. But it doesn’t readily support the holistic risk management of private equity linked exposures that are generated across separate business units and legal entities.
+Our review found that many banks are unable to uniquely identify and systematically aggregate or measure their combined credit and counterparty risk exposures to the private equity sector. And even though a small number of banks have made good progress in identifying and measuring their overall exposures across business lines, most of those banks still did not calculate consolidated exposure amounts for individual financial sponsors or have a risk appetite framework that constrained the size of exposures linked to individual financial sponsors.
+In short, banks cannot holistically identify, measure, manage, or monitor the risks emanating from their private equity financing businesses. And this is despite the emphasis that the PRA has repeatedly placed on holistic risk management for some time now, particularly since the default of Archegos Capital Management, and despite the existence of BCBS principles on effective risk data aggregation and risk reporting, that were issued over 10 years ago.
+The reason this business needs to be managed holistically is that the exposures it generates may become highly correlated with one another under certain conditions. The performance of a fund is correlated with the performance of its portfolio companies. In turn, the performance of a sponsor is correlated with the performance of its funds. And the performance of legally separate portfolio companies and separate funds is correlated not only with the markets in which they operate and invest, but with broader macro factors such as interest rates and general economic conditions. The prospective correlations are everywhere, and it’s not difficult to imagine a scenario, such as malpractice at a financial sponsor or the bankruptcy of multiple portfolio companies, where risk correlations increase significantly, and liquidity evaporates, leaving banks open to severe, unexpected losses. This is a systemic risk too, and one that Nat covered in more detail yesterday.
+These findings have two implications that we will also touch upon in our dear CRO letter, in relation to stress testing, and governance.
+Stress testing and Board engagement
+On stress testing, unfortunately I do not have a huge amount to say. Not because we found that firms are excellent at it, or because we think it’s unimportant, but because we found that hardly any banks do it well in this context. Very few firms carry out routine, bespoke and comprehensive stress testing for aggregate sponsor related exposures. Most other banks – as a result of the issues I’ve just highlighted – have not developed comprehensive frameworks, or carry out disaggregated and uncoordinated stress tests solely in individual business unit or product silos.
+This is a clear corollary of the findings that I have just outlined. It’s hard to conduct a holistic stress test without holistic data. But data aggregation is not the only issue at play. We also found a creeping sense of complacency among firms, especially in relation to the large and growing business of subscription financing, due to a lack of loss history in this type of business. While this means that stress analysis based upon historical performance may not be useful, the lack of a loss history should not preclude other approaches or a thoughtful consideration of what could happen, based on the structural characteristics of this business.
+Finally, our findings on Board engagement are also a consequence of our findings on data aggregation. At many firms, there is a notable lack of board level engagement with this business. Even firms with some ability to aggregate private equity exposures had not considered the scale and composition of the risks relative to the overall risk profile of their bank, and many boards have not specifically been informed of the overall scale of their firm’s combined exposures linked to the sector, or to individual private equity firms or sponsors.
+The overall risk here is that when banks fail to properly measure and assess their aggregate exposures, and in the absence of a defined risk appetite framework and board engagement, it’s very easy to develop an outsized and concentrated exposure that leaves one open to the risk of a large loss. And the risk of outsized, illiquid, and unintentionally concentrated exposures is something that we have been pointing out for some time now, and for which we have very little patience.
+How might this risk be addressed?
+How might banks go about addressing this risk? For a start, trade capture and risk management systems should ensure that transaction, exposure, and collateral information is assigned the right metadata. This data is what risk managers require to be able to identify private equity exposures, wherever they may be. And when done right, this is what would allow banks to calculate and monitor not only their exposures linked to individual fund managers, funds, and companies, but also their overall consolidated direct and indirect exposures to the sector as a whole.
+Credit and counterparty risk due diligence procedures and management information processes should also recognise where there are overlapping credit exposures, collateral pledges, and financial claims, across the full range of private equity related exposures.
+These are important factors to consider when exposures are layered as they are in private equity, and when performance and recovery values are often interlinked. For example, where a bank has a derivatives receivable from a portfolio company, and also provides NAV financing to the fund that owns the portfolio company, the credit risks of both contracts are indirectly linked. The NAV financing facility is secured against a component of collateral that is effectively subordinated to the banks’ own derivatives receivable claim. And where banks also provide limited partner interest financing to investors in the same fund, the value of the collateral backing this facility would, in turn, be affected, adding a further layer of complexity to credit risk analysis.
+On stress testing, well, you should do it. It should be a routine part of your toolkit. And when doing so it’s crucial to consider the potential for higher than previously observed default and loss correlations during periods of stress, for all types of exposures linked to the private equity sector. Given the changes to the sector in recent years, and its now macroeconomic importance, it would be frankly foolish to assume that low historical loss rates and correlations will still be meaningful in a world in which they matter. Stress tests should also reflect the highly idiosyncratic risk profile that private equity linked financing structures and hedges can create, both individually and in aggregate, and they should actually be useful for managing counterparty and credit risk exposures linked to individual sponsors or funds.
+And last but not least, board engagement is key. For a business that is such a large contributor to the bottom line of many banks, let alone their risk profile, it would be remiss of boards not to be informed of their firms’ aggregate exposures, and to actively consider the overall business strategy of their group in relation to the sector and their related risk appetite.
+We understand that this is difficult. Boards need data to inform such decisions. But data preparation is hard, because historically, most banks haven’t flagged exposures as linked to private equity. So downstream risk systems can’t aggregate data automatically, and banks need to go about manually identifying relevant exposures in order to aggregate them – a time consuming and inefficient process. This lack of data impedes the production of dynamic and timely risk reports, and instead, banks are more likely to aggregate exposures as part of one-off periodic exercises – in response to regulatory thematic reviews, for example. And even when risk exposures can be aggregated, there comes the tricky question of how to aggregate various different exposure measures in a way that is conceptually valid. That too is an extremely tricky task.
+But the most forward-thinking firms have realised that aggregating data isn’t just a matter of good risk management, it’s good for the first line too. The same systems that are used to identify exposures and risks can also be used to identify client touchpoints, doing double duty for both the first line of defence and the second. The challenge for the second line will then be their ability to set exposure limits and constrain what is and will continue to be a materially capital generative revenue stream.
+Conclusion
+The strong growth and attractive return profile of private equity over the last 10 years has emerged during a period of relatively benign market, economic and liquidity conditions for the sector. Though the economy has seen some major bumps in the road, particularly during covid, we have avoided extended market and economic downturns. While of course this is a very good thing, it does mean that the sector remains untested. Yet the trends that this review has identified; of creeping leverage, large exposures, complicated structures, and poor risk aggregation, all suggest that banks may not be prepared for such a test, if or when it emerges.
+And there is the broader and longer-term question of whether developments in the industry constitute a ‘displacement’ – a change in the macro environment or ‘technology’ of Banking, that would be a necessary albeit not sufficient condition for more systemic issues to emerge.
+footnote
+[5]
+In any event, the need for significant improvements in risk management is clear, and it’s clear that these need to happen now; it’s better, as Shakespeare said, to be 3 hours too soon than a minute too late.
+I would like to thank Andrew Linn, Simon Stockwell, Joshua Parikh, and Charlotte Gerken for their assistance in preparing these remarks.
+Preqin (2020),
+‘Future of Alternatives 2025: Private Equity AUM Will Top $9tn in 2025
+’
+McKinsey(2024), ‘
+McKinsey Global Private Markets Review 2024: Private markets in a slower era
+’
+FSA (2006) ‘DP06/06 Private equity: a discussion of risk and regulatory engagement’.
+FSA (2006) ‘DP06/06 Private equity: a discussion of risk and regulatory engagement’.
+Kindleberger, Charles P, and Robert Z Aliber. 2005. Manias, Panics, and Crashes: A History of Financial Crises. John Wiley & Sons. pp. 57
+Kindleberger, Charles P, and Robert Z Aliber. 2005. Manias, Panics, and Crashes: A History of Financial Crises. John Wiley & Sons. pp. 57
+Close
+FSA (2006) ‘DP06/06 Private equity: a discussion of risk and regulatory engagement’.
+Close
+FSA (2006) ‘DP06/06 Private equity: a discussion of risk and regulatory engagement’.
+Close
+McKinsey(2024), ‘
+McKinsey Global Private Markets Review 2024: Private markets in a slower era
+’
+Close
+Preqin (2020),
+‘Future of Alternatives 2025: Private Equity AUM Will Top $9tn in 2025
+’
+Close
+Convert this page to PDF
+Rebecca Jackson
+Executive Director, Authorisations, Regulatory Technology and International Supervision
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

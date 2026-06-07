@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Thoughts on the Economy and Policy Rules at the Federal Open Market Committee",
+  "date_original": "2024-10-14",
+  "date_au": "14/10/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20241014a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-14 - Christopher J. Waller - Thoughts on the Economy and Policy Rules at the Federal Open Market Committee.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-14 - Christopher J. Waller - Thoughts on the Economy and Policy Rules at the Federal Open Market Committee.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "adecab63930c6b0051310a8de6ea85169348dbda4e3fcbe53add2b5fc4613c72"
+}

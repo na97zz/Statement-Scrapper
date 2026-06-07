@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Stabilising the economic outlook",
+  "date_original": "2021-03-27",
+  "date_au": "27/03/2021",
+  "datetime_original": "",
+  "speaker": "Stabilising the economic outlook",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210327~7b65e6526e.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-03-27 - Stabilising the economic outlook - Stabilising the economic outlook.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-03-27 - Stabilising the economic outlook - Stabilising the economic outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b520106902713a96a82dbe5eeda9ed0d1c07ce0f15cb6b19fb4a2a54e5a56bc6"
+}

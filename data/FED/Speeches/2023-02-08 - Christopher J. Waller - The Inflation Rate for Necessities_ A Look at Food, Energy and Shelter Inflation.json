@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Inflation Rate for Necessities: A Look at Food, Energy and Shelter Inflation",
+  "date_original": "2023-02-08",
+  "date_au": "08/02/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230208a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-02-08 - Christopher J. Waller - The Inflation Rate for Necessities_ A Look at Food, Energy and Shelter Inflation.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-02-08 - Christopher J. Waller - The Inflation Rate for Necessities_ A Look at Food, Energy and Shelter Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9c790785e813d49ca144b7ed859ca196c701031e2bf27da32c987885ba4f523c"
+}

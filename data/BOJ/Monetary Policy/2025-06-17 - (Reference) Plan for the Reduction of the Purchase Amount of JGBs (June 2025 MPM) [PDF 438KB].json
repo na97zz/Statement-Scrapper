@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "(Reference) Plan for the Reduction of the Purchase Amount of JGBs (June 2025 MPM) [PDF 438KB]",
+  "date_original": "2025-06-17",
+  "date_au": "17/06/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250617b.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2025-06-17 - (Reference) Plan for the Reduction of the Purchase Amount of JGBs (June 2025 MPM) [PDF 438KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2025-06-17 - (Reference) Plan for the Reduction of the Purchase Amount of JGBs (June 2025 MPM) [PDF 438KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "995b0c07fc1bbe444d0c1d614ac1308bb217b71e6fd55e17bf60a17323340641"
+}

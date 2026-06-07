@@ -1,0 +1,402 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: ‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser
+DATE: 01/06/2023
+SPEAKER: Andrew Hauser
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/november/andrew-hauser-keynote-speech-bank-of-england-watchers-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser
+Given at Kings College London’s Bank of England Watchers’ Conference, the Institution of Engineering and Technology, London
+Published on 
+
+ 03 November 2023
+As central banks exit from QE, there will be important decisions to make on the size and composition of their steady state balance sheets. Small balance sheets have several merits: they help crowd in private markets, and pose fewer financial, reputational and political economy risks, while still allowing satisfactory monetary control. But they also imply a limited supply of central bank reserves in normal times, posing risks to financial stability if other assets cannot be monetised in sufficient size or speed, whether in markets or central bank liquidity facilities, in a liquidity stress. Further strengthening is needed in core market resilience and central bank toolkits for crisis lending. But with liquidity shocks becoming ever larger, faster and broader based, maintaining stability is also likely to involve a materially higher steady state stock of reserves than pre-2008. In this speech, Andrew Hauser discusses ways in which the costs and risks of such an approach might be mitigated.
+Speech
+Introduction
+Central banks today face many challenges – but three of the biggest are:
+First, how to judge where central bank balance sheets should settle in the medium term as
+monetary policy
+makers return inflation – which remains far too high – to target, through a combination of higher interest rates and unwinding Quantitative Easing (QE) and other ‘unconventional’ policy interventions;
+Second, on the
+micro-prudential
+side, how to ensure that banks’ liquidity insurance remains appropriate as technological change increases the risk of larger and faster deposit runs, of the kind seen this Spring in the US; and
+Third, on the
+macro-prudential
+side, how to ensure the stability of the financial system as a whole in the face of the growing incidence of systemic liquidity shocks, not just in banks but increasingly in non-bank market finance too.
+These questions span the full width of the central banking remit – and their discussion therefore usually involve different people, with different goals, analytical frameworks and policy tools. But there is one important common factor – and that is central bank reserves, the ultimate form of settlement and hence the safest and most liquid of all financial assets. In most economies, including the UK, the stock of reserves has risen materially over the past 15 years as the result of ‘unconventional’ monetary easing. As that process reverses, the question is what contribution should reserves make to maintaining micro- and
+macro-prudential stability, given the changing nature of risks to those goals?
+On one view, less is more. Generous reserves supply is argued to have exposed central banks to heightened financial, operational and reputational risk, impaired the functioning of markets, and incentivised inappropriate private sector risk-taking, amplifying some of the liquidity stresses of recent years. While that may have been a price worth paying to deal with the slump in nominal activity caused first by the Global Financial Crisis (GFC) and then Covid, a very different future steady state is needed. Proponents of this view argue that, during normal times, central banks should return the supply of reserves to levels closer to those seen pre-GFC – sufficient to lubricate payment systems and provide a modest buffer for unanticipated liquidity needs, but placing primary responsibility for managing idiosyncratic liquidity risk – judged to be the primary cause of most stress events – on banks, through private markets. Central banks would continue to stand ready to intervene in a genuinely cataclysmic system-wide stress, but this was felt to be very much in the tail of the distribution.
+This stripped-back vision, emphasising a return to what is seen as central banks’ core functions, has more than a little echo of the thinking of Ludwig Mies van der Rohe, the modernist architect who first popularised the phrase ‘less is more’. So, let’s call this highly stylised position the ‘Modernist’ view.
+footnote
+[1]
+In central banking, as in architecture, Modernism is out of fashion, however. Public authorities and market participants alike express real uncertainty about how far market mechanisms can be relied upon to help manage liquidity risk. Some note the limits that post-GFC structural vulnerabilities pose to the capacity of markets to provide ready liquidity, in sufficient size and speed, in a stress. Others go further, arguing that a key lesson of the GFC (and more recent events, including the 2020 ‘dash for cash’ and the 2022 LDI crisis) was that markets can be stress amplifiers, particularly when there is a generalised shift in liquidity preference. On such views, central banks have a much larger role to play in helping to ensure effective system-wide liquidity management than they did pre-GFC – with the main debate being over how best to design that role. Some feel that central banks should ensure the system has an ample supply of reserves at all times, minimising the need for firms to rely on marketable assets of unproven liquidity in a stress, and maximising their capacity to meet runs in scale and at speed. Others believe it may be possible to run with a leaner stock of reserves in calm times – but only if banks, and increasingly non-banks too, can call on a well-developed set of central bank liquidity facilities, allowing them to convert a range of assets into reserves, in size and at speed, when they have to meet unexpected outflows.
+footnote
+[2]
+Returning to the architectural metaphor, this alternative, also highly stylised, perspective echoes that of the Post-Modernists, who saw Modernism as excessively austere, underselling what architecture could achieve. They updated ‘less is more’ to ‘less is a bore.’
+What does this all mean for us at the Bank of England? To cut to the chase, our head is Post-Modern: maintaining monetary control, micro- and macro-prudential stability in a world of structurally larger and more volatile liquidity unavoidably requires a much higher standing level of reserves than we supplied pre-GFC. But our heart is Modernist, at least in parts – forged by a Charter that seeks no larger a role in commerce than strictly necessary,
+footnote
+[3]
+and warmed by the thoughts of lower financial, operational and reputational risk that being smaller could bring. The question is how far we can go to reconciling head and heart – and that is the subject of my remaining remarks today.
+Monetary policy implementation: reserves supply
+At any point in time, the quantity and market price of reserves is determined by the interaction between demand and supply. Reserves supply is set exclusively by the central bank. Reserves demand, predominantly from banks, can be split into the three classical motives: (i) transactions (to meet known or predictable outflows); (ii) precautionary (to meet potential outflows in a stress); and (iii) speculative (capturing the idea that reserves demand will also depend on the rate of return relative to other liquid assets).
+Although the Bank of England has a range of ways to supply reserves, in recent years by far the dominant driver has been unconventional monetary policy (Figure 1). The lion’s share of that reflected funding for the Monetary Policy Committee’s (MPC) QE programme, via an overnight loan to the Asset Purchase Facility (APF). Most of the remainder financed term funding schemes aimed at ensuring effective pass-through of low interest rates – most recently the Term Funding Scheme with incentives for small and medium sized enterprises (TFSME). Taken together, these schemes saw reserves reach a peak of nearly £980bn at the start of 2022. That’s equivalent to 40% of annual UK GDP and is more than fifty times the level in Autumn 2006, when reserves were just £17bn.
+Figure 1: Bank of England reserves supply and backing assets
+Footnotes
+Source: Bank of England. Coloured areas summarise the Bank’s main on-balance sheet sterling facilities. The gap between the sum of those facilities and reserves primarily reflects sterling banknotes. ‘Term Funding’ includes the Term Funding Scheme (TFS) and the Term Funding Scheme with additional incentives for SMEs but excludes the Special Liquidity Scheme and the Funding for Lending Scheme (which were funded off-balance sheet). To avoid double counting, ‘loan to APF backing QE’ excludes lending backing the TFS while it was in the APF (pre-2019); prior to 2013 Q3, the series shows the quantity of assets financed by the creation of central bank reserves on a settled basis. ‘Other sterling facilities’ includes Short-Term Open Market Operations, Long-Term Repos, the Contingent Term Repo Facility and the Covid Corporate Financing Facility; it excludes the Sterling Bond Portfolio used to fund the Bank.
+Similar increases have been seen across a wide range of other central banks (Figure 2).
+Figure 2: Changes in international central bank balance sheets since pre-GFC
+Footnotes
+Sources: Bank for International Settlements and Bank of England calculations. Chart shows a standard ‘box and whisker’ plot for a sample of 30 central banks. The coloured areas are the interquartile range (25
+th
+to 75
+th
+percentiles); the solid white line is the median; and the ‘whiskers’ are the outer edge of the plot range (defined as 1.5 times the interquartile range either side of the 25
+th
+and 75
+th
+percentiles). The white dots show central banks that lie beyond that range; all operated fixed or managed exchange rate regimes in the pre-GFC period.
+That process has now gone into reverse. In the UK, reserves are now £170bn below their 2022 peak as QE unwinds (so-called ‘Quantitative Tightening (QT)’) and TFSME loans mature – and are set to fall by another £110bn or so in the coming twelve months. Beyond that point, the future path for reserves supply implied by these operations is uncertain, and depends on the MPC’s future QT decisions, and the extent of any voluntary TFSME repayments. Figure 3 shows two purely illustrative scenarios, combining contractual TFSME maturities with the range of annual QT paces so far chosen by MPC.
+Figure 3: Illustrative future paths of reserves supply backing QT and TFSME
+Footnotes
+Source: Bank of England. Chart shows illustrative paths for reserves supply under the following assumptions: (a) TFSME follows contractual maturities (with no further early repayments); (b) MPC’s QE unwind continues at a pace of either £80bn or £100bn a year – the paces they have so far chosen in the first two years of operation; and (c) there are no other influences on reserves supply, including any operations to meet reserves demand – the core issue of the remainder of the speech. The steps in the lines reflect anticipated gilt redemptions as part of QT.
+But that is only half the story – to determine what happens next, we need to bring reserves supply and reserves demand together.
+Figure 4: Monetary control under a floor system
+Figure 4 shows a stylised reserves demand curve for the system as a whole. If reserves supply lay below the sum of banks’ transactions and precautionary demand – a concept we call the ‘Preferred Minimum Range of Reserves (PMRR)’ – banks would try to bid up for reserves, driving short term market rates upwards. Such conditions of ‘reserves scarcity’ are shown on the left-hand side of the Figure. When reserves supply amply exceeds the PMRR – as it clearly has in recent years – banks’ behaviour is determined by their speculative demand. If reserves had a relatively low rate of return, banks would try to economise on their reserves balances, by lending them out or investing in other liquid assets, driving short-term interest rates downwards. To avoid that, we remunerate reserves at the MPC’s chosen policy rate – Bank Rate – removing the incentive to economise. This ‘floor’ system, introduced in the early stages of QE, has been highly effective in guiding market rates (Figure 5).
+Figure 5: Monetary control in the UK
+Footnotes
+Source: Bank of England. ‘SONIA’ is the Sterling Overnight Index Average, the benchmark risk free rate for sterling markets:
+SONIA interest rate benchmark | Bank of England
+.
+Micro-prudential liquidity needs of banks: quantifying the PMRR
+But as reserves supply falls back, we need to be alert to the fact that if we did nothing else, we would at some point go through the PMRR and hit the upwards-sloping part of the demand curve. At that point a judgment would need to be made as to how much short-term interest rate volatility to tolerate as part of monetary control.
+Determining where the PMRR might lie requires unpacking the transactions and precautionary demand for reserves – and those are heavily influenced by two things:
+(a) the size of liquidity claims on banks, in particular deposits; and (b) banks’ liquidity preference per unit of liquidity claim.
+Both have risen significantly since the GFC.
+footnote
+[4]
+There are currently £3.2 trillion of sterling sight and time deposits held at banks that are members of the Bank’s Sterling Monetary Framework (SMF) – nearly 50% higher than mid-2006 (Figure 6). Within that, sight deposits – which are the easiest to withdraw, and hence a key source of short-term liquidity risk – are currently £2.1 trillion.
+Figure 6: SMF banks’ sterling deposits and sources of liquidity
+Footnotes
+Source: Bank of England. Deposit series include deposits from Monetary Financial Institutions, the public sector, UK residents and non-UK residents; but exclude intra-group deposits. ‘Banks’ undrawn loan collateral at the BoE’ subtracts collateral used to back borrowing in term funding schemes and loan collateral used to back Index Linked Term Repo borrowing from total pre-positioned loan collateral. For more details see:
+Eligible collateral | Bank of England
+.
+One proxy for banks’ reserves demand to cover the transactions motive is their need for ready cash to meet predictable intraday payments flows. Adding together the amount required to meet daily pre-funding requirements in retail payments systems (£40bn), the average daily liquidity required to settle high value payments (£40bn) and average settlement balances for other payment and settlement systems (£20bn) gives a number of £100bn.
+footnote
+[5]
+So far, so modest then, when compared to current reserves levels.
+Banks’ precautionary demand is likely to be much bigger, however. A central lesson of the GFC was that banks voluntarily held too few liquid assets to manage potential stress events. In response, banks have since 2013 been required to hold sufficient liquidity buffers to cover 30 days of stressed outflows, calculated by applying a set of weights representing a particular scenario to each type of bank liability.
+footnote
+[6]
+The sum of these so-called ‘Liquidity Coverage Ratio (LCR)’ requirements across SMF banks’ sterling deposit liabilities currently amounts to some £570bn (Figure 7).
+Figure 7: Estimated aggregated sterling outflows across SMF banks (Summer 2023)
+Liquidity needed to meet…
+Aggregated outflows (£bn)
+As a share of sight + time deposits
+…intraday payments
+100
+3%
+…LCR requirements: 30 day stressed outflows (LCR weights)
+570
+18%
+……of which runnable on day 1
+494
+15%
+…day 1 stressed outflows (at Silicon Valley Bank UK pace)
+960
+30%
+…all overnight deposits running
+2,100
+66%
+…all sight and time deposits running
+3,200
+100%
+Footnotes
+Source: Bank of England. Deposit series include deposits from Monetary Financial Institutions, the public sector, UK residents and non-UK residents; but exclude intra-group deposits.
+Now that is a big number – if the PMRR were that large, we could be there soon.
+But there are many uncertainties. The LCR is only one way to assess banks’ stressed liquidity needs. And the future steady state PMRR is likely to differ from today’s aggregate LCR, for a number of reasons. Some point to a lower number:
+First, banks can holds assets other than reserves to meet the LCR. The list of other eligible ‘High Quality Liquid Assets (HQLA)’ includes government bonds, multilateral development bank paper and (at appropriate haircuts) a range of higher-quality corporate debt, covered bonds and even equity.
+footnote
+[7]
+In practice, such assets form only a small part of SMF banks’ sterling liquid asset buffers today (Figure 8). But that’s unsurprising given how many reserves we have injected into the system. As QT progresses, banks’ preferred holdings of non-reserves HQLA will depend, amongst other things, on asset availability, relative rates of risk and return, regulatory rules (reserves are currently exempt from banks’ leverage ratio calculations in the UK) and perceived ease of monetisation in a stress. I will return to these points shortly.
+Figure 8: SMF banks’ sterling HQLA and aggregated LCR-weighted outflows
+Footnotes
+Source: Bank of England. Data as of Summer 2023. Outflow estimates are on same basis as shown in Figure 7.
+Second, bank deposits – a key driver of transactions and precautionary demand – are likely to decline as monetary accommodation is withdrawn and QE unwinds. The scale of this effect is uncertain. Viral Acharya, Raghuram Rajan and their co-authors have recently noted that there was no material decline in the US when the Federal Reserve first tried QT (Figure 9).
+footnote
+[8]
+However, deposits have started to fall in both the UK (Figure 6) and the US (Figure 9) during the current tightening cycle.
+Figure 9: US bank deposits and central bank reserves
+Footnotes
+Source: Federal Reserve Bank of St. Louis.
+Third, higher longer term interest rates are driving a shift from sight to time deposits (which have lower outflow rates), as depositors seek higher returns and banks bid up for funding. In the UK, the ratio of sight to total deposits has already fallen from 70% to 64% and would have a lot further to fall to hit the 40-50% pre-QE range.
+footnote
+[9]
+Other factors may push up on the true PMRR. In particular, banks tend to want to hold further liquidity buffers above their LCR requirements. In part that might be to capture liquidity risks they judge are not fully captured by the LCR. Some of the outflows seen in the wave of bank runs this Spring were materially faster and/or larger than those assumed in the LCR, for example (Figure 10). Banks may also want to hold additional buffers to signal their financial resilience to investors.
+footnote
+[10]
+While the supply of reserves remains abundant, it is hard to know where banks’ true desired buffers lie – but that should become clearer as QT proceeds.
+Figure 10: Selected distressed bank outflow rates
+Footnotes
+Source: Bank for International Settlements
+Report on the 2023 banking turmoil (bis.org)
+One obvious way to get a handle on banks’ PMRRs is simply to ask them – and we run a twice-yearly survey to do just that. The latest aggregate PMRR estimate from this exercise is £335-495bn.
+footnote
+[11]
+That’s a bit lower than most of the numbers in Figure 7 – but it’s still big. Indeed, if reserves did settle there, the Bank’s balance sheet would be as large as it has been at any time in its history, including the South Sea Bubble and World War 2 (Figure 11).
+footnote
+[12]
+Combine that with the illustrative profiles for reserves supply shown in Figure 3, and we could be there in as little as two or three years.
+Figure 11: Bank balance sheet if reserves settled at current survey-based PMRR
+Footnotes
+Source: Bank of England. Green swathe shows an estimate of the Bank’s balance sheet size if reserves were to settle around the current survey-based estimate of the PMRR, and banknotes and other non-reserves liabilities were similar to today’s levels, as a share of nominal GDP.
+From micro (prudential) to macro (prudential)
+But we need to pause again at this point, because PMRR estimates – whether based on LCR calculations or surveys – have another key limitation when considering optimal balance sheet size. And that is that there is no reason to assume that the sum of individual banks’ reserves demand should necessarily be the same as the level of reserves needed to maintain stability of the financial system as a whole.
+To see how this potential fallacy of composition comes about, we need to return to the numbers in Figure 7. Such aggregated firm-level outflows can only be outflows for the banking system as a whole if they are all transferred into banknotes or some other external payments medium. But that is not how most bank runs work: depositors that become suspicious of their bank tend to transfer their funds to another bank, perceived to be stronger.
+footnote
+[13]
+That means that one bank’s deposit outflow tends to be another bank’s inflow – something that’s always true of reserves because they can by definition only be used by one bank to pay another. So, to the extent that the system can provide the right infrastructure and incentives to recycle reserves from surplus to deficit banks, the stock of reserves required to meet banks’ net transactions and precautionary demand can be much lower than the sum of their gross needs.
+footnote
+[14]
+And supplying only a fraction of banks’ gross needs could mean a smaller steady state central bank balance sheet – appealing to those of us with Modernist hearts!
+One way to recycle reserves is via financial markets. Government bonds and other forms of non-reserves HQLA can be highly effective ways for banks to meet unanticipated outflows, to the extent that they can be converted into cash, quickly and in scale. Daily volumes in cash gilts have ranged from £30bn in normal conditions to a maximum of £100bn
+in extremis
+– and overnight gilt repo from £60-90bn (Figure 12). That’s big enough to meet a range of firm-specific outflows – and firms can hold non-UK HQLA too, further expanding the potential asset pool.
+Taken together, this suggests there is certainly some room for banks to hold more of their liquidity buffers in non-reserves HQLA as the supply of reserves falls – a process that will to some extent happen naturally, and to some extent central banks can incentivise. But the extent of any such adjustment will need careful testing. Extended settlement periods and hedging and leverage ratio costs make non-reserves HQLA imperfect substitutes for reserves. Recent events, including the ‘dash for cash’ and the LDI crisis, have posed new questions about the structural resilience of these markets in a stress. And sterling market depth is clearly nothing like the size of the larger numbers in Figure 7. It is possible that some of these constraints may ease somewhat over time, as programmes to strengthen non-bank financial intermediary (NBFI) resilience, core market infrastructure and central bank toolkits make more progress, and QT returns more collateral.
+footnote
+[15]
+But in current circumstances, there are limits to the extent that banks can rely on private markets to monetise non-reserves HQLA in a stress.
+Figure 12: Bank of England facilities and daily volumes in selected sterling markets
+Footnotes
+Source: Bank of England, MiFID II. Repo and unsecured daily volumes are for overnight maturity transactions only.
+There is however another way for banks to monetise their assets, and that is by using central bank liquidity facilities. Huge advances have been made in this area since the GFC.
+footnote
+[16]
+As Figure 12 shows, UK banks have built up the capacity to borrow over £½ trillion of reserves from us against a range of prepositioned, mostly less liquid, collateral – and they can borrow a great deal more than this against more liquid collateral, including HQLA, if the underlying markets freeze. That collateral can be used across most of the Bank’s lending facilities, including the weekly Index Linked Term Repo facility, the Discount Window Facility, and the Contingent Term Repo Facility. We are definitively ‘open for business.’
+On the face of it, an aggregate borrowing capacity of £½ trillion is enough to meet most of the outflows in Figure 7. So shouldn’t we be considering a radically different setup in which the stock of reserves is relatively small in normal times, but expands rapidly and at scale when needed, via usage of the Bank’s facilities?
+There are three main obstacles to that being a complete answer:
+First, while many banks have strong pre-positioning and test usage regularly, some do not yet have much drawing capacity, for various reasons. So liquidity facilities aren’t yet a universal solution.
+Second, banks’ ability, or willingness, to draw from liquidity facilities at the scale and speed of recent runs (shown in Figure 10) is unproven. Where the constraints are technological, they should be fixable over time, given appropriate resources. But some banks still worry that investors, depositors or even supervisors may see facility usage as ‘stigmatising’, amplifying rather than mitigating stability concerns. Great progress has made in reducing this risk in recent years, including through the development of market-wide facilities, the issuance of supervisory guidance stressing that the use of central bank facilities is part of normal liquidity management, and balanced disclosure regimes. But stigma is hard to eliminate altogether – and firms that baulk from drawing quickly and in size when a liquidity shock hits, and lack alternative sources of liquidity, are exposing themselves and the system to risk.
+Third, banks can only count access to central bank facilities towards their LCR requirements as and when they draw from them, adding to their reserves holdings. That means that, while there are many positive arguments for having such access, it does not absolve banks from having to make a choice between holding reserves (however they might be supplied) or other forms of HQLA to meet the LCR.
+footnote
+[17]
+Bringing it together: some principles for steady state reserves supply
+Where does this all leave us on those big questions I posed at the start?
+The marked tightening in post-GFC bank liquidity requirements and the continued growth in the size, speed and breadth of liquidity shock since then has increased the precautionary demand for reserves: the ‘kink’ in the reserves demand curve in Figure 4 has moved decisively to the right. Against that backdrop,
+maintaining monetary control, micro- and macro-prudential stability means supplying a materially higher standing stock of reserves than we did pre-2008
+, when the Bank of England
+lay near the bottom of the global distribution (Figure 2). To that extent we are resolutely Post-Modernist.
+But we can give succour to our Modernist hearts in three ways.
+First, while we know the reserves demand curve has moved to the right, the precise extent to which it has done so is uncertain. We can’t afford to lose monetary control by crashing into the upwards-sloping part unexpectedly. But that doesn’t mean we have to supply an unnecessarily excessive level of reserves.
+So we will use our toolkit to test where the true aggregate PMRR lies, as QE and TFSME unwind
+. To achieve that, we introduced last autumn a weekly market-wide Short Term Repo (STR) facility, offering unlimited amounts of reserves against gilt collateral at Bank Rate.
+footnote
+[18]
+The STR is designed to pick up emerging scarcity in reserves supply at an early stage, replacing reserves drained through QT or TFSME (Figure 13). That will allow the MPC to continue to make independent decisions on the path of QT, focused solely on achieving the inflation target without regard to the shape of the Bank’s balance sheet, or the potential for the loss of monetary control.
+Figure 13: Stylised Bank of England balance sheet as QT proceeds
+Second,
+we will continue to work with others to deepen alternative liquidity sources
+. Part of that means ensuring banks have gone even further to being ready to use our contingent liquidity facilities, in size and at speed – broadening and deepening the stock of pre-positioned collateral, ensuring firms test regularly, and working with them to tackle any residual stigma concerns. The readier banks are to use these facilities, the fewer excess reserves they should feel the need to hold in normal times – pushing the demand curve to the left. The same is true of efforts to ensure that core HQLA markets can function in a stress, including through strengthening non-bank resilience, helping others to improve market infrastructures and building effective central bank backstops against severe market dysfunction.
+Third, as this work progresses – and some of it could take years – we will
+continue to explore how our toolkit might be calibrated to return market incentives and disciplines more centrally to firms’ liquidity management
+. It would be a brave central bank that placed as much faith in such mechanisms as people did pre-GFC. But that doesn’t and shouldn’t mean usurping them altogether – not least because doing so risks amplifying rather than reducing risks to financial stability, as well as incurring financial, operational and reputational risks ourselves from unnecessarily large balance sheets. Price incentives are one tool: we could, for example, reduce reserves demand in steady state by increasing the price at which we supply replacement liquidity as QE and TFSME unwind. But there are real limits to how far we could go in this direction without destabilising monetary control. Central banks also have non-price levers that could influence reserves demand – but judgments on such issues are complex and would need to be made in ways that took no risks with monetary control, micro- or macro-prudential stability.
+So while less may one day be more, for the time being I am afraid that less is a bore.
+Thank you – I look forward to our discussion today.
+I am grateful to Jack Worlidge for his help in preparing this speech, to Jordan Pipe and Callum Mundi for assistance with the charts, to Nick Butt, James Howat, Rafael Kinston, Clare Macallan, William Meade, Josh Lillis, Oscar Pedreira Sanchez, Kavya Saxena and Anina Thiel for developing the underlying thinking, and to Andrew Bailey, David Bailey, Nathaniel Benjamin, Sarah Breeden, Jon Bridges, Matthieu Chavaz, Matt Dove,
+Rebecca Estrada-Pintel, Phil Evans, Abi Haddow, Richard Harrison, Paul Hawkins,
+Robert Hills, Sarah John, Ana Lasaosa, Michael Mcleay, Arif Merali, Ali Moussavi,
+Ryan Murphy, Pierre Ortlieb, Rob Patalano, Huw Pill, Aniruddha Rajan, Dave Ramsden, Will Rawstorne, Andrea Rosen, Nazneen Sherif, Matt Roberts-Sklar, Victoria Saporta, Martin Seneca, Caspar Siegert, George Speight, Alex Varadi, Gareth Walton, Mo Wazzi and Chris Yeates for their helpful comments and suggestions.
+Because this view is deliberately stylised, I hesitate to attach it to individuals. The merits of a small balance sheet are however strongly advocated by Claudio Borio at the BIS, for example (
+Getting up from the floor (bis.org)
+). Viral Acharya, Ragu Rajan and co-authors criticise the ample supply of reserves for inducing a ‘liquidity dependency’ in the banking system (
+Demandable claims on bank liquidity complicate the unwinding of central bank balance sheets | CEPR
+). The centrality of the role of market-based sources of liquidity is enshrined in the post-GFC Basel framework for liquidity (
+Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (bis.org)
+. Annette Vissing-Jørgensen notes the limited stability-enhancing properties of reserves-supplying operations that simply replace one form of liquid asset (government bonds) for another (reserves) –
+Balance sheet policy above the ELB (europa.eu)
+. And many of the lessons learned reports from the Silicon Valley Bank episode put primary emphasis on the need to strengthen individual bank regulation, supervision and risk management (see eg
+Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank
+).
+For a recent assessment of vulnerabilities in financial markets see
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance | Bank of England
+. The view that there should an ample supply of reserves at all times is set out in
+2016steingreenwoodhanson.pdf (harvard.edu)
+; see also
+Settlement Liquidity and Monetary Policy Implementation—Lessons from the Financial Crisis - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)
+and
+How Abundant Are Reserves? Evidence from the Wholesale Payment System | NBER
+. State contingent liquidity facilities for banks have been widely developed since the GFC – see for instance
+Bank of England Market Operations Guide | Bank of England
+for a description of the Bank’s toolkit. Discussions about tools for non-banks are more recent – but see for instance
+From Lender of Last Resort to Market Maker of Last Resort via the dash for cash: why central banks need new tools for dealing with market dysfunction | Bank of England
+and
+A journey of 1000 miles begins with a single step: filling gaps in the central bank liquidity toolkit - speech by Andrew Hauser | Bank of England
+. In response to the events of Spring 2023, in which SVB struggled to make effective use of its central bank facilities, some have re-advocated the adoption of a much more radical approach, sometimes known as the ‘Pawnbroker For All Seasons’, in which banks are required to pre-position sufficient assets at the central bank to ensure they can back all of their runnable deposits with drawing capacity in central bank liquidity facilities. See for instance
+More Deposit Insurance Is No Way to Make Banks Safe - Bloomberg
+;
+We need a new approach to bank regulation | Financial Times (ft.com)
+; and
+Former BoE deputy calls for radical overhaul of bank funding | Financial Times (ft.com)
+. For an opposing view, see
+The pawnbroker for all seasons – an expensive and excessive solution to liquidity risk management in the banking system - Macroprudential Matters
+.
+As discussed, for example, in ‘Till Time’s Last Sand: A History of the Bank of England’, by David Kynaston.
+Reserves demand in the UK has also increased since the pre-GFC period because many more banks now hold reserves accounts directly at the Bank, rather than coming in indirectly via a larger clearing bank.
+In practice banks may reduce the amount of reserves they need to meet these flows through the use of various ‘liquidity saving’ tools available to users of payments systems.
+Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (bis.org)
+See Annex 4 of
+Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (bis.org)
+Demandable claims on bank liquidity complicate the unwinding of central bank balance sheets | CEPR
+These numbers are calculated from the series shown in Figure 6.
+Global regulators have been at pains to highlight that the whole point of the LCR is to provide adequate liquid assets to use in a stress, and hence it would be entirely appropriate for banks to fall below LCR minima in such circumstances: see for instance
+DP1/22 – The prudential liquidity framework: Supporting liquid asset usability | Bank of England
+and
+FS1/23 – The prudential liquidity framework: Supporting liquid asset usability | Bank of England
+. However, many banks and their investors remain frustratingly resistant to this view.
+More background on the survey, and an analysis of the previous six-monthly estimate, can be found at
+What do we know about the demand for Bank of England reserves? | Bank of England
+.
+These projected ratios are somewhat larger than those published by the Federal Reserve for their own balance sheet (see eg
+Open Market Operations During 2022 (newyorkfed.org)
+) – but that primarily reflects the fact that the ratio of banking assets to GDP is much larger in the UK than in the US. Adjusting for that difference, the reserves ratios are in similar ballparks.
+Indeed there are only £87bn of banknotes currently in issue – so it would not be possible for hundreds of billions of pounds to flow into banknotes without an enormous and rapid expansion in the stock of notes. A similar point could be made about the current potential for outflows into other media – eg non-bank digital currencies – most of which remain in their infancy.
+This is of course just a variant of the old monetarist identity ‘MV≡PT’. As a thought experiment, if it were possible to have near-infinite velocity, the job could be done with a single £1 of reserves. That is of course science fiction – though some old hands do recall, somewhat wistfully, an earlier time when it was felt to be a sign of honour for a bank to end each trading session holding no reserves at all!
+For a summary of NBFI resilience reform see
+Non-Bank Financial Intermediation - Financial Stability Board (fsb.org)
+or
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance | Bank of England
+; for an assessment of the implications of QT on market functioning see
+Quantitative tightening: the story so far − speech by Dave Ramsden | Bank of England
+; for details on the IAWG see
+Collaboration Toward Increased Resilience of the Treasury Market - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)
+; and for discussions of the central bank toolkit see
+Preventing and responding to dysfunction in core markets - Dallasfed.org
+and
+A journey of 1000 miles begins with a single step: filling gaps in the central bank liquidity toolkit - speech by Andrew Hauser | Bank of England
+.
+For a recent summary see
+Report on the Bank's official market operations 2022–23 | Bank of England
+.
+The LCR rules do contain provision for ‘contractual committed liquidity facilities’ from central banks to be counted towards the LCR in a limited way – see Option 1 in
+LCR31 - Alternative liquidity approaches (bis.org)
+. But the conditions for activating this option are demanding jurisdictions must show they have a structural shortage of domestic currency HQLA, and central banks must be contractually committed to lend, and charge a relatively high fee for the facility.
+Short Term Repo Facility - Provisional Market Notice 4 August 2022 | Bank of England
+Short Term Repo Facility - Provisional Market Notice 4 August 2022 | Bank of England
+Close
+The LCR rules do contain provision for ‘contractual committed liquidity facilities’ from central banks to be counted towards the LCR in a limited way – see Option 1 in
+LCR31 - Alternative liquidity approaches (bis.org)
+. But the conditions for activating this option are demanding jurisdictions must show they have a structural shortage of domestic currency HQLA, and central banks must be contractually committed to lend, and charge a relatively high fee for the facility.
+Close
+For a recent summary see
+Report on the Bank's official market operations 2022–23 | Bank of England
+.
+Close
+For a summary of NBFI resilience reform see
+Non-Bank Financial Intermediation - Financial Stability Board (fsb.org)
+or
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance | Bank of England
+; for an assessment of the implications of QT on market functioning see
+Quantitative tightening: the story so far − speech by Dave Ramsden | Bank of England
+; for details on the IAWG see
+Collaboration Toward Increased Resilience of the Treasury Market - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)
+; and for discussions of the central bank toolkit see
+Preventing and responding to dysfunction in core markets - Dallasfed.org
+and
+A journey of 1000 miles begins with a single step: filling gaps in the central bank liquidity toolkit - speech by Andrew Hauser | Bank of England
+.
+Close
+This is of course just a variant of the old monetarist identity ‘MV≡PT’. As a thought experiment, if it were possible to have near-infinite velocity, the job could be done with a single £1 of reserves. That is of course science fiction – though some old hands do recall, somewhat wistfully, an earlier time when it was felt to be a sign of honour for a bank to end each trading session holding no reserves at all!
+Close
+Indeed there are only £87bn of banknotes currently in issue – so it would not be possible for hundreds of billions of pounds to flow into banknotes without an enormous and rapid expansion in the stock of notes. A similar point could be made about the current potential for outflows into other media – eg non-bank digital currencies – most of which remain in their infancy.
+Close
+These projected ratios are somewhat larger than those published by the Federal Reserve for their own balance sheet (see eg
+Open Market Operations During 2022 (newyorkfed.org)
+) – but that primarily reflects the fact that the ratio of banking assets to GDP is much larger in the UK than in the US. Adjusting for that difference, the reserves ratios are in similar ballparks.
+Close
+More background on the survey, and an analysis of the previous six-monthly estimate, can be found at
+What do we know about the demand for Bank of England reserves? | Bank of England
+.
+Close
+Global regulators have been at pains to highlight that the whole point of the LCR is to provide adequate liquid assets to use in a stress, and hence it would be entirely appropriate for banks to fall below LCR minima in such circumstances: see for instance
+DP1/22 – The prudential liquidity framework: Supporting liquid asset usability | Bank of England
+and
+FS1/23 – The prudential liquidity framework: Supporting liquid asset usability | Bank of England
+. However, many banks and their investors remain frustratingly resistant to this view.
+Close
+These numbers are calculated from the series shown in Figure 6.
+Close
+Demandable claims on bank liquidity complicate the unwinding of central bank balance sheets | CEPR
+Close
+See Annex 4 of
+Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (bis.org)
+Close
+Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (bis.org)
+Close
+In practice banks may reduce the amount of reserves they need to meet these flows through the use of various ‘liquidity saving’ tools available to users of payments systems.
+Close
+Reserves demand in the UK has also increased since the pre-GFC period because many more banks now hold reserves accounts directly at the Bank, rather than coming in indirectly via a larger clearing bank.
+Close
+As discussed, for example, in ‘Till Time’s Last Sand: A History of the Bank of England’, by David Kynaston.
+Close
+For a recent assessment of vulnerabilities in financial markets see
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance | Bank of England
+. The view that there should an ample supply of reserves at all times is set out in
+2016steingreenwoodhanson.pdf (harvard.edu)
+; see also
+Settlement Liquidity and Monetary Policy Implementation—Lessons from the Financial Crisis - FEDERAL RESERVE BANK of NEW YORK (newyorkfed.org)
+and
+How Abundant Are Reserves? Evidence from the Wholesale Payment System | NBER
+. State contingent liquidity facilities for banks have been widely developed since the GFC – see for instance
+Bank of England Market Operations Guide | Bank of England
+for a description of the Bank’s toolkit. Discussions about tools for non-banks are more recent – but see for instance
+From Lender of Last Resort to Market Maker of Last Resort via the dash for cash: why central banks need new tools for dealing with market dysfunction | Bank of England
+and
+A journey of 1000 miles begins with a single step: filling gaps in the central bank liquidity toolkit - speech by Andrew Hauser | Bank of England
+. In response to the events of Spring 2023, in which SVB struggled to make effective use of its central bank facilities, some have re-advocated the adoption of a much more radical approach, sometimes known as the ‘Pawnbroker For All Seasons’, in which banks are required to pre-position sufficient assets at the central bank to ensure they can back all of their runnable deposits with drawing capacity in central bank liquidity facilities. See for instance
+More Deposit Insurance Is No Way to Make Banks Safe - Bloomberg
+;
+We need a new approach to bank regulation | Financial Times (ft.com)
+; and
+Former BoE deputy calls for radical overhaul of bank funding | Financial Times (ft.com)
+. For an opposing view, see
+The pawnbroker for all seasons – an expensive and excessive solution to liquidity risk management in the banking system - Macroprudential Matters
+.
+Close
+Because this view is deliberately stylised, I hesitate to attach it to individuals. The merits of a small balance sheet are however strongly advocated by Claudio Borio at the BIS, for example (
+Getting up from the floor (bis.org)
+). Viral Acharya, Ragu Rajan and co-authors criticise the ample supply of reserves for inducing a ‘liquidity dependency’ in the banking system (
+Demandable claims on bank liquidity complicate the unwinding of central bank balance sheets | CEPR
+). The centrality of the role of market-based sources of liquidity is enshrined in the post-GFC Basel framework for liquidity (
+Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (bis.org)
+. Annette Vissing-Jørgensen notes the limited stability-enhancing properties of reserves-supplying operations that simply replace one form of liquid asset (government bonds) for another (reserves) –
+Balance sheet policy above the ELB (europa.eu)
+. And many of the lessons learned reports from the Silicon Valley Bank episode put primary emphasis on the need to strengthen individual bank regulation, supervision and risk management (see eg
+Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank
+).
+Close
+Convert this page to PDF
+Andrew Hauser
+Former Executive Director for Markets from 2018 to 2024
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

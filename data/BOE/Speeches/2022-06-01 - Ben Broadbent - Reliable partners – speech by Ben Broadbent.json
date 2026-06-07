@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Reliable partners – speech by Ben Broadbent",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Ben Broadbent",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/march/ben-broadbent-speech-at-niesr-in-partnership-with-the-money-macro-and-finance-society",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Ben Broadbent - Reliable partners – speech by Ben Broadbent.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Ben Broadbent - Reliable partners – speech by Ben Broadbent.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:19:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5f216cf449838aa6df0c2c5937ce3ef61c25379aca6f466bd816fa2ba91790b"
+}

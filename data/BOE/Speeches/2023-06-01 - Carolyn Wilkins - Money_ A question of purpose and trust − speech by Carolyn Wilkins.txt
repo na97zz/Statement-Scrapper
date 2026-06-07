@@ -1,0 +1,269 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Money: A question of purpose and trust − speech by Carolyn Wilkins
+DATE: 01/06/2023
+SPEAKER: Carolyn Wilkins
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/may/carolyn-wilkins-keynote-speech-at-omfif
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Money: A question of purpose and trust − speech by Carolyn Wilkins
+Given at OMFIF global annual Digital Monetary Institute symposium
+Published on 
+
+ 10 May 2023
+Carolyn Wilkins talks about the three main design principles for a Central Bank Digital Currency. It should stay focused on core public policy objectives. It should identify and mitigate financial stability risks. It should also set high standards for technology.
+Speech
+‘Don’t let your mouth write a cheque that your tail can’t cash’ - Attributed to Bo Diddley.
+Thank you for the introduction and the invitation to speak at OMFIF’s Global Annual Symposium on Central Banks and Digital Currencies. Let me start by saying that these remarks reflect my views and not necessarily those of my Financial Policy Committee or other Bank of England colleagues.
+Over the past decade, central bank digital currency has evolved from being the topic of interesting research to actual pilots. Today there are over 100 central banks working on CBDCs, and CBDCs are being piloted or have been introduced in 29 jurisdictions.
+footnote
+[1]
+It has also become a hotly debated public policy issue, and for good reason. Money is at the core of any financial system and relies on broad-based trust. A central bank digital currency is no exception.
+I strongly support private and public efforts to innovate in payments because they could benefit families and businesses, especially those making cross border payments.
+footnote
+[2]
+Many of you would be aware that His Majesty's Treasury (HMT) and the Bank of England recently released a Consultation Paper in which they judged it likely that a digital pound would be needed in the future. By ‘digital pound,’ I mean a new form of digital money that would sit alongside cash for use by households and businesses. While a final decision has not been taken on whether to actually issue a digital pound, they have moved to the next stage of preparatory design work.
+The list of issues that need to be resolved is admittedly daunting. As an external member of the Bank of England’s Financial Policy Committee, I am keenly aware that new forms of private or public money could have financial stability implications for the UK and globally – for better and for worse. The collapse of Silicon Valley Bank earlier this year and the stablecoin Terra last year provide stark reminders that runs against different forms of money are likely to continue to happen, and they could become worse as technology evolves.
+That is one reason why HMT and the Bank of England are proceeding carefully and currently consulting widely on their work. Today I will walk through the three fundamental principles that I think should anchor the economic and technical design of a CBDC:
+Stay focused on the core public policy objectives, and resist mission creep;
+Identify and mitigate financial stability risks; and,
+Set a high bar for technology, including with regards to privacy, resiliency and security.
+1. Stay focused on core public policy objectives
+The first question that people usually ask when the subject of a retail CBDC arises is “what problem are you trying to solve?” That is because we already have access to multiple forms of payment, whether it is a bank debit or credit card, a payments service such as ApplePay or GooglePay, or cash. Yes, cross border payments are expensive and slow, but many consider this to be a problem for the private sector to solve given that central banks are not typically viewed as great innovators.
+footnote
+[3]
+While this line of reasoning is intuitive, it misses two important considerations. The first, and most important, is that central bank money is the safest asset that one could hold because it is backed by the full faith and trust in the government that issued it.
+footnote
+[4]
+This lays a sound foundation to a stable monetary and financial system.
+In contrast, private money is a liability of a profit-seeking financial institution. It is therefore subject to credit and liquidity risks, however well regulated. Deposit insurance is designed to mitigate these risks for some depositors, but previous estimates indicate that around one-third of deposits at major UK banks are uninsured.
+footnote
+[5]
+Direct comparisons across countries are limited due to differences in methodology, but recent analysis highlights that the share was nearly 90 per cent or higher for US banks that failed earlier this year.
+footnote
+[6]
+While UK citizens continue to have access to central bank money through cash, its use at the point of sale is declining (Figure 1). This is in large part due to consumer preferences, but it has been accelerated by the growth of online purchases where cash payment is not possible. In fact, around 85 per cent transactions in the UK do not involve cash.
+This consideration is one reason why several central banks, including the Bank of England, have chosen to evaluate a retail CBDC - to ensure that central bank money can remain available and useful in a modern economy in order to support monetary sovereignty and financial stability.
+Figure 1: Cash use in payments has declined while card use has accelerated
+(a)
+Footnotes
+Sources: UK Finance and Bank calculations, published in The digital pound: a new form of money for households and businesses?, Bank of England and HM Treasury (2023).
+(a) Payment volumes (millions). Cards comprises debit card and credit/charge/purchasing card.
+The second missing consideration is that the private sector can, and likely would, contribute extensively to the development and deployment of a CBDC. And the role of CBDC in promoting private sector competition and innovation in payments is useful given that retail payments might otherwise come to be dominated by a small number of firms.
+This has prompted many central banks to prefer to distribute CBDC in a tiered manner through the private sector, providing a platform for the private sector to do what it does well – innovate.
+That said, there are understandably worries about ‘mission creep,’ even though the UK and many other jurisdictions appear determined to remain focused on core objectives.
+Privacy and potential to monitor citizens top the list of worries, which is why HMT and the Bank of England are clear in their Consultation Paper that customer privacy would be protected, with KYC and other safeguards restricted to existing legislative requirements only.
+People are also concerned that a CBDC would allow for government-sponsored ‘programmable’ money. For example, like food stamps, a CBDC could theoretically be programmed to be valid for only some purchases. This would not only be overreach given the core goals of public money, programming could also undermine the uniformity of money which is required to provide a safe base to the financial system. One could easily imagine that a CBDC that had programmed restrictions would become a less preferred means of payment than other forms of money. It makes sense, therefore, that a digital pound would not include any government or central bank-initiated programmable features, although users could set up their own programmable payments if they wanted.
+A final concern that is often raised relates to monetary policy. In theory, a CBDC could allow central banks to implement negative nominal interest rates if required to meet their monetary policy objectives. There are several reasons to reject this reasoning. For starters, this would only work if cash were no longer available. One in five people in the UK prefer cash as a payment option, and it is an essential option for some people in society. This has led the Bank of England to commit to providing banknotes as long as there is demand for them.
+footnote
+[7]
+It is therefore no surprise that no central bank with a live CBDC or pilot is remunerating CBDC, and the latest Consultation Paper here in the UK made it clear that remunerating a digital pound to make monetary policy more effective was not a motivation.
+footnote
+[8]
+It is essential for central banks to stick to the core purpose of money in the design of a CBDC. Governments should consider carefully codifying this purpose in legislation, including restrictions to its design if they are required. This will build trust that mission creep will not appear down the road.
+2. Identify and mitigate financial stability risks
+Even within this relatively narrow public policy remit, there are a number of hurdles to overcome. Top of mind for me as a member of the Financial Policy Committee are the issues related to financial system stability.
+The issues are focused on the possibility of bank disintermediation, which could arise in normal times if there were a large enough shift out of deposits and into holdings of CBDC. This could, in theory, affect the availability or cost of bank credit. Bank of England researchers attempted to quantify this effect by evaluating a scenario in which roughly 20 per cent of bank deposits flowed into new forms of digital money, both CBDC and stablecoins. They estimate that bank lending rates might rise by about 20 basis points, although they note considerable uncertainty over this result.
+footnote
+[9]
+A Bank of Canada study using scenario analysis concluded that the largest Canadian banks were well positioned to absorb potential profitability and liquidity effects associated to the introduction of CBDC.
+footnote
+[10]
+A broader enquiry on the implications of a CBDC on bank intermediation and lending has more mixed results – we are economists after all.
+footnote
+[11]
+But it does tend to point to a number of important factors that drive the results, including the degree of competitiveness in the banking sector. Introducing a CBDC in a system where banks have some market power in the deposits market may result in higher deposit rates, but not necessarily a contraction in bank lending.
+footnote
+[12]
+However, in a perfectly competitive banking system, disintermediation is unavoidable if the CBDC is too attractive.
+footnote
+[13]
+That is what makes remuneration such an important factor. A high enough interest rate on CBDC can lead to bank disintermediation, with this being much less of a concern in normal times if the CBDC is unremunerated. So again, it is encouraging that UK authorities have made it clear that the digital pound would be unremunerated.
+These worries hinge on consumers actually wanting to adopt the CBDC and merchants wanting to accept it. In this regard, many of the CBDC pilots and launches have disappointed, experiencing quite low uptake despite various incentives. For instance, despite China’s CBDC pilot having over 260 million users as of August last year, both total wallet balances and transactions are relatively low.
+footnote
+[14]
+Chinese authorities are therefore working on making the e-CNY more appealing and user friendly, in close cooperation with the private sector.
+footnote
+[15]
+While risks of disintermediation in normal times from introducing a CBDC may be overstated, the concern is real when it comes to times of stress. As I said earlier, there is a present and a stark reminder that old-fashioned deposits runs can still happen today. The recent experience with the run on SVB’s UK subsidiary, which experienced deposit withdrawals amounting to some 30 per cent of deposits in one day, is a case in point.
+footnote
+[16]
+The concern is not that a CBDC would be the cause of a run; that is typically the result of some underlying problem with the bank itself or contagion from panicked depositors. Rather, the concern is how the run unfolds, and whether or not the CBDC and accompanying policies, including bank liquidity regulations, will be stabilising forces.
+When it comes to dealing with runs, the place to start should not be to axe plans for a CBDC. It should be to make sure that sound regulation and supervision are in place to reduce the chance of a run. While UK banks have robust capital and liquidity positions, it is a good idea to learn lessons from recent events in the US banking system.
+The next step should be to increase resiliency of the system in the case of deposit flight, including thinking about stabilising features of CBDC, such as limits. Another potential stabilising force is the set of central bank liquidity facilities to support financial stability. Central bank currency or not, central banks will always be called on to step in when financial stability is at risk. Our job is to ensure a quid pro quo for access, including strong regulatory requirements, to mitigate moral hazard.
+3. Set a high bar for technology
+Where the rubber really hits the road in the design of a CBDC is in the choice of technology. Here the bar must be set high, particularly given the central role a retail CBDC would have in the financial system and the reputational implications for the central bank of any flaws.
+For the Bank of England and many other central banks, the technological design phase is still very much a work in progress and will involve making policy decisions involving important tradeoffs. The Bank has said that this phase will take another couple of years, and only then will a decision be taken as to whether to build a CBDC.
+footnote
+[17]
+Of course, the first step in technical design is to decide what exactly needs to be built. As I mentioned earlier, several central banks have chosen a “platform” or “two-tiered” model as the basis for their development work. In the conceptual model proposed in the UK, the Bank of England builds a “core ledger” to provide the minimum necessary functionality. The Bank would also provide an API layer so that regulated, private firms can access the core infrastructure. In this model, customer-facing services would be provided by regulated private sector firms including the responsibility to apply KYC, AML and CFT checks (Figure 2). This design would allow for private-sector innovation in areas such as wallets, business analytics, budgeting tools and fraud monitoring.
+Figure 2: The platform model of the digital pound
+Footnotes
+Source: The digital pound: a new form of money for households and businesses?, Bank of England and HM Treasury (2023)
+So, what is it that makes the technological design phase of the project so challenging? Let’s start with the fact that the core ledger must meet the highest standards with regards to six criteria: privacy, security, resilience, performance, extensibility and energy use.
+Meeting each of these individually is already challenging. Take privacy as an example. Privacy-enhancing technologies will likely be used to minimize personal data exposure and maximise security. This will involve mechanisms to anonymise customer and transaction data that the Bank can access, and limit the data that payment service provider can access to the legal and regulatory minima.
+To up the ante, there are important tradeoffs that need to be faced across the six criteria I mentioned. For instance, security safeguards are needed to support confidentiality and integrity of the data, while making sure that users of CBDC do have continuous access to their funds and that bad actors do not have access to the system. One challenge is that controls that secure access to data, such as data encryption and user authentication, often also impede performance by slowing down transaction times.
+And, all of these safeguarding mechanisms need to be nimble enough to keep ahead of potential future threats, such as those posed to conventional cryptography by quantum computing.
+It is often assumed that distributed ledger technologies (DLT) are the obvious choice for building a CBDC. Decentralisation could have benefits with regards to resilience, redundancy and security of the core ledger. Still, it has some drawbacks and may not be strictly necessary. First off is that decentralisation may be undesirable for other aspects of the system, such as governance and could introduce unnecessary technical complexity. It may be possible to achieve some of the benefits of DLT, such as resilience, redundancy and security, via alternative and well-established data management strategies, using distributed, centrally managed databases. Significant engineering challenges remain, so the Bank is assessing all possible approaches, including DLT.
+With regards to the API, the Bank is working with the BIS Innovation Hub here in London on Project Rosalind. The project has experimented with a set of API functionalities that could enable a close collaboration between the public and private sector in developing a retail CBDC ecosystem. There are also many other projects underway to explore CBDC design and use cases. For example, Project Icebreaker is exploring how interlinked retail CBDC systems can support payments across borders.
+footnote
+[18]
+It is too soon to say if all of these challenges can be met. That said, I think work on this should continue even if there's no digital pound in the end. The technologies underpinning digital money are going to be developed in the private sector anyway, so hands on experience will help central banks support safety and soundness in that context.
+4. Conclusions
+It has often been said that “it’s trust, not money, that makes the world go ‘round.” I could not agree more. In fact, trust is likely the biggest hurdle that a CBDC needs to overcome, or any other form of money for that matter.
+It is critical that governments and central banks stay focused on the core public policy objectives of a CBDC, and take steps to alleviate concerns about mission creep. Before any decision to launch is made, they must be confident that they have mitigated financial stability risks in CBDC policy and design and that they have passed a high bar with regards to the technology.
+The UK’s transparent and consultative approach to developing a digital pound is consistent with these principles.
+Of course, work on CBDC is generating considerable debate. I see that as healthy, and would encourage more of it. Money is a matter of purpose and trust, making it too important to be left solely to central bankers.
+I would like to thank the following for their input to and helpful comments on these remarks: Mehregan Ameri, Andrew Bailey, Paul Bedford, Colette Bowe, Sarah Breeden, Shiv Chowla, David Curry, Ben Dovey, Katie Fortune, Bernat Gual-Ricart, Raakhi Odedra, Lizzie Peck, Zaki Said, Simon Scorer, Henry Tanner, Nick Vaughan, and Lisa Young.
+See
+Central Bank Digital Currency Tracker - Atlantic Council
+for ongoing status updates.
+Domestic payments are already fast and efficient in many jurisdictions, including the UK, but many cross-border payments are not. For further information on the frictions in cross-border payments and international work underway to tackle them, see
+Cross-border Payments - Financial Stability Board (fsb.org)
+.
+For an overview of the work needed across central banks, industry and public authorities to improve cross-border payments see
+Rowing in unison to enhance cross-border payments – speech by Victoria Cleland | Bank of England
+.
+This backing is credible in jurisdictions with strong rule of law and macroeconomic fundamentals because governments demand that taxes be paid in the fiat money it issues.
+For example, see analysis presented in Chart 4.1 in the 2021 Discussion Paper on
+New forms of digital money | Bank of England
+which estimated that major UK banks hold £980bn of insured and £520bn of uninsured deposits (
+based on UK resident groups of major UK banks using data at end-2020).
+Direct comparisons across jurisdictions are limited by differences in classification and methodology. For available US estimates see report by
+Visual Capitalist
+based on analysis undertaken by
+S&P Global Market Intelligence
+.
+See footnote 4 in
+The shape of things to come: innovation in payments and money − speech by Sir Jon Cunliffe | Bank of England
+for links to public statements made by Governor Andrew Bailey, Sir Jon Cunliffe (Deputy Governor for Financial Stability), and Sarah John (the Bank’s Chief Cashier).
+That said, one undesirable consequence could be that an unremunerated CBDC would actually increase the effective lower bound on interest rates as it would be more easily accessible than cash, which has a storage cost.
+See Section 3 in
+New forms of digital money | Bank of England
+.
+See
+The potential effect of a central bank digital currency on deposit funding in Canada - Bank of Canada
+.
+See
+Infante, Kim, Orlik, Silva and Tetlow (2022)
+for an excellent review of the literature.
+See
+Andolfatto (2021)
+and
+Chiu et. al. (2023)
+.
+See
+Keister and Sanchez (2022)
+.
+See
+A Report Card on China’s Central Bank Digital Currency: the e-CNY - Atlantic Council
+,
+China's digital currency passes 100 bln yuan in spending - PBOC | Reuters
+.
+From BIS Innovation Summit 2023, panel entitled
+‘The process of technological innovation at central banks’
+.
+See
+Letter - SVB UK hearing (bankofengland.co.uk)
+.
+If yes, then a digital pound would only be launched in the second half of this decade at the earliest.
+Project Icebreaker: Breaking new paths in cross-border retail CBDC payments (bis.org)
+.
+Project Icebreaker: Breaking new paths in cross-border retail CBDC payments (bis.org)
+.
+Close
+If yes, then a digital pound would only be launched in the second half of this decade at the earliest.
+Close
+See
+Letter - SVB UK hearing (bankofengland.co.uk)
+.
+Close
+From BIS Innovation Summit 2023, panel entitled
+‘The process of technological innovation at central banks’
+.
+Close
+See
+A Report Card on China’s Central Bank Digital Currency: the e-CNY - Atlantic Council
+,
+China's digital currency passes 100 bln yuan in spending - PBOC | Reuters
+.
+Close
+See
+Keister and Sanchez (2022)
+.
+Close
+See
+Andolfatto (2021)
+and
+Chiu et. al. (2023)
+.
+Close
+See
+Infante, Kim, Orlik, Silva and Tetlow (2022)
+for an excellent review of the literature.
+Close
+See
+The potential effect of a central bank digital currency on deposit funding in Canada - Bank of Canada
+.
+Close
+See Section 3 in
+New forms of digital money | Bank of England
+.
+Close
+That said, one undesirable consequence could be that an unremunerated CBDC would actually increase the effective lower bound on interest rates as it would be more easily accessible than cash, which has a storage cost.
+Close
+See footnote 4 in
+The shape of things to come: innovation in payments and money − speech by Sir Jon Cunliffe | Bank of England
+for links to public statements made by Governor Andrew Bailey, Sir Jon Cunliffe (Deputy Governor for Financial Stability), and Sarah John (the Bank’s Chief Cashier).
+Close
+Direct comparisons across jurisdictions are limited by differences in classification and methodology. For available US estimates see report by
+Visual Capitalist
+based on analysis undertaken by
+S&P Global Market Intelligence
+.
+Close
+For example, see analysis presented in Chart 4.1 in the 2021 Discussion Paper on
+New forms of digital money | Bank of England
+which estimated that major UK banks hold £980bn of insured and £520bn of uninsured deposits (
+based on UK resident groups of major UK banks using data at end-2020).
+Close
+This backing is credible in jurisdictions with strong rule of law and macroeconomic fundamentals because governments demand that taxes be paid in the fiat money it issues.
+Close
+For an overview of the work needed across central banks, industry and public authorities to improve cross-border payments see
+Rowing in unison to enhance cross-border payments – speech by Victoria Cleland | Bank of England
+.
+Close
+Domestic payments are already fast and efficient in many jurisdictions, including the UK, but many cross-border payments are not. For further information on the frictions in cross-border payments and international work underway to tackle them, see
+Cross-border Payments - Financial Stability Board (fsb.org)
+.
+Close
+See
+Central Bank Digital Currency Tracker - Atlantic Council
+for ongoing status updates.
+Close
+Convert this page to PDF
+Carolyn A. Wilkins
+External member of the Financial Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

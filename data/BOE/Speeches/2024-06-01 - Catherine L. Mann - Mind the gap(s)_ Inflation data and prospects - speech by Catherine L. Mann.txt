@@ -1,0 +1,228 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Mind the gap(s): Inflation data and prospects - speech by Catherine L. Mann
+DATE: 01/06/2024
+SPEAKER: Catherine L. Mann
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/february/catherine-l-mann-speech-at-the-official-monetary-and-financial-institution
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Mind the gap(s): Inflation data and prospects - speech by Catherine L. Mann
+Given at the Official Monetary and Financial Institutions Forum
+Published on 
+
+ 08 February 2024
+Catherine L. Mann explains the analysis supporting her vote at the February Monetary Policy Committee meeting. She highlights how gaps in components of inflation might delay the return of inflation to target.
+Speech
+Introduction
+As presented in the recently published
+February 2024 Monetary Policy Report
+, consumption growth in the UK has been weak, market-sector output growth negative, and GDP flat over the last year. The latest data for headline inflation surprized to the downside relative to what we had expected in November. As a result, looking at the current forecast, inflation is at target by the end of the forecast horizon. From this vantage point, monetary policy is working, so patience is warranted, and a hold could have been my appropriate vote.
+But, in my assessment of the outlook, real household incomes continue to rise as inflation falls, consumer confidence has improved, indicators of services activity have come in strong, and forward-looking measures of output and employment paint a positive picture. The labor market is still relatively tight and is loosening only slowly. Financial conditions have eased substantially since September, when the MPC decided to hold Bank Rate at 5.25%, in part as markets now soon expect Bank Rate cuts. This constellation points to somewhat stronger, even if not
+strong
+, demand going forward. Against a backdrop of sluggish supply growth and possible upside shocks, I see risks of continued inflation momentum and embedded persistence. Inflation is the most pernicious of taxes, affecting all households, and those at lower incomes most severely.
+Considering both backward-looking outcomes and my forward-looking assessments and risks, I determined it was prudent to vote for another increase in Bank Rate. It was a finely balanced decision.
+In these remarks I will focus on the evidence on inflation persistence and prospects, with particular reference to historical experience. For this, I’ll frame my remarks around…minding the gap(s).
+Forensics on the incoming data as well as evaluating the inflation forecast reveals gaps that collectively point to both enduring persistence as well as upside risks to inflation, which makes achieving the inflation target sustainably and within the forecast horizon elusive. These gaps come from energy prices, the evolution of goods versus services inflation, and asymmetric behavior of firm pricing. It is important to take an active stance against these gaps persisting, and especially to push back when financial conditions have eased too much already.
+The energy price gap
+Inflation has come down very sharply and the most recent data in December surprized to the downside relative to expectations in the November MPR forecast. Should we take the direction of travel and magnitude of surprize as the key sign of continued rapid deceleration of inflation, erosion of inflation persistence, and absence of upside risks? I would argue not fully on any of these.
+One reason for the forecast error ‘gap’, that is comparing November’s inflation forecast to the actual data, is that the futures curve for energy prices, which is a key conditioning assumption in the MPC’s forecast, fell notably from November (
+Chart 1
+), particularly at the front end of the curve, which accentuated the forecast miss.
+Chart 1: UK wholesale gas and oil spot and futures prices
+Footnotes
+Source:
+February 2024 Monetary Policy Report
+.
+Notes: Oil prices are Brent crude, converted to sterling. Gas prices are Bloomberg UK NBP Natural Gas Forward Day price. Dashed lines refer to respective futures curves using one-month forward prices based on the 15-day average to 23 January 2024, while dotted lines are based on the 15-day average to 24 October 2023. The final data points refer to futures curves in March 2027.
+Another reason for the rapid deceleration in headline inflation is arithmetic. So-called ‘base effects’, arising in the calculation of year-on-year changes in CPI inflation, account for around 1 percentage point of the deceleration of year-on-year headline inflation in Q4 2023. That is, the calculation of annual price changes is heavily influenced by the unusually high level of energy prices one year ago, and thus does not present true “news” for the trajectory of inflation going forward. We can’t expect this arithmetic to flatter inflation in the medium-term. In fact, under the conditioning assumptions in the latest forecast, the drag from energy will remain a feature pushing down on headline inflation for 2024. But it is also expected to reverse in the second half of the forecast (
+Chart 2
+).
+Chart 2: CPI inflation and contributions from energy
+Footnotes
+Source:
+February 2024 Monetary Policy Report
+.
+Notes: Energy prices include fuels and lubricants, electricity, gas, and other fuels.
+The gap between headline and non-energy inflation rates (the aqua and orange lines respectively) shows how important direct energy dynamics have been and are in determining the inflation profile. In the February forecast, headline inflation dips to 2% in early 2024, but only briefly. Stripping out the energy contribution to CPI inflation shows a much slower deceleration. Without energy contributions, inflation in fact never reaches the 2% target within the next three years.
+Of course, we cannot know whether there will be further energy shocks over the next three years. But given the currently low energy price futures curve (low at least in the context of recent years) and geopolitical stresses, it is prudent to consider that the risk of a higher energy price is greater than that of a lower one.
+Therefore, my first point is: I am not convinced that the near-term deceleration in headline inflation will continue. I weigh more highly in my assessment the medium-term trajectory and particularly the distribution of potential risks to inflation going forward, in order to assess whether the drivers of deceleration I observe today can sustainably ensure low and stable inflation in the future.
+The cross-region comparison gap
+Over the past few years, UK inflation dynamics have been compared to both the US and those of the euro area (EA) with some people suggesting that the UK is just a “bit later” than its peers in returning inflation to target. A look at the data suggests to me that the “bit later” might be quite a while later.
+In order to evaluate this point, I am using 3-month-on-3-month changes in the CPI.
+footnote
+[1]
+I first spoke about the importance of looking at higher-frequency changes in inflation dynamics to identify
+“turning points”
+in the data, in my speech in Hungary almost exactly one year ago.
+Notice first the gap in the UK between headline and services inflation (
+Chart 3
+) after falling from their respective peaks. If anything, the gap is widening. Then, notice that this gap looks different for the US and especially for the EA. In the UK, services inflation is 3.3 percentage points above headline inflation, compared to 1.8 and 0.7 percentage points in the US and EA respectively.
+Chart 3: Headline and services price indices for UK, US, and EA
+3-month-on-3-month annualized percentage changes
+Footnotes
+Source: Office for National Statistics, Bureau of Economic Analysis, Eurostat and Bank calculations.
+Notes: 3-month-on-3-month annualized percentage changes were calculated using seasonally-adjusted CPI (using the X-12-ARIMA seasonal adjustment software developed by the
+United States Census Bureau
+). Latest data: December 2023.
+Why does this gap matter? It suggests further persistence in underlying drivers of services inflation (which do not appear as significant in the US or EA), such as wage pressures, but also firms' desired profit margins. Our Agents indicate that firms will try to pass though cost increases, particularly in consumer-facing services, albeit incompletely, and rebuild margins when cost pressures abate.
+footnote
+[2]
+The
+research
+using machine-learning methods to evaluate services prices, which I discussed in my
+September speech
+, shows the importance of these inertial factors for persistence in services price inflation. Since services are a large part of the consumption basket – almost 50% – if they persistently grow at higher than target-consistent rates, returning headline inflation sustainably back to the 2% target will be difficult.
+Which leads me to my next gap…
+The goods and services price inflation gap
+Beyond the dynamics of energy, and turning back to the UK, the evolution of goods and services prices is important for achieving the 2% target sustainably in the medium-term. While goods inflation has come down quickly, along with energy and other global goods prices, services inflation continues to be sticky. To help understand the current divergence of goods and services price inflation dynamics, it is useful to evaluate their historical relationship over a period when inflation did average about 2%. Between 1997 and 2019, services CPI inflation tended to run at around 3½% and core goods CPI inflation averaged -0.6% (dotted lines on
+Chart 4
+).
+footnote
+[3]
+I would call this a “target-consistent combination” of goods and services price inflation.
+Chart 4: Goods and services inflation
+Year-on-year percentage changes (left panel) and 3-month-on-3-month annualizedpercentage changes (right panel)
+Footnotes
+Source: Office for National Statistics and Bank calculations.
+Notes: Dotted lines represent 1997-2019 averages. 3-month-on-3-month annualized percentage changes were calculated using seasonally-adjusted CPI (using the X-12-ARIMA seasonal adjustment software developed by the
+United States Census Bureau
+). Latest data: December 2023.
+This chart was updated on 12 February 2024 to show core goods inflation excluding FNAB, energy and alcohol & tobacco. An earlier version of this chart showed other goods inflation, excluding only FNAB and energy.
+What does the gap look like now? In year-on-year terms, core goods price inflation
+footnote
+[4]
+slowed from 4.7% at the time of the November forecast (September data) to 3.1% in the last data release (December data). In fact, it was just below zero on a 3-month-on-3-month annualized basis (
+Chart 4
+). Goods price inflation was quick to rise and seems to be quick to fall back to historical averages. In contrast to this volatility in core goods inflation, services inflation was slow to rise, and has been elevated at around 6% (year-on-year) for the past 18 months. Services price inflation has only slowed to somewhat above 4% on the higher-frequency measure.
+Will this rapid decline in core goods price inflation combined with very sluggish adjustment in services price inflation yield a target-consistent overall rate over the medium-term? Prospects for the persistence of overall inflation depend on how the gap between goods and services inflation evolves and whether these series are returning to their historical relationship. Firm surveys and CPI microdata help in this assessment.
+Evidence from firms’ pricing plans
+The
+Decision Maker Panel
+(DMP) surveys firms on their own price realizations and prospects for prices one-year ahead, in the goods and services sectors respectively. Mapping these surveys to services and goods CPI inflation shows a quite close relationship to services, albeit less convincing for goods (
+Chart 5
+).
+footnote
+[5]
+The historical DMP data prior to Covid and the energy shock show a pattern of price realizations for goods and services prices that are consistent with the 2% inflation target over that time period. A return to this pattern is one possible combination of goods and services inflation going forward that could be plausibly consistent with the 2% objective. There are other combinations too, but is the combination in the firm’s expected prices target-consistent?
+Chart 5: Firms’ own-price growth among goods and services sectors and CPIinflation
+3-month moving average
+Footnotes
+Source:
+Decision Maker Panel
+.
+Notes: The series are based on the questions: ‘Looking back, from 12 months ago to now, what was the approximate % change in the average price you charge, considering all products and services?’ and ‘Looking ahead, 12 months from now, what approximate % change in your average price would you expect in each of the following scenarios: lowest, low, middle, high, highest’. For the last question, respondents were then asked to assign a probability to each scenario. A point estimate is constructed by combining the five scenarios with the probabilities attached to them. The diamonds represent a 3-month average of 1-year ahead own-price expectations.
+The DMP firms’ expected prices for next year (diamond markers in
+Chart 5
+) show that firms’ own price inflation is expected to slow over the next year in both goods and services. Taking these expectations at face-value, even with the gap between goods and services price expectations narrowing, these inflation rates are yet inconsistent with target-consistent rates of headline inflation looking through the DMP data lens.
+Continuing the theme of looking ahead on firms’ expectations, what do they tell us about their pricing behavior relative to their competitors? Research using firm-level data on firms’ expectations about inflation shows a positive link between firms’ prices and their own price expectations, as well as expectations about their competitors’ pricing. When a firm expects its competitors to raise prices faster than it intended to, it will typically adjust its prices faster upwards to match its competitors (orange diamond on left-hand side of
+Chart 6
+). The same is not true when expected own-price inflation is below expected industry price inflation. In that case, the firm’s own price expectations still matter (aqua diamonds in
+Chart 6
+) for realized price growth, but there is no statistically discernible change in behavior stemming from expected industry inflation (orange diamond on right-hand side of
+Chart 6
+).
+Chart 6: Effects of firms’ own-price growth expectations on realized price growth
+Footnotes
+Source: Griffa and Potjagailo (mimeo).
+Notes: Authors use firm-level survey data from the Confederation of British Industry. Regressions estimate the link between firms’ own-price inflation and their expectations of own and competitors’ price inflation as in Boneva et al. (2020), lagged reported price growth (“backward-lookingness”), and average wage costs (proxy for marginal costs), controlling for time-industry and firm fixed effects. Aqua diamonds represent regression coefficients of own-price inflation expectations, orange diamonds represent coefficients of a dummy parameter specifying a case where the firm’s expectation about change in its competitors’ prices is greater or smaller than the firm’s expectations about its own price change. Shaded areas represent the 95% confidence interval. The regression is estimated over a sample period
+2009Q1-2022Q2.
+These results suggest that price rises propagate more strongly across firms than price decreases, since firms are more inclined to catch up with their competitors when they expect the entire industry to raise prices. However, we cannot expect the same to happen on the flipside – firms do not “catch down”. Thinking about what this means for aggregate inflation: this kind of asymmetric pricing behavior adds to persistence and may even yield an upward bias to inflation.
+Evidence from consumer price microdata
+Granular data provide important new insights into underlying drivers and dynamics influencing macroeconomic inflation behavior.
+Microdata
+on the components of the consumer price index, published by the ONS, provide detailed price data at the item level, for around 700 item categories that underly the construction of the CPI.
+Brandt, Burr and Gado (2024)
+document that at the micro level, most prices do not change month-on-month. For goods, around 80% on average do not change and for services, the share of stable prices is more than 90%. So monthly inflation dynamics come from the quite small share of price changes that do take place. Extending this analysis, and as shown in
+Chart 7
+, there is a notable gap between the shares of price changes for goods (left panel) and services (right panel). These gaps between price changes and price holds have changed significantly during the last two years. Examining the gaps gives insights on prospects for inflation to return to the patterns associated with achieving the 2% target.
+Chart 7: Decomposition of price movements month-on-month
+Footnotes
+Source:
+Brandt, Burr and Gado (2024)
+and Bank calculations.
+Notes: The share of prices rising and falling reflect month-on-month changes. Shares are seasonally adjusted using the R package
+seasonal
+. The effects of UK VAT changes have been smoothed. The grey shaded area covers the time between March 2020 and July 2021 when the economy (and data collection) was most affected by the Covid pandemic. Dotted lines show the 2011–19 averages. Latest observation: December 2023.
+What has happened in the microdata for goods since inflation started to slow? The share of goods price increases has fallen from 20% month-on-month to 10%, in line with the historical pattern. The share of price decreases has risen, but only a very little, and currently sits at the 10% consistent with the historical experience. So, the deceleration of goods price inflation comes from a return to normality for month-on-month price increases. So far so good.
+Services prices behave quite differently from goods. In the past, about 5% of services prices increased each month, whereas prices hardly ever fell. As inflation started to surge, there was a doubling to 10% in the share of services prices increasing month-on-month that persisted for more than two years. In the recent month’s data, in December, about 7% of services prices increased on the month. This is a welcome change and adds to the slow downward trend over the last 5 consecutive months. But the share of price increases remains above the pre-Covid share and is thus not back to the pattern of services price increases which, along with the goods price dynamics, did yield 2% inflation.
+Gaps in the
+disaggregated
+inflation forecasts
+Finally, widening the lens to what all this implies for our forecast. Bank staff have produced a wide range of research providing cross-checks to our modal forecast, I highlighted a few in
+my speech in September
+. Another such example is a Bayesian VAR model which Bank staff have developed and that is designed to produce projections for major CPI components such as services and goods inflation rates, inflation expectations, and wage growth that are consistent with the main MPR forecast. The objective of this apparatus is to extract more disaggregated signals from the historical data and to evaluate the risks of above-target inflation persisting. As a reduced-form VAR, it does not impose any structure on the underlying shocks causing changes in variables of interest, as is the case in the MPC’s forecast for instance.
+footnote
+[6]
+Chart 8
+shows the BVAR-implied forecast for services and core goods inflation, conditional on the MPC’s forecast published in its February Report. In other words, it shows the model-implied paths for services (left panel), and core goods (right panel), that are consistent with the MPC’s forecast for headline inflation and activity. The model suggests that in order to explain the headline forecast, services price inflation will need to experience a steep deceleration in the first half of 2024, before falling more gradually over the remainder of the forecast. The corresponding profile for price inflation in core goods falls rapidly over the first half of 2024 before rebounding temporarily with base effects and then settling just under zero – around its sample average – for the second half of the forecast.
+Chart 8: Forecasts for CPI services and CPI core goods inflation
+Footnotes
+Source: Bank calculations.
+Notes: The left-hand panel shows annual inflation in CPI services, while that on the right shows the same for CPI core goods. The blue swathes depict 68% and 90% credible sets around MPC-consistent projections. The BVAR model is estimated on quarterly data from 1997 to 2019. Horizontal grey dotted lines show sample means and may not correspond to long-term trends in the future.
+In the context of the evidence presented in this speech so far, the pathway to goods price inflation at historical average is plausible in the CPI microdata, and nearly so for the DMP expected prices. For services, however, neither the DMP expected prices nor the CPI microdata would appear to be on track to follow such a quick pathway to target-consistent rates.
+There also is the question of the benchmark historical trend of zero for core goods and
+3 ½% for services associated with 2% headline inflation. This return-to-trend is an implicit assumption in the specification of this BVAR apparatus. That is, once any shocks have washed out, core goods and services eventually return to their sample mean. I highlighted in my
+September speech
+the importance of structural change in estimation results. In particular, staff research found that the sample over which the model was estimated matters for the inflation paths generated. In other words, the importance of a time-varying inflation trend for short-term inflation dynamics in forecasts should not be underestimated.
+Taken together, the previous discussions of the goods and services CPI data; the CPI microdata, and econometric models all use as a benchmark for normality a return to their historical relationships: to be target-consistent, core goods inflation needs to be zero and services inflation needs to be about 3½% (these benchmarks are a bit different in the DMP survey data, and the CPI microdata express normality in terms of shares of prices adjusting each month). Is it reasonable to use these historical gaps as a lens for considering target-consistent growth rates of prices over the forecast horizon? Could the long-term trend inflation rates of the components associated with the 2% target have changed?
+In thinking about risks to achieving the 2% target in the medium-term, an important question is whether near-flat or falling core goods prices are probable in the medium-term. Quite possibly not, as Brexit frictions continue to play a role and global supply chains are being reconfigured. And, the zero historical average for core goods price inflation was importantly influenced by trade liberalization in the first two decades of the century.
+More immediately, upside risk to shipping and insurance costs associated with the
+Red Sea turmoil may affect near-term inflation outcomes and be magnified through
+firm-level price setting behaviors, which would augment persistence. I worry that such an upward inflation shock coming on the heels of the recent high inflation environment will be more swiftly incorporated into firms’ costs and prices, exacerbating upside momentum, which is slow to dissipate when the inflation shock subsides.
+If core goods prices are not likely to trend around zero, then services prices will have to decelerate further than to 3½% in order to achieve the 2% target sustainably in the medium-term. And, the stickiness of services inflation so far suggests a long process of deceleration to even the historical trend.
+Conclusion
+My vote last week was based on the constellation of prospects for rising real incomes, continued labor market tightness, and positive forward-looking indicators of activity. Plus, financial conditions had eased too much already, with numerous Bank Rate cuts embodied in the market curve and mortgage competition reducing those rates.
+Headline inflation is close to, but not yet at our target. It is my job to ensure that 2% inflation is achieved sustainably. My assessment is that the dynamics of headline inflation is not a good guide to prospects in the medium-term on account of direct energy price dynamics. Digging deeper, my assessment of medium-term inflation prospects has been importantly informed by the gaps between goods and services inflation and the range of data and research that calls into question how quickly, despite recent deceleration, these categories will return to and be sustained at the patterns that are consistent with the 2% target. The historical trends also are at risk from structural changes, especially from globalization forces and a systematically tighter labor market. Finally, I am concerned about evidence of upward bias by firms when they set their prices and how that might interact with upside risks to inflation from energy shocks.
+My decision was not easy. But, considering the gaps and the risks, I judged that an increase in Bank Rate of 25 basis points was necessary to keep inflation decelerating in a durable way towards the 2% target and stay there.
+The views expressed in this speech are not necessarily those of the Bank of England or the Monetary Policy Committee.
+Acknowledgments
+I would like to thank in particular Lennart Brandt and Natalie Burr, as well as Andrew Bailey, John Barrdear, Davide Brignone, Krisztian Gado, Cristina Griffa, Jonathan Haskel, Derrick Kanngiesser, Sami Khan, Josh Martin, Galina Potjagailo, Julian Reynolds, Martin Seneca and Carleton Webb for their comments and help with data and analysis.
+I am using 3-month-on-3-month changes in inflation given what I have just argued about potentially misleading effects of energy contributions to headline inflation due to base effects. These annualized inflation rates are what the annual, year-on-year inflation rate would be if price changes between these three month-periods were to compound for a whole year.
+See Box D in the
+February 2024 Monetary Policy Report
+.
+The averages differ when splitting the sample into pre- and post-financial crisis samples. Pre-2007, core goods and services price inflation averaged -2.0% and 3.7% respectively, compared to 0.6% and 2.9% between 2011 and 2019.
+To avoid considering the potentially distorting signals from energy and other volatile components of the basket, I focus here on core goods inflation.
+Differences in the profile for goods is mostly related to differences in the weighting of energy in the CPI consumption basket and the weighting of energy firms in the DMP survey.
+Strictly speaking, it implicitly assumes that conditioning paths are driven by a combination of structural shocks weighted in proportion to their average importance historically.
+Strictly speaking, it implicitly assumes that conditioning paths are driven by a combination of structural shocks weighted in proportion to their average importance historically.
+Close
+Differences in the profile for goods is mostly related to differences in the weighting of energy in the CPI consumption basket and the weighting of energy firms in the DMP survey.
+Close
+To avoid considering the potentially distorting signals from energy and other volatile components of the basket, I focus here on core goods inflation.
+Close
+The averages differ when splitting the sample into pre- and post-financial crisis samples. Pre-2007, core goods and services price inflation averaged -2.0% and 3.7% respectively, compared to 0.6% and 2.9% between 2011 and 2019.
+Close
+See Box D in the
+February 2024 Monetary Policy Report
+.
+Close
+I am using 3-month-on-3-month changes in inflation given what I have just argued about potentially misleading effects of energy contributions to headline inflation due to base effects. These annualized inflation rates are what the annual, year-on-year inflation rate would be if price changes between these three
+month-periods were to compound for a whole year.
+Close
+Convert this page to PDF
+Catherine L Mann
+External member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

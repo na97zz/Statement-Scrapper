@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Opening Remarks at the First Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency",
+  "date_original": "2021-03-26",
+  "date_au": "26/03/2021",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210326a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-03-26 - UCHIDA Shinichi - Opening Remarks at the First Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-03-26 - UCHIDA Shinichi - Opening Remarks at the First Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "35e72e17f8a94fbd9e8f20dd5fa7969a71c99f9f96e4dbe683b977c7f56af06f"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "From market neutrality to market efficiency",
+  "date_original": "2021-06-14",
+  "date_au": "14/06/2021",
+  "datetime_original": "",
+  "speaker": "Welcome address by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210614~162bd7c253.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-06-14 - Welcome address by Isabel Schnabel - From market neutrality to market efficiency.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-06-14 - Welcome address by Isabel Schnabel - From market neutrality to market efficiency.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "71ad48f8a244dc2486beb00b241e5a85ef74eaa522c0c11d7f8367eec9aa9f2a"
+}

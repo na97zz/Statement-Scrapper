@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Statement by Governor Michelle W. Bowman",
+  "date_original": "2024-09-20",
+  "date_au": "20/09/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240920a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-20 - Michelle W. Bowman - Statement by Governor Michelle W. Bowman.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-20 - Michelle W. Bowman - Statement by Governor Michelle W. Bowman.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "30e4389c807cc49bf990f5315e81aa4aa13268c67a389df8c4e70376bc2f9811"
+}

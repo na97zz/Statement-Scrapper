@@ -1,0 +1,282 @@
+meeting_id,bank,meeting_date,year,month,anchor_doc_id,anchor_title,anchor_text_file,next_meeting_date,meeting_window_start,meeting_window_end
+BOC_2024_06_A,BOC,2024-06-05,2024,6,DOC_F1EAD218ED7F,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2024-06-05 - Bank of Canada Interest Rate Announcement.txt,2024-06-07,2024-06-05,2024-06-06
+BOC_2024_06_B,BOC,2024-06-07,2024,6,DOC_DDE4C277C3C8,Monetary Policy Report,data\BOC\Monetary Policy\2024-06-07 - Monetary Policy Report.txt,2024-09-04,2024-06-07,2024-09-03
+BOC_2024_09,BOC,2024-09-04,2024,9,DOC_01B6D5B757F1,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2024-09-04 - Bank of Canada Interest Rate Announcement.txt,2024-10-23,2024-09-04,2024-10-22
+BOC_2024_10,BOC,2024-10-23,2024,10,DOC_BFFB7A606DCD,Monetary Policy Report,data\BOC\Monetary Policy\2024-10-23 - Monetary Policy Report.txt,2024-12-11,2024-10-23,2024-12-10
+BOC_2024_12,BOC,2024-12-11,2024,12,DOC_E3C08C98EC76,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2024-12-11 - Bank of Canada Interest Rate Announcement.txt,2025-01-29,2024-12-11,2025-01-28
+BOC_2025_01,BOC,2025-01-29,2025,1,DOC_2228339F66ED,Monetary Policy Report,data\BOC\Monetary Policy\2025-01-29 - Monetary Policy Report.txt,2025-03-12,2025-01-29,2025-03-11
+BOC_2025_03,BOC,2025-03-12,2025,3,DOC_779D85D625B8,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2025-03-12 - Bank of Canada Interest Rate Announcement.txt,2025-04-16,2025-03-12,2025-04-15
+BOC_2025_04,BOC,2025-04-16,2025,4,DOC_0991EB1A9864,Monetary Policy Report,data\BOC\Monetary Policy\2025-04-16 - Monetary Policy Report.txt,2025-06-04,2025-04-16,2025-06-03
+BOC_2025_06,BOC,2025-06-04,2025,6,DOC_CC9B4BF65709,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2025-06-04 - Bank of Canada Interest Rate Announcement.txt,2025-07-30,2025-06-04,2025-07-29
+BOC_2025_07,BOC,2025-07-30,2025,7,DOC_E0C2D118ACCD,Monetary Policy Report,data\BOC\Monetary Policy\2025-07-30 - Monetary Policy Report.txt,2025-09-17,2025-07-30,2025-09-16
+BOC_2025_09,BOC,2025-09-17,2025,9,DOC_9557ADF0277D,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2025-09-17 - Bank of Canada Interest Rate Announcement.txt,2025-10-29,2025-09-17,2025-10-28
+BOC_2025_10,BOC,2025-10-29,2025,10,DOC_DFF43FF2E3B8,Monetary Policy Report,data\BOC\Monetary Policy\2025-10-29 - Monetary Policy Report.txt,2025-12-10,2025-10-29,2025-12-09
+BOC_2025_12_A,BOC,2025-12-10,2025,12,DOC_58B67E58A9A5,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2025-12-10 - Bank of Canada Interest Rate Announcement.txt,2025-12-10,2025-12-10,2025-12-09
+BOC_2025_12_B,BOC,2025-12-10,2025,12,DOC_847F032FCF63,Interest Rate Announcement,data\BOC\Monetary Policy\2025-12-10 - Interest Rate Announcement.txt,2026-01-28,2025-12-10,2026-01-27
+BOC_2026_01_A,BOC,2026-01-28,2026,1,DOC_5BBB43FAC9EC,Interest Rate Announcement and Monetary Policy Report,data\BOC\Monetary Policy\2026-01-28 - Interest Rate Announcement and Monetary Policy Report.txt,2026-01-28,2026-01-28,2026-01-27
+BOC_2026_01_B,BOC,2026-01-28,2026,1,DOC_374B2DED440C,Monetary Policy Report,data\BOC\Monetary Policy\2026-01-28 - Monetary Policy Report.txt,2026-03-18,2026-01-28,2026-03-17
+BOC_2026_03_A,BOC,2026-03-18,2026,3,DOC_C78A323CFD04,Bank of Canada Interest Rate Announcement,data\BOC\Monetary Policy\2026-03-18 - Bank of Canada Interest Rate Announcement.txt,2026-03-18,2026-03-18,2026-03-17
+BOC_2026_03_B,BOC,2026-03-18,2026,3,DOC_55713EF8FE92,Interest Rate Announcement,data\BOC\Monetary Policy\2026-03-18 - Interest Rate Announcement.txt,2026-04-29,2026-03-18,2026-04-28
+BOC_2026_04_A,BOC,2026-04-29,2026,4,DOC_02A8DFA9C4A8,Interest Rate Announcement and Monetary Policy Report,data\BOC\Monetary Policy\2026-04-29 - Interest Rate Announcement and Monetary Policy Report.txt,2026-04-29,2026-04-29,2026-04-28
+BOC_2026_04_B,BOC,2026-04-29,2026,4,DOC_E735138C9D8A,Monetary Policy Report,data\BOC\Monetary Policy\2026-04-29 - Monetary Policy Report.txt,2026-04-29,2026-04-29,2026-04-28
+BOC_2026_04_C,BOC,2026-04-29,2026,4,DOC_9BF697388A5F,Monetary Policy Report—April 2026,data\BOC\Monetary Policy\2026-04-29 - Monetary Policy Report—April 2026.txt,,2026-04-29,2026-06-13
+BOE_2021_06_A,BOE,2021-06-01,2021,6,DOC_E70CD84B1976,Monetary Policy Report - August 2021,data\BOE\Monetary Policy\2021-06-01 - Monetary Policy Report - August 2021.txt,2021-06-01,2021-06-01,2021-05-31
+BOE_2021_06_B,BOE,2021-06-01,2021,6,DOC_5284249B44B9,Monetary Policy Report - February 2021,data\BOE\Monetary Policy\2021-06-01 - Monetary Policy Report - February 2021.txt,2021-06-01,2021-06-01,2021-05-31
+BOE_2021_06_C,BOE,2021-06-01,2021,6,DOC_B8CEB039FD93,Monetary Policy Report - May 2021,data\BOE\Monetary Policy\2021-06-01 - Monetary Policy Report - May 2021.txt,2021-06-01,2021-06-01,2021-05-31
+BOE_2021_06_D,BOE,2021-06-01,2021,6,DOC_58740ADFFA25,Monetary Policy Report - November 2021,data\BOE\Monetary Policy\2021-06-01 - Monetary Policy Report - November 2021.txt,2022-06-01,2021-06-01,2022-05-31
+BOE_2022_06_A,BOE,2022-06-01,2022,6,DOC_559C176C2AB6,Monetary Policy Report - August 2022,data\BOE\Monetary Policy\2022-06-01 - Monetary Policy Report - August 2022.txt,2022-06-01,2022-06-01,2022-05-31
+BOE_2022_06_B,BOE,2022-06-01,2022,6,DOC_37C6AD0A061C,Monetary Policy Report - February 2022,data\BOE\Monetary Policy\2022-06-01 - Monetary Policy Report - February 2022.txt,2022-06-01,2022-06-01,2022-05-31
+BOE_2022_06_C,BOE,2022-06-01,2022,6,DOC_0CE4F50B3860,Monetary Policy Report - May 2022,data\BOE\Monetary Policy\2022-06-01 - Monetary Policy Report - May 2022.txt,2022-06-01,2022-06-01,2022-05-31
+BOE_2022_06_D,BOE,2022-06-01,2022,6,DOC_9652B33D7643,Monetary Policy Report - November 2022,data\BOE\Monetary Policy\2022-06-01 - Monetary Policy Report - November 2022.txt,2023-06-01,2022-06-01,2023-05-31
+BOE_2023_06_A,BOE,2023-06-01,2023,6,DOC_1BEADDFB6324,Monetary Policy Report - August 2023,data\BOE\Monetary Policy\2023-06-01 - Monetary Policy Report - August 2023.txt,2023-06-01,2023-06-01,2023-05-31
+BOE_2023_06_B,BOE,2023-06-01,2023,6,DOC_C9880DD6A6ED,Monetary Policy Report - February 2023,data\BOE\Monetary Policy\2023-06-01 - Monetary Policy Report - February 2023.txt,2023-06-01,2023-06-01,2023-05-31
+BOE_2023_06_C,BOE,2023-06-01,2023,6,DOC_A31277180804,Monetary Policy Report - May 2023,data\BOE\Monetary Policy\2023-06-01 - Monetary Policy Report - May 2023.txt,2023-06-01,2023-06-01,2023-05-31
+BOE_2023_06_D,BOE,2023-06-01,2023,6,DOC_3D5471F8542D,Monetary Policy Report - November 2023,data\BOE\Monetary Policy\2023-06-01 - Monetary Policy Report - November 2023.txt,2024-06-01,2023-06-01,2024-05-31
+BOE_2024_06_A,BOE,2024-06-01,2024,6,DOC_A3F608AA9809,Monetary Policy Report - August 2024,data\BOE\Monetary Policy\2024-06-01 - Monetary Policy Report - August 2024.txt,2024-06-01,2024-06-01,2024-05-31
+BOE_2024_06_B,BOE,2024-06-01,2024,6,DOC_0E92B2C7AA06,Monetary Policy Report - February 2024,data\BOE\Monetary Policy\2024-06-01 - Monetary Policy Report - February 2024.txt,2024-06-01,2024-06-01,2024-05-31
+BOE_2024_06_C,BOE,2024-06-01,2024,6,DOC_D1640C68A179,Monetary Policy Report - May 2024,data\BOE\Monetary Policy\2024-06-01 - Monetary Policy Report - May 2024.txt,2024-06-01,2024-06-01,2024-05-31
+BOE_2024_06_D,BOE,2024-06-01,2024,6,DOC_DDB9454E5AF6,Monetary Policy Report - November 2024,data\BOE\Monetary Policy\2024-06-01 - Monetary Policy Report - November 2024.txt,2025-06-01,2024-06-01,2025-05-31
+BOE_2025_06_A,BOE,2025-06-01,2025,6,DOC_9C89C4ACCFFF,Monetary Policy Report - August 2025,data\BOE\Monetary Policy\2025-06-01 - Monetary Policy Report - August 2025.txt,2025-06-01,2025-06-01,2025-05-31
+BOE_2025_06_B,BOE,2025-06-01,2025,6,DOC_643898D84C7C,Monetary Policy Report - February 2025,data\BOE\Monetary Policy\2025-06-01 - Monetary Policy Report - February 2025.txt,2025-06-01,2025-06-01,2025-05-31
+BOE_2025_06_C,BOE,2025-06-01,2025,6,DOC_D3EAC3BB3BE5,Monetary Policy Report - May 2025,data\BOE\Monetary Policy\2025-06-01 - Monetary Policy Report - May 2025.txt,2025-06-01,2025-06-01,2025-05-31
+BOE_2025_06_D,BOE,2025-06-01,2025,6,DOC_9CE70AC2A23C,Monetary Policy Report - November 2025,data\BOE\Monetary Policy\2025-06-01 - Monetary Policy Report - November 2025.txt,2026-06-01,2025-06-01,2026-05-31
+BOE_2026_06_A,BOE,2026-06-01,2026,6,DOC_5B23170272EC,Monetary Policy Report - April 2026,data\BOE\Monetary Policy\2026-06-01 - Monetary Policy Report - April 2026.txt,2026-06-01,2026-06-01,2026-05-31
+BOE_2026_06_B,BOE,2026-06-01,2026,6,DOC_8D662D2D46B1,Monetary Policy Report - February 2026,data\BOE\Monetary Policy\2026-06-01 - Monetary Policy Report - February 2026.txt,,2026-06-01,2026-07-16
+BOJ_2026_01,BOJ,2026-01-23,2026,1,DOC_D626A0DF25A3,Statement on Monetary Policy [PDF 171KB],data\BOJ\Monetary Policy\2026-01-23 - Statement on Monetary Policy [PDF 171KB].txt,2026-03-19,2026-01-23,2026-03-18
+BOJ_2026_03,BOJ,2026-03-19,2026,3,DOC_C9CF6C08F3CA,Statement on Monetary Policy [PDF 134KB],data\BOJ\Monetary Policy\2026-03-19 - Statement on Monetary Policy [PDF 134KB].txt,2026-04-28,2026-03-19,2026-04-27
+BOJ_2026_04,BOJ,2026-04-28,2026,4,DOC_FDB6D2AC0B8E,Statement on Monetary Policy [PDF 92KB],data\BOJ\Monetary Policy\2026-04-28 - Statement on Monetary Policy [PDF 92KB].txt,,2026-04-28,2026-06-12
+ECB_2021_01,ECB,2021-01-21,2021,1,DOC_DC59BC94B47C,Monetary policy decisions,data\ECB\Monetary Policy\2021-01-21 - Monetary policy decisions.txt,2021-03-11,2021-01-21,2021-03-10
+ECB_2021_03,ECB,2021-03-11,2021,3,DOC_B8E1D0741044,Monetary policy decisions,data\ECB\Monetary Policy\2021-03-11 - Monetary policy decisions.txt,2021-04-22,2021-03-11,2021-04-21
+ECB_2021_04,ECB,2021-04-22,2021,4,DOC_7631561D0A30,Monetary policy decisions,data\ECB\Monetary Policy\2021-04-22 - Monetary policy decisions.txt,2021-06-10,2021-04-22,2021-06-09
+ECB_2021_06,ECB,2021-06-10,2021,6,DOC_BCB102E507F0,Monetary policy decisions,data\ECB\Monetary Policy\2021-06-10 - Monetary policy decisions.txt,2021-07-22,2021-06-10,2021-07-21
+ECB_2021_07,ECB,2021-07-22,2021,7,DOC_516FC908994F,Monetary policy decisions,data\ECB\Monetary Policy\2021-07-22 - Monetary policy decisions.txt,2021-09-09,2021-07-22,2021-09-08
+ECB_2021_09,ECB,2021-09-09,2021,9,DOC_E5FDF02F015F,Monetary policy decisions,data\ECB\Monetary Policy\2021-09-09 - Monetary policy decisions.txt,2021-10-28,2021-09-09,2021-10-27
+ECB_2021_10,ECB,2021-10-28,2021,10,DOC_6E4DD137ACBF,Monetary policy decisions,data\ECB\Monetary Policy\2021-10-28 - Monetary policy decisions.txt,2021-12-16,2021-10-28,2021-12-15
+ECB_2021_12,ECB,2021-12-16,2021,12,DOC_D3FEC5B8811D,Monetary policy decisions,data\ECB\Monetary Policy\2021-12-16 - Monetary policy decisions.txt,2022-02-03,2021-12-16,2022-02-02
+ECB_2022_02,ECB,2022-02-03,2022,2,DOC_CC8AB2A3A406,Monetary policy decisions,data\ECB\Monetary Policy\2022-02-03 - Monetary policy decisions.txt,2022-03-10,2022-02-03,2022-03-09
+ECB_2022_03,ECB,2022-03-10,2022,3,DOC_AC44E6777D5B,Monetary policy decisions,data\ECB\Monetary Policy\2022-03-10 - Monetary policy decisions.txt,2022-04-14,2022-03-10,2022-04-13
+ECB_2022_04,ECB,2022-04-14,2022,4,DOC_DADE39041E8E,Monetary policy decisions,data\ECB\Monetary Policy\2022-04-14 - Monetary policy decisions.txt,2022-06-09,2022-04-14,2022-06-08
+ECB_2022_06,ECB,2022-06-09,2022,6,DOC_BA2C2B2993E3,Monetary policy decisions,data\ECB\Monetary Policy\2022-06-09 - Monetary policy decisions.txt,2022-07-21,2022-06-09,2022-07-20
+ECB_2022_07,ECB,2022-07-21,2022,7,DOC_65076AA9A6D3,Monetary policy decisions,data\ECB\Monetary Policy\2022-07-21 - Monetary policy decisions.txt,2022-09-08,2022-07-21,2022-09-07
+ECB_2022_09,ECB,2022-09-08,2022,9,DOC_6A5DED1097C7,Monetary policy decisions,data\ECB\Monetary Policy\2022-09-08 - Monetary policy decisions.txt,2022-10-27,2022-09-08,2022-10-26
+ECB_2022_10,ECB,2022-10-27,2022,10,DOC_6A8FE960C5AE,Monetary policy decisions,data\ECB\Monetary Policy\2022-10-27 - Monetary policy decisions.txt,2022-12-15,2022-10-27,2022-12-14
+ECB_2022_12,ECB,2022-12-15,2022,12,DOC_81FE69806C33,Monetary policy decisions,data\ECB\Monetary Policy\2022-12-15 - Monetary policy decisions.txt,2023-02-02,2022-12-15,2023-02-01
+ECB_2023_02,ECB,2023-02-02,2023,2,DOC_2A03BDE6EAA9,Monetary policy decisions,data\ECB\Monetary Policy\2023-02-02 - Monetary policy decisions.txt,2023-03-16,2023-02-02,2023-03-15
+ECB_2023_03,ECB,2023-03-16,2023,3,DOC_29AE3F7765C9,Monetary policy decisions,data\ECB\Monetary Policy\2023-03-16 - Monetary policy decisions.txt,2023-05-04,2023-03-16,2023-05-03
+ECB_2023_05,ECB,2023-05-04,2023,5,DOC_2121768F933D,Monetary policy decisions,data\ECB\Monetary Policy\2023-05-04 - Monetary policy decisions.txt,2023-06-15,2023-05-04,2023-06-14
+ECB_2023_06,ECB,2023-06-15,2023,6,DOC_101076A0C836,Monetary policy decisions,data\ECB\Monetary Policy\2023-06-15 - Monetary policy decisions.txt,2023-07-27,2023-06-15,2023-07-26
+ECB_2023_07,ECB,2023-07-27,2023,7,DOC_2997ECBF7E6F,Monetary policy decisions,data\ECB\Monetary Policy\2023-07-27 - Monetary policy decisions.txt,2023-09-14,2023-07-27,2023-09-13
+ECB_2023_09,ECB,2023-09-14,2023,9,DOC_3FF482C0E1E2,Monetary policy decisions,data\ECB\Monetary Policy\2023-09-14 - Monetary policy decisions.txt,2023-10-26,2023-09-14,2023-10-25
+ECB_2023_10,ECB,2023-10-26,2023,10,DOC_80B337156D7D,Monetary policy decisions,data\ECB\Monetary Policy\2023-10-26 - Monetary policy decisions.txt,2023-12-14,2023-10-26,2023-12-13
+ECB_2023_12,ECB,2023-12-14,2023,12,DOC_A8A3C0031B27,Monetary policy decisions,data\ECB\Monetary Policy\2023-12-14 - Monetary policy decisions.txt,2024-01-25,2023-12-14,2024-01-24
+ECB_2024_01,ECB,2024-01-25,2024,1,DOC_2884570B22F8,Monetary policy decisions,data\ECB\Monetary Policy\2024-01-25 - Monetary policy decisions.txt,2024-03-07,2024-01-25,2024-03-06
+ECB_2024_03,ECB,2024-03-07,2024,3,DOC_FAC850E3A92A,Monetary policy decisions,data\ECB\Monetary Policy\2024-03-07 - Monetary policy decisions.txt,2024-04-11,2024-03-07,2024-04-10
+ECB_2024_04,ECB,2024-04-11,2024,4,DOC_1B56A15377AB,Monetary policy decisions,data\ECB\Monetary Policy\2024-04-11 - Monetary policy decisions.txt,2024-06-06,2024-04-11,2024-06-05
+ECB_2024_06,ECB,2024-06-06,2024,6,DOC_22244984411A,Monetary policy decisions,data\ECB\Monetary Policy\2024-06-06 - Monetary policy decisions.txt,2024-07-18,2024-06-06,2024-07-17
+ECB_2024_07,ECB,2024-07-18,2024,7,DOC_4F7B2D767C99,Monetary policy decisions,data\ECB\Monetary Policy\2024-07-18 - Monetary policy decisions.txt,2024-09-12,2024-07-18,2024-09-11
+ECB_2024_09,ECB,2024-09-12,2024,9,DOC_5C6BBCC5E80E,Monetary policy decisions,data\ECB\Monetary Policy\2024-09-12 - Monetary policy decisions.txt,2024-10-17,2024-09-12,2024-10-16
+ECB_2024_10,ECB,2024-10-17,2024,10,DOC_3A80C3D4AC3A,Monetary policy decisions,data\ECB\Monetary Policy\2024-10-17 - Monetary policy decisions.txt,2024-12-12,2024-10-17,2024-12-11
+ECB_2024_12,ECB,2024-12-12,2024,12,DOC_C937A507C20A,Monetary policy decisions,data\ECB\Monetary Policy\2024-12-12 - Monetary policy decisions.txt,2025-01-30,2024-12-12,2025-01-29
+ECB_2025_01,ECB,2025-01-30,2025,1,DOC_49A0B89A5BD6,Monetary policy decisions,data\ECB\Monetary Policy\2025-01-30 - Monetary policy decisions.txt,2025-03-06,2025-01-30,2025-03-05
+ECB_2025_03,ECB,2025-03-06,2025,3,DOC_050E9F4EBAB4,Monetary policy decisions,data\ECB\Monetary Policy\2025-03-06 - Monetary policy decisions.txt,2025-04-17,2025-03-06,2025-04-16
+ECB_2025_04,ECB,2025-04-17,2025,4,DOC_AB080929FD2C,Monetary policy decisions,data\ECB\Monetary Policy\2025-04-17 - Monetary policy decisions.txt,2025-06-05,2025-04-17,2025-06-04
+ECB_2025_06,ECB,2025-06-05,2025,6,DOC_ACEB876DE494,Monetary policy decisions,data\ECB\Monetary Policy\2025-06-05 - Monetary policy decisions.txt,2025-07-24,2025-06-05,2025-07-23
+ECB_2025_07,ECB,2025-07-24,2025,7,DOC_75046968D43E,Monetary policy decisions,data\ECB\Monetary Policy\2025-07-24 - Monetary policy decisions.txt,2025-09-11,2025-07-24,2025-09-10
+ECB_2025_09,ECB,2025-09-11,2025,9,DOC_A6325111DD20,Monetary policy decisions,data\ECB\Monetary Policy\2025-09-11 - Monetary policy decisions.txt,2025-10-30,2025-09-11,2025-10-29
+ECB_2025_10,ECB,2025-10-30,2025,10,DOC_3CED66B6DA40,Monetary policy decisions,data\ECB\Monetary Policy\2025-10-30 - Monetary policy decisions.txt,2025-12-18,2025-10-30,2025-12-17
+ECB_2025_12,ECB,2025-12-18,2025,12,DOC_0FA6FDA7657E,Monetary policy decisions,data\ECB\Monetary Policy\2025-12-18 - Monetary policy decisions.txt,2026-02-05,2025-12-18,2026-02-04
+ECB_2026_02,ECB,2026-02-05,2026,2,DOC_EBCDB2DE5C65,Monetary policy decisions,data\ECB\Monetary Policy\2026-02-05 - Monetary policy decisions.txt,2026-03-19,2026-02-05,2026-03-18
+ECB_2026_03,ECB,2026-03-19,2026,3,DOC_3B37AF6242F9,Monetary policy decisions,data\ECB\Monetary Policy\2026-03-19 - Monetary policy decisions.txt,2026-04-30,2026-03-19,2026-04-29
+ECB_2026_04,ECB,2026-04-30,2026,4,DOC_EB7BB3602688,Monetary policy decisions,data\ECB\Monetary Policy\2026-04-30 - Monetary policy decisions.txt,,2026-04-30,2026-06-14
+FED_2021_01,FED,2021-01-27,2021,1,DOC_B9CDE799F003,FOMC statement,data\FED\Monetary Policy\2021-01-27 - FOMC statement.txt,2021-03-17,2021-01-27,2021-03-16
+FED_2021_03,FED,2021-03-17,2021,3,DOC_F1DF90B22339,FOMC statement,data\FED\Monetary Policy\2021-03-17 - FOMC statement.txt,2021-04-28,2021-03-17,2021-04-27
+FED_2021_04,FED,2021-04-28,2021,4,DOC_B766A2A61F74,FOMC statement,data\FED\Monetary Policy\2021-04-28 - FOMC statement.txt,2021-06-16,2021-04-28,2021-06-15
+FED_2021_06,FED,2021-06-16,2021,6,DOC_AF698697F313,FOMC statement,data\FED\Monetary Policy\2021-06-16 - FOMC statement.txt,2021-07-28,2021-06-16,2021-07-27
+FED_2021_07,FED,2021-07-28,2021,7,DOC_F83A81E665B0,FOMC statement,data\FED\Monetary Policy\2021-07-28 - FOMC statement.txt,2021-09-22,2021-07-28,2021-09-21
+FED_2021_09,FED,2021-09-22,2021,9,DOC_EBC59530A876,FOMC statement,data\FED\Monetary Policy\2021-09-22 - FOMC statement.txt,2021-11-03,2021-09-22,2021-11-02
+FED_2021_11,FED,2021-11-03,2021,11,DOC_A25BBF08463A,FOMC statement,data\FED\Monetary Policy\2021-11-03 - FOMC statement.txt,2021-12-15,2021-11-03,2021-12-14
+FED_2021_12,FED,2021-12-15,2021,12,DOC_D4AC23A3E0CB,FOMC statement,data\FED\Monetary Policy\2021-12-15 - FOMC statement.txt,2022-01-26,2021-12-15,2022-01-25
+FED_2022_01,FED,2022-01-26,2022,1,DOC_6EA63600B6E6,FOMC statement,data\FED\Monetary Policy\2022-01-26 - FOMC statement.txt,2022-03-16,2022-01-26,2022-03-15
+FED_2022_03,FED,2022-03-16,2022,3,DOC_1B8FFEA724BB,FOMC statement,data\FED\Monetary Policy\2022-03-16 - FOMC statement.txt,2022-05-04,2022-03-16,2022-05-03
+FED_2022_05,FED,2022-05-04,2022,5,DOC_01ECCF02DE6D,FOMC statement,data\FED\Monetary Policy\2022-05-04 - FOMC statement.txt,2022-06-15,2022-05-04,2022-06-14
+FED_2022_06,FED,2022-06-15,2022,6,DOC_A83DEA2795D6,FOMC statement,data\FED\Monetary Policy\2022-06-15 - FOMC statement.txt,2022-07-27,2022-06-15,2022-07-26
+FED_2022_07,FED,2022-07-27,2022,7,DOC_9F659D82DDEA,FOMC statement,data\FED\Monetary Policy\2022-07-27 - FOMC statement.txt,2022-09-21,2022-07-27,2022-09-20
+FED_2022_09,FED,2022-09-21,2022,9,DOC_82596B8FA70D,FOMC statement,data\FED\Monetary Policy\2022-09-21 - FOMC statement.txt,2022-11-02,2022-09-21,2022-11-01
+FED_2022_11,FED,2022-11-02,2022,11,DOC_6B14C0BC340D,FOMC statement,data\FED\Monetary Policy\2022-11-02 - FOMC statement.txt,2022-12-14,2022-11-02,2022-12-13
+FED_2022_12,FED,2022-12-14,2022,12,DOC_7BD25D9C17C3,FOMC statement,data\FED\Monetary Policy\2022-12-14 - FOMC statement.txt,2023-02-01,2022-12-14,2023-01-31
+FED_2023_02,FED,2023-02-01,2023,2,DOC_784A66EE64F2,FOMC statement,data\FED\Monetary Policy\2023-02-01 - FOMC statement.txt,2023-03-22,2023-02-01,2023-03-21
+FED_2023_03,FED,2023-03-22,2023,3,DOC_D81BFDDEA9D8,FOMC statement,data\FED\Monetary Policy\2023-03-22 - FOMC statement.txt,2023-05-03,2023-03-22,2023-05-02
+FED_2023_05,FED,2023-05-03,2023,5,DOC_2E9009700367,FOMC statement,data\FED\Monetary Policy\2023-05-03 - FOMC statement.txt,2023-06-14,2023-05-03,2023-06-13
+FED_2023_06,FED,2023-06-14,2023,6,DOC_EA9560B7BFC9,FOMC statement,data\FED\Monetary Policy\2023-06-14 - FOMC statement.txt,2023-07-26,2023-06-14,2023-07-25
+FED_2023_07,FED,2023-07-26,2023,7,DOC_E349351C7759,FOMC statement,data\FED\Monetary Policy\2023-07-26 - FOMC statement.txt,2023-09-20,2023-07-26,2023-09-19
+FED_2023_09,FED,2023-09-20,2023,9,DOC_C69BB7C267D9,FOMC statement,data\FED\Monetary Policy\2023-09-20 - FOMC statement.txt,2023-11-01,2023-09-20,2023-10-31
+FED_2023_11,FED,2023-11-01,2023,11,DOC_3B969F5D300E,FOMC statement,data\FED\Monetary Policy\2023-11-01 - FOMC statement.txt,2023-12-13,2023-11-01,2023-12-12
+FED_2023_12,FED,2023-12-13,2023,12,DOC_743F335632F6,FOMC statement,data\FED\Monetary Policy\2023-12-13 - FOMC statement.txt,2024-01-31,2023-12-13,2024-01-30
+FED_2024_01,FED,2024-01-31,2024,1,DOC_E21671C4A927,FOMC statement,data\FED\Monetary Policy\2024-01-31 - FOMC statement.txt,2024-03-20,2024-01-31,2024-03-19
+FED_2024_03,FED,2024-03-20,2024,3,DOC_DB28C3494C07,FOMC statement,data\FED\Monetary Policy\2024-03-20 - FOMC statement.txt,2024-05-01,2024-03-20,2024-04-30
+FED_2024_05,FED,2024-05-01,2024,5,DOC_9188E02FEF08,FOMC statement,data\FED\Monetary Policy\2024-05-01 - FOMC statement.txt,2024-06-12,2024-05-01,2024-06-11
+FED_2024_06,FED,2024-06-12,2024,6,DOC_E90F0043310A,FOMC statement,data\FED\Monetary Policy\2024-06-12 - FOMC statement.txt,2024-07-31,2024-06-12,2024-07-30
+FED_2024_07,FED,2024-07-31,2024,7,DOC_C7105885CC22,FOMC statement,data\FED\Monetary Policy\2024-07-31 - FOMC statement.txt,2024-09-18,2024-07-31,2024-09-17
+FED_2024_09,FED,2024-09-18,2024,9,DOC_0C106841044E,FOMC statement,data\FED\Monetary Policy\2024-09-18 - FOMC statement.txt,2024-11-07,2024-09-18,2024-11-06
+FED_2024_11,FED,2024-11-07,2024,11,DOC_59B1C262576E,FOMC statement,data\FED\Monetary Policy\2024-11-07 - FOMC statement.txt,2024-12-18,2024-11-07,2024-12-17
+FED_2024_12,FED,2024-12-18,2024,12,DOC_86EB3874CE5B,FOMC statement,data\FED\Monetary Policy\2024-12-18 - FOMC statement.txt,2025-01-29,2024-12-18,2025-01-28
+FED_2025_01,FED,2025-01-29,2025,1,DOC_DE851CC96915,FOMC statement,data\FED\Monetary Policy\2025-01-29 - FOMC statement.txt,2025-03-19,2025-01-29,2025-03-18
+FED_2025_03,FED,2025-03-19,2025,3,DOC_B6AE96406438,FOMC statement,data\FED\Monetary Policy\2025-03-19 - FOMC statement.txt,2025-05-07,2025-03-19,2025-05-06
+FED_2025_05,FED,2025-05-07,2025,5,DOC_46531E694893,FOMC statement,data\FED\Monetary Policy\2025-05-07 - FOMC statement.txt,2025-06-18,2025-05-07,2025-06-17
+FED_2025_06,FED,2025-06-18,2025,6,DOC_9DAEA125EB24,FOMC statement,data\FED\Monetary Policy\2025-06-18 - FOMC statement.txt,2025-07-30,2025-06-18,2025-07-29
+FED_2025_07,FED,2025-07-30,2025,7,DOC_071349E655F3,FOMC statement,data\FED\Monetary Policy\2025-07-30 - FOMC statement.txt,2025-08-22,2025-07-30,2025-08-21
+FED_2025_08,FED,2025-08-22,2025,8,DOC_071377F69523,Statement on Longer-Run Goals and Monetary Policy Strategy,data\FED\Monetary Policy\2025-08-22 - Statement on Longer-Run Goals and Monetary Policy Strategy.txt,2025-09-17,2025-08-22,2025-09-16
+FED_2025_09,FED,2025-09-17,2025,9,DOC_4B2F70170969,FOMC statement,data\FED\Monetary Policy\2025-09-17 - FOMC statement.txt,2025-10-29,2025-09-17,2025-10-28
+FED_2025_10,FED,2025-10-29,2025,10,DOC_6B553EBA9B62,FOMC statement,data\FED\Monetary Policy\2025-10-29 - FOMC statement.txt,2025-12-10,2025-10-29,2025-12-09
+FED_2025_12,FED,2025-12-10,2025,12,DOC_D3F6FC67E443,FOMC statement,data\FED\Monetary Policy\2025-12-10 - FOMC statement.txt,2026-01-28,2025-12-10,2026-01-27
+FED_2026_01,FED,2026-01-28,2026,1,DOC_C110B384B484,FOMC statement,data\FED\Monetary Policy\2026-01-28 - FOMC statement.txt,2026-03-18,2026-01-28,2026-03-17
+FED_2026_03,FED,2026-03-18,2026,3,DOC_AA84114F7571,FOMC statement,data\FED\Monetary Policy\2026-03-18 - FOMC statement.txt,2026-04-29,2026-03-18,2026-04-28
+FED_2026_04,FED,2026-04-29,2026,4,DOC_483ADFC55AB2,FOMC statement,data\FED\Monetary Policy\2026-04-29 - FOMC statement.txt,,2026-04-29,2026-06-13
+NORGES_BANK_2021_06_A,NORGES_BANK,2021-06-01,2021,6,DOC_21B297C19BCF,Pengepolitisk rapport med vurdering av finansiell stabilitet 1/2021,data\NORGES_BANK\Monetary Policy\2021-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 1_2021.txt,2021-06-01,2021-06-01,2021-05-31
+NORGES_BANK_2021_06_B,NORGES_BANK,2021-06-01,2021,6,DOC_A8043F21E63C,Pengepolitisk rapport med vurdering av finansiell stabilitet 2/2021,data\NORGES_BANK\Monetary Policy\2021-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 2_2021.txt,2021-06-01,2021-06-01,2021-05-31
+NORGES_BANK_2021_06_C,NORGES_BANK,2021-06-01,2021,6,DOC_CEC290ABA44C,Pengepolitisk rapport med vurdering av finansiell stabilitet 3/2021,data\NORGES_BANK\Monetary Policy\2021-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 3_2021.txt,2021-06-01,2021-06-01,2021-05-31
+NORGES_BANK_2021_06_D,NORGES_BANK,2021-06-01,2021,6,DOC_DFD983F13502,Pengepolitisk rapport med vurdering av finansiell stabilitet 4/2021,data\NORGES_BANK\Monetary Policy\2021-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 4_2021.txt,2022-06-01,2021-06-01,2022-05-31
+NORGES_BANK_2022_06_A,NORGES_BANK,2022-06-01,2022,6,DOC_CA4CBF76E4D3,Pengepolitisk rapport med vurdering av finansiell stabilitet 1/2022,data\NORGES_BANK\Monetary Policy\2022-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 1_2022.txt,2022-06-01,2022-06-01,2022-05-31
+NORGES_BANK_2022_06_B,NORGES_BANK,2022-06-01,2022,6,DOC_4F37C2C99346,Pengepolitisk rapport med vurdering av finansiell stabilitet 2/2022,data\NORGES_BANK\Monetary Policy\2022-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 2_2022.txt,2022-06-01,2022-06-01,2022-05-31
+NORGES_BANK_2022_06_C,NORGES_BANK,2022-06-01,2022,6,DOC_F175E5C4ADA0,Pengepolitisk rapport med vurdering av finansiell stabilitet 3/2022,data\NORGES_BANK\Monetary Policy\2022-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 3_2022.txt,2022-06-01,2022-06-01,2022-05-31
+NORGES_BANK_2022_06_D,NORGES_BANK,2022-06-01,2022,6,DOC_B15D3E17B269,Pengepolitisk rapport med vurdering av finansiell stabilitet 4/2022,data\NORGES_BANK\Monetary Policy\2022-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 4_2022.txt,2023-06-01,2022-06-01,2023-05-31
+NORGES_BANK_2023_06_A,NORGES_BANK,2023-06-01,2023,6,DOC_33FC79FF4FEE,Pengepolitisk rapport 1/2023,data\NORGES_BANK\Monetary Policy\2023-06-01 - Pengepolitisk rapport 1_2023.txt,2023-06-01,2023-06-01,2023-05-31
+NORGES_BANK_2023_06_B,NORGES_BANK,2023-06-01,2023,6,DOC_6AEB34A51607,Pengepolitisk rapport 2/2023,data\NORGES_BANK\Monetary Policy\2023-06-01 - Pengepolitisk rapport 2_2023.txt,2023-06-01,2023-06-01,2023-05-31
+NORGES_BANK_2023_06_C,NORGES_BANK,2023-06-01,2023,6,DOC_4396EC6C2C7A,Pengepolitisk rapport 3/2023,data\NORGES_BANK\Monetary Policy\2023-06-01 - Pengepolitisk rapport 3_2023.txt,2023-06-01,2023-06-01,2023-05-31
+NORGES_BANK_2023_06_D,NORGES_BANK,2023-06-01,2023,6,DOC_1E7C168D76C0,Pengepolitisk rapport 4/2023,data\NORGES_BANK\Monetary Policy\2023-06-01 - Pengepolitisk rapport 4_2023.txt,2024-06-01,2023-06-01,2024-05-31
+NORGES_BANK_2024_06_A,NORGES_BANK,2024-06-01,2024,6,DOC_1E5D9F89672B,Pengepolitisk rapport 1/2024,data\NORGES_BANK\Monetary Policy\2024-06-01 - Pengepolitisk rapport 1_2024.txt,2024-06-01,2024-06-01,2024-05-31
+NORGES_BANK_2024_06_B,NORGES_BANK,2024-06-01,2024,6,DOC_B99C89C85DB7,Pengepolitisk rapport 2/2024,data\NORGES_BANK\Monetary Policy\2024-06-01 - Pengepolitisk rapport 2_2024.txt,2024-06-01,2024-06-01,2024-05-31
+NORGES_BANK_2024_06_C,NORGES_BANK,2024-06-01,2024,6,DOC_22CC47E6D716,Pengepolitisk rapport 3/2024,data\NORGES_BANK\Monetary Policy\2024-06-01 - Pengepolitisk rapport 3_2024.txt,2024-06-01,2024-06-01,2024-05-31
+NORGES_BANK_2024_06_D,NORGES_BANK,2024-06-01,2024,6,DOC_3D95A2EB57AD,Pengepolitisk rapport 4/2024,data\NORGES_BANK\Monetary Policy\2024-06-01 - Pengepolitisk rapport 4_2024.txt,2025-06-01,2024-06-01,2025-05-31
+NORGES_BANK_2025_06_A,NORGES_BANK,2025-06-01,2025,6,DOC_ABCB5E321797,Pengepolitisk rapport 1/2025,data\NORGES_BANK\Monetary Policy\2025-06-01 - Pengepolitisk rapport 1_2025.txt,2025-06-01,2025-06-01,2025-05-31
+NORGES_BANK_2025_06_B,NORGES_BANK,2025-06-01,2025,6,DOC_1C52F656770B,Pengepolitisk rapport 2/2025,data\NORGES_BANK\Monetary Policy\2025-06-01 - Pengepolitisk rapport 2_2025.txt,2025-06-01,2025-06-01,2025-05-31
+NORGES_BANK_2025_06_C,NORGES_BANK,2025-06-01,2025,6,DOC_A4D44C5DD817,Pengepolitisk rapport 3/2025,data\NORGES_BANK\Monetary Policy\2025-06-01 - Pengepolitisk rapport 3_2025.txt,2025-06-01,2025-06-01,2025-05-31
+NORGES_BANK_2025_06_D,NORGES_BANK,2025-06-01,2025,6,DOC_5C7854D42A77,Pengepolitisk rapport 4/2025,data\NORGES_BANK\Monetary Policy\2025-06-01 - Pengepolitisk rapport 4_2025.txt,2026-06-01,2025-06-01,2026-05-31
+NORGES_BANK_2026_06,NORGES_BANK,2026-06-01,2026,6,DOC_653DFD4C0D4B,Pengepolitisk rapport 1/2026,data\NORGES_BANK\Monetary Policy\2026-06-01 - Pengepolitisk rapport 1_2026.txt,,2026-06-01,2026-07-16
+RBA_2021_02,RBA,2021-02-02,2021,2,DOC_BDF1D0C04D65,2 February 2021,data\RBA\Monetary Policy\2021-06-01 - 2 February 2021.txt,2021-03-02,2021-02-02,2021-03-01
+RBA_2021_03,RBA,2021-03-02,2021,3,DOC_1B0E5ED027E0,2 March 2021,data\RBA\Monetary Policy\2021-06-01 - 2 March 2021.txt,2021-04-06,2021-03-02,2021-04-05
+RBA_2021_04,RBA,2021-04-06,2021,4,DOC_B9ED5BF27CF8,6 April 2021,data\RBA\Monetary Policy\2021-06-01 - 6 April 2021.txt,2021-05-04,2021-04-06,2021-05-03
+RBA_2021_05,RBA,2021-05-04,2021,5,DOC_ADDAEC524625,4 May 2021,data\RBA\Monetary Policy\2021-06-01 - 4 May 2021.txt,2021-06-01,2021-05-04,2021-05-31
+RBA_2021_06,RBA,2021-06-01,2021,6,DOC_B33299AFD4FD,1 June 2021,data\RBA\Monetary Policy\2021-06-01 - 1 June 2021.txt,2021-07-06,2021-06-01,2021-07-05
+RBA_2021_07,RBA,2021-07-06,2021,7,DOC_9C21426F3135,6 July 2021,data\RBA\Monetary Policy\2021-06-01 - 6 July 2021.txt,2021-08-03,2021-07-06,2021-08-02
+RBA_2021_08,RBA,2021-08-03,2021,8,DOC_FABE234AD08C,3 August 2021,data\RBA\Monetary Policy\2021-06-01 - 3 August 2021.txt,2021-09-07,2021-08-03,2021-09-06
+RBA_2021_09,RBA,2021-09-07,2021,9,DOC_D151043468BF,7 September 2021,data\RBA\Monetary Policy\2021-06-01 - 7 September 2021.txt,2021-10-05,2021-09-07,2021-10-04
+RBA_2021_10,RBA,2021-10-05,2021,10,DOC_17297B3B1678,5 October 2021,data\RBA\Monetary Policy\2021-06-01 - 5 October 2021.txt,2021-11-02,2021-10-05,2021-11-01
+RBA_2021_11,RBA,2021-11-02,2021,11,DOC_5B0349B10758,2 November 2021,data\RBA\Monetary Policy\2021-06-01 - 2 November 2021.txt,2021-12-07,2021-11-02,2021-12-06
+RBA_2021_12,RBA,2021-12-07,2021,12,DOC_6C5450EC6F09,7 December 2021,data\RBA\Monetary Policy\2021-06-01 - 7 December 2021.txt,2022-02-01,2021-12-07,2022-01-31
+RBA_2022_02,RBA,2022-02-01,2022,2,DOC_51146BD04AA5,1 February 2022,data\RBA\Monetary Policy\2022-06-01 - 1 February 2022.txt,2022-03-01,2022-02-01,2022-02-28
+RBA_2022_03,RBA,2022-03-01,2022,3,DOC_7E0F9E69D369,1 March 2022,data\RBA\Monetary Policy\2022-06-01 - 1 March 2022.txt,2022-04-05,2022-03-01,2022-04-04
+RBA_2022_04,RBA,2022-04-05,2022,4,DOC_6E8F4D4AE66C,5 April 2022,data\RBA\Monetary Policy\2022-06-01 - 5 April 2022.txt,2022-05-03,2022-04-05,2022-05-02
+RBA_2022_05,RBA,2022-05-03,2022,5,DOC_E5FBCF3FF65E,3 May 2022,data\RBA\Monetary Policy\2022-06-01 - 3 May 2022.txt,2022-06-07,2022-05-03,2022-06-06
+RBA_2022_06,RBA,2022-06-07,2022,6,DOC_711BBC3EF912,7 June 2022,data\RBA\Monetary Policy\2022-06-01 - 7 June 2022.txt,2022-07-05,2022-06-07,2022-07-04
+RBA_2022_07,RBA,2022-07-05,2022,7,DOC_7B8B36CBD2A5,5 July 2022,data\RBA\Monetary Policy\2022-06-01 - 5 July 2022.txt,2022-08-02,2022-07-05,2022-08-01
+RBA_2022_08,RBA,2022-08-02,2022,8,DOC_96B7BFBC83BD,2 August 2022,data\RBA\Monetary Policy\2022-06-01 - 2 August 2022.txt,2022-09-06,2022-08-02,2022-09-05
+RBA_2022_09,RBA,2022-09-06,2022,9,DOC_EF698CEAFB0D,6 September 2022,data\RBA\Monetary Policy\2022-06-01 - 6 September 2022.txt,2022-10-04,2022-09-06,2022-10-03
+RBA_2022_10,RBA,2022-10-04,2022,10,DOC_23F8AC54A3A2,4 October 2022,data\RBA\Monetary Policy\2022-06-01 - 4 October 2022.txt,2022-11-01,2022-10-04,2022-10-31
+RBA_2022_11,RBA,2022-11-01,2022,11,DOC_2A81375950F4,1 November 2022,data\RBA\Monetary Policy\2022-06-01 - 1 November 2022.txt,2022-12-06,2022-11-01,2022-12-05
+RBA_2022_12,RBA,2022-12-06,2022,12,DOC_48943573CE30,6 December 2022,data\RBA\Monetary Policy\2022-06-01 - 6 December 2022.txt,2023-02-07,2022-12-06,2023-02-06
+RBA_2023_02,RBA,2023-02-07,2023,2,DOC_38C1B63CF214,7 February 2023,data\RBA\Monetary Policy\2023-06-01 - 7 February 2023.txt,2023-03-07,2023-02-07,2023-03-06
+RBA_2023_03,RBA,2023-03-07,2023,3,DOC_F77EB10CEECD,7 March 2023,data\RBA\Monetary Policy\2023-06-01 - 7 March 2023.txt,2023-04-04,2023-03-07,2023-04-03
+RBA_2023_04,RBA,2023-04-04,2023,4,DOC_F69B0B6D3494,4 April 2023,data\RBA\Monetary Policy\2023-06-01 - 4 April 2023.txt,2023-05-02,2023-04-04,2023-05-01
+RBA_2023_05,RBA,2023-05-02,2023,5,DOC_8C54519B6629,2 May 2023,data\RBA\Monetary Policy\2023-06-01 - 2 May 2023.txt,2023-06-06,2023-05-02,2023-06-05
+RBA_2023_06,RBA,2023-06-06,2023,6,DOC_5629D73FAE06,6 June 2023,data\RBA\Monetary Policy\2023-06-01 - 6 June 2023.txt,2023-07-04,2023-06-06,2023-07-03
+RBA_2023_07,RBA,2023-07-04,2023,7,DOC_B6018A3C7C01,4 July 2023,data\RBA\Monetary Policy\2023-06-01 - 4 July 2023.txt,2023-08-01,2023-07-04,2023-07-31
+RBA_2023_08,RBA,2023-08-01,2023,8,DOC_0B2B31D9DF08,1 August 2023,data\RBA\Monetary Policy\2023-06-01 - 1 August 2023.txt,2023-09-05,2023-08-01,2023-09-04
+RBA_2023_09,RBA,2023-09-05,2023,9,DOC_C2D84F33A567,5 September 2023,data\RBA\Monetary Policy\2023-06-01 - 5 September 2023.txt,2023-10-03,2023-09-05,2023-10-02
+RBA_2023_10,RBA,2023-10-03,2023,10,DOC_F37273118E26,3 October 2023,data\RBA\Monetary Policy\2023-06-01 - 3 October 2023.txt,2023-11-07,2023-10-03,2023-11-06
+RBA_2023_11,RBA,2023-11-07,2023,11,DOC_345C9C578DBD,7 November 2023,data\RBA\Monetary Policy\2023-06-01 - 7 November 2023.txt,2023-12-05,2023-11-07,2023-12-04
+RBA_2023_12,RBA,2023-12-05,2023,12,DOC_5F03602807D4,5 December 2023,data\RBA\Monetary Policy\2023-06-01 - 5 December 2023.txt,2024-02-06,2023-12-05,2024-02-05
+RBA_2024_02,RBA,2024-02-06,2024,2,DOC_A0EDA8DC50F1,6 February 2024,data\RBA\Monetary Policy\2024-06-01 - 6 February 2024.txt,2024-03-19,2024-02-06,2024-03-18
+RBA_2024_03,RBA,2024-03-19,2024,3,DOC_4D76C376ECAE,19 March 2024,data\RBA\Monetary Policy\2024-06-01 - 19 March 2024.txt,2024-05-07,2024-03-19,2024-05-06
+RBA_2024_05,RBA,2024-05-07,2024,5,DOC_DAF4B300994C,7 May 2024,data\RBA\Monetary Policy\2024-06-01 - 7 May 2024.txt,2024-06-18,2024-05-07,2024-06-17
+RBA_2024_06,RBA,2024-06-18,2024,6,DOC_13C3301225E5,18 June 2024,data\RBA\Monetary Policy\2024-06-01 - 18 June 2024.txt,2024-08-06,2024-06-18,2024-08-05
+RBA_2024_08,RBA,2024-08-06,2024,8,DOC_0A3B148C48DD,6 August 2024,data\RBA\Monetary Policy\2024-06-01 - 6 August 2024.txt,2024-09-24,2024-08-06,2024-09-23
+RBA_2024_09,RBA,2024-09-24,2024,9,DOC_97ED32B7933B,24 September 2024,data\RBA\Monetary Policy\2024-06-01 - 24 September 2024.txt,2024-11-05,2024-09-24,2024-11-04
+RBA_2024_11,RBA,2024-11-05,2024,11,DOC_B7B259AF9344,5 November 2024,data\RBA\Monetary Policy\2024-06-01 - 5 November 2024.txt,2024-12-10,2024-11-05,2024-12-09
+RBA_2024_12,RBA,2024-12-10,2024,12,DOC_5B1FA6D4CC2E,10 December 2024,data\RBA\Monetary Policy\2024-06-01 - 10 December 2024.txt,2025-02-18,2024-12-10,2025-02-17
+RBA_2025_02,RBA,2025-02-18,2025,2,DOC_C019488B2D9F,18 February 2025,data\RBA\Monetary Policy\2025-06-01 - 18 February 2025.txt,2025-04-01,2025-02-18,2025-03-31
+RBA_2025_04,RBA,2025-04-01,2025,4,DOC_6D3FC4740575,1 April 2025,data\RBA\Monetary Policy\2025-06-01 - 1 April 2025.txt,2025-05-20,2025-04-01,2025-05-19
+RBA_2025_05,RBA,2025-05-20,2025,5,DOC_9AB2099A5255,20 May 2025,data\RBA\Monetary Policy\2025-06-01 - 20 May 2025.txt,2025-07-08,2025-05-20,2025-07-07
+RBA_2025_07,RBA,2025-07-08,2025,7,DOC_4C6775F02003,8 July 2025,data\RBA\Monetary Policy\2025-06-01 - 8 July 2025.txt,2025-08-12,2025-07-08,2025-08-11
+RBA_2025_08,RBA,2025-08-12,2025,8,DOC_F14526C01837,12 August 2025,data\RBA\Monetary Policy\2025-06-01 - 12 August 2025.txt,2025-09-30,2025-08-12,2025-09-29
+RBA_2025_09,RBA,2025-09-30,2025,9,DOC_C9DB770FD7BC,30 September 2025,data\RBA\Monetary Policy\2025-06-01 - 30 September 2025.txt,2025-11-04,2025-09-30,2025-11-03
+RBA_2025_11,RBA,2025-11-04,2025,11,DOC_42C579AB3C98,4 November 2025,data\RBA\Monetary Policy\2025-06-01 - 4 November 2025.txt,2025-12-09,2025-11-04,2025-12-08
+RBA_2025_12,RBA,2025-12-09,2025,12,DOC_B331F18D0390,9 December 2025,data\RBA\Monetary Policy\2025-06-01 - 9 December 2025.txt,2026-02-03,2025-12-09,2026-02-02
+RBA_2026_02,RBA,2026-02-03,2026,2,DOC_8C56817C5BCB,3 February 2026,data\RBA\Monetary Policy\2026-06-01 - 3 February 2026.txt,2026-03-17,2026-02-03,2026-03-16
+RBA_2026_03,RBA,2026-03-17,2026,3,DOC_CE3F0C3DFC5E,17 March 2026,data\RBA\Monetary Policy\2026-06-01 - 17 March 2026.txt,2026-05-05,2026-03-17,2026-05-04
+RBA_2026_05,RBA,2026-05-05,2026,5,DOC_E9BC7704F7B4,5 May 2026,data\RBA\Monetary Policy\2026-06-01 - 5 May 2026.txt,,2026-05-05,2026-06-19
+RBNZ_2021_02,RBNZ,2021-02-23,2021,2,DOC_338FF28692BF,Monetary Policy Statement February 2021,data\RBNZ\Monetary Policy\2021-02-23 - Monetary Policy Statement February 2021.txt,2021-05-25,2021-02-23,2021-05-24
+RBNZ_2021_05,RBNZ,2021-05-25,2021,5,DOC_3EE7F07D15A1,Monetary Policy Statement May 2021,data\RBNZ\Monetary Policy\2021-05-25 - Monetary Policy Statement May 2021.txt,2021-08-17,2021-05-25,2021-08-16
+RBNZ_2021_08,RBNZ,2021-08-17,2021,8,DOC_7B57217E2C10,Monetary Policy Statement August 2021,data\RBNZ\Monetary Policy\2021-08-17 - Monetary Policy Statement August 2021.txt,2021-11-23,2021-08-17,2021-11-22
+RBNZ_2021_11,RBNZ,2021-11-23,2021,11,DOC_41C95DBF3A55,Monetary Policy Statement November 2021,data\RBNZ\Monetary Policy\2021-11-23 - Monetary Policy Statement November 2021.txt,2022-02-22,2021-11-23,2022-02-21
+RBNZ_2022_02,RBNZ,2022-02-22,2022,2,DOC_B6A914CC02F4,Monetary Policy Statement February 2022,data\RBNZ\Monetary Policy\2022-02-22 - Monetary Policy Statement February 2022.txt,2022-05-24,2022-02-22,2022-05-23
+RBNZ_2022_05,RBNZ,2022-05-24,2022,5,DOC_79A1F8AF941B,Monetary Policy Statement May 2022,data\RBNZ\Monetary Policy\2022-05-24 - Monetary Policy Statement May 2022.txt,2022-08-16,2022-05-24,2022-08-15
+RBNZ_2022_08,RBNZ,2022-08-16,2022,8,DOC_B33187352B80,Monetary Policy Statement August 2022,data\RBNZ\Monetary Policy\2022-08-16 - Monetary Policy Statement August 2022.txt,2022-11-22,2022-08-16,2022-11-21
+RBNZ_2022_11,RBNZ,2022-11-22,2022,11,DOC_1ADD185BC6B3,Monetary Policy Statement November 2022,data\RBNZ\Monetary Policy\2022-11-22 - Monetary Policy Statement November 2022.txt,2023-02-21,2022-11-22,2023-02-20
+RBNZ_2023_02,RBNZ,2023-02-21,2023,2,DOC_E41A35276FCA,Monetary Policy Statement February 2023,data\RBNZ\Monetary Policy\2023-02-21 - Monetary Policy Statement February 2023.txt,2023-05-23,2023-02-21,2023-05-22
+RBNZ_2023_05,RBNZ,2023-05-23,2023,5,DOC_3399A83105CC,Monetary Policy Statement May 2023,data\RBNZ\Monetary Policy\2023-05-23 - Monetary Policy Statement May 2023.txt,2023-08-15,2023-05-23,2023-08-14
+RBNZ_2023_08,RBNZ,2023-08-15,2023,8,DOC_9485D14AD678,Monetary Policy Statement August 2023,data\RBNZ\Monetary Policy\2023-08-15 - Monetary Policy Statement August 2023.txt,2023-11-28,2023-08-15,2023-11-27
+RBNZ_2023_11,RBNZ,2023-11-28,2023,11,DOC_8E84092530BF,Monetary Policy Statement November 2023,data\RBNZ\Monetary Policy\2023-11-28 - Monetary Policy Statement November 2023.txt,2024-02-27,2023-11-28,2024-02-26
+RBNZ_2024_02,RBNZ,2024-02-27,2024,2,DOC_63D0AB1E01EE,Monetary Policy Statement February 2024,data\RBNZ\Monetary Policy\2024-02-27 - Monetary Policy Statement February 2024.txt,2024-05-22,2024-02-27,2024-05-21
+RBNZ_2024_05,RBNZ,2024-05-22,2024,5,DOC_30127C441B2D,Monetary Policy Statement May 2024,data\RBNZ\Monetary Policy\2022-05-24 - Monetary Policy Statement May 2024.txt,2024-08-14,2024-05-22,2024-08-13
+RBNZ_2024_08,RBNZ,2024-08-14,2024,8,DOC_98B1766C1807,Monetary Policy Statement August 2024,data\RBNZ\Monetary Policy\2024-08-13 - Monetary Policy Statement August 2024.txt,2024-11-27,2024-08-14,2024-11-26
+RBNZ_2024_11,RBNZ,2024-11-27,2024,11,DOC_D4A25AB777D2,Monetary Policy Statement November 2024,data\RBNZ\Monetary Policy\2027-11-24 - Monetary Policy Statement November 2024.txt,2025-02-18,2024-11-27,2025-02-17
+RBNZ_2025_02,RBNZ,2025-02-18,2025,2,DOC_3B526CE06FB1,Monetary Policy Statement February 2025,data\RBNZ\Monetary Policy\2025-02-18 - Monetary Policy Statement February 2025.txt,2025-05-27,2025-02-18,2025-05-26
+RBNZ_2025_05,RBNZ,2025-05-27,2025,5,DOC_48EF2AEC582E,Monetary Policy Statement May 2025,data\RBNZ\Monetary Policy\2025-05-27 - Monetary Policy Statement May 2025.txt,2025-08-19,2025-05-27,2025-08-18
+RBNZ_2025_08,RBNZ,2025-08-19,2025,8,DOC_19F0855B32A3,Monetary Policy Statement August 2025,data\RBNZ\Monetary Policy\2025-08-19 - Monetary Policy Statement August 2025.txt,2025-11-26,2025-08-19,2025-11-25
+RBNZ_2025_11,RBNZ,2025-11-26,2025,11,DOC_5C727F4593C7,Monetary Policy Statement November 2025,data\RBNZ\Monetary Policy\2026-11-25 - Monetary Policy Statement November 2025.txt,2026-02-18,2025-11-26,2026-02-17
+RBNZ_2026_02,RBNZ,2026-02-18,2026,2,DOC_1C33635D851E,Monetary Policy Statement February 2026,data\RBNZ\Monetary Policy\2026-02-17 - Monetary Policy Statement February 2026.txt,2026-05-26,2026-02-18,2026-05-25
+RBNZ_2026_05,RBNZ,2026-05-26,2026,5,DOC_2CB583E6CCD9,Monetary Policy Statement May 2026,data\RBNZ\Monetary Policy\2026-05-26 - Monetary Policy Statement May 2026.txt,,2026-05-26,2026-07-10
+RIKSBANK_2021_06_A,RIKSBANK,2021-06-01,2021,6,DOC_3BC801A0B478,Monetary Policy Report April 2021,data\RIKSBANK\Monetary Policy\2021-06-01 - Monetary Policy Report April 2021.txt,2021-06-01,2021-06-01,2021-05-31
+RIKSBANK_2021_06_B,RIKSBANK,2021-06-01,2021,6,DOC_01072B972A30,Monetary Policy Report Februari 2021,data\RIKSBANK\Monetary Policy\2021-06-01 - Monetary Policy Report Februari 2021.txt,2021-06-01,2021-06-01,2021-05-31
+RIKSBANK_2021_06_C,RIKSBANK,2021-06-01,2021,6,DOC_944F5E1D2ED3,Monetary Policy Report July 2021,data\RIKSBANK\Monetary Policy\2021-06-01 - Monetary Policy Report July 2021.txt,2021-06-01,2021-06-01,2021-05-31
+RIKSBANK_2021_06_D,RIKSBANK,2021-06-01,2021,6,DOC_9CC589D2565B,Monetary Policy Report November 2021,data\RIKSBANK\Monetary Policy\2021-06-01 - Monetary Policy Report November 2021.txt,2021-06-01,2021-06-01,2021-05-31
+RIKSBANK_2021_06_E,RIKSBANK,2021-06-01,2021,6,DOC_009B050A3DF0,Monetary Policy Report September 2021,data\RIKSBANK\Monetary Policy\2021-06-01 - Monetary Policy Report September 2021.txt,2022-06-01,2021-06-01,2022-05-31
+RIKSBANK_2022_06_A,RIKSBANK,2022-06-01,2022,6,DOC_9735DC394321,Monetary Policy Report April 2022,data\RIKSBANK\Monetary Policy\2022-06-01 - Monetary Policy Report April 2022.txt,2022-06-01,2022-06-01,2022-05-31
+RIKSBANK_2022_06_B,RIKSBANK,2022-06-01,2022,6,DOC_3F5F95E456E2,Monetary Policy Report February 2022,data\RIKSBANK\Monetary Policy\2022-06-01 - Monetary Policy Report February 2022.txt,2022-06-01,2022-06-01,2022-05-31
+RIKSBANK_2022_06_C,RIKSBANK,2022-06-01,2022,6,DOC_D9A8E8F54CAB,Monetary Policy Report June 2022,data\RIKSBANK\Monetary Policy\2022-06-01 - Monetary Policy Report June 2022.txt,2022-06-01,2022-06-01,2022-05-31
+RIKSBANK_2022_06_D,RIKSBANK,2022-06-01,2022,6,DOC_AB7C59A67D04,Monetary Policy Report November 2022,data\RIKSBANK\Monetary Policy\2022-06-01 - Monetary Policy Report November 2022.txt,2022-06-01,2022-06-01,2022-05-31
+RIKSBANK_2022_06_E,RIKSBANK,2022-06-01,2022,6,DOC_2417741833A1,Monetary Policy Report September 2022,data\RIKSBANK\Monetary Policy\2022-06-01 - Monetary Policy Report September 2022.txt,2023-06-01,2022-06-01,2023-05-31
+RIKSBANK_2023_06_A,RIKSBANK,2023-06-01,2023,6,DOC_402ED7C5677E,Monetary Policy Report April 2023,data\RIKSBANK\Monetary Policy\2023-06-01 - Monetary Policy Report April 2023.txt,2023-06-01,2023-06-01,2023-05-31
+RIKSBANK_2023_06_B,RIKSBANK,2023-06-01,2023,6,DOC_7318BA177076,Monetary Policy Report February 2023,data\RIKSBANK\Monetary Policy\2023-06-01 - Monetary Policy Report February 2023.txt,2023-06-01,2023-06-01,2023-05-31
+RIKSBANK_2023_06_C,RIKSBANK,2023-06-01,2023,6,DOC_C29C8407FA7C,Monetary Policy Report June 2023,data\RIKSBANK\Monetary Policy\2023-06-01 - Monetary Policy Report June 2023.txt,2023-06-01,2023-06-01,2023-05-31
+RIKSBANK_2023_06_D,RIKSBANK,2023-06-01,2023,6,DOC_EED2D6ABB111,Monetary Policy Report November 2023,data\RIKSBANK\Monetary Policy\2023-06-01 - Monetary Policy Report November 2023.txt,2023-06-01,2023-06-01,2023-05-31
+RIKSBANK_2023_06_E,RIKSBANK,2023-06-01,2023,6,DOC_57B29C44EDE0,Monetary Policy Report September 2023,data\RIKSBANK\Monetary Policy\2023-06-01 - Monetary Policy Report September 2023.txt,2024-06-01,2023-06-01,2024-05-31
+RIKSBANK_2024_06_A,RIKSBANK,2024-06-01,2024,6,DOC_199A730F2083,Monetary Policy Decision August 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision August 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_B,RIKSBANK,2024-06-01,2024,6,DOC_795B2B6F0692,Monetary Policy Decision December 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision December 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_C,RIKSBANK,2024-06-01,2024,6,DOC_85FAD8810109,Monetary Policy Decision February 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision February 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_D,RIKSBANK,2024-06-01,2024,6,DOC_1F719FD3A09B,Monetary Policy Decision June 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision June 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_E,RIKSBANK,2024-06-01,2024,6,DOC_E744097131A3,Monetary Policy Decision March 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision March 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_F,RIKSBANK,2024-06-01,2024,6,DOC_17DDA1A10CFB,Monetary Policy Decision May 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision May 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_G,RIKSBANK,2024-06-01,2024,6,DOC_3DEE296ACAA4,Monetary Policy Decision November 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision November 2024.txt,2024-06-01,2024-06-01,2024-05-31
+RIKSBANK_2024_06_H,RIKSBANK,2024-06-01,2024,6,DOC_150E3562AC77,Monetary Policy Decision September 2024,data\RIKSBANK\Monetary Policy\2024-06-01 - Monetary Policy Decision September 2024.txt,2025-06-01,2024-06-01,2025-05-31
+RIKSBANK_2025_06_A,RIKSBANK,2025-06-01,2025,6,DOC_8CD73122936B,Monetary Policy Decision August 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision August 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_B,RIKSBANK,2025-06-01,2025,6,DOC_591EC2673EAC,Monetary Policy Decision December 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision December 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_C,RIKSBANK,2025-06-01,2025,6,DOC_67CCD775E23D,Monetary Policy Decision January 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision January 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_D,RIKSBANK,2025-06-01,2025,6,DOC_C543F8C8851E,Monetary Policy Decision June 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision June 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_E,RIKSBANK,2025-06-01,2025,6,DOC_180CB4ABDD5E,Monetary Policy Decision March 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision March 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_F,RIKSBANK,2025-06-01,2025,6,DOC_C1A0C69C5592,Monetary Policy Decision May 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision May 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_G,RIKSBANK,2025-06-01,2025,6,DOC_E8609011EE65,Monetary Policy Decision November 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision November 2025.txt,2025-06-01,2025-06-01,2025-05-31
+RIKSBANK_2025_06_H,RIKSBANK,2025-06-01,2025,6,DOC_602D7611ED48,Monetary Policy Decision September 2025,data\RIKSBANK\Monetary Policy\2025-06-01 - Monetary Policy Decision September 2025.txt,2026-06-01,2025-06-01,2026-05-31
+RIKSBANK_2026_06,RIKSBANK,2026-06-01,2026,6,DOC_2B28521D18DF,Monetary Policy Decision January 2026,data\RIKSBANK\Monetary Policy\2026-06-01 - Monetary Policy Decision January 2026.txt,,2026-06-01,2026-07-16
+SNB_2021_03,SNB,2021-03-25,2021,3,DOC_C1AEEA8EE7EE,Monetary policy assessment of 25 March 2021,data\SNB\Monetary Policy\2021-03-25 - Monetary policy assessment of 25 March 2021.txt,2021-06-17,2021-03-25,2021-06-16
+SNB_2021_06,SNB,2021-06-17,2021,6,DOC_512A3C6A35CE,Monetary policy assessment of 17 June 2021,data\SNB\Monetary Policy\2021-06-17 - Monetary policy assessment of 17 June 2021.txt,2021-09-23,2021-06-17,2021-09-22
+SNB_2021_09,SNB,2021-09-23,2021,9,DOC_2EBDFA551C91,Monetary policy assessment of 23 September 2021,data\SNB\Monetary Policy\2021-09-23 - Monetary policy assessment of 23 September 2021.txt,2021-12-16,2021-09-23,2021-12-15
+SNB_2021_12,SNB,2021-12-16,2021,12,DOC_218F43BC05E5,Monetary policy assessment of 16 December 2021,data\SNB\Monetary Policy\2021-12-16 - Monetary policy assessment of 16 December 2021.txt,2022-03-24,2021-12-16,2022-03-23
+SNB_2022_03,SNB,2022-03-24,2022,3,DOC_5DD0536F7DC9,Monetary policy assessment of 24 March 2022,data\SNB\Monetary Policy\2022-03-24 - Monetary policy assessment of 24 March 2022.txt,2022-06-16,2022-03-24,2022-06-15
+SNB_2022_06,SNB,2022-06-16,2022,6,DOC_F5B35EA16F53,Monetary policy assessment of 16 June 2022,data\SNB\Monetary Policy\2022-06-16 - Monetary policy assessment of 16 June 2022.txt,2022-09-22,2022-06-16,2022-09-21
+SNB_2022_09,SNB,2022-09-22,2022,9,DOC_A347AC867C0C,Monetary policy assessment of 22 September 2022,data\SNB\Monetary Policy\2022-09-22 - Monetary policy assessment of 22 September 2022.txt,2022-12-15,2022-09-22,2022-12-14
+SNB_2022_12,SNB,2022-12-15,2022,12,DOC_8912235BE406,Monetary policy assessment of 15 December 2022,data\SNB\Monetary Policy\2022-12-15 - Monetary policy assessment of 15 December 2022.txt,2023-03-23,2022-12-15,2023-03-22
+SNB_2023_03,SNB,2023-03-23,2023,3,DOC_364CEF525979,Monetary policy assessment of 23 March 2023,data\SNB\Monetary Policy\2023-03-23 - Monetary policy assessment of 23 March 2023.txt,2023-06-22,2023-03-23,2023-06-21
+SNB_2023_06,SNB,2023-06-22,2023,6,DOC_3B86FB1567A8,Monetary policy assessment of 22 June 2023,data\SNB\Monetary Policy\2023-06-22 - Monetary policy assessment of 22 June 2023.txt,2023-09-21,2023-06-22,2023-09-20
+SNB_2023_09,SNB,2023-09-21,2023,9,DOC_133953CBE054,Monetary policy assessment of 21 September 2023,data\SNB\Monetary Policy\2023-09-21 - Monetary policy assessment of 21 September 2023.txt,2023-12-14,2023-09-21,2023-12-13
+SNB_2023_12,SNB,2023-12-14,2023,12,DOC_D81573691747,Monetary policy assessment of 14 December 2023,data\SNB\Monetary Policy\2023-12-14 - Monetary policy assessment of 14 December 2023.txt,2024-03-21,2023-12-14,2024-03-20
+SNB_2024_03,SNB,2024-03-21,2024,3,DOC_9F2870209F27,Monetary policy assessment of 21 March 2024,data\SNB\Monetary Policy\2024-03-21 - Monetary policy assessment of 21 March 2024.txt,2024-06-20,2024-03-21,2024-06-19
+SNB_2024_06,SNB,2024-06-20,2024,6,DOC_79584DA71B1E,Monetary policy assessment of 20 June 2024,data\SNB\Monetary Policy\2024-06-20 - Monetary policy assessment of 20 June 2024.txt,2024-09-26,2024-06-20,2024-09-25
+SNB_2024_09,SNB,2024-09-26,2024,9,DOC_546A67A88DB6,Monetary policy assessment of 26 September 2024,data\SNB\Monetary Policy\2024-09-26 - Monetary policy assessment of 26 September 2024.txt,2024-12-12,2024-09-26,2024-12-11
+SNB_2024_12,SNB,2024-12-12,2024,12,DOC_C4A75F6B4E17,Monetary policy assessment of 12 December 2024,data\SNB\Monetary Policy\2024-12-12 - Monetary policy assessment of 12 December 2024.txt,2025-03-20,2024-12-12,2025-03-19
+SNB_2025_03,SNB,2025-03-20,2025,3,DOC_0B31EF8C2E31,Monetary policy assessment of 20 March 2025,data\SNB\Monetary Policy\2025-03-20 - Monetary policy assessment of 20 March 2025.txt,2025-06-19,2025-03-20,2025-06-18
+SNB_2025_06,SNB,2025-06-19,2025,6,DOC_40EAC689D7E2,Monetary policy assessment of 19 June 2025,data\SNB\Monetary Policy\2025-06-19 - Monetary policy assessment of 19 June 2025.txt,2025-09-25,2025-06-19,2025-09-24
+SNB_2025_09,SNB,2025-09-25,2025,9,DOC_92F970406A8F,Monetary policy assessment of 25 September 2025,data\SNB\Monetary Policy\2025-09-25 - Monetary policy assessment of 25 September 2025.txt,2025-12-11,2025-09-25,2025-12-10
+SNB_2025_12,SNB,2025-12-11,2025,12,DOC_8B7666528F69,Monetary policy assessment of 11 December 2025,data\SNB\Monetary Policy\2025-12-11 - Monetary policy assessment of 11 December 2025.txt,2026-03-19,2025-12-11,2026-03-18
+SNB_2026_03,SNB,2026-03-19,2026,3,DOC_249383AB1F59,Monetary policy assessment of 19 March 2026,data\SNB\Monetary Policy\2026-03-19 - Monetary policy assessment of 19 March 2026.txt,,2026-03-19,2026-05-03

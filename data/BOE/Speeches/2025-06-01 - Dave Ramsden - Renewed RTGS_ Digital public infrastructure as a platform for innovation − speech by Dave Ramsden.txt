@@ -1,0 +1,154 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden
+DATE: 01/06/2025
+SPEAKER: Dave Ramsden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/april/dave-ramsden-keynote-speech-at-innovate-finance-global-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden
+Given at Innovate Finance Global Summit 2025, The Guildhall, London
+Published on 
+
+ 29 April 2025
+Dave discusses the Bank of England’s role in wholesale payments infrastructure and innovation. He looks at how both public and private innovation could reduce market frictions and support growth and outlines the Bank’s next steps for experimentation in wholesale payments.
+Speech
+Thank you for inviting me to speak at the Innovate Finance Global Summit 2025.
+At the Bank of England, we have challenged ourselves to continue to be ambitious in how we are supporting innovation in the wholesale payments space, both as an infrastructure provider – with the renewed Real Time Gross Settlement (RTGS) core settlement engine – and in the context of wholesale payments more generally. We know that the opportunities are there in digitalising wholesale financial markets and realising these benefits will play an important role in supporting growth and competitiveness in the UK economy.
+There are costly market frictions which could be substantially reduced through technological enhancements from both the public and private sector. There are also new possibilities such as fractionalisation of financial assets and ways to improve their abilities to be monetised which could cater for parts of the market which are currently underserved – through increasing the investor base, providing more liquidity or opening up more assets as potentially usable as collateral.
+Introducing our new RTGS platform
+I am very pleased to say that we are now in Day 2 of the changeover to the renewed RTGS system. This has been a multiyear project for the Bank, building a completely new platform. On the first day of operation, the new system settled payments totalling £778 billion. I want to take this opportunity to thank our technology delivery partner, Accenture, all the participants, as well as all the Bank of England staff who have worked together over many years to get us to this point.
+As digital public infrastructure, the renewed RTGS system provides a leading-edge technology platform which increases resilience and improves user functionality. These are crucial benefits since RTGS is the means by which we operationalise the Bank’s balance sheet, using the reserves which are the core liquid asset of the financial system, to deliver our objectives of monetary and financial stability
+footnote
+[1]
+. But importantly for today’s Summit, the renewed RTGS system also expands the opportunities to innovate in the wholesale payments space, in particular enabling wider interoperability.
+Our vision is for the renewed RTGS to act as an open platform to enable competition and drive innovation across the financial sector, by making central bank money accessible to new types of firms and entities. Working closely with industry as part of the Future Roadmap, we have identified a series of enhancements to RTGS to meet the evolving needs of the UK payments ecosystem. We will be consulting on whether to extend settlement hours for RTGS, perhaps in phases with the potential to enable access to settlement to near 24/7. We also want to expand further access to RTGS accounts for settlement. Earlier this month we published a response
+footnote
+[2]
+to our discussion paper on widening access to RTGS, including among non-bank payment service providers seeking access to UK payment systems, which could result in better services for end-users.
+footnote
+[3]
+The next stage in our work is to explore the introduction of a synchronised settlement interface to allow the RTGS platform to interoperate with other ledgers, including tokenised asset ledgers, to achieve atomic settlement.
+footnote
+[4]
+In parallel, we are also embarking on a programme of wholesale experiments to test the use cases, functionalities and prospective designs of a wholesale Central Bank Digital Currency (wCBDC), the outcomes of which can be compared with synchronisation.
+Greater use of digital assets
+I will return to these next steps later but to set the scene it is important to view the platform for innovation that renewed RTGS will provide, in the context of the accelerating pace of change in wholesale financial markets. Many markets in the UK have been ‘digitised’ in some form since the mid-90s when the CREST system launched and many equities and securities were dematerialised. However, whilst most trading does take place electronically, the processes underpinning those trades continue to replicate an analogue way of doing business. For example, our technological architecture still operates on the basis of digital bond and share certificates being transferred digitally in sequence and then stored in electronic vaults, with separate ledgers needing to be separately updated and reconciled.
+This approach has three key consequences for how settlement in markets operates:
+Fragmentation – today market settlement operates through a complex patchwork of platforms, processes and procedures, each governed by distinct regulations and procedural frameworks. However, in practice different types of transactions are rarely completed in isolation (e.g. a securities purchase is often linked with a FX transaction and/or purchase of a derivative for hedging), adding complexity and risk.
+Sequential processing – certain transactions can only take place if previous links in the chain have already executed successfully, creating complexity and delays.
+Inefficiency – participants and central securities depositories still need to be able to support manual processes such as physical deliveries of certificates, even though the vast majority of trading and settlement occurs electronically. The myriad of reconciliation across many individual ledgers increases costs and risks too.
+These lead to a range of practical challenges and obstacles which capital markets participants have had to deal with, such as increased credit and settlement risk due to lags between trade execution and settlement, fragmentation of liquidity from the need to prefund positions, and operational risks arising from manual processing.
+In effect, we have digitised the paper, but we have not digitalised the process of settlement in markets. While ‘front office’ functions such as electronic trading have captured much of the attention and investment, the less visible but equally critical post-trade environment has lagged behind. This is not a new insight – in 2020 the Bank’s Future of Post-Trade Report
+footnote
+[5]
+found that up to a quarter of revenue is spent on IT, but 75% of that spend is to ‘keep the lights on’ rather than change the processes.
+Emerging technologies such as shared, programmable ledgers enable new functionality – such as real-time collateral management and asset fractionalisation – broadening market access, deepening liquidity, and enhancing the utility of financial assets. But with new innovation comes a need for new safeguards. As these technologies evolve, they must be accompanied by proportionate risk management and accompanied by safe innovation in the infrastructure which supports them.
+Proactive innovation – experiments and industry engagement
+Alongside delivering renewed RTGS as a platform for innovation the Bank is increasingly moving towards greater use of practical experimentation to enable the future digitalisation of wholesale financial markets. In my remarks today I want to focus first on our role as regulator of the FMIs, where these digital assets would be issued and traded, and second on how we are challenging ourselves in our role as provider of the core settlement infrastructure.
+As regulator we are actively taking steps to foster innovation and enable the business cases for digital assets to emerge in a safe way, in particular via the Digital Securities Sandbox (DSS).
+The DSS, a joint initiative between the Bank and the Financial Conduct Authority (FCA), represents a key milestone for the UK in the adoption of new technologies to trading and settlement of financial securities, and in accelerating tokenisation. The Sandbox gives the Bank the power to ‘turn off’ certain rules, to allow industry to experiment with developing technologies, including tokenisation, to issue, trade and settle digital securities in a safe and secure environment for a range of regulated asset classes. Currently the only assets used widely in activities such as repo, lending and collateralisation are cash and assets held at central securities depositories. Tokenisation has the potential to widen this perimeter to other asset classes. And more efficient post-trade processes also mean lower transaction costs for end users, and that ultimately supports deeper markets, especially those in which infrastructure is lacking or prohibitively expensive to set up today.
+Since launching last September, eight firms have already been approved to enter the DSS.
+Late last year also saw the announcement by HMT of the launch of a pilot Digital Gilt Instrument, or DIGIT, which will see the issuance of a digital sovereign bond with similar features to a conventional gilt, using distributed ledger technology (DLT). This pilot has two aims: (1) to explore how new technology can be applied to the lifecycle of the UK’s sovereign debt issuance process, and (2) to catalyse the development of UK based DLT infrastructure and the adoption of DLT in UK financial markets.
+The DIGIT will leverage the benefits of the DSS structure, enabling the Bank and FCA to provide a regulated environment where innovation in capital markets that can have long term benefits can flourish. We look forward to seeing HMT’s proposed next steps for DIGIT soon
+footnote
+[6]
+.
+As operator of RTGS, enabling innovative and safe cash settlement for these transactions is also essential. Through RTGS, we currently offer settlement in central bank money (the ultimate risk-free asset) for a range of payment systems. We want to ensure central bank money settlement remains available as new markets and assets emerge. As new markets develop, we may in some circumstances be comfortable with these settling in commercial bank money in the first instance (when they do not present systemic risk), as we are allowing in the DSS.
+We are taking steps to enable new types of markets and innovative business models to emerge. We have already introduced an omnibus account policy and we are the first central bank to have onboarded a private DLT-based payment system (Fnality).
+I said earlier that exploring synchronisation will be a priority in the next phase of RTGS. Informed by co-creation work with industry, we are considering the addition of this functionality to achieve atomic settlement, which could enable RTGS to interface with tokenised asset ledgers. In this model a ‘synchronisation operator’ would be responsible for orchestrating the movement of funds in RTGS with assets on external ledgers. The synchronisation operator would be an entirely new type of business, enabled to develop and deliver new types of innovative services to financial institutions, businesses and individuals. This model could improve settlement speed and reduce settlement risk across a wide range of use cases, ranging from housing transactions to complex mergers and acquisitions.
+Our work to date with the BIS Innovation Hub London on the Meridian series of synchronisation experiments demonstrated that synchronisation is a viable option with tangible benefits, for example, experiments show its potential to be applied to house purchases in the UK.
+Most recently, Project Meridian FX, the results
+footnote
+[7]
+of which we co-published last week, has shown how synchronisation could enable payment versus payment settlement in foreign exchange transactions. This work demonstrated the technical feasibility of interfacing RTGS with a range of external ledgers, including those based on DLT. Interest in this capability is growing – particularly among our central banking peers, who like us are exploring the potential role of synchronisation in facilitating safer, faster, and more transparent FX transactions.
+We realise there is an open debate around the best ways for payment infrastructures to enable settlement of tokenised assets. One option could be recording tokenised assets and payments movements on a single ‘unified ledger’ (enabled by a wholesale central bank digital currency where that’s needed given potential financial stability risks). A further approach could be through synchronisation, making use of the coexistence of multiple ledgers, connected by a third party or a technical mechanism.
+footnote
+[8]
+We intend to launch a ‘synchronisation lab’: a platform that would simulate the synchronisation interface that the Bank is designing, and enable prospective synchronisation operators to develop and showcase viable propositions by facilitating hands-on experimentation across multiple use cases. We anticipate reporting findings in 2026, focusing on learnings for the design and build of a future live RTGS synchronisation capability.
+We are also conscious of the need to test the use cases, functionalities and prospective designs of both wCBDC and synchronisation. The Bank has proposed to do this with a programme of experiments in wholesale payments, the first of which will test synchronised settlement of a tokenised bond. We hope to report our first findings in the second half of 2026.
+In the interim, we will continue to work closely with industry to gain insights to inform the scope of our experiments and the design of the synchronisation functionality in RTGS. We will also explore a further experiment later this year on how central bank money can be transacted and settled on an external programmable ledger which the Bank of England does not control.
+Conclusion
+The digitalisation of wholesale markets could deliver a step change in efficiency and competitiveness of the UK financial sector, for example operational efficiencies of 40% could be achieved across a bond life cycle.
+footnote
+[9]
+These innovative new ways to manage interoperability and settlement risks will be beneficial too, and aided by the separate plan to move to T+1 settlement in 2027 for the UK and European financial markets.
+footnote
+[10]
+The economic case for modernising capital markets is compelling. Efficient capital markets direct capital to its most productive use - lowering the cost of capital and supporting long-term economic growth.
+Seizing the opportunities of new technology for the next generation of wholesale payments and settlement requires bold and clear action from authorities and industry. I hope that I have provided a clear sense of the wide range of steps, including delivered the renewed RTGS, new innovative features in RTGS, enabling innovation through the Digital Securities Sandbox, and our experimentation work, that the Bank is taking to make this a reality.
+With thanks to Richard Lewis and Yi Wei Chai for their assistance in preparing these remarks, and to numerous Bank colleagues, including Andrew Bailey, Mary Bentley, Sarah Breeden, Emma Butterworth, Victoria Cleland, David Copple, Alex Gee, John Jackson and Nina Turnbull for their helpful contributions and comments.
+See
+The future of money and payments – speech by Andrew Bailey | Bank of England
+See
+Response to the discussion paper on reviewing access to RTGS accounts for settlement | Bank of England
+For further detail on this work, please see -
+Innovating wholesale payments: building a resilient and innovative future − speech by Victoria Cleland | Bank of England
+Synchronisation enables the transfer of two assets on separate ledgers to be linked such that one asset moves if and only if another asset moves.
+See
+The Future of Post-Trade | Bank of England
+See
+HM Treasury and the UK Debt Management Office Policy Paper – Additional Information on the Digital Gilt Instrument (DIGIT)
+See
+Project Meridian FX: exploring synchronised settlement in FX
+Another example of this is the Deutsche Bundesbank’s ‘trigger solution’ -
+Trigger Solution | Deutsche Bundesbank
+See
+Tokenized financial assets: From pilot to scale | McKinsey
+See
+Innovation in UK Financial Markets - shortening the settlement cycle – speech by Sasha Mills | Bank of England
+See
+Innovation in UK Financial Markets - shortening the settlement cycle – speech by Sasha Mills | Bank of England
+Close
+See
+Tokenized financial assets: From pilot to scale | McKinsey
+Close
+Another example of this is the Deutsche Bundesbank’s ‘trigger solution’ -
+Trigger Solution | Deutsche Bundesbank
+Close
+See
+Project Meridian FX: exploring synchronised settlement in FX
+Close
+See
+HM Treasury and the UK Debt Management Office Policy Paper – Additional Information on the Digital Gilt Instrument (DIGIT)
+Close
+See
+The Future of Post-Trade | Bank of England
+Close
+Synchronisation enables the transfer of two assets on separate ledgers to be linked such that one asset moves if and only if another asset moves.
+Close
+For further detail on this work, please see -
+Innovating wholesale payments: building a resilient and innovative future − speech by Victoria Cleland | Bank of England
+Close
+See
+Response to the discussion paper on reviewing access to RTGS accounts for settlement | Bank of England
+Close
+See
+The future of money and payments – speech by Andrew Bailey | Bank of England
+Close
+Dave Ramsden
+Deputy Governor, Markets and Banking
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

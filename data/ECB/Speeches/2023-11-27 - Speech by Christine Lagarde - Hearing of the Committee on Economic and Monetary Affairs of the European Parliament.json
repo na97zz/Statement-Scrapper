@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+  "date_original": "2023-11-27",
+  "date_au": "27/11/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231127~a4af2f4e28.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-11-27 - Speech by Christine Lagarde - Hearing of the Committee on Economic and Monetary Affairs of the European Parliament.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-11-27 - Speech by Christine Lagarde - Hearing of the Committee on Economic and Monetary Affairs of the European Parliament.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "806fb7f444995d1861c34086b2bf818918cb8cbdbaf1f956ec909c966fc0b6ba"
+}

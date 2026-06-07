@@ -1,0 +1,126 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Building tomorrow’s markets: the digitalisation of finance − speech by Sasha Mills
+DATE: 01/06/2025
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/july/sasha-mills-keynote-address-at-city-week-2025
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Building tomorrow’s markets: the digitalisation of finance − speech by Sasha Mills
+Given at City Week 2025
+Published on 
+
+ 02 July 2025
+In this speech, Sasha discusses building a digital financial system featuring tokenisation and distributed ledgers alongside the existing system. She highlights the need for innovation, regulatory clarity, and interoperability with existing systems to ensure stability, efficiency, and confidence in the evolving financial landscape.
+Speech
+Thank you for inviting me to speak at City Week again this year, it is a pleasure to be back.
+Building a digital financial system that realises the benefits of new technologies, coexists with existing technologies and supports innovation to explore and extract efficiencies safely is the best way to support the international markets London has long hosted, as well as ensuring payments networks continue to underpin commerce. Today I am going to talk about how we can harness innovation to develop the foundations and functions of tomorrow’s financial markets, how they fit together and key developments to build that future, including our updated thinking on settlement assets.
+We view digitalisation of wholesale financial markets as a way to improve their function and efficiency through the use of new and innovative approaches to technologies and using data. Tokenisation of assets (digital representation of financial assets using Distributed Ledger Technology, or DLT) and smart contracts on programmable and shared ledgers can deepen existing markets, unlock new ones, and change how asset classes, capital, and balance sheets can be mobilised within the financial system.
+As we build this new ecosystem, we should not forget the hard learnt lessons of the past. Money requires confidence to support economic activity and growth in good times and bad. A lack of trust in money speaks to financial instability, as we’ve seen countless times in history. Participants in real economy and financial transactions require certainty that settlement is final – ownership and payment. Without that, we might see cascading failures in leveraged markets. Building the new ecosystem should protect these principles to maintain financial stability, adhere to same risk, same regulatory outcome and give space to innovators to compete to deliver solutions. That is what we are here to ensure.
+This innovation has to take place alongside the existing financial system, in the same way modern structures sit side-by-side with the City of London’s historic buildings. Foundations for financial markets - the regulatory structures – need to support both new and old in a mixed ecosystem and help them interoperate together.
+How information flows around the financial system has largely remained unchanged in the modern age. It is, in effect, an analogue market that has operated in broadly the same way, on similar technology, since the 1970s. For example, securities can still exist as physical certificates; market participants rely on millions of messages every day to manage transactions and associated post-trade processes; and many of these processes are still centred around an ‘end of day’ that is increasingly at odds with a 24/7 global financial system.
+While established structures are important in an ecosystem, they become more complex and more expensive to maintain as they are adapted to meet updated needs. We are all familiar with our roads being dug up to improve utilities or simply strengthen the structures, frequently long after users of these services have borne the consequences of weak supply. In financial markets we see similar trends, where investment in the critical post-trade environment has lagged behind ‘front office’ functions where increasingly faster communications and executions can provide a critical edge. The Bank’s 2020 Future of Post-Trade Report found that 75% of IT spend is to ‘keep the lights on’ rather than introduce efficiencies.
+footnote
+[1]
+While the existing infrastructure is increasingly obsolescent, there is reticence to invest in new technology at scale without having a better sense of what the future might look like. At some point, it makes more sense to build new structures than try to modify the existing ones. In our view, this point in time is fast approaching, if not already here. So, how can we ensure that the foundations are secure to provide more confidence in investing and building the next generation of our financial system?
+Foundations of Digitalisation
+The Bank has a key oversight role in the planning process for the new structures of our financial system,
+footnote
+[2]
+while at the same time preserving the integrity of the existing ones during their construction. Through our secondary innovation objective and to play our part to support this growth, we are being more proactive in looking at aspects of regulation that could be barriers to new technologies; weighing up our decision making to incentivise both existing FMIs and new entrants to the market; and engaging in constant dialogue with industry to ensure that our approach can deliver the objectives of both sides.
+Since I spoke here last year, we have made significant progress in laying the foundations for new structures. The Digital Securities Sandbox (DSS) has seen considerable interest, with new entrants and incumbents alike entering the regime. The DSS has also shown the value of a tangible use case: the UK Government’s Digital Gilt pilot (DIGIT), which will issue government debt on a distributed ledger, has led to an uptick in firms entering the DSS.
+In addition to DIGIT, entrants to the DSS have presented us with a variety of use cases, beyond the drive for greater efficiency in post-trade activity that was the original use case that gave us the impetus to launch the DSS. Some firms are also exploring how tokenisation of assets could make it more straightforward to move assets around the financial system. This can remove operational and technical barriers, open up activity that was not previously possible like intraday repos, and can also expand the pool of assets in the system that can be utilised as collateral. In other cases, the ease and cost of setting up DLT infrastructure is deepening markets in corners of the financial system that were not well served by legacy systems, such as gold, fund management, and private markets.
+In terms of the technology being put forward, we’re pleased to see that firms have advanced a mix of solutions: private and public, permissioned and permissionless ledgers. This sets us up well as regulators to get the most out of the Sandbox and write sensible regulations for a new age that is informed by a variety of live transactions following different business models.
+But transactions need to be paid for, and having a digitally compatible or digitally native means of payments with minimum credit, market and liquidity risk is a critical part of the future ecosystem. The Bank is not just responsible for laying the foundations through regulation. We are an infrastructure operator and a participant in the financial system, and we can leverage this unique position to build and induce change ensuring functionality of the future ecosystem.
+As part of building that capability this year saw the milestone upgrade of our Real Time Gross Settlement (RTGS) service. This will be the cornerstone of innovation in wholesale payments, and in turn innovation in the financial markets these payments underpin. It will provide greater resilience, wider access, enhanced interoperability and improved functionality for settlement in the ultimate risk-free settlement asset, central bank money.
+Access to and confidence in settlement assets needs to be maintained. For example, the Bank now offers omnibus accounts for RTGS participants and is the first central bank to onboard a DLT-based private payments operator in Fnality. We are committed to
+enhancing access
+to more firms, and different types of firms, including more non-bank payment service providers, and our current ambition is to
+extend settlement hours in RTGS
+to reduce cross-border frictions and lower settlement risk.
+Modern rails and trains – paying for digital assets digitally
+UK authorities need to legitimise the utility of tokenised assets and payments to safely support growth in the financial system. Most critically, this includes the settlement assets used, whether they are existing or novel forms of money.
+We will soon be consulting on the UK’s systemic stablecoin regime, following up from our Discussion Paper on systemic retail stablecoins published in November 2023.
+footnote
+[3]
+This will sit alongside the FCA’s consultation on their requirements for non-systemic stablecoins, which has already been published.
+It’s important to emphasise that when designing the Bank’s proposed requirements, we tried to be forward-looking and consider what standards stablecoins would need to meet. Firms in the stablecoin industry should also be forward looking and look closely at the Bank’s stablecoin requirements if they plan for their stablecoins to be used widely for retail payments for goods and services. The stablecoin landscape has moved on a lot since 2023, and we have considered those changes alongside industry feedback. One message that comes through strongly is that the Bank’s initial proposal, where all of the backing assets would have to be invested in unremunerated central bank deposits, would not result in a viable business model.
+As noted in recent remarks by Sarah Breeden,
+footnote
+[4]
+we are now minded to allow for a proportion of backing assets to be remunerated. We consider that this should happen by allowing a proportion of backing assets to be invested in High Quality Liquid Assets (HQLA). We think this will support innovation in the UK while maintaining confidence in money and allow for a smoother transition from FCA to Bank requirements within the UK stablecoin regime.
+Consistent with our position in the November 2023 Discussion Paper, we are also considering introducing holding limits for systemic stablecoins. These limits would be transitional and allow the financial system to adjust to new forms of digital money. The Bank considers it likely that, at least during a transition, limits would be needed for stablecoins used in systemic payment systems, to mitigate financial stability risks stemming from large and rapid outflows of deposits from the banking sector – for example sudden drops in the provision of credit to businesses and households – and risks posed by newly recognised systemic payment systems as they are scaling up.
+If implemented, these limits would likely be in the region of £10-20k for individuals and £10mn for businesses. But to be clear, we are still engaging with industry and listening to feedback, so these proposals are not finalised. We will be consulting on the precise details of this and other parts of the Bank’s requirements later this year.
+Relatedly, we are also considering what role stablecoins could play in wholesale markets. The Bank has always been clear that central bank money should be the primary settlement asset in the financial system, and we are innovating central bank money to ensure this remains the case, as I’ll touch on in a moment. But we are also open minded to stablecoins being able to provide innovation that could also be useful for wholesale markets.
+We are therefore considering the role that stablecoins could play in supporting innovation in the Digital Securities Sandbox. We will be putting out further information on this later in the year.
+Alongside stablecoins, tokenised deposits are emerging as a promising innovation within the regulated banking system. These are digital representations of commercial bank money recorded on programmable ledgers and are being looked at by banks to explore real-time, on-chain settlement while preserving the protections and credit creation capacity of traditional deposits. As David Bailey recently noted,
+footnote
+[5]
+they offer a pathway to innovation that aligns with financial stability and maintaining trust and confidence in money. The Bank is actively exploring how tokenised deposits can integrate with initiatives like the Digital Securities Sandbox and the National Payments Vision, ensuring that innovation is both safe and scalable. We are also engaging with industry on a range of industry-led solutions in this space, which we are pleased to see.
+As a payments systems operator, we also continue to build on the foundations laid by the renewal of our RTGS service. Yesterday at City Week, Victoria Cleland highlighted how this new system – RT2 – has been designed as a platform to enable further innovation.
+footnote
+[6]
+To ensure we continue to meet the evolving needs of the UK payments ecosystem, we have identified a series of enhancements as part of the Future Roadmap for RTGS. This includes working with industry on the introduction of a synchronisation interface (which would allow the conditional settlement of funds in RTGS accounts against assets on a variety of external asset ledgers – including those based on DLT). Victoria also gave an update on the Bank’s experiments in wholesale payments, which will test the relative merits of different methods of central bank money settlement for innovative payment systems.
+Subject matter expertise is spread across the industry, and while competition is critical in a well-functioning market, so is collaboration. We have recently launched a
+DLT Innovation Challenge in partnership with the BIS Innovation Hub in London
+, to engage with the private sector to better understand the implications of incorporating DLT into wholesale central bank settlement. I am confident that the Bank and other authorities will continue to seek to leverage our convening powers to turn potential into reality.
+Building on the foundations
+While these foundations are solid, there is much still to put in place to graduate to a financial system that has the capability to deliver faster and cheaper settlement, in line with the asks of the market participants.
+Tokenisation of assets will allow for rationalisation of processes and systems through normalising how asset classes are represented, and for smaller portions of these assets to be mobilised. Resolving certain legal and regulatory questions can unlock more efficient use of a wider range of high-quality assets, including those held on balance sheets, to support market activity.
+We can also look at how we support new entrants to the FMI landscape. As new materials and practices help make futuristic buildings more viable, tokenisation changes the economics of some business models, making new businesses viable. I have already highlighted the DSS, but we will shortly be publishing our approach to onboarding of new FMIs entering the Bank’s regulatory remit. This will set out a risk-based and proportionate approach for how firms can mobilise and scale as FMIs in our permanent regulatory regimes.
+A ‘mixed ecosystem’ where new and old structures co-exist in our financial system is likely for many years, possibly permanently. It is of limited benefit to have bifurcation of liquidity where assets exist within ‘walled gardens’ of old and new structures, or multiple new structures. These systems will need to interoperate – that is, to have synchronised transfers of assets on different ledgers or systems with minimal or no settlement risk.
+We are starting to see credible solutions for this problem, including using public blockchain networks. These can provide connectivity layers without compromising security and regulatory requirements of private systems, such as on-chain FMIs. There is much work to do to turn this concept into reality, and for regulators and users to have confidence in this structure. But this is no different to today’s venue, where there are public areas free for all to use, but controls and information required for people to access this conference.
+From our many discussions with industry, we have heard repeatedly that authorities including the Bank need to signal their support for digitalisation. Hopefully, my comments today will help provide some clarity on the future landscape that we see as regulators of, and operators within, the financial system. We want to continue working with industry to start building on the foundations we, and others, have put in place. It is time to move away from talking about potential and one-off demonstrations of the technology, and for all of us to start working together to deliver a new generation of the financial system that is befitting of London’s place as the heart of the global financial system.
+I would like to thank Alex Gee, Andrew Bailey, Sarah Breeden, Emma Butterworth, Barry King, Kushal Balluck, Pavel Chichkanov, Magda Rutkowska, Mei Jie Wang, Adeshini Naidoo, Nina Turnbull and John Jackson for their help in preparing these remarks.
+The Future of Post-Trade | Bank of England
+Central bank oversight is defined by CPMI as a ‘
+function
+whereby the objectives of safety and efficiency are promoted by monitoring existing and planned systems, assessing them against these objectives and, where necessary, inducing change.
+’
+Regulatory regime for systemic payment systems using stablecoins and related service providers | Bank of England
+International payment rails: the value of a harmonised gauge − speech by Sarah Breeden | Bank of England
+)
+Innovation and regulation - striking the balance - speech by David Bailey | Bank of England
+Synchronisation and beyond: enabling the next wave of financial innovation − speech by Victoria Cleland | Bank of England
+Synchronisation and beyond: enabling the next wave of financial innovation − speech by Victoria Cleland | Bank of England
+Close
+Innovation and regulation - striking the balance - speech by David Bailey | Bank of England
+Close
+International payment rails: the value of a harmonised gauge − speech by Sarah Breeden | Bank of England
+)
+Close
+Regulatory regime for systemic payment systems using stablecoins and related service providers | Bank of England
+Close
+Central bank oversight is defined by CPMI as a ‘
+function
+whereby the objectives of safety and efficiency are promoted by monitoring existing and planned systems, assessing them against these objectives and, where necessary, inducing change.
+’
+Close
+The Future of Post-Trade | Bank of England
+Close
+Convert this page to PDF
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

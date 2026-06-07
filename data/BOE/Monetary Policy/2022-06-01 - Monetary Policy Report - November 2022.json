@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - November 2022",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2022/november/monetary-policy-report-november-2022.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2022-06-01 - Monetary Policy Report - November 2022.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2022-06-01 - Monetary Policy Report - November 2022.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:55:20",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2022/november-2022",
+  "content_sha256": "009e64a4be0537241401879fc2d794c246c22b3ad7b1c66e92339aa82750a1f5"
+}

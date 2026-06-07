@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Eastern Hokkaido)",
+  "date_original": "2025-09-02",
+  "date_au": "02/09/2025",
+  "datetime_original": "",
+  "speaker": "HIMINO Ryozo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250902a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-09-02 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Eastern Hokkaido).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-09-02 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Eastern Hokkaido).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a8374bc2d36a6437cfb121c5130137f2e3c1d2bfcbb24271cd70902f32894240"
+}

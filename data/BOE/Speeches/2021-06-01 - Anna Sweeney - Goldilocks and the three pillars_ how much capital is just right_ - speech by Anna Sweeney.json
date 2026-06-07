@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Goldilocks and the three pillars: how much capital is just right? - speech by Anna Sweeney",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Anna Sweeney",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/february/anna-sweeney-westminster-business-forum",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Anna Sweeney - Goldilocks and the three pillars_ how much capital is just right_ - speech by Anna Sweeney.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Anna Sweeney - Goldilocks and the three pillars_ how much capital is just right_ - speech by Anna Sweeney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0bdc3581654f76798aa99f56bb72a260d7a26391b14170c6012b9b8151eb4e8a"
+}

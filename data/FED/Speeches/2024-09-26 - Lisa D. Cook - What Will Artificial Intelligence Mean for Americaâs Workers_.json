@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "What Will Artificial Intelligence Mean for Americaâs Workers?",
+  "date_original": "2024-09-26",
+  "date_au": "26/09/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20240926a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-26 - Lisa D. Cook - What Will Artificial Intelligence Mean for Americaâs Workers_.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-26 - Lisa D. Cook - What Will Artificial Intelligence Mean for Americaâs Workers_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9b0ee09ce08ec17cada87777979e184b95217ec5e59e3a028148df96eb05704c"
+}

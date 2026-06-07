@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Covid and the composition of spending - speech by Ben Broadbent",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Ben Broadbent",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/january/covid-and-the-composition-of-spending-speech-by-ben-broadbent.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Ben Broadbent - Covid and the composition of spending - speech by Ben Broadbent.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Ben Broadbent - Covid and the composition of spending - speech by Ben Broadbent.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:52",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/january/ben-broadbent-covid-and-the-composition-of-spending",
+  "content_sha256": "d642f7b910ecdd2e30ce1dbf2a640e11aa146e0787b2ac4e855a43aa1a183749"
+}

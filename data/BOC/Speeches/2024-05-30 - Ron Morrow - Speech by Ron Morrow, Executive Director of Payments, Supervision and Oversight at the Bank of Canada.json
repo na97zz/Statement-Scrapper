@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Ron Morrow, Executive Director of Payments, Supervision and Oversight at the Bank of Canada",
+  "date_original": "2024-05-30",
+  "date_au": "30/05/2024",
+  "datetime_original": "",
+  "speaker": "Ron Morrow",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2024/05/speech-ron-morrow-may-30-2024/",
+  "raw_file_path": "data\\BOC\\Speeches\\2024-05-30 - Ron Morrow - Speech by Ron Morrow, Executive Director of Payments, Supervision and Oversight at the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2024-05-30 - Ron Morrow - Speech by Ron Morrow, Executive Director of Payments, Supervision and Oversight at the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:58:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eed7b4a93f75c804f66167a6332210a227b46284e5f46e346ceeb8eac9fd9637"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Statement by Governor Christopher J. Waller",
+  "date_original": "2025-08-01",
+  "date_au": "01/08/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250801a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-01 - Christopher J. Waller - Statement by Governor Christopher J. Waller.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-01 - Christopher J. Waller - Statement by Governor Christopher J. Waller.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "40f214c31e99c61cf747bd6198555ba0ecdfd81826a358298fcd03483a075d05"
+}

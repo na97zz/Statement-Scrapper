@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"LIBOR Transition in the Final Stage: There will be No Deus ex Machina\" (Speech at the NIKKEI Financial Online Seminar Held by Nikkei)",
+  "date_original": "2021-06-08",
+  "date_au": "08/06/2021",
+  "datetime_original": "",
+  "speaker": "Nikkei)",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210608a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-06-08 - Nikkei) - _LIBOR Transition in the Final Stage_ There will be No Deus ex Machina_ (Speech at the NIKKEI Financial Online Seminar Held by.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-06-08 - Nikkei) - _LIBOR Transition in the Final Stage_ There will be No Deus ex Machina_ (Speech at the NIKKEI Financial Online Seminar Held by.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6668669b93a7a2df58078166758a979953688b5727316c63068542217e0e3217"
+}

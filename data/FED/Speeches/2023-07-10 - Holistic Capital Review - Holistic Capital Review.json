@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Holistic Capital Review",
+  "date_original": "2023-07-10",
+  "date_au": "10/07/2023",
+  "datetime_original": "",
+  "speaker": "Holistic Capital Review",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20230710a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-07-10 - Holistic Capital Review - Holistic Capital Review.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-07-10 - Holistic Capital Review - Holistic Capital Review.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ee2b05dd9a4f0806b38c7d92f2166ce416534cd04134ad95c0d5c700aa0ea248"
+}

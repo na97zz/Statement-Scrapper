@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Challenges for monetary policy",
+  "date_original": "2022-07-04",
+  "date_au": "04/07/2022",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220704~9f5fc26b43.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-07-04 - Luis de Guindos, Vice - Challenges for monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-07-04 - Luis de Guindos, Vice - Challenges for monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1faf42471caaea4c0f721a573935fb56099e6815676d3ddfb45bf6999cc3013d"
+}

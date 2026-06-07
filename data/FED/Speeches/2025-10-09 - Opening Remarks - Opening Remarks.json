@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2025-10-09",
+  "date_au": "09/10/2025",
+  "datetime_original": "",
+  "speaker": "Opening Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20251009a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-09 - Opening Remarks - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-09 - Opening Remarks - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5c36b4ea7ab2502fd4a1a313c704336c79639243bf96a5c87b3d2bcce683b8b5"
+}

@@ -1,0 +1,176 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The Real Time Gross Settlement service: an open platform to drive innovation - speech by Victoria Cleland
+DATE: 01/06/2024
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/january/victoria-cleland-speech-on-supporting-payments-innovation-through-rtgs
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The Real Time Gross Settlement service: an open platform to drive innovation - speech by Victoria Cleland
+Given at the Payments Regulation and Innovation Summit
+Published on 
+
+ 25 January 2024
+Victoria Cleland describes how the Bank of England is enhancing its core payments infrastructure and policies in the light of the opportunities arising from innovation and new technologies in the payment landscape.
+Speech
+Technological innovation coupled with shifts in demand for payment services is driving transformation in the financial and payment landscape. Today I will outline how the Bank of England is enhancing its core payments infrastructure to support this change.
+The way users transact has changed significantly in recent years, and continues to evolve. There has been a decisive move towards electronic payments and an increasing trend toward always-on, real-time retail and wholesale transactions. Contactless payments using not just cards but also phones and watches are now widely used, and online payments continue to increase. This change is not just about technology but a fundamental shift in user behaviour and preferences. More people now expect financial transactions to keep pace with the speed of digital communication.
+The nature of transactions is also changing, with a continued growth in cross-border payment values. Global payments are expected to increase significantly by the end of the decade, from $190 trillion today to $290 trillion by 2030
+footnote
+[1]
+. This is a function of our increasingly interconnected global economy, where transactions are becoming more international and often driving round-the-clock operations. To support this move, and following the G20 cross-border payments roadmap
+footnote
+[2]
+, many improvements are being made by the public and private sectors working collectively to reach the G20 targets
+footnote
+[3]
+for enhancing cross-border payments.
+In his July 2023 Mansion House speech
+footnote
+[4]
+, Andrew Bailey described the work the Bank is undertaking to explore innovation in retail and wholesale payments while maintaining confidence in the value of money and the settlement of payments. My focus this morning is on wholesale settlement in central bank money, and the enhancements underway. And I am looking forward to hearing Joe Garner speak about retail payments in the next session.
+Central bank wholesale money, the reserves held by financial institutions at the Bank of England is the most liquid and widely accepted settlement asset in the UK economy. It offers the highest level of safety arising from the backing of the central bank, which reduces counterparty and credit risks. Due to these properties, final settlement in central bank money is a core foundational component for many domestic and cross-border payments.
+The Bank of England makes this asset available via its Real Time Gross Settlement (RTGS) service by providing reserves accounts to banks and building societies eligible for the
+Sterling Monetary Framework
+footnote
+[5]
+, settlement accounts to payment system participants and settlement agency services to Financial Market Infrastructures. RTGS is the beating heart of the financial system, so we want to ensure that it can continuously adapt to the changing needs of the industry and that safe and resilient settlement in central bank money remains at the core of the payments landscape.
+Our vision is for RTGS to act as an open platform for change and innovation, supporting the Bank’s financial stability and monetary policy objectives. This platform should drive improvement in wholesale settlement efficiency and encourage a competitive ecosystem of firms while minimising credit and operational risk. Ultimately, we want to support the development by industry of innovative features which would lead to cheaper, safer and faster domestic and cross-border payments.
+To achieve this, we are making enhancements to the RTGS service to catalyse industry innovation in a number of key areas: increased transparency to empower firms and users in making better informed economic decisions, greater automation to speed up payments and cut costs by minimising manual intervention and introducing new services leveraging payment programmability, which could help to save liquidity and reduce settlement risk. We are also exploring how wider access to the RTGS platform and longer operating hours as well as boosting resilience can help foster innovation.
+This is an ambitious but exciting agenda: starting with our programme to renew the RTGS infrastructure.
+We are renewing the RTGS infrastructure
+RTGS is currently being renewed to deliver more resilient, flexible and innovative sterling settlement. The first phase of our RTGS renewal programme, which focused on implementing the ISO 20022 global messaging standard completed in June 2023
+footnote
+[6]
+. And this year we will transition to a new core settlement engine. The renewed service will provide benefits for the industry across four key areas: increased resilience, greater access, wider interoperability and improved user functionality.
+ISO 20022 supports cross-border payments by speaking a “common language” which increases global payment system harmonisation. It also offers benefits to individual firms through richer and higher-quality data, aiding straight-through processing and enhanced compliance and fraud detection. We continue to work with the industry to encourage consistent data use domestically, and internationally we support HVPS+ a set of guidelines for payments made through high-value payment systems. However, the greatest benefits of ISO 20022 can only be realised if industry embraces it and uses the data. To support this, purpose codes and Legal Entity Identifiers (LEIs) will be mandated in specific CHAPS payments beginning from November 2024, and structured addresses and remittance data a bit later from November 2025
+footnote
+[7]
+.
+Our new core settlement engine will provide immediate benefits
+footnote
+[8]
+including: enhanced resilience and capacity, the ability to accept CHAPS payments up to 10 days in advance and enhanced liquidity-saving mechanisms. There will be also greater user functionality through a new user interface for RTGS (BERTI) and APIs. And its modular and flexible design will provide an excellent platform for future innovation. We will further build on our close cooperation with industry as we continue our journey to build a system to meet the demands of current and future players. As a next step, we plan to release two discussion papers in the next few weeks, one on RTGS access policies and another on RTGS operating hours. Enhancing these areas could
+further reduce barriers to using settlement in central bank money by broadening the access to new users and reducing for all participants frictions arising from limited operating hours.
+We are reviewing whether access to RTGS could be further improved
+Over recent years, to support the evolving payments landscape, the Bank of England has introduced several changes to its policies that govern access to RTGS. Increasing RTGS access, particularly for Non-Bank Payment Service Providers (NBPSPs), Financial Market Infrastructures (FMIs), and foreign banks, holds significant potential to boost efficiency, transparency, and resilience in the global payments system, as envisioned by the G20 roadmap.
+In 2017 we were the first central bank in the G7 to open access to NBPSPs, and a number have since joined. We wanted to offer settlement accounts to more firms and help them compete on a level playing field with established banks, changing the payment landscape here in the UK.
+More recently, in 2021, we introduced a new type of account: an omnibus account
+footnote
+[9]
+. A recognised payment system operator can use these accounts to pool participant funds and fully fund wholesale settlement – on their platform – with central bank money and mitigate credit and settlement risk during and outside of RTGS operating hours.
+We expect Omnibus accounts to support competition and innovation in wholesale payment services by expanding the range of access options currently available. These accounts enable participants to benefit from the safety of central bank money when they make payments via a payment platform linked to an omnibus account. This is particularly beneficial for real-time payments, synchronised settlement and cross-border transactions and offer participants improved flexibility to manage their intraday liquidity.
+We have already seen some tangible developments in this space; last year, the first user of the omnibus account functionality, the Sterling Fnality Payment System (£FnPS), processed their first live sterling transactions involving a digital representation of funds held at a central bank. Fnality is now connected to CHAPS and making controlled live payments to test their system.
+Demand for access to RTGS and CHAPS has been growing significantly over time. There are now c260 RTGS account holders, and the number of CHAPS Direct Participants has grown from 14 in 2007 to 38 in 2023. In renewing RTGS we have taken steps to build capacity to support broader participation, offer a more streamlined and simplified onboarding and introduce a more proportionate, risk-based assurance model. These steps should lead to further increases in access, but we are not stopping there.
+Using the CPMI self-assessment framework for cross-border payments, we have conducted a review and identified four areas of potential enhancements where we would like industry input.
+For NBPSPs, the Bank and the FCA have worked together to improve the assessment process for new firms seeking to access to RTGS. We want to understand whether the new strengthened assessment and ongoing assurance processes need any further adjustments so onboarding to RTGS is streamlined without compromising on safety and soundness.
+For foreign banks, we would like to help them understand better the benefits and costs to direct access that we already offer to RTGS to encourage greater direct participation and to enhance the settlement of cross-border payments.
+For FMIs, we are examining our arrangements to explore whether introducing a new assurance regime for non-systemic FMIs, and a discretionary mobilisation stage, can make it easier for start-ups or less mature infrastructure firms to take advantage of the Bank’s settlement services without compromising on our risk requirements.
+And we are examining whether we should review the CHAPS value threshold of 2% and the factors considered for withdrawing consent when an indirect participant exceeds it, as a means to further enhance resilience in CHAPS by reducing the risks that are present where significant volumes are processed by agent banks.
+We will issue a discussion paper next month to seek industry views on whether we have identified the right priorities. I encourage you all to respond.
+We are reviewing the case for extended RTGS operating hours
+Since 2016, RTGS has been settling interbank obligations 12x5 from 6am to 6pm each business day. The new RTGS system will be able to support extended hours, with no technical barriers to moving to a near 24x7 operation in the future. An extension of RTGS operating hours could serve as a catalyst for further innovation and we are keen to seek industry’s views on how they could benefit from enhanced availability.
+Extending hours can enhance domestic payments and reduce risk in the financial system. For instance, longer operating hours could facilitate additional interbank settlement of retail payment obligations, ultimately reducing settlement and credit risk of uncollateralised exposures between participants or reducing liquidity costs of collateralised ones.
+It could also improve cross-border payments, a key focus of the G20. With more systems worldwide open simultaneously, cross-border payments transactions become quicker, potentially less expensive, and safer thanks to reduced time zone delays, easier liquidity management, and reduced peak-time bottlenecks.
+We have engaged with key stakeholders throughout 2023 and will publish a Discussion Paper next month to further enhance our understanding of the implications of changes in operating hours. We want to:
+Gather broader feedback on the use cases, operational aspects, and approaches to operating RTGS and CHAPS longer, up to nearly 24x7.
+Understand the demand for extended hours and the more strategic, global, and long-term drivers of an RTGS extension, especially concerning future innovation in the payment landscape.
+Understand the risks and constraints in extending hours.
+Gain insights to help us define our end-state and how to ensure a balanced transition path.
+This will help us establish a plan that balances our public policy objectives, the evolving payment needs of an increasingly digital economy, and the current industry demand and capacity to make the necessary changes. Again, I encourage you to provide your feedback.
+We are developing further initiatives to foster wholesale settlement innovation
+Improving access to RTGS and having the right operating hours for RTGS are the important steps to expanding settlement in central bank wholesale money. They have benefits in their own right but will also facilitate further opportunities for innovation. We are currently undertaking engagement with the industry through a representative industry panel in two key areas: providing more resilient channels to connect to RTGS and synchronisation.
+Synchronisation, would enable us to expand access to central bank money settlement further by coordinating settlement in RTGS with the transfer of one or more other assets on another ledger. Synchronisation of ledgers achieved via enhancements to RTGS could deliver atomic settlement, and forms part of the broader set of wholesale CBDC technologies. Atomicity ensures that transfers of assets or funds between parties happen conditionally and irrevocably, meaning they either happen entirely or not at all.
+Synchronising an RTGS system with other asset ledgers, be it another RTGS for foreign exchange transactions or real estate ledgers for housing purchases, enables all parts of the transaction to be linked together. In addition to the efficiency savings, it extends Delivery versus Payment to more use cases, helping to eliminate settlement risk, lower transaction costs, and enhance security and transparency.
+Building on our previous work, we recently undertook Project Meridian
+footnote
+[10]
+, a joint Proof of Concept with the London BIS Innovation Hub, which explored how synchronisation could work in practice. As part of this we developed a prototype, Distributed Ledger Technology (DLT) based synchronisation operator and demonstrated and tested an end-to-end synchronised transaction between a digitised asset ledger and RTGS, using Application Programming Interfaces (APIs).
+The global central banking community also continues to experiment with a range of different wholesale CBDC technologies. We engage closely with such initiatives to evaluate which of these technologies, including those provided via the renewed RTGS, would offer the most benefits in the UK.
+An RTGS service open longer, with more and different types of participants, and which offers synchronisation to a wide range of ledgers, could achieve many of the benefits often associated with wholesale CBDC. It would deliver our vision of a wholesale platform with more efficient and resilient wholesale payments provided by a competitive and mixed ecosystem of firms. And importantly would not require the creation of a completely new payment infrastructure.
+This approach could support innovative features like the programmability of payments, where built-in rules or instructions automatically trigger actions upon specific conditions. This could be helpful for supply chain finance, for instance, where payments to suppliers could be triggered upon the delivery of goods, eliminating the need for invoices and manual approvals. Another example would be efficiency gains in the securities world, where linking programmable digital assets up with central bank money settlement could facilitate automated securities servicing and corporate actions.
+There has never been a more exciting time to be working in payments. There is change in the demand for services and in the types of technology available to deliver them. At the Bank of England, we see this change as an opportunity and are committed to continuing to work closely with industry to design and deliver the core infrastructure that enables private sector innovation to thrive.
+“Change is inevitable, transformation is by conscious choice”
+footnote
+[11]
+: let us work together to transform the payments landscape.
+I would like to thank Regis Bouther, Michaela Costello, Richard Lewis, Dovile Naktinyte, John Jackson and Paul Bedford for their help in preparing these remarks.
+FXC Intelligence (2023),
+Cross-border payments market sizing data
+Financial Stability Board (2023),
+G20 Roadmap for enhancing cross-border payments: Third consolidated progress report
+Financial Stability Board (2021),
+Targets for addressing the four challenges of cross-border payments: Final report
+Andrew Bailey (2023),
+New prospects for money
+Bank of England (2023),
+Bank of England Market Operations Guide
+Bank of England (2023),
+ISO 20022: Implementing the global payments messaging standard within CHAPS and RTGS
+Bank of England (2023),
+ISO 20022 Handbook
+Bank of England (2023),
+The renewed RTGS service – key benefits
+Bank of England (2021),
+Bank of England Omnibus Accounts – Access Policy
+BIS Innovation Hub London Centre (2023),
+Project Meridian: innovating transactions with synchronisation
+HeatherAsh Amara (2014) - Warrior goddess training: become the woman you are meant to be
+HeatherAsh Amara (2014) - Warrior goddess training: become the woman you are meant to be
+Close
+BIS Innovation Hub London Centre (2023),
+Project Meridian: innovating transactions with synchronisation
+Close
+Bank of England (2021),
+Bank of England Omnibus Accounts – Access Policy
+Close
+Bank of England (2023),
+The renewed RTGS service – key benefits
+Close
+Bank of England (2023),
+ISO 20022 Handbook
+Close
+Bank of England (2023),
+ISO 20022: Implementing the global payments messaging standard within CHAPS and RTGS
+Close
+Bank of England (2023),
+Bank of England Market Operations Guide
+Close
+Andrew Bailey (2023),
+New prospects for money
+Close
+Financial Stability Board (2021),
+Targets for addressing the four challenges of cross-border payments: Final report
+Close
+Financial Stability Board (2023),
+G20 Roadmap for enhancing cross-border payments: Third consolidated progress report
+Close
+FXC Intelligence (2023),
+Cross-border payments market sizing data
+Close
+Victoria Cleland
+Executive Director, Payments
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Jet Flight, Mail Bags, and Banking Regulation",
+  "date_original": "2021-06-03",
+  "date_au": "03/06/2021",
+  "datetime_original": "",
+  "speaker": "Randal K. Quarles",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20210603a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-06-03 - Randal K. Quarles - Jet Flight, Mail Bags, and Banking Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-06-03 - Randal K. Quarles - Jet Flight, Mail Bags, and Banking Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "32c8abff0f234576d48475016151cafd47b5a741cd51c1be2f0b95a908ced644"
+}

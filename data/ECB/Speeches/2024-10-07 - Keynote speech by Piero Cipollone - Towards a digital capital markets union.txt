@@ -1,0 +1,277 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Towards a digital capital markets union
+DATE: 07/10/2024
+SPEAKER: Keynote speech by Piero Cipollone
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241007~cc903db51d.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Towards a digital capital markets union
+Keynote speech by Piero Cipollone, Member of the Executive Board of the ECB, at the Bundesbank Symposium on the Future of Payments
+Frankfurt am Main, 7 October 2024
+The foundations of the financial system as we know it today can be traced back to 14th-century Italy,
+[
+1
+]
+when double-entry bookkeeping
+[
+2
+]
+was introduced, along with nostro and vostro accounts
+[
+3
+]
+to facilitate the settlement of foreign trades across separate, independent ledgers
+[
+4
+]
+.
+Although today’s financial markets are highly complex and sophisticated, the fundamental practice of bookkeeping across ledgers has remained largely unchanged and continues to exert a significant influence on existing market structures. For example, at each stage of the securities life cycle, banks, brokers, information providers and other market participants play an essential role in intermediation. This complexity comes at a cost: research shows that on the whole, financial intermediation costs in advanced economies have increased since the late 1960s.
+[
+5
+]
+In Europe, this complexity is compounded by regulatory fragmentation across the continent, resulting in the ongoing fragmentation of capital markets. For example, there are 35 different exchanges for listings and 41 exchanges for trading.
+[
+6
+]
+Some effort has been made towards integration in the post-trade sector, including through the creation of the TARGET2-Securities (T2S) platform, which can be used to transfer securities and cash between investors across Europe
+[
+7
+]
+, and through common platforms used by central securities depositories (CSDs). But the lack of harmonisation in the legislative and regulatory framework regarding custody, asset servicing and tax-related processes, for example, prevents the sector from reaping the benefits and synergies that an integrated European market could bring.
+[
+8
+]
+The European Union (EU) has taken steps to address the regulatory barriers that exist in order to create deeper and more integrated capital markets.
+[
+9
+]
+But many obstacles still remain, such as insufficient regulatory harmonisation, the absence of unified supervision
+[
+10
+]
+or the lack of a permanent safe asset and integrated banking system
+[
+11
+]
+. This has led to multiple calls for renewed efforts, including from euro area finance ministers
+[
+12
+]
+, EU institutions
+[
+13
+]
+and Enrico Letta and Mario Draghi in their recent reports
+[
+14
+]
+.
+But there is one crucial dimension that has often been overlooked, and that is technology. My aim today is not to discuss how to create a capital markets union for traditional assets, but to discuss how to create one for digital assets from the outset.
+Although technology has undeniably helped facilitate the provision of financial services through electronic bookkeeping, for example, digital technology has so far failed to deliver financial integration in Europe. In fact, non-interoperable technological ecosystems in each country – shaped by diverging national regulatory regimes – have created siloed pools of asset liquidity, further entrenching fragmentation.
+However,
+recent advancements in digital technology offer an opportunity to create
+an integrated European capital market for digital assets – in other words, a digital capital markets union.
+Financial institutions are increasingly exploring the potential of tokenisation, which is the process of using new technologies, such as distributed ledger technology (DLT), to issue or represent assets in digital form, known as tokens. Unlike conventional assets, these tokens are not recorded on a centralised ledger but using DLT. Imagine a future where money and securities no longer sit in electronic, book-entry accounts but “live” on distributed ledgers held across a network of traders, each with a synchronised copy.
+If public authorities fail to act, this could lead to fragmentation. But if they seize the opportunity, then the benefits of this new approach could reach far beyond tackling technological inefficiencies, eventually resulting in a move away from the centuries-old structure of intermediation to a unified, distributed ledger or a constellation of fully interoperable ledgers. This transition could help us deal with the current fragmentation of financial infrastructures, reduce barriers to entry and serve as a driver of capital market integration in Europe.
+As a central bank, we recognise that our role in this transformative journey is to maintain trust and confidence in the value of money and the financial system. To fulfil this mandate, we have to adapt to the evolving technological landscape that is reshaping how money is exchanged and financial transactions are settled in an increasingly digital world. Understanding these innovations, preparing for them and – when they materialise – supporting their safe adoption are central to our mission. In addition,
+central bank money has a key role to play in facilitating the interoperability and integration of decentralised systems.
+[
+15
+]
+Today, I want to explore how we can build an integrated European capital market for digital assets from the outset. At the same time, while the potential benefits of advances tokenisation and DLT are significant, we must also consider the risks to the financial market structure and the provision of central bank money. I will discuss how central banks can effectively support this technological transition.
+The transformative potential of tokenisation and DLT in capital markets: balancing innovation with risk
+In recent years, there has been a notable increase in the adoption of financial technology, including the use of tokens and DLT. This transformation is not just theoretical: it is happening now.
+In the banking sector alone, over 60% of EU banks surveyed are actively exploring, experimenting with or using DLT solutions, while 22% have already started using DLT applications.
+[
+16
+]
+However, the use of DLT is not yet widespread. Currently, it is mainly used for primary issuance, although further applications and use cases are increasingly being looked at. But there is strong interest in exploring the potential of DLT, and leading global financial market infrastructures such as DTCC, Clearstream and Euroclear are aiming to set standards to facilitate the adoption of tokenisation across the financial sector.
+The public sector is also contributing to this movement. Since having a solution for settling transactions in central bank money makes DLT-based solutions more attractive and less risky, there is strong demand from market participants to be able to use central bank money to settle digital asset transactions. As a result, the Eurosystem is conducting exploratory work to test DLT for the settlement of wholesale transactions in central bank money.
+[
+17
+]
+Similarly, the Bank for International Settlements’ Innovation Hub has launched several projects exploring this theme.
+[
+18
+]
+The promise of tokenisation and DLT lies in the creation of a transparent ledger which would make it possible to perform the three key functions of asset trading, namely negotiation, settlement and custody, on the same platform.
+[
+19
+]
+This is expected to reduce transaction costs by reducing the need for reconciliation, matching and other data processing steps, which would foster resilience and make it possible to operate on a 24/7, 365 days a year basis. DLT also supports the native issuance of digital assets, enabling direct transactions between a wide range of investors. This could lower barriers to entry and create opportunities for small issuers, such as small and medium-sized enterprises, to access capital markets. DLT would also enhance efficiency by significantly reducing settlement times and using the self-executing, programmable functions in smart contracts.
+This could potentially bring substantial savings. According to some estimates, automation and smart contracts could reduce annual infrastructure operational costs by approximately USD 15-20 billion in global capital markets.
+[
+20
+]
+In addition to these savings, the possibility of extensive implementation of tokenisation and DLT offers opportunities to overhaul market structures. This could prove instrumental in tackling the technological obstacles hindering the establishment of a capital markets union in Europe. The new ecosystem could be designed from scratch in a more integrated and harmonised manner by providing a “common set of rails” – a shared ledger or an ecosystem of fully interoperable ledgers – that would ensure reachability, open access and compatibility across participants’ services. CSDs, banks, investment managers and other market stakeholders would provide their services directly on a shared infrastructure, while each would be able to maintain a level of control and customisation over the functionalities. This would also allow a more flexible approach to the role of each participant in the ecosystem. From a technical perspective, it would also be possible to bring together all assets, functionalities and market players on one centralised platform. But it is precisely the combination of a shared infrastructure with customised control that could encourage different stakeholders to agree on “common rails” instead of relying on their own infrastructures, as they often do today.
+However, the early development stages of DLT present significant coordination challenges and risks to the financial system.
+There are therefore three primary risks that we must address.
+The first is the potential for an uncoordinated proliferation of DLT platforms, which could result in a fragmented landscape. In this nascent stage of development, established financial institutions are apprehensive about DLT but are nevertheless keen to take advantage of its potential. Several new DLT platforms could emerge as a result, as market participants develop their own solutions without fully considering the broader economic implications. This could exacerbate the existing fragmentation among CSDs and other proprietary ledgers, leading to a lack of standardisation. This, in turn, would pose new coordination challenges and jeopardise our objective of establishing a digital capital markets union for Europe.
+[
+21
+]
+The second risk is that central bank money could lose its status as the safest and most liquid settlement asset. If end users – in this case firms and investors – demand an “on-chain” means of payment to seamlessly support automated transactions via DLT, the lack of a solution for settling transactions in central bank money could encourage banks or stablecoin issuers to offer private money alternatives. A permanent shift from central bank money to commercial bank money or stablecoins could disrupt the existing two-tier monetary system and threaten financial stability by undermining central bank money’s role as a risk-free settlement asset. This would contradict the principles agreed at international level.
+[
+22
+]
+Lastly, public authorities still have more work to do to understand and assess the inherent risks and vulnerabilities stemming from DLT-based tokenisation.
+[
+23
+]
+Tokenisation does not remove the vulnerabilities we know of from traditional finance, although these vulnerabilities may play out differently depending on design choices, adoption and scale. The key issue will be the choice of settlement assets, which could amplify liquidity risk or other vulnerabilities, but other risks could also emerge if new entities fall outside the scope of regulation or there are operational weaknesses.
+To deal with these risks, central banks and regulators must act early and work with market participants from the outset. If we drag our feet while other jurisdictions move faster and produce better solutions, we could see financial activities migrating elsewhere and private entities from outside the EU assuming a dominant position in European capital markets. Moreover, European market participants may then adopt uncoordinated approaches and invest in their own infrastructures. They could then resist any efforts by central banks to introduce enhanced settlement solutions, particularly if these threatened the viability of their new business models. If we don’t act soon, it may be impossible to achieve a genuine digital capital markets union with efficient wholesale payment and settlement services using risk-free central bank money.
+A European vision for the future of digital capital markets
+Given the early stage of market development and the strategic approaches being adopted by industry players, it is paramount that central banks provide clear direction. By offering clear and consistent guidance, the ECB serves as a crucial coordination mechanism for the European financial industry. This helps market participants align their efforts and innovate within a common framework, fostering interoperability.
+Central banks should play a proactive role in this transformation for two main reasons. First, it is vitally important to maintain, if not increase, the use of central bank money as the settlement asset in wholesale markets. Central bank money plays a pivotal role as the anchor of our two-tier monetary system, serving as a cornerstone of financial stability.
+The second reason is to promote robust, stable and integrated European capital markets. Therefore, our aim is to facilitate the provision of central bank money settlement for wholesale transactions of DLT assets, thereby using the financial industry’s adoption of DLT to address existing shortcomings associated with the fragmentation of European capital markets.
+One way to achieve this would be to move towards a European ledger, which would be a single-platform solution where assets and cash would coexist on one chain. Many market participants believe this is a must if we want to fully reap the benefits of DLT. This ledger would address the technological complexities, inefficiencies and fragmentation that are currently preventing the integration of European capital markets for traditional assets.
+A European ledger could bring together token versions of central bank money, commercial bank money and other digital assets on a shared, programmable platform. In essence, this would see T2S evolving into a DLT-based, single financial market infrastructure for Europe. While central banks would provide the platform, or the “rails” so to speak, market participants would supply the content, or the “trains”. However, further consideration would have to be given to the specifics of this platform, including the scope of services, governance structure, operational procedures and the potential implications for existing infrastructure and assets.
+One risk of the unified ledger is that it entails choosing one technological solution over all others. As all market players will use it, they will be less inclined to explore and promote alternative innovative technical solutions to provide the same services. Another option would therefore be to allow the coordinated development of an ecosystem of fully interoperable technical solutions. This flexibility would be beneficial, as it would better serve specific use cases and the coexistence of legacy and new solutions.
+We need to reflect on this trade-off.
+Research is continuing in the market, but in the meantime, there is a pressing need for solutions that would make it possible to settle DLT transactions in central bank money. This provides an opportunity to build on the interoperability solutions we have been trialling as part of the Eurosystem’s exploratory work. This trial, in which the Eurosystem offers interoperability between its central bank money settlement services and external DLT platforms for both real and mock transactions, was successfully launched in May 2024 and will run until November. Some 60 industry participants are involved, in addition to central banks.
+Offering such solutions could allow the Eurosystem and market participants to experiment and develop DLT-based solutions further, unlocking investment in the industry. To this end, we have started to look at how we can build on our ongoing exploration. We will also examine the eligibility of DLT-based assets for use as collateral in Eurosystem credit operations.
+However, there is a risk that relying on existing interoperability solutions over the long term could perpetuate inefficiencies in the post-trade environment given the ongoing lack of full harmonisation and standardisation. Such interim solutions are thus a stopgap measure to smooth the transition towards our long-term vision.
+These efforts must align with EU legislators and regulators who have a window of opportunity to create a comprehensive, European regulatory and supervisory framework that will support financial integration for digital assets while protecting market participants and preserving the underlying infrastructures. The limited progress in advancing a capital markets union for traditional assets shows that harmonising new activities from the outset is much easier than ironing out any differences at a late stage. Building on the EU’s DLT pilot regime, this new framework should aim to establish the harmonised regulation and integrated supervision of digital assets.
+Conclusion
+Let me conclude.
+In the current era of rapid technological change, “whosoever desires constant success must change his conduct with the times”.
+[
+24
+]
+These insights mirror the European financial sector’s current exploration of tokenisation and DLT. These technologies do not just have the potential to enhance efficiency. They could also fundamentally reshape the very structure of financial intermediation – a system that has remained largely unchanged for centuries. Many financial market participants have already started to delve into these technologies, recognising their transformative potential.
+As prudent central bankers, we must also adapt to these new technologies if we are to fulfil our mandate of preserving trust and confidence in money and the financial system. Our primary objective in this evolving landscape is to ensure that central bank money – the safest and most liquid settlement asset – remains a cornerstone of stability, even in a capital market based on tokens and DLT. Or to quote Tancredi in Lampedusa’s The Leopard
+[
+25
+]
+, “For things to stay the same, everything must change”.
+However, the current nascent stage of market development does not just pose challenges. It also offers a unique opportunity. By establishing a clear vision of a digital capital markets union – an integrated European digital ecosystem where assets and cash coexist on one or more fully interoperable chains – these emerging technologies could help to address the existing shortcomings of European capital markets.
+In embracing this technological shift, we are not merely reacting to change, but actively participating in shaping a more efficient, innovative and resilient financial future for Europe.
+Thank you for your attention.
+I would like to thank Cyril Max Neumann and Jean-Francois Jamet for their help in preparing this speech, as well as Ulrich Bindseil, Alexandra Born, Johanne Evrard, Daniel Kapp, Mirjam Plooij and Anton Van der Kraaij for their comments.
+Sangster, A. (2024), “
+The emergence of double entry bookkeeping
+”,
+The
+Economic History Review
+, pp. 1-30, May.
+A nostro/vostro account is a bank account where one bank has another bank’s money on deposit, typically on behalf of a foreign bank in relation to international trade or other financial transactions. The terms “nostro” and “vostro” are used to indicate which bank has money on deposit.
+Yamey, B. S. (2011), “
+Two-currency, nostro and vostro accounts: historical notes, 1400-1800
+”,
+Accounting Historians Journal
+, Vol. 38, No 2, pp. 125-143, December.
+Bazot, G. (2018), “
+Financial Consumption and the Cost of Finance: Measuring Financial Efficiency in Europe (1950-2007)
+”,
+Journal of the European Economic Association
+, Vol. 16, Issue 1, pp. 123-160, February. The study provides evidence that the ratio of domestic financial intermediaries’ income to GDP increases continuously in Germany, France, the United Kingdom and Europe more broadly over the period from 1950 to 2007, even during the 1990s and the 2000s. When including property income and capital gains, this ratio stood at 6-7% in Germany, France and the UK, and around 9% in the United States at the end of the period. The study then measures the unit cost of financial intermediation based on the ratio of financial income to financial assets intermediated. It finds that the European unit cost appears to have increased since the late 1960s but by a smaller proportion than in the United States. See also Philippon, T. (2015), “
+Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation
+”,
+American Economic Review
+, Vol. 105, No 4, pp. 1408-1438, April. This paper finds that the unit cost of intermediation does not seem to have decreased significantly with advances in information technology and changes in how the finance industry is organised. Philippon finds that the annual cost of intermediation is 1.5-2% of intermediated assets, while Bizot finds that the European unit cost of financial intermediation falls within a similar range.
+Wright, W. and Hamre, E.F. (2021), “
+The problem with European stock markets
+”,
+New Financial LLP
+, March. There are also a large number of central counterparties (CCPs) and central securities depositories (CSDs). However, a large part of EU CCP and CSD activity is concentrated in a few CSDs and CCPs within large corporate groups. For instance, the three largest groups represent 96% of European CSD settlement activity and 93% of assets under custody. See also Euroclear (2024), “
+Unlocking scale and competitiveness in Europe’s markets – Enablers for an integrated and digitised post-trade architecture
+”,
+Whitepaper,
+September.
+T2S provides a common platform on which securities and cash can be transferred between investors across Europe, using harmonised rules and practices. Banks pay for securities on the platform using the account they have with their central bank, so the money used to settle transactions is central bank money. As a result, transaction risk is greatly reduced. T2S lays the foundations for a single market for securities settlement and thus contributes to achieving greater integration of Europe’s financial market.
+For an example, see Born, A., Heymann, D. S., Chaves, M. and Lambert, C. (2024), “Frictions in debt issuance procedures and home bias in the euro area”,
+Financial Integration and Structure in the Euro Area
+, ECB, April.
+European Council and Council of the European Union (2024),
+What the EU is doing to deepen its capital markets
+and McGuinness, M. (2024), “
+Vested interests must not block the EU’s capital markets union
+”,
+Financial Times
+, 19 March.
+Lagarde, C. (2023), “
+A Kantian shift for the capital markets union
+”, speech at the European Banking Congress, 17 November and Véron, N. (2024), “
+Capital Markets Union: Ten Years Later
+”, European Parliament, March.
+Panetta, F. (2023), “
+Europe needs to think bigger to build its capital markets union
+”,
+The ECB Blog
+, 30 August.
+Eurogroup (2024),
+Statement of the Eurogroup in inclusive format on the future of the Capital Markets Union
+, 11 March.
+ECB (2024),
+Statement by the ECB Governing Council on advancing the Capital Markets Union
+, 7 March; European Council (2024),
+S
+pecial meeting of the European Council – Conclusions
+, 18 April 2024; and European Commission (2024),
+Mission Letter from Ursula von der Leyen to Henna Virkunnen
+, 17 September.
+Letta, E. (2024),
+Much more than a market – Speed, Security, Solidarity. Empowering the Single Market to deliver a sustainable future and prosperity for all EU Citizens
+, April; Draghi, M. (2024),
+The future of European competitiveness – A competitiveness strategy for Europe
+,
+September.
+Cipollone, P. (2024), “
+Modernising finance: the role of central bank money
+”, keynote speech at the 30th Annual Congress of Financial Market Professionals organised by Assiom Forex, 9 February.
+European Banking Authority (2024),
+Uses of DLT in the EU banking and payments sector: EBA innovation monitoring and convergence work
+,
+April.
+European Central Bank (2024), “
+Second group of participants chosen to test DLT for settlement in central bank money
+”,
+MIP News
+, 21 June.
+Bank for International Settlements (2023), “
+Blueprint for the future monetary system: improving the old, enabling the new
+”,
+Annual Economic Report
+, Chapter III, 20 June.
+These three functions are currently performed by three different entities (exchange, settlement infrastructure and CSD).
+Global Financial Markets Association (2023),
+Impact of Distributed Ledger Technology in Global Capital Markets
+, 17 May.
+See also ECB (2024),
+Statement by the ECB Governing Council on advancing the Capital Markets Union
+, 7 March.
+See Bank for International Settlements, (2012),
+Principles for financial market infrastructures
+, April.
+The Financial Stability Board is assessing the potential financial stability implications of tokenisation in an upcoming report.
+Machiavelli, N. (1513),
+Discourses on the First Ten Books of Titus Livius
+, Third Book, Chapter IX.
+Lampedusa, G.T. di (1958),
+The Leopard
+.
+Related topics
+Distributed ledger technology (DLT)
+Technology
+Innovation
+Capital markets union
+Risks
+Digitalisation
+European integration
+Banking sector
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Patient monetary policy amid a rocky recovery",
+  "date_original": "2021-11-24",
+  "date_au": "24/11/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211124~a0bb243dfe.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-11-24 - Speech by Fabio Panetta - Patient monetary policy amid a rocky recovery.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-11-24 - Speech by Fabio Panetta - Patient monetary policy amid a rocky recovery.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2e83b212bf9984da1a5bfbbf5fe74ec1cf706bc68f7d683e12ffcd23823ab170"
+}

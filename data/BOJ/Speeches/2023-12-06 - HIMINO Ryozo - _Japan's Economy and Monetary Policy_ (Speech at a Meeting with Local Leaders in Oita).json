@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Oita)",
+  "date_original": "2023-12-06",
+  "date_au": "06/12/2023",
+  "datetime_original": "",
+  "speaker": "HIMINO Ryozo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko231206a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-12-06 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Oita).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-12-06 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Oita).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "be84c08fb0b32a4906395ba3c9c716a71ea90c110eb915c688fb63ab01f3e7f0"
+}

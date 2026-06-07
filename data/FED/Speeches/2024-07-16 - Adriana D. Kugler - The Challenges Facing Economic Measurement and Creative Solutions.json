@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Challenges Facing Economic Measurement and Creative Solutions",
+  "date_original": "2024-07-16",
+  "date_au": "16/07/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20240716a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-07-16 - Adriana D. Kugler - The Challenges Facing Economic Measurement and Creative Solutions.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-07-16 - Adriana D. Kugler - The Challenges Facing Economic Measurement and Creative Solutions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "034dcf1621532a4f0d23d1dacfa01a9260704e3280741d6ce637c1ee4b915740"
+}

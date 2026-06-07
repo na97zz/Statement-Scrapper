@@ -1,0 +1,212 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Clinical supervision − speech by Sam Woods
+DATE: 01/06/2026
+SPEAKER: Sam Woods
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2026/may/sam-woods-speech-at-the-henry-thornton-lecture-bayes-business-school
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Clinical supervision − speech by Sam Woods
+The Henry Thornton Lecture given at Bayes Business School
+Published on 
+
+ 12 May 2026
+In his speech, Sam Woods reflects on the nature of banking supervision. Taking stock of how supervision has evolved in the UK and internationally, he considers what the role of a supervisor is and how it might evolve in future.
+Speech
+Deep in the bowels of all major financial sectors you can find a group of people toiling away under the banner of “prudential regulation”. Sometimes they are found within central banks, so are descendants of Henry Thornton after whom this lecture is named. Sometimes they form their own agency, or are part of a wider regulator. They are usually charged with ensuring the safety and soundness of banks.
+footnote
+[1]
+But “prudential regulator” is something of a misnomer. One function of these bodies is well-known, and relatively easy to describe and observe - these people regulate, meaning they set rules for banks to follow, in much the same way as regulators do in other parts of the economy.
+The other main function is more surprising. Not only do they regulate banks, but many of them also “supervise” them. This is a relatively interventionist activity compared to the monitoring functions of many regulators, and one which is rather unusual in a capitalist economy. It is also much less observable, which may explain why it has received much less attention from academics.
+footnote
+[2]
+It is also notable that - at least in the UK - some elements of this supervisory activity are beginning to be exported to other areas of the economy such as energy and water.
+footnote
+[3]
+Given this it seems a good moment to pause for a moment and consider what bank supervision is, why we do it, why it looks the way it does, and where it might go in the future.
+Why bother?
+Before going into this, it’s worth reminding ourselves why we regulate banks in the first place, which is due to the very high and persistent cost to the economy from financial crises - research suggests that the average net present value cost of a financial crisis, even if well managed, is around 43% of GDP.
+footnote
+[4]
+These costs create an externality: they do not fully accrue to bank executives and shareholders, and instead mostly fall on the wider economy through their material and persistent impacts on growth. While market discipline and strong governance can play a role in addressing this market failure, regulation aims to make banks internalise this public concern more fully.
+One reason banking crises are so costly is that banks provide a critical piece of public infrastructure: money. The money that most people and businesses use as a store of value and for day-to-day payments is in the form of commercial bank liabilities, or bank deposits as they are more commonly known. It is critical to the functioning of the economy that the value of a £100 deposit at one bank is the same as a £100 deposit at another, so that people and businesses can transact freely. Prudential regulation ensures that this remains the case.
+The potential for interruption to this key piece of public infrastructure, and therefore to banks’ role in providing financing to the real economy, is a key driver of the costs I have just mentioned. I wouldn’t quite put it this way, but there is a view that the motivation for bank regulation is that the state has effectively licensed money (and by extension, credit) creation to private actors who earn a return for performing this task;
+footnote
+[5]
+so it is natural for the state to wish to monitor, and be seen to monitor, those actors’ administration of such important public infrastructure.
+I appreciate that this comes across as rather statist, because it is only half of the picture. In practice, in most major economies today banks are generally owned by private sector shareholders, and bank executives must deliver for those shareholders or find themselves out of a job. But I am focusing here on the state’s interest, and how that is pursued. Bank executives have to manage that interest while also serving their shareholders, which can be a tricky task.
+With these broad motivations as a starting point, why do we supervise banks in the particular way we do?
+What is “supervision”?
+In most areas of regulation, it is normal to have rules that oblige regulated firms to act in a certain way and have people employed by the state to check adherence and take corrective action as necessary. Indeed, what one might call the proto-regulators in the UK - the factory inspectorates and Justices of the Peace - performed such functions.
+footnote
+[6]
+And to this day, a lot of regulation still looks like this - whether it is the Food Standards Agency, the Health & Safety Executive, or in some respects the police.
+But for banking, we employ people called “supervisors”, who monitor the firms under their supervision in a much more comprehensive and continuous manner. This activity is of a different and more intrusive nature than performing inspections of factories or restaurants. Indeed, even the etymology of the word “supervisor” is interesting: it implies overseeing the work of another. This is a peculiar arrangement, and not one that sits easily within a capitalist framework. Nor does it seem to be fully captured by other possible descriptions of the role, such as:
+The inspector. One potential function of the supervisor is to ensure firms comply with regulations. On this view, the role of the supervisor might be an inspector, periodically conducting spot checks to confirm compliance with the regulations that are in force.
+The policewoman or prosecutor.
+footnote
+[7]
+In this role, the supervisor might be seen as sniffing out non-compliance or malfeasance and punishing firms accordingly to deter poor behaviour across the sector.
+The fire warden.
+footnote
+[8]
+We might be concerned that it is not sufficient simply to check firms’ compliance against a set of rules. Firms might breach the rules in between inspections, or the rules might be out of date. And so we might characterise the supervisor as a kind of fire warden: maintaining a close and continuous independent watch over the firm to catch emerging risks to the public interest early and raise them with management so that they can be mitigated.
+The “gap-filler”.
+footnote
+[9]
+Where existing regulations are not sufficient to capture the risks posed by a particular firm, perhaps due to the complex and adaptive nature of finance, the supervisor could be seen as a “gap-filler,” using powers of persuasion to ensure the firm takes appropriate action.
+The “meta-regulator”.
+footnote
+[10]
+Others have argued that since supervisors cannot monitor all aspects of a firm at all times given their finite resources, they must rely on banks’ executives to implement robust risk management and governance arrangements. This could be viewed as a form of “meta-regulation”, where the supervisor leverages the capabilities of firms’ management, systems and processes to ensure that firms internalise and adhere to the regulatory requirements to which they are subject.
+Before we decide which of these roles - if any - best describes our current model of supervision, it is worth considering where this role has come from and how it has changed through time, through two brief case studies: the US and the UK.
+The American Experience
+In the United States, oversight of banks first began around the turn of the 19th century as a response to the proliferation of private note-issuing banks during the era of free banking. The lack of a single currency-issuing central bank meant that the value of banknotes fluctuated with the health of the issuing bank. Individual states - who granted bank charters - therefore had an interest in monitoring banks to ensure that the money they issued maintained value. One notable example is New York State, which passed an act in 1829 which introduced periodic checks of banks, including their capital levels.
+footnote
+[11]
+I would argue that this activity, almost 200 years ago in New York, is recognisably a direct forbear of prudential regulation around the world today.
+The next key development came in the 1860s during the American Civil War, when Congress passed a series of legislative changes to ensure the banking system helped finance the war effort and to control private monetary issuance. As part of this, Congress created the Office of the Comptroller of the Currency (OCC) as the national banking supervisor. Over time, the OCC built a systematic approach to supervision, with a nationwide network of supervisors conducting regular examinations, identifying issues, and expecting remediation. However, its formal supervisory powers were initially limited, meaning it often relied on influencing firms and on firms’ own governance and risk management.
+footnote
+[12]
+A series of bank failures later led to additional new supervisory authorities: the Federal Reserve in 1913 and the Federal Deposit Insurance Corporation in 1933. But the structured approach pioneered by the OCC in the late 1800s seems to have persisted in various forms to this day.
+The British Experience
+In sharp contrast, in line with a broader British tradition of economic governance, bank supervision in the UK operated informally right up until the 1970s, when the Bank of England first took on formal responsibility for this role. Before this, a form of supervision was conducted by the Principal of the Bank’s Discount Office and their deputies. The Discount Office’s original function was to manage the Bank’s financial exposures through its 'discounting' - i.e. purchasing - of short-dated debt instruments. Over time, the Discount Office leveraged this role to conduct market surveillance, with a particular focus on the health of money market participants until the end of the First World War.
+footnote
+[13]
+Beginning in the inter-war period, the Bank’s focus turned over time towards the banking sector, but until it gained formal responsibility for banking supervision in 1979 its powers over the banks were very limited. The Bank therefore had to rely on informal suasion and its relationships with key individuals in the banking sector, an approach which had its limits. One such example was the long-running disagreement between the Bank, Barclays and Lloyds over the firms’ acquisition of a number of overseas businesses in the 1920s. The Governor at the time, Montagu Norman, believed these operations posed material risks to the banks but lacked the powers to compel their divestment. He had instead to resort to denying these overseas subsidiaries access to the Bank’s facilities, but to little immediate effect.
+footnote
+[14]
+The turning point came after the secondary banking crisis of the 1970s, when a series of failures of financial institutions highlighted the limits of informal supervision. With allegedly as few as six people working directly on banking supervision at the time, the Bank’s approach became untenable. So in 1979 Parliament gave the Bank a formal supervisory role. But the Bank sought to maintain elements of its flexible, judgement-based approach, viewing supervision as most effective when the Bank was able to provide direct and targeted feedback to firms through open and frank conversations with their executives.
+footnote
+[15]
+This philosophy has persisted to some degree in the UK’s approach to banking supervision to this day.
+Why thus?
+Taking account of where we have come from and where we are today, why does bank supervision look the way it does?
+Legislatures have given supervisors markedly broad powers: to grant or revoke firms’ licenses to operate, to require firms to provide them with information or take action to ensure their safety and soundness, to fine firms, and to approve or remove firms’ management and board members. They have also been equipped to monitor firms closely. In the case of larger banks, supervisors typically maintain a close watch over firms’ activities, reviewing business plans, risk frameworks, governance, corporate structures and financial performance. And in certain jurisdictions, the supervisors are co-located on the premises of the firms that they supervise.
+Supervisors not only monitor banks closely, they also use banks’ own governance and systems to detect and mitigate a wider range of issues than they could through supervision alone. This “meta-regulation” is bolstered in the UK (and in a similar way in various other jurisdictions) by the Senior Managers Regime, which aims to better align the incentives of the regulator and bank executives.
+Using the wide range of information available to them, supervisors are then empowered to identify risks to the safety and soundness that banks are exposed to, to judge their severity, and decide what action is required to manage these risks. Rather than being tied to a set of formulaic metrics or criteria, supervisors are encouraged to use their own supervisory judgement as part of a flexible approach which allows them to account for a variety of business models, risks, and wider macroeconomic factors. And to maintain the credibility of the supervisory process, supervisory conclusions need to be exposed to a robust process of challenge and assurance and formulated independent of wider social policy or political considerations.
+The supervisory approach I have outlined distinctly sets prudential regulation apart from most regulators in other sectors. The approach seems extraordinarily broad and intrusive in the context of a capitalist economy. Why is this? The answer may of course be that it is a mistake to arrange things in this way, but as it is a very common arrangement across many countries it is worth looking for a rationale.
+Much regulation can be characterised as either “social regulation,” dealing with externalities and safety (such as health and safety, food standards, or conduct regulation), or “economic regulation,” which addresses monopoly power in industries like telecoms or water.
+footnote
+[16]
+But prudential regulation of banks seems different. As noted above, the essential public infrastructure they provide - money in the form of bank deposits - is itself a financial liability of the banks. It is in the public interest that this money maintains its value, underpins day-to-day payments, and facilitates credit provision to the wider economy, which is dependent on the financial and operational health of the banks that issue it. This, alongside the material costs of financial crises that I have previously noted, motivates prudential regulators to focus primarily on the health of banks as a whole - their safety and soundness as a corporate entity. This leads to a particular supervisory focus on the private and internal workings of the firm, not only to identify emerging risks but also to ensure that firms are able to identify and mitigate such risks themselves at an early stage.
+I think it is this unique feature of banks that has given rise to the practice of supervision, focusing as it does so much on the health of the corporate entity - because in the case of banks that entity is itself the main vector of the public interest. Put simply, in banking you cannot in any meaningful way separate the service or product being provided from the bank as an entity: the deposits and lending banks provide are the bank, and hence the public interest is in the health of the bank itself.
+This unusually strong interest in the health of the corporate entity is what motivates supervision, and requires supervisors to keep a close and continuous watch over firms. With this comes I think an unusually high risk of regulatory capture, due to that close and continuous nature of the prudential regulator’s relationship with banks. The supervisor needs to maintain an independent view of a firm while dealing with senior and highly adept bank executives with whom the supervisor has at least a partially shared and strong interest in the firm’s overall health. For that reason, I would argue that independence of mind is a key quality of a good supervisor, and instilling such a mindset in its supervisors is one of the main responsibilities of a prudential authority.
+The practice of supervision also bolsters prudential regulators’ ability to ensure that their activity is appropriately flexible and proportionate. A forward-looking, judgement-based approach that identifies and mitigates issues through supervisory discretion reduces the need to take an excessively prescriptive (and burdensome) approach to rule-making. Taken to its logical extreme, one might even argue that with sufficiently empowered supervisors a rulebook might be unnecessary, assuming a political mandate and objectives that remained unchanged. But there would be a very high bar to adopting this approach: supervisors would need to consistently maintain sufficient independence of mind and a detailed understanding of a complex and innovative industry, which cannot be guaranteed across an entire organisation. Without rules banks might reasonably argue that it is impossible to know what is expected of a regulated firm, as might the supervisors themselves. Consistency across supervisors would be harder to achieve, and it would become much harder for legislatures and the public to hold regulators to account against their mandates. And so I believe that a set of clearly defined rules remains an essential part of prudential regulation and a vital safeguard against lapses in supervisory judgement.
+Let’s get clinical
+I return to my question at the beginning of this speech: what is the role of the supervisor? It is a complex role that resists simple classification. The supervisor’s job is clearly broader than that of an inspector or enforcer - the role consists of more than a backward-looking examination of firms’ compliance with the rules. I have some sympathy with the idea that the supervisor is more akin to a fire warden or nightwatchman, which captures the
+forward-looking and continuous assessment of risks that the supervisor must make.
+But to my mind, and this may seem peculiar to some listening to this speech, a closer analogy is actually that of the doctor or public health official. Doctors work with their patients to identify any troubling symptoms, diagnose the underlying condition, and prescribe the appropriate course of treatment. In doing so, they do not simply consult a checklist of simple quantitative metrics, but instead develop hypotheses of what is afflicting their patient, through diagnostic testing and discussion with that patient. And as they consult with colleagues and consider new information as it comes to light, they update their diagnosis and treatment plan as required. This is not dissimilar to the banking supervisor’s judgement-based assessment process.
+The relationship between supervisors and their firms also has some similarities with the doctor and patient relationship. Both doctors and supervisors need to build relationships underpinned by trust if they are to maintain the health of those in their care. To be effective and credible, their integrity and independence needs to be beyond question. This enables both firms and patients to be comfortable raising potential problems at an early stage before those problems become acute. The Hippocratic Oath provides an example of this approach for the medical profession.
+There also need to be clear, pre-defined boundaries about what is an acceptable level of intervention - you would rightly be sceptical if your doctor told you what brand of car to buy. Likewise, a supervisor must resist seeking to interfere with the day-to-day commercial management of firms and instead focus on the role for which he or she is equipped: to identify and mitigate the key risks to firms’ safety and soundness. By the same token, just as healthy people may only see their doctor on occasion for a check-up and some healthy living advice, the intensity and focus of supervision should differ according to the health of the firm.
+One crucial aspect of the work of the supervisor, however, is that the ill-health of a firm under their care can pose serious risks to the health of other firms through the risk of financial contagion, and ultimately to the public at large given the severe economic and fiscal costs of financial crises. The role of the supervisor therefore not only has strong similarities to the medical profession, but also to the field of public health. Public health officials are concerned for the health of society as a whole, balancing the interests and rights of individual patients with the risks posed to the wider population through the spread of contagion. This is why both prudential regulators and public health authorities are usually empowered to take action to direct others in the public interest.
+footnote
+[17]
+Even if both supervisors and public health officials use their ability to compel others sparingly, it is reasonable to worry that these strong powers are vulnerable to abuse without robust safeguards. There are numerous examples of well-intentioned professionals causing significant harm to those in their care in recent history. This illustrates the importance of accountability: the authorities are subject to strict legal constraints over their powers (including the need to ensure they do not violate the fundamental rights of anyone subject to those powers), with their exercise subject to review by the judiciary.
+Back to the future
+Having spoken at some length about how we might characterise the current role of a supervisor, I will offer a few thoughts on how it might evolve in future. I have suggested today that bank supervision is an expert role, and one which is challenging to perform well. It is necessary but not sufficient to be technically proficient at navigating various arcane topics of financial regulation like capital, liquidity and group consolidation. Supervisors also require a deep and holistic understanding of financial institutions, the risks that affect them and the psychology of organisations and individuals. To deliver on their mandates, supervisors need to be able to develop and maintain these skills, supported by a wider system which recognises the value of independent, expert, supervisors. Many of these qualities are already evident in the supervisors I have had the privilege to work with during my time at the PRA, and we continue to benefit today from their expertise and judgement.
+But despite these demanding requirements, the qualifications and mindset to perform this role well have been quite loosely defined. Over time, I therefore wonder whether banking supervision may benefit from being viewed more formally as a “profession” - akin to other such roles like doctors and lawyers.
+Looking ahead, this way of thinking about supervision also raises questions about how our workforce might evolve. One potential path is a greater emphasis on depth and breadth of expertise, with supervisors devoting more of their effort to risk identification, analysis, supervisory engagement and learning, and less to activities that can be standardised or automated through advances in data, analytics and technology. As I have set out, the supervisory role is inherently multi-faceted, drawing on a wide range of disciplines. As the financial system and broader economy continue to evolve, supervisors will need to upskill across an even broader set of issues, with artificial intelligence, quantum computing, the evolution of market-based finance and geopolitics among the more salient examples today. This might in time mean a more senior and more specialised workforce.
+Although my current term as head of the UK’s prudential regulator is coming to an end, I would strongly encourage others to join a profession that demands technical expertise, judgement, independence of mind and imagination - and whose work ultimately underpins trust in the financial system and in money itself. I suspect we will continue to ask a great deal of the supervisors of the future, as we do today, but in return the role offers continual learning, intellectual stretch, and the opportunity to exercise judgement on issues that matter deeply for economic and financial stability.
+I am particularly grateful to Julia Black, Niamh Moloney and Aaron Schroeder-Willis for their help in preparing this speech, and also to other colleagues across the Bank. Any mistakes are my own.
+References
+Black, J. (2010). “The Rise, Fall and Fate of Principles Based Regulation”, LSE Law, Society and Economy Working Papers 17/2010.
+Blunden, G. (1975). “The supervision of the UK banking system”, Bank of England Quarterly Bulletin, Q2.
+Blunden, G. (1987). “Supervision and central banking”, Bank of England Quarterly Bulletin, Q3.
+Brooke et al. (2015). “Measuring the macroeconomic costs and benefits of higher UK bank capital requirements”, Bank of England Financial Stability Paper No. 35.
+Capie, F. (2010). “The Bank of England: 1950s to 1979”, New York: Cambridge University Press.
+Conti-Brown, P. and S.H. Vanatta (2025). “Private Finance, Public Power: A History of Bank Supervision in America”, Princeton: Princeton University Press.
+Fforde, J. (1992). “The Bank of England and public policy, 1941-1958”, Cambridge: Cambridge University Press.
+Hill, J.A. (2021). “Bank Supervision: A Legal Scholarship Review”, University of Alabama Legal Studies Research Paper No. 2627472.
+Independent Water Commission (2025). “
+Final Report
+”.
+Menand, L. (2021). “Why supervise banks? The foundations of the American monetary settlement”, Vanderbilt Law Review 74(4), p951-1022.
+Moran, M. (1986). “The politics of banking: the strange case of competition and credit control”, 2
+nd
+ed., London: Macmillan.
+Ofgem (2020). “
+Supplier Licensing Review: Ongoing requirements and exit arrangements – Decision
+”.
+Ogus, A.I. (2004). “Regulation: Legal Form and Economic Theory”, Oxford: Hart.
+Phillips, T. (2024). “In the Shadow of Litigation: Understanding Bank Supervision”, unpublished. Available at SSRN:
+https://ssrn.com/abstract=4890460
+.
+Sayers, R.S. (1976). “The Bank of England, 1891–1944“, Vols. 1-3, Cambridge: Cambridge University Press.
+Vanatta, S.H. (2020). “Histories of bank supervision”, unpublished. Available at SSRN: https://ssrn.com/abstract=3749116.
+Some, such as the UK’s Prudential Regulation Authority, also regulate insurers. I will focus on banks in this speech, to prevent it becoming even longer.
+Exceptions to this include: Julia Black (Oxford University), Peter Conti-Brown (University of Pennsylvania), Julie Anderson Hill (University of Wyoming), Lev Menand (Columbia Law School), Todd Phillips (Georgia State University), Sean H. Vanatta (University of Glasgow).
+Ofgem (2020) and Independent Water Commission (2025).
+Brooke et al. (2015).
+Menand (2021).
+Ogus (2004).
+Vanatta (2020).
+Vanatta (2020).
+Menand (2021).
+Black (2010).
+Conti‑Brown and Vanatta (2025).
+Conti‑Brown and Vanatta (2025).
+Sayers (1976).
+Sayers (1976).
+Capie (2010).
+Ogus (2004).
+For the UK, this is set out in the Financial Services and Markets Act 2000 and the Public Health (Control of Disease) Act 1984 for prudential supervision and public health respectively.
+For the UK, this is set out in the Financial Services and Markets Act 2000 and the Public Health (Control of Disease) Act 1984 for prudential supervision and public health respectively.
+Close
+Ogus (2004).
+Close
+Capie (2010).
+Close
+Sayers (1976).
+Close
+Sayers (1976).
+Close
+Conti‑Brown and Vanatta (2025).
+Close
+Conti‑Brown and Vanatta (2025).
+Close
+Black (2010).
+Close
+Menand (2021).
+Close
+Vanatta (2020).
+Close
+Vanatta (2020).
+Close
+Ogus (2004).
+Close
+Menand (2021).
+Close
+Brooke et al. (2015).
+Close
+Ofgem (2020) and Independent Water Commission (2025).
+Close
+Exceptions to this include: Julia Black (Oxford University), Peter Conti-Brown (University of Pennsylvania), Julie Anderson Hill (University of Wyoming), Lev Menand (Columbia Law School), Todd Phillips (Georgia State University), Sean H. Vanatta (University of Glasgow).
+Close
+Some, such as the UK’s Prudential Regulation Authority, also regulate insurers. I will focus on banks in this speech, to prevent it becoming even longer.
+Close
+Sam Woods
+Deputy Governor for Prudential Regulation and Chief Executive Officer of the Prudential Regulation Authority
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

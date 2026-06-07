@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy under uncertainty",
+  "date_original": "2024-11-25",
+  "date_au": "25/11/2024",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241125~df4c5a69c7.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-11-25 - Keynote speech by Philip R. Lane - Monetary policy under uncertainty.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-11-25 - Keynote speech by Philip R. Lane - Monetary policy under uncertainty.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb4bb48093fa3abc97f5c4db23c2bccaf5b1513c4c028f23615e63f5ff9df82b"
+}

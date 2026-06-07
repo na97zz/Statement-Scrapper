@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Making the Financial System Safer and Fairer",
+  "date_original": "2022-09-07",
+  "date_au": "07/09/2022",
+  "datetime_original": "",
+  "speaker": "Stablecoins as Private Money",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20220907a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-09-07 - Stablecoins as Private Money - Making the Financial System Safer and Fairer.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-09-07 - Stablecoins as Private Money - Making the Financial System Safer and Fairer.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "56e827f3cafda33b5b05e450655968e15e0b8e05cbc9701993632cac5cda41a5"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks on the Economy, and Perspective on Mutual and Community Banks",
+  "date_original": "2025-01-31",
+  "date_au": "31/01/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250131a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-01-31 - Michelle W. Bowman - Brief Remarks on the Economy, and Perspective on Mutual and Community Banks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-01-31 - Michelle W. Bowman - Brief Remarks on the Economy, and Perspective on Mutual and Community Banks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4bed7aab502c3db931b1b434eea93ae2e4158c3d650e01c4113ba92b388fc14d"
+}

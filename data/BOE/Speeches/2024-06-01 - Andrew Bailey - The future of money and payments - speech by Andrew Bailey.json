@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The future of money and payments - speech by Andrew Bailey",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2024/october/andrew-bailey-panellist-at-the-g30-39-annual-international-banking-seminar",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Andrew Bailey - The future of money and payments - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Andrew Bailey - The future of money and payments - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b49f9dfa3e612648143cb5e399bfa05cb2266556a33efa3a7c8587debcf7f3cd"
+}

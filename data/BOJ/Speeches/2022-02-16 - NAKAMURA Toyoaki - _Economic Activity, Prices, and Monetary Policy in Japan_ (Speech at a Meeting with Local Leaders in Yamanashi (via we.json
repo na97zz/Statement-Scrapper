@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Yamanashi (via webcast))",
+  "date_original": "2022-02-16",
+  "date_au": "16/02/2022",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220216a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-02-16 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Yamanashi (via we.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-02-16 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Yamanashi (via we.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f76f9c136f8fe83b717d518f3b0e7dbeea1f3ef808edf0178c2ff692530bdb23"
+}

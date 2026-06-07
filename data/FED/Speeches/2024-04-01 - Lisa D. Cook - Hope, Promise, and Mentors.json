@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Hope, Promise, and Mentors",
+  "date_original": "2024-04-01",
+  "date_au": "01/04/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20240401a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-01 - Lisa D. Cook - Hope, Promise, and Mentors.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-01 - Lisa D. Cook - Hope, Promise, and Mentors.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6468886eb96ccbdb8d4e9528c369e9c90b6ddde5b610641f4e27a70e4f0209c0"
+}

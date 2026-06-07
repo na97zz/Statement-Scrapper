@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Twenty-five years of the ECB",
+  "date_original": "2023-05-24",
+  "date_au": "24/05/2023",
+  "datetime_original": "",
+  "speaker": "Opening remarks by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230524~4e026cefbc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-05-24 - Opening remarks by Christine Lagarde - Twenty-five years of the ECB.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-05-24 - Opening remarks by Christine Lagarde - Twenty-five years of the ECB.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "555b7906bc74652dc89884666318824745344315c7d3d3e40098e00000f71f2a"
+}

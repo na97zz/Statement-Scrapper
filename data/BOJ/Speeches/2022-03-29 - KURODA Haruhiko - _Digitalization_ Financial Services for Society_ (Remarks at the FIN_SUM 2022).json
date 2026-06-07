@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Digitalization: Financial Services for Society\" (Remarks at the FIN/SUM 2022)",
+  "date_original": "2022-03-29",
+  "date_au": "29/03/2022",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220329a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-03-29 - KURODA Haruhiko - _Digitalization_ Financial Services for Society_ (Remarks at the FIN_SUM 2022).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-03-29 - KURODA Haruhiko - _Digitalization_ Financial Services for Society_ (Remarks at the FIN_SUM 2022).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ed3ec9281ebec112d5573b3c25cc26b215f29ee5dcc4ff74641cae2366a417ea"
+}

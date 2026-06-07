@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Central Banking in extreme adversity - speech by Andrew Bailey",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/june/andrew-bailey-speech-at-the-annual-research-conference-kyiv",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Andrew Bailey - Central Banking in extreme adversity - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Andrew Bailey - Central Banking in extreme adversity - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:12:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2cc4a6e4879a129d85d5e234e5a12f1d7ed581a19238b5d628b556cf71c12a31"
+}

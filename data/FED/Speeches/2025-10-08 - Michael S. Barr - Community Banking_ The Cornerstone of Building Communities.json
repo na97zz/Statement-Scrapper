@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Community Banking: The Cornerstone of Building Communities",
+  "date_original": "2025-10-08",
+  "date_au": "08/10/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20251008a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-08 - Michael S. Barr - Community Banking_ The Cornerstone of Building Communities.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-08 - Michael S. Barr - Community Banking_ The Cornerstone of Building Communities.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8e6123dd2a3aa2d9c4092c4d3db33ebe88a491cebd803ab931cb9f15010b9369"
+}

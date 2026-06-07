@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The Bank of England’s approach to enforcement: a decade in the making − speech by Oliver Dearie",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Oliver Dearie",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/june/speech-by-oliver-dearie-at-financial-services-lawyer-association-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Oliver Dearie - The Bank of England’s approach to enforcement_ a decade in the making − speech by Oliver Dearie.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Oliver Dearie - The Bank of England’s approach to enforcement_ a decade in the making − speech by Oliver Dearie.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "936c60ef96e384ae8e4a20f61d0f150a28dcd07821fa7f65ed0c904e1da906b3"
+}

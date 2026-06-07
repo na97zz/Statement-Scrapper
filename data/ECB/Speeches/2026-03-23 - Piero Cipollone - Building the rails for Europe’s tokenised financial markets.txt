@@ -1,0 +1,159 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Building the rails for Europe’s tokenised financial markets
+DATE: 23/03/2026
+SPEAKER: Piero Cipollone
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260323~a88f20c049.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Building the rails for Europe’s tokenised financial markets
+Keynote speech by Piero Cipollone, Member of the Executive Board of the ECB, at an event on “Building Europe’s integrated digital asset ecosystem: from vision to implementation” hosted by the House of the Euro
+Brussels, 23 March 2026
+Over the past few years, tokenised capital markets in Europe have moved from exploration to production. According to recent estimates by the Association for Financial Markets in Europe, European issuers have placed close to €4 billion in fixed-income instruments based on distributed ledger technology (DLT) since 2021, including the first digital sovereign debt issuances by EU Member States.
+[
+1
+]
+This comprises the Eurosystem's 2024 exploratory work, in which participants across nine jurisdictions conducted transactions worth roughly €1.6 billion, including in trials that involved real settlements in central bank money and experiments that tested new use cases through mock transactions.
+Tokenisation is the process of issuing or representing assets in the form of digital tokens
+[
+2
+]
+, which are typically recorded on DLT networks. Tokenisation does not only enable “all or nothing” settlement, where the cash leg and the securities leg of a transaction are executed simultaneously. It also allows the full life cycle of a transaction – issuance, trading, settlement and custody – to take place within a single digital environment. Moreover, smart contracts make it possible to automate processes from coupon payments to compliance.
+Europe has already put in place the regulatory foundations for this new ecosystem. With the Markets in Crypto-Assets Regulation (MiCA) and the DLT Pilot Regime, it is among the first jurisdictions to establish a continent-wide framework for tokenised assets. The market momentum is real, and Europe is well placed to lead.
+But two main obstacles are preventing scale.
+The first is platform fragmentation. Multiple DLT networks operate in parallel without synchronisation or transferability of assets between those networks. This fragments liquidity and increases integration costs.
+The second is the absence of a common, trusted on-chain settlement asset for transactions on DLT networks. Without tokenised central bank money, a seller of a tokenised security may receive payment in an asset they are not comfortable holding – one exposed to price volatility or credit risk – which limits the market’s ability to scale.
+[
+3
+]
+These challenges can be solved. And the potential of tokenisation for Europe is significant: more efficient and more innovative financial markets, and the prospect of genuine cross-border integration that has long eluded Europe’s fragmented capital markets.
+Against this backdrop, today I will focus on what Europe needs to get right to seize this opportunity. And I will outline how the Eurosystem’s initiatives, in particular the Appia roadmap we published on 11 March
+[
+4
+]
+, can help provide a blueprint for a future-ready European digital asset ecosystem.
+In my view, three conditions must be met. First, a safe settlement anchor that enables scale and innovation. Second, a genuine public-private partnership. And third, a legal framework that matches the technological ambition.
+A safe settlement anchor that enables scale and innovation
+Let me start with the first condition. Our exploratory work in 2024 – the most comprehensive of its kind globally, with 50 trials and experiments across nine jurisdictions – revealed clear market demand for central bank money settlement.
+[
+5
+]
+The reason is straightforward. Central bank money is the safest and most liquid settlement asset. It does not carry any credit or liquidity risk and thus serves as the monetary anchor for the financial system. International standards for financial market infrastructures require settlement to be conducted in central bank money where practical and available.
+[
+6
+]
+As tokenised markets grow, this anchor must be available on the new technology.
+Without it, tokenised markets will struggle to develop at the speed and scale that Europe needs. Private settlement assets – whether tokenised deposits or stablecoins – will play a role as commercial bank money does today in traditional finance. But they require a trusted public anchor to function effectively across the whole tokenised financial market. Tokenised central bank money will provide the settlement bridge that makes a private settlement asset convertible to another – enabling, for instance, tokenised deposits to be transferred between banks or stablecoins to be settled in fiat currency directly on DLT. This will allow private innovation to scale with confidence.
+That confidence cannot rest on private settlement assets alone. Research shows that even fiat-backed stablecoins – by far the least volatile type of stablecoin – rarely trade exactly at par, even during calm market conditions.
+[
+7
+]
+And the sub-optimal yet plausible alternative – a single dominant platform and stablecoin with broad network effects – would have different but equally serious consequences for Europe’s monetary sovereignty.
+[
+8
+]
+The findings of our exploratory work
+[
+9
+]
+informed the Eurosystem’s strategy
+to bring central bank money onto DLT.
+Pontes will provide this anchor in the near term: it will be launched in the third quarter of this year. It bridges market DLT platforms and our existing TARGET Services, enabling a participant buying a tokenised asset to settle in central bank money. And we will further enhance it over time. Here are a few examples: settlement finality on the Eurosystem DLT, 24/7 operation, use of smart contracts on Eurosystem DLT, and additional features shaped by market needs and analytical work for Appia.
+Appia sets out the longer-term vision for a European tokenised financial ecosystem. Through a combination of analytical and practical work, it aims to deliver a blueprint by 2028 in cooperation with all relevant stakeholders.
+The themes we will tackle with Appia are organised around six building blocks – they range from technical standards and interoperability to collateral management, cross-border connectivity and the legal and regulatory foundations.
+A key design question is whether that ecosystem will rest on a single European shared ledger – a network functioning as a shared utility where multiple parties compete on services – or on multiple interconnected networks that provide redundancy and foster competition at the infrastructure level. These configurations could also be combined. Appia will assess them against the Eurosystem’s objectives
+[
+10
+]
+under different technological and market conditions, taking into account the broader economic, regulatory and geopolitical environment.
+Pontes and Appia are not separate initiatives. They form a single strategy. The design of Pontes will be shaped by Appia’s long-term vision as this comes into sharper focus. This is a two-way street: Appia analysis feeds into Pontes enhancements on a staggered basis and operational lessons from Pontes will influence Appia’s architecture. Eventually, Pontes will evolve into a core component of the Appia ecosystem.
+A genuine public-private partnership
+The second condition is a partnership between the public and private sectors, which has been key to the development of Europe’s payment infrastructure thus far.
+The Eurosystem’s role is to ensure that the most trusted settlement asset is available at all times and keeps pace with the latest technologies. But the services, liquidity and business models that will make tokenised markets valuable must come from the market itself. In other words, the underlying infrastructure needs to be designed with the market’s needs at its core.
+This is the approach we have taken to developing our strategy from the outset. Our exploratory work in 2024 took the form of a large-scale public-private exercise: 64 participants from across the industry came together to test interoperability solutions and identify the demand for programmability and automation, telling us in concrete, operational terms what form central bank money settlement on DLT should take. Their feedback directly shaped the design of Pontes. Similarly, the Eurosystem’s decision to accept DLT-based assets as eligible collateral for credit operations
+– starting in March 2026 with assets issued in central securities depositories – came in response to a clear market signal about what tokenised markets need in order to scale.
+[
+11
+]
+Appia takes this approach a step further. It has been designed from the ground up as a joint endeavour with market participants, public sector partners and academia. Allow me to illustrate exactly why this matters.
+One of the building blocks of Appia focuses on asset interoperability and standards, ensuring that tokenised assets can be transferred across different DLT platforms using compatible data formats and smart contract standards. The Eurosystem can take on a convening role in determining the direction of travel and in developing the standards. But ensuring that they are adopted and work in practice across different business models and legal frameworks will require the active involvement of market infrastructure operators, banks, custodians and technology providers. Otherwise, we risk setting standards that exist on paper, but are not applied in practice.
+This is also why we published the Appia roadmap earlier this month. It is an open invitation to stakeholders to contribute to the work for each building block.
+We welcome industry initiatives like that of Euroclear, Clearstream and DTCC on digital asset securities interoperability, which they presented in a recently published white paper.
+[
+12
+]
+The approach outlined in this white paper aligns very well with the Appia roadmap.
+More broadly, we encourage and welcome the views of the entire industry. The public consultation we have launched alongside the roadmap provides a structured and inclusive way for all stakeholders to offer their feedback and help shape the vision for Appia. Timely, transparent communication is a precondition for the market to invest and innovate with confidence.
+A legal framework to match the technological ambition
+The third condition is a legal framework that matches the technological ambition. Technology alone cannot address the legal fragmentation that lies at the root of the challenges facing Europe’s capital markets.
+Distributed ledger technology cannot harmonise corporate law across 27 Member States, reconcile divergent securities regulations or override national insolvency regimes that treat the same asset differently depending on where it is held. Over time, the combination of platforms based on DLT and of tokenised central bank money can help reduce post-trade fragmentation and deliver significant efficiency gains. But for capital markets to truly integrate, there is no substitute for legislative work.
+The Appia roadmap has been designed with this in mind. The fifth building block is dedicated not only to assessing gaps in the current legal and regulatory framework, but also to ensuring the safety and resilience of the new ecosystem as a whole – identifying the harmonisation needed to support an integrated European payments and capital markets ecosystem.
+The European Commission’s proposals to extend and enhance the DLT Pilot Regime and the 28th regime for corporate law are important and welcome developments. But it might be worth reflecting on whether these steps are sufficient or if we need a dedicated EU legal framework that enables tokenised assets to be issued, held and transferred seamlessly across the EU. Otherwise, we run the risk of building advanced settlement infrastructure on a patchwork of regulations, leaving us unable to fully reap the benefits.
+Conclusion
+Let me conclude.
+Europe is building real momentum in tokenised finance. Market activity is expanding, the regulatory framework is taking shape and the central bank is moving at pace to provide the settlement anchor this new ecosystem needs.
+At the same time, the obstacles to scaling a European digital asset ecosystem are real. Global competition is intensifying, and the window in which Europe’s early advantages can be turned into lasting leadership will not remain open indefinitely.
+With Pontes and the Appia roadmap, the Eurosystem has laid the groundwork for what is in its remit. But this is a collective endeavour. Engagement of market participants and legislators is needed to explore how technological ambition can be met with legal ambition.
+Europe succeeded in building a single currency. It can also build a single digital financial market to stand alongside it.
+The foundations are in place. Now we must seize the moment.
+Thank you.
+Association for Financial Markets in Europe (2025), “
+DLT-Based Capital Market Report
+”, 6 October.
+Digital tokens are entries in a database that are recorded digitally and that can contain information and functionality within the token themselves. See Bank for International Settlements (2024), “
+Tokenisation in the context of money and other assets: concepts and implications for central banks – Report to the G20
+”, Joint report by the Bank for International Settlements and Committee on Payments and Market Infrastructures, October.
+Organisation for Economic Co-operation and Development (2025), “
+Tokenisation of assets and distributed ledger technologies in financial markets – Potential impediments to market development and policy implications
+”,
+OECD Business and Finance Policy Papers
+, No 75.
+ECB (2026), “
+Appia – paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT
+”, 11 March.
+See the page on “
+Exploratory work on new technologies for wholesale central bank money settlement
+” on the ECB’s website.
+See the page on “
+Principles for Financial Market Infrastructures (PFMI)
+” on the Bank for International Settlements’ website.
+Aldasoro, I., Aquilina, M., Lewrick, U. and Lim, S.H. (2025), “
+Stablecoin growth – policy challenges and approaches
+”,
+BIS Bulletin
+, No 108, 11 July.
+See Panetta, F. (2020), “
+The two sides of the (stable)coin
+”, speech at Il Salone dei Pagamenti 2020, 4 November.
+ECB (2025), “
+The Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement
+”, June.
+With Appia, the Eurosystem is seeking to leverage DLT to achieve the following objectives: (i) ensure the effectiveness of monetary policy and financial stability and the smooth functioning of payment systems by maintaining central bank money as the anchor of a two-tier monetary system, (ii) foster a more integrated, competitive and innovative payments and securities ecosystem through efficient infrastructures for financial markets, (iii) support strategic autonomy and increased resilience, and (iv) ensure the relevance of the euro as an international currency.
+ECB (2026), “
+ECB paves way for acceptance of DLT-based assets as eligible Eurosystem collateral
+”,
+press release
+, 27 January.
+Euroclear, Clearstream, DTCC, and Boston Consulting Group (2026), “
+Building the Path Towards Digital Asset Securities Interoperability
+”, February.
+Related topics
+Distributed ledger technology (DLT)
+Digitalisation
+Crypto-assets
+Capital markets union
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Small steps in a dark room: guiding policy on the path out of the pandemic",
+  "date_original": "2022-02-28",
+  "date_au": "28/02/2022",
+  "datetime_original": "",
+  "speaker": "Small steps in a dark room",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220228~2ce9f09429.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-02-28 - Small steps in a dark room - Small steps in a dark room_ guiding policy on the path out of the pandemic.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-02-28 - Small steps in a dark room - Small steps in a dark room_ guiding policy on the path out of the pandemic.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8d0825f583a78627900e54bd83f60ba88cc46e7535d6e2a85069f20c6d840183"
+}

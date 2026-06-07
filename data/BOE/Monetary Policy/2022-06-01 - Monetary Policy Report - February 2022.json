@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - February 2022",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2022/february/monetary-policy-report-february-2022.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2022-06-01 - Monetary Policy Report - February 2022.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2022-06-01 - Monetary Policy Report - February 2022.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:55:32",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2022/february-2022",
+  "content_sha256": "576d7257af0cc28dd6d356f844dbf5c1cb020e39fd5b2b0b3485697a6892fa74"
+}

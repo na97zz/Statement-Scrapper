@@ -1,0 +1,209 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The proposed UK regime for critical third parties – speech by Gareth Truran
+DATE: 01/06/2024
+SPEAKER: Gareth Truran
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/march/gareth-truran-keynote-speech-at-the-techuk-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The proposed UK regime for critical third parties – speech by Gareth Truran
+Given at Tech UK Summit on Operational Resilience for Critical Third Parties on 6 March 2024
+Published on 
+
+ 08 March 2024
+The objective of the UK’s regime for critical third parties (CTPs) is to help manage risks to the stability of, or confidence in, the UK financial system. Gareth summarises the regulators’ current proposals and highlights that CTPs, firms and regulators will need to work together during implementation to enhance the operational resilience of the UK financial sector.
+Speech
+Good morning. I’m very pleased to be here today to introduce this TechUK summit on operational resilience for critical third parties (‘CTPs’). It’s great to see so much interest in this important topic, not just among the financial services firms with whom we normally engage, but also among third party service providers.
+In my remarks today, I would like to provide an overview of our proposed regulatory regime for CTPs. In particular, I will talk about the regime’s objectives, its key features and some of the requirements we are proposing.
+The UK’s regime for CTPs forms an important part of our overall strategy to ensure the UK financial sector is as resilient as possible to operational disruption. In recent years, financial firms have made increasing use of third parties to deliver important parts of their operations and services. This means we have to look beyond the resilience of individual firms we regulate to assess the operational resilience of the sector as a whole. The UK’s CTP regime recognises this. Also, we are not alone in our focus on these issues; similar trends are evident internationally and we are working closely with other regulators to share our thinking and learn from each other.
+Our proposals for CTPs are currently open for consultation, through a joint consultation paper
+footnote
+[1]
+by the Bank of England (Bank), Prudential Regulation Authority and the Financial Conduct Authority.
+footnote
+[2]
+The consultation closes on 15 March, so this summit is very well-timed for those of you developing your responses.
+Background
+When describing a proposed new regulatory regime, such as the one we are establishing for CTPs, it helps to start with the ‘why?’.
+For the past few years, improving the operational resilience of the UK financial sector has been a strategic priority for us as regulators.
+footnote
+[3]
+In 2021, after a discussion paper and then a consultation process, we finalised our operational resilience framework
+footnote
+[4]
+for financial services firms and financial market infrastructure entities (FMIs)
+footnote
+[5]
+. We also modernised our policy on outsourcing and third party risk management, to better address the potential risks posed by growing use of third party technology services such as cloud computing.
+footnote
+[6]
+That phase of our operational resilience work focused on the responsibilities of firms in the financial sector. That is natural given those are the firms we regulate. Firms are also best placed to meet our intended policy outcomes: to ensure they identify their ‘important business services’
+footnote
+[7]
+, assign a maximum tolerable level of disruption to these services, and then take steps to ensure they can meet these ‘impact tolerances’ even if they rely on third parties to support their delivery. Firms are also best placed to assess the materiality of their outsourcing and third party arrangements, and to manage the relevant risks.
+Since we finalised this policy framework, firms have been taking steps to meet their impact tolerances for their important business services by 31 March 2025. This deadline will be a significant milestone. But achieving operational resilience will require continuous monitoring and improvement as businesses innovate and risks evolve. So this will remain a key priority for our work with firms for the foreseeable future.
+Rationale for the CTP regime
+So how does the new CTP regime fit into our wider operational resilience framework?
+First of all,
+the proposed regime for CTPs will complement, but not replace, the responsibility of individual regulated firms and their senior management.
+Firms will still need to meet our operational resilience requirements and be accountable for managing the risks in their own outsourcing and third party arrangements.
+But there are scenarios where this might be insufficient to deliver an appropriate level of operational resilience for the system as a whole. Imagine a third party which provides services that are material to multiple firms, as well as very difficult (or impossible) to substitute easily or quickly. In such cases, the disruption or failure of this third party or its services could create a single-point-of-failure that could simultaneously impact multiple firms and, in some cases, financial stability. In other words, some third parties might be critical nodes in the financial system. There is a limit to how much a single financial services firm can do to identify this risk or to mitigate it through their own actions.
+For this reason, the Bank’s Financial Policy Committee (FPC) began monitoring systemic third party concentration risk in 2017.
+footnote
+[8]
+In 2021, it concluded that the financial sector’s increasing reliance on a small number of third parties for vital services “could increase financial stability risks, in the absence of greater direct regulatory oversight of the resilience of the services they provide.”
+footnote
+[9]
+In 2022, HM Treasury (HMT) responded by including a new legal regime for CTPs in the Financial Services and Markets Bill. These provisions have since been enacted.
+footnote
+[10]
+The overall objective of the CTP regime is very specific. It is designed to help manage risks to the stability of, or confidence in, to the UK financial system posed by systemic third party concentration risk
+. The new legal regime enables HMT to designate third parties as CTPs if they meet certain criteria. It also gives the financial services regulators some new powers to oversee the resilience of the services these CTPs provide to the UK financial sector.
+Alongside the Parliamentary debate, we issued a joint Discussion Paper in 2022 setting out our initial views on how we might operate a potential UK oversight regime for CTPs in practice.
+footnote
+[11]
+Feedback to this DP, including from organisations such as TechUK and its members, helped us refine the proposals in our current consultation. We are grateful for the engagement and feedback we have had with stakeholders on the proposed new regime.
+In thinking about this new regime, it is important to note that we recognise the important role that third parties can play in providing services to the financial sector. Such third parties can often provide complex services more efficiently than individual firms. Through specialism, innovation and economies of scale, they may also be able to help deliver a higher level of resilience than a firm might be able to achieve by itself, and at a lower cost. So third party providers can help improve the resilience, competition and competitiveness of the financial services sector. But the CTP regime recognises that in a small number of cases a high level of concentration in the provision of material services can, in itself, pose a risk to the financial system.
+Unsurprisingly, these concerns about the potential risks from growing third party concentrations in the financial sector are also shared in other major jurisdictions. A number of countries have developed similar initiatives to the UK’s regime for CTPs, such as the EU’s Digital Operational Resilience Act (DORA). And in 2023, the Financial Stability Board (FSB) published a ‘Third Party Risk Management and Oversight toolkit’ for financial institutions and financial authorities
+footnote
+[12]
+. This was the first publication by a global
+standard-setting body to recognise the potential risk to financial stability posed by ‘systemic third party dependencies’ and to outline tools for financial regulators around the world to manage and mitigate this risk.
+Scope of the CTP regime
+Having established the need for a regime for CTPs, the next question is who might be designated?
+HMT will decide whether to designate CTPs following recommendations from the regulators. These recommendations will in turn be informed by our analysis of data collected from firms and other sources.
+HMT will be only able to designate a third party as a CTP if it considers that a failure or disruption to the services it provides to firms “could threaten the stability of, or confidence in, the UK financial system”. In considering whether to designate a third party, HMT is required to have regard to the materiality of the services the third party provides to the financial sector, and the number and type of firms that rely on those services. The legislation deliberately sets a high bar. While designation decisions are for HMT, it might be the case that only a small number of third party providers meet it.
+But whatever the number of CTPs,
+as regulators we need to develop as robust a framework as possible to identify potential CTPs and to inform our designation recommendations. We need a process to help identify those third parties where disruption truly has the capacity to cause issues which might threaten financial stability.
+We have set out, in our consultation paper, the factors we propose to take into account when assessing potential CTPs. But setting absolute objective criteria here will be impossible – there will need to be room for a strong element of judgement.
+Key features of the proposed CTP regime
+The regime has three particular features that I would like to highlight. These flow from the specific overall objective of the regime to manage risks to the stability of, and confidence in, the UK financial system.
+The CTP regime complements rather than replaces firms’ existing obligations.
+We still expect firms to do their due diligence on potential providers, identify the best solutions for their needs, and then develop appropriate contingency plans to ensure they can manage disruption to – or exit from – these arrangements in an orderly way.
+The regime focuses on the particular services CTPs provide to financial services firms
+, rather than the regulation of CTP as legal entities. That is a different model to how we regulate other firms. Instead, our powers and proposed rules are targeted to the services CTPs provide to the UK financial sector. This recognises that some CTPs may well provide services in multiple jurisdictions and to other sectors well beyond financial services. As financial services regulators, and in line with the principle of proportionality, our focus for the CTP regime is on those services that pose the greatest risk to the UK financial services sector.
+CTPs will need to develop their understanding of their role in supporting the financial services sector, and how the new CTP regime and their future actions under it can manage financial stability risks.
+This will involve working collaboratively with firms and their regulators as appropriate. In some cases, it may also require an evolution in CTPs’ current approaches, to help them develop a deeper understanding of the risks they may pose to the financial system and how their financial sector customers may be interconnected.
+Key requirements for CTPs
+So what will the regime mean for CTPs in practice? Let me turn briefly to highlight some of the proposed requirements and expectations CTPs would have to meet, once designated. We propose some ‘Fundamental Rules’ and some more detailed ‘Operational Risk and Resilience Requirements’.
+The CTP Fundamental Rules describe CTPs’ most basic obligations under the proposed oversight regime. Like our existing Fundamental Rules for firms, they are high-level overarching obligations which would apply to all services a CTP provides to firms. They include obligations such as acting with integrity, due skill, care and diligence, and being open and cooperative with the regulators.
+The Operational Risk and Resilience Requirements are more granular and would apply only to CTPs’ material services to firms. They were inspired by and adapted from existing global standards on operational resilience for firms, such as the Basel Committee on Banking Supervision’s ‘Principles for Operational Resilience’.
+footnote
+[13]
+This symmetry between firms’ existing regulatory obligations, and CTPs’ obligations under our proposed regime, is deliberate. It should strengthen the alignment of interests between CTPs and their financial sector clients
+.
+The proposed requirements cover areas including governance, risk management, technology and cyber resilience. But let me focus today on just one set of proposed requirements, namely those relating to incident management. As noted in the consultation, we view these requirements as “key to ensuring that CTPs have regard to the potential systemic risks posed by disruption to their material services when determining how to respond to an incident”.
+We propose that CTPs would have to do three things in relation to incident management:
+CTPs would need to assign a maximum tolerable level of disruption to their material services. This would be equivalent to the ‘impact tolerances’ that firms are required to set for their important business services under our operational resilience framework. CTPs would be able to express this maximum tolerable level of disruption in whichever ways are most appropriate (e.g. as a recovery time objective, or a contractual commitment to maintain minimum service levels). However, in setting it they should actively consider how they can support the resilience of the firms to whom they provide services and, by extension, the stability of, or confidence in the financial system.
+CTPs would have to develop, maintain and test a ‘financial sector incident management playbook’. This should set out how they will communicate with and support firms during incidents affecting their material services, as well as their regulators.
+CTPs would have to proactively engage with existing frameworks set up to coordinate the response to incidents that may adversely affect the UK’s financial sector or parts of it. Our proposed rules do not prescribe any specific frameworks. But two examples would be the Cross-Market Operational Resilience Group’s Sector Response Framework,
+footnote
+[14]
+and the Financial Sector Cyber Collaboration Centre.
+footnote
+[15]
+These proposed requirements have been informed by lessons we have learnt from previous disruption at third party service providers impacting multiple firms. Most third parties have processes to update and support their customers during an incident. But these processes rarely take into account the potential collective or systemic impact that such disruption might have on the financial sector due to interconnectedness.
+Another lesson learnt from prior incidents is that third parties do not feature in the various frameworks set up to provide a coordinated response to incidents which might have a potential adverse impact on financial stability (even though they could be the source of the incident or provide a channel to amplify its impact). We are fortunate to have a number of these frameworks in the UK, and they can play an important role in safeguarding the resilience of the financial sector when it matters the most.
+To deliver the overall objective of the proposed regime, CTPs will need to bring an additional layer of financial sector-wide collaboration to their incident management practices.
+For certain incidents, we also propose that CTPs must notify the regulators, and the firms to whom they provide services. These notifications would follow a phased approach inspired by the FSB’s ‘Recommendations to Achieve Greater Convergence in Cyber Incident Reporting’. To minimise the reporting burden, we would be open to CTPs using incident notifications provided to their customers or other authorities as long as they include all the information required in our draft rules. Other elements of the regime may also allow the regulators and CTPs to gain important insights from near-misses, and to identify and address vulnerabilities (including in CTPs’ wider supply chains).
+Alongside these requirements, our consultation also sets out how CTPs would demonstrate that they meet our proposed standards. As a minimum, we propose that CTPs would be required to do three things:
+They should submit a regular self-assessment to the regulators. This should set out how they are meeting the outcomes in our proposed requirements.
+They should conduct regular scenario testing of their ability to continue providing material services within their tolerance for disruption in severe but plausible scenarios;
+At least annually, they should test their financial sector incident management playbook with a sample of their financial services firms.
+We are also developing an approach to CTP oversight, setting out further detail on how we plan to engage with CTPs in practice. This will be published alongside our final requirements and expectations for CTPs. Some of the panels in today’s event will provide an opportunity to discuss the proposed requirements for CTPs, and inform our evolving thinking on how they may be overseen in practice.
+International and cross-sectoral alignment
+Earlier on, I mentioned the EU’s DORA and the FSB toolkit as two examples of work underway internationally to address similar risks in other jurisdictions. These initiatives reflect the fact that the operations of both some firms and CTPs are cross-border. And of course, many potential CTPs operate beyond financial services sector too. So we recognise that effective oversight of some CTPs is likely to require close engagement with other regulators, to ensure our regime is effective and also to reduce the potential for duplication or inconsistency between the approaches taken by different regulators.
+International engagement and coordination among regulators in this area is a major focus for us. There are three main ways in which we are trying to achieve this:
+we are engaging actively in global regulatory initiatives relating to CTPs and operational resilience in general, such as the FSB’s toolkit and ongoing work on cyber incident reporting;
+we are proactively seeking to align our proposed requirements for CTPs with those of other authorities where appropriate and possible; and
+we are exploring actionable cooperation with overseas counterparts bilaterally or multilaterally.
+CTPs are a new area of focus for financial regulators around the world and developing cross-border cooperation frameworks will take time. But we are committed to working with our international counterparts to develop these. Doing so will help ensure our oversight is both effective and as efficient as possible.
+Concluding remarks
+To conclude, I’d like to bring us back to the value that events like this can provide as we take forward our work on the new regime.
+The goal of the new regime is simple – it is to enhance the operational resilience of the UK financial sector and the services it provides to its customers and the UK economy.
+As well as our work with regulated firms to meet our standards, the CTP regime will have an important role to play in helping achieve this objective
+and
+to
+support new, innovative, and resilient ways of regulated firms providing financial services.
+We recognise that the CTP regime will bring some other parties within the scope of our oversight powers for the first time, and will increase the focus on the resilience of the services these parties provide to the financial sector. It will require some adjustments all round as we all implement the new regime. With that in mind, we value the engagement we have already had with stakeholders. And we continue to want your feedback on our proposals so that the proposed regime for CTPs is effective and proportionate. Subject to the feedback we receive, we aim to issue our final requirements and expectations for CTPs in the second half of this year.
+I hope the rest of the day proves valuable in helping to explore some of the proposals in more detail and to inform your responses. Thank you in advance for your engagement with our proposals so far, and we look forward to receiving your feedback so we can make a success of the new regime for the UK.
+I’d like to thank Orlando Fernández-Ruiz for his assistance in preparing these remarks. I am also grateful to the following colleagues for their helpful comments: George Barton, Joanna Bibby-Scullion, Elliot Christensen, Charles Gundy, Simon Hall, Anna Lynskey, Michael Price and Jon Sepanski.
+CP26/23 - Operational resilience: Critical third parties to the UK financial sector
+Collectively, “the regulators” in this speech.
+By operational resilience, we mean “the ability of financial services firms, their groups, and the financial sector as a whole to prevent, adapt to, respond to, recover from, and learn from operational disruptions”.
+PS6/21 | CP29/19 | DP1/18 Operational Resilience: Impact tolerances for important business services
+In the rest of this speech, I will just refer to “firms” to include (i) financial services firms regulated by the PRA and/or FCA, and (ii) FMIs regulated by the Bank of England.
+SS2/21 Outsourcing and third party risk management | Bank of England
+and
+The Bank of England’s policy on outsourcing and third party risk management for Financial Market Infrastructures (FMIs) | Bank of England
+.
+By ‘important business services’, we mean those services which, if disrupted, could cause significant harm to firms’ customers, pose risks to their safety and soundness, or affect the resilience of the financial system.
+Financial Stability Report - June 2017 | Bank of England
+Financial Policy Summary and Record of the Financial Policy Committee Meeting on 23 September 2021
+.
+Chapter 3C of the Financial Services and Markets Act 2000
+.
+DP3/22 – Operational resilience: Critical third parties to the UK financial sector | Bank of England
+Final report on enhancing third party risk management and oversight – a toolkit for financial institutions and financial authorities - Financial Stability Board (fsb.org)
+BCBS Principles for operational resilience (2021) (bis.org)
+Responding to Systemic Incidents: The Sector Response Framework (SRF) | Cross Market Operational Resilience Group
+Financial sector cyber collaboration centre (FSCCC) NCSC.GOV.UK
+Financial sector cyber collaboration centre (FSCCC) NCSC.GOV.UK
+Close
+Responding to Systemic Incidents: The Sector Response Framework (SRF) | Cross Market Operational Resilience Group
+Close
+BCBS Principles for operational resilience (2021) (bis.org)
+Close
+Final report on enhancing third party risk management and oversight – a toolkit for financial institutions and financial authorities - Financial Stability Board (fsb.org)
+Close
+DP3/22 – Operational resilience: Critical third parties to the UK financial sector | Bank of England
+Close
+Chapter 3C of the Financial Services and Markets Act 2000
+.
+Close
+Financial Policy Summary and Record of the Financial Policy Committee Meeting on 23 September 2021
+.
+Close
+Financial Stability Report - June 2017 | Bank of England
+Close
+By ‘important business services’, we mean those services which, if disrupted, could cause significant harm to firms’ customers, pose risks to their safety and soundness, or affect the resilience of the financial system.
+Close
+SS2/21 Outsourcing and third party risk management | Bank of England
+and
+The Bank of England’s policy on outsourcing and third party risk management for Financial Market Infrastructures (FMIs) | Bank of England
+.
+Close
+In the rest of this speech, I will just refer to “firms” to include (i) financial services firms regulated by the PRA and/or FCA, and (ii) FMIs regulated by the Bank of England.
+Close
+PS6/21 | CP29/19 | DP1/18 Operational Resilience: Impact tolerances for important business services
+Close
+By operational resilience, we mean “the ability of financial services firms, their groups, and the financial sector as a whole to prevent, adapt to, respond to, recover from, and learn from operational disruptions”.
+Close
+Collectively, “the regulators” in this speech.
+Close
+CP26/23 - Operational resilience: Critical third parties to the UK financial sector
+Close
+Convert this page to PDF
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

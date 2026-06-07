@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy in an unusual cycle: the risks, the path and the costs",
+  "date_original": "2024-07-01",
+  "date_au": "01/07/2024",
+  "datetime_original": "",
+  "speaker": "Monetary policy in an unusual cycle",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240701~ba1ae1bd25.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-07-01 - Monetary policy in an unusual cycle - Monetary policy in an unusual cycle_ the risks, the path and the costs.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-07-01 - Monetary policy in an unusual cycle - Monetary policy in an unusual cycle_ the risks, the path and the costs.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1a2467a76ad20944ff9badab924babd4b2eec506a09a479ce3bf58c6515023d3"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Discussion of the Paper \"Managing Disinflations\" by Stephen G. Cecchetti, Michael E. Feroli, Peter Hooper, Frederic S. Mishkin, and Kermit L. Schoenholtz",
+  "date_original": "2023-02-24",
+  "date_au": "24/02/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20230224a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-02-24 - Philip N. Jefferson - Discussion of the Paper _Managing Disinflations_ by Stephen G. Cecchetti, Michael E. Feroli, Peter Hooper, Frederic.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-02-24 - Philip N. Jefferson - Discussion of the Paper _Managing Disinflations_ by Stephen G. Cecchetti, Michael E. Feroli, Peter Hooper, Frederic.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dfa67b22aaa167d7224ccc1bfd21238bdba4a30236c3fd20c67731cdd68c3457"
+}

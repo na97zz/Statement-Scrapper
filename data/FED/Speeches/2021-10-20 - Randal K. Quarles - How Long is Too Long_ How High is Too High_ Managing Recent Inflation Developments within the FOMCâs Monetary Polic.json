@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "How Long is Too Long? How High is Too High?: Managing Recent Inflation Developments within the FOMCâs Monetary Policy Framework",
+  "date_original": "2021-10-20",
+  "date_au": "20/10/2021",
+  "datetime_original": "",
+  "speaker": "Randal K. Quarles",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20211020a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-20 - Randal K. Quarles - How Long is Too Long_ How High is Too High_ Managing Recent Inflation Developments within the FOMCâs Monetary Polic.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-20 - Randal K. Quarles - How Long is Too Long_ How High is Too High_ Managing Recent Inflation Developments within the FOMCâs Monetary Polic.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a268c4dc0a3eb75bee0282adf7e81ff3d5b51bb124d75ef6815be3042f4b7c29"
+}

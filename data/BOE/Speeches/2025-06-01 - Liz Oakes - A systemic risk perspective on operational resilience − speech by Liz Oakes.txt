@@ -1,0 +1,172 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A systemic risk perspective on operational resilience − speech by Liz Oakes
+DATE: 01/06/2025
+SPEAKER: Liz Oakes
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/september/liz-oakes-keynote-speech-at-the-cross-market-operational-resilience-group-2025-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+A systemic risk perspective on operational resilience − speech by Liz Oakes
+Given at the Cross Market Operational Resilience Group (CMORG) conference
+Published on 
+
+ 18 September 2025
+Liz Oakes explains how the Bank of England’s Financial Policy Committee thinks about operational resilience from the perspective of protecting financial stability. She highlights the importance of firms considering system-wide dynamics when managing operational risks, and how collective action initiatives are an important tool to help with this.
+Speech
+Good afternoon, everyone.
+I’m delighted to be here today. I’m speaking as a member of the Bank of England’s Financial Policy Committee – the FPC – which is tasked with maintaining and enhancing UK financial stability. Operational resilience is central to that objective. But, as I’ll outline, we all have a shared responsibility to consider the impacts of disruption on the financial system as a whole. In particular, I’d like to highlight how collective action initiatives – involving industry and authorities – are an important tool to help us put that into practice.
+But first to provide a little context about my personal interest in operational resilience and cybersecurity.
+I have spent much of my career working on payments, including from the perspective of firms – both in the UK and overseas – and also national payment systems. It won’t therefore come as a surprise that tackling operational risks has been front and centre for me. I’ve seen the challenges at the ‘coal face’ when things go wrong, and the importance of clear plans for recovery from operational incidents.
+I’m also acutely aware that the risk environment in this space never stands still. For example, the cyber threats faced by financial businesses today are of a different type – and scale – to what we were dealing with just a few years ago. And the incredibly rapid pace of progress in AI that we've witnessed in recent years has the potential to further increase the sophistication and scale of cyberattacks, including against financial institutions.
+footnote
+[1]
+Operational risk is, of course, a much broader category than just cyber-threats. In particular, I’ve seen time and again how system change management can be a point of operational failure. For example, seemingly innocuous back-office systems can have critical dependencies for a firm’s wider business, and where change risks aren’t mapped and managed properly, they can have serious impacts. And issues at third-party providers and wider sources of disruption, like power grid outages, can also trigger high-impact operational incidents.
+In short, I know how hard some of this stuff can be, but also how much it really matters!
+Operational resilience is at the heart of financial stability
+So how does my and my FPC colleagues’ work on financial stability fit into this picture? I think it fair to say that the committee is increasingly focused on operational risk.
+The FPC was established after the global financial crisis. Unsurprisingly therefore, much of its initial work was on issues like building financial resilience in the banking sector, and guarding against unsustainable credit growth. In recent years, we have paid increasing attention to wider threats to financial stability. This includes an enhanced focus on operational risks, notably with the publication last year of our overarching ‘macroprudential’ approach to operational resilience.
+footnote
+[2]
+This shift reflects the ongoing digitalisation of the industry and increased interconnectedness. And the incidence of external threats in the form of cyberattacks – as well as mis- or dis-information
+footnote
+[3]
+– has been on a sharp upward trajectory. One study indicates that while around 4% of listed firms across advanced economies experienced a cyber incident in 2023, that proportion increases to 25% when just considering financial firms.
+footnote
+[4]
+And in today’s highly interconnected financial system, operational disruptions can spread rapidly and unpredictably. A good example of this is the growing reliance on critical service providers, like cloud service companies, to deliver core business functions.
+On the flip side, we should also be mindful of where technological change can help in combatting risks. To return to my earlier point about risks around systems change, AI is opening up new ways to manage such risks. For example, AI tools can help firms to map out existing systems and spot weaknesses and dependencies which might otherwise go undetected. At the same time, in the cyber context, AI might increase malicious actors’ capabilities to launch cyberattacks against financial institutions – so it’s potentially a double-edged sword from the perspective of operational risk.
+On the FPC, we consider risks to financial stability through the lens of their potential impacts on ‘vital services’ – those key financial services that UK households and businesses rely on, like lending, insurance and payments.
+In recent years, various operational incidents globally have underscored their scope to cause material disruption. Even relatively short-lived outages of customer-facing payment or online banking systems regularly make headline news for the real-world impacts they have on economic wellbeing. And this isn’t limited to incidents within large institutions, such as banks; we’ve also seen how issues in smaller or specialist fintech firms or software providers can cause significant disruption.
+Operational incidents can pose risks to financial stability in less direct ways than their immediate impacts on end-users. For example, a high impact incident could cause systemically important institutions, like banks, insurers or central counterparties, to take significant financial losses. This could, in turn, reduce their resilience to further shocks.
+Firm-level resilience needs to be supported by a resilient system
+Of course, firms are generally well aware of the impact that operational risks can have on their business. And, as their regulators, the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA) have set out operational resilience policies which require regulated firms to deliver important business services within impact tolerances, even under severe but plausible disruption.
+footnote
+[5]
+These policies help maintain the resilience of firms, and in doing so also help support financial stability. Similar policies set by the Bank apply to financial market infrastructures.
+footnote
+[6]
+To be clear, this isn’t about firms anticipating or eliminating all sources of operational risk. Indeed, the policies acknowledge that disruptions will inevitably occur from time to time. The point is that firms should focus on building their resilience to minimise the impact of incidents when they do occur. Specifically, this entails firms identifying maximum tolerable levels of disruption to important business services and using scenario testing to understand their ability, via recovery and response arrangements, to remain within these tolerances.
+Important business services include those which might affect the firm’s safety and soundness, for example, via direct financial losses or reputational damage. But on the FPC our macroprudential logic is that the safety and soundness of individual firms alone may not always be sufficient to ensure the resilience of the system as a whole. This is because of the existence of structural vulnerabilities. What I mean by that are features of the financial system which can make the impact of shocks, when considered at the level of the financial system, greater than the sum of their initial firm-level impacts.
+For example, where risks are correlated across multiple firms – perhaps because of a common dependency on a piece of critical infrastructure or service provider, or a shared weakness of risk management – a single event could simultaneously affect various different nodes of the financial system. From the perspective of confidence in the system, a widespread incident could be far more damaging than an incident that is clearly limited to a single firm. Loss of confidence can then act as channel which amplifies the initial impacts, for instance by triggering the rapid withdrawal of customer funds, which in turn might lead to liquidity stresses. We consider various other vulnerabilities and risk channels, and I’d refer you to our 2024 publication on the topic if you are keen to read more.
+footnote
+[7]
+So, a resilient financial system is crucial for the individual firms that comprise it, as well as for the end-users of financial services in the real economy.
+With a view to filling in the macroprudential ‘gaps’ caused by structural vulnerabilities, the FPC has a number of tools at its disposal. A key measure we’ve taken has been to set an ‘impact tolerance’ for critical payments, such as wage and salary payments. These should be completed by the due date, even in severe but plausible scenarios. In situations where that’s not possible, firms should be able to respond in such a way as to mitigate the impacts on households and businesses.
+Alongside the FPC’s impact tolerance for critical payments, relevant firms are expected to include a wider consideration of financial stability impacts when setting their own impact tolerances.
+footnote
+[8]
+This therefore puts an onus onto individual firms to actively consider dynamics at the level of the financial system, and how their business – and their customers – fit into it. This brings me to the broader point I want to emphasise today: our shared responsibility for ‘thinking system-wide’.
+Collective action is a key tool for building financial system-level operational resilience
+In this context, I want to reflect on why I see collective action as a powerful vector for building system-level operational resilience. Many of you are deeply familiar with
+CMORG’s work
+, and I speak as someone relatively new to the group. But it’s already clear to me how it can be an effective means of delivering impactful outcomes for the sector.
+First, CMORG has made a particularly important impact through its programme of sector-wide exercises.
+Exercises like SIMEX enable us collectively to understand how firm-level responses to a given scenario, when taken together, shape outcomes at the market or system level. This enables us all to prepare more effectively for such scenarios.
+SIMEX24 focused on the UK financial sector’s ability to respond to a major infrastructure failure that would require a total shutdown and restart of the sector. The plausibility of this sort of scenario was subsequently underscored by the power outage in the Iberian Peninsular in April this year. Fortunately, that particular incident did not impact the UK, but the lessons learned from SIMEX give us an understanding of how prepared the sector would be and where improvements are needed.
+Second, collective action initiatives provide us with an ability to communicate and coordinate action across a highly complex financial ecosystem.
+CMORG’s Sector Response Framework (SRF) shows this in action. I view this as one of CMORG’s most impactful tools, because timely notification through the SRF can be the difference between an incident causing isolated disruption versus system-wide instability. Beyond helping manage a live event, the SRF helps firms shape the most effective response strategies, leveraging the collective expertise of the industry. All of this contributes to maintaining confidence and reducing risks to financial stability.
+Third, following disruption, industry collaboration can contribute to rebuilding trust in the integrity of the financial system.
+Again, CMORG provides an important example in the form of the Reconnection Framework, which helps firms to safely reintegrate with the sector after an incident. This significantly reduces the risk of contagion and supports a smoother recovery.
+Fourth, collective action can be a powerful tool for identifying emerging risks
+, both at the firm and the system level, and for bringing together cutting-edge expertise to mitigate them. I want to touch on a particularly topical area here: emerging technologies.
+Consider the interaction between the development of quantum computing and cybersecurity – and the consequent need to develop post-quantum cryptography. Given firm dependencies on third-party vendors, the transition to post-quantum cryptography is broader than individual firms’ risk appetites. It is a significant challenge, faced by the whole industry, so firms and suppliers must align to support this transition. If migration efforts are not coordinated, there is the potential for this to create further vulnerabilities affecting the sharing of data across firms and third parties.
+CMORG’s Guidance for Post-Quantum Cryptography, aligned to the relevant guidance from the National Cyber Security Centre (NCSC), addresses this risk directly. It stresses the importance of migrating to standardised algorithms to ensure secure communication, especially across third-party systems. Specifically, it recommends that financial institutions should begin to create an inventory of all cryptographic assets within their organisation. A risk assessment should also be conducted to evaluate the quantum vulnerability of cryptographic assets. It is important that firms prioritise high-risk areas where data is valuable or cryptographic mechanisms are critical to operations and that they implement internationally recognised standards. And firms should ensure their systems can adapt quickly to future quantum threats.
+While the time horizons involved here may appear lengthy, we know from experience just how long such industry-wide transitions can take. At present securities can still exist in paper form, for instance, and it took decades to move away from relying on faxes for some purposes.
+Of course, CMORG is not the only mechanism for sector collaboration in the UK. The Bank of England’s Cyber and Operational Resilience Stress Tests provide deep technical insight into how the impacts of incidents can transmit across the financial system, and the resulting financial stability risks. Our most recent cyber stress test focussed on the resilience of wholesale payment and settlement services in a data integrity scenario. This led to
+published findings (PDF)
+which should be of use to a broad range of firms in building collective understanding and good practice, as well as clarifying certain FCA policies. These stress tests would not be possible without close cooperation between the Bank and numerous firms across the sector.
+In addition, I would highlight that the Bank and the PRA continue to work actively in collaboration with the other UK financial authorities, including HM Treasury and the FCA, to advance the resilience agenda. There is also close engagement with the National Cyber Security Centre, as the national technical authority on cyber, to inform our response to the most significant threats facing the sector.
+To take a recent example, the Bank and FCA, with input from NCSC colleagues, jointly published
+thematic findings
+from their threat-led penetration testing exercises – the ‘CBEST’ programme – to help build awareness across industry. Our collaboration also ensures we are able to respond effectively to major operational incidents through the Authorities Response Framework – including effective coordination with the sector response tools developed through CMORG.
+Closing remarks
+To sum up, industry and authorities have a common interest in building system-wide operational resilience. Financial stability is in all our interests, and in support of it we have a shared responsibility to ‘think system-wide’. All of us in this room have a role to play in ensuring the industry can continue to provide the real economy with vital services against a backdrop of growing and ever-changing operational risks, and as we continue to innovate and develop new services.
+I fully appreciate that incorporating financial system-level awareness into firms’ risk management is sometimes easier said than done. After all, no single firm has a complete view of how others are interconnected or how disruption might propagate. And, in contrast to financial risks, which are assessed with metrics like Value-at-Risk or Expected Shortfall, operational risk lacks common measures for assessment and control. The potential losses are much more difficult to quantify.
+This is why collective action initiatives, such as CMORG, are a such a critical part of our collective toolkit for building resilience to systemic risks. They enable firms to share expertise and build coordinated strategies to minimise the impact that incidents can have.
+This is also where the authorities come in. At the Bank of England, we will continue to develop our own toolkit. In particular, through the further development of our Cyber and Operational Resilience Stress Tests. We will continue to publish the findings from these stress tests, as well as other operational resilience testing like the CBEST programme. These tools will continue to support the sector to think through adverse scenarios, enhance its understanding of the potential impacts to financial stability from operational disruption, and to develop its response and recovery capabilities. And later this year, the Bank and the PRA intend to consult on policy relating to the management of ICT and cyber risks, with a view to further enhancing the sector’s operational resilience capabilities.
+So let’s continue leveraging all available tools to really embed financial system-level awareness into operational risk management. It’s no easy task, but with focus and collective effort we can continue to build a more resilient system for all.
+Thank you.
+I would like to thank Sian Birtles and Francis Jackson for their assistance in preparing this speech. I would also like to thank Sarah Ashley, Sarah Breeden, Daniel Clements, Claire Greene, Danielle Haralambous, Adrian Hitchins, Amy Lee, Duncan Mackinnon, Santosh Pandit, Metesh Patel, Holly Snaith, Matt Lloyd and Tom Wise for their advice and comments.
+Bank of England (2025),
+Financial Stability in Focus: Artificial intelligence in the financial system
+.
+Bank of England (2024),
+Financial Stability in Focus: The FPC’s macroprudential approach to operational resilience
+.
+For example, in the World Economic Forum’s
+2025 Global Risks Report
+survey respondents cited misinformation and disinformation as the top short-term risk (2025–2027).
+IMF (April 2024),
+Global Financial Stability Report
+, Chapter 3, Figure 3.2.
+Relevant policies include the PRA’s
+Supervisory Statement SS1/21
+and the FCA’s
+Policy Statement PS21/3
+.
+Bank of England policy on Operational Resilience of FMIs
+.
+Bank of England (2024),
+Financial Stability in Focus: The FPC’s macroprudential approach to operational resilience
+.
+As set out in
+PS6/21 – Operational resilience: Impact tolerances for important business services
+this includes firms identified by the PRA as other systemically important institutions (O-SIIs) and insurers with gross written premiums exceeding £15 billion or technical provisions exceeding £75 billion, both on a three-year rolling average.
+As set out in
+PS6/21 – Operational resilience: Impact tolerances for important business services
+this includes firms identified by the PRA as other systemically important institutions (O-SIIs) and insurers with gross written premiums exceeding £15 billion or technical provisions exceeding £75 billion, both on a three-year rolling average.
+Close
+Bank of England (2024),
+Financial Stability in Focus: The FPC’s macroprudential approach to operational resilience
+.
+Close
+Bank of England policy on Operational Resilience of FMIs
+.
+Close
+Relevant policies include the PRA’s
+Supervisory Statement SS1/21
+and the FCA’s
+Policy Statement PS21/3
+.
+Close
+IMF (April 2024),
+Global Financial Stability Report
+, Chapter 3, Figure 3.2.
+Close
+For example, in the World Economic Forum’s
+2025 Global Risks Report
+survey respondents cited misinformation and disinformation as the top short-term risk (2025–2027).
+Close
+Bank of England (2024),
+Financial Stability in Focus: The FPC’s macroprudential approach to operational resilience
+.
+Close
+Bank of England (2025),
+Financial Stability in Focus: Artificial intelligence in the financial system
+.
+Close
+Liz Oakes
+External member of the Financial Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

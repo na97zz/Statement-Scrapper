@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Navigating Delta Headwinds on the Path to a Full Recovery",
+  "date_original": "2021-09-27",
+  "date_au": "27/09/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210927a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-09-27 - Lael Brainard - Navigating Delta Headwinds on the Path to a Full Recovery.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-09-27 - Lael Brainard - Navigating Delta Headwinds on the Path to a Full Recovery.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "61c23ac8bc65ee5f77b7fed1ff06ab638fdf328aa511b403fa4bffaef0824c97"
+}

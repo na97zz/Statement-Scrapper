@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2023-10-19",
+  "date_au": "19/10/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20231019a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-19 - Philip N. Jefferson - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-19 - Philip N. Jefferson - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "51aa14c69d757e08c96ac65fdbf7e3359876a07dfd2c54b005a6c8f1e9a4542e"
+}

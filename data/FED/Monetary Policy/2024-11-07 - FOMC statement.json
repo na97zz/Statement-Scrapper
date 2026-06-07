@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2024-11-07",
+  "date_au": "07/11/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20241107a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2024-11-07 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2024-11-07 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "33b2da84c96683b7fff9f334b487baec3ebb150ffc5a0475b687544f9077640c"
+}

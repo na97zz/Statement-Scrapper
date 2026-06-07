@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Achievement of the 2 Percent Price Stability Target and Japan's Economy\" (Speech at the Meeting of Councillors of Keidanren (Japan Business Federation) in Tokyo)",
+  "date_original": "2024-12-25",
+  "date_au": "25/12/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko241225a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-12-25 - UEDA Kazuo - _Achievement of the 2 Percent Price Stability Target and Japan's Economy_ (Speech at the Meeting of Councillors of Keidanren.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-12-25 - UEDA Kazuo - _Achievement of the 2 Percent Price Stability Target and Japan's Economy_ (Speech at the Meeting of Councillors of Keidanren.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d7a0db9b71f2a9298028db3e1a468928f0de777dec68187dcb76f93ba804daaf"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The sovereign-bank-corporate nexus – virtuous or vicious?",
+  "date_original": "2021-01-28",
+  "date_au": "28/01/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210128~8f5dc86601.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-01-28 - Speech by Isabel Schnabel - The sovereign-bank-corporate nexus – virtuous or vicious_.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-01-28 - Speech by Isabel Schnabel - The sovereign-bank-corporate nexus – virtuous or vicious_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4d7bd0fc0627f01b862ed4324d5cd1f1e16244231b7ff8bbdd3fecb9323fe23b"
+}

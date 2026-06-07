@@ -1,0 +1,372 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Getting the balance right: ensuring the Bank’s balance sheet can support financial stability − speech by Dave Ramsden
+DATE: 01/06/2024
+SPEAKER: Dave Ramsden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/december/dave-ramsden-speech-at-omfif-on-financial-stability-and-the-boe-toolkit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Getting the balance right: ensuring the Bank’s balance sheet can support financial stability − speech by Dave Ramsden
+Given at the Official Monetary and Financial Institutions Forum, London
+Published on 
+
+ 09 December 2024
+Dave reflects on developments in the UK financial system through 2024, highlighting the continued shift in activity to non-banks and considering how the Bank’s balance sheet can be used to support that evolving financial system.
+Speech
+Good afternoon, thank you to OMFIF for the invitation to speak to you today, it’s a pleasure to be here.
+The end of the year is always a natural time for reflection. This time last year I gave a speech on banking resolution, looking back over a year influenced by the failures of Silicon Valley Bank and Credit Suisse.
+footnote
+[1]
+And a year before that I reflected on the significant shocks that had struck the UK economy in 2022.
+footnote
+[2]
+So, at the end of 2024, I’d like to take stock again, surveying the landscape of the UK’s financial system. And I will do so from my perspective as the Bank’s Deputy Governor with executive responsibilities for our balance sheet operations and as a member of the Bank’s Financial Policy Committee (FPC) and Prudential Regulation Committee (PRC). Approaching financial stability risks from that vantage point allows me to think through how we can get the balance right in terms of monitoring and acting on risks first at the firm level, then at the system-wide level, and then in both those pursuits considering how the Bank’s balance sheet can be best put to use in maintaining financial stability.
+We should pause on that final point for a moment though. What do we mean by ‘maintaining financial stability’?
+As my colleague, Sarah Breeden, set out in September financial stability is a concept that can be hard to pin down. In its simplest form we can describe it as the absence of instability, but more fully it means the financial system provides vital services to households and businesses reliably in all states of the world, even when shocks hit, which, in turn, lay the foundations for sustainable growth.
+footnote
+[3]
+Figure 1 maps out the various contributors to financial stability in the UK, and it is in my role that I sit across the system-wide issues as an FPC member as well as firm-level risks for banks and insurance companies as an PRC member. As Sarah set out, though, we don’t want to insure against every possible eventuality, instead ensuring resilience to severe but plausible shocks. That implies that disruptions can still occur and means we must be ready to intervene when necessary. That is where my responsibilities as a Bank executive for the market operations in the far-right purple box and the Bank’s resolution function in the adjacent box, come in.
+Figure 1: Functions that contribute to financial stability in the UK
+Footnotes
+Key: Aqua = Bank of England; Orange = Other regulator; Purple = Policy area; Gold = Firms. The chart focuses on prudential regulation and supervision. The PRA also regulates and supervises credit unions, building societies and large investment firms. FMID also regulates and supervises payment systems recognised by HM Treasury and central securities depositories. The Bank’s functions as lender of last resort, both extraordinary and non-extraordinary, are divided between the Resolution Directorate and Markets Directorate. The Financial Conduct Authority regulates the conduct of financial services businesses and is supervisor for other firms that do not fall within the scope of the PRA. Source: Bank of England.
+For sake of argument, let’s take the simpler description of financial stability for a moment and run with it. One stand-out aspect of 2024, especially when compared with the last couple of years, is the relative lack of systemic risks crystallising through the year. Despite ever-present geopolitical risks, and some large moves in markets at times, we haven’t had to intervene to address market dysfunction, nor have we had to deal with shocks spilling over into significant bank resolutions.
+But does the absence of instability mean we have achieved lasting financial stability? It would be a brave FPC member who said that. Whilst there hasn’t been any significant market dysfunction or bank failures, there’s still been significant volatility, not least in early August where we saw the unwinding of leveraged trading positions, particularly in the yen carry trade, exacerbate market moves, as highlighted by the path of the VIX index in Chart 1. We have also seen moves in rates around the UK budget and the US election more recently. Indeed, I do not want to convey that relative stability within the UK means there’s been general stability globally; in just the last week we’ve seen martial law imposed and reversed in South Korea, the French government lose a no confidence vote and other geopolitical developments.
+Chart 1: Market volatility spiked in August as measured by the VIX index
+Footnotes
+Source: VIX index and Bank Calculations
+Whilst the August volatility didn’t lead to wider market dysfunction, had subsequent macroeconomic news been less supportive, further deleveraging could have occurred as market-based finance vulnerabilities remained elevated. From my perspective, the episode highlighted, yet again,
+footnote
+[4]
+that correlated, leveraged positions, when unwound, can act to amplify an initial shock. Notably, it was another example of how vulnerabilities in market-based finance can crystallise. We have previously set out
+footnote
+[5]
+– and summarised in Figure 2 – how vulnerabilities in market-based finance affect financial stability, where firm-level vulnerabilities like leverage (first orange column) interact with system-wide vulnerabilities like concentration and correlation (second orange column) to amplify shocks.
+Figure 2: How market-based finance vulnerabilities can affect financial stability
+Vulnerabilities and transmission channels to financial stability
+Footnotes
+Source: Bank of England
+To me it provided another piece of evidence suggesting that we’re seeing structural changes consistent with a new tendency to volatility in financial markets and the wider system. Nikhil Rathi, FCA Chief Executive, has described this development as ‘predictable volatility’,
+footnote
+[6]
+whereby developments in technology alongside greater market concentration and inter-connectedness mean we are more likely to see large swings in prices, particularly intraday, as markets can react faster to information and are more prone to herding behaviour.
+Is that new volatility a sign of increasing financial instability? No, it is not. Market volatility does not equate to financial instability, but we have to monitor and act on those developments appropriately, at the firm level, system-wide level and, importantly, in the operation of the Bank’s balance sheet.
+So today, I want to reflect on what we’ve seen in 2024, with its lack of significant dysfunction but continued volatility. I will first consider what developments are taking place in the UK financial system, with the focus this year firmly on the non-bank sector. I will go onto set out how risks at the firm level could transmit to the system-wide level and comment on what the Bank is doing to monitor those risks – as Andrew Bailey emphasised in October,
+footnote
+[7]
+we must keep our focus on the system-wide perspective in assessing financial stability risks. I will then set out how we are utilising the Bank’s balance sheet to support financial stability.
+Much of this will be familiar. You’ve heard a lot from me and my FPC colleagues throughout this year, but it bears repeating given what it implies for existing and new vulnerabilities and risks to continued financial stability, which the FPC and the Bank are managing.
+Lessons from 2024 – developments in market-based finance
+If I was going to pick out one theme to describe 2024, it’s the continued transition of activity to non-banks, particularly in some core markets.
+Non-bank financial institutions (NBFIs) encompass all financial institutions that are not banks, central banks or public financial entities. It means they are a heterogeneous group of financial intermediaries with widely differing business models, varying from pension funds and insurance companies to hedge funds and money market funds. As has been well documented, their role within the financial system has increased rapidly since the global financial crisis, with non-banks now accounting for around half of the total assets in both the UK and global financial systems.
+footnote
+[8]
+Nearly all of the increase in net borrowing by UK business since the global financial crisis has come from market-based sources rather than direct bank lending, and market-based lending now accounts for 56% of the £1.4 trillion stock of UK corporate debt, as shown in Figure 3.
+Figure 3: Composition of stock of UK corporate debt as of 2024 Q2
+Footnotes
+Sources: Bank of England, Bayes CRE Lending Report (Bayes Business School, City University of London), Deloitte, Eikon from Refinitive, Financing & Leasing Association, firm public disclosures, LCD a part of PitchBook Data Inc., ONS, Peer-to-Peer Finance Association and Bank calculations. Data as of 2024 Q2.One square represents approximately £14 billion. There are 100 squares, each representing 1% of the total current stock of UK corporate debt, rounded to the nearest 1%. Debt securities include bonds, private placements, and commercial paper. Non-bank loans to large corporates includes lending by securities dealers and insurers, non-monetary financial institution syndicated loans, asset finance provided by the non-bank sector, and direct lending funds. These data are for private non-financial corporates using ONS consistent national accounts definitions, and excludes public, financial, and unincorporated businesses.
+The Bank has previously set out the reasons for, and impacts of, that shift in household and business savings and borrowing habits, and market activity, towards NBFIs.
+footnote
+[9]
+There are potential benefits to that shift, by increasing the range of intermediation channels, reducing concentration and improving risk sharing, but we have also noted how non-banks can pose new forms of liquidity risks to financial stability in the context of the post global financial crisis era.
+footnote
+[10]
+At a system-wide level, that greater vulnerability to sudden jumps in liquidity demand has warranted thinking from us on how we should utilise our balance sheet as a backstop to support systemic market functioning in the event of a non-bank liquidity episode. But I’m getting ahead of myself, I’ll return to that topic later.
+Reflecting further on 2024, there are lots of developments I could highlight in a longer speech; they are all set out in the latest FSR.
+footnote
+[11]
+But one particular development I want to draw out is what we’re seeing in gilt markets. It shows three key things: first, activity in core markets continuing to shift to non-bank participants (particularly hedge funds); second, firm level vulnerabilities among those non-bank participants evolving; and third, structural changes amongst those participants suggesting system-wide vulnerabilities that can amplify shocks.
+Working through each of those steps in turn:
+First, as Chart 2 shows, an increasing proportion of gilt market transactions have involved hedge funds over the last few years.
+Chart 2: Hedge funds’ proportion of gilt trading volumes
+6-month rolling average of weekly gross volumes
+(a)
+Footnotes
+Source: UK MiFIR transactions reports received by the FCA and Bank calculations. Data to 20 October 2024.The calculation excludes any trades categorised as dealer-dealer or interdealer.
+Some of the reasons for this are not surprising. While the volume of government debt outstanding has increased in recent years across advanced economies, particularly since the COVID-19 pandemic, commercial bank balance sheets have not kept up.
+footnote
+[12]
+Until recently central banks absorbed some of that supply in QE programmes, a trend which has now moved into reverse. As a result, government bonds are now often warehoused beyond the banking system and central banks. This has meant hedge funds have become increasingly active in intermediating risk between borrowers and lenders in markets. There is nothing inherently wrong with the growth in hedge fund activity, indeed it is a trend that began well before 2024 and is not unique to the UK. Ultimately it is important that there are participants providing market making services within UK core markets and hedge funds are increasingly taking on that role.
+Second, at the same time, many of the hedge funds responsible for the increasing share of activity in UK gilt trading use significant amounts of leverage to achieve higher returns. As Chart 3 shows, hedge fund net gilt repo borrowing has been increasing over the past year.
+Chart 3: Hedge fund net gilt repo borrowing
+Footnotes
+Sources: Sterling Money Market Data (SMMD) and Bank calculations. Data to 3 December 2024.
+The risks posed from highly leveraged non-bank participants are not new to 2024, we have previously set out the potential impact of leveraged investors on financial stability,
+footnote
+[13]
+indeed they’ve amplified a number of shocks in the last five years, and we covered the issue in our most recent Financial Stability Report, with Chart 4 highlighting the total increase in hedge fund net repo borrowing globally.
+footnote
+[14]
+Chart 4: Hedge fund net repo borrowing
+Footnotes
+Sources: Office of Financial Research and Bank calculations. The data are aggregated responses to SEC Form PF. SEC Form PF repo borrowing data is not broken out by collateral class. Data to 30 June 2024.
+Third, the success of some hedge fund operating models is leading to concentration of the market within a subset of funds. We have seen a growth of “multimanager” funds, where multiple ‘pods’ invest in different asset classes with the positions of different pods intended to be uncorrelated and diverse. Under these models, central oversight applies strict risk management limits on the pods which can lead to quicker deleveraging in a stress. At the same time, there has also been ongoing popularity of systematic quantitative strategies which use models and algorithmic based trading to follow – or try to anticipate – market trends.
+With greater concentration within a subset of funds, and an increase in the overall proportion of gilt market activity channelled through those funds, the Bank in its financial stability role needs to monitor and understand what those developments might mean for the financial system.
+To be clear upfront, the developments do not suggest a fundamental issue in the functioning of gilt markets. Indeed, we could confidently say that gilt markets operated in an orderly manner around the time of the UK budget, when 10-year gilt yields moved up before retracing somewhat. This was markets doing their job, re-pricing based on the impact of news on expectations for central bank policy rates and gilt supply.
+Taking a step back, though, while gilt markets continue to function in an orderly way, vulnerabilities like hedge fund leverage and concentration are a specific example of the vulnerabilities that could lead to system-wide risks and warrants continued and careful monitoring.
+How we monitor risks from market-based finance evolving into systemic risks
+So, how do we monitor and better understand these risks, such that we can take informed actions to maintain financial stability?
+At the international level, policy work on leverage in NBFIs
+footnote
+[15]
+and enhancing the liquidity preparedness of non-bank market participants is ongoing.
+footnote
+[16]
+And further international work on regulatory data gaps is upcoming such that authorities can better monitor the resilience of non-banks. Domestically, steps are being taken to address data gaps, such as in the forthcoming PRA consultation on addressing liquidity reporting gaps and streamlining standard formula reporting for life insurers. This will provide more frequent, granular and consistent liquidity reporting by insurers. That improved reporting will improve regulators’ ability to assess the liquidity preparedness of those insurers most exposed to liquidity risks; including the liquidity risks arising from the increased use of derivatives and securities financing transactions.
+One key development I’d like to highlight from 2024 is the recent publication of the Bank’s system-wide exploratory scenario exercise (SWES) final report,
+footnote
+[17]
+the first exercise of its kind globally. As my colleague Lee Foulger set out in his speech last week,
+footnote
+[18]
+the aim of the SWES was twofold – first, it aimed to improve our understanding of risks to and from NBFIs and their behaviour in stress; and second, to investigate how those behaviours and market dynamics can combine and amplify shocks in markets and potentially pose risks to UK financial stability. Figure 4 sets out the key risk and transmissions channels investigated in the SWES.
+Figure 4: Key risk and transmission channels under investigation in the SWES
+Footnotes
+Source: Bank of England
+The exercise highlighted how a severe stress could result in very large cash and collateral moves around the UK financial system, and how different market participants and core markets perform under those conditions. I’d point you to the full 113 pages of the publication and Lee’s speech for further details on our findings. But for the purpose of today I’d like to emphasise three things from the broader set of conclusions.
+First, it highlighted that firms’ collective actions amplify the initial shock in the scenario, mirroring the theme I’ve been drawing out so far in my speech. Second, it highlighted the liquidity challenges that some NBFIs can face in significant market shocks. Third, and most importantly for me in the context of today, during a market stress, banks are generally unlikely to provide all of the additional repo financing NBFIs ask for.
+Ensuring the Bank’s balance sheet can support financial stability
+That brings me to the final step in my thought process, the Bank’s balance sheet and our lending facilities.
+The Bank’s balance sheet operations, at their core, provide liquidity to the financial system when liquidity is required. Andrew Bailey, in his Goodhart Lecture in May, explained the importance of central bank reserves to delivering on our core mandate of maintaining financial stability (and implementing monetary policy).
+footnote
+[19]
+As the safest and most liquid of financial assets, central bank reserves act as the ultimate safe asset in the system underpinning settlement between participants.
+We therefore need to consider the extent to which we use the Bank’s balance sheet to provide liquidity to the system. Who should we provide that liquidity to and on what terms – in other words, what is the right balance for our balance sheet operations?
+The Bank’s balance sheet is going through a period of transition.
+footnote
+[20]
+We published a discussion paper today setting out the work we are undertaking to re-calibrate the Indexed Long-Term Repo (ILTR) operation, as we transition to a repo-led operating framework. The ILTR, alongside the Short-Term Repo (STR) operation will supply the majority of the stock of reserves to meet the system’s liquidity needs, as we transition away from the supply-driven framework we have operated for the last decade, where the MPC’s quantitative easing purchases, amongst other things,
+footnote
+[21]
+supplied abundant reserves to the banking system.
+That overarching change in the size of our balance sheet and operating framework is not the focus of my speech today, but I would strongly recommend market participants engage with the discussion paper (accessible via this
+link
+) and share your views. As Andrew reiterated in his lecture in May, the Bank has been “open for business” through the operation of our revised Sterling Monetary Framework for over a decade now.
+footnote
+[22]
+We want to ensure that our counterparties can access reserves through our facilities as part of routine sterling liquidity management, both in BAU and in times of stress. This is vitally important as we transition to our steady state, repo-led operating framework.
+footnote
+[23]
+What I want to focus on today is the question of how we provide liquidity to the non-bank sector during stress.
+Until now, the Bank has provided liquidity to the financial system as a whole via the banking system, under the assumption that banks would onward lend and that liquidity would eventually find its way to the part of the financial system where it was most needed. But when core financial markets are severely dysfunctional, as in 2020 or as in the SWES exercise, we have seen that banks are not always willing or able to pass on sufficient liquidity sufficiently quickly to NBFIs to meet their demand and avoid a period of financial instability.
+Accordingly, we have been working to develop tools to lend to NBFIs directly in times of severe dysfunction in core UK financial markets when financial stability is under threat. As a first step in this work the Bank announced in the summer that it is developing the Contingent NBFI Repo Facility (CNRF).
+footnote
+[24]
+The purpose of the CNRF is to backstop the gilt market, the most core of all UK financial markets given its size, interconnectedness and importance to the system and to financial stability. The facility will be open to eligible pension funds, insurance companies and liability-driven investment funds – these sectors are our initial
+footnote
+[25]
+focus given they have both been significant sellers of gilts in past stress episodes and have higher levels of resilience relative to some other NBFIs.
+footnote
+[26]
+And it will be priced to be expensive when compared to market pricing in normal conditions, but attractive during times of stress.
+footnote
+[27]
+As its name indicates, the CNRF will be a contingent facility, available only when activated by the Bank because we judge that gilt market dysfunction is severe enough that it threatens financial stability absent any action by the Bank, and our lending facilities to banks will not, on their own, eliminate that threat.
+footnote
+[28]
+I understand that there will be interest in knowing for certain when we would activate the CNRF, but it’s beyond our powers of prediction to provide a definitive list of which circumstances would lead to the severity of core market dysfunction that would warrant activating the CNRF.
+What I can say is that the Bank will draw on a mix of quantitative and qualitative information to assess whether the conditions for activating the CNRF are met. We maintain regular quantitative monitoring of gilt market conditions, using a variety of metrics that can provide useful signals that conditions are becoming dysfunctional but these metrics are less instructive about what might happen next. It is here where conversations with market participants become invaluable. Our blend of quantitative and qualitative information allows us to be forward looking and judge when market moves are building to tremors of dysfunction, and when those tremors – if they cannot be managed by firms alone – are building into something that will lead to fire sales and material spillovers to other firms, which would threaten financial stability if they remained unchecked. It is in those, clearly severe and hopefully rare situations, that activating the CNRF may be warranted.
+We understand from our market engagement that our approach to disclosure is a particular point of interest, and that contacts expressed concerns that revealing too much information could create stigma around the use of the CNRF. It’s incredibly important to the Bank that we avoid this: the CNRF, like all our facilities, is there so that it can be – and should be – used once it has been activated.
+The design and inherent nature of the CNRF should help avoid stigma: this is a market-wide facility and any use would be indicative of issues in the gilt market as a whole, not problems with any specific firm. To further mitigate the risk of stigma, the Bank intends to publish the number of firms that are signed up to the CNRF, but we would not reveal any names; and in the event that we activate the CNRF, we would only disclose borrowing at an aggregate level.
+The Bank has made considerable progress on the CNRF since the summer. Our conversations with firms and industry bodies throughout the process have been invaluable in helping us advance the design and ready ourselves operationally. I’d like to take this opportunity to say thank you on behalf of the Bank to everyone who has been involved.
+I’m pleased to say today that our systems changes are now all in place.
+The Bank is working to finalise a few remaining design details and to put together supporting documentation, including the legal paperwork and a range of user guides to support firms in making an application.
+We will be opening for applications at the start of 2025 – something we’ll make sure we advertise widely at the time.
+The Bank encourages eligible counterparties to apply and will be on hand to provide help and support. Given its nature and the likely context for activating the CNRF, we cannot guarantee that we will be able to onboard and lend to counterparties that have not signed up in advance of the CNRF being activated.
+Conclusion and looking to the future, what potential risks are on the horizon
+To conclude, as I said at the start, the end of the year is a natural time for reflection. I am very pleased with the innovative work we have done this year at the Bank in developing the CNRF, ready for launch in the new year, the foundational work on the transition to a repo-led operating framework for the balance sheet, as well as the work on the first of its kind SWES.
+I am also mindful that whilst this has been a year of relative stability, that is never a sign that we should get complacent. As famed economist Hyman Minsky once said, “stability breeds instability” and the comparatively calmer market conditions of this year could lead to greater risk-taking in future. We must continue to be vigilant in light of increasing uncertainty around the outlook,
+footnote
+[29]
+by effectively monitoring and assessing risks present in UK financial markets, and utilising our balance sheet when it is appropriate to do so. Getting the balance right in our balance sheet operations should help us to maintain financial stability and, in doing so, lay the foundations for sustainable growth.
+I’d like to thank Callum Ashworth, Philip Blackburn, Leo Fernandes, Amelie Hallam, Alice Hobday, Josh Jones, Ed Kent, Clare Macallan, Grainne McGread, Joel Munday and Quynh-Anh Vo for their assistance in drafting these remarks, as well as many other Bank colleagues for their helpful comments and suggestions.
+See
+The weekend starts here – speech by Dave Ramsden
+See
+That was the year that was – speech by Dave Ramsden
+See
+Financial stability at your service – speech by Sarah Breeden
+We observed this in the Dash for Cash, where selling pressures in US Treasury markets led to a widening in the spread between the price of Treasury futures contracts and the Treasury securities that could be delivered into those futures, resulting in losses for hedge funds operating the “cash-futures basis trade”. Closer to home, the use of leverage by LDI funds to buy gilts exposed those funds to significant margin calls as a result of the move upwards in gilt yields in October 2022.
+See
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+See
+Predictable volatility – speech by Nikhil Rathi
+See
+Today’s challenges in Financial Stability – speech by Andrew Bailey
+See the
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+and the
+FSB’s Global monitoring report on non-bank financial intermediation 2023
+See, for instance,
+Market-based finance: a macroprudential – speech by Jon Cunliffe
+and the
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+See, for instance,
+A journey of 1000 miles begins with a single step – speech by Andrew Hauser
+;
+Late call – speech by Nathanaël Benjamin
+; and
+Going with the flow – speech by Dave Ramsden
+See
+Financial Stability Report – November 2024
+See, for instance, Graph 1 of the
+FSB’s Liquidity in Core Government Bond Markets, October 2022
+See, for instance,
+With leverage comes responsibility – speech by Jonathan Hall
+and
+The impact of leveraged investors on market liquidity and financial stability – speech by Jon Cunliffe
+See Section 7 of the
+Financial Stability Report – November 2024
+See the FSB’s report on
+The Financial Stability Implications of Leverage in Non-Bank Financial Intermediation
+In April 2024, the FSB published a
+consultation paper
+on liquidity preparedness of non-bank market participants to face margin and collateral calls.
+See
+The Bank of England’s system-wide exploratory scenario exercise final report
+See
+The SWES: using system-wide scenario analysis to spot systemic risks – speech by Lee Foulger
+See
+The importance of central bank reserves by Andrew Bailey
+See
+Let’s get ready to repo! – speech by Victoria Saporta
+In addition to quantitative easing purchases, term funding schemes, such as the TFSME, also supplied reserves to the banking system.
+Mark Carney first coined the term that the Bank is “open for business” in his 2013 speech
+The UK at the heart of a renewed globalisation
+, in reference to the revised Sterling Monetary Framework which had drawn on the recommendations made in the Winters Review.
+Reflecting the expanded role of the ILTR relative to the past, the PRA have published a
+statement
+setting out that they judge usage of the ILTR to be routine sterling liquidity management.
+See
+Contingent NBFI Repo Facility (CNRF) – Explanatory Note 24 July 2024 | Bank of England
+and
+Contingent NBFI Repo Facility (CNRF) – Provisional Market Notice 24 July 2024 | Bank of England
+for more information.
+In parallel to the development of the CNRF, the Bank is exploring how to design a facility that would enable broader access, to include more ICPF counterparties and reach a broader set of NBFIs that are relevant to the functioning of UK core markets.
+At present, we are focussing on ICPFs that make a material contribution to the gilt market to maximise the efficacy of the tool given constraints on our ability to increase counterparties. We will provide more information about how the Bank will assess an ICPF’s contribution to the gilt market when the facility is open for applications but anticipate that this is likely to be based around ICPFs’ holdings of gilts and related gilt market activity.
+As set out in the Provisional Market Notice, pricing will be calibrated by the Bank based on prevailing market conditions at the point at which the CNRF is activated and will be announced via a Market Notice at that time.
+The Bank would also assess whether lending is likely to be effective in tackling the dysfunction before activating the CNRF. For example, lending would not be effective if the shock means that NBFIs need to sell assets to reduce their overall exposure, rather than manage a short-lived liquidity shock – for example, as was the case in the LDI episode.
+See the
+Financial Policy Committee Record – November 2024
+See the
+Financial Policy Committee Record – November 2024
+Close
+The Bank would also assess whether lending is likely to be effective in tackling the dysfunction before activating the CNRF. For example, lending would not be effective if the shock means that NBFIs need to sell assets to reduce their overall exposure, rather than manage a short-lived liquidity shock – for example, as was the case in the LDI episode.
+Close
+As set out in the Provisional Market Notice, pricing will be calibrated by the Bank based on prevailing market conditions at the point at which the CNRF is activated and will be announced via a Market Notice at that time.
+Close
+At present, we are focussing on ICPFs that make a material contribution to the gilt market to maximise the efficacy of the tool given constraints on our ability to increase counterparties. We will provide more information about how the Bank will assess an ICPF’s contribution to the gilt market when the facility is open for applications but anticipate that this is likely to be based around ICPFs’ holdings of gilts and related gilt market activity.
+Close
+In parallel to the development of the CNRF, the Bank is exploring how to design a facility that would enable broader access, to include more ICPF counterparties and reach a broader set of NBFIs that are relevant to the functioning of UK core markets.
+Close
+See
+Contingent NBFI Repo Facility (CNRF) – Explanatory Note 24 July 2024 | Bank of England
+and
+Contingent NBFI Repo Facility (CNRF) – Provisional Market Notice 24 July 2024 | Bank of England
+for more information.
+Close
+Reflecting the expanded role of the ILTR relative to the past, the PRA have published a
+statement
+setting out that they judge usage of the ILTR to be routine sterling liquidity management.
+Close
+Mark Carney first coined the term that the Bank is “open for business” in his 2013 speech
+The UK at the heart of a renewed globalisation
+, in reference to the revised Sterling Monetary Framework which had drawn on the recommendations made in the Winters Review.
+Close
+In addition to quantitative easing purchases, term funding schemes, such as the TFSME, also supplied reserves to the banking system.
+Close
+See
+Let’s get ready to repo! – speech by Victoria Saporta
+Close
+See
+The importance of central bank reserves by Andrew Bailey
+Close
+See
+The SWES: using system-wide scenario analysis to spot systemic risks – speech by Lee Foulger
+Close
+See
+The Bank of England’s system-wide exploratory scenario exercise final report
+Close
+In April 2024, the FSB published a
+consultation paper
+on liquidity preparedness of non-bank market participants to face margin and collateral calls.
+Close
+See the FSB’s report on
+The Financial Stability Implications of Leverage in Non-Bank Financial Intermediation
+Close
+See Section 7 of the
+Financial Stability Report – November 2024
+Close
+See, for instance,
+With leverage comes responsibility – speech by Jonathan Hall
+and
+The impact of leveraged investors on market liquidity and financial stability – speech by Jon Cunliffe
+Close
+See, for instance, Graph 1 of the
+FSB’s Liquidity in Core Government Bond Markets, October 2022
+Close
+See
+Financial Stability Report – November 2024
+Close
+See, for instance,
+A journey of 1000 miles begins with a single step – speech by Andrew Hauser
+;
+Late call – speech by Nathanaël Benjamin
+; and
+Going with the flow – speech by Dave Ramsden
+Close
+See, for instance,
+Market-based finance: a macroprudential – speech by Jon Cunliffe
+and the
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+Close
+See the
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+and the
+FSB’s Global monitoring report on non-bank financial intermediation 2023
+Close
+See
+Today’s challenges in Financial Stability – speech by Andrew Bailey
+Close
+See
+Predictable volatility – speech by Nikhil Rathi
+Close
+See
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+Close
+We observed this in the Dash for Cash, where selling pressures in US Treasury markets led to a widening in the spread between the price of Treasury futures contracts and the Treasury securities that could be delivered into those futures, resulting in losses for hedge funds operating the “cash-futures basis trade”. Closer to home, the use of leverage by LDI funds to buy gilts exposed those funds to significant margin calls as a result of the move upwards in gilt yields in October 2022.
+Close
+See
+Financial stability at your service – speech by Sarah Breeden
+Close
+See
+That was the year that was – speech by Dave Ramsden
+Close
+See
+The weekend starts here – speech by Dave Ramsden
+Close
+Convert this page to PDF
+Dave Ramsden
+Deputy Governor, Markets and Banking
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

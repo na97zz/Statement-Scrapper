@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Why Bank Capital Matters",
+  "date_original": "2022-12-01",
+  "date_au": "01/12/2022",
+  "datetime_original": "",
+  "speaker": "Why Bank Capital Matters",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20221201a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-12-01 - Why Bank Capital Matters - Why Bank Capital Matters.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-12-01 - Why Bank Capital Matters - Why Bank Capital Matters.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "623789cc5760ad7a3c43fdc750c5f37fc2b21e96aef1acfa66c36e9e404eb308"
+}

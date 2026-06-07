@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Expanding the supply of euro safe assets",
+  "date_original": "2026-04-22",
+  "date_au": "22/04/2026",
+  "datetime_original": "",
+  "speaker": "Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260422~0242ad3585.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-04-22 - Philip R. Lane - Expanding the supply of euro safe assets.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-04-22 - Philip R. Lane - Expanding the supply of euro safe assets.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "96c55cc79030ab67af922e459e7f53e033f54afd92b67b303d0a0777264f4afd"
+}

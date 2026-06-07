@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The monetary agenda at the ECB",
+  "date_original": "2025-07-09",
+  "date_au": "09/07/2025",
+  "datetime_original": "",
+  "speaker": "Remarks by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250709~7ce2ac26a7.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-07-09 - Remarks by Philip R. Lane - The monetary agenda at the ECB.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-07-09 - Remarks by Philip R. Lane - The monetary agenda at the ECB.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2292a054ce1bc6933e8f80774a3f88d3f9b3adaab4f803a67612ac8b183350c1"
+}

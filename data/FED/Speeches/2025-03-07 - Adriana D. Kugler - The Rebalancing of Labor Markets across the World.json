@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Rebalancing of Labor Markets across the World",
+  "date_original": "2025-03-07",
+  "date_au": "07/03/2025",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250307a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-03-07 - Adriana D. Kugler - The Rebalancing of Labor Markets across the World.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-03-07 - Adriana D. Kugler - The Rebalancing of Labor Markets across the World.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "206804977106649f2872602f71c0ab4094dc27ee9775354d5bb8db8a9c47d98d"
+}

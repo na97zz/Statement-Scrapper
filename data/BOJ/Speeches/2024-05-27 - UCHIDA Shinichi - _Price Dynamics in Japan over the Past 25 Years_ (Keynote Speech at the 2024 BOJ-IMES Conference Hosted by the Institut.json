@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Price Dynamics in Japan over the Past 25 Years\" (Keynote Speech at the 2024 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japan)",
+  "date_original": "2024-05-27",
+  "date_au": "27/05/2024",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240527b.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-05-27 - UCHIDA Shinichi - _Price Dynamics in Japan over the Past 25 Years_ (Keynote Speech at the 2024 BOJ-IMES Conference Hosted by the Institut.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-05-27 - UCHIDA Shinichi - _Price Dynamics in Japan over the Past 25 Years_ (Keynote Speech at the 2024 BOJ-IMES Conference Hosted by the Institut.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d69d2911dbf460023dddf8c63d998475c8cb2f8dbeaaf58253f3689d29f47ead"
+}

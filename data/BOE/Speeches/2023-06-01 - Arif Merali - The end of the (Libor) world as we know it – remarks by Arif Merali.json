@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The end of the (Libor) world as we know it – remarks by Arif Merali",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Arif Merali",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/september/arif-merali-remarks-from-industry-panel-on-libor-transition",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Arif Merali - The end of the (Libor) world as we know it – remarks by Arif Merali.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Arif Merali - The end of the (Libor) world as we know it – remarks by Arif Merali.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8ba180547c1d3152ac48b4bdbf9007c066af0988298e451c27b5a01b84906d6e"
+}

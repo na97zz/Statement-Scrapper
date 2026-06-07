@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2024-05-01",
+  "date_au": "01/05/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20240501a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2024-05-01 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2024-05-01 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fe6646ecc5c520330abf695c0011b6cf10d3e9c7502e48c4accb6d2b3e6a6a3e"
+}

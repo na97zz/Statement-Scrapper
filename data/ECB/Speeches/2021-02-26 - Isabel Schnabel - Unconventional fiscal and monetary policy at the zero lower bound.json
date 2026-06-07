@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Unconventional fiscal and monetary policy at the zero lower bound",
+  "date_original": "2021-02-26",
+  "date_au": "26/02/2021",
+  "datetime_original": "",
+  "speaker": "Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210226~ff6ad267d4.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-02-26 - Isabel Schnabel - Unconventional fiscal and monetary policy at the zero lower bound.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-02-26 - Isabel Schnabel - Unconventional fiscal and monetary policy at the zero lower bound.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "77e0de0cc31f7ca009446c60b7f2cbe19574b4847f87a369e8d36b6e14201bb1"
+}

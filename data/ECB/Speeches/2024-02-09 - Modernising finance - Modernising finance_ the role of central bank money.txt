@@ -1,0 +1,232 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Modernising finance: the role of central bank money
+DATE: 09/02/2024
+SPEAKER: Modernising finance
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240209~d481464c19.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Modernising finance: the role of central bank money
+Keynote speech by Piero Cipollone, Member of the Executive Board of the ECB, at the 30
+th
+Annual Congress of Financial Market Professionals organised by Assiom Forex
+Genoa, 9 February 2024
+Since their inception, central banks have continuously adapted to the changing requirements of the payment sector.
+[
+1
+]
+They have also taken a keen interest in ensuring it functions smoothly, to protect financial stability and the implementation of monetary policy.
+Central banks provide the financial system with a safe asset at its core: central bank money. Convertibility into central bank money is what keeps the value of private money stable. And the pivotal role played by central bank money is what connects all the different parts of the payments system. In short, central bank money ensures the singleness of money and the integration of the payments system.
+This is particularly valuable in a monetary union like the euro area: central bank money – cash or reserves – can be used to settle transactions from and to all parts of the euro area. This ensures that one euro in Lisbon is the same as one euro in Riga.
+But for central bank money to retain its stabilising and unifying role, it must stay at the forefront of technology to ensure it remains an attractive means of settling payment transactions. There is no reason why central banks should be the only stakeholders not keeping pace with the digital transformation. In fact, they should be at the vanguard of this transformation, acting as an anchor of stability for financial innovation and providing a safe path for modernising finance. The Eurosystem is working to maintain this role.
+This is true for retail payments. That is why we are working on a digital euro, so that everyone can use central bank money not just in its current physical form – cash – but also in digital form.
+[
+2
+]
+Today, however, I will focus on new technologies for settling transactions between financial institutions in central bank money, often referred to as wholesale CBDC to distinguish it from retail CBDC, which is used by the general public.
+Historically, central banks have played a key role in simplifying the settlement of these transactions, supporting and often leading the transition from physical forms of money to book-entry formats, and to the electronic clearing and settlement of payments, making it possible to update accounts almost instantaneously.
+[
+3
+]
+We now find ourselves on the brink of another significant shift: the advent of tokenisation. According to market participants
+[
+4
+]
+, digitally representing claims using distributed ledger technology (DLT)
+[
+5
+]
+has great potential. However, this transformation could redefine current financial intermediation and wholesale settlement structures.
+To enable central bank money to continue performing its stabilising role, even as the financial system undergoes this transformation, we need to find technological solutions that will allow it to also be used to settle transactions recorded on new DLT platforms.
+Let me now explain the role central bank money currently plays as an anchor of stability for wholesale payments. I will then discuss the promises and risks of new technologies for wholesale payments before telling you a little more about how we are exploring new technologies for central bank money settlement of wholesale transactions.
+Central bank money as an anchor of stability for wholesale payments
+While “wholesale CBDC” is generally presented as something new, made possible by the emergence of DLT, central bank money has in fact been available in digital form for wholesale transactions between banks for decades.
+[
+6
+]
+In 2022 the Eurosystem’s large-value payment system, TARGET2 (T2), processed 92% of the total value settled by large-value payment systems in euro and remained one of the largest payment systems worldwide, processing 102.6 million transactions amounting to €570.5 trillion.
+[
+7
+]
+In other words, every six business days T2 settles transactions equivalent to the euro area’s annual GDP.
+Financial institutions use central bank money mainly for two reasons.
+First, central banks issue the safest and most liquid settlement asset, avoiding the credit and liquidity risks associated with private money systems. Being able to convert into central bank money the money that commercial banks issue strengthens public confidence in private means of payment. This in turn reassures market participants that the value of a euro is the same, regardless of its issuer.
+Second, settling in central bank money limits the risk associated with wholesale financial markets of payment activities becoming concentrated in individual players.
+The widespread use of central bank money to settle wholesale payments therefore minimises the risks for the financial system as a whole and provides an anchor of stability for payments. International standards recognise how crucial this is.
+[
+8
+]
+That’s why the Eurosystem has continued to modernise its market infrastructure services to make them future-proof and ensure they can meet the needs and expectations of market participants.
+In March 2023 a new T2 platform was launched, providing modernised services, enhanced cyber protection and optimised liquidity management across all TARGET services. The platform aligns with ISO 20022, facilitating the exchange at global level of more granular data in a more structured manner. Moreover, in November we will launch the European Collateral Management System, a unified system for managing assets used as collateral in Eurosystem credit operations that will ensure collateral flows freely across the euro area, contributing to financial integration.
+In the context of securities settlement systems, the EU is also considering a shift from T+2 settlement to T+1 or even T+0, potentially decreasing counterparty credit risk and collateral needs.
+[
+9
+]
+Successfully implementing this change requires careful analysis of costs and strong coordination between all market players. At the same time, we must take into account that other jurisdictions, such as the United States, are making the transition to shorter settlement cycles.
+[
+10
+]
+While experience suggests that the coexistence of different settlement cycles in the EU and other non-EU jurisdictions is feasible at the technical level
+[
+11
+]
+, we must prevent this mismatch in settlement times from weighing on the attractiveness of European capital markets. We must therefore carefully consider whether, and how, to harness the benefits of aligning standard settlement cycles across major jurisdictions, provided this does not impair the smooth functioning of EU financial markets and financial market infrastructures.
+Alongside these challenges of a more traditional nature, we also face challenges relating to the rapid digitalisation of the economy. While the market is calling for standard transactions to be settled more efficiently, it is also calling for solutions to accommodate new use cases. As central bankers, we have to monitor these developments closely and be prepared to respond to them.
+New technologies for wholesale payments: promises and risks
+The advent of blockchain technology has spurred experimentation among a broad range of market players, including banks and financial market infrastructures.
+The application of distributed ledger technology to wholesale financial transactions is still at the exploratory stage, despite the financial industry’s strong interest in DLT. Currently only around 22% of European banks use DLT, while another 22% are testing or experimenting with it.
+[
+12
+]
+But a majority of market stakeholders surveyed by the Eurosystem expect a significant uptake of DLT for wholesale payments and securities settlement in the next five to ten years.
+[
+13
+]
+The benefits of DLT for trading financial assets are twofold. First, it can enhance efficiency by allowing market participants to perform the three key phases of a transaction – trading, settlement and custody – on the same distributed ledger. Of the many advantages this offers, participants mention lower credit risk, fewer failed transactions and less need for extensive reconciliation. DLT can operate on a 24/7 basis, which would tackle the issue of international market fragmentation caused by different time zones. Lastly, the use of smart contracts
+[
+14
+]
+can help streamline the process of verifying and executing transactions.
+Second, DLT opens avenues for new applications, such as providing new ways to raise capital and trade financial instruments. A shared platform could make the trading of financial instruments more efficient and resilient, particularly those not currently serviced by financial market infrastructures like over-the-counter traded securities or credit claims. Thanks to lower costs and reduced complexity, DLT platforms could be more easily accessed by small and medium-sized enterprises (SMEs). This would underpin the EU’s capital markets union objective to improve SMEs’ access to capital.
+[
+15
+]
+Moreover, experiments with tokenised bank deposits are underway to assess innovative ways of transferring funds – using blockchain technology, for example – between clients of the same bank or group of banks.
+DLT is also being explored as a possible means to improve cross-border payments.
+However, it is worth noting that these solutions are not always radically innovative, as the benefits associated with them can also be achieved in other ways. For instance, the Eurosystem’s TARGET Instant Payment Settlement (TIPS) service offers immediate payment settlement in central bank money 24/7, facilitates automated and conditional payments through application programming interfaces and is establishing itself as a useful platform for cross-border payments.
+Potential DLT-based innovations are still at an early experimental stage. Nevertheless, central banks cannot afford to sit on the sidelines, as any widespread adoption of such innovations could jeopardise the anchoring role of central bank money in guaranteeing the efficiency and stability of our payment system. Many explored DLT use cases involve transactions, notably in securities, currently settled between banks using central bank money. These include delivery-versus-payment settlement in both primary and secondary markets, along with recurring payments during the life cycle of securities, such as coupon payments.
+Insofar as these applications lead to a proliferation of decentralised private money-based settlement systems, including stablecoins and tokenised deposits, they could lead to the refragmentation of wholesale payments. This in turn could impair central banks’ ability to provide liquidity in periods of financial stress, elevating financial stability risks.
+Eurosystem surveys show that this is not the desired outcome for market participants. They would generally prefer to continue settling in central bank money, or even to expand the range of central bank money settlement services available.
+In fact, the absence of solutions enabling settlement in central bank money could impede innovation due to the credit risk associated with private settlement assets. Market players might shun promising new technologies if central bank money is unavailable as a settlement asset.
+The availability of solutions for settling DLT-based wholesale financial transactions in central bank money could have the added benefit of facilitating the interoperability and integration of decentralised systems. It could also create opportunities to use central bank money to settle transactions currently settled in commercial bank money, such as over-the-counter derivatives, thereby reducing credit risk in the system.
+The ECB’s exploration of new technologies for wholesale central bank money settlement
+The Eurosystem envisages two options for DLT-based infrastructures for settlement in central bank money.
+The first involves unified ledger solutions.
+[
+16
+]
+In these solutions, euro central bank money and other assets, such as securities or foreign currency, would be recorded and settled on the same DLT platform. This could potentially be operated by the Eurosystem or jointly with other parties, subject to compliance with Eurosystem rules.
+Although it may be easier to realise the envisaged benefits of new technologies if all assets and cash involved in transactions are on the same platform, reaching consensus on how to regulate and manage this is not without considerable challenges
+[
+17
+]
+. This could take years given the difficult technical, legal, governance and business considerations , especially when multiple types of assets and jurisdictions are involved.
+[
+18
+]
+Moreover the implications of using DLT for the conduct of monetary policy need to be fully understood and possible risks duly assessed and mitigated.
+Moreover, the move from existing systems to DLT platforms is likely to be gradual, as the market is still in the early stages of development and market players still need to make major technological decisions. This means there would be coexistence with legacy systems, whether operated by central banks or private stakeholders. This situation calls for solutions that can adapt to rapid market innovation while still serving traditional use cases and enabling seamless interaction between old and new systems. By achieving sufficient harmonisation and interoperability, there is a good chance that the desired automation can be attained, even across different platforms.
+The second option for DLT-based infrastructures for settlement in central bank money is thus based on interoperability-type solutions. Such solutions are likely to be faster to develop and less costly, and they do not prevent us from continuing to assess unified ledger solutions. The Eurosystem has for some time been looking at interoperable solutions and conducting exploratory work in cooperation with interested market participants. These solutions could respond to immediate market demand and involve creating a link between market DLT platforms and central bank payment infrastructures. This link would, for example, enable securities or foreign currency transfer on a DLT platform to trigger settlement in euro central bank money, which may alternatively be provided in the form of DLT tokens, registered on a platform operated by the Eurosystem, or in central bank accounts in infrastructures based on existing technology.
+Several interoperability-type solutions have been developed by national central banks within the Eurosystem, including the Deutsche Bundesbank’s
+Trigger Solution
+, the
+TIPS Hash-Link
+solution developed by the Banca d’Italia and the Banque de France’s
+Full DLT Interoperability
+solution.
+The Eurosystem’s exploratory work consists of experiments involving mock transactions and trials in a test environment in which a limited number of actual transactions will be settled. In December we published a
+call for expression of interest
+to participate in these experiments which will be conducted this year. The results will form the basis for the Eurosystem’s future considerations about wholesale payment infrastructure.
+The Eurosystem is not alone in exploring new technologies for wholesale financial transactions. Currently, up to 86 central banks around the world are exploring various ways to interact with DLT platforms.
+[
+19
+]
+Cross-border projects coordinated by the Bank for International Settlements (BIS) and its innovation hubs are exploring how new technologies could potentially improve cross-border transactions.
+Achieving a truly integrated market for wholesale transactions, whether DLT-based or not, requires collaborative efforts between public authorities, central banks and the market. In this respect, the European Union is at the forefront. By adopting a pilot regime
+[
+20
+]
+for DLT-based market infrastructures, European legislators have made it possible to experiment using real transactions. And by developing a solution for central bank money settlement of wholesale financial transactions recorded on DLT platforms, the Eurosystem is backing regulation with innovation. This has the potential to give Europe a competitive advantage in developing its industry base for DLT trading and in supporting the international role of the euro.
+[
+21
+]
+Stakeholders considering a move to DLT should ensure they do not trigger the recurrence of market fragmentation. This involves enabling interoperability between platforms, harmonising protocols or adopting a common data taxonomy. Agreeing on industry standards and implementing them across the ecosystem is crucial, not only for DLT-based transactions but also for settlements using existing technologies.
+Conclusion
+Let me conclude.
+The rapid growth of digital technologies has sparked widespread market interest and experimentation. DLT-based technology is seen as promising, with the potential to increase efficiency for some existing transactions and to facilitate new use cases.
+But we must be cautious that such innovations do not undermine the stabilising role of central bank money in settling transactions among financial institutions. Instead, central banks must be ready for the possible broad adoption of new technologies and keep pace with them as they have done in the past. This will help to combine innovation with financial stability, facilitating the modernisation of finance.
+Achieving this requires public-private partnership to shape the future ecosystem for wholesale central bank money settlement. This collaboration should harness the benefits of new technologies while ensuring that settlement remains secure and efficient.
+As we push the technology frontier, we must recognise that there are still many aspects that need to be understood in greater depth. The Eurosystem is playing its part by making central bank money solutions available for exploratory work. It is also conducting further analysis to develop its vision for the future wholesale financial transactions ecosystem. However, it is ultimately the market’s responsibility to demonstrate the added value of DLT for wholesale business cases, and to establish and implement the necessary standards.
+Thank you for your attention.
+I would like to thank Mirjam Plooij, Cyril Max Neumann and Jean-Francois Jamet for their help in preparing this speech.
+See Cipollone, P. (2023), “
+The digital euro: a digital form of cash
+”, ECB, 17 November; and Panetta, F. (2023), “
+Shaping Europe’s digital future: the path towards a digital euro
+”, introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament. See also ECB (2023), “
+Digital euro: The next step in the advancement of our currency
+”, 18 October; and ECB (2023), “
+A stocktake on the digital euro - Summary report on the investigation phase and outlook on the next phase
+”, 18 October.
+Norman, B., Shaw, R. and Speight, G. (2011), “
+The history of interbank settlement arrangements: exploring central banks’ role in the payment system
+”,
+Working Paper
+, No 412, Bank of England, June.
+According to
+this article
+, 97% of institutional investors believe it will revolutionise asset management.
+Distributed ledger technology (DLT) refers to a family of technologies that allow users to modify records in a shared database (the ledger) without relying on a central validation system.
+In other words, wholesale CBDC already exists. What is new is the exploration of solutions for central bank money settlement of wholesale financial transactions recorded on distributed ledger technology (DLT) platforms. See Panetta, F. (2022), “
+Demystifying wholesale central bank digital currency
+”, speech at the Symposium on “Payments and Securities Settlement in Europe – today and tomorrow” hosted by the Deutsche Bundesbank, Frankfurt am Main, 26 September.
+See ECB (2023),
+TARGET Annual Report 2022
+, June.
+See Bank for International Settlements, (2012), “Principle 9: Money Settlements”,
+Principles for financial market infrastructures
+, April. This principle foresees that “[a financial market infrastructure (FMI)] should conduct its money settlements in central bank money where practical and available.".
+See European Securities and Markets Authority (2023),
+Call for evidence – On shortening the settlement cycle
+, 5 October.
+China has transitioned to T+0 for interbank market government bonds. India has already moved to T+1 for shares traded on exchange while the United States and Canada are planning to move to T+1 for a broader set of financial instruments by the end of May 2024. The United Kingdom is assessing a possible move to T+1 or T+0.
+Both the US government and government agency debt markets as well as the UK government bond markets have been settling on a T+1 basis for a few years now.
+See European Banking Authority (2023), “
+Box 10: Digitalisation trends at banks
+”,
+Risk Assessment Report of the European Banking Authority
+, December.
+See ECB (2024) “
+Central bank money settlement of wholesale transactions in the face of technological innovation
+”,
+Economic Bulletin
+, Issue 8/2023.
+Smart contracts can be used to automatically check if a contract’s terms and conditions have been met before executing the resulting action, e.g. a transaction or a flow of information.
+See Lagarde, C. (2023), “
+A Kantian shift for the capital markets union
+”, speech at the European Banking Congress, Frankfurt am Main, 17 November; and Panetta, F. (2023), “
+Europe needs to think bigger to build its capital markets union
+”,
+The ECB Blog
+, 30 August.
+This would not imply one global ledger for all assets and use cases. There could be a multiplicity of individual unified ledgers, potentially connected to each other and to existing systems.
+See Bank for International Settlements (2023), “
+Blueprint for the future monetary system: improving the old, enabling the new
+”,
+BIS Annual Economic Report
+, 20 June.
+Consolidation on a common platform – or perhaps more realistically on a limited number of platforms – could be a long-term objective. However, this requires carefully assessing the implications of making central bank money available on a platform that may be jointly operated with others or may involve participants that do not currently have access to central bank infrastructures, new categories of market participants or participants in other jurisdictions. Before moving towards any common platform, assurance is needed that it can be implemented in such a way that central banks can continue to meet their objectives, not least as regards the conduct of monetary policy. For the Eurosystem, a key requirement would be the ability to control the central bank money we issue: any risk of external parties creating or destroying euro central bank money, or euro central bank money falling into the hands of anyone ineligible to hold it, must be avoided.
+See Kosse, A. and Mattei, I. (2023), “
+Making headway – Results of the 2022 BIS survey on central bank digital currencies and crypto
+”,
+BIS Papers
+, No 136, Bank for International Settlements, July.
+See
+Regulation (EU) 2022/858
+.
+See also Panetta, F. (2024), “
+Beyond money: the euro’s role in Europe’s strategic future
+”, address at the “Ten years with the euro” conference, Riga, 26 January.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Remarks on the Panel: \"Globalization at an Inflection Point,\" at the Jackson Hole Economic Policy Symposium Hosted by the Federal Reserve Bank of Kansas City",
+  "date_original": "2023-08-28",
+  "date_au": "28/08/2023",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230828a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-08-28 - UEDA Kazuo - Remarks on the Panel_ _Globalization at an Inflection Point,_ at the Jackson Hole Economic Policy Symposium Hosted by the Fe.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-08-28 - UEDA Kazuo - Remarks on the Panel_ _Globalization at an Inflection Point,_ at the Jackson Hole Economic Policy Symposium Hosted by the Fe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "44a51cb8b4ec35b0eccea25acf67bb0594682b9ad19c288b38b6e954af19c46d"
+}

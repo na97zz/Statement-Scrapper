@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Managing Financial Crises",
+  "date_original": "2025-02-25",
+  "date_au": "25/02/2025",
+  "datetime_original": "",
+  "speaker": "Managing Financial Crises",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250225a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-25 - Managing Financial Crises - Managing Financial Crises.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-25 - Managing Financial Crises - Managing Financial Crises.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8416475fd89a0667a77408f319535a9002aba9ace45191d1495535907fd8e3fd"
+}

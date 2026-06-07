@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Remarks by Christine Lagarde at a virtual ceremony marking the change of office of the President of the Bundesbank",
+  "date_original": "2022-01-11",
+  "date_au": "11/01/2022",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220111~1778c4939d.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-01-11 - Christine Lagarde - Remarks by Christine Lagarde at a virtual ceremony marking the change of office of the President of the Bundesbank.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-01-11 - Christine Lagarde - Remarks by Christine Lagarde at a virtual ceremony marking the change of office of the President of the Bundesbank.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bd03bfdfa67e78bcfbdd2f07f6a8575c125faec300e1ba5998b1d49ac9c56bf0"
+}

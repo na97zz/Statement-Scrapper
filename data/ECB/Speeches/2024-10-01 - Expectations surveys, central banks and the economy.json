@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Expectations surveys, central banks and the economy",
+  "date_original": "2024-10-01",
+  "date_au": "01/10/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241001~27385f20d3.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-10-01 - Expectations surveys, central banks and the economy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-10-01 - Expectations surveys, central banks and the economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ae2c0e3c5af8cac13b9d604c2b2d5853392ce480930061fa944e6c0371943910"
+}

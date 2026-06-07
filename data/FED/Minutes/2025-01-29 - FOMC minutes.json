@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2025-01-29",
+  "date_au": "29/01/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20250129.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2025-01-29 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2025-01-29 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:49:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "84d9098f36e09d772badc5a0f63bb577f8d3242d334fd3c1e0d94a0ddf137f14"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "EU banking package",
+  "date_original": "2023-06-09",
+  "date_au": "09/06/2023",
+  "datetime_original": "",
+  "speaker": "EU banking package",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230609~c9ef904931.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-06-09 - EU banking package - EU banking package.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-06-09 - EU banking package - EU banking package.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f65a3832cd70785b8dc0ed02235912e4beb4bc9c444368a550cdcecde8d0e848"
+}

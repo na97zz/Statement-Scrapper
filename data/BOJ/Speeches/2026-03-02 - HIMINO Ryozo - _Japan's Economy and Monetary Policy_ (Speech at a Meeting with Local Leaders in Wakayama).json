@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Wakayama)",
+  "date_original": "2026-03-02",
+  "date_au": "02/03/2026",
+  "datetime_original": "",
+  "speaker": "HIMINO Ryozo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260302a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-03-02 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Wakayama).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-03-02 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Wakayama).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a8c30aed645215fc73d5449087cfb7b26776354476dbed6c8af6b65ae80d1799"
+}

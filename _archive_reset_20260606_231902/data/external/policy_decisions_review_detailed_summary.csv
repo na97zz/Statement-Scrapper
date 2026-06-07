@@ -1,0 +1,15 @@
+metric,value
+total_policy_rows,281
+rows_needing_review,263
+high_priority_rows,54
+medium_priority_rows,171
+low_priority_rows,38
+suggestions_created,162
+rows_with_full_context,234
+rows_missing_context,29
+approved_rows_applied,0
+unknown_decisions_before,54
+unknown_decisions_after,54
+average_confidence_before,0.5274021352313167
+average_confidence_after,0.5274021352313167
+output_created_at,2026-06-06T13:05:23.585506+00:00

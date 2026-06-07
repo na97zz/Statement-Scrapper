@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Global Financial Stability Considerations for Monetary Policy in a High-Inflation Environment",
+  "date_original": "2022-09-30",
+  "date_au": "30/09/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220930a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-09-30 - Lael Brainard - Global Financial Stability Considerations for Monetary Policy in a High-Inflation Environment.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-09-30 - Lael Brainard - Global Financial Stability Considerations for Monetary Policy in a High-Inflation Environment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "96680302d4da626debce76ecd5a0eed80b666b54f0477203dbf52b056461d21d"
+}

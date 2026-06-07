@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kumamoto)",
+  "date_original": "2022-04-13",
+  "date_au": "13/04/2022",
+  "datetime_original": "",
+  "speaker": "NOGUCHI Asahi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220413c.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-04-13 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kumamoto).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-04-13 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kumamoto).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "51c125fb55d6b31f4f7199be5949135f2b4bf8a36e0fd1044ba3a747d56a733b"
+}

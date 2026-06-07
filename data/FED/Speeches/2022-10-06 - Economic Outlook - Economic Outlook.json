@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook",
+  "date_original": "2022-10-06",
+  "date_au": "06/10/2022",
+  "datetime_original": "",
+  "speaker": "Economic Outlook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20221006a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-06 - Economic Outlook - Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-06 - Economic Outlook - Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f510dd0d1e8f28e2d659537c80ed011fca50d75e56bc62fc0429651911f3d01b"
+}

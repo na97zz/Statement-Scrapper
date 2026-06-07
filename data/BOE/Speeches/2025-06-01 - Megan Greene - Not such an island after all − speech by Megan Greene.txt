@@ -1,0 +1,315 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Not such an island after all − speech by Megan Greene
+DATE: 01/06/2025
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/february/megan-greene-speech-at-the-institute-of-directors
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Not such an island after all − speech by Megan Greene
+Given at the Institute of Directors
+Published on 
+
+ 12 February 2025
+In this speech, Megan Greene explores the extent to which the UK is impacted by macro-economic developments abroad. She highlights the two key channels through which global shocks can reverberate through the UK economy: international trade and financial markets. In light of this, she discusses the risks posed to UK growth and inflation by increased trade fragmentation and tariffs before offering her current policy views.
+Speech
+We often say the UK is a small, open economy and therefore highly susceptible to global events. Coming off the successive shocks of a pandemic and a war in Europe and analysing how these have fed through into UK activity and inflation, this certainly feels true. But does it require massive, successive shocks for the UK to catch a cold when another country sneezes? Do specific countries or regions hold greater influence over the UK economy? And just how much should developments around the world play into our thinking as central bankers anyway? This is what I intend to discuss today.
+Over the past few decades, it is entirely uncontroversial to assert that the world has become increasingly interlinked. As
+Chart 1
+shows, global trade volumes have soared since the 1950’s, particularly following the introduction of purpose-built container vessels in 1956 and the establishment of the World Trade Organization (WTO) in 1995.
+Chart 1: Evolution of world trade
+Volume index, 1950=100
+(a)
+Footnotes
+Source: WTO and Bank calculations. Latest data point is 2023.
+Foreign shocks can be felt in the UK as a result of transmission through trade, impacting both exports and imports, whether directly or through supply chains. But as we know sitting here in London, the financial system is global as well, with increasingly large and complex cross-border interdependencies. We experienced the downside of this during the Global Financial Crisis. Developments abroad can transmit via financial markets, influencing asset prices across national borders and affecting financial conditions. In my speech today I aim to set out how vulnerable the UK is to external shocks, looking at both trade and financial channels
+footnote
+[1]
+. Following that, I will look at how global trade fragmentation might impact the UK economy.
+First, I’ll turn to trade.
+Trade channel
+How open are we to trade?
+The degree to which an economy is open to trade plays a key role in determining how acutely a trade shock transmits. One way of measuring trade openness is to look at an economy’s ratio of total trade to GDP – as shown for a number of different countries in
+Chart 2
+. We can see that the UK exhibits a relatively high degree of trade integration, with a trade to GDP ratio more than double that of the US and well above the G20 country average.
+Chart 2: Trade openness in the G20
+Trade as % of GDP, 2023
+(a)
+Footnotes
+Source: World Bank and Bank calculations. (a) Trade is the sum of exports and imports of goods and services measured as a share of gross domestic product. EU and African Union have been excluded from calculations. Average is unweighted mean of countries shown.
+With whom do we trade?
+But it isn’t just how much a country trades that’s important for how shocks reverberate through this channel – it’s also who it trades with. This might seem obvious. What’s less obvious is how to determine one economy’s trade exposure to another.
+Perhaps the most straightforward way to do this is by calculating UK trade weights, which measure the bilateral trade in all goods and services between the UK and its trade partners as a proportion of the UK’s total trade. In doing so – as in
+Chart 3
+–the EU has clearly played a dominant role in UK trade over the last two decades, even following the UK’s withdrawal from the union. During this period, we have also seen China’s role in UK trade increase materially - though the US remains the UK’s largest single-country trading partner. But while these bilateral trade weights are easy to interpret and simple to compute, they don’t reflect the full extent of the UK’s exposure to foreign developments.
+Chart 3: Bilateral trade weights
+Bilateral trade as % of total trade
+(a)
+Footnotes
+Source: ONS and Bank calculations(a) Trade weights for each trading partner are calculated as the sum of bilateral exports and imports as a share of total UK trade. Data is annual and in current prices. EU refers to the EU27. Latest data point is 2023.
+That’s because this method focuses only on goods and services as they cross our borders. The UK is highly integrated into global supply chains – meaning that different stages of its production processes are split across a number of countries - and therefore subject to a large number of indirect trade linkages. As a result, we are vulnerable to disruption in any of the countries and sectors that provide inputs into the production of our final goods and services.
+To attempt to capture these indirect linkages, Bank staff have estimated gross trade exposure measures (
+Freeman et al., 2024
+).
+footnote
+[2]
+These include: (1) face-value exposure, which measures an economy’s direct exposure to intermediate inputs and (2) hidden exposure, which isolates the indirect sourcing of intermediate inputs – that is, the direct exposure faced by the suppliers of the input rather than the end-user. Think about the production of a car here in the UK. The engines that are used to build this car may be imported from Germany – and the import of these would contribute to the UK’s face-value exposure with that country. But the makers of the engine in Germany may use imported cylinders from a firm in China, which in turn may rely on a firm in Japan to supply pistons required for the cylinder construction. The importing of these Chinese cylinders and Japanese pistons represents a hidden exposure for the UK car manufacturer.
+Chart 4
+presents these two exposures for the UK manufacturing and services sectors for 2020 (the latest available data)
+footnote
+[3]
+. The panel on the left focuses on those linkages resulting from the sourcing of inputs and the chart on the right focuses on those resulting from the selling of inputs (exposure is a two-way street, after all). In each, the solid bars represent manufacturing while the hashed bars represent services.
+First, focusing only on face-value measures (the aqua bars) can lead to a severe underestimation of the true exposure faced by UK firms in both manufacturing and services. For example, face-value measures suggest UK manufacturing has roughly equal exposure to the US and China for sourcing inputs. Taking hidden exposures into account, the latter is higher than the former.
+Second, UK manufacturing is more exposed to foreign shocks than services. This is true on both the sourcing and selling sides, though the difference is less stark for the latter. However, while the manufacturing sector faces a relatively higher exposure from foreign firms when sourcing inputs rather than selling them, the reverse is true for the services sector.
+Third, while the UK’s largest foreign exposure is to the EU, its exposure to itself is far greater. This becomes apparent when we extract the domestic share of total gross input linkages from the chart. For example, summing the solid bars in the left-hand side panel reveals that around 24% of all inputs used in UK manufacturing production originate abroad – leaving approximately 76% of inputs to be sourced domestically. The same overall story is true for the inputs on manufacturing’s selling side (83% domestic) and for inputs in the services sector (88% and 86% domestic on the sourcing and selling sides, respectively. The UK is not alone in displaying this domestic dependence, with other advanced economies, particularly the US (
+Baldwin et al., 2023
+), exhibiting the same characteristic.
+Chart 4: Country shares of UK sectors’ total gross linkages
+(a)
+Footnotes
+Source: Bank calculations based on OECD (2023), ICIO tables, Extended ICIO. Hidden Exposure: Selling/Sourcing Side is the percentage point difference between look-through and face-value exposure. Look-through Exposure: Selling/Sourcing Side is the Foreign Production Exposure: Export/Import Side indicator, as described in
+Baldwin et al (2022)
+and is computed as the share of total inputs sold/sourced by a given UK sector to/from a given country on a look-through basis in total sold/bought intermediates across all sources (foreign and domestic) on a look-through basis. RoW stands for Rest of the World.
+So, what can our revealed trading partners tell us about the UK’s vulnerability to external shocks? Clearly shocks originating from - or impacting - Europe matter given the UK is disproportionately exposed to the EU through both direct and indirect trade linkages. The US has maintained its importance as our largest single-country trading partner since at least the start of the millennium, while our ties to China have grown significantly over the same period. Investigating our exposure through global supply chain measures suggests that these ties are even stronger.
+What do we trade?
+It’s not just our trading partners that influence how foreign shocks wash up on UK shores. Who we trade with is important, but it also matters what we are trading—and in which direction those goods and services are flowing. The degree to which we trade in any one particular sector–or product–can tell us something about how foreign developments involving those elements of the economy are likely to materialise at home. As a monetary policymaker, I am particularly concerned about the potential inflationary impact of such shocks.
+For instance, the introduction of expansionary macroeconomic policies abroad could lead to an increase in foreign demand for UK goods or services exports, boosting UK output in those areas and placing upward pressure on inflation. But global shocks can also have a more direct impact on inflation through changes to the price of imports, whether those imports are directly consumed or used in UK domestic production. For example, an increase in the price of foreign inputs could lead to mounting cost pressures for UK firms. If these firms are unable to absorb the rise in costs, they may instead pass them onto consumers.
+In order to see where the UK is most vulnerable to such shocks, we can first start by splitting historical trade data into goods and services - shown in inflation-adjusted terms in
+Chart 5
+. Here we can see that there has been a surge in the relative importance of services trade in the UK over the last couple of decades. Growth in the exports of services has been noticeably strong, with services now accounting for just over half the UK’s total export figure. Consequently, the performance of the UK economy is invariably tied to global demand for such services. And while the UK has exhibited a consistent trade surplus in services, the opposite is true when it comes to goods, including key sectors such as energy and food. Total goods imports have outstripped their export equivalent for the latest 26 years of data - and the difference between the two has widened materially during that time - highlighting the importance of foreign goods’ supply to the UK economy.
+Chart 5: Evolution of UK trade in goods and services
+Chained volume measures (2022 prices), £ billion
+(a)
+Footnotes
+Source: ONS and Bank calculations.(a) UK trade in goods services annual at chained volume measures (CVM), Balance of Payments basis. Precious metals (non-monetary gold, platinum, palladium and silver) are excluded from data. Latest datapoint is 2023.
+This has consequences for inflation. For example, the UK’s relatively low reliance on services imports corresponds with a lower average import-intensity of services inflation. Import-intensity is measured as the percentage of final household consumption due to both direct and indirect imports
+footnote
+[4]
+. The average import-intensity of services components in the CPI basket is 13%, compared with 32% for goods
+footnote
+[5]
+. This has contributed to our view on the MPC that services inflation is less exposed to global factors and is more domestically-generated. As we’ve experienced in the post-Covid wave of inflation, this does not make services inflation immune to developments overseas.
+The comparatively high import-intensity of goods components suggests global shocks in these sectors are likely to have a direct and potentially large impact on inflation. We don’t have to look too far back to see this in action.
+Chart 6
+shows the contributions to headline inflation from its 85 CPI classes, grouped by import-intensity. In the face of external shocks, those CPI classes with a relatively high import-intensity – anything above the average of nearly 25% (including energy) - saw their contributions to headline inflation grow relatively quickly once the economy reopened post-Covid in 2021. At inflation’s October 2022 peak of 11.1%, those relatively high import-intensity categories together contributed 7.8 percentage points to the headline figure – with goods accounting for 97% of that contribution, half of which came from energy. Lower import-intensity categories (the majority of which are services) also saw their contributions to headline inflation grow as second-round effects kicked in.
+Chart 6: Contribution to CPI inflation by import-intensity
+Percentage points and per cent
+(a)
+Footnotes
+Source: ONS and Bank calculations.(a) For each COICOP (Classification of Individual Consumption According to Purpose) class, the estimated 'import intensity' of final household consumption is given. COICOP classes are then grouped together by their import intensity. 'Import intensity' refers to the percentage of final household consumption which is due to both direct and indirect imports. As imports data is provided on a Classification of Products by Activity (CPA) basis which is not directly comparable to the COICOP classification, these estimates should be regarded as indicative.
+Together this suggests that goods inflation is disproportionately directly vulnerable to external macroeconomic developments. Recently, this has been most evident for food and energy. The UK is a net importer of both, and global commodity markets play an influential role in price setting. In addition, inflation in these components has a high bearing on household inflation expectations, which can impact consumption and wage setting behaviour and can drive inflation up or down (
+Anesti, Esady and Naylor, 2024
+). Consequently, the inflationary response of these components to global shocks is particularly important to monitor.
+For instance, not too long ago, we saw global food prices soar following the Russian invasion of Ukraine. This had consequences for UK producers, which saw price inflation in their imported inputs of food rise to over 30%, while domestic food input price inflation rose to just over 20% - as seen in the purple and orange lines in
+Chart 7
+. For consumers, this helped drive a sharp rise in CPI food inflation – the aqua line in
+Chart 7
+.
+Chart 7: Annual inflation in food CPI and PPIs
+Per cent change on a year ago
+(a)
+Footnotes
+Source: ONS and Bank calculations. (a) FNAB refers to food and non-alcoholic beverages.
+A similar pattern was seen in energy inflation. Energy prices began to rise as economies opened back up after the pandemic, but it was the subsequent Russian invasion of Ukraine that added most fuel to the fire (no pun intended) and led European wholesale gas prices to surge. As a result, the contribution of energy to UK inflation increased greatly over 2022 – as seen by the growth of the green bars in the earlier
+Chart 6.
+To summarise, the UK is highly integrated into the international trading system. To determine the spillover of global developments to the UK through trade, it helps to consider how much the UK trades, with whom and what exactly. Our trade ties are particularly deep with the EU, both directly and as a result of our joint participation in far-reaching global supply chains. But this does not mean we are immune to developments elsewhere. The US remains our largest single-country trading partner and a key link in the supply chains contributing to UK production. Furthermore, the UK has a relatively high average import-intensity of goods components, suggesting global shocks in these sectors are likely to have a direct and potentially large impact on inflation. This has recently been the case for food and energy, which are particularly salient in the formation of inflation expectations.
+Financial channel
+Exchange rates
+In addition to trade, financial market movements often spill over into the UK economy. One channel for this is foreign exchange, with fluctuations in bilateral exchange rates impacting the UK economy through import and export prices and UK competitiveness. All else equal, a stronger pound usually means cheaper imports and more expensive exports, but it can also act as a signal for general economic performance. Fluctuations in exchange rates occur constantly, as supply and demand for currencies adjust to changes in the global economic environment – for instance as a result of widening (or narrowing) in inflation or interest rate differentials between economies.
+Many different exchange rates matter for the UK economy given it is an open economy and serves as a global financial centre. The Bank’s effective exchange rate index (ERI) takes this into account, offering a way for us to assess movements in various exchange rates by distilling the information from multiple bilateral exchange rates into one series. The weights used to calculate the index are derived by assessing the degree of competitiveness between the UK and partner countries in both domestic and third-party markets.
+We can decompose the ERI to evaluate which exchange rates have had the most impact on the UK economy – as shown in
+Chart 8
+. The contribution to the overall change in the index will depend on both the weight given to a specific bilateral exchange rate and the size of its movement.
+Chart 8
+demonstrates the large role played by the sterling-dollar exchange rate (which has the second largest weight in the index) in depreciating the sterling-ERI over much of 2022 and 2023 relative to December 2021. More recently, however the depreciation of the sterling against the dollar, relative to December 2021, has been outweighed by its appreciation against other currencies, including the Euro and Yuan.
+Chart 8: Contributions to cumulative change in the narrow sterling-ERI since December 2021
+Percentage points and per cent
+(a)
+Footnotes
+Source: Bloomberg Finance L.P. and Bank calculations(a) Latest annual update of the ERI weights took effect from 13 March 2024, using 2022 trade data. The narrow sterling-ERI includes countries whose share of either UK imports or exports averages more than 1% over the latest three-year period. Missing data has been imputed using the prior day’s value. Latest data point is 07/02/2025.
+While the weights used in the ERI are a reflection of the overall trade competitiveness between the UK and its partners, they distort the relative importance of bilateral exchange rates by not considering the invoicing currency.
+Garofalo, Rosso and Vicquéry (2024)
+use HMRC transaction-level data to study the change in UK trade invoicing following the Brexit referendum. They find that there has been a material shift in the degree of dollarisation (the orange bars) of UK goods exports over the period in question – particularly to non-EU countries - as shown in the left-hand side panel of
+Chart 9
+. This shift has significant consequences, with an appreciation in the US dollar depressing demand for exports by twice as much as before the pricing transition. Dollar invoicing of UK imports from non-EU countries has remained roughly steady and dominant, as shown in the right-hand side panel of
+Chart 9
+. The dominant role of the US dollar in import pricing has likely contributed to the stronger-than-expected UK import price inflation seen in recent years.
+Chart 9: Currency shares of UK exports and imports
+(a)
+Footnotes
+Source:
+Garofalo et al. (2024)
+and HMRC administrative datasets, UK exports, 2010-2022As invoicing data is available only for UK non-EU exports pre-2021/non-EU imports pre-2022, the authors have assumed that the currency shares for UK EU exports/imports (transparent stacked bars) follow the same growth as for non-EU until the first datapoint available for invoicing of UK EU exports/imports, i.e. 2021/2022.
+Asset Prices
+Fluctuations in global asset prices can also spill over into financial conditions in the UK. By setting Bank Rate, the MPC effectively sets a minimum interest rate for the economy, since this is the rate of renumeration for reserves that financial institutions hold with the Bank of England overnight. This becomes the basis for interest rates that commercial banks use to lend to each other overnight and at longer maturities. These rates are vital for the first stage of monetary transmission of policy to overall financial conditions. The ‘yield curve’
+footnote
+[6]
+depicts how these interest rates vary across maturities and tells us about expectations for future policy. Today I’ll focus on the short to medium part of the yield curve, since this includes the MPC’s forecast horizon and is where the MPC has most influence on market rates. This part of the curve is also especially relevant for household and SME financial conditions, since it’s used to price retail deposit, mortgage and SME bank loan rates.
+Given I’ve just talked about how the UK is impacted by global events at a macro level, it is no surprise that our yield curve is impacted by what happens abroad as well. It is well documented that yields across major developed economies usually move in tandem, with spillovers from larger to smaller economies rising with financial and trade openness (
+Agenor and da Silva, 2022
+). My colleague Catherine Mann has spoken at length about how spillovers impact monetary policy here (
+Mann
+, 2024). Today, I want to further explore how these spillovers have been impacting UK short yields and subsequently broader financial conditions.
+In
+Chart 10
+, model-based decompositions (
+Bank Overground, 2022
+) confirm that much of our yield curve (both the OIS—Overnight Index Swap—and gilt curve) is driven by global developments. The left panel decomposes the cumulative change in UK 1Y OIS since the MPC first hiked rates this cycle to identify the source of asset price shocks. We can see that UK shocks have driven roughly half of the moves in the curve, with the US and the EA together comprising the rest of the move. The right panel decomposes the 3y gilt yield change since our November MPR. You can see UK shocks contributed little to the jump in yields in early January, while US shocks drove most of the moves. The Bank’s
+Market Participants Survey (MaPS)
+corroborates this too, as respondents on average identified global factors as the biggest single driver of UK rates since the start of October last year
+footnote
+[7]
+.
+Chart 10: Rigobon decomposition of UK 1y OIS (LHS) and UK 3y Gilt Yield (RHS)
+Cumulative change
+(a)
+Footnotes
+Source: Bloomberg Finance L.P. and Bank calculations.(a) Decomposition of UK 1-year overnight index swap (OIS) rate cumulative change since December 2021 (LHS) and UK 3-year gilt cumulative change since 7 November 2024 (RHS) yield based on a model following
+Rigobon (2003)
+. Latest data: 6
+th
+February 2025
+Many of the moves in US rates that have subsequently impacted the UK have been driven by the presidential election and subsequent shifts in the outlook for US monetary policy. What the Federal Reserve says and does is relevant to the rest of the world, to the extent that Fed policy impacts the US economy and therefore the global economy via trade, exchange rates, financial conditions and global demand. The US also has a dominant role in the world economy via other financial channels; the US Treasury market is the largest, most liquid market in the world and the dollar is the global reserve currency – so it isn’t surprising that the US has a greater financial influence on the UK than might seem justified based on trade fundamentals.
+We can also see the impact of global developments on markets by looking at the correlation between surprises in data releases to moves in UK market reactions. To do this, I measure the change in UK 3y OIS within a ten-minute window surrounding UK, US and EA data releases. I then regress this against normalised data surprises relative to consensus market expectations for each data category to see which surprises in data move the curve the most.
+Chart 11
+plots this, with the points representing the sensitivity of the UK 3y OIS rate to a particular data surprise. I’ve split the sample of data releases into before and after the MPC’s first rate hike in late 2021 to see how the market impact has changed.
+Chart 11 : Sensitivity of UK 3y OIS to data releases
+Regression coefficients by period and data release
+(a)
+Footnotes
+Source: Bloomberg Finance L.P., LSEG, Worldscope and Bank calculations(a) The point represents the regression coefficient with bars showing the respective 95% confidence intervals. For blue bars and dots the sample period is from 17 Feb 2009 to 15 Dec 2021, for orange bars and dots the sample period is 16 Dec 2021 to 30 January 2025.
+What immediately stands out is how much more sensitive the market has become to data releases since the last rate hiking cycle began. UK CPI has the greatest market impact by some distance, unsurprising given the MPC has emphasised data dependence and different metrics of inflation persistence in our reaction function. However, US CPI and US PMI survey releases are in second and third place. Rightly or wrongly, the market has been taking an increased signal from US data for the outlook on UK rates.
+Global factors have an outsized impact on UK rates, significantly shifting UK financial conditions. The MPC must consider these financial conditions even though we may have little influence over some of the underlying drivers. Global factors may also distort the market curve on which our forecasts are predicated, making it more difficult for investors to interpret the MPC’s reaction function.
+Risks to the Outlook: Trade Fragmentation
+We economists are getting used to forecasting in the face of uncertainty. Geopolitical risks abound, China’s pivot from investment-led to consumption-led growth is far from complete, growth in Europe has weakened, Germany faces an election and the US has a new administration. Given the theme of this talk is international spillovers of global developments to the UK, I’d like to focus on the potential implications of trade fragmentation for the UK economy.
+Much of the work I’m going to take you through draws on the staff’s excellent work, summarised in Box C of our
+February Monetary Policy Report
+. Tariffs can act via a number of different channels, many of which work in opposite directions. Working out the overall net effect is therefore no easy task. I’m going to use a model to help with this. As my colleague Clare Lombardelli discussed in her speech in November, the Bank is committed to using a wide range of models outside of the MPC’s central forecast infrastructure and is looking to increase the use of scenario analysis
+(Lombardelli, 2024)
+. In this spirit, Bank staff have used the ECB’s global macroeconomic model (ECB-Global 2.0) to explore a stylised scenario in which trade fragmentation occurs as a result of tariffs—with many thanks to the ECB.
+ECB-G is a semi-structural, global model with rich channels of international shock propagation through trade, oil prices and global financial markets. It features tariffs, dominant-currency pricing and trade diversion, making it particularly useful for this type of analysis (
+Georgiadis et al., 2021
+). It also has an endogenous monetary policy response, using a Taylor Rule. That said, it is still just a model and has drawbacks like any other, which I will discuss in more detail.
+Uncertainty on what tariffs might eventually look like remains high. I will therefore only show the stylised responses (without magnitudes) of UK GDP and inflation to a scenario that involves tariffs imposed on a number of countries by the US—including the UK—and subsequent retaliation
+footnote
+[8]
+. The countries involved are the countries mooted as potential targets of tariffs during President Trump’s election campaign. My goal isn’t for you to walk away thinking I’ve told you exactly how much tariffs might impact the UK economy. The idea is to provide a framework for thinking through how trade fragmentation might reverberate through the UK economy via different channels.
+As I explained, when it comes to trade spillovers, the how much, who and what matter. You'll recall that the US is the UK's second-largest trading partner - exports to the US (both direct and indirect) accounted for around 8% of UK GDP in 2023. Nearly 70% of the UK’s exports to the US are services exports, which would not be directly impacted by tariffs on goods. Still, some services exports are contingent on goods exports, and so trade in services could be indirectly impacted by tariffs as well.
+I’ll start by considering a scenario of unilateral US tariffs on a number of countries, including the UK. First I’ll walk through what economic theory tells us about possible channels of impact on the UK, and then I’ll aggregate those channels using the model.
+In the first instance, US tariffs on UK goods imports could raise their cost relative to US-produced goods. This would weaken US demand for UK exports, serving as a drag on UK activity and inflation. Similarly, third countries would see demand for their own goods fall, and the resultant negative income shock could reduce their imports of UK goods as well.
+Some of this might be offset by foreign producers engaging in trade diversion. Unable to sell as profitably to the US, they might lower their prices to seek alternative markets, reducing import costs for the UK and providing a disinflationary impulse. The impact of trade diversion on output is less clear. Cheaper goods from trade diversion would increase real incomes in the UK and should raise consumption. But cheaper imported goods would also make it harder for domestically produced substitutes to compete, dragging on activity.
+Higher import costs for the US owing to import tariffs would reduce US demand for foreign goods, resulting in lower US demand for foreign currencies as well. This should cause the US dollar to appreciate. The direct inflationary impact of US tariffs on domestic US inflation might also cause investors to price in monetary policy divergence between the Federal Reserve and other central banks, causing the dollar to rise.
+A relative depreciation of sterling would offset some of the softer US demand for UK imports. It would make the UK relatively more competitive while also raising UK import prices, boosting both growth and inflation. The extent of this inflationary impulse would depend on a range of factors, including how quickly higher import prices feed through into consumer prices and how much externally driven inflation impulses trigger domestic inflation persistence.
+To figure out the net effect of all these channels on UK GDP and inflation, we can turn to the ECB-G model. The unilateral tariff scenario is shown in
+Chart 12
+.
+footnote
+[9]
+Both output and inflation jump initially when the tariffs are imposed. This is partly because the ECB-G model assumes full and immediate pass through of exchange rates to import prices, so the sterling depreciation effects dominate in the near term, pushing up growth and inflation. In reality, I think these adjustments are likely to be more gradual. Over the medium-term, the impact on output wanes significantly and disinflationary pressure from the trade diversion channel dominates alongside the progressive decline in world export prices. The model’s endogenous monetary policy response also kicks in and as a result both impacts taper off over the policy horizon.
+Chart 12 : ECB-G modelled UK impact of US tariffs
+Stylised impulse responses
+(a)
+Footnotes
+Source: ECB and Bank calculations(a) Stylised impulse responses from ECB-G 2.0. The y-axis shows deviation in the level of UK GDP and annual UK CPI inflation relative to baseline. The x-axis shows quarters from initial shock.
+It seems likely that some countries might retaliate with tariffs on US imports as well. Again, uncertainty on what retaliation might look like is incredibly high. We’ve therefore assumed that all countries in our stylised scenario retaliate in kind. Overall, this kind of trade fragmentation likely puts downward pressure on UK output and inflation in the short-term.
+In general, more trade barriers would exacerbate distortions in trade flows, prices and exchange rates, pushing up on prices in the UK. But overall, additional trade barriers would see demand for third countries’ goods fall in what would effectively be a negative global demand shock. The resultant negative income shock would reduce demand for UK exports and would drag on both output and inflation.
+With exports to the US more restricted, there would be less global demand for the US dollar, this time sending the currency lower. That said, this is likely to be tempered by the dominant role of the US dollar in international trade and its role as the global reserve currency. The relative appreciation in sterling would drag on US demand for UK exports, hampering growth. A stronger sterling would also reduce UK import costs, which would be disinflationary if passed onto consumers.
+We’ve again used the ECB-G model to aggregate the net impact of all these channels, shown in
+Chart 13
+. You can see that when tariffs and counter-tariffs are imposed, the impact on output and inflation is front-loaded before tapering off after about a year. The exchange rate channel again dominates in the near-term, with the model assuming immediate pass through to import costs—an assumption I question. Trade diversion also plays a role in pushing prices down in the near-term. The model’s monetary policy response helps to reduce the impact on UK growth and inflation in the medium-term. In reality, monetary policy might be constrained by other domestic factors such as domestic inflation persistence, and so the deviation from the pre-shock baseline could take longer to wane.
+Chart 13: ECB-G modelled UK impact of US tariffs with retaliation in kind
+Stylised impulse responses
+(a)
+Footnotes
+Source: ECB and Bank calculations(a) Stylised impulse responses from ECB-G 2.0. The y-axis shows deviation in the level of UK GDP and annual UK CPI inflation relative to baseline. The x-axis shows quarters from initial shock.
+There are a lot of different channels to consider here, so I’ve summarised them in
+Table A
+, with the blue arrows reflecting the impact of the first scenario of unilateral tariffs and the purple arrows including retaliation.
+A further health warning should be issued for the stylised scenario I’ve run through. The ECB-G model captures a rich set of mechanisms through which trade fragmentation might impact the UK economy. But it is unable to capture many additional channels.
+For example, supply chain disruptions could create price spikes that cascade through production networks. This would push up on prices in the UK and elsewhere, but ECB-G doesn’t include any lasting global supply chain reconfiguration.
+It also does not incorporate the flight to safety dynamics that might exist in a risk-off environment. I’ve suggested that US tariffs on imports would cause the dollar to appreciate and counter-tariffs would cause it to weaken. But in the face of trade uncertainty and fragmentation, the US dollar might be supported by safe haven inflows. This could partly offset changes in exchange rates due to tariffs, leaving some uncertainty around the sign of exchange rate moves in different trade scenarios. The exchange rate channel is the dominant one in determining the impact of tariffs on UK growth and inflation in the ECB-G model.
+The model also omits the impact of trade fragmentation on potential growth. Research shows trade openness contributes to knowledge spillovers and boosts competition, in turn increasing productivity growth. Tariffs are therefore likely to drag on the supply capacity of the global economy, which—all else equal—would be inflationary.
+Finally, this model includes a very quick pass through of the endogenous monetary policy to the headline variables. The long and variable lags with which monetary policy impacts the real economy are unlikely fully captured here.
+More generally, the model results are inherently uncertain, partly because we don’t actually know what tariffs might be implemented, how countries will respond and how quickly different channels of propagation work. The ECB-G model is nevertheless one tool that can help us aggregate the effects of tariffs and counter-tariffs on the UK economy and inflation over time.
+Conclusion
+As a small, open economy, the UK is impacted by developments outside its borders, particularly through trade and financial markets. How much is traded, with whom and what all matter in determining how shocks reverberate through the UK economy. The EU is by far the UK’s biggest trading partner across all measures, though exposure to China has increased over the past few decades (particularly when accounting for the hidden component of supply chains).
+The US is the UK’s largest single-country trading partner. It also has an outsized impact on the UK via financial channels. This is partly because of the US’s dominant role in global finance. The US dollar drives much of sterling’s exchange rate movements, which would probably be even bigger if dollar dominant currency pricing in international trade were factored in. Other UK asset assets have also been impacted by US developments. Shifts in US rates have been a significant driver in moves in UK rates recently, and UK rates have moved more off the back of surprises in US data releases during this rate cycle than before.
+As we look at the year ahead, geopolitical and geoeconomic risks abound. With the aid of a model, I have provided a framework for thinking through one of them here: the impact of trade fragmentation on the UK economy as a result of tariffs and counter-tariffs. The potential choreography of tariffs and counter-tariffs is highly uncertain, and consequently it did not factor into our recent interest rate decision.
+Policy Views
+Of course, trade fragmentation is not the only source of uncertainty we currently face as policymakers. The current conjecture and the outlook for the UK economy is also highly uncertain. I thought I would take this opportunity to explain how I am thinking about UK monetary policy at the moment.
+Overall, my message hasn’t changed. The disinflationary process is broadly on track. Inflation persistence has been slowly fading in part thanks to a restrictive stance in monetary policy. To use the cases we introduced last year, I still believe we are firmly in a Case 2 state of the world, in which a negative output gap must open to squeeze remaining inflationary persistence out of the economy and return inflation sustainably to our 2% target by the end of the forecast period. This motivated my recent vote in favour of a 25 basis point cut in Bank Rate. That said, I think the risks around this view of the world have shifted since the beginning of our cutting cycle last August.
+The macroeconomic news over recent months has been uncomfortable. GDP has roughly flatlined since Spring of last year and expectations among firms for employment have deteriorated. Alongside this, domestic cost pressures have surprised us to the upside and our outlook for inflation includes a near-term jump in inflation alongside a larger negative output gap.
+How one’s policy views are impacted by the deterioration in activity data since last summer depends on how demand- or supply-driven one believes it to be. If tepid activity is more a result of demand weakness relative to supply, that could require an easier stance of monetary policy to return inflation to our target. If it is more driven by constrained supply relative to demand, then that would sustain domestic wage and price pressures and would require Bank Rate to remain restrictive for longer.
+Our challenge is to work out which it is. On the demand side, there has been a sharp fall in business and consumer confidence over the past few months. PMI surveys have indicated weak output and falling employment. The latter is also reflected in our latest DMP survey, showing employment over the year ahead flatlining, the lowest since November 2020. From this evidence, one could tell a story about policy uncertainty, higher labour costs for businesses and restrictive monetary policy weighing on demand.
+For me, a potential issue with this narrative is that wage growth and domestic cost pressures have surprised us on the upside in recent months. This is what I’d expect to see in the face of more constrained supply relative to demand.
+Private sector regular average weekly earnings growth is a volatile series, but it increased in the 3 months to November—as did the Bank’s indicator-based model for wage growth. The Agents’ pay survey suggests wage settlements will come in at 3.7% this year, at the top of the initial range we had been expecting. This is also supported by the DMP survey, which has shown expected year-ahead wage growth stuck around 4% since August.
+Both input and output prices have expanded in recent PMI surveys. Core goods inflation and food price inflation have surprised on the upside recently and are set to rise further. Both seem to be primarily driven by domestic factors such as labour costs. Energy and food inflation are particularly salient for inflation expectation setting. Household short-term inflation expectations have already been increasing since last summer. While I don’t think there is a serious risk of inflation expectations becoming deanchored, inflation will likely spend its fifth consecutive year above target this year. That may lower the threshold above which even a short-term rise in inflation feeds through into second-round effects.
+I think supply growth in the economy has been weakening over the past year. I also have concerns about it over the medium-term. We have judged that trend productivity growth will remain steady at around 1%, which involves a healthy recovery over the next few years. I think there is a considerable risk this recovery will remain elusive.
+Putting all these factors together, I think there are definitely risks that the recent weakness in activity is demand-driven. But the evidence suggests to me that this weakness is more a question of constrained supply. In my opinion, this means the probabilities have shifted away from what we’ve called a Case 1 world towards a Case 2 or 3 world. That is to say it’s less likely inflation persistence will fade on its own accord, and more likely monetary policy will need to remain restrictive in order to either generate a negative output gap to bring inflation to target sustainably or to lean against structural shifts in the economy. As a result, I believe it is appropriate to maintain a cautious and gradual approach to removing monetary restrictiveness.
+All opinions (and omissions and errors) are my own.
+I would particularly like to thank Waris Panjwani and Emma Hatwell for their help in the preparation of these remarks.
+Thanks also to Andrew Bailey, Jake Bartholomew, Stuart Berry, Ambrogio Cesa-Bianchi, Jenny Chan, Lucio D’Aguanno, Marco Garofalo, Robert Hills, Tomas Key, Zaar Khan, John Lowes, Josh Martin, Jake Mulcahy, Nades Raviraj, David Ronicle, Martin Seneca, Fergal Shortall and Amarjot Sidhu for their insightful contributions and comments.
+For additional Bank research on the propagation of external shocks to the UK economy via trade and financial channels, see this
+Quarterly Bulletin article
+. These are not the only channels of propagation. Foreign investment into and out of the UK can also transmit shocks across national borders, for example.
+The reliance on gross trade concepts intentionally allows trade values to be “double counted” as inputs cross borders several times. This is a feature of such indicators due to the nature of global shocks, which tend to disrupt the entire value of a shipment and not just the value-added in the disrupted country.
+Latest datapoint for Inter-Country Input-Output (ICIO) tables used in this analysis.
+'Import intensity' is calculated for each COICOP class. It refers to the percentage of final household consumption which is due to both direct and indirect imports. Estimates should be regarded as indicative. The mean COICOP class import intensity is estimated to be 24.9%. More information on these estimates can be found on the
+ONS website
+.
+Goods and services have been classified at the COICOP class level. Averages are unweighted means.
+‘Yield curve’ refers to the spot or instantaneous forward OIS curve. This will reflect both expectations for future rates alongside premia, with the latter generally increasing for greater maturities.
+Respondents gave a mean weighting of 53.3% to global developments being the most important driver for UK short rates since Q4 2024, compared to 35.5% for UK specific developments.
+Countries included in the US tariff scenario are: UK, EA, Japan, India, South Korea, Thailand, Vietnam, China, Canada and Mexico.
+You’ll note there are no numbers in this chart. That is because the size and targets of tariffs are so uncertain, this is purely a stylised scenario. What matters most are the directions rather than the magnitudes.
+In both scenarios, monetary policy acts to bring the impacts on inflation and activity back towards the baseline.
+Exchange rate pass through to import prices is assumed to be full and immediate in the ECB-G model, but I expect that this will take longer in reality. In addition, the model does not capture any flight to safety dynamics that might exist in a risk-off environment. Incorporating these should mitigate the appreciation of sterling against the dollar.
+You’ll note there are no numbers in this chart. That is because the size and targets of tariffs are so uncertain, this is purely a stylised scenario. What matters most are the directions rather than the magnitudes.
+Close
+Countries included in the US tariff scenario are: UK, EA, Japan, India, South Korea, Thailand, Vietnam, China, Canada and Mexico.
+Close
+Respondents gave a mean weighting of 53.3% to global developments being the most important driver for UK short rates since Q4 2024, compared to 35.5% for UK specific developments.
+Close
+‘Yield curve’ refers to the spot or instantaneous forward OIS curve. This will reflect both expectations for future rates alongside premia, with the latter generally increasing for greater maturities.
+Close
+Goods and services have been classified at the COICOP class level. Averages are unweighted means.
+Close
+'Import intensity' is calculated for each COICOP class. It refers to the percentage of final household consumption which is due to both direct and indirect imports. Estimates should be regarded as indicative. The mean COICOP class import intensity is estimated to be 24.9%. More information on these estimates can be found on the
+ONS website
+.
+Close
+Latest datapoint for Inter-Country Input-Output (ICIO) tables used in this analysis.
+Close
+The reliance on gross trade concepts intentionally allows trade values to be “double counted” as inputs cross borders several times. This is a feature of such indicators due to the nature of global shocks, which tend to disrupt the entire value of a shipment and not just the value-added in the disrupted country.
+Close
+For additional Bank research on the propagation of external shocks to the UK economy via trade and financial channels, see this
+Quarterly Bulletin article
+. These are not the only channels of propagation. Foreign investment into and out of the UK can also transmit shocks across national borders, for example.
+Close
+Transcript of Megan Greene’s Q&A with Anna Leach, Chief Economist at the IoD
+Megan Greene
+Member of the Monetary Policy Committee
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

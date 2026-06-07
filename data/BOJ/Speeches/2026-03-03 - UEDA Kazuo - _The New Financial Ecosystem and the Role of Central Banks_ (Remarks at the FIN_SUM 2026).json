@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"The New Financial Ecosystem and the Role of Central Banks\" (Remarks at the FIN/SUM 2026)",
+  "date_original": "2026-03-03",
+  "date_au": "03/03/2026",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260303a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-03-03 - UEDA Kazuo - _The New Financial Ecosystem and the Role of Central Banks_ (Remarks at the FIN_SUM 2026).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-03-03 - UEDA Kazuo - _The New Financial Ecosystem and the Role of Central Banks_ (Remarks at the FIN_SUM 2026).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1a18bcb21eb60a0a2ecfe71c387ac5929965f498ac7b84d59a4f49d1fc9b3d09"
+}

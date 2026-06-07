@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "AI and the Economy",
+  "date_original": "2025-11-07",
+  "date_au": "07/11/2025",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20251107a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-11-07 - Philip N. Jefferson - AI and the Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-11-07 - Philip N. Jefferson - AI and the Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b635367260774cf6c24775c6b147cbdf40a6d39b5d1b8a67ef88ce74f598062a"
+}

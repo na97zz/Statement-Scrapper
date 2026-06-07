@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Policymaking in an age of shifts and breaks",
+  "date_original": "2023-08-25",
+  "date_au": "25/08/2023",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230825~77711105fe.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-08-25 - Christine Lagarde - Policymaking in an age of shifts and breaks.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-08-25 - Christine Lagarde - Policymaking in an age of shifts and breaks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "77103e420a83c31d9c3db8fbb057cd8397301faf5d5ddc51aa816b080efe75a0"
+}

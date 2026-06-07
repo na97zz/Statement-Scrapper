@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stability and Macroeconomic Policy",
+  "date_original": "2023-06-16",
+  "date_au": "16/06/2023",
+  "datetime_original": "",
+  "speaker": "Financial Stability and Macroeconomic Policy",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230616a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-06-16 - Financial Stability and Macroeconomic Policy - Financial Stability and Macroeconomic Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-06-16 - Financial Stability and Macroeconomic Policy - Financial Stability and Macroeconomic Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8e849660914c80cd0fd2aa8b8a7c4ee2d74bbb5f402520a8e6896f826bbf8b84"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Thirty years of hurt, never stopped me dreaming - speech by Andy Haldane",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andy Haldane",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/june/thirty-years-of-hurt-never-stopped-me-dreaming-speech-by-andy-haldane-references.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andy Haldane - Thirty years of hurt, never stopped me dreaming - speech by Andy Haldane.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andy Haldane - Thirty years of hurt, never stopped me dreaming - speech by Andy Haldane.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:25",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/june/andy-haldane-speech-at-the-institute-for-government-on-the-changes-in-monetary-policy",
+  "content_sha256": "56c777cd344364d337772cd9c6ec1dfe045f1b507108f63b2f1d0204c3a03ed8"
+}

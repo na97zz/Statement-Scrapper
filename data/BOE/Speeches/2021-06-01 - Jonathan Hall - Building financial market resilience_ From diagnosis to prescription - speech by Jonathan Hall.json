@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Building financial market resilience: From diagnosis to prescription - speech by Jonathan Hall",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Jonathan Hall",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/may/jon-hall-building-financial-market-resilience",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Jonathan Hall - Building financial market resilience_ From diagnosis to prescription - speech by Jonathan Hall.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Jonathan Hall - Building financial market resilience_ From diagnosis to prescription - speech by Jonathan Hall.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "db6c0a2d7ecc849fe86f9d7d318f5eb4e2a2a49d91ba3c3b98ff40c55f287753"
+}

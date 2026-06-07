@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks",
+  "date_original": "2023-05-31",
+  "date_au": "31/05/2023",
+  "datetime_original": "",
+  "speaker": "Brief Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230531a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-31 - Brief Remarks - Brief Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-31 - Brief Remarks - Brief Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "85f4ebf84c002f78b3b986014e2175817be3eb319ea43261949d8e20a5990053"
+}

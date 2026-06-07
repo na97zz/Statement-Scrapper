@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The UK’s approach to cross-border clearing - speech by Christina Segal-Knowles",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Christina Segal-Knowles",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/november/the-uks-approach-to-cross-border-clearing-speech-by-christina-segal-knowles.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Christina Segal-Knowles - The UK’s approach to cross-border clearing - speech by Christina Segal-Knowles.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Christina Segal-Knowles - The UK’s approach to cross-border clearing - speech by Christina Segal-Knowles.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:27",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/november/christina-segal-knowles-speech-on-uk-emir2-2-hosted-by-the-fia",
+  "content_sha256": "40c7c4c0afb8466ac90df4b2fa9a787430caa1cdef254b21772045d0c9068d31"
+}

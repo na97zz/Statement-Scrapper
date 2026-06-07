@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Sapporo)",
+  "date_original": "2024-06-14",
+  "date_au": "14/06/2024",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240614a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-06-14 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Sapporo).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-06-14 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Sapporo).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "21f7e9ea4efe678c145c79fc77038fa1f77e3b22de13f784570e2e1e26fb5cc1"
+}

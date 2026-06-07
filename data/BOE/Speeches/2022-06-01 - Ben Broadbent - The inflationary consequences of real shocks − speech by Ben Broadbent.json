@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The inflationary consequences of real shocks − speech by Ben Broadbent",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Ben Broadbent",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2022/october/the-inflationary-consequences-of-real-shocksspeech-by-ben-broadbent-annex.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Ben Broadbent - The inflationary consequences of real shocks − speech by Ben Broadbent.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Ben Broadbent - The inflationary consequences of real shocks − speech by Ben Broadbent.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:18:26",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2022/october/ben-broadbent-speech-at-imperial-college-the-inflationary-consequences-of-real-shocks",
+  "content_sha256": "eea366c4682fa63805fe3efc08243f7e9858e6d3eb4e5fc399989c39519f89e9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Reconciling the macro and micro evidence on the effects of monetary policy",
+  "date_original": "2022-09-12",
+  "date_au": "12/09/2022",
+  "datetime_original": "",
+  "speaker": "Welcome address by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220912~3d48b8f309.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-09-12 - Welcome address by Isabel Schnabel - Reconciling the macro and micro evidence on the effects of monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-09-12 - Welcome address by Isabel Schnabel - Reconciling the macro and micro evidence on the effects of monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0da48c97d56497df5852c2bded5cb9b09afd234d3f89c181f1d689ee83f1cf76"
+}

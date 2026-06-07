@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "European Parliament plenary debate on the ECB Annual Report",
+  "date_original": "2021-02-08",
+  "date_au": "08/02/2021",
+  "datetime_original": "",
+  "speaker": "Introductory statement by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210208~296c27d246.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-02-08 - Introductory statement by Christine Lagarde - European Parliament plenary debate on the ECB Annual Report.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-02-08 - Introductory statement by Christine Lagarde - European Parliament plenary debate on the ECB Annual Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ad97028038f19a6f3352fa88ad5916be812fa9639a23f319e2a869ef57d31b38"
+}

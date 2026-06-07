@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Competing for growth − speech by Sam Woods",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Sam Woods",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/october/competing-for-growth-speech-by-sam-woods.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Sam Woods - Competing for growth − speech by Sam Woods.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Sam Woods - Competing for growth − speech by Sam Woods.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:14",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2024/october/sam-woods-speech-at-annual-city-banquet-at-mansion-house",
+  "content_sha256": "386607f9b17ec7806b05feb3b7c1a4457dec381bfaabc2a7197a23f166664c31"
+}

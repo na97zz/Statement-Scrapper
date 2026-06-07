@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The digital euro: strengthening Europe’s payments ecosystem",
+  "date_original": "2026-02-06",
+  "date_au": "06/02/2026",
+  "datetime_original": "",
+  "speaker": "The digital euro",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260206~dd5354fe95.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-02-06 - The digital euro - The digital euro_ strengthening Europe’s payments ecosystem.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-02-06 - The digital euro - The digital euro_ strengthening Europe’s payments ecosystem.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "24efe7f6a2a07e5f75cfb95d625cbed6fdd700f2e9dfdd845e89e618c6b0a4b6"
+}

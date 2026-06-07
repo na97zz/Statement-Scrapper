@@ -1,0 +1,384 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: From money market funds to stablecoins: lessons for central banks
+DATE: 01/06/2026
+SPEAKER: From money market funds to stablecoins
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260601~38dffe5ec5.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+From money market funds to stablecoins: lessons for central banks
+Speech by Isabel Schnabel, Member of the Executive Board of the ECB, at the 2026 Bank of Korea International Conference on Central Banks and the Future of Money
+Seoul, 1 June 2026
+The nature of money has never been static. Over the centuries, financial innovation has reshaped how money is created, transferred and stored, often enhancing efficiency, broadening access and boosting economic welfare.
+When such innovations reach scale, they alter the structure of the financial system, with consequences for financial stability, monetary policy and the international monetary order.
+One recent innovation has been stablecoins. These are privately issued digital tokens pegged to fiat currencies and typically backed by portfolios of traditional assets. Their rapid rise has raised questions about their benefits and challenges.
+To understand the unfolding changes, it is worth looking at how earlier innovations transformed financial markets.
+Hyun Song Shin and his co-authors were among the first to examine these issues through a historical lens, drawing parallels with earlier monetary innovations, namely the “bank money” issued by the Bank of Amsterdam, which can be seen as an early form of stablecoin.
+[
+1
+]
+Backed by high-quality assets and providing a stable unit of account, bank money offered a trusted means of settlement and went on to become a key international currency for more than a century.
+Its eventual decline, however, illustrates how such trust can dissipate once confidence in the underlying assets weakens, even if the money is issued by a public deposit bank.
+More recently, a private and closer analogue of stablecoins emerged: money market funds. These created a highly liquid investment instrument that offered a market-based yield while promising a stable value, reshaping financial intermediation.
+In my remarks today, I will examine the parallels and differences between the emergence of money market funds and that of stablecoins to provide a perspective on the challenges posed by stablecoins and other forms of tokenisation for today’s financial system.
+I will argue that private monetary innovation can offer significant benefits. But I will also show that it can heighten financial stability risks, affect monetary policy transmission and alter the international monetary order. Central banks and regulators need to be ready to adapt regulation, monetary policy implementation and payment infrastructure in an agile manner to safeguard financial stability, preserve monetary control and anchor their currency’s role in the digital age.
+The rise of money market funds
+The emergence of money market funds in the 1970s was initially a distinct US phenomenon, driven by regulation and the macroeconomic environment.
+The key backdrop was Regulation Q, introduced in the aftermath of the Great Depression, which imposed interest rate ceilings on bank deposits in order to contain “excess competition” among banks. As higher inflation gave rise to higher market interest rates, investors sought liquid alternatives delivering higher yields.
+[
+2
+]
+Money market funds met this demand by investing in a diversified portfolio of high-quality, short-term market instruments, while aiming to maintain a stable net asset value and promising redemption at or near par. In doing so, they replicated some of the key attributes of bank deposits, most notably stability of value and liquidity.
+Over time, money market funds became central actors in wholesale funding markets and major buyers of short-term financial instruments, such as commercial paper, repurchase agreements and Treasury bills.
+The rise of money market funds in the United States led to some bank disintermediation as savings migrated from bank deposits into money market funds (Slide 2, left-hand side). As a result, banks increasingly shifted towards wholesale funding, such as repos and other market-based sources, making part of their funding more short-term, expensive and volatile (Slide 2, right-hand side).
+[
+3
+]
+At the same time, money market funds benefited the financial system and the economy more broadly. Governments enjoyed access to a wider and more diversified investor base for short-term sovereign debt, while financial intermediation shifted away from banks towards capital markets, contributing to the expansion of market-based finance (Slide 3, left-hand side).
+While the first money market funds in Europe were established in the early 1980s, it was not until the 1990s that they really took off. They have since become an integral part of the euro area financial system.
+By increasing competition for savings and offering households and firms attractive alternatives to bank deposits, money market funds made it harder for banks to extract excess rents in protected deposit markets. Evidence from Germany suggests that the authorisation of money market funds in 1994 led to more intense competition in deposit markets, as evident in a visible decline in bank deposit margins around that time (Slide 3, right-hand side).
+This was also reflected in banks’ stock prices: the Deutsche Bundesbank’s decision to drop its initial resistance to money market funds led to negative abnormal stock returns of -2.4% for German banks immediately after it was announced.
+[
+4
+]
+Thus, the advent of money market funds offered benefits to investors in the form of higher returns and greater choice, while financial markets became deeper and more diversified.
+Challenges from stablecoins
+Stablecoins share several features with money market funds. Both invest in a portfolio of short-term safe assets and aim to offer redemption at or near par into fiat currency. And both operate outside the traditional banking system, thereby potentially contributing to the disintermediation of banks.
+But there are also important differences, especially in terms of remuneration and use cases.
+The attractiveness of money market funds has traditionally rested on their ability to offer competitive market yields. Stablecoins, by contrast, do not generally pay interest, at least not directly.
+[
+5
+]
+Stablecoins do not therefore constitute an attractive store of value, compared with money market funds or remunerated bank deposits.
+[
+6
+]
+And yet, this has done little to curb demand. Global stablecoin market capitalisation has increased swiftly and is now close to USD 300 billion, although growth has moderated recently. The two largest US dollar-denominated stablecoins, Tether (USDT) and USD Coin (USDC), account for roughly 90% of the total market. Euro-denominated stablecoins have so far played only a marginal role, with a combined market capitalisation of approximately EUR 500 million (Slide 4).
+The appeal of stablecoins is expected to lie mainly in their potential use as an efficient means of payment and settlement – functions that are not offered by money market funds. Stablecoins promise to provide near-instant settlement, programmability, global accessibility and a cheap way of sending money across borders.
+[
+7
+]
+So far, stablecoins have primarily been used to settle transactions in crypto markets, with crypto trading remaining the dominant use case by far. Other use cases account for only a small share of current activity, but they are expected to grow over time, although there remains a high degree of uncertainty about their future trajectory (Slide 5, left-hand side). Around 85% of the transaction volume on crypto trading platforms involves exchanges between stablecoins and other crypto-assets, even though other types of transactions are gaining ground (Slide 5, right-hand side).
+The rapid growth of stablecoins worldwide means that central banks must assess their implications carefully. Three aspects stand out: financial stability, monetary policy and the international financial order.
+Stablecoins can trigger runs and fire sales
+The first area of concern is financial stability.
+In general, the expansion of market-based finance, including via money market funds, has contributed to financial stability by offering greater diversification opportunities for both investment and funding, and by making the system more resilient by not relying exclusively on bank intermediation.
+But the experience with money market funds has also shown that such instruments can give rise to new fragilities in the financial system.
+[
+8
+]
+The first fragility concerns bank disintermediation. The greater reliance on more volatile wholesale deposits and short-term market-based debt since the advent of money market funds is likely to have amplified banks’ vulnerability to runs.
+[
+9
+]
+Stablecoins could imply a new wave of bank disintermediation, even if they are unremunerated.
+If households and firms replace bank deposits with stablecoins, banks are likely to face a less stable deposit base as retail deposits are replaced by wholesale deposits.
+[
+10
+]
+This shift would make banks’ liabilities more concentrated, rate-sensitive and volatile.
+The second fragility relates to the risk that money market funds, or stablecoins for that matter, may face runs themselves.
+This risk became evident during the global financial crisis, which exposed the vulnerability of money market funds to runs and the lack of a safety net to mitigate systemic risks. After the failure of Lehman Brothers in September 2008, the Reserve Primary Fund “broke the buck”, meaning that its net asset value fell below par, triggering widespread redemptions, fire sales and a freeze in short-term funding markets (Slide 6, left-hand side).
+[
+11
+]
+We have seen money market funds come under stress on several further occasions in recent years, such as during the European sovereign debt crisis and, more recently, at the onset of the COVID-19 pandemic.
+[
+12
+]
+Stablecoins may exhibit similar vulnerabilities.
+Due to their liquidity mismatch and a potential loss of trust in the quality of the assets, they are also subject to the risk of runs.
+[
+13
+]
+And with the size of the largest US dollar-pegged stablecoins now approaching that of the largest US money market funds, their impact on financial markets could be significant (Slide 6, right-hand side).
+How such runs might eventually play out will depend critically on a stablecoin’s reserve assets (Slide 7, left-hand side).
+Tether, for example, holds parts of its reserves in relatively illiquid and risky assets, including commodities, loans and crypto-assets, making it more vulnerable to a loss of confidence in the quality or liquidity of those reserves – much like the Bank of Amsterdam in the second half of the 18th century.
+USD Coin is mainly backed by sovereign bonds and repos, which could imply spillovers to sovereign debt markets and broader fixed-income markets if large redemption requests were to force fire sales. An additional complication derives from the fact that stablecoins are subject to 24/7 settlements while the reserve assets may still be subject to traditional settlement at T+1 or T+2.
+[
+14
+]
+By contrast, European stablecoins are legally required to hold a high share of their reserve assets in the form of bank deposits. Under the EU’s Markets in Crypto-Assets Regulation (MiCAR) at least 30% of stablecoin reserves must be held as bank deposits, rising to 60% for significant stablecoins.
+[
+15
+]
+While these requirements aim to increase the liquidity of reserves and limit disintermediation, they also make stablecoins less profitable for issuers and could amplify financial contagion between stablecoins and the traditional banking sector, for example by exposing stablecoins to bank default risk.
+[
+16
+]
+The events of March 2023 highlighted these risks in the United States. USD Coin’s peg came under pressure because part of its reserves were held as deposits at the failing Silicon Valley Bank, raising doubts about the quality and availability of its assets.
+[
+17
+]
+Conversely, a run on a stablecoin could lead to sudden withdrawals of reserves held at banks, implying contagion in the opposite direction. Since MiCAR came into force in 2023, euro area banks’ deposits from crypto exchanges and stablecoin issuers have increased notably, even if they still remain small relative to the exposed banks’ total assets (Slide 7, right-hand side).
+Stablecoins affect financial conditions and monetary policy transmission
+The second challenge concerns monetary policy.
+Conceptually, it is important to distinguish between changes induced by the broad-based adoption of stablecoins and changes in the transmission of policy rate decisions.
+Regarding the structural changes induced by a potential shift towards stablecoins, the implications could be similar to those of the rise of money market funds.
+The shift towards more volatile wholesale funding would tend to raise banks’ funding costs and tighten their regulatory liquidity requirements, which could induce them to increase their holdings of high-quality liquid assets (HQLA) and could constrain banks’ capacity to extend credit to firms.
+[
+18
+]
+Overall, this would tend to tighten financing conditions in the economy, especially for bank-dependent borrowers like small and medium-sized enterprises.
+At the same time, the adoption of stablecoins could imply an easing of financial conditions if issuers were to invest their reserves in short-term government securities, creating an additional demand for those securities.
+[
+19
+]
+Hence, similar to money market funds, stablecoins could contribute to channelling liquidity into market instruments.
+[
+20
+]
+This would reduce yields on government debt, which would likely also be transmitted to other short-term rates in the economy.
+This is already visible in the United States, where major US dollar stablecoin issuers have become sizeable holders of short-term sovereign debt (Slide 8, left-hand side). BIS research finds that a large inflow into US dollar‑backed stablecoins may lower three-month US Treasury bill yields significantly, with limited to no spillovers to other tenors, leading to a steepening of the yield curve.
+[
+21
+]
+If stablecoin issuance prompts banks to rebuild their liquidity buffers by buying government securities, this could reinforce the easing in financial conditions.
+[
+22
+]
+However, the general reallocation towards government debt could also result in a crowding out of private borrowers.
+Given these countervailing effects, the net impact of the broad adoption of stablecoins on financial conditions is uncertain and depends, among other things, on the type of reserve assets. However, in relative terms, bank lending conditions are likely to tighten relative to market conditions.
+[
+23
+]
+The second question is how changes in the policy rate are transmitted to financial conditions and the real economy.
+The traditional bank-based transmission of monetary policy operates through bank balance sheets. When policy rates change, banks adjust their deposit rates, lending conditions and credit supply.
+Money market funds have altered the strength of these adjustments. By offering a market-based alternative to deposits, they have made bank funding costs more sensitive to market conditions.
+But the extent of this effect depends on the relevance and accessibility of money market funds in the financial system: in the United States their share relative to GDP is twice as high as in the euro area (Slide 8, right-hand side).
+The recent tightening cycle illustrates this. In the euro area, deposits shifted mainly from overnight deposits into time deposits and bank bonds, with only limited migration into money market funds. By contrast, the United States experienced substantial deposit outflows from banks into money market funds (Slide 9).
+For stablecoins, however, this channel is likely to play out differently – at least if stablecoins are unremunerated. Higher policy rates would increase the opportunity costs of holding unremunerated stablecoins, reducing their attractiveness and prompting investors to rebalance towards yield-bearing financial assets, including bank deposits.
+Recent research indeed shows that, unlike money market funds, stablecoins tend to experience outflows following contractionary US monetary policy shocks, behaving more like unremunerated bank deposits (Slide 10, left-hand side).
+[
+24
+]
+This is consistent with descriptive evidence on the co-movement of stablecoin growth relative to other instruments with policy rates (Slide 10, right-hand side).
+The net impact of stablecoins on monetary policy transmission is then shaped by two opposing forces.
+On the one hand, greater reliance on wholesale funding would
+strengthen
+transmission – as wholesale funding costs reprice more rapidly and more strongly in response to policy rate changes.
+ECB research shows that, in response to a contractionary monetary policy shock, banks that rely more heavily on wholesale funding increase both lending and deposit rates more strongly and cut loan growth by more, while at the same time increasing the uncertainty around the impact of monetary policy actions (Slide 11).
+[
+25
+]
+On the other hand, monetary policy tightening may prompt stablecoin holders to shift back part of their holdings into bank deposits,
+dampening
+the initial transmission impulse.
+The net effect hinges on the elasticity of this substitution. If stablecoins are adopted primarily as a payment instrument rather than a store of value, users are likely to maintain stablecoin holdings for transactional convenience even as interest rates rise. Under this scenario, stablecoin adoption would on balance strengthen monetary policy transmission.
+Finally, unremunerated stablecoins, if systemically relevant, could reinforce the zero lower bound constraint on the policy rate, as negative interest rates could render stablecoins’ business model unprofitable, leading to a collapse of the market. In fact, the significance of the money market fund industry in the United States likely contributed to the Federal Reserve shying away from negative interest rates.
+Stablecoins could cement the international dominance of the dollar
+The third aspect concerns the international monetary order.
+The expansion of US dollar-denominated money market funds has reinforced the global role of the dollar. By supplying short-term dollar funding, they deepened and internationalised wholesale dollar funding markets.
+[
+26
+]
+Through the Eurodollar market, money market funds expanded cross-border dollar credit and strengthened the private international dollar system. The US dollar-based system became self-reinforcing through network effects that created persistence and inertia.
+[
+27
+]
+This can be seen in global funding markets, where the share of the US dollar has held up well over recent years, remaining close to its long-run average, unlike with foreign exchange reserves where the dollar has gradually lost some ground, in part driven by shifts in the geopolitical landscape (Slide 12).
+A dollar-based financial system has profound implications for monetary policy autonomy and international monetary policy transmission. Not least due to the dominant role of the dollar, US monetary policy has become a major driver of the global financial cycle.
+[
+28
+]
+The growing use of stablecoins may further cement the international dominance of the US dollar. Today, virtually all stablecoins in circulation are denominated in dollars, with other currencies playing a negligible role (Slide 13, left-hand side).
+[
+29
+]
+ECB research suggests that significant dollar-denominated stablecoin issuance could amplify the international transmission of US monetary policy (Slide 13, right-hand side). Under a scenario of broad US dollar-backed stablecoin adoption – a scenario more relevant for emerging market economies – a contractionary US monetary policy shock creates greater spillovers to real economic output abroad than under a scenario of no stablecoin adoption.
+[
+30
+]
+Global US dollar stablecoins could create new cross-border networks where dollarisation emerges as a byproduct of the adoption of the new technology, rather than a deliberate currency choice.
+In jurisdictions with weaker monetary credibility, residents may increasingly hold dollar-denominated claims, intensifying currency substitution and endangering monetary sovereignty by weakening the impact of domestic monetary policy and strengthening the role of the exchange rate for domestic inflation.
+[
+31
+]
+But even for regions with strong monetary credibility, the persistent dominance of US dollar stablecoins could, over time, have undesirable consequences if it strengthens US dollar invoicing and global liquidity holdings. From a European perspective, this could eventually limit the euro’s role in emerging forms of tokenised finance and in the international monetary system more generally.
+As with the rise of money market funds, the dollar’s dominance would be reinforced, not necessarily owing to stronger economic fundamentals but due to network effects, scale and first-mover advantages.
+Preserving the role of central bank money in a digitalised financial system
+What do these challenges imply for central banks today, and for the ECB in particular?
+A key implication is that central banks cannot remain passive observers of these developments. History has shown that, once private forms of money are widely adopted, they shape the structure of the financial system in ways that can be difficult to reverse. The appropriate response is therefore not to resist innovation but to ensure that it develops within a framework that preserves stability, monetary control and trust in the currency.
+First, as regards financial stability, the lesson from money market funds suggests that appropriately regulating stablecoins is critical to containing financial stability risks. This includes requirements concerning the quality and liquidity of reserves, transparency about reserve composition and valuation, and redemption safeguards.
+Second, on monetary policy, central banks need to adapt their analytical frameworks. Changes in the composition and stability of bank funding require close monitoring, as they may alter the strength and speed of monetary transmission. A shift towards more rate-sensitive and less stable funding can amplify the responsiveness of bank lending to policy changes, while shifts into and out of stablecoins in reaction to rate changes could have the opposite effect.
+Third, at the international level, central banks, alongside other players, should help ensure that the emerging tokenised financial system remains open and multi-currency in nature.
+However, as stressed by ECB President Lagarde in a recent speech, many of the advantages of stablecoins arise from the technology on which they are based rather than from the characteristics of the instrument itself.
+[
+32
+]
+Hence, the appropriate strategic response of the Eurosystem lies in the continued digitalisation and technological development of the monetary and payment infrastructure.
+This is exactly the strategy the ECB has chosen in order to preserve the anchoring role of central bank money in an increasingly digitalised world: providing a public settlement asset that complements and enables private assets like tokenised deposits and stablecoins (Slide 14).
+The Eurosystem’s strategy has two complementary dimensions: the digital euro as a retail central bank digital currency (CBDC) and tokenised central bank money as a wholesale CBDC.
+A digital euro preserves the public anchor of the monetary system
+The Eurosystem’s payment landscape is undergoing some fundamental changes (Slide 15). Cash use in shops is declining while card and mobile payments are expanding rapidly.
+At the same time, a large and increasing percentage of card transactions are processed through non-European providers. International players are market leaders in significantly more euro area countries than domestic alternatives, as payment markets remain fragmented across countries and payment channels.
+[
+33
+]
+In this evolving landscape, a digital euro serves three main purposes.
+First, it preserves citizens’ access to public money, which is fundamental for maintaining trust in the privately created money offered by banks and, potentially, non-banks. Second, it strengthens European strategic autonomy by reducing our dependence on non-European payment providers and infrastructures. And third, by providing a pan-European payment solution with legal tender status, it reduces fragmentation in the European payments landscape. This could also foster private innovation in retail payments.
+[
+34
+]
+In a world with increasing geopolitical tensions, the introduction of the digital euro is an indispensable step to maintain European sovereignty and foster European integration, providing benefits to all stakeholders: consumers, merchants, banks and innovators (Slide 16).
+A wholesale CBDC provides a public settlement asset and fosters innovation
+In parallel, the Eurosystem is working on a wholesale CBDC.
+Tokenisation holds much promise to improve the efficiency of the financial and payment system, for example by removing settlement risk and allowing greater flexibility through 24/7 operations.
+But it still requires a safe, trusted and scalable public settlement asset – a function that private assets like stablecoins cannot fulfil in the same way.
+The Eurosystem is currently working on two projects that aim at providing tokenised wholesale central bank money: Pontes and Appia (Slide 17).
+[
+35
+]
+Pontes is the first step towards a more tokenised financial system. It enables digital ledger technology (DLT)-based transactions to be settled in central bank money, providing a bridge between DLT platforms and our TARGET services.
+Appia intends to provide the broader vision of what a future-proof, innovative and integrated European financial ecosystem could look like. This includes topics like the provision of tokenised central bank money, the implementation of monetary policy and collateral management on DLT, and the treatment and interoperability of tokenised traditional assets, as well as cross-border aspects.
+The broader aim is to provide a framework in which private innovation can thrive. This will ensure that the euro remains a safe and attractive means of payment domestically while also fostering its international role, complementing other initiatives such as the interlinking of our fast payment system TIPS and the expansion of our liquidity line framework EUREP.
+Conclusion
+Let me conclude.
+In my remarks this morning I have described how the nature of money is changing and how one recent innovation – fiat-pegged stablecoins – may affect the core of central banks’ business: monetary policy, financial stability and the international monetary order.
+While stablecoins promise efficiency improvements in the payment and settlement domain, much of these improvements derive from the underlying technology, not from the instrument itself.
+Therefore, the proper response by central banks is to keep up with technological innovation and define the framework in which private innovation can thrive. This helps ensure that new forms of private money, including stablecoins and tokenised deposits, complement rather than displace public money, preserving its central role as the ultimate settlement asset.
+It remains to be seen whether, in such an environment, stablecoins can find their place in the financial system just as money market funds did 50 years ago, or whether other innovations, like tokenised deposits, will prove to be the more promising alternative.
+In any case, as shown by the example of money market funds, innovation alone is not sufficient to guarantee lasting success. We also need to provide guardrails to preserve financial stability, monetary policy transmission and the international role of the euro.
+Bolt, W., Frost, J., Shin, H.S. and Wierts, P. (2024), “The Bank of Amsterdam and the Limits of Fiat Money”,
+Journal of Political Economy
+, Vol. 132, No 12, pp. 3919-3941; Frost, J., Shin, H.S. and Wierts, P. (2020), “
+An early stablecoin? The Bank of Amsterdam and the governance of money
+”,
+BIS Working Papers
+, No 902, Bank for International Settlements, November.
+Federal Reserve History, “
+Money Market Mutual Funds
+”.
+The difficulties banks faced in attracting funding eventually led to the gradual phase-out of Regulation Q. This allowed them to compete for deposits, albeit at higher deposit rates.
+Fischer, K.H. and Pfeil, C. (2004), “Regulation and Competition in German Banking: An Assessment”, in Krahnen, J.P. and Schmidt, R.H. (eds.),
+The German Financial System
+, Oxford University Press, Oxford, UK, pp. 291-349.
+In the United States, the interest income earned by some stablecoin issuers is used for indirect remuneration, for example via profit-sharing arrangements. Indirect remuneration can arise when intermediaries such as crypto lending platforms, DeFi protocols or exchanges offer “earn products”, which allow users to deposit stablecoins and receive a return. In the EU, indirect interest is prohibited under MiCAR.
+This applies mainly for advanced and stable economies. For economies with high inflation and depreciating or volatile currencies, access to a strong currency via stablecoins can provide an attractive store of value.
+The cost advantage narrows substantially once one accounts for on- and off-ramping costs and foreign exchange conversion costs.
+Bouveret, A., Martin, A. and McCabe, P.E. (2022), “
+Money Market Fund Vulnerabilities: A Global Perspective
+”,
+Finance and Economics Discussion Series
+, No 2022-012, Board of Governors of the Federal Reserve System.
+See Ivashina, V. and D. Scharfstein (2010), “Bank lending during the financial crisis of 2008”,
+Journal of Financial Economics
+, Vol. 97(3), pp. 319-338.
+Aggregate deposits could also shrink, for example if stablecoins held their reserves in government securities bought from banks. Under MiCAR, the risk of a smaller deposit base is mitigated by requirements on minimum holdings of deposits with credit institutions. An additional concern is distributional. The banks receiving stablecoin deposits are likely to be large wholesale banks, while deposits may flow out mainly from smaller banks, which are typically important lenders to SMEs.
+In quantitative terms, the redemptions from money market funds in 2008 were massive. Overall, the flows out of prime institutional share classes amounted to USD 400 billion during the first two weeks of the crisis. See Schmidt, L., Timmermann, A. and Wermers, R. (2016), “Runs on Money Market Mutual Funds”,
+American Economic Review
+, Vol. 106, No 9, pp. 2625-2657. See also Bengtsson, E. (2013), “Shadow banking and financial stability: European money market funds in the global financial crisis”,
+Journal of International Money and Finance
+, Vol. 32(C), pp. 579-594.
+Chernenko, S. and Sunderam, A. (2014), “Frictions in shadow banking: evidence from the lending behavior of money market mutual funds”,
+The Review of Financial Studies
+, Vol. 27, No 6, pp. 1717-1750; Breckenfelder, J. and G. Schepens (2025). “From purchases to exit: central bank interventions in corporate debt markets”,
+Working Paper Series
+, No 3055, European Central Bank.
+Kosse, A., Glowka, M., Mattei, I. and Rice, T. (2023), “
+Will the real stablecoin please stand up?
+”,
+BIS Papers
+, No 141, Bank for International Settlements; Anadu, K., McCabe, P., Perez-Sangimino, J.P. and Swem, N. (2026), “
+A Framework for Understanding the Vulnerabilities of New Money-Like Products
+”,
+Finance and Economics Discussion Series
+, No 2026-002, Board of Governors of the Federal Reserve System; Wang, J. (2025), “
+Banks in the Age of Stablecoins: Some Possible Implications for Deposits, Credit, and Financial Intermediation
+,”
+FEDS Notes
+, No 2025-12-17-1, Board of Governors of the Federal Reserve System; Gorton, G.B. and Zhang, J.Y. (2023), “Taming Wildcat Stablecoins”,
+University of Chicago Law Review
+, Vol. 90, No 3.
+Instant settlement, continuous trading and global accessibility also mean that runs could propagate in real time, leaving little room for timely intervention. This poses new challenges for central banks in their role as lender of last resort. A tokenised financial system operates around the clock, yet emergency liquidity facilities have traditionally been designed for business-hour crises. See Adrian, T. (2026),
+Tokenized Finance
+,
+IMF Notes
+, International Monetary Fund, April.
+Under MiCAR, having a large market size is one of the main criteria for classifying a stablecoin issuer as significant. Large market size is defined by market capitalisation, the value of tokens issued or the size of reserve assets exceeding EUR 5 billion.
+A recent paper has argued that EU regulation discourages the development of stablecoins in Europe and makes proposals how this could be changed, including by reducing the required share of reserves held as bank deposits, allowing for direct remuneration and giving stablecoins access to the ECB’s balance sheet. See Reichlin, L., Sangers, B. and J. Zettelmeyer (2026), “
+A new strategy to contain stablecoin risks in the European Union
+”,
+Bruegel Policy Brief
+, No 09/2026.
+An even more extreme example is the collapse of TerraUSD, which was not backed by assets but relied on an algorithmic peg.
+In addition, increasing holdings of HQLA may become more difficult as stablecoins raise aggregate demand for HQLA, unless the supply of HQLA also expands. As a result, banks could curtail their loan supply.
+This would only happen if the net demand for government securities increased, which would not necessarily be the case, for example if the increase in stablecoin holdings was accompanied by a divestment from money market funds.
+The implications may extend beyond sovereign bond markets. In 2025, for example, Tether was a major buyer of gold and surpassed the largest official buyers, suggesting that large stablecoin issuers can affect prices across a wide set of safe assets if the sector continues to expand. See ECB (2026),
+Report on the international role of the euro
+, June (forthcoming).
+Ahmed, R. and Aldasoro, I. (2025), “
+Stablecoins and safe asset prices
+”,
+BIS Working Papers
+, No 1270, Bank for International Settlements.
+Born, A. et al. (2026), “
+Euro stablecoins and their potential effect on sovereign bond markets
+”,
+Macroprudential Bulletin
+, Vol. 33, ECB.
+Altavilla, C. et al. (2026), “
+Stablecoins and monetary policy transmission
+”,
+Working Paper Series
+, No 3199, ECB.
+Aldasoro, I. et al. (2025), “Stablecoins, money market funds and monetary policy”,
+Economics Letters
+, Vol. 247(C). ECB research finds qualitatively similar results for ECB monetary policy; Altavilla, C. et al. (2026), op.cit.
+Altavilla, C. et al. (2026), op.cit.
+Aldasoro, I., Ehlers, T. and Eren, E. (2022), “Global banks, dollar funding, and regulation”,
+Journal of International Economics,
+Vol. 137(C), July.
+Farhi, E. and Maggiori, M. (2018), “A Model of the International Monetary System”,
+The Quarterly Journal of Economics
+, Vol. 133, No 1, pp. 295-355.
+Jiang, Z., Krishnamurthy, A. and Lustig, H. (2024), “Dollar Safety and the Global Financial Cycle”,
+The Review of Economic Studies
+, Vol. 91, No 5, pp. 2878-2915.
+Krogstrup, S. (2026), “
+Stablecoins and Money
+”, speech at the Centre for European Policy Studies, 21 January.
+Ferrari Minesso, M. and Siena, D. (2026), “
+Private money and public debt. U.S. Stablecoins and the global safe asset channel
+”,
+Working Paper Series
+, No 3174, ECB.
+Aldasoro, I., Frost, J. and Ito, H. (2026), “
+The impact of stablecoins on the international monetary and financial system
+”,
+BIS Papers
+, No 170, Bank for International Settlements.
+See also Lagarde, C. (2026), “
+Stablecoins and the future of money: separating functions from instruments
+”, speech at the Banco de España LatAm Economic Forum, 8 May.
+See ECB (2025), “
+Preparation phase of a digital euro – Closing report
+”.
+See ECB (2025), “
+Digital euro innovation platform
+”, September.
+See ECB (2025), “
+ECB commits to distributed ledger technology settlement plans with dual-track strategy
+”,
+press release
+, 1 July; and ECB (2026), “
+Appia – paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT
+”,
+press release
+, 11 March.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts
+Annexes
+1 June 2026
+Slides

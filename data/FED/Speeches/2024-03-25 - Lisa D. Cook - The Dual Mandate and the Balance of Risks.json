@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Dual Mandate and the Balance of Risks",
+  "date_original": "2024-03-25",
+  "date_au": "25/03/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20240325a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-03-25 - Lisa D. Cook - The Dual Mandate and the Balance of Risks.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-03-25 - Lisa D. Cook - The Dual Mandate and the Balance of Risks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "46896c0af2d9a61c264cf69480c0dfa19b598ff93f3e28ebd75778da355c2f68"
+}

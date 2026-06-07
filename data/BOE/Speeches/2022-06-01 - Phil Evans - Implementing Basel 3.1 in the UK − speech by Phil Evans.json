@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Implementing Basel 3.1 in the UK − speech by Phil Evans",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Phil Evans",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/december/phil-evans-speech-at-uk-finance-on-basel-3-1-consultation",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Phil Evans - Implementing Basel 3.1 in the UK − speech by Phil Evans.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Phil Evans - Implementing Basel 3.1 in the UK − speech by Phil Evans.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5135667ceb8a898feb2bc9020e421daae03ca3efc353699ecdde6819a3bececf"
+}

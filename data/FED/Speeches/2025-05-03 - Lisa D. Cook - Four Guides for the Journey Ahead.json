@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Four Guides for the Journey Ahead",
+  "date_original": "2025-05-03",
+  "date_au": "03/05/2025",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20250503a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-05-03 - Lisa D. Cook - Four Guides for the Journey Ahead.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-05-03 - Lisa D. Cook - Four Guides for the Journey Ahead.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "34163262b329bcdd37b74722b52d7fb52e887ed989f509b84ab1db461b557e49"
+}

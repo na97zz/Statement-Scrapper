@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Remarks at the Summit for a new global financing pact",
+  "date_original": "2023-06-23",
+  "date_au": "23/06/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230623~3e2a3aaa82.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-06-23 - Speech by Christine Lagarde - Remarks at the Summit for a new global financing pact.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-06-23 - Speech by Christine Lagarde - Remarks at the Summit for a new global financing pact.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "95a51f91812756907693401eee3601b10c37e897eaddf53eaae4374faeb82318"
+}

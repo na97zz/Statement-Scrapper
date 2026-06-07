@@ -1,0 +1,772 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: UK inflation since the pandemic: How did we get here and where are we going? − speech by Jonathan Haskel
+DATE: 01/06/2023
+SPEAKER: Jonathan Haskel
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/november/uk-inflation-since-the-pandemic-how-did-we-get-here-and-where-are-we-going-speech-by-jonathan-haskel.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+ 
+ 
+UK inflation since the 
+pandemic: How did we get 
+here and where are we 
+going? − speech by 
+Jonathan Haskel 
+Given at the University of Warwick  
+28 November 2023 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech 
+1. Introduction 
+I am delighted to be back at the University of Warwick. My thanks to the students who run 
+the Warwick Finance Society and the Economics Society for kindly inviting me. 
+I want to take this occasion to pay tribute to Professor Nick Crafts, who passed away on 
+October 6th, 2023. He was Professor here from 2005-2019 and was rightly described in his 
+obituary in The Times as “the most distinguished British economic historian of his 
+generation” and in the Financial Times as writing “the definitive account of Britain’s 
+Industrial Revolution”.1 He was brilliant, generous and always good-natured. An example 
+to us all. 
+My subject tonight is UK inflation.  
+UK inflation is now falling rapidly. From the 11.1% peak in October 2022, it is now 4.6% 
+(annual CPI inflation in the year to October 2023). In this speech I try to set out (a) how I 
+think we got here and (b) future prospects. 
+I look backwards and forwards since I believe there are some misleading narratives that 
+seem to have taken hold regarding UK inflation. One oft-stated backward-looking narrative 
+holds that the Bank of England was wrong to treat rising inflation during the recovery from 
+the pandemic over 2021 as transitory. One equally off-stated forward-looking narrative 
+holds that with inflation falling interest rates can be cut sooner rather than later.  
+I shall in this speech try to argue that neither of these narratives are true. In making this 
+argument I try to bring some empirical evidence to the debate. I do so by reporting my 
+interpretation of an estimated model of inflation applied originally to the US by Ben 
+Bernanke and Olivier Blanchard (Bernanke and Blanchard, 2023).2 The details and 
+ 
+1 The Times, 15 November 2023. Financial Times, 13 October 2023. 
+2 I have been working with Bank of England colleagues Josh Martin and Lennart Brandt in recent months to 
+apply Bernanke and Blanchard’s model to UK data. Other Bank of England researchers have also worked on 
+this, notably Daniel Albuquerque and May Rostom, from whom I have learned a lot. Our work is part of a wider 
+project comparing European economies, Japan, Canada and the US: likewise, we have learned a lot from Ben 
+Bernanke, Olivier Blanchard and other colleagues on this project. I should be clear that this speech is my 
+personal interpretation of the results we have obtained for the UK. For those interested who are unfamiliar with 
+the people involved, Bernanke and Blanchard have had highly distinguished careers in academia and 
+policymaking. Ben Bernanke has published extensively on macroeconomics, notably on the inter-war period. 
+He was Chairman of the US Federal Reserve from February 2006 to January 2014 and was awarded the 
+Nobel Prize in Economics in 2022. Olivier Blanchard has likewise published very widely, notably on 
+unemployment and debt. He was Chief Economist at the IMF between September 2008 and September 2015. 
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+results are set out in a paper which accompanies this speech. Of course, we should be 
+cautious of what models tell us, but we need some sort of model to get started at least. 
+The Bernanke and Blanchard (henceforth BB) framework is simple and transparent and 
+follows a rich tradition of evidence on wage-price interactions dating at least from Michael 
+Bruno and Jeffrey Sachs, exemplified in work by, among many others, Richard Jackman, 
+Richard Layard, Stephen Nickell, Andrew Newell and James Symons, all of which is well 
+summarised by Charles Bean.3 The framework supposes that firms and workers bargain 
+over wages and firms then set prices based on the bargained wage, and other costs, such 
+as energy. It is straightforward that when unanticipated rising energy prices hit the 
+economy, firm costs rise and hence they raise their prices and there is inflation. 
+What happens next? Suppose there is no feedback to wage bargaining. In this case, the 
+process stops there. The sudden increase in the price level in, say, April 2022 corresponds 
+to a one-off burst in inflation. It is one-off because it lasts a year. This is because inflation 
+is measured as an annual change. The new higher price level in the months after April 
+2022 are compared with the lower price level before April 2022, but in April 2023, the 
+comparison is relative to the higher price level at which point inflation ends. Conventional 
+monetary policy “looks through” such inflation because it is powerless to stop it. Why? 
+Monetary policy cannot create new energy supply to lower the energy price, so the price 
+level of energy remains high, but changes in the price level, inflation, are temporary. In any 
+case, since monetary policy takes more than a year to work through the economy, it is 
+ineffective for such transitory shocks. 
+Matters are more complicated if there are a series of shocks, and/or or changes in labour 
+market conditions and/or the increase in prices feeds back to wage bargainers. A so-called 
+“wage-price spiral”, or “second-round effects”, arise as wage increases chase price 
+increases which feed back into further wage increases.  
+Our purpose of estimating a model is then to examine the evidence on the strength of 
+these various mechanisms. 
+What do we find? Our estimates reveal three important properties of the modern UK 
+economy which turn out to have important policy implications.  
+1. Typical shocks to energy and food prices “wear off” quickly. The economy is flexible 
+enough such that typical shocks cause one-off bursts of inflation that do not last 
+much more than a year.  
+2. By contrast, sustained rises in labour market “tightness”, that is, strong demand for 
+labour relative to supply, does lead to sustained inflation.  
+ 
+3 See the accompanying paper for references. 
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+3. Whilst inflation expectations have risen with headline inflation, they remained pretty 
+well-anchored to the inflation target. 
+I draw three policy conclusions from this evidence.  
+1. Since the initial burst of inflation during the spring and summer of 2021 was from 
+energy prices and shortages, it was perfectly reasonable, given what policymakers 
+knew at the time, to regard these shocks as transitory. 
+2. The subsequent inflation over 2022, largely again due to more energy price shocks, 
+and latterly food prices, was also fuelled by increasing labour market tightness. The 
+MPC raised policy rates over this period, and this was the correct response. 
+3. What is the outlook? While it is right to think that the direct effect of these energy 
+and food shocks will fade away, they have been so large and so concatenated that 
+it will continue to take some time to work through the system, making inflation 
+persistent. But the still-high degree of labour market tightness continues to impart 
+inflationary pressure. This will need higher rates for longer to get inflation 
+sustainably to target. This is why I have been voting for higher rates at recent 
+meetings. 
+In the rest of this speech, I describe briefly the Bernanke Blanchard framework, the drivers 
+of the recent surge in UK inflation, and some thoughts on the future path of inflation and 
+associated monetary policy. Much more on the empirical work is available in the 
+accompanying paper. 
+2. A framework 
+A stylised representation of the BB framework is set out in Chart 1.  
+Starting in the upper box, firms and workers settle on wages. Wage growth depends on  
+(a) expected inflation, (b) labour market tightness and (c) the real wage workers aspire to, 
+and (d) productivity growth. The outcome of this process determines wage inflation. 
+Then, proceeding to the lower box, firms set prices as a mark-up over those wages and 
+other costs, such as energy etc, taking account of productivity and a return on the capital 
+firms have invested in. The outcome of this determines price inflation.4 
+However, it is not a one-way relationship between wages and prices. As illustrated by the 
+red line, for example, a shock to prices potentially changes both expected inflation and 
+ 
+4 Some readers will prefer an account of inflation that includes the money supply. In the current conjuncture, 
+the argument goes that a combination of QE and loose monetary policy fuelled inflation by excessive money 
+growth, allied with abnormally high household bank deposits that were accumulated during lockdown. Money 
+does not appear explicitly in the BB framework, but we can think of money and credit as influencing demand 
+in the economy, and, in this framework, determining labour market tightness and/or inflation expectations. 
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+aspiration real wages and so changes wage settlements, which feeds back into pressure 
+on prices. Inflation expectations (short- and long-run) are modelled as functions of (past 
+and present) actual inflation and expectations. Wage-price dynamics arise via assumed 
+lags in the system, including a possible adjustment of real aspiration wages to actual real 
+(consumption) wages if, for example, workers attempt to “catch-up” their current real wage 
+settlements to past real wage losses. Dynamics also arise as inflation expectations adjust 
+to current inflation. 
+Chart 1: Stylised representation of the Bernanke and Blanchard model of wages  
+and prices (a) 
+ 
+Source: Authors’ elaboration of Bernanke and Blanchard (2023). 
+(a) The representation is stylised. Short-run and long-run inflation expectations are also determined in the 
+model but not shown here. The price equation in the model does not include an explicit regressor for profits. 
+Firms: price setting 
+
+Wages  
+
+Other costs: energy, food, shortages 
+
+Capital/profits 
+
+Productivity 
+Workers/firms: wage bargaining 
+
+Expected inflation 
+
+Past inflation 
+
+Labour market “tightness” 
+
+Productivity 
+Wage 
+inflation 
+Price 
+inflation 
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+ 
+BB have two main findings on US quarterly data. First, estimates suggest that shocks to 
+the system from, for example, energy or food prices, dissipate quite quickly, restoring 
+inflation to previous rates. This is because there is little catch-up effect and inflation 
+expectations, despite rising inflation, have remained quite anchored. Second, US inflation, 
+after initially being due mostly to external shocks, is increasingly driven by a tight labour 
+market. 
+3. Inflation, wages and expectations: the facts  
+The model suggests that to explain inflation we need to review the shocks to inflation, the 
+labour market and expectations.  
+Inflation 
+Starting with inflation, Chart 2 shows annual inflation in CPI, food and energy in the UK 
+between 1990 and 2023. The following points are worth noting.  
+Chart 2: Annual inflation, CPI, food and energy, Jan 1990 to Oct 2023 (a) 
+ 
+Source: ONS, authors’ calculations. 
+(a) Series are annual percentage changes on monthly frequency (the model is fitted on quarter-on-quarter 
+annualised natural log changes). Energy includes household gas and electricity bills, and fuels and lubricants 
+used in personal transport equipment (i.e. petrol, diesel). Food includes non-alcoholic beverages. CPI and 
+Food shown against left-hand side axis, Energy against right-hand side axis. Figures 1 and 2 in the 
+accompanying paper shows this on a quarter-on-quarter annualised basis. 
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+First, the size of shocks to the economy. As is well known, UK inflation as recently been 
+historically high. But Chart 2 also shows that the food and energy price changes have also 
+been historically very high. This can be seen by comparing the standard deviation (a 
+measure of the typical variability of data) of price shocks before the pandemic, with the 
+maximum shock sizes over the last few years. Based on the same measures used in the 
+model5, the shocks to energy prices, food prices, and shortages, during the pandemic and 
+post-pandemic period, are 10.8, 3.4 and 36.1 times larger than typical pre-pandemic 
+shocks respectively. 
+Second, there has been much discussion of UK inflation relative to other countries (see, 
+for instance, August 2023 MPR, Chart 2.2). The responsiveness of UK inflation to energy 
+price shocks is both larger and has different lags due to, respectively, the structure of UK 
+energy markets (the marginal source of supply is gas) and energy price regulation 
+(Haskel, 2022).  
+Third, on timing, annual CPI inflation started to rise through 2021, starting the year at 0.7% 
+and finishing at 5.4%. Notice that energy prices started to rise in 2021 Q2, well before the 
+outbreak of the Ukraine war in 2022 Q1. Food prices started to rise materially in 2021 Q4 
+and rose strongly from 2022 Q2 and onwards.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 These are the relative price of energy to wages, the relative price of food to wages (both measured in 
+quarter-on-quarter annualised log changes), and the shortages index. 
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+The labour market 
+Turning to the labour market, Chart 3 shows nominal wage growth6 and a labour market 
+tightness measure, namely the V/U ratio, that is, the ratio of vacancies to unemployment. 
+You can think of this as a measure of how available jobs are relative to searchers: a higher 
+number indicates more job availability relative to searchers. When V/U is high, more firms 
+are competing over fewer workers, which tends to put upward pressure on wages. Indeed, 
+as a rough correlation, the data show a strong rise in the V/U ratio in recent times along 
+with a strong rise in wage inflation, although V/U has receded somewhat in the first half of 
+2023.  
+Chart 3: Wage growth and labour market tightness (vacancies-to-unemployment  
+ratio), 1990 Q1 to 2023 Q2 (a) 
+ 
+Source: ONS, Bank of England, authors’ calculations. 
+(a) Wage growth is private sector regular pay (i.e. excluding bonuses etc.), from the Average Weekly 
+Earnings, seasonally adjusted. It is adjusted for changes in composition of the workforce, and for the effect 
+of furlough during the pandemic. Wage growth is quarter-on-quarter log changes, annualised by multiplying 
+by four. The V/U ratio covers all vacancies and all unemployed (meeting standard definitions). Equivalent to 
+Figure 3 in accompanying paper. 
+ 
+ 
+6 Adjusted for furlough and composition effects.  
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+Expectations 
+Turning to expectations, Chart 4 shows the series of short- and long-run inflation 
+expectations we use. Both are amalgams of financial, professional forecaster and 
+household inflation expectation survey data in a way that is as historically comparable as 
+possible, and that avoid recent distortions in financial measures owing to a forthcoming 
+change in the UK inflation measure used for some financial instruments. Both short- and 
+long-run measures have risen somewhat in recent quarters and then fallen again. 
+Chart 4: One-year and long-run inflation expectations, 1990 Q1 to 2023 Q2 (a) 
+ 
+Source: Bank of England, authors’ calculations. 
+(a) One-year inflation expectations is a composite series covering expectations of households and 
+professional forecasters. Long-run inflation expectations is a composite series covering expectations of 
+households, professional forecasters and financial markets, benchmarked to average inflation over the 
+sample period. See accompanying paper for more details. Equivalent to Figure 4 in accompanying paper. 
+ 
+Product market shocks 
+As well as food and energy shocks, the product market has seen supply chain shocks 
+especially during the recovery from the pandemic. Chart 5 shows two shortage measures: 
+one derived from Google searches, and the other the Global Supply Chain Pressure Index 
+(GSCPI) produced by the Federal Reserve Bank of New York. Note, the GSCPI is not a 
+UK-specific measure. The Google search data starts in 2004, and the GSCPI in 1998. 
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+They behave similarly over the pandemic, rising strongly in 2021 Q1, just when UK 
+inflation starts rising and strongly again in the last quarters of 2021 and into 2022 before 
+easing back.  
+Chart 5: Shortage measures, 1990 Q1 to 2023 Q2 (a) 
+ 
+Source: Google, Federal Reserve Bank of New York, authors’ calculations. 
+(a) GSCPI = Global Supply Chain Pressure Index, published by the New York Fed. Dashed line represent 
+assumed backseries prior to the start of the series – GSCPI set to 0 in the backseries, and Google 
+“shortage” set to 4 in the backseries, both approximate averages over observed pre-covid data. BB use 5 as 
+assumed backseries for Google “shortage”. Series and axes aligned such that GSCPI=0 and Google=4 are 
+aligned. Equivalent to Figure 5 in accompanying paper. 
+ 
+Surprises and “catch-up” 
+As the framework illustrates, workers might bid for higher wages both if they expect higher 
+inflation and to restore previous real wage levels. One neat measure which summarises 
+this, developed by Bernanke and Blanchard, is what they call the “catch-up” term. As they 
+point out, this mechanism is more likely when inflation rises unexpectedly. To capture this, 
+Chart 6 shows annual inflation in a given quarter, less what inflation was expected to be 
+four quarters earlier, with the “catch-up” measure the difference between the two. The 
+strong gap between actual and expected in recent quarters is notable. And so it will be 
+important to estimate how important this tendency is for inflation. 
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+ 
+Chart 6: Annual inflation, one-year inflation expectations (advanced four  
+quarters), and “catch-up” term, 1990 Q1 to 2023 Q2 (a) 
+Catch-up = realised annual inflation less one-year inflation expectations one year ago 
+ 
+Source: ONS, Bank of England, authors’ calculations. 
+(a) Graph shows annual inflation, one-year inflation expectations one year ago, and catch-up term = annual 
+inflation minus one-year inflation expectation one year ago. Equivalent to Figure 6 in accompanying paper. 
+ 
+Summary 
+Let us summarise this section. The key facts about inflation since the pandemic are these: 
+a) The UK economy was subject to a series of historically large shocks to energy 
+prices, food prices, and supply chains. 
+b) At the same time, the labour market tightened sharply. 
+c) Inflation expectations remained remarkably anchored around the target. 
+d) These shocks were unexpected, creating a large gap between actual inflation and 
+what inflation was expected to be. This has the potential to create conditions for 
+“catch-up”. 
+ 
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+4. The model in action 
+Given what happened, we now need to estimate how significant these effects all were. The 
+estimates of the model are set out in detail in an accompanying paper (Haskel, Martin 
+and Brandt, 2023). For now, let me summarise some of the key findings of the model. 
+One key question is: how does the UK economy respond to “typical” shocks? That is, 
+when a typical shock hits, how long does it take to percolate through the economy?  
+This is as much a live issue as it was in the 1970s. At that time, the economy was also hit 
+with a series of large shocks, notably to energy prices, and sustained high inflation was a 
+result. What do our estimates say about the current day? 
+Starting with shocks to relative food and energy prices, and shortages, let us define a 
+typical pre-pandemic shock to be a one standard deviation in the variable in question 
+between 1990 Q1 and 2019 Q4. These are one-period price shocks which are not 
+reversed, so that the level of prices and shortage rises and stays higher than before the 
+shock, but do not continue to rise. This seems a sensible experiment: energy and food 
+prices, for example, have risen to higher levels but, at least in the case of energy, are not 
+rising further. 
+Chart 7 shows the effect of such typical pre-pandemic shocks on annual inflation and 
+suggests an important conclusion. These typical shocks broadly support the view that 
+policymakers should “look through” such price shocks, since the effect on inflation is 
+short-lived.  
+How does this conclusion follow? Start with shortages. The peak effect from shortages is 
+after three quarters, which then unwinds towards zero fairly quickly, and settles at close to 
+zero (though marginally positive) from around two years (eight quarters) onwards.  
+Pre-covid shortages shocks in the UK were relatively small, adding just 0.04pp to annual 
+inflation at peak. However, the shortages shock during 2021 was much larger. 
+For energy prices, there is little impact on quarter-on-quarter inflation after the first quarter, 
+such that the effect on annual inflation of a typical pre-covid shock to relative energy prices 
+is little changed across the first four quarters at about 0.2pp. Then, by base effects, this 
+effect reverses, and actually drags on annual inflation by a small amount thereafter. This 
+may capture the volatile nature of UK energy prices, where increases are often followed by 
+decreases.7 
+ 
+7 Since gas is usually the marginal fuel for UK energy production (Haskel, 2022), and gas prices are largely 
+determined on global markets, the price of energy faced by UK consumers is volatile, and increases are 
+often followed by decreases. See Chart 2 for instance. Another way to see this is that the prices of energy 
+products are not very persistent, as found by ONS (2023) – see their Table 1. 
+
+
+Bank of England  
+ 
+ Page 13 
+ 
+The peak effect on annual inflation of a typical pre-covid shock to relative food prices is 
+after four quarters, at which point it would add about 0.3pp to annual inflation. After this, 
+the effect dissipates as the initial increase falls out of the annual calculation. However, it 
+continues to push up on inflation for several years, adding close to 0.05pp to annual 
+inflation four years after the shock. Food price shocks in the UK, it seems, are more 
+persistent than other price shocks.8 
+Chart 7: Impulse response functions of annual inflation to shocks to the relative  
+price of energy, relative price of food, and shortages (a) 
+ 
+Source: Haskel, Martin and Brandt (2023), Figure 12. 
+(a) Shows the full-model response of quarter-on-same-quarter-a-year-ago inflation (i.e. annual inflation) to a 
+one-quarter (i.e. one-off) positive shock to relative energy prices, relative food prices, and shortages. Shocks 
+equal to the standard deviation of the exogenous variable over 1990 to 2019 (a typical pre-covid shock). 
+ 
+What about the labour market? As Chart 3 showed, the V/U ratio has drifted upwards over 
+the past decades. Chart 8 shows the response of annual inflation to a permanent increase 
+in the V/U ratio. As it shows, a persistently tighter labour market (in levels terms) produces 
+persistently faster wage growth and thus inflation. Whereas persistently higher levels of 
+food prices only temporarily raise inflation but have a permanent effect on the price level. 
+ 
+8 In a recent speech (Bailey, 2023), Andrew Bailey reviewed UK food price inflation in some detail. 
+
+
+Bank of England  
+ 
+ Page 14 
+ 
+ 
+Chart 8: Impulse response function of annual inflation to a permanent increase 
+in V/U (a) 
+ 
+Source Haskel, Martin and Brandt (2023), Figure 13. 
+(a) Shows the full-model response of annual inflation to a permanent one standard deviation rise in V/U. 
+Standard deviation calculated over 1990 Q1 to 2019 Q4, such that is represents a typical pre-pandemic 
+shock. 
+ 
+5. What caused recent UK inflation? 
+As we have seen, the model suggested the UK economy responds quickly and sharply to 
+price shocks, and shows a persistent increase in inflation with a permanent rise in labour 
+market tightness. But over the pandemic the magnitude of these shocks has been vastly 
+greater than before, and a number of them have occurred in succession. So the finding 
+that UK inflation disappears quickly with a typical shock, whilst reassuring in normal times, 
+will not help us understand the most recent period. Indeed, this finding strongly suggests 
+that there is something to the argument that the concatenation of shocks is important. 
+So, what does the model say caused recent UK inflation? Chart 9 shows the 
+decomposition of inflation when we take account of all the shocks in the model and the 
+way that they are working through and interrelating. The chart shows inflation on a  
+quarter-on-quarter annualised basis – that is, scaling the quarterly changes to annual rates 
+by assuming that the same quarterly rate would prevail for four quarters. This measure is 
+thus different to, and more volatile than, our usual headline measure of inflation. 
+
+
+Bank of England  
+ 
+ Page 15 
+ 
+Chart 9: Decomposition of price inflation, 2020 Q1 to 2023 Q2 (a) 
+ 
+Source: Haskel, Martin and Brandt (2023), authors’ calculations. 
+(a) “Initial conditions” reflect the model response under hypothetical conditions where V/U remains at the 
+level in 2019 Q4, relative food and energy price changes are 0, shortages remain at roughly their historic 
+average, and productivity matches its 2012-2019 average; see text for interpretation of these conditions. This 
+is an adaption of Figure 14 from Haskel, Martin and Brandt (2023), where I have removed the dynamic 
+effects of two dummies for the pandemic period – see the paper for more details. 
+ 
+Let us split the path of inflation into two. First, the underlying path reflecting the initial 
+conditions at the start of the pandemic. Second, the additional path, reflecting the actual 
+shocks that occurred over this. 
+Let's start with the underlying path, which are the grey bars shown in Chart 9. This shows 
+the inflation prediction in the model of labour market tightness maintained at its level in 
+2019 Q4, the working through of food, energy and shortage shocks up to 2019 Q4, and no 
+further price shocks thereafter. You should think of this as showing what inflation in the UK 
+economy would have been if there had been no pandemic, and no change in economy 
+conditions after the end of 2019.9 
+That path shows gently rising inflation to around 4% at the end of the period. How do we 
+interpret this? Since the various price shocks would all have worn away by now, it 
+ 
+9 This is on the basis of the model estimated on data that includes the recent high inflation period. However, 
+similar results for the initial conditions are obtained if using a pre-pandemic sample. See the accompanying 
+paper for more details. 
+
+
+Bank of England  
+ 
+ Page 16 
+ 
+suggests that the labour market in 2019 Q4 was in fact too tight, and the underlying wage 
+dynamics that it would have set off would have raised inflation well above target by now. 
+This should not come as too much for surprise. A glance at the Monetary Policy Reports 
+written at that time (end of 2019 and start of 2020, before the pandemic had begun) all 
+pointed out that the labour market was tight and the MPC was monitoring it closely. But 
+they likewise noted that inflation at the time was below target. Had the pandemic not 
+struck, and had the labour market remained so tight, the MPC would likely have taken 
+action.10 
+The story of inflation over the pandemic is then better understood from what happened in 
+addition to those grey bars. Let us divide up the years. Starting in 2020 you can see from 
+Chart 9 that quarterly inflation was volatile, with a pattern of sharp increases and 
+decreases over the four quarters of the year. Clearly the once-in-a-century conditions of 
+the pandemic – involving lockdowns, furlough, and shortages, amongst much else – are a 
+challenge for pretty much any economic model. 
+Let us move to 2021. As the black line in Chart 9 shows, and as the Bank’s critics have 
+noted, inflation starts to increase through 2021. In 2021 Q2 there was sizable energy price 
+increase (blue bars in Chart 9), associated with the Ofgem price cap increase in April 
+2021, which pushed up inflation. And in 2021 Q3, a large shortage shock (yellow bars) 
+pushed up inflation. A further energy price increase occurred in 2021 Q4, and shortages 
+continued to be important. There was a moderate inflationary effect from labour market 
+tightness (as measured by the V/U ratio, red bars) in 2021 Q4. 
+Chart 9 offers an important lesson for why inflation rose over 2021. By far the most 
+important contributors were energy prices and shortages. As we have seen from Chart 7, 
+based on historical relationships, these shocks wear out quickly. This suggests that it was 
+appropriate, based upon the knowledge at the time, for the MPC to “look through” these 
+shocks and for monetary policy not to react. Once again, by the time monetary policy could 
+have taken effect, those shocks, on the basis of historical experience would have worn 
+away. 
+Two things changed in 2021 Q4. First, the price shocks continued to roll in, while past 
+shocks continued to work through the economy. Chart 8 shows the effect of a single price 
+shock, which indeed fades quickly. But if there is a succession of shocks, each with a 
+profile as in Chart 8, then they will cumulatively push up on inflation for an extended 
+ 
+10 As set out in the November 2019 Monetary Policy Report, the MPC forecasted inflation to be rising over 
+the subsequent three years, conditioned on a roughly flat path for interest rates based on the yield curve at 
+the time. One reason the MPC gave for this was faster pay growth, consistent with a tight labour market. 
+However, the outlook at that time was dominated by the uncertainty over the terms of the UK’s Exit from the 
+EU. The MPC stated (p.14) that were a smooth Brexit to occur, rates would have to rise to return inflation to 
+target.   
+
+
+Bank of England  
+ 
+ Page 17 
+ 
+period. If inflation stays above target for longer, than has implications for second-round 
+effects, as inflation expectations may increase, and “catch-up” dynamics may come into 
+effect. 
+Second, the labour market tightened rapidly, and started to push up on inflation. Returning 
+to Chart 3, the speed of tightening of the labour market over this period is unprecedented. 
+While tightness was still a small contributor to inflation in 2021 Q4 (the small red bar in this 
+quarter in Chart 9), the MPC did raise rates at its December 2021 meeting. For the record, 
+I note that the Bank of England was the first major central Bank to raise interest rates in 
+the current hiking cycle, with the Federal Reserve increasing for the first time in March 
+2022, and the ECB in July 2022. 
+That said, it is worth recalling for a moment the extraordinary conditions of the time. The 
+Omicron strain of covid-19 had struck the UK, and there was uncertainty about how 
+infectious it would be, and even some discussion that it would evade the vaccine. Had that 
+come to pass, we would be in a very different position today. Similarly, the labour market 
+picture was obscured by the fact that the furlough scheme did not close until the end of 
+September 2021, and the official labour market data lags real-time by around two months. 
+We had to wait until mid-December to be sure that the closing of the furlough scheme 
+would not lead to a huge spike in unemployment. 
+Returning to Chart 9, what was the story in 2022? The key event in Q2 was the sharp 
+increase in household energy prices, associated with the Ofgem price cap in April 2022, 
+with energy prices of course shooting up at the time of the Russian invasion of Ukraine. 
+Throughout 2022 there were still lingering effects from shortages, and food prices  
+(light-blue bars) began to have a material effect on inflation from 2022 Q3 onwards. 
+Labour market tightness also continued to push up on inflation. 
+Finally, what is the picture for the first half of 2023? Energy prices are now falling, dragging 
+on inflation (the negative blue bars in Chart 9). Food inflation is still a major contributor to 
+inflation (light-blue bars), reflecting still-high (though reducing) food price inflation and the 
+relatively more persistent effects of food price shocks in Chart 8. Shortages are still having 
+some effect. A tight labour market is also contributing upwards to inflation (red bars). So, in 
+the first half of this year, the supply shocks are still major movers of inflation, although with 
+falling energy prices more or less outweighing rising food prices and shortage effects, 
+leaving a tight labour market a positive net contributor.  
+On the face of it, Chart 9 suggests that the role of labour market tightness in recent UK 
+inflation has been small. However, there is a complication with this interpretation. Recall 
+that the underling path (the grey bars in Chart 9) assumes that the V/U ratio would have 
+stayed at its 2019 Q4 level indefinitely, which leads to a rising path for inflation. The rising 
+underlying path thus embodies a persistently tight labour market, with the red V/U bars 
+
+
+Bank of England  
+ 
+ Page 18 
+ 
+representing only the inflationary effects of labour market tightness above that underlying 
+level. 
+We would ideally show the effect of labour market tightness relative to a counterfactual 
+where the pandemic did not occur, and the economy evolved in some ‘normal’ way. Of 
+course, we cannot know what that counterfactual is. But if in that counterfactual world, the 
+path for V/U was lower – if, for instance, the MPC would have acted to cool the economy 
+to prevent a tight labour market from moving inflation so far above target – then the grey 
+bars in chart 9 would be smaller, and the red bars larger. In short, a large degree of labour 
+market tightness is buried in the grey bars in Chart 9, obscuring the narrative. 
+This model also suggests that two channels, which some had been concerned about, may 
+not have been very material. First, long-run inflation expectations are estimated not to be 
+very responsive to current inflation. Thus, even the large inflation shock we have 
+experienced has not seen inflation expectations become de-anchored. In fact, the model 
+predicts that long-run inflation expectations would increase by more than they actually did, 
+suggesting an unusual degree of anchoring. This is good news for policymakers. That 
+said, this is a very unusual episode: on current projections, inflation will have been above 
+target for at least four years, and possibly longer, by the time it returns to 2%. We do not 
+yet know what the effects of that might be, and do not have a similar episode in our recent 
+history with which to compare it to. 
+Second, catch-up is estimated to have a near-zero role in determining wage growth (and 
+thus inflation) in the long-run. However, it can have dynamic effects, as can be seen in the 
+accompanying paper. The role of catch-up is hidden in Chart 9, since the method 
+attributes the inflation via catch-up mechanics to the exogenous variable which caused the 
+gap between actual and expected inflation to open up in the first place. For instance, the 
+energy bars in Chart 9 reflect the direct effect of energy prices on CPI, indirect effects via 
+supply chains, and second-round effects via inflation expectations and catch-up. 
+Separating the effects of price shocks via the catch-up channel alone suggests that  
+catch-up may have added a little over one percentage point to annual wage growth in the 
+year to 2023 Q2, and around half a percent to price inflation in the same period. 
+6. The future 
+We can also use this model to make some predictions. To do this, we need to decide upon 
+some paths for the exogenous variables. Data for energy and food prices for 2023 Q3 are 
+already known from official statistics. For the subsequent two quarters we will match the 
+paths in the November 2023 MPR. Thereafter, we’ll use a path for energy prices based on 
+the market futures curve, and assume relative food price inflation reverts to its historic 
+average. For the shortages measure we can take the latest Google trends up to November 
+
+
+Bank of England  
+ 
+ Page 19 
+ 
+2023, and so fill in data for the second half of 2023. Thereafter is rather harder to predict, 
+so we shall revert to the historic average. 
+The path for V/U is most material for the path of inflation. A glance at Chart 3 suggests 
+three options: (a) V/U stays at its elevated level in 2023 Q2, (b) it falls linearly over four 
+quarters to its 2012-2019 average, and (c) it falls linearly over eight quarters to roughly its 
+lowest level in recent times (that observed after the economic downturn in 2008/09). Paths 
+(b) and (c) reflect declines at roughly the pace V/U is currently falling, for a year or two 
+years respectively. 
+A more formal approach would be to estimate the V/U consistent with the MPC’s 
+November 2023 MPR forecast. The MPR contains a forecast for unemployment, but not 
+for vacancies and not for V/U. We could assume that the current (post-pandemic) 
+Beveridge curve (the relationship between vacancies and unemployment over time) 
+remains stable, and thus project the rate of vacancies according to the rate of 
+unemployment, and so derive an associated V/U ratio. I note that the current Beveridge 
+curve (estimated on data over recent quarters) has shifted out relative to before the 
+pandemic, likely reflect reduced matching efficiency (see a previous speech (Haskel, 
+2023) for a discussion). 
+This would impose the fairly strong assumption that the Beveridge curve will not shift 
+further (either back in towards the pre-pandemic relationship, or further out), but gives at 
+least a more empirically grounded approach for our projections. It turns out that this 
+exercise gives a path for V/U that looks very much like path (b) described above. We can 
+therefore think of path (b) as being broadly consistent with the evolution of the economy in 
+the November 2023 MPR, applied to our BB model. 
+Chart 10 shows the result of these projections. I should first be careful to stress that these 
+are not intended as forecasts of inflation, but rather projections from our model conditional 
+on a range of inputs and assumptions. I find it instructive to think about my policy decision 
+but would not expect inflation to evolve precisely in the ways set out. 
+The three coloured lines in Chart 10 reflect the three paths for V/U, with all sharing 
+common assumptions regarding the other exogenous variables. All three lines decline 
+sharply through the end of 2023, consistent with the observed sharp drop in annual 
+inflation in the latest official data. However, from the start of 2024 all three lines show a 
+marked slowing in their declines. I do not over-interpret the apparent pick-up in inflation in 
+mid-2024, which is associated with the negative coefficients on lags of energy prices. 
+Looking through this, however, is a clear slowing in the decline of inflation after the initial 
+disinflationary effects of waning energy and food price inflation wash out. 
+ 
+
+
+Bank of England  
+ 
+ Page 20 
+ 
+ 
+ 
+Chart 10: Model projections of annual inflation with different V/U ratios  
+Annual inflation (i.e. quarter on same quarter a year ago percentage changes) (a) 
+ 
+Source author’s calculation, based on Haskel, Martin and Brandt (2023). 
+(a) Assumptions as described in text. See accompanying paper for more details. Note that the assumptions 
+used here differ to those for Figure 20 in the paper. 
+ 
+The top line, corresponding to V/U staying at its current level, sees little decline in 
+inflation. This suggests that the current level of V/U is not consistent with a 2% inflation 
+target, and indeed V/U is currently more than twice its historic average.  
+The middle line has V/U fall to its 2012-2019 average – this reduces inflation, albeit quite 
+slowly. By the end of 2026, inflation is still well above target in this scenario. 
+The bottom line of the three embodies a fall in V/U to a level last seen around 2009-2013, 
+when the labour market was very loose and wage growth was historically low (see Chart 
+3). This scenario sees inflation fall more rapidly, approaching the 2% target by the end of 
+2026. It is worth noting that this is still a relatively slow decline in inflation, and slower than 
+that in the November 2023 MPR forecast (under both mode and mean forecasts). That is, 
+the BB model finds UK inflation to be ‘stickier’ than the MPC forecast. 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2023q1
+2024q1
+2025q1
+2026q1
+Data
+V/U=0.72
+V/U→0.43
+V/U→0.2
+
+
+Bank of England  
+ 
+ Page 21 
+ 
+ 
+7. Conclusion and policy 
+We have used a simple and transparent model to ask and answer a number of pressing 
+questions around UK inflation. Our questions and answers are as follows. 
+First, regarding the past: 
+• Was the MPC right to regard the shortages and energy price shocks of 2021 
+as transitory? 
+• Yes. The average shock to energy prices and shortages works quickly through the 
+inflation process. Food price shocks are more persistent, but food price inflation 
+only contributed meaningfully to CPI inflation in 2022. In the event, the repeated, 
+co-incident and large shocks meant sustained high inflation. Crucially, nobody could 
+have reasonably foreseen this historically unprecedented pattern of shocks. 
+Second, turning to the future: 
+• Does the current outlook suggest scope for moderation in rates anytime 
+soon? 
+• No. The labour market is still historically tight. At current rates of change it would 
+take at least a year to fall back to average pre-pandemic tightness, with the precise 
+time depending critically on the greater the degree to which matching in the labour 
+market has been impaired. Rates will have to be held higher and longer than many 
+seem to be expecting. 
+Two final comments on past and the future. The first point above leads one to ask the 
+question: was the MPC too late in tightening policy? The model cannot tell you about the 
+optimal speed or timing of rate rises. But I would offer the following comment. What the 
+model clearly suggests was that inflation started rising during mid-2021 not because of 
+excessive demand, but because of supply: the energy and shortages shocks. Further, 
+rising inflation gathered momentum because of the sequence of very large shocks.11 It was 
+only in late 2021 that labour market pressures emerged, which was when the MPC started 
+tightening.12 And it tightened well ahead of the Federal Reserve and the ECB. 
+Finally, on the future, my thinking about the medium-term path of rates is informed by the 
+framework above, which suggests some important signals of persistent inflation (which 
+also have been stressed in recent MPC communications). First, the matching efficiency of 
+ 
+11 Huw Pill has stressed the multiplicity of shocks hitting the economy.  
+12 I base this remark on the evidence of a speech I gave in Glasgow in November 2021 (Haskel, 2021). I 
+stated that if the labour market were to tighten, as shown for example by the V/U ratio, rates would have to 
+rise. I think this helps explain my subsequent voting. 
+
+
+Bank of England  
+ 
+ Page 22 
+ 
+the labour market appears to have been impaired since the pandemic, “tightening” the 
+labour market.13 Second, productivity growth remains in the doldrums, putting upward 
+pressure on costs. Third, if “catch-up” becomes more apparent, this would indicate 
+continuing unexpected wage pressure. Finally, expectations are crucial, but are currently 
+well-anchored. Monitoring these measures is, in my view, important in setting policy to 
+return inflation sustainably to target. 
+ 
+ 
+ 
+My thanks to Josh Martin for his help preparing this speech, and to Lennart Brandt who 
+also co-authored the paper on which this speech is largely based. Thanks to  
+Andrew Bailey, Ben Broadbent, Natalie Burr, Fabrizio Cadamagnani, Alan Castle, 
+Catherine Mann and Huw Pill for very helpful comments. Any errors are my own. 
+ 
+ 
+13 I discussed this in a recent speech (Haskel, 2023).

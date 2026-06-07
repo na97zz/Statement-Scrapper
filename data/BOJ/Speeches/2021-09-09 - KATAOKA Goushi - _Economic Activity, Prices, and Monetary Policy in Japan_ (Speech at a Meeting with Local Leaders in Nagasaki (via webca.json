@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Nagasaki (via webcast))",
+  "date_original": "2021-09-09",
+  "date_au": "09/09/2021",
+  "datetime_original": "",
+  "speaker": "KATAOKA Goushi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210909a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-09-09 - KATAOKA Goushi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Nagasaki (via webca.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-09-09 - KATAOKA Goushi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Nagasaki (via webca.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "03830774a3b539e7d7a7b2dcd43bc0312251bd143da76f577b1511f7af81809b"
+}

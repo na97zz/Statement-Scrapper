@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary sovereignty in the digital age: the case for a digital euro",
+  "date_original": "2024-09-27",
+  "date_au": "27/09/2024",
+  "datetime_original": "",
+  "speaker": "Monetary sovereignty in the digital age",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240927~11ed8493a4.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-09-27 - Monetary sovereignty in the digital age - Monetary sovereignty in the digital age_ the case for a digital euro.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-09-27 - Monetary sovereignty in the digital age - Monetary sovereignty in the digital age_ the case for a digital euro.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cb7acc2ee40492e7216021b50ea269aba56d7a70c99a05886357699745887db2"
+}

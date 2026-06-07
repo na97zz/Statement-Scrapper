@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "More than an intellectual game: exploring the monetary policy and financial stability implications of central bank digital currencies",
+  "date_original": "2022-04-08",
+  "date_au": "08/04/2022",
+  "datetime_original": "",
+  "speaker": "More than an intellectual game",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220408~980e39957b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-04-08 - More than an intellectual game - More than an intellectual game_ exploring the monetary policy and financial stability implications of ce.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-04-08 - More than an intellectual game - More than an intellectual game_ exploring the monetary policy and financial stability implications of ce.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3b2a133965597d0f9068631e77dcb475539f15beeb27adb01e29ef79195cf7b2"
+}

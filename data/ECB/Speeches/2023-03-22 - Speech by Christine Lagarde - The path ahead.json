@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The path ahead",
+  "date_original": "2023-03-22",
+  "date_au": "22/03/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230322~306119d102.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-03-22 - Speech by Christine Lagarde - The path ahead.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-03-22 - Speech by Christine Lagarde - The path ahead.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "210464d9de6247145fee3c0b5ed40b7a9e609259d877c89908911ee9d7dba0ad"
+}

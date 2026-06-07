@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "(Reference) Decisions on Disposal of ETFs and J-REITs (September 2025 MPM) [PDF 97KB]",
+  "date_original": "2025-09-19",
+  "date_au": "19/09/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250919b.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2025-09-19 - (Reference) Decisions on Disposal of ETFs and J-REITs (September 2025 MPM) [PDF 97KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2025-09-19 - (Reference) Decisions on Disposal of ETFs and J-REITs (September 2025 MPM) [PDF 97KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f2341addf29a6505d6213ad4ac3d8b1b79b1e9f38ab4c696701194d73c6a7f9a"
+}

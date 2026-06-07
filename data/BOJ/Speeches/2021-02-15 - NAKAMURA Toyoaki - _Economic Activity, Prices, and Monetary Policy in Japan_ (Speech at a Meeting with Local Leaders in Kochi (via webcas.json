@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kochi (via webcast))",
+  "date_original": "2021-02-15",
+  "date_au": "15/02/2021",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210215a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-02-15 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kochi (via webcas.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-02-15 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kochi (via webcas.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "33527294bb88c51a7f1f49b6098d7b138212d83d888807e189a50baf569dcbec"
+}

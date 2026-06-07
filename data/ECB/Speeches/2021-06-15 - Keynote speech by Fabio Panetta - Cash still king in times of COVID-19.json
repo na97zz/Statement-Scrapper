@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Cash still king in times of COVID-19",
+  "date_original": "2021-06-15",
+  "date_au": "15/06/2021",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210615~05b32c4e55.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-06-15 - Keynote speech by Fabio Panetta - Cash still king in times of COVID-19.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-06-15 - Keynote speech by Fabio Panetta - Cash still king in times of COVID-19.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "55082876d5e90135a80a694e6a78a6e43ea2c355fe9726556cce66d4a2604b6e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Welcome address at the fifth ECB Forum on Banking Supervision",
+  "date_original": "2023-11-30",
+  "date_au": "30/11/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231130~48f5947179.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-11-30 - Speech by Christine Lagarde - Welcome address at the fifth ECB Forum on Banking Supervision.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-11-30 - Speech by Christine Lagarde - Welcome address at the fifth ECB Forum on Banking Supervision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b7dcccf83739ed05606bb3cc9f77c18d0b6e7ff9ddbb091382fa6bf82d9400eb"
+}

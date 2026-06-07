@@ -1,0 +1,2918 @@
+BANK: BOE
+CATEGORY: Monetary Policy
+TITLE: Monetary Policy Report - August 2024
+DATE: 01/06/2024
+SPEAKER: 
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2024/august/monetary-policy-report-august-2024.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England
+Monetary Policy Report 
+Monetary Policy Committee  
+August 2024
+
+
+Monetary policy at the Bank of England 
+The objectives of monetary policy 
+The Bank’s Monetary Policy Committee (MPC) sets monetary policy to keep inflation low and 
+stable, which supports growth and jobs. Subject to maintaining price stability, the MPC is also 
+required to support the Government’s economic policy. 
+The Government has set the MPC a target for the 12-month increase in the Consumer Prices 
+Index of 2%. 
+The 2% inflation target is symmetric and applies at all times. 
+The MPC’s remit recognises, however, that the actual inflation rate will depart from its target 
+as a result of shocks and disturbances, and that attempts to keep inflation at target in these 
+circumstances may cause undesirable volatility in output. In exceptional circumstances, the 
+appropriate horizon for returning inflation to target can vary. The MPC will communicate how 
+and when it intends to return inflation to the target. 
+The instruments of monetary policy 
+The MPC currently uses two main monetary policy tools. First, we set the interest rate that 
+banks and building societies earn on deposits, or ‘reserves’, placed with the Bank of England 
+– this is Bank Rate. Second, we can buy government and corporate bonds, financed by the
+issuance of central bank reserves – this is asset purchases or quantitative easing. 
+The Monetary Policy Report 
+The MPC is committed to clear, transparent communication. The Monetary Policy Report 
+(MPR) is a key part of that. It allows the MPC to share its thinking and explain the reasons for 
+its decisions. 
+The Report is produced quarterly by Bank staff under the guidance of the members of the 
+MPC.  
+This Report has been prepared and published by the Bank of England in accordance with 
+section 18 of the Bank of England Act 1998. 
+Bank of England  
+Page 1
+
+
+The Monetary Policy Committee 
+• Andrew Bailey, Chair
+• Sarah Breeden
+• Swati Dhingra
+• Megan Greene
+• Jonathan Haskel
+• Clare Lombardelli
+• Catherine L Mann
+• Huw Pill
+• Dave Ramsden
+PowerPoint™ versions of the Monetary Policy Report charts and Excel spreadsheets of the 
+data underlying most of them are available at http://www.bankofengland.co.uk/monetary-
+policy-report/2024/august-2024. 
+© Bank of England 2024 
+ISSN 2633-7819 
+Bank of England  
+Page 2
+
+
+ Contents 
+Monetary Policy Summary 
+4 
+1: The economic outlook 
+6 
+  1.1: The conditioning assumptions underlying the MPC’s projections 
+8 
+  1.2: Key judgements and risks 
+9 
+Box A: Reviewing the process of quantitative tightening 
+22 
+Box B: Monetary policy since the May 2024 Report 
+28 
+2: Current economic conditions 
+30 
+  2.1: Global economy and financial markets 
+32 
+  2.2: Domestic credit conditions 
+37 
+  2.3: Domestic activity and the labour market 
+42 
+  2.4: Inflation and wages 
+50 
+Box C: Monitoring the impact of recent monetary policy tightening 
+on the economy 
+61 
+Box D: Agents’ update on business conditions 
+71 
+Annex 1: Other forecasters’ expectations 
+76 
+Annex 2: How has the economy evolved recently relative to the 
+MPC’s projections? 
+78 
+Glossary and other information 
+88 
+Bank of England  
+Page 3
+
+
+Monetary Policy Summary
+The Monetary Policy Committee (MPC) sets monetary policy to meet the 2% inflation target, and in a
+way that helps to sustain growth and employment. The MPC adopts a medium-term and forward-
+looking approach to determine the monetary stance required to achieve the inflation target
+sustainably.
+At its meeting ending on 31 July 2024, the MPC voted by a majority of 5–4 to reduce Bank Rate by
+0.25 percentage points, to 5%. Four members preferred to maintain Bank Rate at 5.25%.
+The Committee has published an updated set of projections for activity and inflation in the
+accompanying August Monetary Policy Report.
+Twelve-month CPI inflation was at the MPC’s 2% target in both May and June. CPI inflation is
+expected to increase to around 2¾% in the second half of this year, as declines in energy prices last
+year fall out of the annual comparison, revealing more clearly the prevailing persistence of domestic
+inflationary pressures. Private sector regular average weekly earnings growth has fallen to 5.6% in
+the three months to May, and services consumer price inflation has declined to 5.7% in June. GDP
+has picked up quite sharply so far this year, but underlying momentum appears weaker.
+The Committee’s framework for assessing the medium-term outlook for inflation distinguishes
+between first and second-round effects. The MPC has been focused on second-round effects that
+capture more persistent inflationary pressures. The Committee continues to monitor the accumulation
+of evidence from a broad range of indicators.
+The Committee expects the fall in headline inflation, and normalisation in many indicators of inflation
+expectations, to continue to feed through to weaker pay and price-setting dynamics. A margin of
+slack should emerge in the economy as GDP falls below potential and the labour market eases
+further. Domestic inflationary persistence is expected to fade away over the next few years, owing to
+the restrictive stance of monetary policy.
+However, there is a risk that inflationary pressures from second-round effects will prove more
+enduring in the medium term. A stronger-than-expected path for demand, and structural factors such
+as a higher equilibrium rate of unemployment, could affect domestic wage and price-setting more
+persistently. Furthermore, the degree of restrictiveness of monetary policy could be less than
+embodied in the Committee’s current assessment.
+In balancing these considerations, at this meeting, the Committee voted to reduce Bank Rate to 5%.
+It is now appropriate to reduce slightly the degree of policy restrictiveness. The impact from past
+external shocks has abated and there has been some progress in moderating risks of persistence in
+inflation. Although GDP has been stronger than expected, the restrictive stance of monetary policy
+continues to weigh on activity in the real economy, leading to a looser labour market and bearing
+down on inflationary pressures.
+Bank of England  
+Page 4
+
+
+Monetary policy will need to continue to remain restrictive for sufficiently long until the risks to
+inflation returning sustainably to the 2% target in the medium term have dissipated further. The
+Committee continues to monitor closely the risks of inflation persistence and will decide the
+appropriate degree of monetary policy restrictiveness at each meeting.
+Bank of England  
+Page 5
+
+
+1: The economic outlook
+Twelve-month CPI inflation was at the MPC’s 2% target in May and June, close to the
+projection in the May Monetary Policy Report. GDP has picked up quite sharply so far this
+year, but underlying momentum appears weaker.
+Four-quarter GDP growth is expected to fall back a little next year in the Committee’s modal or
+most likely projection, but then increase again over the remainder of the forecast period, to
+around 1¾% (Key judgement 1). That pickup in part reflects the fading negative impact on
+growth from past increases in Bank Rate and the downward-sloping market-implied path of
+forward interest rates, which begin to boost growth towards the end of the period. The risks
+around the modal projection for GDP growth are skewed slightly to the upside over the first
+two years of the forecast period.
+In the modal projection, aggregate demand and supply are judged to be broadly in balance
+currently, but a margin of economic slack is projected to emerge during 2025 and to remain
+thereafter, reflecting the continued restrictive stance of monetary policy (Key judgement 2).
+Unemployment is expected to rise somewhat. The risks around the modal output gap
+projection are judged to be skewed to the upside in part reflecting the possibility of a higher
+medium-term equilibrium rate of unemployment pushing down on supply relative to demand.
+CPI inflation is expected to increase to around 2¾% in the second half of this year as declines
+in energy prices last year fall out of the annual comparison, revealing more clearly the
+prevailing persistence of domestic inflationary pressures (Chart 1.1). The Committee
+continues to expect second-round effects in domestic prices and wages to take longer to
+unwind than they did to emerge (Key judgement 3). There remains considerable uncertainty
+around the calibration of this judgement and a range of views among MPC members about
+the extent to which persistent pressures prove more enduring or continue to unwind as
+external cost pressures and inflation expectations have normalised.
+In the MPC’s modal projection conditioned on the market-implied path of interest rates, CPI
+inflation falls back to 1.7% in two years’ time and to 1.5% in three years, reflecting the
+continued restrictive stance of monetary policy and the emergence of a margin of slack in the
+economy. The risks around the modal CPI projection are skewed somewhat to the upside
+throughout the forecast period, reflecting more persistence in domestic wage and price-
+setting. That could reflect more structural factors such as the possibility of a higher equilibrium
+rate of unemployment. Mean CPI inflation is 2.0% and 1.8% at the two and three-year
+horizons respectively.
+Bank of England  
+Page 6
+
+
+Table 1.A: Forecast summary (a) (b)
+2024 Q3
+2025 Q3
+2026 Q3
+2027 Q3
+GDP (c)
+1.5 (0.5)
+0.8 (0.9)
+1.4 (1.3)
+1.7
+Modal CPI inflation (d)
+2.3 (2.2)
+2.4 (2.5)
+1.7 (1.8)
+1.5
+Mean CPI inflation (d)
+2.3 (2.4)
+2.5 (2.6)
+2.0 (1.8)
+1.8
+Unemployment rate (e)
+4.4 (4.3)
+4.6 (4.7)
+4.8 (4.9)
+4.6
+Excess supply/Excess demand (f)
+0 (-¼)
+-1 (-1)
+-1¼ (-1¼)
+-¾
+Bank Rate (g)
+5.1 (5.0)
+4.2 (4.4)
+3.8 (3.9)
+3.5
+(a) Figures in parentheses show the corresponding projections in the May 2024 Monetary Policy Report.
+(b) Unless otherwise stated, the numbers shown in this table are modal projections and are conditioned on the assumptions described
+in Section 1.1.
+(c) Four-quarter growth in real GDP.
+(d) Four-quarter inflation rate. The modal projection is the single most likely outcome. If the risks are symmetrically distributed around
+this central view, this will also provide a view of the average outcome or mean forecast. But when the risks are skewed, as in the
+current forecast, the mean projection will differ from the mode.
+(e) ILO definition of unemployment. Although LFS unemployment data have been re-instated by the ONS, they are badged as official
+statistics in development and the LFS continues to suffer from very low response rates, which can introduce volatility and potentially
+non-response bias (see Box D in the May 2024 Monetary Policy Report).
+(f) Per cent of potential GDP. A negative figure implies output is below potential and a positive that it is above.
+(g) Per cent. The path for Bank Rate implied by forward market interest rates. The curves are based on overnight index swap rates.
+Chart 1.1: CPI inflation and CPI inflation excluding energy (a)
+Sources: Bloomberg Finance L.P., ONS and Bank calculations.
+(a) Energy prices include fuels and lubricants, electricity, gas and other fuels.
+Bank of England  
+Page 7
+
+
+1.1: The conditioning assumptions underlying the MPC’s projections
+As set out in Table 1.B, the MPC’s August projections are conditioned on:
+The paths for policy rates in advanced economies implied by financial markets, as captured in the
+15 working day averages of forward interest rates to 22 July (Chart 2.7). The market-implied path
+for Bank Rate underpinning the August projections declines to around 3½% by the end of the
+three-year forecast period, compared with an endpoint of around 3¾% in the May Report.
+A path for the sterling effective exchange rate index that is around 2½% higher compared with the
+May Report. The exchange rate depreciates slightly over the forecast period, reflecting the role of
+expected interest rate differentials in the Committee’s conditioning assumption.
+Wholesale energy prices that follow their respective futures curves over the forecast period. Since
+May, oil prices have fallen, while gas futures prices are slightly higher. Uncertainty remains around
+the outlook for wholesale energy prices, including related to geopolitical developments.
+UK household energy prices that move in line with Bank staff estimates of the Ofgem price cap
+implied by the paths of wholesale gas and electricity prices (Section 2.4).
+Fiscal policy that evolves in line with UK government policies to date, as announced in Spring
+Budget 2024. The Government has announced that any changes in the stance of fiscal policy will
+be set out in the Budget on 30 October. These will be incorporated in the November Monetary
+Policy Report projections.
+Bank of England  
+Page 8
+
+
+Table 1.B: Conditioning assumptions (a) (b)
+Average
+1998–2007
+Average
+2010–19
+2022
+2023
+2024
+2025
+2026
+Bank Rate
+(c)
+5.0
+0.5
+2.8
+5.3
+4.9 (4.8)
+4.1 (4.3)
+3.7 (3.8)
+Sterling
+effective
+exchange
+rate (d)
+100
+82
+78
+81
+84 (82)
+84 (82)
+83 (81)
+Oil prices
+(e)
+39
+77
+89
+84
+83 (85)
+78 (79)
+75 (75)
+Gas prices
+(f)
+29
+52
+201
+101
+92 (88)
+95 (91)
+84 (79)
+Nominal
+government
+expenditure
+(g)
+7¼
+2¼
+4
+7.0
+2¾ (2½)
+2¼ (2½)
+2¾ (2¾)
+1.2: Key judgements and risks
+1.2: Key judgement 1
+Activity has picked up quite sharply so far this year, but underlying momentum appears
+weaker. Four-quarter GDP growth is expected to fall back a little next year in the Committee’s
+modal or most likely projection, but then increase again over the remainder of the forecast
+period, to around 1¾%.
+Following weakness last year, UK GDP increased by 0.7% in 2024 Q1 and is now expected to have
+risen by 0.7% in Q2 (Section 2.3), compared with projections of 0.4% and 0.2% respectively in the
+May Report. Based on readings from business surveys, underlying momentum in activity is judged to
+Sources: Bank of England, Bloomberg Finance L.P., LSEG Workspace, Office for Budget Responsibility (OBR), ONS and Bank
+calculations.
+(a) The table shows the projections for financial market prices, wholesale energy prices and government spending projections that are
+used as conditioning assumptions for the MPC’s projections for CPI inflation, GDP growth and the unemployment rate. Figures in
+parentheses show the corresponding projections in the May 2024 Report.
+(b) Financial market data are based on averages in the 15 working days to 22 July 2024. Figures show the average level in Q4 of each
+year, unless otherwise stated.
+(c) Per cent. The path for Bank Rate implied by forward market interest rates. The curves are based on overnight index swap rates.
+(d) Index. January 2005 = 100. The convention is that the sterling exchange rate follows a path that is halfway between the starting
+level of the sterling ERI and a path implied by interest rate differentials.
+(e) Dollars per barrel. Projection based on monthly Brent futures prices.
+(f) Pence per therm. Projection based on monthly natural gas futures prices.
+(g) Annual average growth rate. Nominal general government consumption and investment. Projections are based on the OBR’s March
+2024 Economic and Fiscal Outlook. Historical data based on NMRP+D7QK.
+Bank of England  
+Page 9
+
+
+be weaker than headline GDP growth. Quarterly GDP growth is expected to fall back to 0.4% in 2024
+Q3 and to 0.2% in Q4, broadly consistent with the current signal from surveys.
+The MPC’s August projections are conditioned on fiscal policy that evolves in line with UK
+government policies, as announced in Spring Budget 2024. After taking account of those plans and of
+the fading impact of past loosening measures, the stance of fiscal policy tightens over the forecast
+period. This pulls down on the Committee’s GDP growth projection beyond the near term.
+Box C in this Report sets out the latest evidence on the transmission of higher Bank Rate to GDP
+through the domestic economy. Based on the average relationships over the past between Bank
+Rate and economic activity, Bank staff estimate that under the current market-implied path for interest
+rates, including its expected impact on broader financial conditions, most of the domestic impact of
+higher interest rates since the middle of 2021 on the level of GDP should be expected to have come
+through. The remaining impact is likely to drag further on the level of GDP in the near term.
+Growth rates across advanced economies have generally converged at the start of this year (Section
+2.1). UK-weighted world GDP increased by 0.5% in 2024 Q1 and is projected to grow at a similar
+pace for the rest of this year. In the August Report, the path of global growth is broadly unchanged
+from May, although the path of world trade is somewhat stronger during the middle of the forecast
+period reflecting developments in the euro area. Four-quarter UK-weighted world GDP growth is
+projected to rise to just over 2% in the medium term, slightly below its average rate in the decade
+prior to the pandemic (Table 1.D).
+Overall, in the Committee’s August modal or most likely projection, UK four-quarter GDP growth is
+projected to fall back a little next year but then increase again over the remainder of the forecast
+period, to around 1¾% (Chart 1.2). That pickup in part reflects the fading negative impact on growth
+from past increases in Bank Rate and the downward-sloping market-implied path of forward interest
+rates, which begin to boost growth towards the end of the period. Notwithstanding the higher starting
+point, the pace of GDP growth in the August projection is broadly similar to the May Report over
+much of the forecast period.
+Within the key private domestic expenditure components underpinning the August modal GDP
+projection (Table 1.D), household spending growth is expected to be only slightly positive this
+calendar year, although this in large part reflects the effect on the annual average of declines in
+consumption in 2023 H2. Spending is expected to increase steadily throughout the forecast period.
+The saving ratio is expected to peak at around 12% of household income in 2024 Q3, before falling
+back over the remainder of the forecast period. Following a period of pronounced weakness in 2023,
+housing investment is expected to grow moderately over the forecast period, stronger than expected
+in the May Report. Business investment is projected to grow by around 2% on a year earlier
+throughout much of the forecast period, a smoother profile than in May.
+Bank of England  
+Page 10
+
+
+In the modal GDP projection conditioned on the alternative assumption of constant interest rates at
+5% over the forecast period, growth is weaker compared with the MPC’s projection conditioned on
+the declining path of market-implied rates.
+There are risks in both directions around the central projections for UK GDP and, for a given path of
+potential supply, around the output gap (Key judgement 2).
+Internationally, the continuing risk of higher commodity prices and disruption to trade flows
+associated with developments in the Middle East could, alongside other significant geopolitical
+uncertainties, lead to weaker economic activity as well as greater external inflationary pressures (Key
+judgement 3). There remains a downside risk to global growth if domestic demand in China proves to
+be softer than expected. In the other direction, there may be a near-term upside risk to global activity
+Chart 1.2: GDP growth projection based on market interest rate expectations, other policy
+measures as announced
+The fan chart depicts the probability of various outcomes for GDP growth. It has been conditioned on Bank Rate following a path
+implied by market yields, but allows the Committee’s judgement on the risks around the other conditioning assumptions set out in
+Section 1.1, including wholesale energy prices, to affect the calibration of the fan chart skew. To the left of the shaded area, the
+distribution reflects uncertainty around revisions to the data over the past. To the right of the shaded area, the distribution reflects
+uncertainty over the evolution of GDP growth in the future. If economic circumstances identical to today’s were to prevail on 100
+occasions, the MPC’s best collective judgement is that the mature estimate of GDP growth would lie within the darkest central band on
+only 30 of those occasions. The fan chart is constructed so that outturns are also expected to lie within each pair of the lighter aqua
+areas on 30 occasions. In any particular quarter of the forecast period, GDP growth is therefore expected to lie somewhere within the
+fan on 90 out of 100 occasions. And on the remaining 10 out of 100 occasions GDP growth can fall anywhere outside the aqua area of
+the fan chart. Over the forecast period, this has been depicted by the grey background. See the Box on page 39 of the November 2007
+Inflation Report for a fuller description of the fan chart and what it represents. The y-axis of the chart has been truncated to illustrate
+more clearly the current uncertainty around the path of GDP growth, as otherwise this would be obscured by the volatility of GDP
+growth during the pandemic.
+The risks around the modal projection for GDP growth are judged to be skewed slightly to
+the upside over the first two years of the forecast period.
+Bank of England  
+Page 11
+
+
+if the recent resilience of advanced-economy labour markets were to persist, although that could also
+lead the stance of monetary policy to be more restrictive than otherwise. There is also uncertainty
+around the path of fiscal policy in advanced economies.
+As discussed in Box C, there is some evidence that the impact of increases in Bank Rate on UK GDP
+has peaked a little earlier and at a smaller level than in the estimates underpinning the Committee’s
+August central projection. It is also possible that the equilibrium real interest rate has risen
+somewhat, such that the stance of monetary policy is less restrictive than assumed (see Box C in the
+February 2024 Report). All else equal, these risks could imply a stronger path of demand over the
+forecast period. The Committee’s forecast has for some time, however, incorporated a judgement to
+boost the expected path of demand relative to its standard determinants, and so it is also possible
+that a slightly faster or weaker monetary transmission mechanism in this rate tightening cycle
+rationalises part of this judgement and so is already captured indirectly in the August central
+projection. The Committee will continue to monitor closely the impact of past changes in Bank Rate.
+Overall, the risks around the modal projection for UK GDP growth are skewed slightly to the upside
+over the first two years of the forecast period, allowing some of the recent momentum in domestic
+demand to continue for longer. This pushes up on the mean, relative to the modal, growth projections
+in the forecast. All else equal, this would also reduce slightly the degree of excess supply in the
+modal output gap projection (Key judgement 2) and hence increase domestic inflationary pressures
+slightly relative to the modal CPI projection (Key judgement 3).
+1.2: Key judgement 2
+In the Committee’s modal projection, aggregate demand and supply are judged to be broadly
+in balance currently, but a margin of economic slack is projected to emerge during 2025 and
+to remain thereafter, in part reflecting the continued restrictive stance of monetary policy.
+Unemployment is expected to rise somewhat.
+Following a period in 2021 and 2022 in which the economy was operating with excess demand,
+aggregate demand and supply are judged to have been broadly in balance by the end of last year.
+Given the upside news on GDP expected over the first three quarters of 2024, the Committee has
+considered carefully the extent to which this reflects developments in the balance of aggregate
+demand and supply. In general, the MPC’s approach is to calibrate its judgement on the starting level
+of the output gap based on a range of data and modelling approaches, including the extent to which
+news in GDP is consistent with developments in capacity utilisation, labour market tightness and
+other domestic inflationary pressures in the economy. In recent forecast rounds, GDP has first
+surprised to the downside and, more recently, to the upside (Annex 2). Indicators of utilisation and
+tightness have moved by much less across this period and, as a result, the Committee judges that
+the output gap has been more stable than movements in the GDP data might otherwise imply.
+The MPC is continuing to consider the collective steer from a wide range of data to inform its view on
+labour market developments. As discussed in Box D in the May 2024 Monetary Policy Report and the
+June 2024 MPC Minutes, there remains considerable uncertainty around statistics derived from the
+Bank of England  
+Page 12
+
+
+ONS Labour Force Survey, making it more difficult to gauge the underlying state of labour market
+activity.
+Based on a broad set of indicators, the MPC continues to judge that the labour market is loosening
+but that it remains relatively tight by historical standards (Section 2.3). Bank staff estimates suggest
+that the unemployment rate has been broadly stable over the past few quarters at a level somewhat
+below the LFS measure, which has risen to 4.4%. The number of vacancies and the vacancies to
+unemployment ratio have fallen further, the latter returning to around its pre-pandemic level.
+Underlying employment growth is estimated to have been stronger than LFS employment over the
+past few quarters, and to have been broadly in line with population growth. To the extent that
+businesses responded to weakness in GDP in the second half of last year by retaining their existing
+employees and using them somewhat less intensively, the recent strength of GDP growth has been
+accommodated without the need for businesses to increase headcount significantly.
+Overall, the Committee judges in its modal projection that the margin of spare capacity in the
+economy is only slightly reduced at the start of this forecast compared with the May projection, and
+that demand and supply have remained broadly in balance so far this year.
+The Committee has not adjusted its expectation of potential supply growth in this Report beyond the
+first half of this year. Four-quarter supply growth is projected to average around 1½% during the
+second and third years of the forecast period.
+As in previous forecasts, demand growth is expected to be weaker than potential supply growth
+during 2025, such that a margin of economic slack is projected to emerge in the Committee’s modal
+projection. That in part reflects the continued restrictive stance of monetary policy, alongside the
+assumed tightening in the stance of fiscal policy. Aggregate excess supply is expected to reach
+around 1¼% of potential GDP by the end of 2025, broadly similar to the May Report. Thereafter,
+demand growth is expected to be slightly stronger than supply growth, such that the margin of
+economic slack starts to narrow gradually.
+Uncertainty around LFS data notwithstanding, the unemployment rate is projected to rise somewhat
+during the second year of the forecast period, such that it exceeds the assumed medium-term
+equilibrium rate of around 4½% by the middle of next year. The unemployment rate reaches around
+4¾% by the end of 2025 (Chart 1.3), broadly similar to the May Report, and remains around that
+level thereafter.
+Bank of England  
+Page 13
+
+
+In the modal projection conditioned on the alternative assumption of constant interest rates at 5%
+over the forecast period, the unemployment rate rises to a greater extent compared with the
+projection conditioned on market rates.
+The Committee recognises the significant uncertainty around real-time estimates of the output gap,
+including the extent to which recent upside news in GDP could represent the re-emergence of a
+small margin of excess demand in the economy. All else equal, further positive surprises in activity
+data or signs of weakness in the supply side of the economy would suggest an upside risk around
+the Committee’s central projection for the output gap and hence greater domestic inflationary
+pressures (Key judgement 3). Set against that, external forecasters generally assume that there has
+been a greater margin of spare capacity in the economy recently.
+Reflecting the continuing uncertainties around interpreting estimates from the LFS, there are risks in
+both directions around the recent path of the unemployment rate, and hence the outlook for
+unemployment and labour market tightness. The labour market could remain tighter or looser than
+assumed for a number of economic reasons, including the risks around the outlook for demand (Key
+judgement 1).
+Chart 1.3: Unemployment rate projection based on market interest rate expectations, other
+policy measures as announced
+The fan chart depicts the probability of various future outcomes for the ILO definition of unemployment and begins in 2024 Q2.
+Although LFS unemployment data have recently been re-instated by the ONS, they are badged as official statistics in development and
+the LFS continues to suffer from very low response rates, which can introduce volatility and potentially non-response bias (see Box D
+in the May 2024 Monetary Policy Report). The fan chart has been conditioned on Bank Rate following a path implied by market yields,
+but allows the Committee’s judgement on the risks around the other conditioning assumptions set out in Section 1.1, including
+wholesale energy prices, to affect the calibration of the fan chart skew. The coloured bands have the same interpretation as in Chart
+1.2 and portray 90% of the probability distribution. A significant proportion of this distribution lies below Bank staff’s current estimate of
+the long-term equilibrium unemployment rate. There is therefore uncertainty about the precise calibration of this fan chart.
+The risks around the modal output gap projection are judged to be skewed to the upside.
+Bank of England  
+Page 14
+
+
+There is also continuing significant uncertainty around the MPC’s assumption for the path of the
+equilibrium rate of unemployment, news in which would, holding demand fixed, have implications for
+labour market tightness and inflationary pressures. The Committee made an upward adjustment to
+the medium-term equilibrium rate in the November 2023 Report, reflecting a greater degree of real
+income resistance following the terms of trade shock to the economy. It remains possible that the
+equilibrium rate of unemployment is even higher, consistent with more persistence in future wage
+growth. There has, however, been some evidence of a normalisation in the Beveridge curve
+relationship between the vacancies and unemployment rates that could imply a lower equilibrium
+unemployment rate if it were to continue.
+Overall, the risks around the modal projection for the output gap are skewed to the upside at the start
+of and throughout the forecast period. This can be accounted for in part by the positive skew that has
+been incorporated into the GDP growth projection (Key judgement 1) but to a larger extent by the
+possibility of a higher medium-term equilibrium rate of unemployment pushing down on supply
+relative to demand. All else equal, this increases domestic inflationary pressures relative to the modal
+CPI projection (Key judgement 3).
+1.2: Key judgement 3
+CPI inflation is expected to increase to around 2¾% in the second half of this year as declines
+in energy prices last year fall out of the annual comparison, revealing more clearly the
+prevailing persistence of domestic inflationary pressures. The Committee continues to expect
+second-round effects in domestic prices and wages to take longer to unwind than they did to
+emerge.
+Twelve-month CPI inflation was at the MPC’s 2% target in May and June, close to the projection in
+the May Report. The decline in CPI inflation since the start of this year has primarily reflected lower
+goods price inflation, alongside a small fall in services price inflation. Many indicators of household
+and business inflation expectations have normalised to around their 2010–19 averages (Section 2.4).
+CPI inflation is projected to increase in 2024 Q3 and in Q4, to around 2¾%, similar to the May
+Report. This profile of inflation over the second half of the year is accounted for largely by
+developments in the direct energy price contribution to 12-month CPI inflation, which is projected to
+become less negative during Q3 and Q4 compared with Q2 (Chart 1.1). CPI inflation excluding
+energy is projected to be around 3¼% during the second half of the year, revealing more clearly the
+prevailing persistence of domestic inflationary pressures.
+Four-quarter UK-weighted world export price inflation, excluding the direct effect of oil prices, was
+negative at the end of last year, but is since expected to have picked up (Section 2.1). Over the
+forecast period, the recent appreciation of the sterling exchange rate and its assumed path is likely to
+put some downward pressure on UK import price inflation, and over time on CPI inflation, relative to
+the May Report. Import prices are projected to fall by ¾% in 2024 and by 1% in 2025 (Table 1.D).
+The Committee has retained its judgement from the May Report that a greater-than-usual proportion
+of the pass-through of previous large-scale increases in import prices to consumer goods prices has
+occurred already.
+Bank of England  
+Page 15
+
+
+The MPC has been monitoring closely indications of persistent inflationary pressures and resilience
+in the UK economy as a whole, including a range of measures of the underlying tightness of labour
+market conditions (Key judgement 2), wage growth and services price inflation.
+Annual private sector regular AWE growth declined to 5.6% in the three months to May, in line with
+expectations in the May Report, and broadly in line with alternative indicators of wage growth. The
+Bank’s Agents report that pay settlements will average just over 5½% this year, with tentative
+expectations of lower settlements for 2025 (Box E). Private sector regular AWE growth is expected to
+slow further in the near term, to around 5% during the rest of this year, similar to the May Report.
+Services CPI inflation has declined to 5.7% in June, higher than expected in the May 2024 Report.
+Services CPI inflation is expected to continue to ease only gradually over the course of this year, as
+wage growth weakens further.
+In the August modal projection for CPI inflation, the Committee has maintained its broad judgement
+that second-round effects in wages and domestic prices will take longer to unwind than they did to
+emerge. There remains considerable uncertainty around the calibration of this judgement and a
+range of views among MPC members about the extent to which persistent pressures prove more
+enduring or continue to unwind as external cost pressures and inflation expectations have normalised
+(as set out in the subsequent risks sub-section). The Committee is also considering the interactions
+between the outlook for demand, the margin of spare capacity in the economy (Key judgement 2)
+and its judgement on excess persistence.
+In the MPC’s modal projection conditioned on the market-implied path of interest rates as captured in
+the 15-working day average to 22 July, CPI inflation increases from the 2% target to around 2¾% at
+the turn of the year. Reflecting the continued restrictive stance of monetary policy and the emergence
+of a margin of slack in the economy (Key judgement 2), CPI inflation then falls back again, to 1.7% in
+two years’ time and to 1.5% in three years (Table 1.C and Chart 1.4). The August CPI inflation
+projection is similar to the May projection. Private sector regular AWE growth is expected to fall
+further during 2025 and reaches just under 3% towards the end of the forecast period, very similar to
+the May Report.
+Bank of England  
+Page 16
+
+
+Table 1.C: The quarterly modal projection for CPI inflation based on market rate expectations
+(a)
+2024 Q3
+2024 Q4
+2025 Q1
+2025 Q2
+2025 Q3
+CPI inflation
+2.3
+2.7
+2.7
+2.6
+2.4
+2025 Q4
+2026 Q1
+2026 Q2
+2026 Q3
+CPI inflation
+2.2
+2.0
+1.7
+1.7
+2026 Q4
+2027 Q1
+2027 Q2
+2027 Q3
+CPI inflation
+1.6
+1.5
+1.5
+1.5
+Chart 1.4: CPI inflation projection based on market interest rate expectations, other policy
+measures as announced
+The fan chart depicts the probability of various future outcomes for CPI inflation and begins in 2024 Q3. It has been conditioned on
+Bank Rate following a path implied by market yields, but allows the Committee’s judgement on the risks around the other conditioning
+assumptions set out in Section 1.1, including wholesale energy prices, to affect the calibration of the fan chart skew. If economic
+circumstances identical to today’s were to prevail on 100 occasions, the MPC’s best collective judgement is that inflation in any
+particular quarter would lie within the darkest central band on only 30 of those occasions. The fan chart is constructed so that outturns
+of inflation are also expected to lie within each pair of the lighter orange areas on 30 occasions. In any particular quarter of the forecast
+period, inflation is therefore expected to lie somewhere within the fans on 90 out of 100 occasions. And on the remaining 10 out of 100
+occasions inflation can fall anywhere outside the orange area of the fan chart. Over the forecast period, this has been depicted by the
+grey background. See the Box on pages 48–49 of the May 2002 Inflation Report for a fuller description of the fan chart and what it
+represents.
+(a) Four-quarter inflation rate.
+Bank of England  
+Page 17
+
+
+In the modal projection conditioned on the alternative assumption of constant interest rates at 5%
+over the forecast period, CPI inflation is expected to fall below 2% from 2025 Q4 onwards. This path
+is lower than the Committee’s modal projection conditioned on market rates.
+There are upside risks to inflation from a more enduring shift in domestic price and wage-setting
+behaviour, perhaps associated with a higher medium-term equilibrium rate of unemployment. The
+possibility of some upside risks to demand or other downside risks to potential supply could, via a
+smaller margin of spare capacity in the economy and given a relatively tight starting point for the
+labour market, also motivate a higher medium-term profile for domestically generated inflation.
+Acting in the other direction, the continued unwinding of the past shocks to energy and other
+imported goods prices may moderate the extent to which employees and domestic firms will seek
+higher nominal pay and domestic selling prices to recover the reductions in real incomes that they
+have experienced in the past. As headline CPI inflation and short-term inflation expectations have
+fallen further, inflationary dynamics could therefore adjust as rapidly on the downside as they did on
+the upside.
+On balance, the risks around the modal projection for CPI inflation are judged to be skewed
+somewhat to the upside throughout the forecast period, reflecting more persistence in domestic wage
+and price setting. In turn this can be attributed to the upside risks around the modal output gap
+projection in this forecast in part related to the possibility of a higher equilibrium rate of
+unemployment (Key judgement 2).
+The positive skew pushes up on the mean, relative to the modal, inflation projections in the forecast.
+Conditioned on market interest rates, mean CPI inflation is 2.0% and 1.8% at the two and three-year
+horizons respectively.
+The risks around the modal projection for UK CPI inflation from international factors are more
+balanced. Although they have been higher than expected, developments in Chinese export prices
+could pose a downside risk to UK inflation if past weakness were to re-assert itself, particularly if that
+were to encourage other countries to reduce their export prices as well. Although there has so far
+been a relatively limited impact on trade and oil prices from events in the Middle East, there is a risk
+of further intensification over a longer period. The possibility of greater trade fragmentation and
+increased trade restrictions could also push up on world export prices.
+The risks around the modal projection for CPI inflation are skewed somewhat to the upside,
+reflecting more persistence in domestic wage and price-setting.
+Bank of England  
+Page 18
+
+
+Table 1.D: Indicative projections consistent with the MPC's modal forecast (a) (b)
+World GDP
+(UK-
+weighted) (c)
+3
+2½
+3
+1¾
+2 (2)
+2¼ (2)
+2¼ (2¼)
+World GDP
+(PPP-
+weighted) (d)
+4
+3¾
+3½
+3¼
+3 (3¼)
+3 (3)
+3 (3)
+Euro-area
+GDP (e)
+2½
+1½
+3½
+½
+¾ (½)
+1½ (1½)
+1½ (1¾)
+US GDP (f)
+3
+2½
+2
+2½
+2½ (2¾)
+2 (1½)
+2 (2)
+Emerging
+market GDP
+(PPP-
+weighted) (g)
+5½
+5
+4
+4¼
+4¼ (4¼)
+4 (4)
+4 (3¾)
+  of which,
+China GDP (h)
+10
+7¾
+3
+5¼
+4¾ (5¼)
+4¼ (4¼)
+4 (4)
+UK GDP (i)
+2¾
+2
+4¼
+0
+1¼ (½)
+1 (1)
+1¼ (1¼)
+Household
+consumption
+(j)
+3¼
+2
+5
+¼
+½ (¼)
+1½ (1¼)
+1¾ (1¾)
+Business
+investment (k)
+3
+4¼
+9½
+5½
+1 (0)
+2¼ (1¼)
+2 (3½)
+Housing
+investment (l)
+3¼
+4
+9½
+-7½
+¾ (-4)
+2¾ (-¼)
+1½ (-1)
+Exports (m)
+4½
+3½
+9
+-½
+-3¼ (2)
+1¾ (1¼)
+2¾ (1)
+Imports (n)
+6
+4
+14¾
+-1½
+-1½ (½)
+4¼ (2½)
+3¼ (2¼)
+Contribution of
+net trade to
+GDP (o)
+-¼
+-¼
+-1¾
+¼
+-½ (½)
+-¾ (-½)
+-¼ (-½)
+Real post-tax
+labour income
+(p)
+3¼
+1½
+-2½
+¾
+3½ (3¼)
+1½ (1¼)
+½ (¼)
+Household
+saving ratio (q)
+7¼
+7¾
+8¼
+9¾
+11¾ (11)
+11¼ (11)
+10½ (9¾)
+Average
+1998–2007
+Average
+2010–19
+2022
+2023
+2024
+2025
+2026
+Bank of England  
+Page 19
+
+
+Credit spreads
+(r)
+¾
+2½
+1
+¾
+1 (1)
+1¼ (1¼)
+1½ (1½)
+Excess
+supply/Excess
+demand (s)
+0
+-1¾
+1½
+½
+-¼ (-¼)
+-¾ (-1)
+-1¼ (-1¼)
+Labour
+productivity
+(output per
+worker) (t)
+1¾
+¾
+3
+-½
+1½ (½)
+¼ (½)
+¾ (½)
+Employment
+(u)
+1
+1¼
+1¼
+¼
+0 (0)
+¾ (½)
+¾ (¾)
+Working-age
+(16+)
+population (v)
+¾
+¾
+1
+¾
+¾ (¾)
+1 (1)
+1 (1)
+LFS
+unemployment
+rate (w)
+5¼
+6
+4
+3¾
+4½ (4¼)
+4¾ (4¾)
+4¾ (4¾)
+Participation
+rate (x)
+63
+63½
+63
+62¾
+62¾ (62¾)
+62½ (62½)
+62½ (62½)
+CPI inflation
+(y)
+1½
+2¼
+10¾
+4¼
+2¾ (2½)
+2¼ (2¼)
+1½ (1½)
+UK import
+prices (z)
+-¼
+1¼
+12½
+½
+-¾ (-1¾)
+-1 (-¼)
+-¼ (-¼)
+Energy prices
+– direct
+contribution to
+CPI inflation
+(aa)
+¼
+¼
+3¾
+-1¼
+-¼ (-¼)
+0 (¼)
+-¼ (-0)
+Private sector
+regular
+average
+weekly
+earnings
+(AWE) (ab)
+4
+2¼
+7¼
+6¼
+5 (5)
+3 (3)
+2¾ (2¾)
+Private sector
+regular pay-
+based unit
+wage costs
+(ac)
+2
+1½
+7
+7
+2 (3¾)
+3 (2¾)
+1¾ (1¾)
+Sources: Bank of England, Bloomberg Finance L.P., Department for Energy Security and Net Zero, Eurostat, IMF World Economic
+Outlook (WEO), National Bureau of Statistics of China, ONS, US Bureau of Economic Analysis and Bank calculations.
+Bank of England  
+Page 20
+
+
+(a) The profiles in this table should be viewed as broadly consistent with the MPC’s modal projections for GDP growth, CPI inflation
+and unemployment (as presented in the fan charts). Staff have updated the set of profiles included here to align better with the data
+coverage in the wider Monetary Policy Report. The key changes relative to the table in the May 2024 Report are: the addition of
+population growth; the replacement of productivity growth (output per hour worked) with productivity growth (output per worker); the
+replacement of whole-economy average weekly earnings growth with private sector regular average weekly earnings growth; and the
+removal of real post-tax household income, average hours worked, and whole-economy unit labour cost growth.
+(b) Figures show annual average growth rates unless otherwise stated. Figures in parentheses show the corresponding projections in
+the May 2024 Monetary Policy Report. Calculations for back data based on ONS data are shown using ONS series identifiers.
+(c) Chained-volume measure. Constructed using real GDP growth rates of 188 countries weighted according to their shares in UK
+exports.
+(d) Chained-volume measure. Constructed using real GDP growth rates of 189 countries weighted according to their shares in world
+GDP using the IMF’s purchasing power parity (PPP) weights.
+(e) Chained-volume measure. The forecast was finalised before the release of the preliminary flash estimate of euro-area GDP for Q2,
+so that has not been incorporated.
+(f) Chained-volume measure. The forecast was finalised before the release of the advance estimate of US GDP for Q2, so that has not
+been incorporated.
+(g) Chained-volume measure. Constructed using real GDP growth rates of 155 emerging market economies, weighted according to
+their relative shares in world GDP using the IMF’s PPP weights.
+(h) Chained-volume measure.
+(i) Chained-volume measure.
+(j) Chained-volume measure. Includes non-profit institutions serving households. Based on ABJR+HAYO.
+(k) Chained-volume measure. Based on GAN8.
+(l) Chained-volume measure. Whole-economy measure. Includes new dwellings, improvements and spending on services associated
+with the sale and purchase of property. Based on DFEG+L635+L637.
+(m) Chained-volume measure. The historical data exclude the impact of missing trader intra‑community (MTIC) fraud. Since 1998
+based on IKBK-OFNN/(BOKH/BQKO). Prior to 1998 based on IKBK.
+(n) Chained-volume measure. The historical data exclude the impact of MTIC fraud. Since 1998 based on IKBL-OFNN/(BOKH/BQKO).
+Prior to 1998 based on IKBL.
+(o) Chained-volume measure. Exports less imports.
+(p) Wages and salaries plus mixed income and general government benefits less income taxes and employees’ National Insurance
+contributions, deflated by the consumer expenditure deflator. Based on [ROYJ+ROYH-(RPHS+AIIV-
+CUCT)+GZVX]/[(ABJQ+HAYE)/(ABJR+HAYO)]. The backdata for this series are available at Monetary Policy Report – Download
+chart slides and data – August 2024.
+(q) Annual average. Percentage of total available household resources. Based on NRJS.
+(r) Level in Q4. Percentage point spread over reference rates. Based on a weighted average of household and corporate loan and
+deposit spreads over appropriate risk-free rates. Indexed to equal zero in 2007 Q3.
+(s) Annual average. Per cent of potential GDP. A negative figure implies output is below potential and a positive figure that it is above.
+(t) Real GDP (ABMI) divided by total 16+ employment (MGRZ). Although LFS employment data have been re-instated by the ONS,
+they are badged as official statistics in development and the LFS continues to suffer from very low response rates, which can introduce
+volatility and potentially non-response bias (see Box D in the May 2024 Monetary Policy Report).
+(u) Four-quarter growth in the ILO definition of employment in Q4 (MGRZ). Although LFS employment data have been re-instated by
+the ONS, they are badged as official statistics in development and the LFS continues to suffer from very low response rates, which can
+introduce volatility and potentially non-response bias (see Box D in the May 2024 Monetary Policy Report).
+(v) Four-quarter growth in Q4. LFS household population, all aged 16 and over (MGSL). Growth rates are interpolated between the
+LFS and ONS National population projections: 2021-based interim within the forecast period.
+(w) ILO definition of unemployment rate in Q4 (MGSX). Although LFS unemployment data have been re-instated by the ONS, they are
+badged as official statistics in development and the LFS continues to suffer from very low response rates, which can introduce volatility
+and potentially non-response bias (see Box D in the May 2024 Monetary Policy Report).
+(x) ILO definition of labour force participation in Q4 as a percentage of the 16+ population (MGWG). Although LFS participation data
+have been re-instated by the ONS, they are badged as official statistics in development and the LFS continues to suffer from very low
+response rates, which can introduce volatility and potentially non-response bias (see Box D in the May 2024 Monetary Policy Report).
+(y) Four-quarter inflation rate in Q4.
+(z) Four-quarter inflation rate in Q4 excluding fuel and the impact of MTIC fraud.
+(aa) Contribution of fuels and lubricants and gas and electricity prices to four-quarter CPI inflation in Q4.
+(ab) Four-quarter growth in Q4. Private sector average weekly earnings excluding bonuses and arrears of pay (KAJ2).
+(ac) Four-quarter growth in private sector regular pay-based unit wage costs in Q4. Private sector wage costs divided by private sector
+output at constant prices. Private sector wage costs are average weekly earnings (excluding bonuses) multiplied by private sector
+employment.
+Bank of England  
+Page 21
+
+
+Box A: Reviewing the process of quantitative tightening
+Since February 2022, the MPC has been reducing the stock of assets held in the Bank of
+England’s Asset Purchase Facility (APF) for monetary policy purposes, a process known as
+quantitative tightening (QT). In line with the commitment made by the MPC in the minutes of
+its August 2022 meeting, this box sets out the MPC’s annual assessment of QT over the past
+year. At its September 2024 meeting, the Committee will vote on the target for the reduction in
+the stock of UK government bonds held for monetary policy purposes over the 12-month
+period from October 2024 to September 2025.
+In the wake of the GFC, central banks around the world used a variety of monetary policy
+tools to meet their inflation targets and support economic activity. In the UK, Bank Rate was
+reduced to close to zero. To further stimulate the economy when interest rates were close to
+their effective lower bound, the point at which further cuts in the policy rate no longer provide
+stimulus, the MPC also began a programme of asset purchases, known as QE. Several
+rounds of QE have been conducted in the years since then. The stock of these purchases,
+made up of both government and corporate bonds, peaked at £895 billion in late 2021.
+Over the past few years, the MPC has increased Bank Rate in order to return CPI inflation
+sustainably to the 2% target. This has moved the policy rate away from its effective lower
+bound. In 2022, once Bank Rate had been raised to a level that provided scope to ease policy
+as required, the MPC commenced the process of running down holdings in the APF, also
+known as QT. This process has the benefit of reducing the risk of a ratchet upwards in the size
+of the Bank’s balance sheet over time, which in turn should increase the headroom and
+flexibility available to the Bank to use its balance sheet in the future if needed (Bailey et al
+(2020)).
+Prior to commencing QT, the MPC laid out the key principles that would guide its unwind
+strategy (see Box A of the August 2021 Report). The parameters of that strategy, agreed in
+2022, are designed with these principles in mind.
+First, the MPC intends to use Bank Rate as its active policy tool when adjusting the stance of
+monetary policy. The parameters of the QT strategy are amended at a lower frequency than
+decisions on Bank Rate and are not calibrated with a view to fine-tuning the monetary policy
+stance.
+Second, sales are being conducted so as not to disrupt the functioning of financial markets,
+and only in appropriate market conditions.
+Quantitative easing (QE) was introduced as part of the MPC’s policy response to the
+global financial crisis (GFC).
+In 2022 the MPC began to reduce the stock of purchased assets in the APF.
+The design of the MPC’s QT process has been guided by three key principles.
+Bank of England  
+Page 22
+
+
+Third, to help achieve that, sales are being conducted in a relatively gradual and predictable
+manner over a period of time.
+In February 2022, the Committee agreed to cease gilt reinvestments and begin sales of the
+sterling corporate bond portfolio. In September 2022, the Committee voted to reduce the stock
+of gilts held in the APF by £80 billion over October 2022–September 2023 and, in September
+2023, by a further £100 billion over October 2023–September 2024. Because ceasing
+reinvestments alone would not have been sufficient to achieve the MPC’s target stock
+reduction, sales of gilts and corporate bonds were also conducted.
+APF holdings of sterling non-financial investment-grade corporate bonds, which stood at £20
+billion at their peak, have now been fully wound down. The final sales of corporate bonds
+occurred last year and a small number of shorter-maturity bonds matured in April of this year.
+At the conclusion of the current 12-month gilt reduction programme in September, the APF will
+stand at £658 billion.
+Following a further year’s worth of QT operations, Bank staff have updated their analysis of
+the effects of QT on gilt yields and the wider macroeconomy. While difficult to measure
+precisely, the impact of QT on gilt yields is judged to have been modest, in line with the
+evidence presented in Box A of the August 2023 Report.
+One way to assess the impact of QT is through changes in UK term premia, the additional
+compensation investors demand to hold a longer-term bond relative to a series of shorter-term
+bonds. It is possible to decompose developments in gilt yields into those driven by estimated
+changes in the term premium, through which the effects of APF reduction are expected to
+operate, and those reflecting the expected path of policy rates. The 10-year gilt yield
+increased by around 275 basis points between February 2022 and June 2024 (Chart A).
+Within that, the term premium (orange bars) is estimated to have risen by around 75 basis
+points over the same period.
+QT is likely to account for only a small part of the 75 basis points estimated rise in the term
+premium, which is influenced by a range of factors including uncertainty around the outlook for
+the economy and interest rates, and gilt supply and demand. Modelling work by Bank staff
+that attempts to isolate the impact of QT-related announcements and auctions suggests that
+APF reduction accounts for only around 10–20 basis points of the total rise in the term
+premium. Bank staff judge 10 basis points to be the central case estimate, while 20 basis
+points is considered to be a conservative upper bound. Market participants have suggested an
+impact of similar magnitude. The effects of APF gilt sales and maturities are judged to be
+similar.
+By the end of September 2024, the APF will stand at £658 billion.
+The latest analysis by Bank staff suggests that QT has had a small impact on gilt
+yields…
+Bank of England  
+Page 23
+
+
+Event study analysis, which seeks to isolate the impact of QT by focusing on movements in
+asset prices during short windows around announcements and auctions, also points to a small
+impact. Daily movements in a range of financial market measures have been a little more
+volatile on QT announcement days. But since QT announcements typically coincide with
+communications about wider MPC decisions, this additional volatility cannot be wholly
+attributed to QT. The same approach suggests no material difference in volatility between QT
+auction and non-auction days, consistent with the MPC’s intention that sales should happen in
+a gradual and predictable manner. Further to that, analysis by Bank staff suggests that any
+impact of QT auctions on 10-year gilt yields has tended to fade entirely within one day.
+Measures of gilt market liquidity have, if anything, improved since the start of QT, with some
+signs that sales may in fact have had a positive effect by alleviating collateral scarcity at
+shorter maturities. As such, there is little evidence of a negative impact of gilt sales on market
+functioning across a range of financial market measures. In particular, the gilt market appears
+to be functioning well.
+Chart A: The term premium accounts for only a small part of the rise in gilt yields
+since early 2022
+Decomposition of the UK 10-year government bond yield (a)
+Sources: Bloomberg Finance L.P., Tradeweb and Bank calculations.
+(a) The numbers in the chart are based on estimates from a range of internal models of UK term premia, which split the 10-
+year gilt yield into expected rates and term premia contributions. Expected rates reflect investors’ expectations of the average
+short-term monetary policy rate over the next 10 years, and the term premium is defined as the additional compensation
+investors demand to hold a longer-term bond relative to a series of shorter-term bonds.
+…and QT operations have had little impact on market functioning.
+These findings are broadly consistent with those from other empirical studies and
+central banks.
+Bank of England  
+Page 24
+
+
+There is a growing body of research examining the possible effects of QT on government
+bond yields, with conclusions broadly consistent with Bank staff’s analysis. In one example,
+Du et al (2024) find that several cross-country QT programmes have been successfully run
+with minimal impact on market functioning and liquidity. Their analysis also suggests that the
+impact of QT on yields has been fairly small.
+Several other central banks have begun winding down their stocks of purchased assets in
+recent years. Because of differences in operating frameworks and approaches to portfolio
+reduction, international experiences are not directly comparable. However, evidence from
+other central banks suggests that, while QT has led to some tightening across financial market
+indicators, that tightening effect has been relatively small.
+All else equal, the tightening effect of QT on yields would be expected to feed through to lower
+economic activity and inflation. It remains too early to assess this broader impact, but based
+on the UK’s experience of QE, a 10 basis points increase in yields would be associated with a
+negative impact on GDP and inflation of less than 0.2% and 0.1 percentage points
+respectively. To the extent that these effects are priced into asset markets, they will feed into
+the MPC’s projections and policy assessments via the conditioning assumptions on which the
+projections are based.
+The tightening impact of APF reduction is expected to be smaller than the stimulus associated
+with QE. That is partly because, as noted in Box A of the August 2021 Report, increasing the
+target stock of purchased assets may have provided a signal about the need for a looser
+stance of monetary policy. By contrast, QT has been conducted in an environment in which
+Bank Rate is the active monetary policy tool and so the process of APF reduction does not
+signal a need for a higher path for Bank Rate. In addition, QE was at times deliberately
+conducted during periods of market stress in order to improve liquidity and market functioning.
+By contrast, the reduction of holdings in the APF is being undertaken only in appropriate
+market conditions and in a gradual and predictable manner.
+Any tightening effect on the macroeconomy from a reduction in the APF would require a
+slightly lower path for Bank Rate, all else equal. As described above, the MPC takes account
+of these anticipated effects from QT when taking decisions on Bank Rate, to the extent that
+the asset prices on which the MPC’s economic projections and policy assessments are
+conditioned incorporate announced and expected APF reductions. That said, given that a
+gradual pace of APF reduction is expected to have a limited economic impact, any required
+adjustments in Bank Rate are likely to be very small. Consistent with that, there was no clear
+relationship between expectations for Bank Rate and the path of QT among responses to the
+Bank’s July Market Participants Survey, indicating that the MPC’s QT principles are working
+as intended.
+The impact of QT on the real economy is also judged to have been small.
+Given the limited economic impact associated with a gradual pace of reduction, the
+effects of QT can be offset with small adjustments in Bank Rate.
+Bank of England  
+Page 25
+
+
+The market path for interest rates, on which the MPC’s August MPR projections are
+conditioned, implies a reduction in Bank Rate to 3½% by 2027 Q3 (Section 1). The MPC
+expects that the impact of QT – and hence the implications for the appropriate path for Bank
+Rate – will remain small as the policy rate is reduced. That is consistent with Bank Rate being
+the active tool of monetary policy and QT operating in the background.
+So far, in the UK, QT has been conducted while Bank Rate has been increased or kept
+unchanged. There is therefore a degree of uncertainty about the interaction between these
+tools during periods in which Bank Rate is being reduced. In the unlikely event that the
+tightening impact of QT was larger than expected, the distance of Bank Rate from its effective
+lower bound provides scope for reductions to be made if policy needed to be loosened to
+offset the effect on the real economy. Nevertheless, the Committee will continue to monitor
+closely the interaction between these tools.
+As has been the case up to this point, the MPC’s key principles and analysis of the first few
+years of APF unwind will be central to its judgement on the appropriate pace of gilt stock
+reduction over the year ahead.
+At its September meeting the Committee will vote on the target for the reduction in the stock of
+UK government bonds held for monetary policy purposes over the 12-month period from
+October 2024 to September 2025. Bank Rate remains the MPC’s active tool of monetary
+policy and will be set to meet the 2% inflation target sustainably in the medium term.
+The appropriate pace of total gilt stock reduction will continue to be guided by the
+MPC’s key principles.
+Bank of England  
+Page 26
+
+
+Chart B: APF maturities and sales since APF reduction began and maturities in future
+gilt stock reduction periods (a) (b)
+Source: Bank calculations.
+(a) Each year shows maturities in the period between October and September of the following year (ie a yearly QT review
+cycle). For October 2022–September 2023 and October 2023–September 2024 these bars show the target gilt stock
+reduction voted for by the MPC, including both maturities and active sales. In periods from October 2024–September 2025
+onwards only the path of expected maturities is shown, as the Committee is yet to vote on the target gilt stock reduction for
+these periods.
+(b) The amount of APF stock reduction set by the MPC is expressed in terms of the initial proceeds paid to purchase the APF
+holdings.
+Bank of England  
+Page 27
+
+
+Box B: Monetary policy since the May 2024 Report
+At its meeting ending on 19 June 2024, the MPC voted by a majority of 7–2 to maintain Bank
+Rate at 5.25%. Two members preferred to reduce Bank Rate by 0.25 percentage points, to
+5%.
+Since the MPC’s previous meeting, 12-month CPI inflation had fallen to 2.0% in May from
+3.2% in March, close to the May Monetary Policy Report projection. Indicators of short-term
+inflation expectations had also continued to moderate, particularly for households. CPI
+inflation was expected to rise slightly in the second half of this year, as declines in energy
+prices last year fall out of the annual comparison.
+UK GDP appeared to have grown more strongly than expected during the first half of this year.
+Business surveys, however, remained consistent with a slower pace of underlying growth, of
+around ¼% per quarter.
+The considerable uncertainty around estimates derived from the ONS Labour Force Survey
+made it very difficult to gauge the evolution of labour market activity. Based on a broad set of
+indicators, the MPC judged that the labour market continued to loosen but that it remained
+relatively tight by historical standards.
+The collective steer from a range of indicators of aggregate pay growth had continued to ease
+in the latest data. Services consumer price inflation was 5.7% in May, down from 6.0% in
+March, but somewhat higher than projected in the May Report. This strength in part reflected
+prices that are index-linked or regulated, which are typically changed only annually, and
+volatile components.
+Headline CPI inflation had fallen back to the 2% target. The restrictive stance of monetary
+policy was weighing on activity in the real economy, leading to a looser labour market and
+bearing down on inflationary pressures. Key indicators of inflation persistence had continued
+to moderate, although they remained elevated.
+Monetary policy would need to remain restrictive for sufficiently long to return inflation to the
+2% target sustainably in the medium term in line with the MPC’s remit. The Committee had
+judged since last autumn that monetary policy needed to be restrictive for an extended period
+of time until the risk of inflation becoming embedded above the 2% target dissipated.
+The MPC remained prepared to adjust monetary policy as warranted by economic data to
+return inflation to the 2% target sustainably. It would therefore continue to monitor closely
+indications of persistent inflationary pressures and resilience in the economy as a whole,
+including a range of measures of the underlying tightness of labour market conditions, wage
+growth and services price inflation. As part of the August forecast round, members of the
+Committee would consider all of the information available and how this affected the
+Bank of England  
+Page 28
+
+
+assessment that the risks from inflation persistence were receding. On that basis, the
+Committee would keep under review for how long Bank Rate should be maintained at its
+current level.
+Bank of England  
+Page 29
+
+
+2: Current economic conditions
+UK-weighted global activity is expected to grow by around 2% over 2024. Global export price
+inflation is projected to pick up gradually. Headline consumer price inflation has fallen across
+advanced economies over the past year or so, but services price inflation remains high. The
+market-implied paths are consistent with reductions in policy rates across advanced
+economies. Sterling has appreciated by 2½% since the May Report.
+Following weakness in the second half of 2023, UK GDP growth picked up quite sharply
+around the turn of the year and has been stronger than expected in the May Report.
+Underlying momentum in activity is judged to be somewhat weaker than the headline figures
+suggest, however, and GDP growth is expected to fall back in Q3.
+Despite the recent strength in GDP, aggregate demand and supply remain in balance. The UK
+labour market has continued to ease, although it remains relatively tight by historical
+standards. Large uncertainties remain around the LFS labour market statistics. Bank staff’s
+indicator-based models suggest that employment growth has remained positive but modest.
+Unemployment is expected to rise slightly in coming quarters reflecting the continued
+restrictive stance of monetary policy.
+CPI inflation has fallen further since the May Report and was at the MPC’s 2% target in May
+and June. Within that, goods price inflation was slightly negative, reflecting past declines in
+external cost pressures, while services price inflation remained elevated at 5.7%. Headline
+CPI inflation is projected to rise to around 2¾% by the end of the year, owing largely to a
+smaller drag on annual inflation from domestic energy bills. The fading drag from energy
+prices on headline CPI inflation reveals the persistence in services price inflation, which is
+expected to remain elevated in coming quarters due to continued strength in wage growth.
+Annual private sector regular average weekly earnings (AWE) growth has fallen back since
+mid-2023 but remained elevated at 5.6% in the three months to May. Falls in short-term
+inflation expectations and the loosening in the labour market mean that wage growth is
+expected to fall further in the near term, to just under 5% in 2024 Q3, but to remain elevated
+relative to the past.
+Bank of England  
+Page 30
+
+
+Chart 2.1: In the MPC’s latest projections, GDP growth remains strong before falling back, the
+unemployment rate is flat, and CPI inflation rises moderately in the second half of this year
+Near-term projections (a)
+Sources: ONS and Bank calculations.
+(a) The lighter diamonds show Bank staff’s projections at the time of the May 2024 Monetary Policy Report. The darker diamonds show
+Bank staff’s current projections. Projections for GDP growth and the unemployment rate are quarterly and show 2024 Q2 and Q3 (May
+projections show 2024 Q1 to 2024 Q3). Projections for CPI inflation are monthly and show July to September 2024 (May projections
+show April to September 2024). The GDP growth and unemployment rate projections for 2024 Q2 are based on official data to May,
+while the CPI inflation figure is an outturn. Although LFS unemployment data have recently been re-instated by the ONS, they are
+Bank of England  
+Page 31
+
+
+2.1: Global economy and financial markets
+Demand conditions in other countries are an important determinant of UK trading prospects. UK-
+weighted world GDP grew by 0.5% in 2024 Q1 and is projected to have grown at a similar pace in
+Q2. Four-quarter global growth is expected to remain at around this pace for the rest of the year
+(Chart 2.2).
+According to the Advance Estimate, US GDP expanded by 0.7% in 2024 Q2 following growth of 0.4%
+in Q1. Strength in US household consumption has moderated somewhat since the start of the year,
+but this has been offset by stronger than expected business investment and government spending.
+Quarterly US GDP growth is expected to be around 0.5% in the second half of the year, supported by
+continued strong supply growth.
+According to the preliminary flash release, euro-area GDP grew by 0.3% in 2024 Q2, the same rate
+as in 2024 Q1 and in line with the May Report. Euro-area growth over the course of this year is
+expected to be supported by robust real income growth and the waning impact from past monetary
+tightening.
+While China accounts for only a small share of UK exports, its prominent role in global manufacturing
+lends it an important influence in commodities and globally traded goods markets. Chinese GDP
+expanded by 1.5% in 2024 Q1, accounted for in part by strength in exports. Quarterly growth fell
+back to 0.7% in 2024 Q2, driven by a significant slowdown in consumption. Growth over the rest of
+the year is expected to be supported by public sector investment and by strong exports, partly due to
+increased competitiveness from past price falls and currency depreciation.
+badged as official statistics in development and the LFS continues to suffer from very low response rates, which can introduce volatility
+and potentially non-response bias (Box D, May 2024 Report).
+Global activity growth is expected to be stable over the remainder of 2024.
+Bank of England  
+Page 32
+
+
+Global export price inflation affects UK CPI inflation through the prices of goods and services
+imported for consumption, as well as the prices of imported inputs into domestic production (Section
+2.4). Following high inflation in 2021 and 2022, quarterly global export price inflation had turned
+negative across regions by early 2023. That reflected the indirect effects of lower energy prices, the
+continued clearing of supply chain bottlenecks and weak global producer price inflation (Chart 2.3).
+In recent quarters, global export price inflation has started to pick up. Chinese export price deflation
+in particular has moderated more quickly than expected. Disruptions to shipping routes through the
+Red Sea have also contributed to higher export price inflation by raising global shipping costs,
+although these costs have remained below their pandemic-era peaks. The rise in shipping costs has
+been exacerbated by stronger demand against a backdrop of capacity constraints, as producers
+appear to be filling inventories sooner than usual in anticipation of reduced shipping capacity
+throughout the second half of the year.
+Chart 2.2: Global GDP growth is expected to be steady during the rest of this year
+Four-quarter UK-weighted world GDP growth with contributions by region (a)
+Sources: LSEG Workspace and Bank calculations.
+(a) See footnote (c) of Table 1.D for definition. Figures for 2024 Q2 to 2024 Q4 are Bank staff projections. These projections do not
+include the advance estimate of US GDP in 2024 Q2 or the preliminary flash estimate of euro-area GDP for the same quarter, as the
+data were not received in time to incorporate fully into the forecast.
+Global export price inflation is expected to pick up gradually.
+Bank of England  
+Page 33
+
+
+Annual world export price inflation, excluding major oil exporters, is projected to rise to around 1½%
+in the second half of this year. That increase is driven by past energy and commodity shocks
+continuing to fall out of the annual comparison, as well as the expectation of continued disruption in
+the Red Sea.
+The Brent spot oil price, converted to sterling, has decreased by around 6% since the May Report,
+while European wholesale natural gas spot and near-term futures prices have increased by around
+4% (Chart 2.4).
+Chart 2.3: World export price inflation has turned positive
+Quarterly export price inflation (a)
+Sources: ECB, General Administration of Customs of the People’s Republic of China, US Bureau of Economic Analysis, other national
+statistical agencies and Bank calculations.
+(a) ‘Rest of world’ is a weighted average of 31 countries excluding major oil exporters and including China. Countries are weighted by
+their shares of UK imports. The final data points refer to 2024 Q1.
+Energy prices have not changed materially in recent months.
+Bank of England  
+Page 34
+
+
+Headline and core consumer price inflation have fallen back from their 2022 peaks in the US and
+euro area, though they remain somewhat above their respective targets (Chart 2.5). In the US,
+headline PCE inflation ticked down to 2.5% in June, while core PCE inflation was unchanged at
+2.6%. In the euro area, headline HICP inflation rose to 2.6% in July, while core inflation remained
+unchanged at 2.9%. Falls in core inflation over recent quarters have been accounted for by core
+goods prices, on account of easing global supply conditions and the indirect effects of lower energy
+prices.
+Services price inflation has remained elevated at 4.0% in both the US and euro area, partly reflecting
+labour market tightness and strong pay growth. Labour markets are gradually loosening across
+advanced economies, but unemployment rates remain historically low and wage pressures elevated.
+In the US, continued strength in housing services inflation is also playing a role.
+Chart 2.4: Oil prices have fallen a little since the May Report while gas prices are slightly
+higher
+UK wholesale oil and gas prices (a)
+Sources: Bloomberg Finance L.P. and Bank calculations.
+(a) Oil prices are Brent crude, converted to sterling. Gas prices are Bloomberg UK NBP Natural Gas Forward Day price. Dashed lines
+refer to respective futures curves using one-month forward prices based on the 15-day average to 22 July 2024, while dotted lines are
+based on the 15-day average to 29 April 2024. The final data points shown are forward prices for September 2027.
+Inflationary pressures across many advanced economies are easing, though consumer
+services inflation is still elevated.
+Bank of England  
+Page 35
+
+
+Bank staff expect US headline PCE inflation to remain at around its current rate over 2024, before
+edging down in 2025. That in part reflects the profile for services price inflation, which is expected to
+remain elevated at above pre-pandemic rates in the near term. Euro-area headline inflation is
+projected to moderate to around 2% by early 2025. Wage growth in both economies is expected to
+slow as inflationary pressures normalise, but the speed of this process remains uncertain.
+Over recent years, central banks in the UK, US and euro area have increased their respective policy
+rates (Chart 2.6). The ECB Governing Council reduced its main policy rate by 25 basis points to
+3.75% in June.
+The latest market-implied paths are consistent with a reduction in policy rates in coming quarters
+across advanced economies, though the expected timings of cuts differ. Since the May Report,
+weaker than expected economic data up to 22 July have been associated with a shift down in the
+market-implied path for US policy rates of around 40 basis points on average over the next three
+years. Market expectations for euro-area policy rates have been broadly stable since the previous
+Report. And market expectations for UK policy rates have shifted down by around 10 basis points.
+Policy rates are now expected to stand at 3.5% in the US and UK and 2.4% in the euro area in three
+years’ time.
+Market-implied paths for policy rates have remained sensitive to recent data releases, which
+emphasises the degree of uncertainty over the outlook for inflation across advanced economies. That
+outlook will depend in large part on the evolution of domestic inflation persistence.
+Chart 2.5: Headline inflation has fallen back across advanced economies
+Annual consumer price inflation across regions (a)
+Sources: Eurostat, LSEG Workspace, ONS, US Bureau of Economic Analysis, US Bureau of Labor Statistics and Bank calculations.
+(a) For the United States, the solid line represents PCE inflation, and the dashed line represents CPI inflation. The latest data points
+shown are for June 2024 except for US PCE inflation which is to May 2024. The estimate for US PCE inflation in June and the flash
+estimate for euro-area HICP inflation in July were released after the data cut-off.
+Market-implied paths for policy rates have generally shifted down since the May Report.
+Bank of England  
+Page 36
+
+
+Corporate bond spreads have not changed materially across advanced economies since May. Equity
+prices have picked up by 10% in the US and 3% in the UK but remain broadly unchanged in the euro
+area.
+The sterling effective exchange rate has appreciated by 2½% since the May Report. All else equal,
+that will put downward pressure on UK import price inflation (Section 1). Within the overall 2½%
+appreciation, sterling has appreciated by around 3% against the dollar, partly reflecting the fall in
+market expectations for US policy rates since May. Sterling has appreciated by 1½% against the
+euro, mainly reflecting changes in relative currency risk premia.
+2.2: Domestic credit conditions
+Since the May Report, quoted interest rates on instant-access deposits have been little changed,
+while interest rates on new fixed-rate savings bonds have increased slightly (Chart 2.7). Quoted two-
+year mortgage rates have risen slightly since the May Report but remain substantially below the
+levels reached last summer, given falls in reference rates since then.
+Chart 2.6: Policy rate expectations have generally shifted down since the May Report
+Policy rates and forward curves for the US, euro area and UK (a)
+Sources: Bloomberg Finance L.P. and Bank calculations.
+(a) All data as of 22 July 2024. The May curves are estimated based on the 15 UK working days to 29 April 2024. The August curves
+are estimated using the 15 working days to 22 July 2024. Federal funds rate is the upper bound of the announced target range. ECB
+deposit rate is based on the date from which changes in policy rates are effective. The final data points shown are forward rates for
+September 2027.
+Financial conditions are broadly unchanged, while sterling has appreciated.
+Saving and borrowing rates are little changed since the May Report for both households and
+firms.
+Bank of England  
+Page 37
+
+
+Quoted interest rates on credit card lending to households and effective rates on new bank lending to
+businesses have remained at or close to their recent peaks (right panel of Chart 2.7). Quoted interest
+rates on personal loans are a little below their cycle highs and have remained stable in recent
+months.
+Bank staff judge that pass-through of the latest Bank Rate tightening cycle to the majority of
+household quoted rates, as well as to effective rates on new corporate borrowing, has been broadly
+in line with historical experience. Pass-through to quoted mortgage rates and fixed-rate savings
+bonds of increases in reference rates up to their peaks in July 2023 has been broadly consistent with
+full but lagged pass-through. Within this, there were some periods of faster pass-through when term
+Chart 2.7: Interest rates on loans and savings products have increased since 2021 in
+response to higher reference rates
+Average interest rates on selected household and business products, and their respective reference rates
+(a)
+Sources: Bank of England, Bloomberg Finance L.P. and Bank calculations.
+(a) Rates shown are average quoted rates, with the exception of the lending to businesses series which shows effective rates on new
+business lending. The Bank’s quoted rates series are weighted monthly average rates advertised by all UK banks and building
+societies with products meeting the specific criteria. For more information, see Introduction of new Quoted Rates data. The 75% and
+90% LTV mortgage rates are for two-year fixed-rate products. The reference rates for these, and for fixed-rate savings bonds, is the
+two-year overnight index swap (OIS) rate. Diamonds represent averages of daily quoted rates using data to 22 July 2024 and were
+provisional. OIS rate shows monthly averages, while Bank Rate shows month-end numbers. The OIS diamond shows the average of
+daily rates to 22 July 2024.
+Transmission from reference rates to household borrowing and term saving rates has been
+broadly as expected in this tightening cycle.
+Bank of England  
+Page 38
+
+
+OIS rates moved up rapidly and mortgage spreads became very compressed. Pass-through to rates
+on consumer credit has been slow, broadly in line with historical experience and reflecting the
+importance for pricing of factors other than reference rates, including consumer creditworthiness.
+The market-implied paths for interest rates have fallen since their peaks in July 2023. This fall in
+reference rates has also been passed through broadly as expected for quoted mortgage rates, but it
+is too early for a full assessment for all savings and borrowing products.
+Pass-through of the latest Bank Rate tightening cycle to sight (instant-access) deposit rates has been
+partial. In turn, that has meant that the spread between quoted sight deposit rates for households and
+Bank Rate has widened, having been compressed when Bank Rate was close to zero. The rebuilding
+of sight deposit spreads has supported banks’ interest margins which are now around their long-run
+average levels. Rates on term deposits have moved broadly in line with reference rates during the
+Bank Rate tightening cycle, consistent with a liquidity regulation framework which incentivises term
+deposit funding.
+Changes in quoted interest rates will over time feed through to effective interest rates, with the lag
+depending on when borrowers on fixed rates refinance. The extent to which effective rates respond
+to increases in Bank Rate and the market path for interest rates is important in determining the
+strength of the cash-flow channel of monetary policy. Changes in reference rates since late 2022
+have been passed through to the effective interest rates on the stock of UK mortgages somewhat
+more slowly than in past tightening cycles, owing to the greater prevalence of fixed-rate mortgages
+(Box C). The average effective rate on outstanding UK floating rate mortgages has increased by 4½
+percentage points since the end of 2021, while the average effective rates on mortgages with up to
+two-year and five-year fixed rates have increased by 2¾ and ¾ percentage points respectively.
+(Chart 2.8).
+As discussed in the June 2024 Financial Stability Report, while most fixed-rate mortgages have
+repriced since 2021 H2, around a third of mortgage accounts are still paying rates of less than 3%.
+Most of these fixed rates will expire before end-2026, meaning that effective interest rates will rise
+somewhat further over that period. That may be partly offset, however, if interest rates on variable
+rate mortgages start to fall and if those who are already paying higher rates can refinance at a lower
+rate over the next two years.
+Bank of England  
+Page 39
+
+
+Lenders responding to the latest Credit Conditions Survey (CCS), which was conducted between
+28 May and 14 June 2024, reported little change in the availability of secured and unsecured lending
+to households.
+The availability of credit to firms was reported to be broadly unchanged but increased somewhat for
+small and medium-sized businesses. This is consistent with intelligence collected by the Bank’s
+Agents, which suggests little change in overall credit availability but a slight improvement in bank
+lending appetite for some firms in sectors such as hospitality, retail and construction. The latest
+Federation of Small Businesses Index suggests small improvements in credit availability and
+affordability.
+The annual growth rate of sterling net lending to private sector companies and households, or
+M4Lex, has recovered somewhat since its trough in September 2023 and was 1.2% in June,
+although it remains historically weak (Chart 2.9). Subdued growth in credit volumes for households
+and businesses is consistent with tighter monetary policy having weighed on credit demand.
+Chart 2.8: Rises in reference rates have fed through to effective rates on the stock of UK
+mortgages as expected.
+Average interest rates on the stock of outstanding mortgages and their relevant reference rates (a)
+Sources: Bank of England, Bloomberg Finance L.P. and Bank calculations.
+(a) The solid lines show the average effective interest rates on the stock of UK floating-rate mortgages, mortgages with a fixed interest
+rate up to two years, and mortgages with a five-year fixed interest rate. For more information, see Further details about effective
+interest rates data. The dotted lines show the relevant reference rates, namely Bank Rate, the two-year OIS rate and the five-year
+OIS rate. The latest data points shown are for June 2024.
+Lenders have reported little change in credit availability for households and firms.
+Lending growth remains weak compared with pre-pandemic averages.
+Bank of England  
+Page 40
+
+
+Mortgage approvals, which are a timely indicator of secured lending to households, decreased
+slightly in June, while the annual growth rate of net secured lending to households picked up
+marginally to 0.5%. Banks responding to the latest CCS reported that demand for mortgage lending
+for house purchase increased somewhat in Q2 and was expected to be unchanged in Q3. Consumer
+credit volumes have remained strong in nominal terms, recording an annual growth rate of 8% in
+June. Credit availability was reported to be a constraint on spending for around 25% of consumers
+responding to the 2024 Q1 Bank/NMG survey, above the 2015–19 average of around 20%.
+Net lending to non-financial businesses (including overdrafts) was 0.1% higher in June than a year
+earlier. Within that, the annual growth rate of lending to SMEs was particularly weak, at -4.3%, largely
+reflecting the continued net repayment of borrowing under Covid loan schemes. Lenders responding
+to the CCS expected little change in demand for bank lending from medium and large-sized
+businesses in the coming quarter.
+Consistent with the slight increase in aggregate lending volumes, the aggregate growth rate of
+sterling broad money (M4ex) has turned positive since its trough in September 2023 and picked up
+slightly to 1% in June. It remains weak by historical standards, however. Within household deposits,
+Chart 2.9: Aggregate money and lending growth have recovered since last year but remain
+low
+Twelve-month growth rates of aggregate money and lending (a)
+(a) Aggregate money, excluding other financial corporations refers to M4 excluding other financial corporations (OFCs). Aggregate
+money and aggregate lending refer to M4 and M4 lending respectively, both excluding intermediate other financial corporations
+(IOFCs). OFCs are corporations engaged in financial services that are not banks or building societies, for example insurance
+companies and pension funds. IOFCs are specialised entities that mainly provide intermediation services to banks and building
+societies. Only quarterly data are available for the aggregate money and aggregate lending series from 1998 Q4 to 2010 Q2. All other
+data are at a monthly frequency. The final data points refer to June 2024. For more information on these data, see Further details
+about M4 data, Further details about M4 excluding intermediate other financial corporations (OFCs) data and Further details
+about M4 lending excluding lending to intermediate other financial corporations data.
+Money growth has picked up but remains weak by historical standards.
+Bank of England  
+Page 41
+
+
+there has been a small compositional shift towards ISAs in recent months, which may in part reflect
+households responding to higher real interest rates on savings. The ratio of household M4 to annual
+gross disposable income remains at just over 100%, close to its pre-pandemic trend and below its
+level in 2020-21. This reflects a normalisation in the relationship between household deposits and
+household incomes since the pandemic. The MPC continues to monitor developments in money
+growth as set out in Box B of the May Report.
+2.3: Domestic activity and the labour market
+Having fallen in the second half of 2023, UK GDP growth picked up quite sharply at the start of the
+year. GDP growth was 0.7% in 2024 Q1, 0.4 percentage points stronger than expected in the May
+Report. That pickup in growth was driven primarily by the market sector and was broad-based across
+the expenditure components (Chart 2.10). Output growth was also strong in the monthly data for
+May, such that GDP is expected to have risen by a further 0.7% in Q2.
+Underlying momentum in activity is judged to be somewhat weaker than recent headline GDP
+growth, albeit a little stronger than expected in the May Report. The collective steer from business
+surveys currently points to growth of around 0.3% per quarter. Consistent with that, the flash S&P
+Global/CIPS UK composite output PMI ticked up in July but remained below its historical average.
+Contacts of the Bank’s Agents had become more positive about the growth outlook since the May
+Report, although sentiment varied by sector. Business services and manufacturing contacts had seen
+a pickup in activity, while construction activity had fallen.
+GDP growth is expected to fall back to 0.4% in Q3 and to 0.2% in Q4. Recent strength in household
+real income growth is expected to support growth in consumption, while the past tightening in
+monetary policy continues to weigh on demand (Box C).
+Quarterly GDP growth was stronger than expected in the first half of 2024…
+…but is expected to fall back somewhat in 2024 H2.
+Bank of England  
+Page 42
+
+
+Household consumption rose by 0.4% in 2024 Q1, slightly above expectations in the May Report.
+That followed weakness in the second half of 2023, meaning that consumption remained below its
+2019 Q4 level.
+Tighter monetary policy, which incentivises a higher degree of saving, is judged to have been the
+primary cause of subdued household spending growth in recent quarters. Household real incomes
+have recovered since late 2022, as the waning effects of higher energy and other import prices have
+raised real wages (left panel of Chart 2.11). That recovery in real incomes has been associated with a
+rise in the household saving rate to 11.3% in 2024 Q1, its highest level since 2010, excluding the
+pandemic period. While tighter monetary policy is likely to have been the main driver of the pickup in
+the household saving rate, saving may also have risen as a precautionary response to the extreme
+economic events experienced in recent years, including the pandemic and subsequent rises in the
+cost of living. Saving patterns have varied across households, however. As discussed in the June
+2024 Financial Stability Report, pressures associated with higher interest rates and living costs
+meant that savings buffers for renters and low-income households fell in the six months to 2024 Q1.
+Chart 2.10: Economic activity growth was strong in the first half of 2024, but is expected to
+fall back somewhat
+Contributions to quarterly GDP growth (a)
+Sources: ONS and Bank calculations.
+(a) Diamonds show quarterly headline GDP growth. Figures for 2024 Q2 and Q3 are Bank staff projections.
+The recovery in real incomes and rising consumer confidence are expected to support
+consumption growth.
+Bank of England  
+Page 43
+
+
+The aggregate household saving rate is expected to have risen slightly further in Q2 to close to 12%.
+Consistent with that, the balance of households responding to the GfK consumer confidence survey
+reporting that now is a good time to save has remained above its past average (right panel of Chart
+2.11).
+There are signs that the continued recovery in real incomes and rising confidence are beginning to
+feed through to stronger consumption, however. Retail sales were broadly flat in Q2. But the balance
+of households responding to the GfK consumer confidence survey expecting an improvement in their
+financial situations has been above its past average since May. And the balance reporting that now is
+the right time to make major purchases has picked up (right panel of Chart 2.11). Contacts of the
+Bank’s Agents have become increasingly confident that higher household real incomes would feed
+through into higher spending, although they noted that many lower-income households remained
+constrained by the increased cost of living.
+Overall, consumption is expected to continue to grow at around 0.4% in the near term, while the
+saving ratio remains elevated. Consistent with the signs of recovery in consumer spending, the
+impact of tighter monetary policy may be close to its peak (Box C).
+Chart 2.11: Household real incomes have continued to rise, and there is tentative evidence of
+a shift towards greater spending
+Contributions to the change in real labour income since 2019 Q4, and indicators of household spending
+behaviour (a) (b)
+Sources: GfK, ONS, Refinitiv Eikon from LSEG and Bank calculations.
+(a) Wages are defined as seasonally adjusted whole-economy regular average weekly earnings adjusted for inflation using seasonally
+adjusted CPI. Data are to May 2024. Projection is for June, July, and August 2024.
+(b) Gold line shows the net balance of responses to the question ‘In view of the general economic situation do you think now is: a very
+good time to save, a fairly good time to save, not a good time to save, a very bad time to save’. Green line shows the net balance of
+responses to the question ‘In view of the general economic situation, do you think now is the right time for people to make major
+purchases such as furniture or electrical goods?’. Averages calculated over 2015 to 2024. Data are not seasonally adjusted. The final
+data points refer to July 2024.
+Bank of England  
+Page 44
+
+
+Indicators of housing market activity have been subdued, as past increases in interest rates have
+weighed on housing demand (Box C). House prices – measured using the ONS house prices series
+– fell slightly in late 2022 and 2023 but have picked up more quickly than expected in recent months
+and rose by 0.8% in Q1 (left panel of Chart 2.12). Timelier house price indicators, including the
+Nationwide, Halifax and Rightmove measures, have also picked up from their troughs last year.
+Contacts of the Bank’s Agents expected some ongoing weakness, however, with house prices
+expected to be flat or to rise slightly (Box D).
+Housing investment rose by 3% in 2024 Q1, higher than the almost 1% fall expected at the time of
+the May Report, although past weakness means that it remains around its level in 2021 (right panel
+of Chart 2.12). The unexpected strength in Q1 was concentrated in dwellings investment, reflecting
+strong growth in repair and maintenance of existing dwellings, as well as a flattening off in the
+weakness of new builds. Transfer costs rose by 2.3% in Q1, driven by a pickup in housing
+transactions.
+Housing investment is expected to be flat in Q2 and to rise by 1.2% in Q3, higher than expected in
+the May Report, reflecting the recent pickup in housing activity and house prices. There are large
+risks around the projection for housing investment, however, since volatility in the data means that it
+is difficult to forecast with precision. Indicators of construction growth currently point in different
+directions, with timely indicators of private construction having ticked up in the latest data, while
+intelligence from the Bank’s Agents points to continued weakness.
+Housing market activity has been subdued but there are signs of a pickup.
+Bank of England  
+Page 45
+
+
+Business investment rose by 0.5% in 2024 Q1, higher than expected in the May Report, but remains
+close to its level at the start of 2023. Excluding air transport spending, which tends to be volatile
+(Haskel (2019)), business investment fell in 2024 Q1.
+Overall, business investment is expected to grow by 0.5% in Q2 and Q3, higher than expected in the
+May Report. Contacts of the Bank’s Agents have reported an improvement in investment intentions,
+with input cost inflation becoming less of a deterrent (Box D). A subset of firms reported investing in
+equipment to improve efficiency and offset higher labour costs.
+Owing to concerns about lower achieved sample sizes leading to greater volatility, the ONS
+continues to recommend caution when interpreting the latest LFS data (Box D May 2024 Monetary
+Policy Report). In an update published in July, the ONS noted that issues remain before the
+transition to the transformed Labour Force Survey (TLFS), which is intended as the long-term
+solution to falling response rates and quality challenges surrounding the LFS, can take place. The
+dual run of the TLFS and LFS has been extended to provide further quarters of data for comparison.
+The MPC employs a wide range of data to inform its judgements on the labour market, including
+official data, business surveys and intelligence from the Bank’s Agents. The ongoing uncertainties
+surrounding the LFS data underscore the importance of this approach.
+Chart 2.12: House price inflation and housing investment have begun to pick up
+House price indices, and contributions to the change in the level of housing investment since 2019 Q4 (a) (b)
+Sources: Nationwide, ONS, Refinitiv Eikon from LSEG, Rightmove.co.uk, S&P Global/Halifax and Bank calculations.
+(a) The latest data point for the ONS house price index is for May 2024. Halifax and Nationwide data to June 2024 and Rightmove data
+to July 2024 are advanced to reflect the respective timing of each data source in the house-buying process. The Nationwide and
+Halifax figures for July were released after the data cut-off.
+(b) Private existing dwellings investment captures improvements, repair and maintenance of existing dwellings. The other category
+mostly comprises dwellings investment in existing and new dwellings for non-financial public corporations. The latest data point for
+housing investment and its subcomponents is 2024 Q1. The diamonds show projections for 2024 Q2, Q3, and Q4.
+Business investment growth has been subdued but some recovery is expected.
+Large uncertainties remain around the LFS labour market statistics.
+Bank of England  
+Page 46
+
+
+Despite the pickup in demand in 2024 H1, employment growth appears to have remained modest in
+recent quarters, and slower than in 2023 (left panel of Chart 2.13). The latest LFS data suggest that
+employment growth rose slightly by 0.1% in the three months to May. But underlying employment
+growth – the path for employment that abstracts from volatility in the LFS – is estimated to have been
+a bit stronger, at around 0.2% over the past few quarters, and broadly in line with population growth.
+That estimate reflects the steer from a range of indicators, including the HMRC RTI payrolls
+employee data, business surveys and the Bank’s Agents’ employment score. Employment is
+expected to grow at around that rate in coming quarters.
+The collective steer from a range of indicators points to modest employment growth in
+coming quarters.
+Chart 2.13: Survey-based model estimates suggest that underlying employment growth and
+unemployment have remained broadly stable
+Measures of quarterly employment growth and quarterly change in the unemployment rate (a)
+Sources: Bank of England Agents, Google Trends, HM Revenue and Customs, IHS Markit, KPMG/REC/S&P Global UK Report on
+Jobs, Lloyds Business Barometer, ONS, S&P Global/CIPS and Bank calculations.
+(a) The left panel shows quarterly growth in employment for people aged 16+ from LFS data, and the right panel shows the quarterly
+change in unemployment. Although LFS employment and unemployment data have recently been reinstated by the ONS, they are
+badged as official statistics in development and the LFS continues to suffer from very low response rates, which can introduce volatility
+and potentially non-response bias (Box D May 2024 Monetary Policy Report). Bank staff’s indicator-based models of near-term
+employment growth and unemployment use mixed-data sampling (MIDAS) techniques (Daniell and Moreira (2023)). A range of
+indicators inform the models, including (for employment) series from the Bank of England Agents, Lloyds Business Barometer,
+HMRC/ONS PAYE payrolls, S&P Global/CIPS purchasing managers’ index and the KPMG/REC UK Report on Jobs, and (for
+unemployment) series from the Bank of England Agents, the KPMG/REC UK Report on Jobs, Google Trends on the searches for
+unemployment-related terms, ONS Vacancies, the ONS Claimant count, and IHS Markit measure of job security. Indicators are
+weighted together according to their relative forecast performance in the recent past. Latest data points shown for both employment
+and unemployment are for 2024 Q1. Diamonds represent projections for 2024 Q2 and Q3.
+Underlying unemployment is expected to remain broadly stable in the near term before
+slowly picking up.
+Bank of England  
+Page 47
+
+
+The latest LFS data suggest that unemployment was 4.4% in the three months to May, a little higher
+than expected in the May Report. There are relatively few indicators beyond the LFS when gauging
+developments in unemployment (Broadbent (2023)). But those that are available, such as the
+claimant count and Agents’ score for recruitment difficulties, point to unemployment having been
+stable over the last few quarters (right panel of Chart 2.13) and a little below the LFS measure,
+suggesting a slightly tighter picture for the labour market than implied by the LFS data.
+The LFS unemployment rate is projected to remain at 4.4% in coming quarters before rising slightly
+further out, as the restrictive stance of monetary policy continues to weigh on demand (Section 1).
+Consistent with that, a measure of unemployment based on the KPMG/REC survey, which has
+tended to lead the cycle, points to a small increase in unemployment to come (left panel of Chart
+2.14).
+Labour market participation, as measured in the LFS data, has been declining since its post-
+pandemic peak a year ago, and was 62.7% in the three months to May, close to its lowest level since
+1998. Measuring participation is inherently difficult as it is an individual decision which can only be
+monitored directly through surveys. The LFS is the main source of data for participation but suffers
+from the problems outlined above. Broad estimates of participation can still be derived indirectly,
+however, by taking a view on the trajectory of other labour market quantities and inferring
+participation as a residual to reconcile these. If employment has been as firm as implied by Bank
+staff’s indicator-based model, while the unemployment rate has been flat or rising a little, then the
+participation rate may be higher than currently estimated using the LFS data.
+A range of other indicators suggests that labour market tightness continues to ease. The number of
+vacancies, which does not suffer from the same data quality issues as the LFS, has continued to fall
+and was around 10% above pre-pandemic levels in June (middle panel of Chart 2.14). The vacancies
+to unemployment ratio had also fallen further in May. Similarly, the proportion of firms responding to
+the May DMP Survey who reported finding it much harder to recruit new employees was around 20%
+in June compared with a peak of over 65% in 2022.
+The labour market remains relatively tight by historical standards, however, and the pace of
+loosening appears to have slowed somewhat. Vacancies, for example, remain above pre-pandemic
+levels and have fallen more slowly in recent months than in 2023. And after falling from 2022, the
+proportion of firms sighting recruitment difficulties and worker shortages in the ONS BICS survey has
+been broadly unchanged since late last year (right panel of Chart 2.14).
+LFS data point to a low participation rate, whereas estimates based on Bank staff’s
+indicator-based model are higher.
+Other indicators point to a continued loosening in the labour market, although it remains
+relatively tight by historical standards.
+Bank of England  
+Page 48
+
+
+While UK output growth has been volatile over the past year, the MPC continues to judge that
+aggregate demand and supply remain broadly in balance. Consistent with that, survey measures of
+capacity utilisation are close to their historical averages, having fallen since 2021 (Chart 2.15).
+Chart 2.14: The labour market has continued to loosen but remains relatively tight by
+historical standards
+Change in the unemployment rate on a year earlier and REC survey measure of staff availability less
+demand for staff; percentage change in vacancies since 2019 Q4 and percentage point change in the
+vacancies to unemployment ratio since 2019 Q4; firms experiencing worker shortages and recruitment
+difficulties from the BICS survey (per cent) (a) (b) (c)
+Sources: KPMG/REC, ONS and Bank calculations.
+(a) The final data point shown for the unemployment rate is for the three months to May 2024. The final data point for the KPMG/REC
+series is for June, which is then advanced six months. The comparable figure for July was released after the data cut-off. The
+KPMG/REC measure has been mean and variance adjusted to match the 12-month change in the unemployment rate over the period
+since 2000.
+(b) The LFS unemployment series in the middle chart uses the official LFS estimates up to June 2023 and the ONS’s experimental
+alternative labour market statistics until February 2024 when the LFS was reinstated. The final data points are for the three months to
+May 2024 for the vacancies to unemployment ratio and for the three months to June 2024 for the vacancies series.
+(c) The right panel shows the percentage of firms responding ‘Yes’ to the questions ‘Is your business currently experiencing a shortage
+of workers?’, and ‘Did your business experience any difficulties recruiting employees?’ from the Business Insights and Conditions
+Survey. Values for the worker shortages series for February and August 2023 have been imputed in the chart. The latest data points
+are for July and June 2024, respectively.
+Demand and supply are judged to be broadly in balance.
+Bank of England  
+Page 49
+
+
+Furthermore, recent fluctuations in output growth do not appear to have had a significant effect on
+labour market quantities. That is consistent with businesses having maintained employment during
+the period of weak growth in late 2023 and utilised their headcounts more intensively during the
+pickup this year. Contacts of the Bank’s Agents reported that they had made more intensive use of
+their existing employees in recent months and would continue to do so in coming quarters.
+A margin of spare capacity is expected to open up in 2025 reflecting the continued restrictive stance
+of monetary policy (Section1).
+2.4: Inflation and wages
+Twelve-month CPI inflation fell to the 2% target in May and remained at 2% in June (Chart 2.16). The
+decline since the start of the year has primarily reflected lower goods price inflation, alongside a
+small fall in services price inflation.
+Core CPI inflation, which excludes energy, food, beverages and tobacco, has fallen by a similar
+margin, from 5.1% in January to 3.5% in June.
+Chart 2.15: Measures of capacity utilisation have fallen to close to historical averages
+Survey indicators of capacity utilisation (a)
+Sources: Bank of England Agents, British Chambers of Commerce (BCC), CBI, S&P Global/CIPS, ONS and Bank calculations.
+(a) Standard deviations from averages between 2000–19. The measures included in the swathe are from the Bank’s Agents, the BCC
+(non-services and services), the CBI (manufacturing (capacity); financial services, business/consumer/professional services and
+distributive trade (business relative to normal)) and CIPS (manufacturing (backlogs); services (outstanding business)). Sectors are
+weighted using shares in gross value added. The BCC data are not seasonally adjusted.
+Consumer price inflation has fallen further and was at the MPC’s 2% target in May and June.
+Bank of England  
+Page 50
+
+
+CPI inflation is projected to increase slightly in the second half of this year, reaching 2.8% by
+December, as the temporary drag from energy prices fades. Over the past year, electricity and gas
+prices have been dragging on headline CPI inflation (orange bars in Chart 2.16), reflecting the large
+declines in the 2023 Q3 and Q4 Ofgem price caps. In June, for example, household energy prices
+were 27.2% lower than a year prior. As those large declines fall out of the annual comparison over
+coming months, CPI inflation will rise slightly.
+A further easing in food and services price inflation is expected to provide a small offset to the boost
+to CPI inflation from energy prices.
+Household and business inflation expectations are important determinants of CPI inflation, given their
+key roles in wage and price-setting dynamics. Most measures of inflation expectations have fallen
+back since their peaks in mid-2022 to around their 2010–19 averages.
+Chart 2.16: CPI inflation fell to 2% in May and was unchanged in June, though it is expected
+to rise over 2024 H2
+Contributions to CPI inflation (a)
+Sources: Bloomberg Finance L.P., Department for Energy Security and Net Zero, ONS and Bank calculations.
+(a) Figures in parentheses are CPI basket weights in 2024. Data to June 2024. Component-level Bank staff projections from July to
+December 2024. Diamond indicates projection for headline inflation in 2025 Q1. The food component is defined as food and non-
+alcoholic beverages. Fuels and lubricants estimates use Department for Energy Security and Net Zero petrol price data for July 2024
+and are then based on the sterling oil futures curve.
+CPI inflation is projected to rise over 2024 H2, owing to the smaller drag on annual inflation
+from domestic energy bills.
+Consistent with the return of inflation to the 2% target, most inflation expectations
+indicators have normalised.
+Bank of England  
+Page 51
+
+
+Research suggests that household inflation expectations tend to move in line with recent experiences
+of actual inflation (Rowe (2016)). Consistent with that, households’ inflation expectations have
+continued to fall alongside the observed decline in CPI inflation. The Citi/YouGov indicators of short-
+term and medium-term inflation expectations fell to 2.6% and 3% respectively in June, and are close
+to their 2010–19 averages. The equivalent measures reported in the Bank/Ipsos survey were also
+around their pre-Covid averages in Q2 (left panel of Chart 2.17). Households’ perceptions of the
+current rate of inflation remained elevated, but this measure has tended to react to changes in
+headline CPI inflation with a lag.
+Firms’ short and medium-term expectations for inflation have also moderated from their peaks. The
+Deloitte CFO survey measure of businesses’ expectations for CPI inflation in two years’ time was
+2.1% in Q2, down from 2.3% in Q1. In the DMP Survey, businesses’ expectations for the inflation rate
+in one and three years’ time, as well as their perceptions of current CPI inflation, have fallen back
+since mid-2022 (right panel of Chart 2.17).
+Indicators of inflation expectations implied by financial markets are little changed since the May
+Report. The median respondent in the August Market Participants Survey expected CPI inflation of
+around 2.2% one year ahead, unchanged from May. Median five year ahead expectations were
+stable at 2%.
+Bank of England  
+Page 52
+
+
+While the headline CPI outturn for June was close to the May Report projection, goods price inflation
+was lower than expected and services inflation was higher than expected.
+Annual core goods inflation was -0.1% in June, below its pre-Covid average rate (Chart 2.18). The
+downside news was spread across several components of the goods basket. Bank staff judge that
+the weakness could reflect muted input cost pressures, given the low rates of PPI input price
+inflation, or subdued growth in consumer spending (Section 2.3). More generally, core goods CPI
+inflation has fallen materially since 2022, driven by the declines in energy prices and other imported
+goods prices from their peaks in recent years (Section 2.1).
+Food price inflation has also fallen, with contacts of the Bank’s Agents attributing this to weaker
+energy and agricultural commodities prices. Food and non-alcoholic beverages price inflation fell to
+1.5% in June compared with a peak of around 19% in March 2023.
+Chart 2.17: Inflation expectations have continued to fall back from their 2022 peaks
+Survey-based measures of inflation expectations and perceptions (a) (b)
+Sources: Bank/Ipsos Inflation Attitudes Survey, DMP and Bank calculations.
+(a) Data shown are median responses from the Bank/Ipsos Inflation Attitudes Survey. ‘Current inflation perceptions’ refers to
+respondents’ views on the current rate of inflation, ‘Short-term expectations’ refers to expectations in the next 12 months and ‘Medium-
+term expectations’ refers to expectations for inflation five years ahead. Dashed lines represent the series averages over 2010–19. A
+methodological break occurred during the Covid-19 pandemic that means a degree of caution should be taken when making long-run
+comparisons with these data, for more information please see the methodology notes linked in the latest IAS release for May 2024.
+The latest data points are for 2024 Q2.
+(b) Data shown are from the DMP survey and are based on responses to the questions: 'As a percentage, what do you think is the
+current annual CPI inflation rate in the UK?' and ‘What do you think the annual CPI inflation rate will be in the UK, one year from now
+and three years from now?’. The latest data points are for July 2024.
+Core goods price inflation has fallen…
+…and is expected to remain weak over 2024 H2.
+Bank of England  
+Page 53
+
+
+Core goods price inflation is projected to remain muted over the remainder of 2024 (Chart 2.18).
+Consistent with that, rates of PPI input price inflation have remained subdued and the signal from the
+S&P Global/CIPS manufacturing UK PMI output price index points to modest price pressures for core
+goods.
+Annual food and non-alcoholic beverages inflation is also expected to ease further, to 0.7% by the
+end of the year.
+Alongside labour market tightness (Section 2.3) and wage growth, services CPI inflation is a key
+indicator of domestic inflationary pressures and inflation persistence. That is because a large
+proportion of services are produced domestically. By contrast, the prices of many goods are
+determined on international markets and will fluctuate according to changes in global supply and
+demand conditions.
+Services consumer price inflation was 5.7% in June, unchanged from May but down from 6.5% at the
+turn of the year (Chart 2.18). That was 0.6 percentage points higher than had been expected at the
+time of the May Report and well above the 2010–19 average.
+Chart 2.18: Services price inflation is still well above its pre-Covid average, while core goods
+price inflation is below
+Annual inflation rates for components of CPI (a)
+Sources: ONS and Bank calculations.
+(a) The core goods component is defined as goods excluding food and non-alcoholic beverages, alcohol, tobacco and energy. Data to
+June 2024. Bank staff projections from July 2024 to December 2024. Dashed lines represent 2010-19 averages.
+Services price inflation has continued to decline but remains elevated.
+Bank of England  
+Page 54
+
+
+Higher-frequency measures of services price inflation, which can be indicative of near-term
+momentum in inflation, have picked up in the recent data (orange line in Chart 2.19). Much of that
+strength was due to a sharp uptick in components of the services basket that are index-linked or
+regulated, however, for which prices typically change in April and remain in the annual inflation rate
+for 12 months (aqua line in Chart 2.19). Some of the more typically volatile services components,
+such as accommodation services, also contributed to the strength observed in the three months to
+June. Near-term momentum in these more volatile components can be difficult to gauge.
+After excluding these effects, services price inflation has been relatively stable, though it remains
+elevated. The purple line in Chart 2.19, which strips out index-linked and volatile components as well
+as rents and foreign holidays, points to a three-month average of the monthly annualised inflation
+rate of around 5%. Reflecting high rates of inflation, the frequency of price changes within services
+also remains elevated. The proportion of prices rising in each month, measured from CPI microdata,
+has been higher than the pre-pandemic average since 2022, although it has fallen back since its
+peak in 2023.
+Chart 2.19: Higher-frequency measures of services price inflation have risen, though that is
+mostly due to annual uprating and volatile components
+Measures of higher-frequency services price inflation (a)
+Sources: ONS and Bank calculations.
+(a) Measures shown are three-month averages of seasonally adjusted monthly annualised inflation. Examples of indexed and
+regulated services includes telecom bills, vehicle excise duty and local authority rents. Examples of volatile services components
+include airfares and hotels. The latest data points shown are for June 2024.
+Pay growth has become an increasingly important driver of the remaining strength in
+services inflation.
+Bank of England  
+Page 55
+
+
+Evidence from the ONS Business Insights and Conditions Survey (BICS) shows that the proportion of
+services firms citing non-wage costs, including energy and raw materials prices, as pushing up on
+prices has declined since mid-2022 (Chart 2.20). Services firms continue to report labour costs as an
+important driver of price increases, however. Similarly, intelligence collected by the Bank’s Agents
+suggests that the role of non-labour input cost pressures has waned over the past year, while wage
+pressures have continued to play a key role in pricing decisions.
+There is evidence that, in the face of relatively soft consumer demand over the last few quarters,
+firms have been unable to fully pass through cost rises such that their profit margins have been
+squeezed. According to the latest National Accounts data from the ONS, non-oil profits for private
+non-financial companies have fallen back as a share of nominal GDP. Consistent with that, the
+Bank’s Agents’ scores for firms’ profit margins are at levels consistent with margins having been
+eroded.
+Chart 2.20: Non-wage costs have become a less important determinant of services firms'
+pricing decisions
+Proportion of services firms citing selected factors as pushing up on prices (a)
+Sources: ONS and Bank calculations.
+(a) Responses from firms in the services sector to the ONS Business Insights and Conditions Survey, weighted together using
+expenditure weights consistent with Blue Book 2021 estimates published in the Quarterly National Accounts. The question asked is:
+‘Which of the following factors, if any, are causing your business to consider raising prices?’. Latest data shown are for August 2024.
+The outlook for demand will be important in determining the speed and extent to which firms
+pass through higher labour costs to prices.
+Bank of England  
+Page 56
+
+
+The speed and extent to which increased labour costs are passed through to services price inflation
+in coming quarters will in part be determined by the strength of demand. Intelligence from the Bank’s
+Agents suggests that firms currently see limited scope to rebuild their margins through further price
+increases, particularly in the consumer-facing services sector. To the extent that demand recovers
+faster than expected, however, this could present an upside risk to the path of services inflation.
+Following a small pickup in August, services price inflation is expected to fall back a little, to 5.3% by
+December, as wage pressures ease. That remains significantly above the pre-Covid average (Chart
+2.18). The expected fall in services inflation is consistent with the directional steer from the July DMP
+Survey, in which consumer-facing services firms on average expected their own price inflation to fall
+by around one percentage point in a year’s time.
+The MPC is closely monitoring developments in wage growth, which is another key indicator of
+domestic inflationary pressures and inflation persistence. Annual growth in private sector regular
+AWE eased to 5.6% in the three months to May. That was down from a peak of just above 8% in mid-
+2023 and in line with the projection at the time of the May Report.
+The slowing in the official pay growth measure is consistent with the steer from Bank staff’s model of
+underlying pay growth, which has also trended down since last summer and stood at around 5½% in
+Q1. This model is based on the statistical combination of signals from a range of pay indicators and
+is shown in the orange line in the left panel of Chart 2.21.
+While most indicators point to pay growth having remained elevated, some are giving a stronger
+steer for pay growth than others (right panel of Chart 2.21). The Indeed Wage Tracker, for example,
+measures the average annual change in the wages stated in job adverts and suggests underlying
+pay pressures may be a bit stronger than implied by private sector regular AWE growth. The latest
+Indeed Wage Tracker points to wage growth of 6.8% on a year ago in June. This series has also
+fallen back by less than some of the other indicators, despite the observed reduction in labour market
+tightness.
+By contrast, the KPMG/REC UK Report on Jobs measure is giving a weaker steer for the current rate
+of pay growth. The KPMG/REC measure, which is an indication of the monthly change in wages for
+new permanent hires, is close to its historical average. The measure tends to lead official annual
+wage growth by around 12 months, although that relationship appears to have weakened somewhat
+in the past few years (right panel of Chart 2.21). Based on its historical relationship with private
+sector regular AWE growth, the series points to pay growth of around 3½% in the three months to
+June.
+Services price inflation is projected to edge down further but to remain above its pre-Covid
+average.
+Headline wage growth has eased further but remains elevated.
+Indicator-based estimates of underlying pay growth have also eased.
+Bank of England  
+Page 57
+
+
+The second quarter of the year is an important time for pay-setting. A large proportion of the year’s
+pay settlements typically take place over Q2, with around 40% of them taking effect in April alone.
+April is also the month from which the annual NLW increase takes effect. In line with the Low Pay
+Commission’s recommendations, the NLW increased by around 10% this April, to £11.44 an hour for
+workers aged 21 and over (Low Pay Commission (2023)).
+The effect of the NLW in the aggregate pay data appears to have been fairly limited so far. That is
+consistent with previous analysis by Bank staff, which suggested that the direct and indirect effects of
+the NLW increase would push up aggregate pay growth by around 0.3 percentage points (Section 2.3
+of the February 2024 Report). The impact of the NLW has been notable for some firms, however,
+particularly those in the consumer-facing services sector.
+Chart 2.21: Most pay growth measures have eased but remain higher than pre-pandemic
+Measures of annual pay growth (a) (b)
+Sources: HMRC, Indeed, KPMG/REC UK Report on Jobs, Lloyds Business Barometer, ONS and Bank calculations.
+(a) Series shown in the left hand panel are at a quarterly frequency. Bank staff’s indicator-based model of near-term private sector
+regular pay growth uses mixed-data sampling (or MIDAS) techniques. A range of indicators inform the model, including series from the
+Bank of England Agents, the Lloyds Business Barometer, Indeed, ONS/HMRC PAYE payrolls and the KPMG/REC UK Report on Jobs.
+Indicators are weighted together according to their relative forecast performance in the recent past. Private sector regular pay growth is
+the ONS measure of private sector regular average weekly earnings growth (quarter on same quarter a year ago). Latest data points
+are for 2024 Q1, with diamonds showing projections for private sector regular pay growth for Q2 and Q3.
+(b) Series shown in the right hand panel are at a monthly frequency. Definitions of wage growth vary between each of the measures.
+Private sector regular pay growth is the ONS measure of private sector regular average weekly earnings growth (three month average
+on same three month average a year ago). KPMG/REC shows average starting salaries for permanent staff compared to the previous
+month. HMRC Real Time Information (RTI) shows median of private sector employee pay growth. Indeed shows annual average job
+title matched pay growth for UK job vacancies. The KPMG/REC index is mean-variance adjusted to ONS private sector regular pay
+growth over 2002–19 and is advanced by 12 months, which better reflects the leading relationship between the KPMG/REC index and
+the ONS measure of pay growth. Latest data points are June 2024 for Indeed, HMRC RTI and the KPMG/REC index, and the three
+months to May 2024 for private sector regular pay.
+The new National Living Wage (NLW) came into effect in April but its impact on aggregate
+wage growth appears to have been small so far.
+Bank of England  
+Page 58
+
+
+The NLW will have narrowed pay differentials between those on the NLW and those paid just above
+it. Contacts of the Bank’s Agents report that they are coming under pressure to maintain pay
+differentials between scales, which could provide some boost to wage growth over the remainder of
+this year. Bank staff’s estimate of the effects of the NLW (described above) incorporates some
+degree of spillovers from this channel based on what has occurred over the past, although – given
+the size of the latest NLW increase – there is some risk that these spillovers could be larger than in
+previous years.
+Models decomposing the strength in wage growth over the past few years into its possible drivers
+have pointed to an outsized role for inflation expectations and labour market tightness (yellow and
+purple bars in Chart 2.22). Moderation in both of these factors appears to have contributed to a
+reduction in wage growth since 2023. Wage growth is somewhat firmer than can be explained by
+these fundamental factors, however, as demonstrated by the unexplained residual bars in Chart 2.22.
+The most recent falls in inflation expectations and easing in the labour market (Section 2.3) mean
+that wage growth is expected to slow further in coming quarters. Consistent with that, contacts of the
+Bank’s Agents have reported that they expect pay settlements that take effect in the second half of
+this year to average around 4%, lower than those taking effect over 2024 H1. Expectations for wage
+growth of firms responding to the DMP Survey have also continued to drift down, to 4.1% in one
+year’s time.
+Overall, private sector regular pay growth is projected to fall to 5.1% in the three months to June and
+to 4.8% in 2024 Q3 (Chart 2.22).
+The loosening in the labour market and falling inflation expectations have reduced wage
+growth over the past year and are expected to continue to do so.
+Bank of England  
+Page 59
+
+
+Chart 2.22: Falling inflation expectations and a looser labour market have contributed to
+lower wage growth
+Contributions to annual private sector regular pay growth (a)
+Sources: Barclays, Citigroup, ONS, YouGov and Bank calculations.
+(a) Wage equation based on Yellen (2017). Pay growth is Bank staff’s estimate of underlying pay growth between January 2020 and
+March 2022 and the ONS measure of private sector regular AWE growth otherwise. Short-term inflation expectations are based on the
+Barclays Basix Index and the YouGov/Citigroup one year ahead measure of household inflation expectations and projected forward
+based on a Bayesian VAR estimation. Slack is based on the MPC’s estimates, informed by the vacancies to unemployment ratio.
+Productivity growth is based on long-run market sector productivity growth per head. The unexplained component is the residual. Data
+are to 2024 Q1, with projections for 2024 Q2 and Q3.
+Bank of England  
+Page 60
+
+
+Box C: Monitoring the impact of recent monetary policy
+tightening on the economy
+In response to rising inflationary pressures, the MPC adjusted monetary policy by raising Bank
+Rate from 0.1% in December 2021 to 5¼% in August 2023. Commensurate with the rise in
+inflation, this was the largest sequential increase in Bank Rate since the late 1980s.
+Increases in Bank Rate affect the economy through a range of channels. In the first stage of
+transmission, banks, building societies and capital markets pass through the rise in Bank Rate
+and future expected interest rates to the rates they offer to households and firms (Section
+2.2). Higher Bank Rate will also reduce asset prices. In the second stage, higher interest rates
+and lower asset prices cause households and firms to change their spending patterns and
+plans, which ultimately leads to lower inflation because demand falls relative to supply in the
+economy. Higher Bank Rate can also impact inflation directly, by weighing on inflation
+expectations and – all else equal – through an appreciation of the exchange rate, which tends
+to reduce the cost of goods and services imported from abroad.
+This box focuses on the transmission of higher Bank Rate to spending in the domestic
+economy. The subsequent impact of that change in spending on inflation will tend to occur
+with a lag. Estimates vary, but most suggest that the impact of interest rates on inflation peaks
+at around one to two years (see, for example, Burgess et al (2013)). Evidence on
+businesses’ pricing decisions from the DMP Survey suggests that downward pressure on
+inflation from past rises in interest rates has been building over time. And, consistent with the
+role of monetary policy in anchoring inflation expectations, household inflation expectations
+have returned to around historical norms (Section 2.4).
+Further details of the channels through which higher Bank Rate operates are outlined in a
+recent Quarterly Bulletin article by Bank staff, Burr and Willems (2024). And Section 3.3 of
+the November 2023 Report summarises previous analysis of the impact of interest rate rises
+on GDP.
+Based on the historical relationship between interest rates and the real economy, much of the
+total anticipated impact of increases in Bank Rate and the market-implied path for future
+interest rates since August 2021 should have already fed through to the level of UK GDP. The
+pink line in the left panel of Chart A, which is estimated using models that feed into the MPC’s
+projections, suggests that higher interest rates over this period would have reduced the level
+of GDP by around 3%. The same models suggest that the impact would be likely to build a
+little further, to just under 4%. These estimates are relative to a counterfactual in which the
+market-implied path for interest rates remained fixed at its level as at the time of the August
+Past relationships would suggest that the impact of the latest Bank Rate tightening
+cycle on GDP growth has passed its peak, although there are large uncertainties
+around these estimates.
+Bank of England  
+Page 61
+
+
+2021 Report. The right panel of Chart A shows that, although the impact of higher interest
+rates since August 2021 on the level of GDP might have further to build, the estimated impact
+on GDP growth may well already be receding.
+There are large uncertainties around this analysis. The estimates in Chart A are based on the
+average historical relationship between Bank Rate and the real economy, but there is
+evidence that the relationship can change over time (Mumtaz (2010)). This could result, for
+example, from underlying changes in the structure of the economy, or from non-linear or
+asymmetric effects of monetary policy changes as found, for example, by Stenner (2022).
+Prevailing financial conditions at the start of the tightening cycle may also affect monetary
+policy transmission, as discussed in Mann (2023). During the latest tightening cycle, the
+impact of domestic interest rate changes may have been strengthened by the fact that central
+banks around the world have been tightening monetary policy at the same time; previous
+research has highlighted the important role that other central banks’ actions can play,
+particularly the Federal Reserve (Brusa et al (2020)).
+Chart A: Past relationships would suggest that most of the anticipated impact of the
+rises in interest rates since mid-2021 has already fed through to the level of GDP
+Estimated impact of changes in the OIS curve since August 2021 on: the level of GDP (left panel),
+and four-quarter GDP growth (right panel) (a)
+(a) OIS rates are the overnight index swap rates and represent market expectations for Bank Rate. Data up to 22 July 2024
+are included. Estimates are based on the standard treatment of the impact of changes in Bank Rate and Bank Rate
+expectations in the Bank’s forecasting models. The effects of the estimated impact of changes in the OIS curve on sterling
+exchange rates have been excluded. Both the total impact and the decomposition are uncertain and could be higher or lower
+than presented here.
+Bank of England  
+Page 62
+
+
+On balance, the latest evidence points to a risk that the peak impact of higher interest rates
+relative to August 2021 on the level of GDP will be a little smaller, and will occur earlier, than
+the estimate shown in the left panel of Chart A. While some channels of monetary policy
+discussed below – in particular the household cash-flow channel – may be slower than in the
+recent past, relatively swift increases in longer-term market rates during this hiking cycle
+(Chart C) may have caused others – including the house-price channel – to become faster.
+Transmission of tighter monetary policy appears to be at a similar stage in other advanced
+economies. Analysis based on the relationship between financial conditions and the real
+economy suggests that the impact of tighter monetary policy on annual GDP growth may be
+around its peak in the euro area, but may have passed its peak in the United States. The
+estimates for the euro area appear broadly consistent with the ECB’s (2024) view that the
+drag on growth from monetary transmission will fade during 2024.
+The following sections summarise the latest evidence on the transmission of higher Bank Rate
+to the domestic economy.
+Consumption
+Household consumption has been weak relative to household income growth over this
+tightening cycle, such that the saving rate has increased materially (Section 2.3). That would
+be consistent with tighter monetary policy having reduced consumption through the channels
+set out in this section. The latest evidence suggests that the impact of higher Bank Rate on
+the level of consumption may now be close to its peak.
+Increases in Bank Rate and the market-implied path for interest rates have raised household
+deposit and loan rates (Section 2.2). This has given rise to two important channels of
+monetary policy transmission: the cash-flow channel and the intertemporal substitution
+channel. Evidence suggests that most of the effects of higher interest rates through these
+channels have come through, although there may still be more to come for those households
+who are yet to remortgage.
+The cash-flow channel of monetary policy occurs when increases in Bank Rate pass through
+to higher mortgage and saving rates, causing a redistribution of income from net borrowers to
+net savers. As explained in Section 3 of the November 2023 Report, higher Bank Rate has
+led to higher aggregate household incomes, because the stock of household savings exceeds
+the stock of mortgages, and because changes in Bank Rate do not affect payments on fixed-
+rate mortgages immediately. Nevertheless, increases in Bank Rate are estimated to have
+reduced household consumption via this channel overall, since net borrowers tend to
+consume more out of a given change in income than net savers. In other words, their marginal
+propensities to consume are higher on average.
+Higher interest rates appear to be weighing on consumption as expected through the
+cash flow and intertemporal substitution channels.
+Bank of England  
+Page 63
+
+
+Structural changes in the UK mortgage market have probably slowed the transmission of
+monetary policy through the cash-flow channel somewhat compared with recent tightening
+cycles. Around 85% of UK mortgages are now on a fixed-term basis, compared with under
+half just prior to the 2008 financial crisis. As such, it now takes longer for changes in Bank
+Rate to feed through to the rates paid by households on the existing stock of mortgages.
+Many households adjust their spending and saving behaviour in expectation of increases in
+mortgage payments, however, partly offsetting this slower transmission. Estimates based on
+households’ responses to the NMG survey point to an average marginal propensity to
+consume out of expected changes in repayments within the next year of around 0.3,
+compared with 0.5 for realised changes in repayments.
+In addition to their effects on borrowers’ and savers’ incomes, higher interest rates also
+incentivise households to delay consumption and to save more. These effects are difficult to
+estimate since they cannot be directly observed. In the March 2024 NMG survey, households
+across the income distribution reported higher interest rates as a reason for saving more than
+usual over the last six months. Higher interest rates were less important for saving decisions
+than the increased cost of essentials, but the data are qualitatively consistent with the
+intertemporal substitution channel of monetary policy operating as expected. The observed
+pick-up in the aggregate household saving rate over this tightening cycle is also consistent
+with intertemporal substitution taking place.
+Higher interest rates typically reduce house prices, which can subsequently weigh on
+household consumption by lowering homeowners’ net wealth. The direct effects of lower net
+housing wealth on consumption are partly offset by the fact that lower house prices benefit
+first time buyers and homeowners wanting to move from a cheaper to a more expensive
+property (Buiter 2010). But lower housing wealth also tends to reduce the collateral
+households have available against which they can borrow, and this tends to weigh on
+economic activity.
+Nominal house prices have been broadly flat since 2022 and have fallen in real terms and
+relative to nominal household incomes (Chart B). That is consistent with a drag from tighter
+monetary policy: Bank staff estimate that increases in Bank Rate have reduced real house
+prices by around 8%, relative to a counterfactual of no rise in Bank Rate, since 2021.
+The effect of higher interest rates on house prices, and the subsequent effect on
+consumption, appears to have materialised more quickly than in the past.
+Bank of England  
+Page 64
+
+
+Updated analysis by Bank staff suggests that much of the effect of tighter monetary policy on
+house prices may have already come through. Higher interest rates appear to have weighed
+on house prices by somewhat more than expected based on the historical relationship
+between the two. That may reflect the fact that longer-term interest rates – which tend to be a
+more important determinant of house prices than short-term rates – have moved by more, and
+more quickly, over the most recent hiking cycle than in the past (Chart C). Consistent with the
+effect of higher interest rates on house prices having already come through, indicators of
+house price inflation have started to pick up earlier than expected (Section 2.3).
+While house prices and consumption are highly correlated, there is uncertainty around the
+strength of the relationship and the precise mechanisms through which it operates. New
+modelling by Bank staff suggests upside risks to the speed of transmission from house prices
+to consumption estimated using the standard treatment in Chart A. Taken together with the
+faster impact of higher interest rates on house prices, any remaining drag from the house
+price channel is likely to be smaller than the estimates included within the ‘consumption’ bars
+in Chart A and presented in Chart 3.7 of the November 2023 Report.
+Chart B: Tighter monetary policy has weighed on house price inflation
+UK house price index and house price to income ratio (a)
+Sources: ONS and Bank calculations.
+(a) UK house price index is the headline ONS house price index (HPI). The house price to income ratio is calculated based
+on gross national income per capita. The final data points are for 2024 Q1.
+Bank of England  
+Page 65
+
+
+Higher interest rates also reduce the prices of financial assets. Reductions in the value of
+financial assets tend to have modest impacts on aggregate consumption because most
+households do not own significant financial assets except through pensions (which tend not to
+be very visible). The effects can be material for households towards the top of the wealth
+distribution, however.
+Total financial wealth has fallen since 2021, broadly in line with the expected drag from higher
+interest rates based on the historical link between the two. Evidence from the March 2024
+NMG survey of households is qualitatively consistent with lower financial wealth having led to
+lower consumption, and time series estimates by Bank staff suggest a role for lower financial
+wealth in explaining weak consumption growth over the recent tightening cycle. This effect is
+likely to have now fully materialised.
+The direct reduction in consumption and investment caused by higher interest rates can lead
+to lower employment, which subsequently reduces consumption further. While the UK labour
+market remains tight (Section 2.3), evidence from the DMP Survey suggests that higher
+Chart C: Longer-term rates have moved faster and further relative to changes in Bank
+Rate during this tightening cycle
+Evolution of Bank Rate and proportionate changes in two-year and 10-year gilt yields across past
+Bank Rate tightening cycles (a)
+Sources: Bank of England, Bloomberg Finance L.P. and Bank calculations.
+(a) Tightening cycles shown include those lasting longer than six months since 1988. These are, in order: May 1988 to
+October 1989, August 1994 to February 1995, April 1997 to June 1998, August 1999 to February 2000, October 2003 to
+August 2004, July 2006 to July 2007 and November 2021 to August 2023. The 10-year gilt rate series for 1997 to 1998 is not
+shown for the full series to aid chart legibility. Rates are monthly averages. Gilt rates shown are nominal spot rates. Series
+show the changes in rates as a proportion of the trough-to-peak change in the Bank’s policy rate over that hiking cycle.
+Increases in interest rates have reduced consumption by lowering financial wealth.
+Higher interest rates will also have weighed on consumption through lower
+employment.
+Bank of England  
+Page 66
+
+
+interest rates have reduced employment by around 1.5% relative to a counterfactual of
+constant interest rates since mid-2021. These effects may have peaked, however: evidence
+from the same survey points to a fading impact of higher interest rates on employment from
+now on.
+Housing investment
+Housing investment accounts for just 5% of GDP but is one of the most variable components.
+As such, it can have an outsized effect on GDP growth over the business cycle. During the
+2008 financial crisis, for example, falls in housing investment accounted for close to one
+quarter of the overall fall in GDP.
+Housing investment encompasses three main categories: investment in new dwellings;
+improvements, repair and maintenance of existing dwellings; and transfer costs, which include
+many of the costs of moving home such as legal fees. Each of these can be affected by higher
+interest rates.
+Higher interest rates tend to reduce investment in new dwellings by weighing on expected
+future house prices, which in turn reduces the real returns on building new homes. Private
+new dwellings investment has fallen by around one quarter since its peak in 2022 (Chart
+2.12).
+Higher interest rates also reduce the transfer costs component of housing investment by
+reducing housing demand and hence the number of housing transactions. Mortgage
+approvals for house purchases, a forward indicator of housing transactions, fell to a trough of
+around 40,000 per month at the start of 2023. Since then approvals have recovered, reaching
+around 60,000 per month so far in 2024, in line with the 2010–19 average.
+Although investment in new dwellings and transfer costs has fallen as expected in response to
+higher interest rates, investment in existing dwellings has been stronger than anticipated,
+rising by over a quarter between 2021 Q4 and 2024 Q1 (Chart 2.12). That is despite increases
+in borrowing costs and a fall in housing transactions, which, in previous tightening cycles,
+have acted to reduce this form of investment. Strength in existing dwellings investment might
+reflect the legacy of the pandemic, however, rather than a change in the transmission of
+interest rates. For example, contacts of the Bank’s Agents report evidence of increased
+spending on repairs and maintenance, consistent with there being a continuing catch-up in the
+backlog of maintenance work following pandemic-driven supply constraints (Box D). In
+addition, some households were able to build up additional liquid savings during the
+pandemic, which may have been used to fund home improvements.
+Higher interest rates have weighed on housing investment.
+Evidence suggests that higher interest rates may weigh on housing investment by
+less than expected in coming quarters.
+Bank of England  
+Page 67
+
+
+Housing investment growth is expected to be positive in coming quarters and stronger than
+expected in the May Report, reflecting the recent pickup in housing market activity and house
+price inflation (Section 2.3). Consistent with that, the effects of higher interest rates on housing
+investment are judged to have come through somewhat more quickly than depicted in Chart
+A.
+Business investment
+Higher interest rates tend to reduce business investment through similar mechanisms to those
+discussed above.
+Respondents to the DMP Survey between November 2023 and January 2024 reported that
+higher interest rates had reduced business investment by around 8% in 2023 Q3 (left panel of
+Chart D). This is broadly in line with estimates based on the historical relationship between
+higher interest rates and business investment.
+Businesses report that higher interest rates are reducing investment.
+Chart D: Businesses report significant effects of higher interest rates on investment,
+although there is heterogeneity across firms
+DMP Survey: total impact of higher interest rates on investment, averaged across all firms and
+across those using different methods of financing (left panel); and proportion of firms reporting that
+higher interest rates since 2021 had raised, reduced or had no impact on investment (right panel)
+(a)
+Sources: DMP Survey and Bank calculations.
+(a) Data are based on the question: ‘Holding other factors constant, what is your best estimate of the impact of changes in
+interest rates since the end of 2021 on the capital expenditure of your business in 2023 Q3’. Estimates are from the
+November 2023 to January 2024 DMP surveys.
+Bank of England  
+Page 68
+
+
+Similar to households, tighter monetary policy affects business investment through its impact
+on the cost of new borrowing, as well as on existing cashflows and balance sheets. In the
+November 2023 to January 2024 waves of the DMP Survey, 10% of firms reported that they
+relied entirely on external finance for investment, 42% used a mix of external finance and
+internal cash flows, and 45% used only internal cash flows. Consistent with higher interest
+rates having fed through to the cost of finance, respondents that funded investment entirely
+through external financing reported a reduction in investment of 18% due to higher interest
+rates, whereas those relying only on internal financing reported impacts of less than 5%
+(orange bars in left panel of Chart D). Around three quarters of businesses reported no impact
+of higher interest rates at all (right panel of Chart D), which may be partly explained by those
+businesses making no investments over that period.
+The structure of corporate balance sheets suggests that higher rates since 2021 will have
+largely fed through to businesses’ cash flows. As Chart E shows, the largest single source of
+external financing for businesses is floating-rate bank loans. For these loans, increases in
+Bank Rate impact businesses’ finances very quickly. Some large corporates, however, also
+raise significant external finance through bond markets. The average tenor of UK corporate
+bonds at origination is around 10 years (June 2024 Financial Stability Report), which means
+that the effects of reference rate rises can take time to be reflected in these businesses’
+financing decisions. Large corporates represent over half of total capital expenditure, meaning
+that the delayed effects of higher interest rates – as these businesses refinance – could result
+in a further reduction in investment, all else equal.
+Chart E: Floating-rate bank loans represent the largest single source of funding for
+businesses, but corporate bonds are also important
+Sources of external financing for large corporates and SMEs, by tenor (a)
+Sources: Bank of England, Bureau van Dijk, LSEG Workspace, ONS and Bank calculations.
+(a) The bonds category includes commercial paper. ‘Other MBF’ refers to other forms of market-based finance. Financing with
+a tenor of less than a year includes all floating-rate financing products and fixed-rate products with a maturity of less than a
+year. The tenor of bank loans is based on tenor at origination; for bonds, it is based on the term outstanding. Data are based
+on the stock of external financing.
+Bank of England  
+Page 69
+
+
+The indirect effects of higher interest rates through lower demand can also have a significant
+impact on business investment. Based on evidence from the DMP Survey, lower expected
+sales are estimated to account for around a third of the total impact of interest rates on
+business investment. Calculations based on responses to the November 2023 to January
+2024 waves of the DMP Survey suggest that, for every 1% reduction in reported sales due to
+higher interest rates, businesses on average reduce capital expenditure by 0.5%. An
+alternative estimate based on identifying unexpected changes in firms’ sales, rather than on
+self-reported impacts of interest rates, indicates a lower but still material effect on investment
+of 0.3% for every 1% change in sales (Alati et al (2024)).
+Businesses responding to the DMP Survey reported that they did not expect the effects on
+business investment to build further between 2023 Q3 and 2024 Q3. As such, the full effects
+of higher interest rates on business investment may have come through earlier – and with a
+smaller peak impact – than depicted in Chart A and described in the November 2023 Report.
+Overall, however, survey evidence suggests that the peak impact of higher interest
+rates on business investment may have already come through.
+Bank of England  
+Page 70
+
+
+Box D: Agents’ update on business conditions
+This box presents information from Agents’ contacts considered by the MPC at its August
+meeting and summarises intelligence gathered in the six weeks to early July.
+Agents described a more optimistic tone coming from contacts in the June Agents’ summary
+of business conditions, a turnaround from the downbeat mood expressed in the May MPR.
+This optimism continues. Most sectors expect a return to growth over the rest of the year.
+Business services appears to have reached that point already. The exception is construction,
+where most contacts do not expect meaningful growth to emerge until 2025. On the
+expenditure side, real consumer demand appears to be at the point of turning positive and
+investment intentions continue to improve marginally. The labour market story is also largely
+unchanged from the June update. Employment intentions remain marginally positive and
+recruitment difficulties continue to ease though are still considered high. Intelligence continues
+to suggest that pay settlements for 2024 will average 5.7%. Settlements are highest for those
+with lower paid staff earning the National Living Wage (NLW) or close to it. Underlying
+inflationary pressures look set to moderate further in 2024 H2, although services inflation is
+likely to continue to ease more slowly than goods inflation, owing to the higher labour
+component in costs in the services sector.
+Supermarkets report increasing sales volumes supported by a continuing trend to eat at
+home. Elsewhere in retail, demand for goods remains subdued. This is most acute in the
+sectors most exposed to poor weather in early Q2, such as fashion and seasonal goods.
+Demand for new cars is broadly flat and is constrained by weak private electric vehicle sales.
+Uncertainty around the adoption of, and transition to, new renewable technologies has
+weighed heavily on demand for home boilers and heating products.
+Recent warmer weather and the UEFA European Football Championship helped drive a
+quarterly pick-up in volumes at pubs and restaurants in Q2 (even allowing for normal seasonal
+patterns), although growth is still modest compared to this time last year.
+Accommodation providers are reporting modest growth in occupancy rates, with demand very
+price sensitive. Holidaymakers are prioritising their main summer holidays and economising
+on short breaks with any growth in tourism skewed to foreign holidays.
+Real consumer demand appears to be at the point of turning positive, although
+volatile weather is making it difficult to judge the strength of underlying demand
+across subsectors. Contacts remain optimistic of demand recovery in H2.
+Investment intentions continue to improve marginally and are positive for the year
+ahead.
+Bank of England  
+Page 71
+
+
+Many contacts report that business investment is settling back into normal patterns after a
+period of some volatility owing to the pandemic, the energy price shock, high costs and tighter
+financial conditions. For some who borrow to invest or are seeking to deleverage, intentions
+continue to be more subdued.
+Intentions vary across sectors. Manufacturers are still investing in equipment to facilitate
+automation, improve efficiency and in some instances offset labour costs. Business service
+firms’ spending on technology remains robust. Higher education institutions are cutting back in
+the face of fewer international students, flat nominal domestic fees, and cost inflation.
+Persistent high costs, combined with planning delays, has meant the volume of construction
+projects progressing remains low. In general, though, contacts mention cost inflation less often
+as a deterrent to investment than previous updates.
+Export volumes of manufactured goods are similar to the same period last year, with mixed
+performance across sectors. For example, defence and aerospace output grew strongly, while
+UK suppliers into automotive sector report lower sales reflecting declining orders for vehicles.
+Exports to the US continue to rise. European Union and Chinese demand remains weak.
+The value of exports of engineering services remains strong, particularly in energy and
+defence projects. Inward tourism numbers show a slight pickup. Universities continue to report
+declining overseas student numbers from Asia owing to tightened Visa requirements.
+Audit, tax, and law firms continue to show strong revenue growth, with volumes picking up a
+little and slower fee growth. Advertising and marketing spend is rising as client firms look to
+rebuild brands after last year’s subdued activity. Corporate events, hospitality and travel
+activity continue to strengthen modestly compared to this time last year. IT services revenues
+seem to have picked up on the back of digitisation, greater spending to counter cyber risk and
+greater use of artificial intelligence. Logistics and haulage volumes remain flat overall, and
+weakest in construction materials and consumer goods. Demand for recruitment agencies’
+services is down markedly on last year.
+Annual growth in goods export volumes has moved from negative to flat and is
+expected to improve slowly through 2024 H2, while services export values growth
+remains robust.
+The business services sector has seen a slight pickup in activity. Yet, revenue growth
+has remained steady, reflecting easing price inflation. Contacts expect that reductions
+in interest rates and general election uncertainty passing will boost volume growth
+further.
+Manufacturing volumes are now slightly higher compared to a year ago. Although
+cautious about the timing of new orders, contacts expect further growth in coming
+quarters as demand recovers, initially for consumer goods and then for construction
+and housing.
+Bank of England  
+Page 72
+
+
+Suppliers to aviation and defence have significant orders and strong forward order books.
+Output for specific projects in utilities, renewables, rail and cyber security projects is also up
+compared to a year ago, and in most cases contacts anticipate this continuing. Output of
+capital equipment for automation is growing a little. The slight pickup in food and drink output
+reported last round continued. Vehicle output growth is moderating with sales of electric
+vehicles below expectations. Output of construction machinery and materials remains
+subdued.
+Private and social housebuilding activity remains down on a year ago. Significant amounts of
+housing association funding have been diverted to repairs and maintenance, which along with
+office fitouts/refurbishments and residential improvements has grown compared to last year.
+This intelligence is consistent with the official construction data. Ongoing budget constraints
+are delaying new civil projects, although investment by utilities, ports and in core infrastructure
+provides a partial offset. New commercial development continues to be hindered by higher
+funding and build costs, and output is modestly down on last year.
+Contacts continue to cite planning delays, a lack of utility connections and some
+labour/contractor shortages as constraints on output.
+Contacts reported that once the general election had happened, and given the potential
+prospect of lower Bank Rate, demand for houses could pick back up. Affordability constraints
+have slowed momentum in the new build markets. Demand for mid-market properties is
+impacted more than demand for higher-end properties, which remains strong. Expectations
+are for static house prices, or minimal increases.
+Demand for rental properties continues to cool, although supply remains constrained. Rental
+price inflation has slowed, and some estate agents are reporting a rise in rental arrears.
+Consistent with an expected return to growth, and potential cuts in Bank Rate, banks seem
+more willing to lend to the more profitable firms in sectors such as hospitality, retail, and
+construction, which have been struggling to access credit over recent times. Similarly, while
+access to credit is still a challenge for small and medium enterprises, there seems to be
+increased appetite from mainstream banks to lend to these firms. There are also signs of
+rising mid-market private equity activity and of more appetite for early-stage finance.
+Demand for new borrowing remains soft as firms are focused on refinancing existing loans or
+deleveraging. Owing to the expectation of cuts in Bank Rate in 2024 H2, some borrowers are
+switching to floating-rate debt. Most demand for new borrowing continues to be for working
+The annual rate of decline in construction output has eased and output is expected to
+stabilise by the end of 2024 helped by moderating input costs and an expected fall in
+borrowing rates.
+There has been a slight weakening in demand for house purchase, partly attributed to
+the general election.
+Contacts report the supply of credit has begun to improve mildly, though from a low
+base.
+Bank of England  
+Page 73
+
+
+capital, but there are a few more examples of borrowing to finance investment and mid-market
+mergers and acquisitions than before.
+There is a slightly higher net balance of contacts expecting to increase headcount over the
+coming year than the previous round. A focus on productivity improvements in response to
+skills shortages and higher labour costs means headcount is likely to grow at a lower rate than
+output. Some firms are still not replacing leavers, and a few say they may need to make
+redundancies to unwind continued labour hoarding if demand does not recover as expected.
+Although generally still at levels that contacts consider to be high by historical standards,
+recruitment difficulties are continuing to ease with a small but increasing number describing
+the labour market as back to what is ‘normal’ for them. Job churn is down, in part reflecting
+higher-skilled staff’s greater reluctance to move roles. Pockets of skill shortages remain in
+some industries and regions. Those who had been hoarding staff are now utilising them more
+fully.
+Settlements are highest for those with lower paid staff on, or close to, the NLW. Settlements
+appear to have peaked in April, as settlements over the rest of the year tend to be less subject
+to the NLW. Those contacts making lower pay settlements than last year cite easing wage
+pressures due to lower inflation, a looser labour market and affordability issues in maintaining
+pay differentials. Strategies to contain wage growth include skewing higher pay awards to the
+lower paid, cutting hours, increasing productivity and increasing non-pay benefits. Early
+tentative expectations of settlements for 2025 are lower than for 2024, though there are
+concerns around the potential level of the NLW and its ongoing impact on differentials.
+Input costs, such as raw materials and energy costs, are flat or falling compared to 12 months
+ago. So are imported finished goods and manufacturers’ domestic prices, held down by weak
+global and domestic demand. While still a concern for some contacts, impacts from Red Sea
+disruption were limited.
+Business services firms report that customers are more willing to push back on proposed price
+increases and change supplier if necessary.
+Food inflation continues to ease more quickly than expected. Contacts now expect the level to
+remain below 2% in 2024 H2. There is some deflation in household goods owing to weak
+demand and favourable input costs. Wet weather has held back demand for seasonal goods,
+Overall employment intentions remain slightly positive and point to low employment
+growth over the next 12 months.
+Intelligence continues to suggest that pay settlements for 2024 average 5.7%, down
+from the 6% seen in 2023 but above the 5.4% suggested by the Agents’ annual pay
+survey conducted at the start of 2024.
+Underlying inflationary pressures look set to moderate further in 2024 H2. Services
+inflation continues to ease more slowly than for goods, owing to a greater exposure
+to labour costs, which are moderating more gradually than non-labour input costs.
+Bank of England  
+Page 74
+
+
+including clothing. This has led some retailers to hold their summer sales earlier than usual
+and to discount more deeply than in 2023.
+Consumer service firms report that customers have become more responsive to offers and
+discounts given stretched household budgets. Consequently, an increasing number of
+consumer service firms are finding it more difficult to pass through higher labour costs to
+prices and very few can pass them through fully. Generally, margins remain squeezed, with
+most firms expecting a very gradual rebuild in the face of intense competition for sales.
+Bank of England  
+Page 75
+
+
+Annex 1: Other forecasters’ expectations
+This annex reports the results of the Bank’s most recent survey of external forecasters. Responses
+were submitted in the two weeks to 19 July and are summarised in Chart A. These are compared
+with the MPC’s modal projections, which are conditioned on a range of assumptions (Section 1.1)
+that may differ from those made by external forecasters.
+GDP over the four quarters to 2025 Q3 was expected to rise by 1.0%, with four-quarter growth
+increasing to 1.3% in 2026 Q3 and to 1.5% in 2027 Q3, on average (left panel of Chart A). The
+average external forecast is slightly above the MPC’s modal projections for 2025 Q3 of 0.8%, and
+slightly below the projections for 2026 Q3 and 2027 Q3 of 1.4% and 1.7% respectively.
+The unemployment rate was, on average, expected to be 4.4% in 2025 Q3, below the MPC’s
+projection of 4.6% (middle panel of Chart A). External forecasters expected the unemployment rate to
+remain at 4.4% in 2026 Q3 and 2027 Q3. By comparison, the MPC’s projection increases to 4.8% in
+2026 Q3 and then falls slightly in 2027 Q3 to 4.6%.
+CPI inflation was expected to be 2.3% in 2025 Q3, slightly below the MPC’s projection of 2.4% (right
+panel of Chart A). The average forecasts for 2026 Q3 and 2027 Q3 were close to the 2% target at
+2.1%. By contrast, the MPC’s modal projections are 1.7% and 1.5% in 2026 Q3 and 2027 Q3
+respectively.
+Bank of England  
+Page 76
+
+
+Chart A: At the three-year horizon, external forecasters expected four-quarter GDP growth to
+be 1.5%, the unemployment rate to be 4.4%, and CPI inflation to be 2.1%
+Projections for GDP, the unemployment rate and CPI inflation
+Bank of England  
+Page 77
+
+
+Annex 2: How has the economy evolved recently
+relative to the MPC’s projections?
+The MPC regularly assesses how the economy has performed relative to its forecasts. This box sets
+out how CPI inflation and GDP growth have evolved over the past year relative to the projections
+published in the May 2023 Report. Given continued concerns surrounding the LFS data, this box
+does not examine the evolution of unemployment relative to the MPC’s projections.
+The UK economy has faced a sequence of historically large shocks over the past few years (Bailey
+(2023)). This has made forecasting particularly challenging. As noted by Bernanke (2024), these
+shocks have meant that central banks across the world have made larger forecast errors than in
+previous years. Nonetheless, analysis of forecast errors can be informative in several ways. It can
+improve understanding of how past economic shocks have propagated through the economy and to
+what extent they will continue to affect the economic outlook. Similarly, it can help in interpreting key
+trends in the economy such as changes in households’ or businesses’ behaviour.
+More broadly, the nature of forecast errors can help in identifying whether forecasting models are well
+specified (Kanngiesser and Willems (2024)). The MPC’s projections are conditioned on
+assumptions for how energy prices, asset prices (including Bank Rate) and fiscal policy will evolve,
+and so differences between the projections and subsequent outcomes will often reflect changes in
+these conditioning paths.
+Evolution of the economy compared with projections made in May 2023
+CPI inflation peaked in October 2022 at 11.1%. Since then it has slowed sharply, returning to the 2%
+target in May 2024. That slowdown was somewhat larger than expected: at the time of the May 2023
+Report, CPI inflation was projected to fall from 10.2% in 2023 Q1 to 3.4% in 2024 Q2 (Chart A).
+Lower-than-expected inflation over the past year contrasts with the largely upside surprises over the
+previous year (see Annex 2 in the August 2023 Report).
+Inflation has fallen sharply over the past year, returning to the target sooner than expected
+in the May 2023 Report.
+Bank of England  
+Page 78
+
+
+The performance of the MPC’s projections for inflation has improved since 2022, when inflation rose
+rapidly due to the economic repercussions of Russia’s invasion of Ukraine. Since 2023 Q1, the one-
+quarter-ahead absolute forecast error has been broadly in line with the average error between 2005
+and 2019 (Chart B). One-year-ahead forecast accuracy has taken longer to improve but that too has
+now returned to more typical levels. Much of the improvement in accuracy was to be expected given
+the fall in inflation over that period, since forecast errors will tend to decrease when data become less
+variable. When forecast errors are scaled by the size of the energy price shock, the improvement in
+performance of the MPC’s projections since 2022 has been smaller than suggested in Chart B
+(Dhingra (2024)).
+Chart A: CPI inflation has fallen sharply since peaking in 2022, and has done so somewhat
+faster than anticipated
+Four-quarter CPI inflation outturns and projections (a)
+Sources: ONS and Bank calculations.
+(a) The final outturn is for 2024 Q2 and the final projections shown are for 2024 Q4.
+The return of inflation to the 2% target has been accompanied by a normalisation in the
+scale of recent forecast errors.
+Bank of England  
+Page 79
+
+
+Reflecting continued economic uncertainty over the impact and evolution of energy and other shocks,
+the range of external projections for inflation one year ahead was particularly large in 2023 Q2 (Chart
+C). The range has narrowed over time as this uncertainty has fallen. The MPC’s inflation projections
+for 2024 Q2 were somewhat higher than the average of external forecasters’ projections in 2023, but
+have been close to the average since the start of this year. Differences between external projections
+and the MPC’s projections may partly reflect differences in forecast conditioning assumptions, as well
+as slight differences in the timing of when projections were made.
+Chart B: Differences between projections and outturns have returned to close to historical
+averages
+Absolute differences between one and four-quarter-ahead CPI inflation outturns and prior projections (a)
+(a) Absolute forecast errors are calculated as the absolute difference between the outturn in each quarter and the projection made at
+the time of the Monetary Policy Report one quarter and one year earlier respectively. For example, the final data points are the
+absolute differences between the 2024 Q2 CPI inflation outturn and the corresponding projections from the May 2024 Report and
+August 2023 Report.
+Bank of England  
+Page 80
+
+
+Wholesale gas prices – on which the MPC’s CPI inflation projections are conditioned – have fallen
+materially in the UK over the past year (Chart D). During 2023, UK gas markets were pricing futures
+contracts for 2024 at around 140 pence per therm. Between the November 2023 Report and the
+February 2024 Report, the prices of futures contracts fell significantly, driven by a warmer than usual
+winter and healthier European gas storage levels. Futures contracts for the remainder of 2024 now
+average close to 85 pence per therm, 40% lower than the same period priced in May 2023. In
+contrast to gas prices, oil prices have risen, but by relatively small amounts: the average dollar oil
+futures price over the next three years is around 8% higher than at the time of the May 2023 Report.
+Chart C: The MPC’s projections for CPI inflation in 2024 Q2 were somewhat higher than the
+average of external projections last year
+Evolution of external and Bank projections for four-quarter CPI inflation in 2024 Q2 (a)
+Sources: LSEG Workspace and Bank calculations.
+(a) The Bank projections are taken from successive Monetary Policy Reports for the 2024 Q2 inflation outturn. These have been
+matched to a survey of external forecasters for broadly contemporaneous projections – the surveys were conducted on 5 May 2023, 23
+August 2023, 9 November 2023, 20 February 2024 and 16 May 2024.
+Falls in energy prices can explain at least two thirds of the difference between inflation
+outturns and the MPC’s May 2023 projection.
+Bank of England  
+Page 81
+
+
+The fall in energy prices accounts for most of the difference between the MPC’s projection in May
+2023 and the CPI inflation outturn. Falls in wholesale gas prices directly reduce inflation via
+household energy bills. Between October 2022 and June 2023, most households’ energy bills were
+fixed by the Government’s Energy Price Guarantee (EPG), which capped a typical household’s
+energy bills at £2,500 a year. The fall in gas prices meant Ofgem’s price cap, which is in part
+calculated from wholesale gas prices, fell below the EPG and so became the price that most
+households were paying for domestic energy. As a result, typical household’s energy bills fell by
+around £500 on an annualised basis in July 2023 and have since fallen further, to under £1,600.
+Slightly offsetting the impact of lower gas prices, the small rise in oil prices since the May 2023
+Report has pushed up CPI inflation via vehicle fuel costs. Taken together, Chart E shows that, had
+market expectations for energy prices in May 2023 been accurate, CPI inflation would have been 0.9
+percentage points higher in 2024 Q2, equating to around two thirds of the total news in inflation.
+Chart D: Gas prices and expectations for future prices both fell around the end of 2023 and
+have been more stable since
+Wholesale gas spot price and forecast conditioning assumptions for futures prices (a)
+Sources: Bloomberg Finance L.P. and Bank calculations.
+(a) The spot price is a monthly average. The futures prices shown are 15-working day averages prior to successive Monetary Policy
+Reports. Grey lines are conditioning assumptions for Reports between August 2023 and May 2024.
+Bank of England  
+Page 82
+
+
+These estimates only capture the direct effects of lower energy prices. Since energy is an input into
+the production of other goods and services, there will have been a further indirect effect of lower
+energy prices on inflation. Therefore, the total contribution of lower energy prices to the news in
+inflation will have been larger than suggested in Chart E.
+Sterling has appreciated by around 6% since the May 2023 Report. All else equal, that will have
+reduced inflation by weighing on the costs of imported goods and services.
+Within the overall downside news in inflation, services inflation has on average been higher than
+projected – consistent with greater-than-expected inflation persistence – while goods price inflation
+has been lower. The MPC does not produce services and goods price inflation projections over its
+three-year forecast period. Since the May 2023 Report, however, four-quarter services price inflation
+has been 0.1 percentage points higher on average than Bank staff’s one-quarter-ahead projections,
+and roughly in line with projections two quarters ahead. By contrast, the outturn for goods price
+inflation has been 0.2 percentage points below staff’s one-quarter-ahead projections on average, and
+Chart E: Lower energy prices account for around two thirds of the downside news in inflation
+since the May 2023 Report
+Decomposition of four-quarter CPI inflation forecast errors relative to the May 2023 projection (a)
+Sources: ONS and Bank calculations.
+(a) The direct effects of energy prices are based on the contribution of petrol, electricity, gas and other fuels to CPI inflation. The total
+inflation error and direct effects of energy prices are based on the difference between the headline CPI inflation data, the direct effects
+of energy prices and the respective projections consistent with the May 2023 Report.
+The appreciation in sterling since May 2023 will also have weighed on inflation.
+Measures related to domestically generated inflation, including wage growth, have tended to
+be somewhat higher than projected at the time of the May 2023 Report.
+Bank of England  
+Page 83
+
+
+0.8 percentage points below projections two quarters ahead. The pattern was smaller but similar for
+non-energy goods where the outturns have, on average, been 0.1 and 0.7 percentage points below
+the respective quarterly projections.
+Pay growth – another key indicator of domestic price pressures – has also been somewhat stronger
+than the MPC’s projections over the past year. Chart F shows the evolution of four-quarter private
+sector regular pay growth projections relative to outturns. Outturns in mid-2023 were substantially
+higher than the MPC’s May 2023 projection, although some of that may reflect volatility in the data for
+private sector regular AWE growth (as indicated by the particularly large ‘unexplained’ aqua bar in
+Chart 2.22 for 2023 Q2). Wage growth has fallen back since mid-2023 and the outturn in 2024 Q1
+was only modestly above the May 2023 projection. Nevertheless, the MPC’s latest projection for
+wage growth remains above the projection at the time of the May 2023 Report.
+The MPC monitors a broad range of indicators in assessing the medium-term outlook for inflation. It
+has identified services price inflation, labour market tightness and wage growth as key measures of
+inflation persistence (Section 3 of the May 2024 Report). The evolution of these measures has had
+important implications for the monetary policy outlook, even as headline CPI inflation has fallen.
+UK GDP fell during the second half of 2023. That contraction was not anticipated in the May 2023
+Report or in survey indicators of economic activity, such as the PMIs, available at the time. Since the
+turn of the year, however, economic activity has strengthened such that the level of GDP is expected
+to be in line with the May 2023 projections in 2024 Q2 and higher thereafter (Chart G).
+Chart F: One measure of wage growth was stronger than anticipated in early and mid-2023
+but has subsequently moved closer to the May 2023 projection
+Four-quarter private sector regular pay growth outturns and projections (a)
+Sources: ONS and Bank calculations.
+(a) The final outturn is for 2024 Q1 and the final projections shown are for 2024 Q4.
+GDP growth has been lower than projected in May 2023.
+Bank of England  
+Page 84
+
+
+The MPC’s projections are conditioned on market expectations for future Bank Rate, as reflected in
+overnight index swap forward rates. At the time of the May 2023 Report, the market-implied path for
+Bank Rate peaked at around 4¾% by the end of 2023 and then gradually fell (Chart H). The MPC
+subsequently raised Bank Rate to 5¼% in August 2023, coinciding with a rise in market expectations
+for Bank Rate. Since then, Bank Rate expectations have fallen back from their peak, though they
+remain above those in May 2023.
+Chart G: GDP outturns were weaker than anticipated in the latter half of 2023, but the
+recovery in early 2024 has closed some of the gap with the May 2023 projection
+GDP outturns and projections (a)
+Sources: ONS and Bank calculations.
+(a) The final outturn is for 2024 Q1 and the final projections shown are for 2024 Q4.
+Movements in the market-implied path for interest rates have been one driver of the news in
+GDP relative to the May 2023 Report.
+Bank of England  
+Page 85
+
+
+The rise in the market-implied path for interest rates relative to the MPC’s May 2023 conditioning
+assumptions can explain part of the relative weakness in GDP observed in the latter half of 2023.
+Higher interest rates led to increases in borrowing and saving rates, which in turn will have
+contributed to the higher-than-anticipated household saving ratio in 2023 (Chart I).
+The market-implied path for future interest rates has fallen back from its peak at the time of the
+August 2023 Report (Chart H). Despite interest rates remaining higher than at the time of the May
+2023 Report, that will have contributed to the pickup in growth since the start of the year.
+Chart H: The market-implied path for Bank Rate has risen since May 2023
+Bank Rate and market-implied expectations (a)
+Sources: Bloomberg Finance L.P. and Bank calculations.
+(a) The market-implied paths for future Bank Rate are 15-working day averages of OIS curves prior to publication of successive
+Monetary Policy Reports. The grey area shows the range of Bank Rate conditioning assumptions for Reports between August 2023
+and May 2024. Final data points refer to December 2026.
+Bank of England  
+Page 86
+
+
+All else equal, sterling’s 6% appreciation since the May 2023 Report will have weighed on GDP
+growth by making UK exports less competitive. The stronger pound is estimated to have reduced
+GDP by around 0.2% relative to the MPC’s May 2023 projection in 2024 Q1 and can explain a little
+under half of the relatively small news in the level of GDP in that quarter.
+Acting in the opposite direction, the fall in energy prices in late 2023 boosted household real incomes
+and reduced costs for businesses. In turn, that may have contributed to the unexpected strength in
+GDP growth in the first half of 2024. Energy price changes tend to take time to feed through fully to
+demand, in part because many businesses purchase energy through fixed-term contracts, which take
+time to reprice. The indirect effects of lower energy prices on the prices of other goods and services
+along the supply chain will also occur with a lag. The associated boost to household real incomes is
+expected to support consumption in coming quarters (Section 2.3).
+Chart I: The household saving ratio was projected to be flat in the May 2023 Report, but
+instead has risen
+Household saving ratio outturns and projections (a)
+Sources: ONS and Bank calculations.
+(a) The final outturn is for 2024 Q1 and the final projections shown are for 2024 Q4.
+Sterling’s appreciation and the fall in energy prices since the May 2023 projection will also
+have contributed to the news in GDP.
+Bank of England  
+Page 87
+
+
+Glossary and other information
+AWE – average weekly earnings.
+CPI – consumer prices index.
+CPI inflation – inflation measured by the consumer prices index.
+DMP – Decision Maker Panel.
+ERI – exchange rate index.
+GDP – gross domestic product.
+HICP – harmonised index of consumer prices.
+LFS – Labour Force Survey.
+M4 – UK non-bank, non-building society private sector’s holdings of sterling notes and coin, and their
+sterling deposits (including certificates of deposit, holdings of commercial paper and other short-term
+instruments and claims arising from repos) held at UK banks and building societies.
+OIS – overnight index swap.
+PCE – personal consumption expenditure.
+PMI – purchasing managers’ index.
+PPI – producer price index.
+REC – Recruitment and Employment Confederation.
+Glossary of selected data and instruments
+APF – Asset Purchase Facility.
+BCC – British Chambers of Commerce.
+CIPS – Chartered Institute of Purchasing and Supply.
+ECB – European Central Bank.
+EPG – Energy Price Guarantee.
+GFC – global financial crisis.
+Abbreviations
+Bank of England  
+Page 88
+
+
+GfK – Gesellschaft für Konsumforschung, Great Britain Ltd.
+HMRC – His Majesty’s Revenue and Customs.
+ILO – International Labour Organization.
+IMF – International Monetary Fund.
+IOFCs – intermediate other financial corporations.
+LTV – loan to value.
+MBF – market-based finance.
+MIDAS – mixed-data sampling.
+MPC – Monetary Policy Committee.
+MTIC – missing trader intra-community.
+NLW – National Living Wage.
+OBR – Office for Budget Responsibility.
+OFC – other financial corporation.
+Ofgem – Office of Gas and Electricity Markets.
+ONS – Office for National Statistics.
+PAYE – Pay As You Earn.
+PPP – purchasing power parity.
+QE – quantitative easing.
+QT – quantitative tightening.
+REC – Recruitment and Employment Confederation.
+RTI – Real Time Information.
+S&P – Standard & Poor’s.
+SME – small and medium-sized enterprise.
+TLFS – transformed Labour Force Survey.
+WEO – IMF World Economic Outlook.
+Bank of England  
+Page 89
+
+
+Except where otherwise stated, the source of the data used in charts and tables is the Bank of
+England or the Office for National Statistics (ONS) and all data, apart from financial markets data and
+results from the Decision Maker Panel (DMP) Survey, are seasonally adjusted.
+n.a. = not available.
+Because of rounding, the sum of the separate items may sometimes differ from the total shown.
+On the horizontal axes of graphs, larger ticks denote the first observation within the relevant period,
+eg data for the first quarter of the year.
+Symbols and conventions
+Bank of England  
+Page 90

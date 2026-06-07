@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Remarks on the Economy and Bank Supervision and Regulation",
+  "date_original": "2023-11-07",
+  "date_au": "07/11/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20231107a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-07 - Michelle W. Bowman - Remarks on the Economy and Bank Supervision and Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-07 - Michelle W. Bowman - Remarks on the Economy and Bank Supervision and Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "41de31b932348f757cfc8d22d2c9d0b4c0af750b943a51fb950795398360e703"
+}

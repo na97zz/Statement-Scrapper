@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Effects of Tariffs on the Three Iâs: Inflation, Inflation Persistence, and Inflation Expectations",
+  "date_original": "2025-06-01",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250601a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-06-01 - Christopher J. Waller - The Effects of Tariffs on the Three Iâs_ Inflation, Inflation Persistence, and Inflation Expectations.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-06-01 - Christopher J. Waller - The Effects of Tariffs on the Three Iâs_ Inflation, Inflation Persistence, and Inflation Expectations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "921065846ca1221f1a29a5ee1cc9d18417a37aafc7435ab9348de763d8e29336"
+}

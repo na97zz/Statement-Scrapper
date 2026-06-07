@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Monetary policy: prices versus quantities - speech by Ben Broadbent",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Ben Broadbent",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/april/ben-broadbent-speech-hosted-by-national-institute-of-economic-and-social-research",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Ben Broadbent - Monetary policy_ prices versus quantities - speech by Ben Broadbent.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Ben Broadbent - Monetary policy_ prices versus quantities - speech by Ben Broadbent.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f0622e30e5a0ca74f60ef72bad498b6263e7f9abc640a3a122c48c046cd6e1e4"
+}

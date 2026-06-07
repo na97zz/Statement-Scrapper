@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"The COVID-19 Crisis and Inflation Dynamics\" (Opening Remarks at the Workshop on \"Issues Surrounding Price Developments during the COVID-19 Pandemic\")",
+  "date_original": "2022-03-29",
+  "date_au": "29/03/2022",
+  "datetime_original": "",
+  "speaker": "AMAMIYA Masayoshi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220329b.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-03-29 - AMAMIYA Masayoshi - _The COVID-19 Crisis and Inflation Dynamics_ (Opening Remarks at the Workshop on _Issues Surrounding Price Developmen.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-03-29 - AMAMIYA Masayoshi - _The COVID-19 Crisis and Inflation Dynamics_ (Opening Remarks at the Workshop on _Issues Surrounding Price Developmen.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d9e38404cbc9fe65b640f678e606223d33c3a368d23ecf108e441c8fb92975ac"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Sapporo)",
+  "date_original": "2022-06-09",
+  "date_au": "09/06/2022",
+  "datetime_original": "",
+  "speaker": "ADACHI Seiji",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220609a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-06-09 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Sapporo).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-06-09 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Sapporo).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2b49661c350766e8f0b87652b866c511af46fe997a21c2a60b64fd954d3ea130"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Climate Change and Financial Stability",
+  "date_original": "2023-05-11",
+  "date_au": "11/05/2023",
+  "datetime_original": "",
+  "speaker": "Climate Change and Financial Stability",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230511a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-11 - Climate Change and Financial Stability - Climate Change and Financial Stability.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-11 - Climate Change and Financial Stability - Climate Change and Financial Stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "01acfaeb3c6daf02712f285b0386f3434278d7ee6bf714ab2cd53903e20b0923"
+}

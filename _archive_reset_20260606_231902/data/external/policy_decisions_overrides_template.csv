@@ -1,0 +1,162 @@
+bank,meeting_date,meeting_id,override_decision,override_rate_change_bps,override_policy_rate_after,override_confidence,override_notes,approved
+RIKSBANK,2022-06-01,RIKSBANK_2022_06_A,hike,,,0.75,strong hike keyword,false
+RIKSBANK,2022-06-01,RIKSBANK_2022_06_C,hike,,,0.75,strong hike keyword,false
+RIKSBANK,2022-06-01,RIKSBANK_2022_06_D,hike,,,0.75,strong hike keyword,false
+RIKSBANK,2026-06-01,RIKSBANK_2026_06,hold,0.0,,0.75,strong hold keyword,false
+SNB,2025-12-11,SNB_2025_12,hold,0.0,,0.75,strong hold keyword,false
+BOE,2022-06-01,BOE_2022_06_B,hold,0.0,0.5,0.9,strong hold keyword,false
+BOJ,2026-01-23,BOJ_2026_01,hold,0.0,,0.75,strong hold keyword,false
+BOJ,2026-03-19,BOJ_2026_03,hold,0.0,,0.75,strong hold keyword,false
+BOJ,2026-04-28,BOJ_2026_04,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-01-21,ECB_2021_01,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-03-11,ECB_2021_03,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-04-22,ECB_2021_04,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-06-10,ECB_2021_06,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-07-22,ECB_2021_07,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-10-28,ECB_2021_10,hold,0.0,,0.75,strong hold keyword,false
+ECB,2021-12-16,ECB_2021_12,hike,,,0.75,strong hike keyword,false
+ECB,2022-03-10,ECB_2022_03,hold,0.0,,0.75,strong hold keyword,false
+ECB,2022-07-21,ECB_2022_07,hike,,,0.75,strong hike keyword,false
+ECB,2022-09-08,ECB_2022_09,hike,75.0,,0.85,explicit hike bps,false
+ECB,2022-10-27,ECB_2022_10,hike,75.0,,0.85,explicit hike bps,false
+ECB,2022-12-15,ECB_2022_12,hike,50.0,,0.85,explicit hike bps,false
+ECB,2023-05-04,ECB_2023_05,hike,,,0.75,strong hike keyword,false
+ECB,2023-06-15,ECB_2023_06,hike,25.0,,0.85,explicit hike bps,false
+ECB,2023-09-14,ECB_2023_09,hike,,,0.75,strong hike keyword,false
+ECB,2023-10-26,ECB_2023_10,hold,0.0,,0.75,strong hold keyword,false
+ECB,2023-12-14,ECB_2023_12,hold,0.0,,0.75,strong hold keyword,false
+ECB,2024-01-25,ECB_2024_01,hold,0.0,,0.75,strong hold keyword,false
+ECB,2024-03-07,ECB_2024_03,hold,0.0,,0.75,strong hold keyword,false
+ECB,2024-04-11,ECB_2024_04,hold,0.0,,0.75,strong hold keyword,false
+ECB,2024-06-06,ECB_2024_06,hike,450.0,,0.85,explicit hike bps,false
+ECB,2024-07-18,ECB_2024_07,hold,0.0,,0.75,strong hold keyword,false
+ECB,2024-09-12,ECB_2024_09,cut,-25.0,,0.85,explicit cut bps,false
+ECB,2024-10-17,ECB_2024_10,cut,-25.0,,0.85,explicit cut bps,false
+ECB,2024-12-12,ECB_2024_12,cut,,,0.75,strong cut keyword,false
+ECB,2025-01-30,ECB_2025_01,cut,-125.0,,0.85,explicit cut bps,false
+ECB,2025-03-06,ECB_2025_03,cut,,,0.75,strong cut keyword,false
+ECB,2025-04-17,ECB_2025_04,cut,-25.0,,0.85,explicit cut bps,false
+ECB,2025-06-05,ECB_2025_06,cut,-25.0,,0.85,explicit cut bps,false
+ECB,2025-07-24,ECB_2025_07,hold,0.0,,0.75,strong hold keyword,false
+ECB,2025-09-11,ECB_2025_09,hold,0.0,,0.75,strong hold keyword,false
+ECB,2025-10-30,ECB_2025_10,hold,0.0,,0.75,strong hold keyword,false
+ECB,2025-12-18,ECB_2025_12,hold,0.0,,0.75,strong hold keyword,false
+ECB,2026-02-05,ECB_2026_02,hold,0.0,,0.75,strong hold keyword,false
+ECB,2026-03-19,ECB_2026_03,hold,0.0,,0.75,strong hold keyword,false
+ECB,2026-04-30,ECB_2026_04,hold,0.0,,0.75,strong hold keyword,false
+FED,2021-11-03,FED_2021_11,hold,0.0,,0.75,strong hold keyword,false
+FED,2022-03-16,FED_2022_03,hike,25.0,,0.85,explicit hike bps,false
+FED,2022-06-15,FED_2022_06,hike,,,0.75,strong hike keyword,false
+FED,2022-07-27,FED_2022_07,hike,,,0.75,strong hike keyword,false
+FED,2022-09-21,FED_2022_09,hike,,2.0,0.75,strong hike keyword,false
+FED,2022-11-02,FED_2022_11,hike,,,0.75,strong hike keyword,false
+FED,2022-12-14,FED_2022_12,hike,,,0.75,strong hike keyword,false
+FED,2023-02-01,FED_2023_02,hike,,,0.75,strong hike keyword,false
+FED,2023-03-22,FED_2023_03,hike,,,0.75,strong hike keyword,false
+FED,2023-05-03,FED_2023_05,hike,,,0.75,strong hike keyword,false
+FED,2023-07-26,FED_2023_07,hike,,,0.75,strong hike keyword,false
+FED,2024-09-18,FED_2024_09,cut,,,0.75,strong cut keyword,false
+FED,2024-11-07,FED_2024_11,cut,,,0.75,strong cut keyword,false
+FED,2025-09-17,FED_2025_09,cut,,,0.75,strong cut keyword,false
+FED,2025-10-29,FED_2025_10,cut,,,0.75,strong cut keyword,false
+FED,2025-12-10,FED_2025_12,cut,,,0.75,strong cut keyword,false
+FED,2026-03-18,FED_2026_03,hold,0.0,,0.75,strong hold keyword,false
+FED,2026-04-29,FED_2026_04,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-02-02,RBA_2021_02,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-03-02,RBA_2021_03,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-04-06,RBA_2021_04,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-05-04,RBA_2021_05,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-06-01,RBA_2021_06,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-09-07,RBA_2021_09,hold,0.0,,0.75,strong hold keyword,false
+RBA,2021-12-07,RBA_2021_12,cut,-50.0,,0.85,explicit cut bps,false
+RBA,2022-02-01,RBA_2022_02,hold,0.0,,0.75,strong hold keyword,false
+RBA,2022-03-01,RBA_2022_03,hold,0.0,,0.75,strong hold keyword,false
+RBA,2022-04-05,RBA_2022_04,hold,0.0,,0.75,strong hold keyword,false
+RBA,2023-08-01,RBA_2023_08,hold,0.0,,0.75,strong hold keyword,false
+RBA,2024-11-05,RBA_2024_11,hold,0.0,,0.75,strong hold keyword,false
+RBA,2025-11-04,RBA_2025_11,cut,-25.0,,0.85,explicit cut bps,false
+RBNZ,2021-02-23,RBNZ_2021_02,hold,0.0,2.0,0.9,strong hold keyword,false
+RBNZ,2021-05-25,RBNZ_2021_05,hold,0.0,0.25,0.9,strong hold keyword,false
+RBNZ,2021-08-17,RBNZ_2021_08,hold,0.0,,0.75,strong hold keyword,false
+RBNZ,2022-08-16,RBNZ_2022_08,hold,0.0,,0.75,strong hold keyword,false
+RBNZ,2024-11-27,RBNZ_2024_11,cut,-50.0,,0.85,explicit cut bps,false
+RBNZ,2025-02-18,RBNZ_2025_02,cut,-50.0,,0.85,explicit cut bps,false
+RBNZ,2025-11-26,RBNZ_2025_11,hold,0.0,,0.75,strong hold keyword,false
+RIKSBANK,2021-06-01,RIKSBANK_2021_06_A,hold,0.0,,0.75,strong hold keyword,false
+RIKSBANK,2021-06-01,RIKSBANK_2021_06_B,hold,0.0,,0.75,strong hold keyword,false
+RIKSBANK,2021-06-01,RIKSBANK_2021_06_C,hold,0.0,,0.75,strong hold keyword,false
+RIKSBANK,2021-06-01,RIKSBANK_2021_06_E,hold,0.0,,0.75,strong hold keyword,false
+RIKSBANK,2022-06-01,RIKSBANK_2022_06_B,hold,0.0,,0.75,strong hold keyword,false
+RIKSBANK,2023-06-01,RIKSBANK_2023_06_A,hike,,,0.75,strong hike keyword,false
+RIKSBANK,2023-06-01,RIKSBANK_2023_06_B,hike,,,0.75,strong hike keyword,false
+RIKSBANK,2023-06-01,RIKSBANK_2023_06_C,hike,,,0.75,strong hike keyword,false
+RIKSBANK,2024-06-01,RIKSBANK_2024_06_C,hold,0.0,,0.75,strong hold keyword,false
+BOE,2022-06-01,BOE_2022_06_A,hike,75.0,,0.85,explicit hike bps,false
+BOE,2022-06-01,BOE_2022_06_C,hike,25.0,,0.85,explicit hike bps,false
+BOE,2022-06-01,BOE_2022_06_D,hike,75.0,,0.85,explicit hike bps,false
+ECB,2023-02-02,ECB_2023_02,hike,50.0,,0.85,explicit hike bps,false
+ECB,2023-03-16,ECB_2023_03,hike,,,0.75,strong hike keyword,false
+ECB,2023-07-27,ECB_2023_07,hike,,,0.75,strong hike keyword,false
+NORGES_BANK,2023-06-01,NORGES_BANK_2023_06_D,hike,50.0,,0.85,explicit hike bps,false
+RBA,2022-05-03,RBA_2022_05,hike,25.0,,0.85,explicit hike bps,false
+RBA,2022-06-07,RBA_2022_06,hike,50.0,,0.85,explicit hike bps,false
+RBA,2022-07-05,RBA_2022_07,hike,50.0,,0.85,explicit hike bps,false
+RBA,2022-08-02,RBA_2022_08,hike,50.0,,0.85,explicit hike bps,false
+RBA,2022-09-06,RBA_2022_09,hike,50.0,,0.85,explicit hike bps,false
+RBA,2022-10-04,RBA_2022_10,hike,25.0,,0.85,explicit hike bps,false
+RBA,2022-11-01,RBA_2022_11,hike,25.0,,0.85,explicit hike bps,false
+RBA,2022-12-06,RBA_2022_12,hike,25.0,,0.85,explicit hike bps,false
+RBA,2023-02-07,RBA_2023_02,hike,25.0,,0.85,explicit hike bps,false
+RBA,2023-03-07,RBA_2023_03,hike,25.0,,0.85,explicit hike bps,false
+RBA,2023-05-02,RBA_2023_05,hike,25.0,,0.85,explicit hike bps,false
+RBA,2023-06-06,RBA_2023_06,hike,25.0,,0.85,explicit hike bps,false
+RBA,2023-11-07,RBA_2023_11,hike,25.0,,0.85,explicit hike bps,false
+RBA,2023-12-05,RBA_2023_12,hike,25.0,,0.85,explicit hike bps,false
+RBA,2025-02-18,RBA_2025_02,hike,,,0.75,strong hike keyword,false
+RBA,2025-05-20,RBA_2025_05,cut,-25.0,,0.85,explicit cut bps,false
+RBA,2025-08-12,RBA_2025_08,cut,-25.0,,0.85,explicit cut bps,false
+RBA,2026-02-03,RBA_2026_02,hike,25.0,,0.85,explicit hike bps,false
+RBA,2026-03-17,RBA_2026_03,hike,25.0,,0.85,explicit hike bps,false
+RBA,2026-05-05,RBA_2026_05,hike,25.0,,0.85,explicit hike bps,false
+RBNZ,2021-11-23,RBNZ_2021_11,hike,100.0,,0.85,explicit hike bps,false
+RBNZ,2022-02-22,RBNZ_2022_02,hold,0.0,,0.75,strong hold keyword,false
+RBNZ,2022-11-22,RBNZ_2022_11,hike,85.0,,0.85,explicit hike bps,false
+RBNZ,2023-02-21,RBNZ_2023_02,hike,85.0,,0.85,explicit hike bps,false
+RBNZ,2023-05-23,RBNZ_2023_05,hold,0.0,,0.75,strong hold keyword,false
+RBNZ,2024-08-14,RBNZ_2024_08,cut,-25.0,,0.85,explicit cut bps,false
+RBNZ,2025-05-27,RBNZ_2025_05,cut,-25.0,,0.85,explicit cut bps,false
+RBNZ,2025-08-19,RBNZ_2025_08,cut,-25.0,,0.85,explicit cut bps,false
+RBNZ,2026-02-18,RBNZ_2026_02,hike,25.0,,0.85,explicit hike bps,false
+RBNZ,2026-05-26,RBNZ_2026_05,hold,0.0,,0.75,strong hold keyword,false
+BOE,2021-06-01,BOE_2021_06_A,hold,0.0,0.1,0.9,strong hold keyword,false
+BOE,2021-06-01,BOE_2021_06_C,hold,0.0,0.1,0.9,strong hold keyword,false
+BOE,2024-06-01,BOE_2024_06_B,hold,0.0,5.25,0.9,strong hold keyword,false
+BOE,2025-06-01,BOE_2025_06_A,hold,0.0,4.0,0.9,strong hold keyword,false
+BOE,2025-06-01,BOE_2025_06_C,hold,0.0,4.5,0.9,strong hold keyword,false
+BOE,2026-06-01,BOE_2026_06_A,hold,0.0,3.75,0.9,strong hold keyword,false
+FED,2021-01-27,FED_2021_01,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2021-03-17,FED_2021_03,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2021-04-28,FED_2021_04,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2021-06-16,FED_2021_06,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2021-07-28,FED_2021_07,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2021-09-22,FED_2021_09,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2021-12-15,FED_2021_12,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2022-01-26,FED_2022_01,hold,0.0,0.125,0.9,strong hold keyword; Fed target range 0 to 0.25; midpoint used.,false
+FED,2023-06-14,FED_2023_06,hold,0.0,5.125,0.9,strong hold keyword; Fed target range 5 to 5.25; midpoint used.,false
+FED,2023-09-20,FED_2023_09,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2023-11-01,FED_2023_11,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2023-12-13,FED_2023_12,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2024-01-31,FED_2024_01,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2024-03-20,FED_2024_03,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2024-05-01,FED_2024_05,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2024-06-12,FED_2024_06,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2024-07-31,FED_2024_07,hold,0.0,5.375,0.9,strong hold keyword; Fed target range 5.25 to 5.5; midpoint used.,false
+FED,2024-12-18,FED_2024_12,hold,0.0,4.625,0.9,strong hold keyword; Fed target range 4.5 to 4.75; midpoint used.,false
+FED,2025-01-29,FED_2025_01,hold,0.0,4.375,0.9,strong hold keyword; Fed target range 4.25 to 4.5; midpoint used.,false
+FED,2025-03-19,FED_2025_03,hold,0.0,4.375,0.9,strong hold keyword; Fed target range 4.25 to 4.5; midpoint used.,false
+FED,2025-05-07,FED_2025_05,hold,0.0,4.375,0.9,strong hold keyword; Fed target range 4.25 to 4.5; midpoint used.,false
+FED,2025-06-18,FED_2025_06,hold,0.0,4.375,0.9,strong hold keyword; Fed target range 4.25 to 4.5; midpoint used.,false
+FED,2025-07-30,FED_2025_07,hold,0.0,4.375,0.9,strong hold keyword; Fed target range 4.25 to 4.5; midpoint used.,false
+FED,2026-01-28,FED_2026_01,hold,0.0,3.625,0.9,strong hold keyword; Fed target range 3.5 to 3.75; midpoint used.,false
+RBNZ,2024-02-27,RBNZ_2024_02,hold,0.0,5.5,0.9,strong hold keyword,false
+SNB,2025-09-25,SNB_2025_09,hold,0.0,,0.75,strong hold keyword,false

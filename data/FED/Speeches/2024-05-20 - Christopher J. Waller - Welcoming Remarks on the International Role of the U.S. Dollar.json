@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks on the International Role of the U.S. Dollar",
+  "date_original": "2024-05-20",
+  "date_au": "20/05/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240520a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-20 - Christopher J. Waller - Welcoming Remarks on the International Role of the U.S. Dollar.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-20 - Christopher J. Waller - Welcoming Remarks on the International Role of the U.S. Dollar.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "26ec502353d55babb8e5bffee7f89cca9591cc728e567574a4f127b91e94ac1e"
+}

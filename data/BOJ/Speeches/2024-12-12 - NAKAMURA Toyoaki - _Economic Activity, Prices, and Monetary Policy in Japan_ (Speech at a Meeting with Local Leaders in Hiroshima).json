@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Hiroshima)",
+  "date_original": "2024-12-12",
+  "date_au": "12/12/2024",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko241212a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-12-12 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Hiroshima).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-12-12 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Hiroshima).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "863816bafeca218039f57d8cc7919a1b85477b170007d0c9cb3c7b37832e18d9"
+}

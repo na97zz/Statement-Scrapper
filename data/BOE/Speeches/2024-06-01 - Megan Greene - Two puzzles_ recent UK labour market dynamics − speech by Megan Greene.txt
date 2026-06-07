@@ -1,0 +1,303 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Two puzzles: recent UK labour market dynamics − speech by Megan Greene
+DATE: 01/06/2024
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/may/megan-greene-speech-at-make-uk-the-current-state-of-britains-labour-market
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Two puzzles: recent UK labour market dynamics − speech by Megan Greene
+Given at Make UK
+Related links
+Related links
+Downloads
+Published on 
+
+ 16 May 2024
+Megan Greene looks at two recent puzzles in the UK labour market: first that unemployment has remained relatively low despite subdued output, and second that some wage strength remains unexplained as inflation expectations ease and the labour market loosens. She evaluates whether excess labour hoarding can partly explain both puzzles and what the monetary policy implications may be going forward.
+Speech
+Many thanks for hosting me at Make UK. Given the interests of this group and the challenges I’m told some of you have faced with recruitment, I thought I would spend some time taking a deep-dive into recent UK labour market developments. Over the last 2-3 years, we have seen a historically tight labour market, driven by recruitment difficulties as the pandemic likely caused structural shifts. I aim to focus on two puzzles that have been a feature of this period. First, unemployment has remained at historically low levels despite subdued economic growth. And second, wages have remained high amid an easing labour market and inflation expectations. Labour hoarding may partially explain both.
+Before I dive into these puzzles, it’s important to define what we mean by labour hoarding. Firms are said to hoard labour when they choose not to adjust employment in line with short-term fluctuations in demand
+footnote
+[1]
+. This happens all the time, and can save firms costs on things like recruitment and training. Today I want to look at whether there has been evidence of excess labour hoarding, beyond what can be considered normal.
+This can manifest in two ways – employers might hang on to workers in the face of subdued demand, and/or they might decrease the average hours worked per head. I will analyse both measures through different lenses, but with a focus on whether or not recent developments match historical trends or represent excess labour hoarding. How much excess labour hoarding there is and whether firms will continue to do it has a direct impact on inflation dynamics and therefore the Monetary Policy Committee’s policy stance. Persistent hoarding may slow the return of inflation to target by preventing the labour market from loosening. But if firms suddenly capitulate and stop hoarding labour, unemployment could jump and inflation could undershoot the target.
+Puzzle 1 – Unemployment remains low by historical standards despite subdued growth
+I’ll begin by setting out the first puzzle: unemployment is not rising much despite weak economic growth. The unemployment rate was low by historical standards prior to the pandemic at around 4%. Following Covid, unemployment has returned to these historically low levels despite massive shocks from the pandemic, supply chain disruptions, Russia’s invasion of Ukraine and a cost of living crisis. This is especially curious given the latest models indicate the medium-term equilibrium rate of unemployment, u*, has risen since the pandemic (
+Greene, 2023
+) , and the MPC has revised up its estimate of this to 4.5%
+footnote
+[2]
+.
+One way to think about the relationship between GDP growth and unemployment is through the lens of Okun’s law, which suggests that for a 1% fall in GDP, there’s less than a 0.5% rise in the unemployment rate. You can see this negative correlation between GDP growth and the unemployment rate in
+Chart 1
+. The relationship isn’t 1:1 because there is always a degree of fluctuation in labour supply changes and there are market frictions like labour hoarding
+footnote
+[3]
+. So the question we should focus on is whether these frictions are greater than usual.
+Chart 1: GDP vs Unemployment
+(a)
+Footnotes
+Sources: ONS and author’s calculations.
+(a) Dashed lines denote line of best fit through data sample. 2020Q2 and 2021Q2 data points are omitted. Latest data to Q1 2024.
+Usually when we see growth below potential and/or a recession, as has been the case recently, unemployment rises significantly. But unemployment currently remains historically low at 4.3% as of March 2024, below our estimate of medium-term u* at 4.5%. During the pandemic, we saw structural changes in the labour market due to government policies like the furlough scheme, which allowed people to stay in work during Covid lockdowns. As a result, the relationship between unemployment and growth weakened considerably between 2020 and 2022, while the furlough scheme was in place. Since the end of the furlough scheme in September 2021, the classic Okun relationship has remained a bit weaker than the historical trend, as shown by the purple dots, suggesting that the labour market is not completely back to normal. Some of the purple dots may have lasting distortions from the furlough scheme, as they plot out four quarter changes. Excluding these data points, the classic Okun relationship looks stronger in the post-furlough period.
+The Sahm rule
+footnote
+[4]
+is another lens through which to examine the relationship between unemployment and activity. Typically applied in the US, the Sahm Rule suggests that a 0.5ppt rise in unemployment
+footnote
+[5]
+relative to its lowest point over the previous 12 months has been the best indicator of recession. In the UK, historical data suggests this threshold is a 0.75ppt rise. As shown in
+Chart 2
+, the Sahm Rule has been triggered in every recession the UK has had since the 1970’s, except for the one at the end of last year. In fact, unemployment was falling in the second half of 2023 as the economy went into recession.
+Chart 2: Sahm Rule Recession Indicator
+(a)
+Footnotes
+Sources: ONS and author’s calculations.
+(a) Sahm Rule Recession Indicator equals three-month moving average of unemployment rate, minus the minimum value of the unemployment rate during the preceding 12 months. Shaded areas denote periods of technical recession (consecutive quarters of negative GDP growth). Orange line indicates Sahm recession threshold (0.75). Latest data to March 2024.
+This is somewhat puzzling. If GDP growth remains weak (though strengthening), as in the latest MPC forecast for this year, we might expect to see greater rises in unemployment than currently forecast.
+At this point, I want to acknowledge that any analysis using recent unemployment data needs to be taken with a pinch of salt. The Labour Force Survey continues to experience low response rates and sample sizes (
+Chart 3
+), increasing the uncertainty of underlying unemployment and complicating our view of slack in the economy. Our main cross-check for the LFS unemployment rate is the claimant count – the numbers of people receiving unemployment benefits. But as my colleague Ben Broadbent explained in a
+speech
+last year, the typical correlation between the two measures has broken down over the last few years.
+We have better cross-checks for employment figures, from HRMC’s Pay As You Earn (PAYE) dataset and Workforce Jobs (WFJ), which compiles estimates from a number of other surveys
+footnote
+[6]
+. As
+Chart 3
+shows, these two metrics have diverged from the LFS employment measure since the start of the pandemic, coinciding with the sharp drop in LFS response rates. Both alternative metrics point to higher employment than the official figures. Stronger employment growth in the face of subdued growth and even economic contraction last year only adds to this first puzzle.
+Chart 3: LFS sample size and alternative employment indicators
+(a)
+Footnotes
+Source: ONS and author’s calculations.
+(a) Latest data to March 2024.
+Puzzle 2 – Wage growth remains elevated and partially unexplained
+Let’s turn now to the second labour market puzzle. Wage growth across all metrics has been elevated for some time, and as I have noted before is a key indicator of domestic inflation persistence. According to our models, inflation expectations are the dominant component of wage growth and have accounted for most of the recent decline in wages (
+Chart 4
+). With surveyed short-term inflation expectations closely tracking headline inflation, we should expect to see private sector wage growth fall further this year.
+Chart 4: Contributions to annual private sector pay growth and short-term inflation expectations
+(a)
+Footnotes
+Source: ONS, Bank of England, Citigroup, DMP Survey, YouGov and author’s calculations.
+(a) Wage equation based on
+Yellen (2017)
+. Private sector regular pay growth is Bank staff’s estimate of underlying pay growth between January 2020 and March 2022 and ONS private sector regular pay growth otherwise. Short-term inflation expectations are based on the Barclays Basix Index and the YouGov/Citigroup one year ahead measure of household inflation expectations and projected forward based on a Bayesian VAR estimation. Slack is based on the MPC’s estimates, informed by the vacancies to unemployment ratio. Productivity growth is based on long-run market sector productivity growth per head. The unexplained component is the residual. Data are to 2024 Q1. Projection for 2024 Q2 is based on the May MPR forecast and does not include data released since then.
+Dotted lines denote 2006-2019 averages for 1 year ahead inflation expectations. The solid diamond denotes pay-weighted expectations, the hashed diamond denotes employment-weighted expectations. Latest data to March 2024 for Bank/Ipsos, DMP and Agents’ expectations, April 2024 for Citi/Yougov expectations.
+Still, we expect regular private sector pay growth to remain elevated at around 5% by the end of the year. This is informed and reinforced by the Bank’s Agency Network, which tells us that average pay settlements reweighted by pay is on track to grow 5% this year
+footnote
+[7]
+. The decomposition of wage growth in Chart 4 continues to have an unexplained (yellow) component, which is expected to remain in the short-term. This unexplained strength in wage growth is a key concern for inflation persistence.
+Footnotes
+Indeed, our forecast for wage growth exceeds that of what our standard series of standard wage models predict until mid-2025. This is shown in Chart 5.
+Chart 5: Projections for private sector AWE
+(a)
+Footnotes
+Sources: Bloomberg Finance L.P., Citigroup, ONS, YouGov and Bank calculations.
+(a) The shaded swathe represents a range of projections from three statistical models of nominal private sector regular average weekly earnings growth, including a wage equation based on
+Yellen (2017)
+as shown in Chart 4, a wage equation based on
+Haldane (2018)
+and a simple error-correction model based on productivity, inflation expectations and slack in the labour market as embodied in the difference between the actual unemployment rate and the Committee’s estimate of the medium-term equilibrium rate. The projections are dynamic, multi-step ahead forecasts beginning at a point within the models’ estimation periods and are sensitive to data revisions, which can lead to changes in the range over the past as well as over the forecast period. The series is consistent with the latest published data for the three months to March 2024.
+Can labour hoarding explain both puzzles?
+One factor that could explain both puzzles is excess labour hoarding. As I mentioned at the beginning, some degree of labour hoarding is normal, but I want to explore whether there has been evidence of excess labour hoarding. Labour hoarding is notoriously difficult to measure with any precision. On the MPC, we rely on our Bank Agents’ reports for information about this. This qualitative intelligence gathered from speaking to firms across the country suggests that excess labour hoarding was a regular occurrence in the post-pandemic period, as labour shortages led to recruitment difficulties. Reports of hoarding were most prominent from mid-2022 and across 2023, before falling back towards the end of 2023 and into this year. But there are still reports of this in specific sectors, mainly in manufacturing where firms have found it hard to hire due to skills shortages.
+Let’s see whether the data matches this story. I’ll start by looking at measures of people employed, to see if they are higher than we might expect given output.
+Recruitment difficulties have been evident since early in the pandemic, both in external surveys and our Agents’ intelligence, potentially encouraging firms to hoard labour. As
+Chart 6
+shows, these measures peaked between late 2021 and mid-2022 as the labour market became exceptionally tight following the pandemic. Since then, these indicators have come down, though to varying degrees, and the Agents in particular report that the overall level of recruitment difficulty remains higher than normal.
+Chart 6: Recruitment difficulties
+(a)
+Footnotes
+Source: Bank of England, BCC, REC
+(a) Latest data to February for BCC Recruitment Difficulties, March 2024 for vacancy-to-unemployment ratio, and April 2024 for Agents CVS Recruitment Difficulties.
+There is some evidence of excess labour hoarding in the differences that firms report between output and employment.
+Chart 7
+uses PMI survey data shown as standard deviations from pre-pandemic averages to get an idea of this. We can see that from the closure of the furlough scheme in September 2021, firms’ reported employment PMI score was much greater than its historical average than their output score. This difference increased over 2022 and peaked at the end of the year, around the same time reported recruitment difficulties reached a zenith. We can see a second, smaller peak in mid-2023, before the difference falls back to normal levels towards the end of last year.
+Chart 7: PMI Employment vs Output
+(a)
+Footnotes
+Source: S&P Global/CIPS and author’s calculations.
+(a) Normalised output and employment PMI sub-indices are standard deviations from historic means using 1997-2019 average and standard deviations. Shaded area denotes the difference between the normalised employment and output PMI indices. Latest data to April 2024.
+Labour hoarding may also be apparent in hours worked. If firms hold on to workers at a time of softening demand, they are likely to give workers fewer hours, due to reduced demand for their outputs. Data on hours also comes from the LFS, and so should be approached with some humility.
+Chart 8
+plots the deviation of average weekly hours growth from trend, estimated using a simple filtering technique
+footnote
+[8]
+. The negative purple bars denote periods when hours worked dipped below trend, which may indicate excess labour hoarding. We can see there was a period of below-trend hours growth in 2021 and over 2022. More recently, however, hours growth has moved closer in line with trend.
+A sectoral analysis shows that although there are some differences across sectors, this pattern is generally well-replicated across the UK economy. In 2022, almost all sectors saw a period of below-trend hours growth, while the recent data show the deviation in average hours is concentrated in a few sectors, particularly services such as information and communication, education and administrative services.
+Chart 8: Deviation of average hours growth from trend
+(a)
+Footnotes
+Source: ONS and authors’ calculations.
+(a) Average hours calculated as output per job divided by output per hours worked, as per the ONS labour productivity estimates. Trend hours estimated by applying a Hodrick-Prescott filter to the realised level. Latest data to Q4 2023.
+So far, evidence from the data seems to match up with what the Agents have been telling us. Following the end of the furlough scheme in particular, there is indeed some indication of excess labour hoarding in terms of both heads and hours. Labour hoarding seems to have peaked in 2022 and abated towards the end of last year.
+What else may be going on?
+Of course, we have to be humble about our assessment of labour market trends, not least given the data issues that I have highlighted and the impossibility of observing excess labour hoarding in real time. While I place weight on the view that greater-than-usual hoarding behaviours have contributed to recent labour market developments, a range of other factors may have also been at play
+footnote
+[9]
+.
+For example, it’s plausible that shorter average hours worked may reflect worker preferences. The gap between workers’ actual hours and the number of hours they desire to work has remained relatively stable. Workers may just want a better work/life balance post-pandemic.
+Unemployment may be lower than expected in the face of weak growth owing not just to labour hoarding but also to participation. Data on participation comes from the Labour Force Survey, and so comes with some uncertainty. But as I highlighted in my previous
+speech
+, UK labour participation fell markedly since the start of the pandemic and remains below its pre-pandemic trend. As workers have left the pool of active jobseekers, this has mechanically reduced the unemployment rate.
+Chart 9
+shows that falling participation has reduced the unemployment rate by around 2 percentage points compared to pre-pandemic levels.
+Chart 9: Contribution of employment and labour force participation to unemployment
+(a)
+Footnotes
+Source: ONS and author’s calculations.
+(a) Latest data to March 2024.
+Policy implications
+To conclude, I’d like to set out what these developments in UK labour markets imply for the monetary policy outlook.
+MPC communications repeatedly emphasise labour market slack, wages and services inflation as key indicators of inflation persistence. These metrics are all closely interlinked. Labour market slack is a key driver of wage growth; as we have seen, excess labour hoarding may have contributed to labour market tightness and thus wage growth, even as economic activity has softened. Wage growth in turn contributes to services inflation. As
+Chart 10
+highlights, earnings growth continues to push up on services inflation, even as the contribution of non-labour costs subsides.
+Chart 10: Model-based decomposition of services inflation
+(a)
+Footnotes
+Source: ONS and author’s calculations.
+(a) The results show the estimated contribution of factors to core services excluding rents price inflation (measured as CPI services excluding airfares, package holidays, rents and education) using an autoregressive distributed lag model. The model is estimated using quarterly seasonally adjusted CPI indices, in log differences and excluding an estimate of the impact of VAT. Model estimated over 1989-2024. Latest data to Q1 2024.
+There has been good news across all these fronts in recent months. Labour market tightness—as measured by the vacancies-to-unemployment ratio—is easing, supported by both moderation in labour demand and potentially some improvement in matching efficiency. And a range of indicators suggest that labour hoarding may have abated. Alongside these moves, wage and services inflation have fallen from their peaks last year, and appear to be trending downwards.
+Looking ahead, the MPC’s central
+forecast
+is that UK GDP growth will recover modestly, alongside a mild uptick in unemployment. Indeed, GDP growth was stronger than expected in March, showing the UK’s recession was short-lived. Headline CPI inflation is expected to fall to 2% in Q2, albeit temporarily, while wage and services inflation are expected to normalise towards target-consistent levels in the medium-term.
+The analysis I have presented to you today is broadly consistent with this benign outlook, and there are reasons to expect this to come to fruition
+footnote
+[10]
+. As
+Chart 11
+highlights, labour demand – viewed as the sum of vacancies and employment – has exceeded labour supply since the second half of 2021. As vacancies have fallen back close to pre-pandemic levels, labour demand and labour supply are finally roughly equal. This should mean there is less upward pressure on wages.
+Chart 11: Labour demand and supply
+(a)
+Footnotes
+Source: ONS and author’s calculations.
+(a) Notes: Labour demand is the sum of vacancies and employment. Labour supply is the sum of unemployment and employment. Latest data to March 2024.
+The relationship between the vacancy and unemployment rates, known as the Beveridge Curve, seems to have normalised as well. As you can see in
+Chart 12
+, the UK Beveridge curve shifted outwards during the pandemic, with the unemployment rate rising for a given vacancy rate. Colleagues of mine at the Bank have argued (
+Key, 2023
+and
+Haskel, 2023
+) this was due to a deterioration in matching efficiency. But recently, the UK vacancy rate has fallen back without resulting in a significant rise in unemployment. The latest data points sit closer to the pre-pandemic Beveridge curve relationship.
+Chart 12: UK Beveridge Curve
+(a)
+Footnotes
+Source: ONS
+(a) Latest data to March 2024.
+But the risks around this benign outlook are two-sided. We can study them by analysing how unemployment and wages respond to identified demand shocks, across different states of the world.
+On the one hand, if excess labour hoarding persists, this could mean employment and wage growth remain resilient despite our restrictive policy stance and inflation takes longer to converge to target.
+Charts 13 and 14
+use a technique known as state-dependent local projections (
+Tenreyro and Thwaites, 2016
+). This is an econometric approach that examines how a given variable responds in the future to a shock today, and how this response differs under different macroeconomic conditions
+footnote
+[11]
+.
+In
+Chart 13
+, I use this technique to determine what happens to variables when productivity is decreasing—as one would expect if there were excess labour hoarding—or increasing and there is a cyclical demand shock that reduces GDP growth and inflation and increases unemployment. This cyclical demand shock could be anything, but one example is higher interest rates. We find that when measured productivity (measured as output per worker) is declining as it has been (aqua lines), there is a less persistent effect of cyclical shocks on unemployment and very little effect on wage levels. This state may be indicative of excess labour hoarding. This would mean that monetary policy would need to be more restrictive for a longer period of time to impact labour market slack and wages and ensure that overall inflation converges to target, compared to periods when measured productivity is increasing (orange lines).
+Chart 13: State-dependent local projections under decreasing versus increasing productivity
+(a)
+Footnotes
+Source: ONS and author’s calculations.
+(a) Solid lines denote mean local projection estimates, under a given state. Shaded areas denote 68% confidence interval.
+On the other hand, there is a risk that firms could suddenly give up labour hoarding if activity failed to recover as anticipated, there were additional shocks or weaker pricing power caused too much margin compression. If this happened, unemployment could rise much more steeply than we are expecting.
+Chart 14
+compares the impulse responses of unemployment and wages to demand shocks in periods of increasing unemployment (aqua lines) – which we expect in our latest forecast – versus decreasing unemployment (orange lines). If unemployment starts increasing, there is a risk that the overall increase in unemployment could be much steeper than anticipated in our May forecast. This would depress wages more materially and spill over to weakness in consumer prices. In this case, a looser monetary policy stance would be warranted.
+Chart 14: State-dependent local projections under increasing versus decreasing unemployment
+(a)
+Footnotes
+Source: ONS and author’s calculations.
+(a) Solid lines denote mean local projection estimates, under a given state. Shaded areas denote 68% confidence interval.
+A number of indicators suggest there has been excess labour hoarding since the pandemic, which could help explain why unemployment has remained lower than expected given weak growth and why wage growth has remained stubbornly high. While I think excess labour hoarding has faded from its peak, it still poses a two-sided risk to our outlook. The evolution of labour hoarding will depend partly on firms and consumers.
+When it comes to firm, Agents have told us that companies feel it will be more difficult to pass higher costs on to consumers by increasing their prices this year compared to 2023. This mirrors the conversations I’ve had with businesses around the country as well. There is also evidence of this in the latest PMI outturns as input and output costs have diverged significantly. But if input costs do not come down quickly enough, firms will experience margin compression. They will not accept this forever, and at some stage may either need to raise prices or reduce input costs, in part by laying off some workers. This latter response would drive unemployment higher than we are currently forecasting.
+When it comes to consumer behaviour, we expect the modest economic recovery over the forecast period to be consumption-led as real incomes continue to rise and the second-round effects of global shocks continue to fade. If consumption is weaker than expected, firms might see margin compression and stop labour hoarding. The NMG survey suggests a majority of households plan to save more over the next six months. It’s possible real incomes will rise so much that consumers can save and spend more, but this is not a foregone conclusion. If consumption is stronger than expected, firms might decide they have pricing power again and pass through higher costs to consumers, buoying inflation more than we are currently forecasting.
+What factors will I be looking at to determine which path the UK economy takes? As stated in the minutes of our meetings in May, the MPC is still looking at labour market slack, wages and services inflation for a steer on the remaining degree of inflation persistence. This is something I enthusiastically endorse. I am also paying particular attention to cost pass through from firms. For me, this will be informed by the PMI outturns and also by our Agents’ intelligence.
+We will receive two sets of data before the June interest rate decision. Importantly, this will include data on wage growth for April should cover roughly 40% of annual wage settlements and should shed light on any impact of the rise in the national living wage on pay settlements. Wage data may be less instructive if there is lower pass through of firm costs, but this assumption about pass through may be tentative. Firm pass through will play a key role in determining how much excess labour hoarding there is. Data released ahead of our next meeting will give a clearer indication of how far along the “last mile” we have come.
+To my mind, inflation persistence has waned since I joined the MPC last July. This is no mere coincidence--it has faded in part because of our restrictive stance of policy. I think there remains more uncertainty about how much inflation persistence indeed persists than there is about how our monetary policy stance is weighing on growth. In considering for how long we must retain our restrictive stance before policy should be eased, I think the burden of proof therefore needs to lie in inflation persistence continuing to wane.
+I am grateful to Waris Panjwani and Julian Reynolds for their help preparing this speech.
+Thanks also to Andrew Bailey, Alan Castle, Ken Clark, Harvey Daniell, Swati Dhingra, Jonathan Haskel, Florence Hubert, Catherine L Mann, Josh Martin, Rebecca Piggott, Huw Pill, Galina Potjagailo, Doug Rendle, Lindsey Rice-Jones, Philip Schnattinger, Fergal Shortall, Andrea Sisko and Carleton Webb for their insightful contributions and comments.
+Assessing the extent of labour hoarding, Bank of England Quarterly Bulletin: Summer 2003.
+See Key Judgement 2 of the
+November 2023 MPR
+The Okun’s Law relationship shown in Chart 1 is a simple mapping between GDP growth and the unemployment rate. See
+Appendix
+for a more detailed analysis of the relationship between GDP and unemployment.
+Created by Claudia Sahm as part of a policy proposal for the book “
+Recession Ready: Fiscal Policies to Stabilize the American Economy
+”
+Using a three-month moving average of the unemployment rate
+PMI employment sub-indices are also a useful cross-check for employment data.
+Our Agents talk to companies about their actual and expected pay settlements. These conversations suggest that average settlements, when reweighted by pay, will be around 5% this year compared to around 5 ½% when weighted by employment.
+Trend levels of average hours estimated using a
+Hodrick-Prescott filter
+.
+For further details on what has been driving changes in the unemployment rate, we develop a model-based decomposition, using a Structural VAR model with sign restrictions. Further details are available in the technical appendix.
+Further evidence of labour market normalisation, using a model-based decomposition of changes in the unemployment rate, is provided in the
+Appendix
+.
+Further details on our methodology, including regression specification and the specification of demand shocks, are available in the
+Appendix
+.
+Further details on our methodology, including regression specification and the specification of demand shocks, are available in the
+Appendix
+.
+Close
+Further evidence of labour market normalisation, using a model-based decomposition of changes in the unemployment rate, is provided in the
+Appendix
+.
+Close
+For further details on what has been driving changes in the unemployment rate, we develop a model-based decomposition, using a Structural VAR model with sign restrictions. Further details are available in the technical annex.
+Close
+Trend levels of average hours estimated using a
+Hodrick-Prescott filter
+.
+Close
+Our Agents talk to companies about their actual and expected pay settlements. These conversations suggest that average settlements, when reweighted by pay, will be around 5% this year compared to around 5 ½% when weighted by employment.
+Close
+PMI employment sub-indices are also a useful cross-check for employment data.
+Close
+Using a three-month moving average of the unemployment rate
+Close
+Created by Claudia Sahm as part of a policy proposal for the book “
+Recession Ready: Fiscal Policies to Stabilize the American Economy
+”
+Close
+The Okun’s Law relationship shown in Chart 1 is a simple mapping between GDP growth and the unemployment rate. See
+Appendix
+for a more detailed analysis of the relationship between GDP and unemployment.
+Close
+See Key Judgement 2 of the
+November 2023 MPR
+Close
+Assessing the extent of labour hoarding, Bank of England Quarterly Bulletin: Summer 2003.
+Close
+Downloads
+Appendix
+Q&A Transcript
+Megan Greene
+Member of the Monetary Policy Committee
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Saga)",
+  "date_original": "2024-04-23",
+  "date_au": "23/04/2024",
+  "datetime_original": "",
+  "speaker": "NOGUCHI Asahi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240423a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-04-23 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Saga).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-04-23 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Saga).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0f2996307efbaa24021d57afead1ac37a907ca62b1684760a3e5bcc5aaacb7ad"
+}

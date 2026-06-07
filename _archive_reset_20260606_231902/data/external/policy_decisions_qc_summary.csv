@@ -1,0 +1,16 @@
+metric,value
+total_policy_rows,281.0
+rows_needing_review,263.0
+high_priority_review_rows,54.0
+medium_priority_review_rows,171.0
+unknown_decisions_before,54.0
+unknown_decisions_after,54.0
+approved_overrides_applied,0.0
+suggestions_created,161.0
+high_confidence_suggestions,161.0
+average_confidence_before,0.5274021352313167
+average_confidence_after,0.5274021352313167
+final_hikes,39.0
+final_holds,173.0
+final_cuts,15.0
+final_unknowns,54.0

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Kanagawa (via webcast))",
+  "date_original": "2021-02-03",
+  "date_au": "03/02/2021",
+  "datetime_original": "",
+  "speaker": "WAKATABE Masazumi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210203a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-02-03 - WAKATABE Masazumi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Kanagawa (via webcast)).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-02-03 - WAKATABE Masazumi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Kanagawa (via webcast)).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4ba50519cace5abac17ec1f31b9a8223988fd327e026fc0378a987e93204c4f9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Welcome address at the tenth anniversary of the Single Supervisory Mechanism",
+  "date_original": "2024-11-06",
+  "date_au": "06/11/2024",
+  "datetime_original": "",
+  "speaker": "Welcome address by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241106~e19b4cd24f.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-11-06 - Welcome address by Christine Lagarde - Welcome address at the tenth anniversary of the Single Supervisory Mechanism.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-11-06 - Welcome address by Christine Lagarde - Welcome address at the tenth anniversary of the Single Supervisory Mechanism.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "230b306b94cd257827bccfc23e263519932b568a43dc353764e20fe6a684d634"
+}

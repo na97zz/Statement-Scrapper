@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The weekend starts here − speech by Dave Ramsden",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Dave Ramsden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/december/dave-ramsden-speech-at-deloitte-academy-on-the-banks-resolution-regime",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Dave Ramsden - The weekend starts here − speech by Dave Ramsden.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Dave Ramsden - The weekend starts here − speech by Dave Ramsden.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9a1ec071a58359f0b5793d27418a07e5464b9d8ad01485c352ad354b7afa2b8d"
+}

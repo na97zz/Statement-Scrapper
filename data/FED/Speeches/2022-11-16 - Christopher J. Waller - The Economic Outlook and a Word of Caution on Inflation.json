@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and a Word of Caution on Inflation",
+  "date_original": "2022-11-16",
+  "date_au": "16/11/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20221116a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-11-16 - Christopher J. Waller - The Economic Outlook and a Word of Caution on Inflation.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-11-16 - Christopher J. Waller - The Economic Outlook and a Word of Caution on Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "908fdea17f1c36a7241f755c2867fc2a08ed23b50780dae0c6596c674221a7d7"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Large Bank Supervision and Regulation",
+  "date_original": "2022-09-30",
+  "date_au": "30/09/2022",
+  "datetime_original": "",
+  "speaker": "Large Bank Supervision and Regulation",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20220930a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-09-30 - Large Bank Supervision and Regulation - Large Bank Supervision and Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-09-30 - Large Bank Supervision and Regulation - Large Bank Supervision and Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5bcd6574ba5276934327fee06d8b0eefaf9391789d7270174654e774f6916e5e"
+}

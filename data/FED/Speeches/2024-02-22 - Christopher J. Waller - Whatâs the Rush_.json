@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Whatâs the Rush?",
+  "date_original": "2024-02-22",
+  "date_au": "22/02/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240222a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-22 - Christopher J. Waller - Whatâs the Rush_.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-22 - Christopher J. Waller - Whatâs the Rush_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8ee8c0248230300bff4e80ec45be9c46c5baa23df442bb44df936ca2a8d1ecdc"
+}

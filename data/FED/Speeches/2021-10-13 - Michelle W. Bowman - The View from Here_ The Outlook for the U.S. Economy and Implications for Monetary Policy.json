@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The View from Here: The Outlook for the U.S. Economy and Implications for Monetary Policy",
+  "date_original": "2021-10-13",
+  "date_au": "13/10/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20211013a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-13 - Michelle W. Bowman - The View from Here_ The Outlook for the U.S. Economy and Implications for Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-13 - Michelle W. Bowman - The View from Here_ The Outlook for the U.S. Economy and Implications for Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1c9ef028807ed4e4df4da311f9f707132449f8eb3abc0d7fce91cdfc8a9a2ab5"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "A journey of 1000 miles begins with a single step: filling gaps in the central bank liquidity toolkit - speech by Andrew Hauser",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/september/andrew-hauser-speech-at-market-news-international-connect-event",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Hauser - A journey of 1000 miles begins with a single step_ filling gaps in the central bank liquidity toolkit - speech by Andrew.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Hauser - A journey of 1000 miles begins with a single step_ filling gaps in the central bank liquidity toolkit - speech by Andrew.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8c9ee026ec4ad63761d0d5c5f2d1ab73d0d17681ca8e61ead32ba8eb7e9f8d8d"
+}

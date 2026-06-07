@@ -1,0 +1,135 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The UK’s Digital Securities Sandbox: supporting the next frontier of innovation− speech by Sasha Mills
+DATE: 01/06/2024
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/may/sasha-mills-keynote-address-at-london-city-week
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The UK’s Digital Securities Sandbox: supporting the next frontier of innovation− speech by Sasha Mills
+Given at City Week 2024
+Published on 
+
+ 21 May 2024
+The Bank is consulting on the architecture around the new Digital Securities Sandbox. In this speech, Sasha discusses how support for innovation interacts with clear rules and a commitment to financial stability, as well as opening the next frontier for innovation.
+Speech
+Good afternoon. Thank you for inviting me to speak at City Week. It is a pleasure to be here today. While we are in wonderful surroundings that embody resilience and reveal the patina of time, this event is focused on the future of financial markets and innovation. With a regulators’ perspective, my attention is drawn to how to foster innovation’s safe coexistence with the old. In the City of London’s historic centre of administration, I want to talk about the next frontier in innovation - that is progressing innovative opportunities into real world, meaningful activity.
+I am going to speak today about the Bank of England’s (Bank) approach to facilitating innovation, particularly in areas of finance where there are deep-rooted, historic processes and infrastructure.
+Innovation is constantly on a quest to search out value, either through incremental improvements bringing efficiencies, or by taking a radical shift to a brand-new approach. Rapid advancements in technology and connectivity have made it easier than ever to transact in an increasingly wide range of assets. However, the “pipes” and processes that sit behind those trades have not advanced at a similar pace. That “post-trade” ecosystem – everything that happens after two parties agree to a trade – still relies on institutions holding their own records and reconciling with each other. That includes the ultimate records of ownership of bonds and shares held centrally at a central securities depository.
+The post-trade environment retains sequential, often manual processes that are time-consuming, costly, and operationally risky for all users of financial markets. Inefficiencies impose financial and operational costs on almost all financial market participants. This includes financial market infrastructure (FMIs) operators, financial intermediaries such as banks, and end-investors such as pension funds. This can impose a higher day-to-day cost in accessing and utilising financial markets; often changing these processes is costly and requires market wide coordination.
+On the other hand, the development of new ecosystems has often been to the benefit of both the trade and post-trade environments. We have seen experimentation using different technologies and organisation of processes, for example in tokenising assets or how key market functions are organised. There is now an increasing amount of investment in the application of some of this technology, such as distributed ledger technology, or DLT, in more traditional financial markets
+footnote
+[1]
+.
+The introduction of securities on distributed ledgers – digital securities – offers the potential to merge trade and post-trade functions, facilitate more precise settlement times, and introduce more programmability in financial transactions. This could streamline processes and introduce more liquidity to a wider range of financial assets. It could also lower the barriers to entry for providers, enhancing the overall resilience of financial markets by moving away from dependency on single firms providing key services.
+The question for regulators is how we keep up with the pace of innovation and support its beneficial application without compromising financial stability. The Deputy Governor for Financial Stability, Sarah Breeden, recently spoke about how the Bank
+‘is see
+k
+ing to ensure that we will be able both to capture the benefits of these advances and to ensure they are safe’
+.
+footnote
+[2]
+This was in relation to money and payments, but the principles can be applied across the financial system. This includes my financial market infrastructure directorate’s (FMID) work overseeing the “pipes” that underpin trade and post-trade processes in the UK.
+So, what is the right approach for regulators?
+Reaping the benefits of innovation
+We expect firms we regulate to innovate and improve – constant improvement is often conducive to better outcomes and greater resilience in the system. We as regulators should also think about how and when to engage with innovation. Often regulators get involved only when things get bumpy, but sometimes a more proactive approach can help harness innovation.
+The phrase ‘same risk, same regulatory outcome’ is often used to describe regulators’ approach, particularly when discussing digital assets. But that does not mean we need – or expect – the ‘same approach’ to be used to achieve these outcomes. This is particularly true when innovation isn’t just incremental – doing the same things more efficiently. Sometimes, a new technology can cause a bigger shift in market structure.
+Our attitude to innovation is, therefore, important. This is a ‘cultural shift’ for regulators, and it means thinking differently:
+It means looking at the aspects of our regulations, written with existing technologies in mind, that are inadvertent barriers to the use of new technologies;
+It means weighing up in our decision making the incentives for both existing FMIs and new entrants to invest in the technology; and
+It means engaging in constant dialogue with industry to ensure our approach is meeting the objectives of regulators and the industry.
+Where the fundamental processes are still intact, reactive regulation is still an effective tool to address risks that emerge. But for wholly new innovative approaches, we think it is important to engage proactively in the development phase.
+In support of this proactive approach, the Bank and the Financial Conduct Authority (FCA)
+are
+currently consulting
+on the operation of a new ‘test’ regulatory regime that allows firms to use developing technologies that would otherwise not be permitted, such as DLT, to issue, trade and settle securities in a live environment – the Digital Securities Sandbox, or DSS.
+footnote
+[3]
+This will consider new technology and approaches to regulated activities under a flexible, more proportionate rulebook. To maintain wider financial stability and market integrity there will be some limits on activity in the DSS.
+The DSS is seeking to support innovation in both digitally native securities, and so-called ‘digital twin’ tokenised securities, in a range of regulated asset classes.
+footnote
+[4]
+Unregulated assets, such as Bitcoin, are not permitted in the DSS. The DSS allows regulators to determine how the existing regime for the trading and settlement of securities would need to be permanently amended to support the use of new technologies. For the first time, operators will be allowed to combine settlement activities with those of a trading venue in the same legal entity. The Sandbox is open to UK-registered firms and lasts for five years. The consultation will close on 29 May 2024.
+Flexible rules
+This sandbox approach has the benefit of allowing us to employ a more flexible rulebook. This allows regulators to apply a more proportionate approach to regulation and make changes based on observations from activity in the DSS. It also allows us to manage financial stability risks, while facilitating new ways of doing things and maximising the potential benefits from innovation.
+The DSS has been designed with several stages of permitted activity. There will be a series of supervisory gates that firms will pass through to progress between these stages. Sandbox Entrants will follow a ‘glidepath’, where at each stage the amount of permitted activity increases as they meet increased standards and regulatory requirements. This reinforces the Bank’s ability to manage financial stability risks.
+This proportionate and gradual approach to rules means they are simpler and less onerous at the outset. They are tailored to new entrants and start-ups that may not have armies of compliance officers nor have much experience of being a regulated entity. As sandbox entrants increase their activity, the rules start to ramp up, proportionate to the scale of their operation.
+Importantly, the Bank and FCA have the flexibility to modify these rules as we learn from the sandbox, and we can react nimbly to feedback from innovators. While we explore ways to support tokenised settlement against central bank money, forms of commercial bank money that meet the required standards can be used for the ‘cash leg’ of trades settling in the sandbox.
+While a flexible approach to rules is critical, firms also need enough certainty on the future roadmap to have the confidence to invest significant sums of money in the technology today. For that reason, we thought it important to publish a set of “goalposts” for firms to aim for and have published our best guess of what the end-state regime might look like. It is our intention to update those, in dialogue with participants, as we learn over the lifetime of the DSS.
+Financial stability
+Now I turn to how can regulators protect the financial stability and integrity of markets, and at the same time support innovation? The use of DLT is untested at scale in the financial system. This means the risk of market disruption occurring is likely to be higher compared to established practices and technologies. Therefore, to protect financial stability, firms will have to demonstrate to regulators that their systems can support live activity in the DSS. Those that pass this test can operate an entity in the sandbox which we are naming a Digital Securities Depository, or DSD.
+The DSS is designed to enable DSDs to graduate to a new regulatory regime if they meet the relevant standards. The Bank will impose limits on the value of securities that can be issued in the Sandbox. This will be a sandbox-wide limit, or capacity, with firm-specific limits distributed across participating Digital Securities Depositories.
+We are designing the Sandbox without certainty over the final number of Sandbox entrants. Therefore, the calibration of the initial limits for DSDs needs to allow for future growth and provide a level playing field to incumbents and new entrants. We are proposing that initial limits in each asset class will be the same for
+all
+entrants. As with standards, these limits will increase as entrants move through the different stages.
+We believe this approach to firm-specific limits will act as an accelerator to innovation. While activity is limited, firms will still be able to engage in “live” activity much earlier than they would otherwise have if they were to pursue authorisations through the usual channels. Notably, the assets held in the DSS can interact with the wider financial system. We expect that financial market participants should be able to interact with DSDs in similar ways to how they use CSDs today and use the assets in similar ways.
+Regulation already allows many of the asset classes in scope of the Sandbox to be used as collateral in uncleared derivatives transactions, or in repo and securities lending transactions. However, there are operational and technical barriers preventing widespread usage - innovative technology or approaches might remove some of these. The DSS will be able to test whether both digitally native and digital twin assets can meet the required standards which are also being developed to reflect innovation. Expanding the availability of assets could have a positive impact on asset liquidity as settlement cycles shorten.
+In conclusion: we are looking to find the balance
+Whilst there is inevitably a tension between disruptive technology and market stability, we must recognise that successful innovation may be crucial to achieving and maintaining financial stability in the long run. Advances in methodologies and technology are expected to unlock significant benefits and progress financial markets towards greater financial stability and reduced disruption. However, these beneficial outcomes cannot be guaranteed. Our approach to supporting innovation relies on creating an agile environment for identifying those new developments and the appropriate regulation.
+The DSS is a prime example of how the Bank is facilitating safe and sustainable innovation through a proactive approach to regulation. One that is outcomes-focused, embeds both flexibility and proportionality, and involves active engagement with the industry. This proactive engagement means we can better – and more quickly – understand the novel risks and benefits the new approaches create, and adapt regulation accordingly, whilst minimising the need for costly and time-consuming re-engineering of existing processes.
+The DSS is only one pillar in the Bank’s approach to innovation. For example, the Bank now has a secondary innovation objective which applies to some of our regulatory powers. This includes ensuring our rules facilitate innovation with ‘a view to improving the quality, efficiency and economy’ of FMIs functions.
+footnote
+[5]
+The Bank continues innovative work in other areas, such as research on the digital pound,
+footnote
+[6]
+our continuing formulation of our systemic stablecoin regime,
+footnote
+[7]
+and our increased focus on modernising the Bank’s wholesale payments infrastructure (including to support innovation by commercial banks in tokenised deposits)
+footnote
+[8]
+. These projects will further enhance our understanding of the technology and will help to deliver end-to-end wholesale infrastructure underpinned by new technology in the UK.
+We should be realistic about how long it could take for market participants to feel the benefit of the new technology in post-trade. Changing an entire globally connected ecosystem with multiple independent decision-makers within different jurisdictions is likely to take years. The benefits are likely to be felt only when a critical mass of participants have adopted the new ways of doing things. That will not happen overnight, and it may happen in some markets ahead of others. We believe the DSS can be the catalyst of that change process – a phase where we collectively test whether this is the direction that the industry will pursue in the long term. We hope that the industry will join us in exploring these new frontiers.
+Our DSS consultation is open until 29 May, and we welcome the industry’s engagement and their representations on this topic. Thank you for listening, and I hope you enjoy the rest of today’s agenda.
+I’d like to thank Alex Gee, Kushal Balluck, Sarah Breeden, Emma Butterworth, Charles Gundy, Martin Pluves, Noreen Rana, Richard Spooner, and Michael Yoganayagam for their assistance in preparing these remarks.
+Distributed ledger technology (DLT) is a decentralised database of information that is shared, duplicated, and synchronised across a network. The information on the ledger is updated by the network participants rather than a centralised party. Blockchain is one common form of a distributed ledger.
+Modernising the trains and rails of UK payments − speech by Sarah Breeden | Bank of England
+Digital Securities Sandbox joint Bank of England and FCA consultation paper | Bank of England
+Specifically, transferable securities, money market instruments, units in collective investment undertakings, and emissions allowances.
+Financial Services and Markets Act 2023 Section 48, Article 30D (2) (legislation.gov.uk)
+The digital pound | Bank of England
+Regulatory regime for systemic payment systems using stablecoins and related service providers | Bank of England
+Reviewing access to RTGS accounts for settlement | Bank of England
+Reviewing access to RTGS accounts for settlement | Bank of England
+Close
+Regulatory regime for systemic payment systems using stablecoins and related service providers | Bank of England
+Close
+The digital pound | Bank of England
+Close
+Financial Services and Markets Act 2023 Section 48, Article 30D (2) (legislation.gov.uk)
+Close
+Specifically, transferable securities, money market instruments, units in collective investment undertakings, and emissions allowances.
+Close
+Digital Securities Sandbox joint Bank of England and FCA consultation paper | Bank of England
+Close
+Modernising the trains and rails of UK payments − speech by Sarah Breeden | Bank of England
+Close
+Distributed ledger technology (DLT) is a decentralised database of information that is shared, duplicated, and synchronised across a network. The information on the ledger is updated by the network participants rather than a centralised party. Blockchain is one common form of a distributed ledger.
+Close
+Convert this page to PDF
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

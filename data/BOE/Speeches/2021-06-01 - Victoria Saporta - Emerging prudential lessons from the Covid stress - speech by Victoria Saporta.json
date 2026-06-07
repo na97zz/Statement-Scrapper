@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Emerging prudential lessons from the Covid stress - speech by Victoria Saporta",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Victoria Saporta",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/july/emerging-prudential-lessons-from-the-covid-stress-speech-by-victoria-saporta.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Victoria Saporta - Emerging prudential lessons from the Covid stress - speech by Victoria Saporta.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Victoria Saporta - Emerging prudential lessons from the Covid stress - speech by Victoria Saporta.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:52",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/july/victoria-saporta-speech-on-lessons-learned-from-covid-related-stress-for-prudential-regulation",
+  "content_sha256": "a81da6c99dd74ec920053ffc8f2dc683499a3efa23e3e929f431ebbb0a2105d7"
+}

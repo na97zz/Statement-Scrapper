@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Supporting Responsible Use of AI and Equitable Outcomes in Financial Services",
+  "date_original": "2021-01-12",
+  "date_au": "12/01/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210112a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-01-12 - Lael Brainard - Supporting Responsible Use of AI and Equitable Outcomes in Financial Services.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-01-12 - Lael Brainard - Supporting Responsible Use of AI and Equitable Outcomes in Financial Services.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c58bd18570f36f045968443caea5541ba325d64251d8ce90f47778d1cda737ea"
+}

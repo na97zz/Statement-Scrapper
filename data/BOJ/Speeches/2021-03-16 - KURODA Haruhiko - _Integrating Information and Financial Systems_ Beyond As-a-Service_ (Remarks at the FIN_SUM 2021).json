@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Integrating Information and Financial Systems: Beyond As-a-Service\" (Remarks at the FIN/SUM 2021)",
+  "date_original": "2021-03-16",
+  "date_au": "16/03/2021",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210316a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-03-16 - KURODA Haruhiko - _Integrating Information and Financial Systems_ Beyond As-a-Service_ (Remarks at the FIN_SUM 2021).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-03-16 - KURODA Haruhiko - _Integrating Information and Financial Systems_ Beyond As-a-Service_ (Remarks at the FIN_SUM 2021).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2365b23bdecf2757c8560cff874fa0bad28daca5e0f55d47c80d0f5e9fc9c36f"
+}

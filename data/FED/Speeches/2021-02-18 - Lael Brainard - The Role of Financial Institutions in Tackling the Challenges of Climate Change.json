@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Role of Financial Institutions in Tackling the Challenges of Climate Change",
+  "date_original": "2021-02-18",
+  "date_au": "18/02/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210218a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-02-18 - Lael Brainard - The Role of Financial Institutions in Tackling the Challenges of Climate Change.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-02-18 - Lael Brainard - The Role of Financial Institutions in Tackling the Challenges of Climate Change.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c4c053d6b97f8011e69b605ab78e055970cdab499e1e1b6032cb9e513fce2eb1"
+}

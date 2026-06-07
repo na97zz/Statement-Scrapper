@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Building the Financial System of the 21st Century",
+  "date_original": "2022-05-19",
+  "date_au": "19/05/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220519~d262d1ba32.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-05-19 - Building the Financial System of the 21st Century.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-05-19 - Building the Financial System of the 21st Century.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "04e8236c7d01416a4192acf6a76503041cecaaa9e201cbb64347ffc045dac72c"
+}

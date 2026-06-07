@@ -1,0 +1,313 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: The transformation of money: technological disruption and the future of financial services
+DATE: 08/12/2025
+SPEAKER: The transformation of money
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251208~4c07c78304.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+The transformation of money: technological disruption and the future of financial services
+Guest lecture by Piero Cipollone, Member of the Executive Board of the ECB, at the Frankfurt School of Finance & Management
+Frankfurt am Main, 8 December 2025
+Money is at the heart of what central banks do.
+[
+1
+]
+Ever since central banks have existed, their fundamental role has been to issue money and protect its value. This role has been the same for centuries, and I don’t expect it to change. But what is changing is the environment in which central banks must deliver on this mandate. There are obviously many sides to this, but today I will focus on technology.
+Digital payments are the new normal. And new technologies have emerged that are disrupting financial services, leading us to rethink their future. We are facing no less than a paradigm shift. Financial institutions have become technological entities. At the same time, tech firms have entered the realms of payments and finance. In fact, financial institutions and tech firms have all become fintechs. What was once a niche has become the norm. Harnessing technology to provide better financial services is now the name of the game.
+Central banks are no exception. If they are to retain their role in issuing money that is fit for purpose, they have to embrace technology and shape the transformation of money. Adapting to new technologies is not an option, it is an existential must. If central banks don’t issue digital money, they will lose their central role in money issuance and fail to provide an anchor of stability to the entire financial system. Central banks are increasingly becoming tech organisations; they must evolve with technology, or risk falling behind.
+Today, I will argue that in the European context, the central bank needs to not just follow but take a leading role in this transformation. If it doesn’t, Europe risks failing to leverage its collective strength. This is because financial integration is key to achieving the network effects and economies of scale required to enable our economy and financial sector to reap the benefits of these new technologies while mitigating their risks. This is particularly vital for the European Central Bank, which operates in a monetary union, where the singleness of money across the union is necessary for the smooth functioning of payments and the effective transmission of monetary policy. Looking ahead, we also need to ensure the singleness of digital money. Doing so will provide a Europe-wide ecosystem in which the private sector can compete by offering, and scaling up, innovative new services.
+We can build on strong foundations. Over the past 25 years, the euro has become the currency of 20 member countries, with Bulgaria set to become the 21st euro area member next month. The euro has established itself firmly as the world's second most important currency. The Eurosystem – that is, the ECB and the national central banks of euro area countries – implements a single monetary policy that safeguards the value of the euro and sustains the trust Europeans place in their money.
+We have built robust market infrastructures that underpin the euro. T2 (for large-value payments), T2S (for securities) and TIPS (for instant payments) make it possible to settle in central bank money, a risk-free asset. Together with ECMS (for collateral management), these public payment rails allow money, securities and collateral to move freely, safely and efficiently across the euro area. Seen from where we were 25 years ago, the degree of integration achieved in just over two decades is remarkable.
+However, we still face three key challenges.
+First, fragmentation persists for retail payments. While the Single Euro Payments Area (SEPA) has provided a pan-European solution for credit transfers and direct debits, we have not achieved the same result at the point of interaction.
+[
+2
+]
+Despite infrastructures like TIPS enabling instant payments across the euro area and the encouragement of the Eurosystem, we still lack a European solution that can be used to pay digitally throughout the euro area for all use cases. This has resulted in an excessive dependency on non-European providers for critical retail payment services like cards and digital wallets. This raises fundamental questions about our strategic autonomy, as this dependency could potentially be used against us as an instrument of economic coercion.
+Second, the very nature of money and payments is changing in ways that could undermine the balance that has underpinned monetary stability in Europe. The emergence of new technologies, such as tokenisation and distributed ledger technology (DLT)
+[
+3
+]
+, has the potential to enhance efficiency in capital markets. But in the absence of tokenised central bank money, the new ecosystem would not have a common risk-free settlement asset at its core. The lack of the latter could undo the progress achieved in wholesale payments between financial institutions by reintroducing fragmentation and credit risk, while creating new dependencies. Moreover, the expansion of alternative settlement assets denominated in foreign currencies would go against the objectives of the savings and investments union and undermine monetary sovereignty. This would also challenge the balance between public and private money that has served us well so far, with public money providing an anchor of stability into which all private assets can be converted.
+Third, cross-border payments have been a lingering challenge. Because they remain slow and expensive, the race is on to make them more efficient. While this is a possible use case for stablecoins, the latter create a number of risks for domestic currencies and financial systems. They could also threaten the international role of the euro if no strong European alternative emerges to challenge the currently dominant dollar-denominated stablecoins.
+In this context, inaction is not the best choice for Europe. Doing nothing could lead to central bank money becoming increasingly marginalised, which could end up challenging the resilience of our payments system and undermining the stability of our financial system, our monetary sovereignty, our strategic autonomy and our economic security. Over time, this could also weaken the competitive position of European financial institutions and infrastructures, which, given their importance for the financing of the economy, could in turn weigh on European productivity. And it could diminish the role of the euro on the global stage.
+Our mandate does not allow us to take these risks lightly. When the foundations of money and payments are shifting along with technology, the central bank cannot stand still. We must modernise our payments offering so that it evolves alongside technological progress and supports the development of an integrated European market for digital payments and digital assets. Our goal is not to replace private innovation but to provide a solid public foundation that will enable the private sector to innovate at scale while avoiding excessive dependencies.
+This requires a reinvigorated public-private partnership across three payment dimensions: retail, wholesale and cross-border. In my remarks today, I will outline our overall approach and then explain our strategy for retail payments (with the issuance of a digital equivalent of cash, the digital euro), wholesale payments (by making it possible to settle DLT-based transactions in central bank money) and cross-border payments (with the interlinking of fast payment systems).
+A public-private partnership anchored in central bank money
+The complementarity of public and private money
+The Eurosystem’s starting point is its core responsibility as an issuer of money and guardian of the smooth functioning of payment systems. In practice, this means offering means of payment for retail and wholesale transactions, while ensuring that payment systems remain safe and resilient.
+This has several implications.
+First, central bank money is a key pillar of our financial system, and we have a duty to keep it fit for purpose as technologies and preferences evolve.
+[
+4
+]
+It cannot be merely a niche solution for specific use cases or a dispensable add-on; it must respond to the evolving needs of people, businesses and market participants.
+Second, we want to see a strong European payments ecosystem, where the private sector can provide robust, efficient and innovative solutions that can be scaled up.
+These two objectives are not contradictory. In fact, they have strong synergies.
+Central bank money solutions are based on pan-European infrastructures and standards that the private sector can leverage. This not only reduces the risk of fragmentation and ensures interoperability, but also avoids the need for the private sector to duplicate investments, and reduces costs for the system as a whole. This is particularly important in a sector characterised by network effects, where technological dominance and proprietary standards can otherwise restrict the ability of others to compete, innovate and scale up, as is currently the case in digital retail payments.
+Another complementarity stems from the characteristic of central bank money as a settlement asset free of credit and liquidity risk, issued by an institution that can deliver finality and stability, even under stress. Some fear that this may create the perception that private money is unsafe. I think the opposite is true. It is the very existence of central bank money as a safe asset and the convertibility of private money at par at all times that gives people confidence when using private money. That is what makes a euro a euro across instruments, institutions and technologies. On the rare occasions when this relationship was broken – in the Free Banking Era in the United States
+[
+5
+]
+, for example – financial instability ensued. Experimenting without central bank money for retail or wholesale payments would be unwise.
+In fact, in the wholesale space, this is a key reason why the private sector has explicitly told us that the absence of central bank money as a settlement asset is a major impediment to the growth of the digital assets ecosystem. Today, wholesale settlement in the euro area is already digital and in central bank money. But innovation is moving into new environments: tokenised securities, DLT-based trading and settlement, and smart contract automation. If we want these innovations to be scaled up safely in Europe, central bank money has clear advantages in terms of safety, scalability and liquidity management compared with private settlement assets constrained by reserves backing and market risk.
+[
+6
+]
+In other words, central bank money guarantees the availability of a European settlement solution covering the euro area as a whole, ensuring the singleness of money and strengthening resilience. At the same time, it provides common rails that create a level playing field and a safe basis for the private sector to compete and innovate on functionality, user experience, value-added services and business models.
+A collaborative approach
+To leverage public-private synergies, our approach is explicitly collaborative. We actively engage with all stakeholders, for instance in the context of the Euro Retail Payments Board and our advisory groups on market infrastructures.
+[
+7
+]
+We also conduct tests in conjunction with the market rather than building solutions in isolation. Let me give you two examples.
+First, in the retail space, we set up a digital euro innovation platform to explore innovations and applications that the digital euro could enable. The first round involved almost 70 participants – including merchants, fintech companies, start-ups, academia, banks and other payment service providers.
+[
+8
+]
+Market participants identified conditional payments, i.e. payments that are triggered automatically when predefined conditions are met, as a key driver of innovation. Using the digital euro’s standards and its reservation of funds functionality – which would allow money to be set aside while a payment is in progress – payment service providers could offer conditional payments throughout the euro area that go far beyond what is available today. In online shopping transactions, for example, funds could be released to the seller only after the buyer confirms delivery. Reimbursements could be automated and, in the case of delayed services, refunds could be streamlined. Payment service providers would also be able to automate business-to-business payment flows in a standardised way, helping to speed up payments, reduce paperwork and cut costs.
+Second, in wholesale markets, the Eurosystem conducted extensive exploratory work in 2024 on settling DLT-based transactions in central bank money. Some 64 participants were involved in real and mock transactions covering a wide range of securities and payments use cases.
+[
+9
+]
+With a total of €1.6 billion settled over a six-month period, this was the largest and most comprehensive exploratory work on wholesale DLT settlement in the world to date.
+Technology neutrality
+In adapting our offering of central bank money and supporting the digital transformation of financial services, we are technology neutral. We are not picking winners.
+In retail, offering cash in both physical and digital form is in itself an example – and even a condition – of technology neutrality. It avoids limiting the choice of paying in central bank money to the payment format. This supports consumers’ freedom of choice. Discriminating against central bank money in digital payments would, on the contrary, reduce this freedom.
+Another example of technology neutrality is that we are designing the digital euro to remain open to new technologies. Take privacy, for instance. The digital euro is designed to make privacy a priority, not least by offering an offline functionality that will offer cash-like privacy. And for online payments, the Eurosystem will only see encrypted codes for the payer and the payee. We will not see any personal information. Moreover, we are committed to keep using the most advanced privacy-enhancing technologies suitable for a system that must reliably and instantaneously process a considerable number of transactions every day.
+In wholesale markets, we may see a future where DLT is used in some segments, traditional databases in others, with hybrid architectures in many cases. Our objective is not to oblige market participants to use a particular technological stack, but to ensure that whichever technology they adopt, the system remains safe, integrated and resilient by being connected to central bank money. This is why we will offer central bank money settlement for both DLT-based and traditional transactions. We are also neutral towards private business models and actors, provided they operate within a robust regulatory perimeter. Market participants should be able to innovate, but they must respect prudential and conduct requirements and meet expectations for anti-money laundering and countering the financing of terrorism.
+The digital euro: establishing a European solution and a single market for everyday retail payments
+Having presented the key pillars of our approach, namely complementarity between public and private money, public-private collaboration and technology neutrality, let me now discuss in more detail what this approach entails for retail, wholesale and cross-border payments.
+In retail payments, the digital euro will ensure all Europeans can use a European solution to pay throughout the euro area, in shops, in ecommerce and from person to person. At the same time, the digital euro will establish a single market for everyday retail payments by making it much easier for providers to scale up private European solutions.
+A digital equivalent of cash
+For decades, cash has provided a universal means of payment that everyone could use for most payments, thanks to its legal tender status. But as commerce becomes increasingly digital – with online payments, for instance, now accounting for one-third of day-to-day transactions – the use of cash is declining.
+In the absence of an equivalent public option in the digital sphere, the gap has been filled by a few mostly non-European solutions. International card schemes account for two-thirds of card transactions in the euro area. Out of 20 euro area countries, 13 do not even have a domestic card payment solution.
+This situation cannot be solved through the interoperability of existing domestic solutions. While such interoperability can help address some challenges, it does not create domestic solutions where they do not exist, nor does it allow existing domestic solutions to expand to use cases they do not currently cover. Interoperability requires each participant to develop functionalities in parallel. This increases costs and complexity, hindering scalability.
+The digital euro would be fundamentally new in the European context. It would provide a European digital means of payment in central bank money that would have legal tender status and would thus be accepted throughout the euro area wherever one can pay digitally. For consumers, it would extend the benefits of cash to the digital sphere. And for merchants, it would reduce costs compared with the dominant international payment solutions, both directly and indirectly by increasing merchants’ negotiating power.
+Preserving the role of banks in financing the economy
+The digital euro has been designed to preserve the role of banks in the financing of the economy. In the euro area, banks assume a key role in this regard and thus in the transmission of monetary policy. We have no intention of disrupting this role. In fact, the digital euro will protect it.
+Banks will be at the centre of the digital euro distribution; they will keep the customer relationship and manage the digital euro accounts. This will allow them to retain data that are crucial for assessing the creditworthiness of their clients and thus for their role in financing the economy. And we will prepare with banks so that they are ready to distribute the digital euro. In 2027 we plan to launch a pilot offering banks an opportunity to gain first-hand experience in a simulated digital euro ecosystem. This pilot will not only provide the Eurosystem with valuable insights, but will also allow banks to provide feedback.
+[
+10
+]
+Moreover, the digital euro will allow banks to be compensated (they will continue receiving fees), while no longer having to pay the fees charged by international card schemes (as the Eurosystem will cover scheme and settlement costs).
+And by offering a convenient payment solution, the digital euro will reduce the risk that the banks’ customers turn to alternatives. This will reduce the risk of deposit outflows to stablecoins, which could soon represent an alternative to banks as the source of funds for payments with cards and mobile solutions.
+Several safeguards have been included in the design of the digital euro to ensure it does not disintermediate banks. First, the digital euro will not be remunerated. Second, a link to their commercial bank account will allow consumers to pay amounts that exceed their digital euro holdings, thereby reducing their incentive to keep high digital euro holdings in the first place. And third, digital euro holding limits will avoid any destabilising deposit outflows.
+[
+11
+]
+A springboard for European private solutions to expand
+Moreover, the digital euro is a major opportunity for European payment service providers, including banks.
+First, co-badging with digital euro would allow existing European payment solutions to expand their reach, without losing transactions for which they are already accepted.
+[
+12
+]
+This applies to both physical cards and digital wallets.
+Second, the digital euro would provide a single standard across Europe with unparalleled coverage given the digital euro’s legal tender status. Using this standard would significantly reduce the cost of expanding the acceptance network of European payment solutions. We have been working on this standard with market participants as part of the Rulebook Development Group.
+[
+13
+]
+This standard could be made available shortly after the legislation is adopted and merchants would start to use it even before the digital euro’s launch, as they seek to be “digital euro-ready” when updating their payment terminals.
+Third, the digital euro would allow banks to offer new, innovative payment services at scale, for instance using the reservation of funds functionality as I explained earlier.
+Overall, this could make it much easier for current European private initiatives to achieve their objectives, whether they are based on cross-border integration like Wero or interoperability like EuroPA. I believe there is no dichotomy between the digital euro and European private initiatives, but instead complementarities and synergies.
+To reap these synergies, it is crucial that the digital euro and European private initiatives progress in parallel. By aligning on digital euro standards, while making maximum use of existing standards and building on established infrastructures as much as possible, costs will be minimised and the digital euro will create a single market for digital retail payments.
+Tokenised central bank money: powering an integrated European market for digital assets
+Let me now turn to wholesale payments.
+Besides seeking to offer central bank money to settle DLT-based digital asset transactions, we aim to fundamentally upgrade the infrastructure of our capital markets. If we want a future-proof savings and investments union, and if we want Europe to remain competitive, then we must collectively modernise the way financial assets are issued, traded, settled and serviced.
+Europe needs to develop a market for digital assets that is based on European infrastructure, euro-denominated settlement assets and EU-wide regulation. This will also protect our strategic autonomy, monetary sovereignty and financial stability.
+Safely unleashing the innovation potential of tokenisation
+A key promise of DLT and tokenisation is to bring the full lifecycle of a financial transaction – issuance, trading, settlement and custody – to a single digital environment. By design, this can reduce reconciliation processes, shorten settlement chains and lower operational risk. It can also enable atomic delivery-versus-payment and support trading and settlement on a 24/7 basis, 365 days a year, rather than being constrained by the opening hours of legacy systems.
+[
+14
+]
+Furthermore, smart contracts can automate corporate actions and cash flows that today require multiple intermediaries and manual checks.
+This explains the significant interest for this technology in the European market. A large share of EU banks are experimenting with DLT applications, while a significant portion have already begun deploying them.
+[
+15
+]
+But a key risk is fragmentation. If tokenised payments and finance rest on fragmented pools of private settlement assets, liquidity can splinter and assets cannot be traded across platforms. Market participants may need to hold multiple stablecoins just to pay different counterparties. And in stress situations, the promise of one-to-one convertibility may be tested precisely when it matters most.
+Central bank money, by contrast, is not constrained by the business model limits of private tokens. If made usable on DLT platforms, it can support the system in times of stress by elastically providing the ultimate liquidity. This matters not only for safety, but for the practical ability of a tokenised market to function smoothly at high volumes.
+Establishing an integrated European market for digital assets
+However, structural problems cannot be fixed by technology alone.
+Europe’s post-trade landscape remains fragmented. Simply look at the number of central securities depositories across the EU, which is far higher than in other major jurisdictions. In itself, this would not be a problem, provided infrastructures were seamlessly interoperable and operated under comparable rules. But Europe still has too many operational frictions, legal discrepancies and national practices that make cross-border activity costly and complex.
+A recent industry study finds that post-trade fees in Europe remain materially higher than in North America, and that fee schedules are often complex and hard to compare. Fragmentation ultimately shows up in the cost of capital and the attractiveness of European markets.
+[
+16
+]
+Tokenisation creates a rare opportunity to design a European market for digital assets that is integrated from the outset, in other words, a digital capital markets union. We must prevent the risk of creating platforms and standards that are incompatible and recreate the market segmentation we are trying to overcome.
+We need an enabling framework that reduces legal uncertainty for tokenised securities and supports EU-wide scalability. I therefore welcome the legislative proposals published last week by the European Commission.
+[
+17
+]
+They extend, enhance and expand the DLT Pilot Regime. And, in this respect, the idea of a dedicated EU legal framework for tokenised assets – sometimes described as a “28th regime” – captures the direction of travel.
+Supporting Europe’s strategic autonomy in digital finance
+Another reason to provide tokenised central bank money is to ensure a digital asset ecosystem can grow in Europe without depending on non-European settlement assets. This is key to avoiding the creation of a similar dependency in wholesale payments to what we have now in retail payments.
+If we do not provide a euro-anchored wholesale solution and a European infrastructure for the settlement of digital assets, Europe could find itself importing technology, standards, governance choices and ultimately strategic dependencies. Or worse: the digital assets market could simply fail to achieve scale in Europe and could end up growing elsewhere, which would weaken the international role of the euro and our strategic autonomy. In contrast, offering tokenised central bank money will help European innovation to scale up without outsourcing the monetary anchor.
+So how are we implementing this strategy in practice? In July, the ECB’s Governing Council approved a dual-track approach to settle DLT-based wholesale transactions in central bank money.
+[
+18
+]
+Pontes: bridging today and tomorrow
+The first track, also known as Project Pontes, will deliver a regular service for settling DLT transactions in central bank money as early as the third quarter of 2026.
+[
+19
+]
+Pontes is designed as a bridge between DLT platforms and our existing TARGET services. This bridge will enable tokenised asset transactions recorded on market DLT platforms to settle in central bank money. It will build on existing TARGET services, so it will maintain the Eurosystem’s standards for safety, resilience and efficiency, while being cost-efficient. It will combine the features of the three solutions we used in our exploratory work, which will enable delivery-versus-payment and support automation.
+We aim to gradually enhance Pontes with new functionalities following its launch, for instance by offering 24/7 operation and settlement, or by enabling the market to deploy automated smart contracts directly on the Eurosystem DLT.
+In a nutshell, Pontes is about ensuring that, whichever DLT market platforms develop, safe euro settlement in central bank money will be available.
+Appia: the future ecosystem
+The second track, Project Appia, will lay the groundwork for an integrated European digital asset ecosystem.
+[
+20
+]
+A launch paper to explain our vision will be published in early 2026. We want to explore how a future European digital financial market could operate if central bank money, commercial bank money and assets are able to interact efficiently in a tokenised environment.
+Appia will explore two approaches, with the potential to combine them if needed. First, a European shared ledger that brings together central bank money, commercial bank money and other assets on a single platform where market stakeholders provide services. Second, a European network of interoperable platforms that reduces current frictions in the market.
+This is also where the public-private partnership becomes tangible. Our role is to foster trust, develop European standards and ensure that the settlement anchor remains solid. The private sector’s role is to build the services, liquidity, business models and possibly platforms that make tokenised markets valuable.
+If we get this right, Europe can achieve something that is both technologically advanced and economically decisive: a tokenised market that operates at continental scale, with European rules and the euro at its core.
+Cross-border payments: openness with autonomy
+Finally, we must look beyond our own borders.
+Too often, cross-border payments still feel like they belong to a different era. They can be slow, expensive and opaque. According to the G20 monitoring framework, the cost of sending a USD 200 remittance averages around 6.5% of the transaction value globally, while the cost of business-to-business cross-border payments averages 1.6% of the transaction value and close to one-third of cross-border retail payments took more than one business day to be settled in 2024.
+[
+21
+]
+Structural factors are a significant cause of these issues. Much of the world still relies on correspondent banking chains. This model is inherently complex, as it multiplies intermediaries, compliance checks and points of failure, and it can require multiple currency conversions.
+Against this backdrop, our objective is to build up European capability by combining openness and improving our payment connections with partners.
+Stablecoin limits
+One possible trajectory is a world in which cross-border payments increasingly depend on one or a handful of global, US-dollar-backed stablecoins distributed through dominant platforms. There are three fundamental concerns with such an outcome.
+The first is concentration and operational fragility. If global payments depend on a small number of issuers and technology stacks, operational incidents, governance failures or runs become systemic issues rather than firm-level problems. Stablecoins may promise frictionless transfer but they can also create vulnerabilities in payments.
+The second concern is external rule-setting via infrastructure. If the main settlement asset and rails are anchored outside Europe, then Europe’s payment outcomes are shaped elsewhere. In a world where payment networks can be weaponised, this is a risk to our economic security.
+And third, there are currency substitution risks if the stablecoin ecosystem remains overwhelmingly dollar-based. If these instruments achieve scale via global platforms, they can amplify digital dollarisation dynamics – especially in regions with weaker currencies, but also by shifting the unit of account and settlement conventions in digital markets. We should avoid Europe’s cross-border payments being structurally dependent on private settlement assets denominated in another currency.
+Enhancing cross-border payments
+Against this backdrop, the Eurosystem has explored alternative ways to enhance cross-border payments.
+TIPS already acts as a hub for instant payments within the euro area.
+[
+22
+]
+And it is open to currencies of European countries outside the euro area, with Sweden and Denmark already using TIPS as a platform to run fast payments in their own currencies, and Norway soon to join. Since October, TIPS also provides the option to make cross-currency payments between the euro area, Sweden and Denmark.
+In the near future, TIPS could evolve into a global hub for instant cross-border payments by interlinking with other fast payment systems. The Eurosystem is making progress with its work to connect TIPS with India’s Unified Payments Interface – which has one of the largest instant payment transaction volumes in the world – and with Nexus Global Payments, which will connect the fast payments systems of Malaysia, the Philippines, Singapore, Thailand and India.
+[
+23
+]
+We also announced in September that we will start exploring the interlinking of TIPS with Switzerland’s fast payments systems, and we are in discussions with other possible partners. The Eurosystem, through Banca d’Italia, is also supporting the central banks of Albania, Bosnia and Herzegovina, Kosovo, Montenegro and North Macedonia in their efforts to develop an instant, multi-currency payments system modelled on TIPS. This “TIPS clone” is due to become operational in July 2026, after which it will be technically possible to link it up with TIPS.
+This strategy will facilitate cross-border payments, making them cheaper, faster and more transparent.
+Interlinking can reduce the number of intermediaries, shorten transaction chains and lower costs, as it allows payment service providers to transact without routing payments through a long chain of correspondents.
+However, the settlement leg of cross-border payments, by which money moves from the payer’s to the payee’s account, is also crucial. This is why we are also exploring how tokenised settlement assets could complement interlinking. We can build on the foundation of the BIS Innovation Hub’s Project Rialto, which aims to improve instant cross-border payments using central bank money settlement. Other solutions based on tokenised forms of private money can also be explored.
+Looking to the future, the digital euro could also act as a connector. It is first and foremost intended for domestic use. But it is also being designed with international use in mind, based on an approach that respects the sovereignty of other countries and mitigates potential risks.
+[
+24
+]
+When visiting the euro area temporarily, non-euro area residents would have access to the digital euro through a European payment service provider. Merchants outside the euro area may also be allowed to accept digital euro payments from euro area residents. Moreover, users outside the euro area could be granted permanent access to the digital euro, subject to an agreement between the EU and non-EU countries, and complemented by an arrangement between the ECB and the respective central banks. Appropriate safeguards would be put in place to avoid stoking currency substitution in those countries.
+Finally, like TIPS, the digital euro’s design includes multi-currency enabling features that would allow non-euro area countries to use the digital euro infrastructure to offer their own digital currencies and facilitate transactions across these currencies.
+Conclusion
+Let me conclude.
+In a rapidly digitalising economy where new technologies are emerging, we need to ensure central bank money remains fit for purpose. This is key for innovation, integration and independence in digital payments and digital finance.
+This is of particular importance in the European context. As Mario Draghi has underlined, Europe’s problem is that innovation is often blocked by fragmented markets at the scale-up stage, pushing successful firms to seek scale elsewhere. Digital payments are a case in point and we need to avoid digital finance following the same path.
+This is highly relevant for Europe’s competitiveness. Digital payments and finance stand at the interface between technology and the financial system, which together explain most of the productivity gap between Europe and the United States.
+[
+25
+]
+In this context, our strategy is neither state-centric nor hands-off, rather it is built around three principles.
+First, central bank money must remain available and usable, also in digital form, to provide stability and trust.
+Second, our approach is based on public-private partnership. The Eurosystem provides settlement in central bank money and common standards, while private intermediaries compete and innovate on top of this, delivering services that are innovative and scalable.
+Third, we do not decide which technology or business models should prevail. This is up to market participants. The public sector’s role is to ensure that our payment systems and our financial system remain robust in the face of technological disruption and that markets for money and assets remain fully integrated.
+In retail payments, the digital euro is about ensuring that people in Europe can continue to use public money by complementing cash with its digital equivalent. This keeps pace with the shift of commerce towards digital payments. Its infrastructure, acceptance network and standards will also make it easier for European private solutions to scale up.
+In wholesale payments, Pontes in the short term and Appia in the longer term will make it possible to settle digital asset transactions in central bank money. This will provide a safe basis for tokenisation to scale in Europe.
+In cross-border payments, we can increase speed and reduce costs by interlinking fast payment systems and exploring innovative settlement arrangements.
+The choice, ultimately, is about whether Europe wants to sit on the sidelines watching the next wave of innovative payment solutions, or be a co-architect of an innovative, integrated and resilient digital financial system that has the euro at its core.
+By acting now, as part of a public-private partnership, we can play a leading role in the transformation of money and we can embrace innovation. This will support Europe’s competitiveness, resilience and sovereignty, while delivering tangible benefits for European people and businesses.
+Thank you for your attention.
+I would like to thank Cyril Max Neumann and Jean-Francois Jamet for their help in preparing this speech, as well as Thomas Vlassopoulos and Alessandro Giovannini for their comments.
+Cipollone, P. (2024), “
+Innovation, integration and independence: taking the Single Euro Payments Area to the next level
+”, speech at the ECB conference on “An innovative and integrated European retail payments market”, 24 April.
+Decentralised ledger technology allows information to be shared and kept synchronised across a network. Tokenisation is the process of converting or issuing assets as programmable tokens. Tokenisation allows programmable tokens to carry two sets of information at the same time: information about the asset itself (what it is, who issued it, who holds it, etc.) and the rules about how this token can be used (who can hold it, how it can change ownership, as well as more complex rules compiled into smart contracts).
+Cipollone, P. (2025), “
+Preparing the future of payments and money: the role of research and innovation”, keynote speech at the conference “The future of payments: CBDC, digital assets and digital capital markets
+”, hosted by Bocconi University, the Centre for Economic Policy Research and the European Central Bank, 26 September.
+Rolnick, A.J. and Weber, W.E. (1983), “
+New evidence on the free banking era
+”,
+American Economic Review
+, Vol. 73, No 5, pp. 1080-1091. For more about state banknotes, see Rockoff, H. (1974), “
+The Free Banking Era: A Reexamination
+”,
+Journal of Money, Credit and Banking,
+Vol. 6, No 2, May, pp. 141-167.
+Cipollone, P. (2025), “
+Tokenisation and the future of finance: the role of central bank money
+”, presentation at the Central Bank of Ireland’s Financial System Conference 2025, 25 November.
+For more details on market contact groups, see the ECB’s dedicated
+web page
+.
+ECB (2025),
+Digital euro innovation platform – Outcome report: pioneers and visionaries workstreams
+, September.
+ECB (2025), “
+The Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement
+”, 1 July.
+ECB (2025), “
+Eurosystem to invite payment service providers to participate in digital euro pilot
+”, 28 November.
+See ECB (2025),
+Technical data on the financial stability impact of the digital euro
+, October.
+Co-badging domestic private schemes and the digital euro would mean that domestic schemes would be the preferred brand wherever they were accepted, and the digital euro would be the fall-back solution wherever they were not accepted. See ECB (2025),
+Fit of the digital euro in the payment ecosystem – Report on the dedicated Euro Retail Payments Board (ERPB) technical workstream
+, October.
+See ECB (2025),
+Update on the work of the digital euro scheme’s Rulebook Development Group
+, 30 October.
+Vlassopoulos, T. (2025), “
+Making wholesale central bank money fit for the digital age - Delivering innovation, integration and independence to Europe’s wholesale financial markets
+”, speech at the House of the euro, 7 November.
+European Banking Authority (2024), “
+Uses of DLT in the EU banking and payments sector: EBA innovation monitoring and convergence work
+”,
+fact sheet
+, April. At the time, over 60% of EU banks surveyed were actively exploring, experimenting with or using DLT solutions, while 22% had already started using DLT applications.
+Association for Financial Markets in Europe (2025),“
+Analysis of CSD Fees in Major European Markets
+”, 1 October. The study finds that settlement fees in Europe are on average 65% higher than in North America, and safekeeping charges can be up to 650% more expensive. Complex, non-standardised and opaque fee schedules, ranging from 38 to 242 line items, make costs difficult to compare across CSDs.
+European Commission (2025),
+Market integration package
+, 4 December.
+ECB (2025), “
+ECB commits to distributed ledger technology settlement plans with dual-track strategy
+”,
+press release
+, 1 July.
+See the
+ECB’s webpage on Project Pontes
+.
+See the
+ECB’s webpage on Project Appia
+.
+Financial Stability Board (2025), “
+G20 Roadmap for Enhancing Cross-border Payments – Consolidated progress report for 2025
+”, 9 October.
+TIPS ensures instant payments are available throughout the euro area, as all payment service providers offering instant payments can access a TIPS liquidity account that uses central bank money, and all automated clearing houses offering instant payment services have technical accounts in TIPS. Since October 2025, all euro area payment service providers are mandated by the Instant Payments Regulation to have the option of receiving and sending instant payments.
+ECB (2025), “
+Eurosystem moves forward on work to connect TIPS with India’s Unified Payments Interface and with Nexus Global Payments
+”,
+MIP News
+, 20 November.
+Cipollone, P. (2025), “
+Enhancing cross-border payments in Europe and beyond
+”, speech by Piero Cipollone at the Regional Governors’ Meeting, 1 April.
+Draghi, M. (2024),
+The future of European competitiveness
+, September, in particular the box entitled “A closer look at the role of the ICT sector in the EU-US labour productivity gap” on page 27.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

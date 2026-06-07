@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy and financial stability: past lessons for future resilience",
+  "date_original": "2025-10-03",
+  "date_au": "03/10/2025",
+  "datetime_original": "",
+  "speaker": "Monetary policy and financial stability",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251003~4eea40331a.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-10-03 - Monetary policy and financial stability - Monetary policy and financial stability_ past lessons for future resilience.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-10-03 - Monetary policy and financial stability - Monetary policy and financial stability_ past lessons for future resilience.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "18131ca9c1a18641cb2fefb8f21ebce5ad948f4b1747bd0bfadae53b57b67c0d"
+}

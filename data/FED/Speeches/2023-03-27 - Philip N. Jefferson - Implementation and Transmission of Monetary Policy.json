@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Implementation and Transmission of Monetary Policy",
+  "date_original": "2023-03-27",
+  "date_au": "27/03/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20230327a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-03-27 - Philip N. Jefferson - Implementation and Transmission of Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-03-27 - Philip N. Jefferson - Implementation and Transmission of Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "61c0c5f95b3de32b390fecadff7d586c33c20a28a6d6cc3d13af0ec26787791d"
+}

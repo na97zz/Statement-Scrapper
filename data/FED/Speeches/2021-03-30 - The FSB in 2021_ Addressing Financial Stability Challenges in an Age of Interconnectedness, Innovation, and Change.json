@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The FSB in 2021: Addressing Financial Stability Challenges in an Age of Interconnectedness, Innovation, and Change",
+  "date_original": "2021-03-30",
+  "date_au": "30/03/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20210330a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-30 - The FSB in 2021_ Addressing Financial Stability Challenges in an Age of Interconnectedness, Innovation, and Change.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-30 - The FSB in 2021_ Addressing Financial Stability Challenges in an Age of Interconnectedness, Innovation, and Change.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9054d7b3e3460179062a1148057e1696e5389653afe4ebaba19913372d970e81"
+}

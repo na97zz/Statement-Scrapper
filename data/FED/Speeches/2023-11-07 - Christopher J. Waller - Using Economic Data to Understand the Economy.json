@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Using Economic Data to Understand the Economy",
+  "date_original": "2023-11-07",
+  "date_au": "07/11/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20231107a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-07 - Christopher J. Waller - Using Economic Data to Understand the Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-07 - Christopher J. Waller - Using Economic Data to Understand the Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0878732e6cbaff88b5dbbe4134d3ca2f0921d0ceec13056942e56ffec50fedd7"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Turning Points and Monetary Policy Strategy - speech by Catherine L. Mann",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Catherine L. Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/february/catherine-l-mann-lamfalussy-lectures-conference-new-dimensions-of-central-baking-post-covid",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Catherine L. Mann - Turning Points and Monetary Policy Strategy - speech by Catherine L. Mann.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Catherine L. Mann - Turning Points and Monetary Policy Strategy - speech by Catherine L. Mann.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "40e1d4c89777e9ab53facb1850cb353e67bc0cdbd91c39bbf35fb8474314c46c"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Solvency UK: Maintaining the momentum - speech by Gareth Truran",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Gareth Truran",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/september/gareth-truran-keynote-speech-at-bank-of-america-financials-ceo-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Gareth Truran - Solvency UK_ Maintaining the momentum - speech by Gareth Truran.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Gareth Truran - Solvency UK_ Maintaining the momentum - speech by Gareth Truran.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "834e14dd6bc57ba8736cf3af16e46673dae206a914c154f8f4bd003aed153142"
+}

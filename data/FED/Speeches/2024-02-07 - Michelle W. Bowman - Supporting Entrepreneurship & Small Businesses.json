@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Supporting Entrepreneurship & Small Businesses",
+  "date_original": "2024-02-07",
+  "date_au": "07/02/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240207a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-07 - Michelle W. Bowman - Supporting Entrepreneurship & Small Businesses.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-07 - Michelle W. Bowman - Supporting Entrepreneurship & Small Businesses.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ad358c8dc0a9957c9386db249ecc63899ab0df7acb6d1cd04d0bb0a9e9ff0b84"
+}

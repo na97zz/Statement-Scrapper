@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Inflation: a tiger by the tail? - speech by Andy Haldane",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andy Haldane",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/february/inflation-a-tiger-by-the-tail-speech-by-andy-haldane.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andy Haldane - Inflation_ a tiger by the tail_ - speech by Andy Haldane.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andy Haldane - Inflation_ a tiger by the tail_ - speech by Andy Haldane.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:36",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/february/andy-haldane-recorded-mini-speech-on-inflation-outlook",
+  "content_sha256": "6936664995277ae577b33138a9bf967c88090255290af0f5722fe3b8dd60d1f9"
+}

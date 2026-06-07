@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Miyazaki (via webcast))",
+  "date_original": "2021-08-31",
+  "date_au": "31/08/2021",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210831a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-08-31 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Miyazaki (via web.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-08-31 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Miyazaki (via web.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a86fca936b24ec51f571fce5d2bbb343afd00a7f2252e183a647eed45ca5ad0f"
+}

@@ -1,0 +1,11 @@
+bank,number_of_meetings,total_documents,linked_documents,unlinked_documents,statement_count,minutes_count,speech_count,press_conference_count,sep_count,average_documents_per_meeting
+BOC,21,47,46,1,21,0,26,0,0,2.19
+BOE,22,394,394,0,22,0,372,0,0,17.91
+BOJ,3,164,14,150,3,0,153,0,0,4.67
+ECB,43,427,427,0,43,0,340,5,0,9.93
+FED,44,556,552,4,44,43,469,0,0,12.55
+NORGES_BANK,21,83,78,5,21,0,62,0,0,3.71
+RBA,52,659,414,245,52,52,555,0,0,7.96
+RBNZ,22,58,57,1,22,0,36,0,0,2.59
+RIKSBANK,32,167,167,0,32,0,135,0,0,5.22
+SNB,21,124,117,7,21,0,103,0,0,5.57

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Opening remarks at the 50th anniversary of the London Foreign Exchange Joint Standing Committee (FXJSC) - Andrew Bailey",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/november/andrew-bailey-remarks-at-the-50-year-anniversary-of-the-london-fxjsc",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Bailey - Opening remarks at the 50th anniversary of the London Foreign Exchange Joint Standing Committee (FXJSC) - Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Bailey - Opening remarks at the 50th anniversary of the London Foreign Exchange Joint Standing Committee (FXJSC) - Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "466e924d9e64e7b86d569164fd1a57d40fa6bd4d6b1675949d6d53f6629cdc8e"
+}

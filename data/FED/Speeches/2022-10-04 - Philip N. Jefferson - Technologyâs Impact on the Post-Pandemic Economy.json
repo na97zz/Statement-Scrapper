@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Technologyâs Impact on the Post-Pandemic Economy",
+  "date_original": "2022-10-04",
+  "date_au": "04/10/2022",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20221004a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-04 - Philip N. Jefferson - Technologyâs Impact on the Post-Pandemic Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-04 - Philip N. Jefferson - Technologyâs Impact on the Post-Pandemic Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "95b0fc3eaba7ca45f1a770d3c5319d1687a08c4c94b590f0fe366d181ff6c8e3"
+}

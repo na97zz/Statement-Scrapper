@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Points Forming Lines, Evolving to Surfaces\"(Opening Remarks at the 10th Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency)",
+  "date_original": "2026-02-17",
+  "date_au": "17/02/2026",
+  "datetime_original": "",
+  "speaker": "KAMIYAMA Kazushige",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260217a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-02-17 - KAMIYAMA Kazushige - _Points Forming Lines, Evolving to Surfaces_(Opening Remarks at the 10th Meeting of the Liaison and Coordination Com.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-02-17 - KAMIYAMA Kazushige - _Points Forming Lines, Evolving to Surfaces_(Opening Remarks at the 10th Meeting of the Liaison and Coordination Com.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "db89a5f2dcfeb731bf0fcfa5db35e69ec3d6b389ff8f466096d5990ce4e6fc80"
+}

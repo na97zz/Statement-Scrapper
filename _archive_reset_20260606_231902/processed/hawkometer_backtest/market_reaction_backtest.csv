@@ -1,0 +1,2 @@
+bank,meeting_id,meeting_date,asset,window,change,change_bps,change_pct,meeting_cycle_score,meeting_score_change,hawkometer_signal,meeting_cycle_lean
+,,,market_reactions.csv missing; add external market data to enable this backtest.,,,,,,,,

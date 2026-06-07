@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - November 2025",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2025/november/monetary-policy-report-november-2025.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2025-06-01 - Monetary Policy Report - November 2025.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2025-06-01 - Monetary Policy Report - November 2025.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:54:40",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2025/november-2025",
+  "content_sha256": "6a8690ad6630624dc7c51c02b5ec92ddbc1eb00fcb806de9ce5e51eff6ef6f5f"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Monetary policy and financial stability interventions in difficult times − speech by Andrew Bailey",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/october/andrew-bailey-opening-remarks-and-panellist-37th-annual-international-banking-seminar",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Andrew Bailey - Monetary policy and financial stability interventions in difficult times − speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Andrew Bailey - Monetary policy and financial stability interventions in difficult times − speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:18:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d12cf3ee97febffc8c6e2c122fe15e439a28ee17a037a2aa47eedf9d51910482"
+}

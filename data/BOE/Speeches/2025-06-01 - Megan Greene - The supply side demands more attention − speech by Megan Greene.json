@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The supply side demands more attention − speech by Megan Greene",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Megan Greene",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/september/megan-greene-university-of-glasgow-business-school",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Megan Greene - The supply side demands more attention − speech by Megan Greene.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Megan Greene - The supply side demands more attention − speech by Megan Greene.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:11:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9bd94ae3b887922d735084fc3f92a793755d7e8d3a29cb56bd5febb0fe7f2b86"
+}

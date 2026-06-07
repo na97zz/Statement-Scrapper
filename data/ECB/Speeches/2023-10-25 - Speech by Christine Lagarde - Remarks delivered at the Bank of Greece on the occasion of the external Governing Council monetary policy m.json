@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Remarks delivered at the Bank of Greece on the occasion of the external Governing Council monetary policy meeting in Athens",
+  "date_original": "2023-10-25",
+  "date_au": "25/10/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231025~edcc5ca1db.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-10-25 - Speech by Christine Lagarde - Remarks delivered at the Bank of Greece on the occasion of the external Governing Council monetary policy m.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-10-25 - Speech by Christine Lagarde - Remarks delivered at the Bank of Greece on the occasion of the external Governing Council monetary policy m.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0b251485df2adc181abf6e913fcb9303d59b861d9e358535de2066530fd6f979"
+}

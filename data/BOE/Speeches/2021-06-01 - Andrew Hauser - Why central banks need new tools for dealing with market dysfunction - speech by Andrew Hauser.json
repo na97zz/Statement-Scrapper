@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Why central banks need new tools for dealing with market dysfunction - speech by Andrew Hauser",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/january/why-central-banks-need-new-tools-for-dealing-with-market-dysfunction-speech-by-andrew-hauser.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Hauser - Why central banks need new tools for dealing with market dysfunction - speech by Andrew Hauser.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Hauser - Why central banks need new tools for dealing with market dysfunction - speech by Andrew Hauser.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:56",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/january/andrew-hauser-speech-at-thomson-reuters-newsmaker",
+  "content_sha256": "995e2a3e521cd1f9686ff88e689a6bd361cdb75fdfdc904a0bbb516eaccab75f"
+}

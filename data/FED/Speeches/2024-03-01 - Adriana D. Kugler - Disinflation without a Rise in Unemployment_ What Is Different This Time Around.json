@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Disinflation without a Rise in Unemployment? What Is Different This Time Around",
+  "date_original": "2024-03-01",
+  "date_au": "01/03/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20240301a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-03-01 - Adriana D. Kugler - Disinflation without a Rise in Unemployment_ What Is Different This Time Around.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-03-01 - Adriana D. Kugler - Disinflation without a Rise in Unemployment_ What Is Different This Time Around.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c30bef1cb19cce0e0b9b4fe9fb0ee555e6745e36525f20cd5ad42493b927f138"
+}

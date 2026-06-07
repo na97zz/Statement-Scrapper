@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and Path of Policy",
+  "date_original": "2025-04-03",
+  "date_au": "03/04/2025",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20250403a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-04-03 - Lisa D. Cook - The Economic Outlook and Path of Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-04-03 - Lisa D. Cook - The Economic Outlook and Path of Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f07aee38bbd94ffbf7b438ea50ad4482a713ac5977c394d4b8c58bc7f5c5567"
+}

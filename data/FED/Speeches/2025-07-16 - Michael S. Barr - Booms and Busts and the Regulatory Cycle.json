@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Booms and Busts and the Regulatory Cycle",
+  "date_original": "2025-07-16",
+  "date_au": "16/07/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250716a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-16 - Michael S. Barr - Booms and Busts and the Regulatory Cycle.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-16 - Michael S. Barr - Booms and Busts and the Regulatory Cycle.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "43b411f17a01e74d8895269e41d2d5e23653ff9e9f3908173a235734de15e8a5"
+}

@@ -1,0 +1,138 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: International payment rails: the value of a harmonised gauge − speech by Sarah Breeden
+DATE: 01/06/2025
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/may/sarah-breeden-panellist-at-the-global-finance-technology-network
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+International payment rails: the value of a harmonised gauge − speech by Sarah Breeden
+Based on remarks given on the Global State of Digital Asset Regulations: Regulatory Harmonisation on Digital Assets Panel at the Point Zero Forum 2025
+Published on 
+
+ 06 May 2025
+Digitalisation of money and assets is happening at pace. Sarah sets out why this matters for the Bank and why we care so much about interoperability. She discusses next steps for the UK stablecoin regime and emphasises the importance of working across borders.
+Speech
+Introduction
+Digital money and digital assets sit at the core of central banking. We regulate Financial Market Infrastructures (FMIs). We consider the broader implications for financial stability from new technology. And we have the unique position of providing the ultimate settlement asset of central bank money. So today I’m keen to talk about how digitalisation is impacting our objectives, why we’re so focused on interoperability – or harmonised gauges, to return to the trains and rails analogy I used last year
+footnote
+[1]
+– and what I see as the next steps for stablecoin regulation in the UK. This is a fast-moving space. It’s important to recognise that we’re all building our understanding and oftentimes learning as we go.
+The developments in digital money and assets that we’re talking about today are all inherently global in nature. That means we need to work closely with our international partners to ensure innovation happens safely across jurisdictions. Such harmonisation of standards internationally not only helps us regulators appropriately to manage risks to our economies emanating from overseas, but it also supports firms looking to operate and scale across borders to do so without unnecessary frictions.
+footnote
+[2]
+Digitalisation: the global opportunity
+To take a step back, digitalisation is about turning assets and money into new, digital forms, which can be exchanged in new ways on new infrastructure. There are huge potential benefits from this, both increased efficiency and improved functionality. As central banks and regulators we need to engage to ensure the financial system can reap the benefits of this technology without introducing unwarranted risks. But importantly as, across the globe, we each look to upgrade our systems supporting retail and wholesale payments, we have a unique opportunity to reshape them in a way which better serves the global financial system – with greater harmonisation and cross-border payment and settlement a focus from the start. There is a huge prize here. Some estimates suggest that the total value of cross-border payments could reach nearly $290 trillion by 2030, up over 50% on last year.
+footnote
+[3]
+Beyond managing risks, as a central bank, we have a unique place in this discussion. We provide both the ultimate, risk-free settlement asset in central bank money and the infrastructure on which it moves. We also supervise the financial market infrastructures which provide the plumbing through which money and assets move around the system before ultimately settling across our balance sheet. At the Bank of England, we are exploring how settlement in central bank money can support settlement of assets on new types of ledger through synchronisation. And as my colleague Dave Ramsden recently outlined, we’re working on a series of practical experiments – not just on synchronisation, but also to test use cases and prospective designs of a wholesale Central Bank Digital Currency.
+footnote
+[4]
+We can also play a convening role, both domestically and internationally. For example, the G20, alongside the FSB, CPMI and other partner organisations have set out and are tracking progress against a roadmap for enhancing cross-border payments, focusing on making them faster, cheaper, more accessible and more transparent.
+Interoperability
+One obvious place where that convening role can be put to good use is on interoperability. Whilst innovation can drive efficiencies and improved outcomes for users of the financial system, as central banks we like to take a system-wide view. In the payment and settlement space, there are natural monopolies as well as commercial interests to fragment the system by creating ‘walled gardens’. Some of those gardens are very large, like globally available card schemes, whilst others sit within domestic payment systems (for example in the UK we have multiple interbank retail systems). One obvious risk of developments in digital money and assets is that new systems emerge in quite small walled gardens, with quite high walls, resulting in further fragmentation across the financial system. That is unlikely to lead to more efficient outcomes. And in bad states of the world such fragmentation could amplify shocks due to trapped liquidity or by undermining confidence in the financial system if customers are unable to move their money freely between ‘new’ and ‘traditional’ rails. Interoperability means that users can switch seamlessly between different forms of money and across asset classes. That will be important both in building trust in new technologies and for these technologies to deliver the benefits I outlined earlier.
+Interoperability has both hard (technical) and soft aspects (regulatory standards such as AML). One way of delivering technical interoperability would be a single, unified ledger along the lines set out by the BIS in 2023, and built on in the Monetary Authority of Singapore’s Global Layer 1 white paper.
+footnote
+[5]
+In this vision, tokenised assets and money would coexist with central bank money on a single platform. Clearly such a piece of infrastructure would sit at the heart of any tokenised ecosystem and, likely within the central bank.
+Equally we can drive towards interoperability through the development of harmonised technical standards, making it easier to re-route transactions between systems and reducing where possible the frictions from moving between different forms of money and assets.
+However we choose to solve it, interoperability requires the kind of coordinated action that the public sector, with its convening power and ability to set standards and requirements, may be best placed to deliver. And when we start thinking about interoperability cross-border, that is where harmonisation and collaboration between regulators and authorities can be most effective.
+As such, I think there’s huge scope here for public authorities, along with industry, to work together to do more experimentation and collectively further our understanding on how to integrate these new, digital forms of assets and money into the wider financial system.
+Digitalisation of Money: Stablecoins
+Another way of thinking about interoperability is that it is crucial for achieving “singleness of money”.
+footnote
+[6]
+“Singleness of money” is a central bank concept which risks seeming quite complex. But put simply, what we mean is that if we are to safeguard financial stability, it is critical to be able to convert frictionlessly between different forms of money, so that all forms of money can be exchanged (and redeemed) at par value at all times. This leads to trust and confidence in the value of money – whether it’s a bank note, a deposit at a commercial bank, or a stablecoin being used for payments – which in turn underpins confidence in the broader financial system. Ultimately, it is interoperability that delivers that the frictionless conversion, and therefore singleness of money, that we’re so focused on as a central bank.
+That idea sits at the heart of our thinking on how to regulate systemic, payments focused stablecoins.
+footnote
+[7]
+We continue to think this principle remains a helpful way to guide our thinking about money. Should consumers not be readily able to exchange the types of money that they’re using day-to-day, they may lose confidence in the broader financial system. Indeed, in an extreme scenario, where large amounts of economic activity take place in a form of money which isn’t interchangeable, at par, with bank deposits or cash, and may not even be denominated in the national currency, we could see threats to monetary sovereignty as well as risks to financial stability. Clearly this would cut across the objectives of central banks.
+In November 2023 the Bank of England was one of the very first central banks to set out a proposed framework for how to think about regulating stablecoins used widely in the real economy for payments purposes. By setting out our early thinking, and our focus on this singleness of money, we’ve been able to enter into a dialogue with industry which has been incredibly useful. We want to continue that dialogue as we refine our proposed regulatory framework. And, it goes without saying, we want to listen to and learn from our international colleagues as they design and implement their own regimes.
+Let me set out three key themes of feedback we have heard on our proposals from our engagement with industry.
+The first is that our proposed regime does not align with existing stablecoin business models whose revenues are based on interest income, and our focus on ‘singleness of money’ for stablecoins widely used for payments jars with the existing use cases for stablecoins.
+It is clear that there are stablecoin use cases which are not centred on becoming widely used payment mechanisms in the real economy – supporting settlement in the crypto ecosystem, for example. However once a stablecoin has been issued, it has the potential to be used anywhere in the financial system – to settle real world as well as crypto activities, to settle wholesale as well as retail transactions, to be used offshore as well as in its domestic regime. Accordingly, we want to reflect on how the broader UK regime should support each of these use cases and business models, whilst still mitigating the risks.
+The second theme, clearly related to the first, is on transition into the Bank’s proposed regime, and how this may be challenging the more it differs from the FCA’s regime for non-systemic stablecoins.
+And third, building on this point, industry also highlighted concerns with the UK having a regime which looks and feels different to regimes being implemented in other countries, and the challenges that might bring for firms wanting to operate cross-border businesses.
+Next steps for the UK stablecoin regime
+So my key message on the UK stablecoin regime is, we’ve heard you, and we want to continue our dialogue with industry as we continue to refine our proposals. This is challenging because as I’ve outlined the world is changing at pace, and there are areas where we all need to learn as we go, for example on interoperability, and how stablecoins might scale within the regulatory regimes we set out. But perhaps I can start to sketch out where we go from here.
+As I see it, it would be helpful to differentiate more clearly between “payments coins” being used in the real world, which are the focus of the Bank’s regime, and other types of stablecoin, which have more investment use cases, or indeed play a settlement role in the crypto ecosystem (and which, in the UK, the Financial Policy Committee does not currently judge to be systemic).
+Similarly, I think there is a clear difference between the very large, systemic payments coins we designed our regime for, and those which are smaller, but may have the potential to be systemic in the future. In other words, the regime we set out with ‘singleness of money’ at its core might not be the right regime for coins which
+aren’t
+yet
+being used widely, at what central bankers would describe as a “systemic level”, for payments.
+I have an important caveat, however. Payment systems are networks – and a stablecoin focused on payments could take off very quickly and scale up due to natural network effects. We need therefore to be very mindful of the glidepath into a systemic regime for payments-focused stablecoins – including how we identify stablecoins which are on that trajectory - to ensure that any rapid growth in stablecoins which don’t start off as systemic can be appropriately managed within the regulatory framework. And we need to be mindful of what that glidepath means for stablecoin business models.
+The Bank is keen to ensure that its regime enables safe, systemic payments coins in the UK to have a viable business model. That’s how we support safe innovation and it’s how businesses and households in the UK are able to capture the benefits of this new technology. As a result, and reflecting feedback, we are reviewing how our proposals might permit firms to receive some return on their backing assets.
+As we develop those proposals, you can be assured that we will maintain our focus on the singleness of money and financial stability. Without that confidence – in being able to redeem with legal certainty, in fiat at par, and without friction – we risk runs from one form of money to another, and a loss of trust in money that can undermine the basis on which economic activity takes place.
+footnote
+[8]
+We need to, and we will, guard that very carefully.
+In ensuring trust in money at a time of significant innovation, and where we need to learn and test as we go, at the Bank we’ve found sandboxes a useful way to further our thinking by working alongside the industry. For example, the Digital Securities Sandbox is a regulated live environment where digital securities can be issued, traded, and settled on distributed ledger technology, and where participants are allowed to scale their business as they demonstrate compliance with regulatory requirements at each stage.
+footnote
+[9]
+It is plausible that this type of approach could be beneficial in the payments context, allowing further open dialogue and experimentation between industry and authorities to understand how we can deliver important features like interoperability, whilst also learning more about the business models and use cases for stablecoins as they continue to develop. And, crucially, as we learn, we can share our reflections with authorities across the world, with an aim of supporting harmonisation and equivalence in outcomes.
+Conclusion
+Let me conclude and return to the theme of today’s panel: that as we move forward we should keep international harmonisation in mind. I don’t think that requires precise, line by line matching requirements. Rather we want to be able to recognise where regimes in other countries deliver equivalent outcomes to the expectations we set. We’ll continue to engage with and learn from our colleagues across the world such that we can make these judgements. And that will ensure we are best placed to realise those benefits of cheaper, faster, more efficient and more effective payments and settlements I mentioned at the start. I look forward to our continued engagement.
+I would like to thank Francine Robb for her assistance in drafting these remarks. I would also like to thank Andrew Bailey, Paul Bedford, Emma Butterworth, Victoria Cleland, Nick McLaren, Sasha Mills, Ali Moussavi and Tom Mutton for their helpful input and comments.
+Modernising the trains and rails of UK payments − speech by Sarah Breeden | Bank of England
+For example, in 2023 the FSB published
+Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements
+Beyond borders: capturing growth in a dynamic cross-border payments market
+Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden | Bank of England
+III. Blueprint for the future monetary system: improving the old, enabling the new
+;
+Global Layer 1 (GL1) Whitepaper
+The future of money and payments - speech by Andrew Bailey | Bank of England
+Consistent with the FPC’s expectations for stablecoins set out in
+Financial Stability Report December 2019 | Issue No. 46
+This is not just a theoretical risk. Similar examples have been seen in history with banknotes – eg the
+well-documented experience of ‘free banks’ in the US in the 1800s. It is also managed via the Scottish and Northern Irish Bank note regime which ensures that privately issued notes in the UK are fully backed and ‘trade’ at par.
+Digital Securities Sandbox (DSS) | Bank of England
+Digital Securities Sandbox (DSS) | Bank of England
+Close
+This is not just a theoretical risk. Similar examples have been seen in history with banknotes – eg the
+well-documented experience of ‘free banks’ in the US in the 1800s. It is also managed via the Scottish and Northern Irish Bank note regime which ensures that privately issued notes in the UK are fully backed and ‘trade’ at par.
+Close
+Consistent with the FPC’s expectations for stablecoins set out in
+Financial Stability Report December 2019 | Issue No. 46
+Close
+The future of money and payments - speech by Andrew Bailey | Bank of England
+Close
+III. Blueprint for the future monetary system: improving the old, enabling the new
+;
+Global Layer 1 (GL1) Whitepaper
+Close
+Renewed RTGS: Digital public infrastructure as a platform for innovation − speech by Dave Ramsden | Bank of England
+Close
+Beyond borders: capturing growth in a dynamic cross-border payments market
+Close
+For example, in 2023 the FSB published
+Recommendations for the Regulation, Supervision and Oversight of Global Stablecoin Arrangements
+Close
+Modernising the trains and rails of UK payments − speech by Sarah Breeden | Bank of England
+Close
+Convert this page to PDF
+Sarah Breeden
+Deputy Governor, Financial Stability
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

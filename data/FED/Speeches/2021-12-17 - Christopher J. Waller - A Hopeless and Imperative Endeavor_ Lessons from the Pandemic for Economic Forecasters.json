@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Hopeless and Imperative Endeavor: Lessons from the Pandemic for Economic Forecasters",
+  "date_original": "2021-12-17",
+  "date_au": "17/12/2021",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20211217a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-12-17 - Christopher J. Waller - A Hopeless and Imperative Endeavor_ Lessons from the Pandemic for Economic Forecasters.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-12-17 - Christopher J. Waller - A Hopeless and Imperative Endeavor_ Lessons from the Pandemic for Economic Forecasters.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f908fa93abcf32aefed21cbce3fff3844e55435fc4bfa9c17b5a44549e7194d5"
+}

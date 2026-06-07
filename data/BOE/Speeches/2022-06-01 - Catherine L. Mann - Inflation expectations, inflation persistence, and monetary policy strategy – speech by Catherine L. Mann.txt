@@ -1,0 +1,1542 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Inflation expectations, inflation persistence, and monetary policy strategy – speech by Catherine L. Mann
+DATE: 01/06/2022
+SPEAKER: Catherine L. Mann
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2022/september/catherine-l-mann-53rd-annual-conference-of-the-money-macro-and-finance-society
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Inflation expectations, inflation persistence, and monetary policy strategy – speech by Catherine L. Mann
+Given at the 53rd Annual Conference of the Money Macro and Finance Society, University of Kent
+Published on 
+
+ 05 September 2022
+Catherine L. Mann describes how inflation expectations affect the Phillips curve. She then presents data on survey and financial market expectations about inflation in the short, medium, and long run. She analyses whether these are consistent with our 2% inflation target and what that implies for monetary policy strategy.
+Speech
+1: Introduction
+At its meeting last month, the Monetary Policy Committee came together to deliver on its pledge that
+
+ it would react forcefully in response to more persistent inflationary pressures. A large majority
+
+ agreed that this condition had been met and that we were indeed seeing persistence so the hike by a
+
+ half percentage point was the appropriate course of action at that meeting. This sends a strong
+
+ signal that the MPC is committed to leaning against domestic inflation pressures becoming further
+
+ entrenched.
+Now, some commentators have pointed out that the MPC’s central forecast projects a pro-longed
+
+ recession over the next quarters, and that this slack would yield inflation falling below the target
+
+ in year three.
+footnote
+[1]
+Therefore, they claim inflation to
+
+ be vanquished already and indeed that monetary policy already has become contractionary. Further,
+
+ since the shocks hitting the UK economy have come mostly from external sources – supply chain
+
+ frictions, energy prices, war – they claim that the MPC need not tighten further, but rather can
+
+ ‘look through’ these shocks, since they will mean-revert.
+In this speech I’m going to argue that, while some elements of this line of argument might hold in
+
+ normal times, it is based on an incomplete view of the inflation process and of the channels through
+
+ which monetary policy can achieve our remit. Specifically, in today’s environment, inflation
+
+ expectations take a central role, alongside the standard channel of aggregate demand and slack.
+
+ Looking through the lens of inflation expectations, achieving the remit depends on ensuring that
+
+ inflation expectations in the short-term do not become adaptive, and that medium-term inflation
+
+ expectations do not drift, so that long-term expectations remain anchored.
+What most people seem to have in mind when thinking about the determinants of inflation is a variant
+
+ of the Phillips curve (Phillips, 1958), which relates inflation to some measure of slack in the
+
+ economy. In the earliest version of this model, inflation today is determined by economic outcomes
+
+ yesterday – inflation therefore will adjust slowly and with considerable lag. To bring inflation
+
+ down, when the MPC raises interest rates, it increases borrowing costs for firms and households
+
+ causing them to spend less, unemployment eventually rises and slack opens up. Only then do companies
+
+ adjust prices in response to slowing demand for their goods and services. In Friedman’s (1961) story
+
+ of “monetary policy having long and variable lags”, this is where the “long” comes from.
+
+ Importantly, since lagged inflation is pre-determined, the only way to get inflation down from high
+
+ levels is to depress aggregate demand for an extended period of time. In this formulation,
+
+ disinflation is costly and necessarily so.
+I do not dispute that this mechanism exists, but I hope that the MPC will not have to depend on it
+
+ alone to bring inflation down to target. In the more nuanced formulation of the Phillips curve
+
+ discussed below, inflation today does not simply depend on past inflation but depends as well on
+
+ markets, firms, and household’s expectations, and crucially, how these expectations react to each
+
+ other, are formed over time, and interact with our and others’ policy choices. The MPCs’ evaluation
+
+ of inflation expectations therefore should take a central role in monetary policy decisions.
+In this more complex and arguably more realistic and relevant version of the inflation model, a fast
+
+ and forceful monetary tightening, potentially followed by a hold or reversal, is superior to the
+
+ gradualist approach because doing so is more likely to promote the role that inflation expectations
+
+ can play in bringing inflation back sustainably to 2% over the medium term. This policy strategy
+
+ would reduce the risks of a more extended and costly tightening cycle later that depends primarily
+
+ on shrinking aggregate demand.
+2: Micro-foundations and expectations in the Phillips curve
+The first expectations-augmented Phillips curve was a crucial innovation in understanding the
+
+ inflation process. In this formulation, inflation expectations are not just backward-looking, but
+
+ agents in the model are allowed to anticipate how policy choices today may shape macroeconomic
+
+ outcomes tomorrow.
+footnote
+[2]
+If we allow for both backward- and
+
+ forward-looking expectations formation, we arrive at the hybrid Phillips curve (Clarida et al., 1999
+
+ and Gali & Gertler, 1999). Here, the non-slack term in the equation becomes a weighted average
+
+ of past and expected future inflation:
+\[\pi_{t}=\left ( 1-\beta\right)\pi_{t-1}+\beta \pi_{t+1}^{e}+\lambda\bar{y}_{t}\]
+(1)
+Depending on the value of β, this model encompasses the accelerationist Phillips curve (as β → 0) but
+
+ importantly also encompasses the so-called New Keynesian Phillips curve (as β → 1). In the latter
+
+ model, inflation is entirely forward-looking and determined only by expectations of future
+
+ inflation, which is a function of expected future slack or more precisely, to the discounted path of
+
+ expected future real marginal costs. To see why that is interesting and potentially relevant to the
+
+ current conjuncture, let me briefly walk through the foundations of the New Keynesian Phillips
+
+ curve, which makes the bridge between microeconomic fundamentals and macroeconomic outcomes.
+By virtue of being “micro-founded”, the New Keynesian model can connect all its macroeconomic
+
+ equations to some microeconomic (i.e. firm- or household-level) optimisation problem. The key bridge
+
+ between macro measures of inflation and the micro-foundations is the price-setting problem of the
+
+ firm. To presage the conclusion: In their pricing strategy, firms face adjustment costs, consider
+
+ trend inflation and competitor prices, and evidence downward wage and price rigidity. Collectively
+
+ these yield a non-linear and potentially shifting Phillips Curve, with important implications for
+
+ the role for monetary policy to influence expectations.
+The first crucial point for the inflation model is that prices typically are not infinitely flexible.
+
+ Firms will only choose to bear costs of changing prices once the adjustment is sufficiently
+
+ large
+footnote
+[3]
+or because prices are fixed
+
+ through contractual arrangements (e.g. rent, utilities)
+footnote
+[4]
+.
+
+ Calvo (1983) formulates these various types of stickiness by assuming that a certain proportion of
+
+ firms is allowed to reset its prices while the rest remain at last period’s. As shown in
+Chart 1
+(adapted from Werning, 2022), if the firm anticipates that prices will go
+
+ up, it will optimally overshoot the current price level to ensure that it hits the correct price on
+
+ average. Uncertainty about how long they will stay at the new price and how fast the frictionless
+
+ price level is rising will create incentives to overshoot by even more to insure against
+
+ exceptionally long spells or more rapid rises. Thus, the adjusting prices have momentum above, and
+
+ can pull up, trend inflation.
+Further, when we take seriously the way firms behave in the real world, there may be price
+
+ coordination between firms. When a firm sees a competitor raise their price, they might be
+
+ emboldened to do the same even if their marginal costs have not actually moved. If a series of large
+
+ and salient shocks increase costs for some but not others, this “me-too-ism” would show up as a
+
+ persistent rise in desired mark-ups, driving inflation upwards with seemingly no connection to cost
+
+ or demand conditions.
+footnote
+[5]
+Various firm-level behaviors affect the shape of the Phillips Curve. The optimal reset-price behavior
+
+ along with me-too-ism induce an upward bias in inflation in the short term. On the disinflationary
+
+ side, while firms are quick to raise prices when they can, prices rarely outright fall in aggregate.
+Chart 1: Firm-price overshooting in sticky price models
+Footnotes
+Source: Werning (2022).
+Notes: Adapted from
+Ivan Werning’s slidepack
+presented
+
+ at the
+NBER Summer Institute 2022
+.
+This downward nominal rigidity can be seen in deep recessions: Even during the Great Financial Crisis
+
+ or the Covid lockdowns, consumer prices in the UK never actually fell in year-on-year terms. Firms
+
+ facing bankruptcy may raise prices to generate revenues to pay debtors, even if reducing prices
+
+ might make more sense in theory (Gilchrist et al., 2017). Nominal wage rigidity is well known and
+
+ since labour is an important cost this will bolster the downward rigidity of prices (Daly &
+
+ Hobijn, 2014). All told, for a given change in economic slack, prices will rise more in expansions
+
+ than they would fall in contractions.
+footnote
+[6]
+The Phillips curve is non-linear.
+A second innovation, particularly important now, is that inflation expectations may change over time.
+
+ In theoretical work, the change between the backward-looking, accelerationist and the
+
+ forward-looking views often is modelled as a largely exogenous regime shift. However, it is
+
+ plausible that there is a smoother transition between states, endogenously shaped by macroeconomic
+
+ outcomes. For example, contemporaneous research from the 1970s suggested that the time away from
+
+ target was an important determinant of the degree of backward-lookingness: Robert Gordon in 1970
+
+ rejected that the US Phillips curve was accelerationist. By 1977 his updated estimates suggested
+
+ inflation expectations were fully backward-looking.
+One plausible mechanism for such endogenous regime shift – proposed by Cornea-Madeira et al.
+
+ (2019)
+footnote
+[7]
+– arises if we think of two types
+
+ of firms and households in the economy: forward-looking “fundamentalists” and backward-looking
+
+ “random-walkers”. These have different forecasting rules, and firms and households will switch
+
+ between them when the one rule outperforms the other. If inflation varies modestly around its
+
+ target, the fundamentalists dominate. This is akin to Alan Greenspan’s desired Central Bank outcome
+
+ where firms and households ‘ignore’ inflation when making their decisions. The literature formalizes
+
+ this behavior as ‘rational inattention’.
+footnote
+[8]
+But, when shocks drive inflation away from target for extended periods and the fundamental rule
+
+ produces larger forecast errors, more firms and households use the backward-looking rule to form
+
+ adaptive expectations. In this case, experiences of past high inflation can become embedded in
+
+ firms’ and households’ price-setting decisions and the aggregate Phillips curve becomes more
+
+ accelerationist over time.
+I find this framework useful because it is more nuanced than the discrete switching between
+
+ “expectations are forever anchored” and “expectations are suddenly unanchored”. Even if long-term
+
+ expectations remain stable and the central bank’s target is credible, such a model can generate
+
+ different degrees of backward-lookingness and intrinsic inflation persistence. From the theoretical
+
+ perspective, this time varying expectations formulation also represents a departure from the strict
+
+ rational expectations formulation of the canonical New Keynesian Phillips curve. In this more
+
+ complex formulation, monetary policy, by having an expected effect on macroeconomic outcomes, can
+
+ feed back to affect the inflation expectations process and therefore current inflation outcomes.
+To summarize the importance of this world for monetary policy: Monetary policy does not just focus on
+
+ demand management, but also on coordinating firms and households to agree on some fundamental
+
+ equilibrium,
+footnote
+[9]
+in which prices and wages rise at
+
+ target-consistent rates and the economy is growing at a sustainable pace and any shocks are expected
+
+ to wash out quickly.
+From the standpoint of monetary policy, these variations yield different implications for channels
+
+ through which monetary policy can affect inflation. In the old, backward-looking, accelerationist
+
+ version, inflation always
+follows
+economic slack. In the rational expectations model, when
+
+ expectations are forward-looking, inflation can move
+even before
+changes in the monetary
+
+ policy stance have affected real economic activity. And in the time-varying model, monetary policy
+
+ can influence aggregate inflation expectations via the share of fundamentalists versus random
+
+ walkers. It follows that, if monetary policy can act on inflation expectations, then the dependence
+
+ on the aggregate demand channel to discipline firms’ price setting is reduced.
+Collecting up the theories points to a Phillips Curve that is both non-linear and can shift.
+
+ (
+Chart 2
+). When we think about it, the Phillips curve is actually a set of
+
+ isoquants, which trace out all attainable combinations of inflation and slack given a value for
+
+ expected inflation. When expectations change, so does the location of the curve.
+Chart 2: Shifting Phillips curves due to changing
+
+ inflation expectations
+Modest shift
+(a)
+and acceleration
+(b)
+Here, let the blue line be the Phillips curve of the economy at the outset of any shocks or firm
+
+ reactions. Given initial conditions for inflation expectations as well as desired mark-ups, there is
+
+ a level of slack y* consistent with achieving the inflation target π* at the intersection of the
+
+ horizontal dotted line and the blue curve. Small disturbances will push the economy away from that
+
+ intersection but only by modest amounts and we can always – along the curve – travel back to the
+
+ same equilibrium.
+Now consider the case in which inflation expectations drift up: the newly attainable combinations of
+
+ inflation and slack are shown by the red curve. Keeping inflation at target requires more slack in
+
+ the economy, more unemployment, and lower growth (the intersection of the horizontal dotted line
+
+ with the red curve). On the flipside, holding the level of slack constant at the old y* will lead to
+
+ higher inflation (the intersection of the vertical dotted line with the red curve).
+footnote
+[10]
+If we could be confident that any shift was short-lived and that the red curve would shift back in
+
+ line with the blue curve by itself, this might be a situation in which MPC could choose to “look
+
+ through” the shock and tolerate a temporary inflation overshoot. Our remit explicitly allows for
+
+ this as long as medium-term price stability is not threatened.
+If, however, there is a risk of further acceleration of inflation and further drift of expectations,
+
+ to ‘look through’ the inflation changes, we have to be very confident that inflation does not
+
+ becoming embedded in expectations and outcomes. If there are such shifts in inflation expectations,
+
+ more economic pain is required to bring inflation back to target (red dashed curve on the right-hand
+
+ side of
+Chart 2
+). Which situation are we in now? What do we know from the data
+
+ about the slope and potential shifting of the Phillips Curve?
+3: Taking these models to the data
+A first observation is that the Phillips curve set ups above are not the same as the correlation
+
+ between inflation and an output gap measure or unemployment (sometimes dubbed the “Phillips
+
+ correlation”). Instead, they describe structural, causal relationships between inflation yesterday,
+
+ today, and tomorrow along with associated economic conditions. This relationship may not be
+
+ immediately visible from a simple scatterplot. Just as correlation does not imply causation,
+
+ causation does not imply correlation.
+In fact, if one were to simply fit a line through the scatter in
+Chart 3
+, which
+
+ plots UK unemployment against CPI inflation in quarterly frequency, there would be no detectable
+
+ relationship. However, if we trace out the time series underneath the point cloud, we can see some
+
+ interesting patterns:
+The first thing that jumps out is of course the high-inflation period of the 1970s and the subsequent
+
+ moderation of the 80s (in light blue). This moderation in inflation did not come painlessly but
+
+ instead was only achieved alongside high rates of unemployment. Then, the thirty years thereafter
+
+ trace out a continuous downward trend in both inflation and unemployment and finally, variation
+
+ becomes so small that it is barely visible compared to the first twenty years. Finally, compared to
+
+ the recent history, the Covid period does not look like a particularly egregious outlier.
+footnote
+[11]
+Chart 3: Unemployment rate
+(a)
+and CPI
+
+ inflation
+(b)
+in the UK since 1971
+Percent of labour force
+(a)
+and year-on-year percentage
+
+ changes
+(b)
+Footnotes
+Source: Office for National Statistics.
+Notes: The chart shows combinations of CPI
+
+ inflation and the unemployment in the UK at quarterly frequency. Inflation before 1989
+
+ is based on the ONS’ historical series for UK CPI available at
+‘Modelling a Back Series for the
+
+ Consumer Price Index, 1950 – 2011
+’.
+Now consider the time from 2021 Q4 onwards. The configuration of the most recent data (the final red
+
+ dot) with July inflation at double digits and unemployment at under 4% looks more like 1973 than any
+
+ other time, as indeed does the importance of energy prices in both periods.
+footnote
+[12]
+Of course, many things have
+
+ changed since then – one of which is the recognition of the power of an independent central bank –
+
+ but this configuration of the data should cause concern.
+Strong, independent, and credible central banks may have contributed to why the Phillips correlation
+
+ has ‘disappeared’ in recent periods across the world. Although, perhaps the Phillips curve never
+
+ actually went away and it probably always had been relatively flat (Barnichon & Meesters, 2021).
+
+ It just became more difficult to identify because monetary policy became more systematic and
+
+ predictable. As McLeay and Tenreyro (2020) explain, if monetary policy were able to perfectly offset
+
+ demand shocks, there would be no visible correlation in the data. It may even be the other way
+
+ around as the central bank would seek to increase inflation in times of deficient demand and vice
+
+ versa.
+footnote
+[13]
+Additionally, to underline the importance of expectations in the inflation process, much of the
+
+ apparent flattening in more recent samples can be attributed to a better anchoring in inflation
+
+ expectations (Hazell et al., 2022). But it is probably best if Emi Nakamura explained this all
+
+ herself tomorrow.
+Arguably, this anchoring is what differentiates the 1970s and 80s from the rest of the data in
+Chart 3
+: Back then, shifting expectations made it impossible to achieve low
+
+ inflation without generating a high degree of economic slack. Policymakers were too confident that
+
+ inflation would eventually return back to target, for example due to the endogenous demand
+
+ destruction caused by high oil prices. This miscalculation allowed inflation expectations to ratchet
+
+ up to high levels. The required economic slack can be seen by the long and painful path from the top
+
+ left to the bottom right in the chart. Between 1980 and 1985, inflation in the UK fell by about 10
+
+ percentage points but at the cost of a more-than doubling in the unemployment rate from 5 to nearly
+
+ 12%.
+This is of course put millions of people out of a job with millions of livelihoods ruined – a
+
+ prospect we would very much like to avoid. There is another way: When inflation expectations are
+
+ time-varying monetary policy can affect them directly, shifting the curve back towards the
+
+ fundamental equilibrium π
+*
+and y* via both movements along the curve but also shifting
+
+ it.
+What data help us to evaluate how successful we are in keeping inflation expectations consistent with
+
+ the fundamental equilibrium? I will argue first: Long-term inflation expectations remain relatively
+
+ well anchored and the MPC has credibility to be able to fulfil its remit. This is unequivocally a
+
+ good thing but survey measures do not tell us how we actually get to the objective of 2% – through
+
+ aggregate demand compression or other ways. Second: Short-term inflation expectations are worryingly
+
+ elevated but mostly reflect past inflation and are likely not a good guide for policy choices or
+
+ outcomes in real time. Third, of significant concern: Medium-term measures of inflation expectations
+
+ have drifted up alongside realized inflation, albeit not by as much. This may indicate a worrying
+
+ shift in trend inflation, e.g. a shift in the Phillips Curve. A drift in medium-term inflation
+
+ expectations is the development that monetary policy needs to firmly lean against and it should be a
+
+ key yardstick for whether the MPC’s decisions are effective.
+Going to the data on expectations. In general, we can partition different measures of inflation
+
+ expectations as derived from surveys or financial market pricing in accordance with the distance to
+
+ some shock that moves inflation off the target. In the very short run, roughly up to the 1-year
+
+ horizon, they mostly reflect the direct impact of the shock on the economy. As people (and
+
+ policymakers) observe macroeconomic outcomes in real time, they learn about the nature of the shock
+
+ and form expectations about how it may play out in the immediate future.
+Short-term expectations are, therefore, quite correlated with recent inflation outcomes as can be
+
+ seen, for example, from price expectations of firms in the Decision Maker Panel. As
+Chart
+
+ 4
+shows, expectations of price changes over the next 12 months have increased by
+
+ similar amounts as price changes over the past 12 months. This is certainly not good news and points
+
+ to a more protracted inflation “hump” than would be implied by one-off shocks to the price level
+
+ (Mann, 2022a) but it is also could be consistent with a relatively swift return to target
+
+ thereafter, albeit tempered by downward stickiness.
+A more nuanced view on inflation expectations comes from looking at expectations for the year after
+
+ next; that is price changes between 12 and 24 months ahead (what in financial markets would be
+
+ called 1-year-1-year inflation). At this would be a horizon, we would plausibly expect inflation to
+
+ reflect policy choices.
+Chart 5a
+shows the time series of expectations from the
+
+ Bank’s Inflation Attitudes Survey as well as financial market pricing of inflation at that 2-year
+
+ mark.
+Chart 4: Firms’ own-price outcomes and short-term
+
+ expectations
+Year-on-year percentage changes
+Footnotes
+Source:
+Decision
+
+ Maker Panel
+and Bunn et al. (2022). Latest observation: August 2022.
+Chart 5: Intermediate-term inflation expectations and
+
+ financial market pricingYear-on-year percentage changes
+(a)
+and share of respondents
+(b)
+Footnotes
+Source: Bloomberg and
+Bank
+
+ of England/Ipsos Inflation Attitudes Survey
+.
+Notes: Red line on the left-hand side shows monthly averages of financial market pricing for inflation extracted from inflation-linked swaps. Yellow line shows the median expectation for
+
+ inflation 2 years ahead from the household survey, the right-hand side chart snapshots
+
+ of its distribution. Latest observation: August 2022 for financial market pricing, May
+
+ 2022 for survey expectations (
+August
+
+ data for the BoE/Ipsos survey
+will become available on 9 September 2022).
+The two series’ levels are not directly comparable since the financial market instruments behind the
+
+ red line are based on RPI and likely incorporate risk premia, i.e. they are not a clean measure of
+
+ the underlying inflation expectation. Nonetheless, comparing each series to its recent history is
+
+ still instructive. Both measures are somewhat elevated currently, but while household expectations
+
+ have been on the rise for four quarters in a row now, financial market measures have come off their
+
+ peak, albeit still holding well above historical average levels. What might be the reason for this
+
+ difference in evolution of expectations 2 years out? Financial markets, being more forward looking,
+
+ anticipate a worsening macro environment resulting from the massive energy price squeeze and also
+
+ the tightening of financial conditions that they, to a degree, are responsible for.
+While household price expectations do not reflect these macroeconomic prospects, we can observe a
+
+ worrying increase in the risk of sustained inflation well in excess of target. Compare the red bars
+
+ on the right-hand side of
+Chart 5
+with the blue, especially in the
+
+ larger-than-five-percent bracket. In the latest survey round, more than a fifth of all respondents
+
+ said that inflation in two years’ time would be higher than 5 percent, and another fifth see
+
+ inflation higher 3%.
+Moving now to the solidly medium term, roughly expectations of inflation between 3 and 5 years ahead.
+
+ At that horizon, direct effects of shocks ought to have already played out. Therefore, expectations
+
+ at that point mainly reflect possible second- and third-round effects as well as, importantly, the
+
+ effects of current and anticipated policy choices. We need to pay significant attention to these
+
+ measures since they can tell us something about the adequacy of our policy strategy.
+Of concern is that the measures that we have for this horizon have been drifting up and have remained
+
+ at levels inconsistent with the target. For example, the DMP introduced a new question in May of
+
+ this year directly asking for firms’ expectations of aggregate consumer price inflation.
+footnote
+[14]
+While their backward-looking
+
+ perception of consumer price inflation has generally been in line with measured CPI on average (e.g.
+
+ 9.6 percent for July 2022 over July 2021 in the survey compared with 10.1 percent in the official
+
+ data), their 3-year ahead expectation has held firmly at 4.2 percent, despite prospects for a
+
+ significant slowdown in economic activity.
+Chart 6
+shows the distribution of responses to those questions. Backward-looking
+
+ perceptions on the left-hand side have, as expected, moved rightward with actual inflation. However,
+
+ the distribution of 3-year ahead inflation on the right is nearly indistinguishable from what it was
+
+ in May.
+Chart 6: DMP inflation perceptions
+(a)
+and
+
+ medium-term expectations
+(b)
+Density
+Footnotes
+Source:
+Decision
+
+ Maker Panel
+and Bank calculations.
+Notes: The charts show kernel density estimates of the distribution of responses about CPI inflation over the past year (on the left-hand side) and about CPI inflation 3 years ahead (on the right-hand side).
+Recall that those months saw a marked deterioration in consumer sentiment indicators, talk of an
+
+ imminent recession in much of the Western world, and robust monetary tightening by many central
+
+ banks. Typically, we would expect such an outlook to dampen measured price inflation which should be
+
+ reflected in the DMP. However, these measures show no such move, neither in the central tendency nor
+
+ in the tail. If anything, the right tail has even fattened in August – a worrying sign of
+
+ embeddedness beyond the short term. Further, although we do not have a long time series of the
+
+ question of 3-year ahead CPI expectations, that there is no apparent sensitivity to expected
+
+ macroeconomic conditions should give us pause.
+The observation of a firming drift in medium-term inflation expectations is consistent with Bank
+
+ staff research of underlying trend inflation. One such piece of analysis, the Underlying Inflation
+
+ Measure of Lam, Potjagailo, and Wanengkirtyo (2022), uses a dynamic factor model of item-level CPI
+
+ data to extract a common factor of broad-based inflation. In
+Chart 7
+I plot this
+
+ measure alongside actual CPI inflation and the volatility-based inflation measure from my speech at
+
+ the start of the year (Mann, 2022a).
+Chart 7: CPI inflation and measures of trend inflation
+Year-on-year percentage changes
+Footnotes
+Source: Office for National Statistics, Lam, Potjagailo & Wanengkirtyo (2022), and
+
+ Bank calculations.
+Notes: The volatility-based measure is the average of inflation rates
+
+ of the least volatile 20% of CPI components. See Mann (2022a) and Mann & Brandt
+
+ (2022) for more details. The underlying inflation measure (UIM) is based on a dynamic
+
+ factor model that statistically captures broad-based joint co-movement across 438 CPI
+
+ item series. For more details on its construction, see Lam, Potjagailo &
+
+ Wanengkirtyo (2022, forthcoming). Latest observation: July 2022.
+Both series correlate quite well, indicating that they are measuring the same object: the underlying
+
+ rate of inflation common to the entire basket. Over the past, this rate has been quite persistent so
+
+ it could plausibly remain elevated even as headline inflation comes down.
+I am worried about the drift in this component since, theoretically, this would be the eventual
+
+ resting point of inflation once shocks have washed out. As I explained in that earlier speech, the
+
+ ‘underlying’ rate does not have to equal 2 percent to be consistent with achieving the inflation
+
+ target. But, if not, there need to be other persistent influences that keep headline inflation on
+
+ target. Before the GFC, those might have been intensifying globalisation and falling goods prices,
+
+ the question is what will it be now?
+A tighter monetary policy stance, on average, would be one such factor, at least for as long as
+
+ medium-term inflation expectations and measures of trend inflation are elevated. The financial
+
+ markets’ evolving yield curve is one metric of how much they think the MPC will have to tighten.
+Chart 8: Long-term inflation expectations and financial
+
+ market pricing
+Year-on-year percentage changes
+(a)
+and share of
+
+ respondents
+(b)
+Footnotes
+Source: Bloomberg and
+Bank
+
+ of England/Ipsos Inflation Attitudes Survey
+.
+Notes: Blue line on the left-hand side shows monthly averages of financial market pricing for inflation
+
+ extracted from inflation-linked gilts. Yellow line shows the median expectation for
+
+ long-term inflation from the household survey, the right-hand side chart snapshots of its distribution. Latest observation: August 2022 for
+
+ financial market pricing, May 2022 for survey expectations (
+August
+
+ data for the BoE/Ipsos survey
+will become available on 9 September 2022).
+What about long-term inflation expectations?
+Chart 8
+shows these measures for
+
+ average inflation starting five years ahead. The news is mixed. On the one hand, these measures are
+
+ in line with their history, consistent with inflation being anchored, and consistent with
+
+ credibility of the target.
+However, the survey measure on the left-hand side masks underlying movements that warrant attention,
+
+ particularly for households. Households matter because their buying habits either will discipline
+
+ firms’ prices or will allow the me-too-ism that underlies aggregate inflation. For example, since
+
+ mid-2020 we have seen a steady increase in respondents that say inflation in the long run will be 5%
+
+ or more on average and a steady decrease in those that expect below-target inflation. Therefore, we
+
+ need to be vigilant that these long-term expectations do not keep moving higher. Looking over the
+
+ time-series, aggregate long-term expectations remain below where they were in 2019 and in 2014. So
+
+ despite the increase in respondents in the larger-than-five-percent bucket, as of now, unanchoring
+
+ does not appear in the median.
+footnote
+[15]
+In addition to households, evidence from the corporate sector (specifically professional
+
+ forecasters), corroborates this assessment: Longer-term expectations remain on target but there is
+
+ some movement in the medium term.
+Chart 9
+shows average expectations from the
+
+ Bank’s Survey of External Forecasters which usually do not exhibit large time-variation making the
+
+ uptick in the 2-year-ahead measure even more noteworthy. However, the 3-year ahead measure, which
+
+ could be interpreted as the most fundamentalist forecast available, shows no such movement. This is
+
+ consistent with the Consensus panel of professional forecasters: There also, long-term expectations
+
+ are consistent with achieving the inflation target in the long run while those at medium-term
+
+ horizons have drifted.
+Chart 9: External forecasters’ average expectations
+Year-on-year percentage changes
+Footnotes
+Source: Bank of England Survey of External Forecasters. Latest observation: 2022 Q3.
+So, people trust us to bring inflation in line with the target – the anchor is holding firm. But,
+
+ credibility does not tell us how we will ensure that the anchor holds – through the aggregated
+
+ demand channel alone or also through managing expectations. The worry is that expectations about the
+
+ medium-term are drifting upwards – the anchor rope is fraying – and keeping the anchor firm with
+
+ drifting expectations would require more compression of aggregate demand.
+Therefore, coming back to monetary policy’s role to affect expectations in the Phillips curve. In the
+
+ worst case, when facing completely backward-looking expectations formation, we would be stuck with
+
+ only the aggregate demand channel to bring inflation down to target. If expectations are
+
+ forward-looking, however, there may be scope for monetary policy to affect inflation expectations
+
+ directly.
+A forthcoming working paper by Bank researchers (Mangiante & Masolo, 2022) explores the effect of
+
+ monetary policy action on price expectations in the DMP. They identify three instances over the
+
+ recent past in which the DMP field work straddled an MPC decision. They then compare expectations of
+
+ those firms which responded before the decision with those that responded after.
+footnote
+[16]
+In all three instances they find a significant effect of the announcement on price expectations in
+
+ line with theory: on 11 March 2020, when the MPC cut rates, inflation expectations increased within
+
+ the survey round; conversely, in December 2021 and in March 2022, when the MPC hiked rates,
+
+ expectations fell within the round. Additionally, in all three cases did price uncertainty decline.
+
+ To me, this is powerful and plausible evidence for a direct monetary policy effect on the formation
+
+ of forward-looking expectations.
+footnote
+[17]
+To summarize: I do not believe we are in that worst-case world where monetary policy needs to rely
+
+ only on the aggregate demand channel. Long-term expectations remain relatively well-anchored at
+
+ target. The drift in medium-term expectations is the major cause of concern, and cutting-edge
+
+ research indicates that monetary policy can directly influence expectations. The MPC has the tools
+
+ and the independence to return inflation to target once energy prices have stopped rising. We will
+
+ not tolerate a persistent overshoot and will stay vigilant even when headline rates start to come
+
+ down. But it is also the case that the more we control medium-term inflation expectations now, the
+
+ less tight for long monetary policy will need to be.
+4: Monetary policy strategy
+Turning now to monetary policy: The scale, timing, duration, and direction of the appropriate
+
+ monetary policy is determined by both the nature of shocks as well as the inter-related channels
+
+ through which monetary policy affects inflation. As we have seen, this includes both inflation
+
+ expectations and aggregate demand conditions. Whereas monetary policy arguably can ‘look through’
+
+ external shocks that leave expectations unchanged, it most definitely is responsible for leaning
+
+ against domestic inflation pressures that threaten the objective of price stability.
+In a previous speech I detailed why uncertainties about either the persistence of inflationary
+
+ pressures or the underlying distribution of inflation expectations yielded the conclusion that
+
+ monetary policy should be front-loaded and forceful (Mann, 2022b). On the first, the rationale was
+
+ that if the shock is truly persistent, but is misperceived as transitory, the policymaker initially
+
+ under-reacts, yielding an inflation overshoot both larger and more embedded than under full
+
+ information. Second, if there is more upside risk to inflation, as judged by the distribution of
+
+ inflation expectations, then a tighter monetary stance is warranted relative to the case where there
+
+ is no such asymmetric tail risk.
+Today, I deliberately have talked mostly about the medium-term outlook. Clearly, if current wholesale
+
+ energy prices are allowed to be passed-on to households and firms, this will lead to enormous pain
+
+ for millions of people over the winter months. And this will be true regardless of the path of Bank
+
+ Rate. Monetary policy is a relatively blunt instrument and works mostly at the margin, it is
+
+ ill-equipped and not intended to deal with large relative price movements like the one we’re seeing
+
+ currently. We do not have in our toolkit the policies that can cushion the blow for those in need or
+
+ that can spread the weight across time and across the income distribution.
+Instead, the framework presented today is an exploration into the theory and data proxies that relate
+
+ monetary policy to expectations and to aggregate demand where the focus is on the evolution of
+
+ inflation expectations in the short, medium, and long-term. Recognising the potential for a shift in
+
+ the Phillips curve shows how acting sooner and more forcefully can short-circuit the embedding of
+
+ inflation by influencing the π
+e
+term.
+Expectations are formed from inflation outcomes, central bank actions, and from credibility of the
+
+ target and the institutional setup. To the extent that increases in π
+e
+are moderated
+
+ through the expectations channel then the degree of monetary policy tightening needed to achieve the
+
+ 2% objective is consistent with less of a slowing in aggregate demand and less of a rise in
+
+ unemployment. Yet, the data suggest that medium-term inflation expectations are drifting upwards. If
+
+ inflation expectations were to become more backward-looking due to persistent misses of the target,
+
+ this would require an increased dependence on an aggregate demand slowdown to achieve the 2%
+
+ inflation target.
+What is driving the drift in medium-term inflation expectations? The spikes in short-term inflation
+
+ expectations matter for medium-term household inflation expectations due to the salience of surging
+
+ energy and food price dynamics. The sequence of shocks matter, because collectively they extend the
+
+ duration of time above the 2% target. In such a case, the share of backward-looking agents likely
+
+ rises leading to more intrinsic inflation persistence. The broadening of categories that show
+
+ higher-than-target inflation matters for medium-term expectations because of upward-bias to wage
+
+ negotiations and me-too-ism associated with complementarity in firms’ pricing strategies. The
+
+ ratcheting-up from short-term to medium-term expectations has been apparent for a while, and could
+
+ portend a persistent drift higher. This has the potential to cement expectations inconsistent with
+
+ the 2% target which would necessitate a persistently tighter stance of monetary policy that works
+
+ through the aggregate demand channel.
+When thinking about the tightening undertaken to date, my concern is that the gradual pace of
+
+ increase in Bank Rate has not tempered expectations enough, allowing the embedding of the short-term
+
+ inflation overshoot into the persistent drift in medium-term expectations. The stylized Phillips
+
+ curve example shows why a shift outward of the curve implies that achieving the 2% target
+
+ sustainably would be associated with permanently higher unemployment and lower aggregate demand. The
+
+ 1970s, with ratcheting-up and persistently high inflation, required a long duration of elevated
+
+ unemployment to bring inflation back down. A tighter policy stance now working through expectations
+
+ reduces the degree of restraint to aggregate demand in the future.
+Like the self-fulfilling prophecy on recessions, if firms believe that monetary policy will keep the
+
+ Phillips curve from shifting, then they will incorporate that into their price expectations.
+
+ Complementarity in firms’ price setting generates lower macro inflation through firms’ micro
+
+ decisions. On the other hand, if monetary policy does not affect expectations formation – either
+
+ because it is not forceful enough or if the required path is not credible –the drift in medium-term
+
+ expectations is more likely to yield that worrisome shift of the Phillips curve.
+It is encouraging that long-term expectation metrics apparently remain anchored and consistent with
+
+ the 2% target. It appears that the credibility of monetary policy is intact. However, just because
+
+ credibility is intact does not say how the 2% will be achieved – it can be either through acting on
+
+ expectations or through requiring a long period of slack. As noted, the drift in medium-term
+
+ expectations is already apparent in the data. We cannot be complacent in the face of the short-term
+
+ spikes and medium-term drift. Acting more forcefully now, to ensure that the drift does not become
+
+ the norm, is designed to avoid depending on a deeper and longer contraction to return inflation to
+
+ target.
+Acknowledgments
+I would like to thank in particular Lennart Brandt, as well as Andrew Bailey, Fabrizio Cadamagnani,
+
+ Alan Castle, Maren Froemel, Harry Goodacre, Alex Haberis, Josh Martin, Riccardo Masolo, Michael
+
+ McLeay, Ozgen Ozturk, Martin Seneca, Silvana Tenreyro, Boromeus Wanengkirtyo, and Ivan Yotzov for
+
+ their comments and help with data and analysis.
+References
+Ascari, G. and A. Sbordone (2014). ‘
+The Macroeconomics of Trend Inflation
+’,
+Journal of Economic Literature
+, 52(3), pp. 679-739.
+Barnichon, R. and G. Meesters (2021). ‘
+The Phillips multiplier
+’,
+Journal of
+
+ Monetary Economics
+, 117, pp. 689-705.
+Bunn, P., L. Anayi, N. Bloom, P. Mizen, G. Thwaites, and I. Yotzov (2022). ‘
+Firming up
+
+ price inflation
+’, Bank of England Staff Working Paper No. 993.
+Calvo, G. (1983). ‘
+Staggered prices in a utility-maximizing framework
+’,
+Journal
+
+ of Monetary Economics
+, 12(3), pp. 383-398.
+Cesa-Bianchi, A., G. Thwaites, and A. Vicondoa (2021). ‘
+Monetary policy transmission in the United Kingdom: A high frequency
+
+ identification approach
+’,
+European Economic Review
+, 123.
+Clarida, R., J. Gali, and M. Gertler (1999). ‘
+The Science of Monetary Policy: A New Keynesian Perspective
+’,
+Journal of Economic Literature
+, 37(4), pp. 1661-1707.
+Cloyne, J. and P. Hürtgen (2016). ‘
+The Macroeconomic Effects of Monetary Policy: A New
+
+ Measure for the United Kingdom
+’,
+American Economic Journal: Macroeconomics
+, 8(4),
+
+ pp. 75-102.
+Cogley, T. and T. Sargent (2002). ‘
+Evolving Post-World War II U.S. Inflation Dynamics
+’,
+NBER
+
+ Macroeconomics Annual
+, 16.
+Coibion, O. and Y. Gorodnichenko (2011). ‘
+Monetary Policy, Trend Inflation, and the Great Moderation: An
+
+ Alternative Interpretation
+’,
+American Economic Review
+, 101(1), pp. 341-370.
+Coibion, O. and Y. Gorodnichenko (2015). ‘
+Information Rigidity and the Expectations Formation Process: A
+
+ Simple Framework and New Facts
+’,
+American Economic Review
+, 105(8), pp. 2644-2678.
+Coibion, O., Y. Gorodnichenko, S. Kumar, and M. Pedemonte (2020). ‘
+Inflation expectations as a policy tool?
+’,
+Journal of
+
+ International Economics
+, 124.
+Cornea-Madeira, A., C. Hommes, and D. Massaro (2019). ‘
+Behavioral
+Heterogeneity in U.S. Inflation Dynamics
+’,
+Journal of
+
+ Business and Economic Statistics
+, 37(2), pp. 288-300.
+Cornea-Madeira, A. and J. Madeira (2022). ‘
+Econometric Analysis of Switching Expectations in UK
+
+ Inflation
+’,
+Oxford Bulletin of Economics and Statistics
+, 84(3), pp. 651-673.
+Daly, M. and B. Hobijn (2014). ‘
+Downward Nominal Wage Rigidities Bend the Phillips Curve
+’,
+Journal of Money, Credit and Banking
+, 46(S2), pp. 51-93.
+Ellis, C., H. Mumtaaz, and P. Zabczyk (2014). ‘
+What Lies Beneath? A Time-varying FAVAR Model for
+
+ the UK Transmission Mechanism
+’,
+Economic Journal
+, 124(576), pp. 668-699.
+Fisher, S. (1977). ‘
+Long-Term Contracts, Rational Expectations, and the Optimal Money
+
+ Supply Rule
+’,
+Journal of Political Economy
+, 85(1), pp. 191-205.
+Friedman, M. (1961). ‘
+The Lag in Effect of Monetary Policy
+’,
+Journal of Political
+
+ Economy
+, 69(5), pp. 447-466.
+Gali, J. and M. Gertler (1999). ‘
+Inflation dynamics: A structural econometric
+
+ analysis
+’,
+Journal of Monetary Economics
+, 44(2), pp. 195-222.
+Gilchrist, S., R. Schoenle, J. Sim, and E. Zakrajšek (2017). ‘
+Inflation Dynamics during the Financial Crisis
+’,
+American
+
+ Economic Review
+, 107(3), pp. 785-823.
+Gordon, R. (1970). ‘
+The Recent Acceleration of Inflation and Its Lessons
+
+ for the Future
+’,
+Brookings Papers on Economic Activity
+, 1970(1).
+Gordon, R. (1977). ‘
+World Inflation and Monetary Accommodation in Eight
+
+ Countries
+’,
+Brookings Papers on Economic Activity
+, 1977(2).
+Harding, M., J. Lindé, and M. Trabandt (2022). ‘
+Resolving the missing deflation puzzle
+’,
+Journal of Monetary
+
+ Economics
+, 126, 15-34.
+Hazell, J., J. Herreño, E. Nakamura, and J. Steinsson (2022). ‘
+The Slope
+
+ of the Phillips Curve: Evidence from US States
+’,
+Quarterly Journal of Economics
+,
+
+ 137(3), 1299-1344.
+Lam, J., G. Potjagailo and B. Wanengkirtyo (2022). ‘How broad-based is the increase in UK
+
+ inflation?’, Bank Underground, forthcoming.
+Lucas, R. (1972). ‘
+Expectations and the neutrality of money
+’,
+Journal of
+
+ Economic Theory
+, 4(2), pp. 103-124.
+Mangiante, G. and R. Masolo (2022). ‘Do Firm Expectations Respond to Monetary Policy?’, Bank of
+
+ England Staff Working Paper, forthcoming.
+Mankiw, G. and R. Reis (2003). ‘
+Sticky Information versus Sticky Prices: A Proposal to Replace the
+
+ New Keynesian Phillips Curve
+’,
+Quarterly Journal of Economics
+, 117(4), pp.
+
+ 1295-1328.
+Mann, C. L. (2022a). ‘
+On
+
+ returning inflation back to target
+’.
+Mann, C. L. (2022b). ‘
+A
+
+ monetary policymaker faces uncertainty
+’.
+Mann, C. L. and L. Brandt (2022). ‘
+On Returning Inflation to Target
+’,
+Intereconomics
+, 57, pp. 87-92.
+Masolo, R. and F. Monti (2021). ‘
+Ambiguity, Monetary Policy and Trend Inflation
+’,
+Journal of
+
+ the European Economic Association
+, 19(2), pp. 839-871.
+McLeay, M. and S. Tenreyro (2020). ‘
+Optimal Inflation and the Identification of the Phillips Curve
+’,
+NBER Macroeconomics Annual
+, 34.
+Phillips, A. W. (1958). ‘
+The Relation between Unemployment and the Rate of Change of Money
+
+ Wage Rates in the United Kingdom, 1861–1957
+’,
+Economica
+, 25(100), pp. 283-299.
+Rast, S. (2022). ‘
+Central Bank Communication with the General Public: Survey Evidence
+
+ from Germany
+’, unpublished working paper.
+Sargent, T. (1972). ‘
+Anticipated Inflation and the Nominal Rate of Interest
+’,
+Quarterly Journal of Economics
+, 86(2), pp. 212-225.
+Sheshinski, E. and Y. Weiss (1977). ‘
+Inflation and Costs of Price Adjustment
+’,
+Review of Economic
+
+ Studies
+, 44(2), pp. 287-303.
+Taylor, J. B. (1980). ‘
+Aggregate Dynamics and Staggered Contracts
+’,
+Journal of
+
+ Political Economy
+, 88(1), pp. 1-23.
+Werning, I. (2022). ‘
+Expectations and the Rate of Inflation
+’, NBER Working Paper No.
+
+ 30260.
+In the central projections of the
+August
+
+ 2022 Monetary Policy Report
+, inflation falls to 2 percent by the end of the
+
+ second year. In the alternative scenario in which energy prices follow their futures
+
+ curves at the time of forecast, inflation is already below target at that point with 0.9
+
+ percent in 2024 Q3.
+See for example Lucas (1972) and Sargent (1972).
+So-called “menu costs” as introduced by Sheshinski & Weiss (1977).
+See Fisher (1977) and Taylor (1980).
+For how these “strategic complementarities” as well as downward nominal rigidities as
+
+ the firm level affect aggregate inflation and the shape of the Phillips curve, see for
+
+ example Harding et al. (2022).
+Some recent evidence for this phenomenon has been documented by Bunn et al. (2022) who
+
+ show that firms which faced negative effects from Covid on their sales decreased their
+
+ prices by less than firms increased prices who faced positive effects.
+For an application to UK inflation and inflation expectations, see Cornea-Madeira &
+
+ Madeira (2022).
+See for example Mankiw & Reis (2003) and Coibion & Gorodnichenko (2015).
+This is related to the concept of determinacy in New Keynesian models and the “Taylor
+
+ principle”. Traditionally, to ensure a stable equilibrium, the real rate needs to
+
+ increase to bring inflation down (i.e. nominal interest rate needs to rise by more than
+
+ the rate of inflation). Ascari & Sbordone (2014) show, however, that during times of
+
+ high “trend” inflation, conditions for determinacy become more extreme and the central
+
+ bank needs to increase the nominal rate by a lot more for a given increase in inflation
+
+ than when trend inflation is low. This is consistent with Coibion & Gorodnichenko
+
+ (2011), who find that the price level in the US was probably indeterminate in the 1970s,
+
+ and with Cogley & Sargent (2002), who estimate an “activism coefficient” for the
+
+ Federal Reserve which they find to be exceptionally low during that time.
+During the Great Moderation, especially during the post-GFC period of deficient demand,
+
+ and especially in the United States and the euro area, we might have seen a shift in the
+
+ other direction. As inflation expectations became anchored at or even below the central
+
+ banks’ targets, and interest rates were at the effective lower bound, it became much
+
+ more difficult to stimulate the economy through the aggregate demand channel. For a
+
+ given level of slack, we were stuck at the flatter end of the Phillips curve.
+This is true even if accounting for the introduction of the furlough scheme which
+
+ prevented the unemployment rate from rising in the UK. As Haskel (2021) shows, assuming
+
+ that 10 percent of furloughed workers were in fact unemployed, the unemployment rate
+
+ would not have exceeded 7 percent – which is in line with historical experience.
+Chart 2.16 in the
+August
+
+ 2022 Monetary Policy Report
+shows that about 3 percentage points of current
+
+ inflation can be directly attributed to energy prices. Their contribution is projected
+
+ to increase to 7 percentage points by the end of the year. Similarly, in 1973, oil
+
+ prices had roughly doubled from 2 to 4 US Dollars per barrel before jumping to 10 US
+
+ Dollars per barrel in 1974 (see for example
+ONS, 2022, “Consumer price inflation,
+
+ historical estimates and recent trends”
+). Thus, in both periods, inflationary
+
+ supply shocks were pervasive.
+As McLeay & Tenreyro state, this is because the Phillips curve is a supply curve and
+
+ therefore, identification requires demand shifters. A world in which an institution
+
+ deliberately seeks to offset any shift in demand (the central bank) is “the worst
+
+ possible situation for identifying a supply curve” (
+Rognlie, 2019
+).
+See
+Monthly
+
+ Decision Maker Panel data – May 2022
+.
+Strictly speaking, lack of evidence for unanchoring cannot be taken as proof for
+
+ anchoring. As always, you cannot prove your null hypothesis, only fail to reject it.
+A paper with a similar identification scheme is Rast (2022) who, using German time
+
+ series data on inflation expectations and monetary policy announcements, also finds that
+
+ announcements of rate changes significantly affect household expectations. On the other
+
+ hand, announcements of asset purchases and forward guidance have a much reduced
+
+ footprint.
+These results are also consistent with a relatively fast monetary policy pass-through to
+
+ inflation. Here, because expectations react immediately but activity is sluggish,
+
+ inflation can adjust before the real economy. For the UK, for example, Cloyne &
+
+ Hürtgen (2016) and Ellis et al. (2014) find relatively fast pass-through of monetary
+
+ policy into inflation, especially in the post-1992 inflation targeting sample.
+
+ Cesa-Bianchi et al. (2020) even find a jump in the price level which is inconsistent
+
+ with a backward-looking, accelerationist Phillips curve. On the other hand, Coibion et
+
+ al. (2020) call into question the ability of central banks to use inflation expectations
+
+ for policy purposes. Plausibly, however, since their results rely on inattention of
+
+ households to inflation and monetary policy, this may be different during periods of
+
+ exceptionally high and salient inflation.
+These results are also consistent with a relatively fast monetary policy pass-through to
+
+ inflation. Here, because expectations react immediately but activity is sluggish,
+
+ inflation can adjust before the real economy. For the UK, for example, Cloyne &
+
+ Hürtgen (2016) and Ellis et al. (2014) find relatively fast pass-through of monetary
+
+ policy into inflation, especially in the post-1992 inflation targeting sample.
+
+ Cesa-Bianchi et al. (2020) even find a jump in the price level which is inconsistent
+
+ with a backward-looking, accelerationist Phillips curve. On the other hand, Coibion et
+
+ al. (2020) call into question the ability of central banks to use inflation expectations
+
+ for policy purposes. Plausibly, however, since their results rely on inattention of
+
+ households to inflation and monetary policy, this may be different during periods of
+
+ exceptionally high and salient inflation.
+Close
+A paper with a similar identification scheme is Rast (2022) who, using German time
+
+ series data on inflation expectations and monetary policy announcements, also finds that
+
+ announcements of rate changes significantly affect household expectations. On the other
+
+ hand, announcements of asset purchases and forward guidance have a much reduced
+
+ footprint.
+Close
+Strictly speaking, lack of evidence for unanchoring cannot be taken as proof for
+
+ anchoring. As always, you cannot prove your null hypothesis, only fail to reject it.
+Close
+See
+Monthly
+
+ Decision Maker Panel data – May 2022
+.
+Close
+As McLeay & Tenreyro state, this is because the Phillips curve is a supply curve and
+
+ therefore, identification requires demand shifters. A world in which an institution
+
+ deliberately seeks to offset any shift in demand (the central bank) is “the worst
+
+ possible situation for identifying a supply curve” (
+Rognlie, 2019
+).
+Close
+Chart 2.16 in the
+August
+
+ 2022 Monetary Policy Report
+shows that about 3 percentage points of current
+
+ inflation can be directly attributed to energy prices. Their contribution is projected
+
+ to increase to 7 percentage points by the end of the year. Similarly, in 1973, oil
+
+ prices had roughly doubled from 2 to 4 US Dollars per barrel before jumping to 10 US
+
+ Dollars per barrel in 1974 (see for example
+ONS, 2022, “Consumer price inflation,
+
+ historical estimates and recent trends”
+). Thus, in both periods, inflationary
+
+ supply shocks were pervasive.
+Close
+This is true even if accounting for the introduction of the furlough scheme which
+
+ prevented the unemployment rate from rising in the UK. As Haskel (2021) shows, assuming
+
+ that 10 percent of furloughed workers were in fact unemployed, the unemployment rate
+
+ would not have exceeded 7 percent – which is in line with historical experience.
+Close
+During the Great Moderation, especially during the post-GFC period of deficient demand,
+
+ and especially in the United States and the euro area, we might have seen a shift in the
+
+ other direction. As inflation expectations became anchored at or even below the central
+
+ banks’ targets, and interest rates were at the effective lower bound, it became much
+
+ more difficult to stimulate the economy through the aggregate demand channel. For a
+
+ given level of slack, we were stuck at the flatter end of the Phillips curve.
+Close
+This is related to the concept of determinacy in New Keynesian models and the “Taylor
+
+ principle”. Traditionally, to ensure a stable equilibrium, the real rate needs to
+
+ increase to bring inflation down (i.e. nominal interest rate needs to rise by more than
+
+ the rate of inflation). Ascari & Sbordone (2014) show, however, that during times of
+
+ high “trend” inflation, conditions for determinacy become more extreme and the central
+
+ bank needs to increase the nominal rate by a lot more for a given increase in inflation
+
+ than when trend inflation is low. This is consistent with Coibion & Gorodnichenko
+
+ (2011), who find that the price level in the US was probably indeterminate in the 1970s,
+
+ and with Cogley & Sargent (2002), who estimate an “activism coefficient” for the
+
+ Federal Reserve which they find to be exceptionally low during that time.
+Close
+See for example Mankiw & Reis (2003) and Coibion & Gorodnichenko (2015).
+Close
+For an application to UK inflation and inflation expectations, see Cornea-Madeira &
+
+ Madeira (2022).
+Close
+Some recent evidence for this phenomenon has been documented by Bunn et al. (2022) who
+
+ show that firms which faced negative effects from Covid on their sales decreased their
+
+ prices by less than firms increased prices who faced positive effects.
+Close
+For how these “strategic complementarities” as well as downward nominal rigidities as
+
+ the firm level affect aggregate inflation and the shape of the Phillips curve, see for
+
+ example Harding et al. (2022).
+Close
+See Fisher (1977) and Taylor (1980).
+Close
+So-called “menu costs” as introduced by Sheshinski & Weiss (1977).
+Close
+See for example Lucas (1972) and Sargent (1972).
+Close
+In the central projections of the
+August
+
+ 2022 Monetary Policy Report
+, inflation falls to 2 percent by the end of the
+
+ second year. In the alternative scenario in which energy prices follow their futures
+
+ curves at the time of forecast, inflation is already below target at that point with 0.9
+
+ percent in 2024 Q3.
+Close
+Convert this page to PDF
+Catherine L. Mann
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

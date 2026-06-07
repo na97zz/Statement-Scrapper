@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Cutting Rates in the Face of Conflicting Data",
+  "date_original": "2025-10-16",
+  "date_au": "16/10/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20251016a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-16 - Christopher J. Waller - Cutting Rates in the Face of Conflicting Data.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-16 - Christopher J. Waller - Cutting Rates in the Face of Conflicting Data.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cd3d7e63ecdb4c04f38ceb8bc5e12c56e4a3751eb57b7b72d88ddec716ad839a"
+}

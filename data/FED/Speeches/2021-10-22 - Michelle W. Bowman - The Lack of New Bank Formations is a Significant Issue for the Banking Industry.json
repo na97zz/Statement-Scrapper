@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Lack of New Bank Formations is a Significant Issue for the Banking Industry",
+  "date_original": "2021-10-22",
+  "date_au": "22/10/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20211022a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-22 - Michelle W. Bowman - The Lack of New Bank Formations is a Significant Issue for the Banking Industry.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-22 - Michelle W. Bowman - The Lack of New Bank Formations is a Significant Issue for the Banking Industry.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ebca4f5bf4aa2b4aacf4996d59552576daf44ec9e48d5766e4d1cd06de39061e"
+}

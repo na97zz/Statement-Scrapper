@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook and Monetary Policy Implementation",
+  "date_original": "2026-01-16",
+  "date_au": "16/01/2026",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260116a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-01-16 - Philip N. Jefferson - Economic Outlook and Monetary Policy Implementation.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-01-16 - Philip N. Jefferson - Economic Outlook and Monetary Policy Implementation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "34e6177a4bbb6d76e945d19b5c06718c7e23d1c5b5a00a787a8ce5e3b13e62fa"
+}

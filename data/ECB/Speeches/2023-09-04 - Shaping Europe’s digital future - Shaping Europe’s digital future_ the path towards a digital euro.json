@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Shaping Europe’s digital future: the path towards a digital euro",
+  "date_original": "2023-09-04",
+  "date_au": "04/09/2023",
+  "datetime_original": "",
+  "speaker": "Shaping Europe’s digital future",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230904~8f5dff1e57.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-09-04 - Shaping Europe’s digital future - Shaping Europe’s digital future_ the path towards a digital euro.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-09-04 - Shaping Europe’s digital future - Shaping Europe’s digital future_ the path towards a digital euro.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fe18d88f153cd6a00f24468a8eb5478dffe03be2571af55ff9369d2d39a038da"
+}

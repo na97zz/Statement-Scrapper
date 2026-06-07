@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2023-07-26",
+  "date_au": "26/07/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20230726.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2023-07-26 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2023-07-26 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:50:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "78ea3b1583f65ea2d5990d7165ffa12aefb05282f8cdc148ff80fd0f12f77086"
+}

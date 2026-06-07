@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Inclusion in Lower-Income Communities",
+  "date_original": "2021-02-22",
+  "date_au": "22/02/2021",
+  "datetime_original": "",
+  "speaker": "Economic Inclusion in Lower-Income Communities",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210222a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-02-22 - Economic Inclusion in Lower-Income Communities - Economic Inclusion in Lower-Income Communities.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-02-22 - Economic Inclusion in Lower-Income Communities - Economic Inclusion in Lower-Income Communities.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "77c2d31974c857e8c6c9367e3a357831afb6faa367d23af88cb442aff950bcb8"
+}

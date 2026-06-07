@@ -1,0 +1,138 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: RTGS 2: a launchpad for innovation − speech by Victoria Cleland
+DATE: 01/06/2025
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/june/victoria-cleland-keynote-speech-at-the-uk-finance-digital-innovation-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+RTGS 2: a launchpad for innovation − speech by Victoria Cleland
+Given at UK Finance Digital Innovation Summit 2025
+Published on 
+
+ 24 June 2025
+Victoria highlights the benefits unlocked by the renewed RTGS service recently delivered by the Bank, in collaboration with the UK payments industry. She also discusses the ongoing work by the Bank to support further innovation in wholesale payments, and the collaboration needed to deliver this.
+Speech
+It is a pleasure to join you today at the UK Finance Digital Innovation Summit and to witness such vibrant and forward-looking activity. Events like this are a powerful reminder of the transformative potential of innovation, unlocking new products and services that are more secure, more efficient, and ultimately more beneficial for households and for businesses. As a member of the National Payments Delivery Committee, it is a pleasure to see such a focus on innovation in payments: they are the lifeblood of the economy and can unlock growth.
+I am looking forward later this afternoon to announcing the winner of the ideathon, which has focused on account-to-account payments. During a time where our payments landscape is changing, it is essential to think creatively about these important retail payments, and how they can deliver real benefits to consumers.
+There is also considerable innovation within the wholesale payments ecosystem: high value payments typically made by financial institutions, large businesses and governments. Today I want to highlight how the Bank of England, in particular through our Real Time Gross Settlement (RTGS) service, is enabling innovation in wholesale payments, and how this in turn enables innovation in the financial markets these payments underpin. I will explain how we will continue to adapt and evolve our service to enable the risk reduction benefits delivered through settlement in central bank money to be realised by new business models and technologies. Of course, what we deliver is only one part of a broader vision. We work closely with other authorities, at home and abroad, so that our initiatives are aligned, mutually reinforcing, and creating the conditions for positive change in payments. It is through this collaborative approach and through close cooperation with industry that we can deliver a payments ecosystem that is resilient, inclusive, and fit for the future.
+I will outline why RTGS is so important and then explain the innovation we have recently delivered through the RTGS Renewal Programme, the benefits it is already delivering, and the opportunities it unlocks for the future. And when I say “we”, I do not just mean the Bank of England, I mean the payments ecosystem as a whole.
+One could liken the programme to renew RTGS to launching one of the first satellites into orbit. It is a major technical achievement, made possible by the dedication and collaboration of many with a shared vision, and safety has been central to every step in the process. And like those early satellites, it is also a launchpad for future change: a platform that opens up new frontiers for innovation, enabling the private sector to develop the next generation of services to benefit people and businesses making payments across the UK and cross border.
+Ultimately, its benefits apply to everyone, however indirectly. Alongside changes to regulation and policy, the renewed RTGS infrastructure (RT2) facilitates a diverse and innovative ecosystem. One where banks, non-banks, and market infrastructures – including new entrants – have a safe platform on which to innovate, fostering economic growth and financial inclusion.
+What is RTGS and what was RTGS Renewal?
+RTGS is the infrastructure at the heart of the UK’s financial system, enabling the real-time transfer of payments between financial institutions, settled in central bank money – the ultimate risk-free settlement asset.
+RTGS underpins the settlement of payments through CHAPS (the UK’s high value payment system), supports securities settlement in CREST, and plays a crucial role in settlement of exposures in the UK’s retail payment systems. It plays a role in the smooth functioning of every single electronic payment in the UK, averaging settlement of almost £800bn per day. RTGS is essential for financial stability. And also for monetary stability, as it is a key component of the mechanism through which Bank Rate is transmitted through the economy.
+In close collaboration with industry, we developed a vision for an RTGS service that was not just more resilient but would also promote competition and innovation. There were four objectives which were our north star throughout the RTGS Renewal Programme: higher resilience, broader access, wider interoperability and improved user functionality. The first major deliverable was the introduction of ISO 20022 messaging for CHAPS payments in June 2023: a foundational step in modernising the UK’s wholesale payments infrastructure and enhancing interoperability. On 28 April this year, we successfully launched our renewed RTGS core ledger and settlement engine including a new user interface: improving resilience, enhancing functionality, and providing a strong platform for further change.
+I would like to thank everyone who has contributed to the success of this major transformation programme. It was a complex programme, delivered in a complex environment, during a time of change for payments globally. It would not have been possible without the dedication, professionalism, and collaboration of all involved. This was not only the teams at the Bank, our Technology Delivery Partner (Accenture) and key suppliers. But also the almost 250 industry participants involved in the Programme, shaping the vision and ensuring their own readiness. Engagement with industry was embedded from the outset and this inclusive approach meant that what we built not only met the highest standards of resilience, but also reflected the needs of the industry.
+But building the system was only part of the challenge. We also needed every one of those participants to be ready for go-live, having made the necessary changes to their own technical and operational processes. That every participant was prepared and ready on time is a great achievement, and a testament to the strength of collaboration between the Bank and the wider payments community.
+We are now almost two months on from go-live, and have settled over 8 million CHAPS payments, and a total value across all RTGS settlement services exceeding £30 trillion. That is enough to run the International Space Station for over 13,000 years!
+These are not just numbers. They are a reflection of the importance of the infrastructure we have built together, and the payments that make up the UK economy, each of which is important to the household or business making it.
+Benefits already unlocked
+RT2 is already delivering tangible benefits in line with our four objectives.
+As a critical part of the UK’s national infrastructure, RT2 needs to be well protected, monitored closely and have excellent response and recovery capabilities. We have delivered improvements in all three areas. In terms of protection, we have enhanced security and segregation of the system’s core components; leveraged new geographically diverse data centres; and introduced a new robust independent data source. We have upgraded our monitoring capabilities, both during and outside of business hours, and introduced continuous and cross system reconciliations to improve detection of issues. And we have undertaken extensive major incident testing to recover quickly and within our risk tolerance.
+But we wanted to go further, to make RT2 an enabler of competition and innovation:
+Improved user functionality
+Our new user interface, affectionately known as BERTI (the Bank of England Real Time Interface), provides participants with a more modern experience, supporting smoother operations and better access to information, including access to BERTI 24/7 for account queries. We have introduced APIs, enabling participants to interact with the system in a more dynamic and programmable way. Since launch, we have seen over 43,000 API calls.
+Broader access and inclusion
+Over recent years we have extended our access policies significantly, giving a wider range of financial institutions and new business models the ability to settle transactions directly in central bank money.
+In 2017 we were the first major central bank to allow non-bank payment service providers to hold accounts in RTGS, enabling them to join CHAPS and the retail payment schemes for the first time, and to compete with the traditional high-street banks.
+We have also welcomed our first omnibus account holder into CHAPS: a wholesale digital settlement platform provider. Omnibus accounts allow recognised payment system operators to pool participant funds, allowing them in effect to tokenise central bank money, ensuring it retains its crucial role at the heart of digitalised, as well as traditional wholesale markets. This structure also mitigates credit and settlement risk, even outside RTGS operating hours, and marks a significant step forward in enabling new models of digital settlement.
+RT2 also supports our ongoing access ambitions by enabling a far larger number of participants in the system, and by streamlining onboarding processes.
+Wider interoperability
+The migration to the global messaging standard ISO 20022 for CHAPS payments in 2023 was a significant step towards global harmonisation and greater interoperability. It is a key contributor to
+reducing frictions and inefficiencies
+in cross-border payments, which, alongside other roadmap priorities, the G20 have highlighted supports economic growth, international trade, global development and financial inclusion.
+footnote
+[1]
+Richer, more structured data within these messages enhances transparency and efficiency and lays the ground for innovation both for domestic and cross-border payments. We have mandated the use of Legal Entity Identifiers (LEIs) and purpose codes in certain CHAPS payments, reflecting our belief that enhanced data benefits a wide range of stakeholders, and since mandation took effect on 1 May we’ve seen population of this data skyrocket. Improved data in payments can help the industry to detect fraud, manage risk, and provide insights into payment trends: please use it! And for the Bank, this data enables us to identify early changes in behaviour and risk to support our monetary and financial stability policy decisions.
+Enabling future change
+We have developed RT2 to be adaptable by building it with a modular architecture, allowing us to update or replace individual components as technology evolves. This makes it easier to maintain and enables us to respond swiftly to future innovation and policy needs in the ever-evolving payments landscape.
+Our strategy for RT2
+Satellite technology laid the foundations for innovations such as GPS, mobile phones, and satellite television. RT2 is also designed to be a platform for the future, enabling private firms to innovate and develop new products and services that deliver real benefits. This innovation has the potential to change the way that end-users interact with payments: through products that reduce risk and cost, offer new services and functionality, and are faster and smoother. And this in turn, can support UK economic growth through reducing liquidity needs, freeing up collateral and making assets more monetisable while driving efficiencies.
+Our Vision is that RTGS is a resilient and widely used platform for central bank money settlement, enabling growth and innovation. To achieve this, we are committed to excelling in providing a platform that is resilient and responsive. I would like to spend a few minutes expanding on what steps we are taking to make this vision a reality.
+We have created RT2 to act as an open platform for change and innovation, supporting the Bank’s monetary and financial stability objectives. And also for driving improvements in wholesale settlement efficiency and competition. As the payments landscape evolves, we need to preserve the critical role of central bank money and confidence in the financial system, including trust in money. This will mean evolution to ensure that RT2, along with the regulatory system and wider ecosystem, can support new business models and technologies, from both new entrants and existing players.
+We are committed to continuously improving our services to keep pace with this rapidly changing world and to enable ongoing innovation. But we know we cannot do this alone. Collaboration with other infrastructure providers in the UK and beyond is essential. In a similar vein to satellite networks relying on coordination across borders, we are actively sharing lessons learned and working on design of new functionality with peers undertaking similar modernisation programmes.
+The
+G20 roadmap for cross border payments
+demonstrates the benefits of continuing to work together to deliver payment systems which are interoperable through consistent messaging standards, access policies, opening hours, and legal, regulatory and supervisory frameworks. Interoperability is important domestically too, making it more efficient for new technologies and overlay services, as well as existing organisations, to interact with both CHAPS and the UK’s retail payment systems.
+Many of you have contributed to our priorities through responding to our consultations. This includes what we call our
+Future Roadmap
+– our strategic plan for how we continue to evolve the service to meet changing user demands and policy objectives.
+We are working with industry to explore enhancements across four key dimensions:
+What
+we offer,
+Who
+can use the service,
+When
+the service is available,
+And
+how
+it is used.
+What services we offer
+Synchronisation: Synchronisation can enable conditional settlement across accounts in RT2 with movements on another asset ledger – such as digitised bonds – reducing settlement risk and enabling digitalisation of these activities. Our proposed model here would see the Bank delivering the functionality required for this within RTGS, but would leave development and delivery of specific products utilising this functionality to “synchronisation operators” in the private sector, driving further competition and innovation. We have recently demonstrated the feasibility of such a model for foreign exchange transactions, through
+Project Meridian FX,
+a collaboration with the BIS Innovation Hubs in London and Eurosystem centres, and other central banks. Building on this, the Bank will launch a synchronisation lab in 2026 to enable potential synchronisation operators to test real-world use cases with our planned synchronisation functionality. And dependent on the success of this, our intention is to deliver this into production as soon as we can.
+Wholesale experimentation
+:
+We are also planning a series of experiments around wholesale settlement, looking at whether there is anything further, beyond synchronisation, we can do to enable the next generation of innovative use cases to emerge. This model might involve a wholesale Central Bank Digital Currency, enabling a unified single ledger for tokenised assets and payments. Our first experiment will test synchronised settlement of a tokenised bond, with findings expected by end 2025. And yesterday, we published a
+DLT Innovation Challenge
+, in collaboration with the BIS Innovation Hub London, seeking input from the private sector to understand how to incorporate distributed ledger technology into wholesale central bank settlement through an external programmable ledger managed by a third party.
+Who can use the service
+Access: While our existing
+access policies
+provide a strong basis for supporting innovation, we have recently issued our
+response
+to a
+discussion paper
+setting out where we believe further enhancements can be made. We have made information about participating in RTGS more accessible and transparent, including clarifying the access requirements for non-bank payment service providers. To facilitate new entrants, drawing on the successful model of mobilisation for banks, we have introduced a new “stage gate” approach to allow participants, particularly new financial market infrastructure, to grow their business in a controlled way subject to risk reducing controls. And looking further ahead, we are exploring further the thresholds for CHAPS access i.e. when an organisation should be direct rather than indirect, and whether we should allow non-bank payment service providers to safeguard client funds at the Bank, potentially reducing their reliance on the very organisations in the commercial sector who they compete with.
+When the service is available
+Extended settlement hours: Building on the G20 roadmap,
+our analysis
+has shown that longer RTGS settlement hours in the UK could unlock further benefits, including alignment with international peers, reduced cross-border frictions and lower settlement risk. We are assessing now how best to implement this: we believe it is most appropriate to deliver this through a phased approach with earlier opening of CHAPS, aiming for 2027, with an ambition to move closer to near 24/7 settlement around the end of the decade. We will be consulting on the earlier opening of CHAPS next month.
+How the service is used
+APIs: We are continuing to evolve our API offerings to meet the needs of a more dynamic and programmable financial ecosystem. This will be a process of gradual improvement – while most of our current APIs allow participants to access data, we are expanding the range of APIs and working towards a world where participants can instruct payments via API, subject to key risk controls.
+ISO 20022: We continue to iterate the ISO 20022 messages used in CHAPS and RTGS to ensure that we maintain international interoperability and deliver ongoing improvements. We remain a champion of standardisation and richer data, and we are in active dialogue with industry about whether further mandation of specific data elements could unlock even greater benefits, particularly for end-users, through development of new products utilising this data and richer analysis by linking these with other datasets.
+Resilience enhancements: While RT2 itself is strong and robust, we are committed to continuous improvements to address evolving threats and new services. In particular, we are looking at how new ways of accessing RTGS would strengthen resilience and reduce reliance on third parties and single points of failure. And tied into this, we continually look for ways to further strengthen the overall resilience of the UK wholesale ecosystem, including review of our tertiary contingency solution for RT2, MIRS.
+I have focused today on RT2, highlighting what it now does and further enhancements in train to further support innovation in the UK payments ecosystem. But we should not forget the other parts of the wholesale payments jigsaw being delivered by the UK authorities. We also continue to work with colleagues across the Bank on other wholesale initiatives, including the pilot programme launched by the Bank and HMT exploring the use of DLT technology in the issuance and management of sovereign debt (DIGIT). This leverages the Digital Securities Sandbox (DSS) launched by the Bank to support innovation in post-trade settlement. The Bank is also leading the ongoing drive towards T+1 securities settlement in 2027. In the retail space, the Bank is exploring a digital pound, which if introduced would be like a banknote for the digital era. This would be accessible through digital wallets provided by private sector intermediaries and could be spent in shops or online.
+We are delivering these initiatives collaboratively, through both co-creation with the industry and working closely with authorities here and overseas.
+Conclusion
+I would like to end with two calls for action from you. We have provided the initial foundations for success in building the next generation market infrastructure for money, payments and securities settlement. So my first call is for industry to use the new infrastructure to the full and to reap its benefits, securing the UK as a world leading digital wholesale market. The second is a call for continued engagement. Your insights, your innovation, and your partnership are essential to ensuring that RT2, and the wider wholesale payments ecosystem, continues to evolve and support end users.
+Just as satellite technology transformed the way we navigate the world, we believe RTGS can help transform the way value moves through the economy. And in doing so, it will be a major contributor to growth and to the UK leading the way in payments innovation.
+I would like to thank Rebecca Hall, Pierre Wang, Nina Turnbull, John Jackson, Richard Windram and Samantha Leighton for their help in preparing these remarks.
+References
+Financial Stability Board,
+G20 Roadmap for Enhancing Cross-Border Payments: Consolidated progress report for 2024,
+October 2024.
+Financial Stability Board,
+G20 Roadmap for Enhancing Cross-Border Payments: Consolidated progress report for 2024,
+October 2024.
+Financial Stability Board,
+G20 Roadmap for Enhancing Cross-Border Payments: Consolidated progress report for 2024,
+October 2024.
+Close
+Convert this page to PDF
+Victoria Cleland
+Executive Director, Payments
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

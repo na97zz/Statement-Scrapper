@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "International trade, global supply chains and monetary policy - speech by Silvana Tenreyro",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Silvana Tenreyro",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/october/international-trade-global-supply-chains-and-monetary-policy-speech-annex.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Silvana Tenreyro - International trade, global supply chains and monetary policy - speech by Silvana Tenreyro.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Silvana Tenreyro - International trade, global supply chains and monetary policy - speech by Silvana Tenreyro.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:37",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/october/silvana-tenreyro-speech-at-the-centre-for-economic-policy-research",
+  "content_sha256": "a7c300d5c5dfbd96d01e1f2d8396f9958040c7f5d0250c3501140e6584761adb"
+}

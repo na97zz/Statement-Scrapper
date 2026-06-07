@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Envisioning the Future of Payments\" (Opening Remarks at the Fourth Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency)",
+  "date_original": "2022-11-24",
+  "date_au": "24/11/2022",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko221124a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-11-24 - UCHIDA Shinichi - _Envisioning the Future of Payments_ (Opening Remarks at the Fourth Meeting of the Liaison and Coordination Committee o.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-11-24 - UCHIDA Shinichi - _Envisioning the Future of Payments_ (Opening Remarks at the Fourth Meeting of the Liaison and Coordination Committee o.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "aa9a2aaa7db8388ddefb353f0da7a049e8d69b9298ba8255f0dc2e1c8d668d4e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Yamaguchi)",
+  "date_original": "2025-08-28",
+  "date_au": "28/08/2025",
+  "datetime_original": "",
+  "speaker": "NAKAGAWA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250828a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-08-28 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Yamaguchi).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-08-28 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Yamaguchi).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2f8fa53833e979c2f851fbd91056e198d628d91f694dc0d545d64f7206944892"
+}

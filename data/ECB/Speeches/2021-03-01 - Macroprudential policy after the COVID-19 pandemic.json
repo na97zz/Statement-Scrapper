@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Macroprudential policy after the COVID-19 pandemic",
+  "date_original": "2021-03-01",
+  "date_au": "01/03/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210301~207a2ecf7e.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-03-01 - Macroprudential policy after the COVID-19 pandemic.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-03-01 - Macroprudential policy after the COVID-19 pandemic.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5010d597cc50e50486100fd1d1f0904c75ce89cb16c61fecb800dd1fc0affae6"
+}

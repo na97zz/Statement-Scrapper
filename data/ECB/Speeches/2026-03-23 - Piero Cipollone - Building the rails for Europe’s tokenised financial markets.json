@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Building the rails for Europe’s tokenised financial markets",
+  "date_original": "2026-03-23",
+  "date_au": "23/03/2026",
+  "datetime_original": "",
+  "speaker": "Piero Cipollone",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260323~a88f20c049.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-03-23 - Piero Cipollone - Building the rails for Europe’s tokenised financial markets.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-03-23 - Piero Cipollone - Building the rails for Europe’s tokenised financial markets.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f3f22127a40e3fbedd7e6ff951e0608c3c8b83023cc4d4b604dbb902fbb970e0"
+}

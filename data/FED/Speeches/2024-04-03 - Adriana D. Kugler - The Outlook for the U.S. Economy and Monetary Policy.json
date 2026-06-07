@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Outlook for the U.S. Economy and Monetary Policy",
+  "date_original": "2024-04-03",
+  "date_au": "03/04/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20240403a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-03 - Adriana D. Kugler - The Outlook for the U.S. Economy and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-03 - Adriana D. Kugler - The Outlook for the U.S. Economy and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "911bdf517b7ec999f308722461d893592531c114d1f70396383eb309268030ba"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Funded realignment: balancing innovation and risk − speech by Vicky White",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Vicky White",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/september/vicky-white-speech-at-the-bank-of-america-annual-ceo-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Vicky White - Funded realignment_ balancing innovation and risk − speech by Vicky White.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Vicky White - Funded realignment_ balancing innovation and risk − speech by Vicky White.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:10:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "196a0faeb50aaead90fc20ac78df97516bdbb4e8478df5021a8d0624c97990b4"
+}

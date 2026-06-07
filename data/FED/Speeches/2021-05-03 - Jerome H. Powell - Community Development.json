@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Community Development",
+  "date_original": "2021-05-03",
+  "date_au": "03/05/2021",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20210503a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-05-03 - Jerome H. Powell - Community Development.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-05-03 - Jerome H. Powell - Community Development.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ace64feb41841428258ddeb53fca7ee201bd9e62f3ef394840a9deb12e4f628b"
+}

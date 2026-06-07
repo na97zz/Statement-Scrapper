@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "How Should We Think about Full Employment in the Federal Reserve's Dual Mandate?",
+  "date_original": "2021-02-24",
+  "date_au": "24/02/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210224a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-02-24 - Lael Brainard - How Should We Think about Full Employment in the Federal Reserve's Dual Mandate_.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-02-24 - Lael Brainard - How Should We Think about Full Employment in the Federal Reserve's Dual Mandate_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bade15715e1711ba56eea9bbfdb81e34047876d8fe560bd1b25399ad83d6c9d8"
+}

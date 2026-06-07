@@ -1,0 +1,32 @@
+BANK: BOJ
+CATEGORY: Speeches
+TITLE: "Taking the Next Step" (Opening Remarks at the Fifth Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency)
+DATE: 17/02/2023
+SPEAKER: UCHIDA Shinichi
+SPEAKER ROLE: 
+SOURCE URL: https://www.boj.or.jp/en/about/press/koen_2023/ko230217a.htm
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+[Speech]
+Taking the Next Step
+Opening Remarks at the Fifth Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency
+日本語
+UCHIDA Shinichi
+Executive Director of the Bank of Japan
+February 17, 2023
+Full Text [PDF 142KB]
+Thank you very much for attending the fifth meeting of the Liaison and Coordination Committee on Central Bank Digital Currency (CBDC) today.
+Subsequent to releasing "The Bank of Japan's Approach to Central Bank Digital Currency" in October 2020, the Bank of Japan -- in line with the approach -- has proceeded with the first step of its CBDC experiments, namely, Proof of Concept (PoC), to test the technical feasibility of the core functions and features required for a CBDC.
+In PoC Phase 1, which started in April 2021, the Bank built an experimental environment centered around a CBDC ledger, which is the foundation of a CBDC system. It confirmed that the basic transactions related to CBDC, or a series of transactions such as issuance, payout, and transfer, could achieve the processing performance required for frequent and low-value retail payments.
+In PoC Phase 2, beginning in April 2022, the Bank implemented more complex, additional functions of CBDC to the core functions explored in Phase 1 and investigated their technical feasibility and processing performance. While this phase is scheduled to continue through this March, we have already confirmed that the processing performance of the CBDC system can be maintained even with additional functions whose implementation is challenging. One such function is to check whether end users' CBDC holdings and transactions do not exceed the upper limit imposed on each, even when end users hold multiple accounts.
+Meanwhile, in this Committee we have engaged in discussions from a wide range of perspectives, including the future of payment and settlement systems suitable for a digital society, while sharing the specifics of the PoCs and updates on their progress.
+Taking into account the results and findings of the PoCs along with our discussions to date, the Bank, as a next step, has decided to launch a pilot program this April.
+The aim of the pilot program is twofold: first, to test the technical feasibility not fully covered by the PoCs, and second, to utilize the skills and insights of private businesses in terms of technology and operation for designing a CBDC ecosystem in the possible event of social implementation.
+Regarding the first point, in the CBDC system, there is a need for an interlinking of various systems ranging from the central bank to users through intermediaries, intermediary network systems, and other stakeholders. Previously, subjects of PoCs were chiefly the central system. Under the pilot program, however, we plan to develop a system for experiments, where a central system, intermediary network systems, intermediary systems, and endpoint devices would be configured in an integrated manner. On this basis, we plan to test the end-to-end process flow and outline the measures and potential challenges for connecting the experimental system with external ones.
+As for the second point, our hope is that the pilot program will lead to improved designs through discussion with private businesses. Topics on the agenda currently include measures and potential challenges for connecting the experimental system with external ones, alternative data models and architectures for offline payments, the optimal design of the CBDC system in providing value-added services, and challenges and technologies or functions that could become necessary where a touchpoint with users arises. In order to achieve this, we will establish a CBDC Forum and invite private businesses engaged in retail payments or in related technologies to participate. Proceeding with the pilot program while bearing in mind that the two approaches I have mentioned are closely intertwined, we expect the findings gained through these approaches to feed back into efforts being made in pursuing each aim.
+As for how to proceed with the pilot program, we will launch the experiments with narrowed objectives, gradually expanding the scope of our experiments in a phased and planned manner. At present, we do not assume any actual transactions to take place among retailers and consumers; only simulated transactions will be settled in the test environment. We will continue to communicate externally, with high transparency, in sharing topics including the specifics of the pilot program and updates on progress made.
+If a CBDC were to be issued in the future, exploring its framework in such phased manner and engaging in highly transparent communication with the private sector are necessary steps to take for adoption in society. Similar approaches have been taken by other advanced economies. A method of payment is not something that becomes the norm once an ideal arrangement is brought into the world. Considering that huge numbers of people are involved in the circulation of cash, one would easily imagine that various changes to the setups and preparations will be necessary in order for a CBDC to be widely adopted. This applies to each category of stakeholders involved in the process, including users, affecting all fronts -- business conditions of financial institutions and of firms, and end users' daily lives. It is therefore essential to develop institutional arrangements that would satisfy all parties involved, and proceed in line with this. The pilot program, which we are about to launch, is the first step of this process.
+Alongside this, our continued dialogue on CBDC and the future payments landscape thus far will enter a new phase. Continuing to draw on your experiences and insights, we are determined to design a CBDC that would be acceptable to both society at large and end users. In doing so, we would like to ask for your continued support.
+Thank you for your attention.

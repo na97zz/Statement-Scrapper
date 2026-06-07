@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2025-06-04",
+  "date_au": "04/06/2025",
+  "datetime_original": "",
+  "speaker": "Welcoming Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20250604a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-06-04 - Welcoming Remarks - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-06-04 - Welcoming Remarks - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f35c4d598610b5f0a5f04407ff1f9bb69c993fe50c9c60e94f1961e93875913d"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Fiscal policy and growth in Europe",
+  "date_original": "2025-11-22",
+  "date_au": "22/11/2025",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251122~41974d60f1.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-11-22 - Christine Lagarde - Fiscal policy and growth in Europe.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-11-22 - Christine Lagarde - Fiscal policy and growth in Europe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4442f54619a36e9edc8d6a8476f9add071ae63ebd967b77e3b17cbb9174f2688"
+}

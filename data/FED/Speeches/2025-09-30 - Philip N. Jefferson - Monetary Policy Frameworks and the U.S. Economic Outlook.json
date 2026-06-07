@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Monetary Policy Frameworks and the U.S. Economic Outlook",
+  "date_original": "2025-09-30",
+  "date_au": "30/09/2025",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250930a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-09-30 - Philip N. Jefferson - Monetary Policy Frameworks and the U.S. Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-09-30 - Philip N. Jefferson - Monetary Policy Frameworks and the U.S. Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a5578c732c1884398d44e8dfd266b28370cec184038bceb9256e0f5d87164953"
+}

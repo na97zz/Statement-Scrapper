@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Growth − speech by Andrew Bailey",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2024/november/andrew-bailey-speech-at-the-annual-financial-and-professional-services-dinner",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Andrew Bailey - Growth − speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Andrew Bailey - Growth − speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fa09dab7f456571291dcef1800f8d98f9702193a118b3ac9b5e9e2ec551a5aab"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Thank You, John",
+  "date_original": "2025-05-09",
+  "date_au": "09/05/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250509a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-05-09 - Christopher J. Waller - Thank You, John.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-05-09 - Christopher J. Waller - Thank You, John.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1210bb62214384ce13d9a3ba0e6953a90ecd0501d85629bd88fdb5f611b4d607"
+}

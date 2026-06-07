@@ -1,0 +1,153 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The sky’s the limit: shaping the UK’s digital financial future - speech by Sasha Mills
+DATE: 01/06/2025
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/january/sasha-mills-speech-at-the-tokenisation-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The sky’s the limit: shaping the UK’s digital financial future - speech by Sasha Mills
+Given at The Tokenisation Summit
+Published on 
+
+ 29 January 2026
+At the Tokenisation Summit, Sasha Mills outlined the innovation priorities for the coming year: progressing the systemic stablecoins regime, clarifying how tokenised collateral can operate under UK EMIR, and expanding the Digital Securities Sandbox. She highlighted the importance of resilience, proportionate supervision of Financial Market Infrastructures and strong international coordination to support safe innovation and safeguard financial stability.
+Speech
+Good morning, I am very pleased to be at this important event in the innovation calendar.
+The coming year is going to be fundamental in shaping the UK’s digital financial future. The Bank of England (the Bank), working alongside industry, HM Treasury, the Financial Conduct Authority (FCA) and our wider regulatory family, has a central role to play in ensuring that the future is driven by safe, responsible innovation, underpinned by financial stability.
+In particular, we are focussed on pushing forward our work on regulated stablecoins
+footnote
+[1]
+, including working with the FCA to test their use as a settlement asset in the Digital Securities Sandbox (DSS)
+footnote
+[2]
+, and clarifying our policy on the treatment of tokenised collateral under UK European Market Infrastructure Regulation (EMIR).
+We have the opportunity to build truly holistic digital financial markets in the UK, bringing real benefits to the real economy. It’s an ambitious goal, but we start from a strong position.
+The strengths that make the UK a global financial centre, including trust in our legal system and in our institutions, can be the foundation of our leadership in the digital financial markets of tomorrow. But we need to build on that foundation if we are to realise our ambitions for this sector.
+We’re operating at a time where the financial landscape is evolving at speed, with technological developments bringing huge opportunities but also resulting in an ever-evolving threat landscape. For Financial Market Infrastructures (FMIs), the stakes and consequences of not being resilient are high, for the institutions and financial system, making resilience and innovation critical.
+The Bank’s role can be thought of as akin to an air traffic controller. Our ability to see across the financial system allows us to deliver financial stability by setting the framework for FMIs to navigate safely and ensure a smooth landing, in turbulent times and clear skies alike.
+Fundamentally, air traffic controllers reduce systemic risk to enable the risky business of moving very large numbers of people, and huge volumes of goods, at high speed and around the world safely. Each year they facilitate more traffic in the already crowded airspace, allow airports to operate in a wider range of weather conditions and improve efficiency for goods and travellers. Facilitating more and better flights leads to more trade and growth in the real economy.
+In much the same way, it’s our job to maintain financial stability and also support innovation. Done well, we facilitate more trading, faster and cheaper payments and settlement, and a more efficient use of assets via, for example, tokenised collateral, which ultimately will lead to more growth for the industry and the real economy.
+Our role as regulator is to set the framework to help the market innovate safely, keeping the skies safe, and providing confidence that take-offs and landings happen as they should. For us, that means being responsive to emerging trends and working with you through open dialogue so we can embrace this new and changing world together, including, for example, by expanding the range of settlement assets in the DSS, and testing the use of stablecoins for some wholesale settlement.
+The certainty that the system works, in good times and in adversity, is the bedrock that innovation can launch from. Air traffic controllers don’t close the skies to new aircrafts or new ways of doing things; they create designated corridors and temporary clearances so novel aircraft can test routes and innovate systems, without endangering others.
+Through a flexible, responsive regulatory regime, we are doing the same. Sandboxes, pilot schemes such as the Digital Gilt Instrument (DIGIT)
+footnote
+[3]
+, interoperable standards, and our new firms’ approach are enabling safe, responsible innovation - allowing you to test new systems in a meaningful way while safeguarding the wider financial system from disruption.
+Clearing the runway for innovation
+Across the sector, there is a clear understanding that failure to innovate means falling behind, whether through advances in new technologies or improvements to existing markets, products, or processes.
+We want to work with industry to embrace today’s and tomorrow’s innovations in a responsible way. In 2026, the Bank will prioritise three key areas of innovation: systemic stablecoins, tokenised collateral and the Digital Securities Sandbox.
+Stablecoins
+Let me start with stablecoins.
+Stablecoins have the potential to modernise retail and wholesale payments, enabling faster, cheaper and more efficient transactions. They could offer a valuable choice for individuals and businesses making payments in the UK and they could offer new functionalities – through programmability – to deliver real benefits for the UK real economy.
+The Bank’s remit only extends to stablecoins widely used for payments in the UK – so-called systemic stablecoins. Such stablecoins will be jointly regulated by the Bank and FCA. Systemic stablecoins need to meet the same standards as existing forms of money used in the UK real economy. In 2025 we consulted on a regime fit for a future where stablecoins are widely used for payments in the UK, setting out the standards we expect systemic stablecoins to meet.
+Our regime proposes to provide systemic stablecoins with a deposit account at the Bank of England while also considering putting in place a liquidity facility to provide a backstop for stablecoin issuers.
+Our proposed regime also looks to manage some UK-specific risks and to ensure an orderly transition to new forms of money. A growing role in payments for stablecoins could reduce deposits in the banking sector and could lead to a reduction in credit provided to the real economy. Our proposed regime considers the tools that could sufficiently mitigate against this risk.
+We will continue to listen to your feedback to the consultation which will be invaluable in helping us shape the regulatory framework. We aim to finalise the regime for systemic stablecoins, working side-by-side with the FCA, by the end of this year. Where stablecoins are used on a non-systemic basis (for example for the purposes of entering and exiting unbacked cryptoasset markets), they will not fall into the Bank’s remit.
+Tokenised Collateral
+Our second area of focus is tokenised collateral.
+Tokenisation (the process of representing traditional financial assets as digital tokens on a shared, programmable ledger) offers opportunities to enhance resilience and efficiency through programmable forms of money and assets by collapsing steps in the trade lifecycle.
+It could streamline collateral mobility by enabling near‑instant movement of assets across firms and jurisdictions, improve liquidity management of already eligible collateral, and reduce operational frictions in collateral movement.
+We are already seeing practical applications of tokenisation being piloted in collateral markets, offering greater automation and faster settlement, with the potential to lower firm operating costs and increase system-wide liquidity.
+As with stablecoins used for payments, tokenised collateral will need to meet certain standards to support financial stability, just as traditional collateral must meet these standards today. This includes ensuring both the underlying structure of the tokenised asset and the infrastructures supporting it are resilient, so that disruption cannot amplify risks more broadly across the system.
+A key difference between traditionally accepted assets and those assets that exist on-chain is the additional risks that stem from how the technology is used. These create specific challenges, including operational resilience and legal enforceability. It’s not that traditional infrastructure doesn’t pose any risks but rather that the mitigants there are more established and better understood by regulators and the market.
+The Bank of England aims to avoid mandating or prohibiting specific technologies. Where traditional assets are tokenised and provided the risks of the overall tokenisation arrangement are appropriately mitigated, we don’t expect the types of risks from holding tokenised assets to differ in any material way. The tokenised versions of assets which are already acceptable as regulatory collateral by central counterparties could also be eligible under UK EMIR rules.
+Clarity on these topics in a tokenised world will be key for ensuring confidence in a market.
+Some thought is needed on traditional assets that are not already acceptable as regulatory collateral, but tokenised versions of which industry would like to use as collateral. We have been gathering industry data and feedback on whether to broaden eligibility of a wider range of traditional and tokenised collateral.
+2
+Responses to our consultation
+footnote
+[4]
+supported the Bank’s thinking on tokenised collateral, but cautioned that benefits can only be realised with adequate risk assessment and testing. Respondents noted that, while they welcome our direction of travel, there are areas where they are looking to regulators for greater clarity. They highlighted that the safe use of tokenised assets would depend on confidence in how rights to those assets are assured and enforceable when used as collateral.
+We are taking this feedback seriously. The UK has already taken steps through recent Digital Assets legislation
+footnote
+[5]
+to clarify the legal status of digital assets as property. This is an important foundation for providing certainty in collateral contexts which we intend to build on.
+We welcome firms bringing forward proposals that responsibly support safe and efficient adoption of tokenised collateral, including how they would plan to manage the associated risks, recognising this is an evolving area with significant potential benefits. To provide greater certainty, we will set out further policy later this year on how tokenised collateral can operate under the existing regulatory framework. Ensuring smoother movement of cross-border collateral requires a consistent international approach, so our policy will be shaped by engagement with industry and our international counterparts, using the PFMIs as the guiding framework to anchor our approach.
+We encourage firms to reach out and continue the conversation with us – whether on emerging opportunities or practical challenges.
+Digital Securities Sandbox and Stablecoins
+Let me turn to our next area of focus – the Digital Securities Sandbox and stablecoins within it.
+The DSS is an opportunity for firms to responsibly test issuance, trading and settlement on distributed ledgers. Our DSS framework is adaptable as we progress, allowing us to ‘learn as we go’ from innovators testing different business models within the sandbox.
+For example, to accommodate the cross-border nature of FMIs we broadened the sandbox scope to allow sandbox entrants to issue securities denominated in foreign currencies, and to settle directly in those currencies.
+Similarly, as wholesale activity in the Sandbox is subject to limits on overall issuance to contain risks to the broader financial sector, it offers a helpful environment to test the use of stablecoins for wholesale settlement in a controlled setting.
+We are continuing to expand the remit of the DSS to facilitate responsible innovation. We are working at speed with our colleagues at the FCA and HMT to expand the range of settlement assets in the DSS to include regulated stablecoins.
+In observing the use of stablecoins in the settlement of real-world digital securities, we will gain a better understanding of the risks, opportunities, and suitability of stablecoins for this potential use case at systemic scale. We will make adjustments as needed as we move towards a permanent regime for stablecoins in the UK, and will work with our international counterparts on equivalent – and robust – standards for regulated stablecoins globally.
+To facilitate this, we are developing an assessment framework to help us determine a set of regulated stablecoins – issued both domestically and in other jurisdictions – that meet high enough standards for use in the sandbox.
+For example, we will set out criteria around the quality and composition of backing assets, ability to meet redemptions, and capital requirements, among other things.
+As regulatory regimes for stablecoin issuers in the UK and internationally are still being developed, this assessment framework may not map exactly to future standards for what may be permitted in wholesale markets. However, ensuring a minimum standard for stablecoins in the sandbox will both ensure some degree of resilience for market participants, and aid transition to a future permanent regime for the use of stablecoins in wholesale markets.
+Working with the FCA, we are thinking carefully about the ecosystem around stablecoin use in wholesale markets, and whether certain guardrails are appropriate. For example, we are considering the suitability of different custody solutions, their compliance with proposed FCA custody requirements, and ways of obtaining stablecoins for use in the DSS. Domestic stablecoins which meet the high standards of the Bank’s systemic stablecoin regime will be permitted in the DSS.
+Last November, the FCA launched a special cohort of stablecoin issuers within its own Regulatory Sandbox
+footnote
+[6]
+, offering a pathway for UK-issued stablecoins to test their propositions against proposed requirements for issuers. Successful firms in this cohort, which may include Sterling denominated stablecoins, will be well-placed as stablecoins that could be utilised in the DSS prior to the full regime on stablecoins going live in the UK.
+DSS and DIGIT
+HMT’s digitally native gilt, DIGIT, will be issued and settled using a Digital Securities Depository operating within the DSS. This pilot aims to enable the Government to explore how DLT can be applied across the lifecycle of the UK sovereign debt issuance process, and catalyse the development of UK based DLT infrastructure.
+We welcome HMT’s commitment to use DIGIT to leverage the benefits of the DSS, enabling the Bank and FCA to provide a regulated environment where innovation in capital markets can flourish. Through the DSS, DIGIT will explore on–chain settlement of both the securities and cash leg, and support interoperability between traditional and DLT-based FMIs.
+Our 2025 industry roundtables provided valuable feedback and guidance used to continue developing the DSS. Based on this feedback, we adopted a more flexible approach to firm-specific limits at Gate 2, moving from fixed ‘go-live’ limits to a flexible range. We will continue to seek out ways in 2026 to gather feedback as we develop our Gate 3 rules and start to see live activity take place within the DSS framework.
+Being an efficient, proportionate and looking-forward regulator, fostering international cooperation.
+As the landscape evolves, we continue to refine our supervisory approach for all firms to ensure we’re getting the balance right between mitigating risks to financial stability, and supporting the wider economy by enabling responsible innovation. With that in mind we:
+Are making the recognition process for non-UK FMIs more efficient and proportionate to the size of the firm, introducing a tiering approach which classifies FMIs as systemic or non-systemic.
+Are increasing transparency through publishing metrics on timelines for assessing permissions applications, which aligns with our aim for more efficient regulation.
+Have set out our supervisory approach for onboarding new FMIs. We want to support market entry and encourage innovation, so we are moving away from the one-size-fits-all model to an approach tailored to the size, complexity and risk model of new entrants.
+I’ve talked a lot about our domestic work, but as regulators we can’t lose sight of the global picture. Air traffic controllers and airports operate 24/7, 365 days a year, and across jurisdictions. Similarly, your firms operate round the clock and across borders. International coordination is essential for a safe, resilient financial system.
+We will continue to engage with global bodies like the Financial Stability Board (FSB), the Committee on Payments and Market Infrastructures (CPMI), the International Organization of Securities Commissions (IOSCO) and the Basel Committee on Banking Supervision (BCBS), as well as with regulators worldwide to ensure international standards are robust.
+In particular, in September 2025 HMT and the U.S. Treasury launched a Transatlantic Taskforce for Markets of the Future
+footnote
+[7]
+, drawing on UK and U.S. regulators and industry input.
+Its remit is to explore near‑term collaboration on digital assets while regulatory frameworks evolve, identify longer‑term opportunities for wholesale digital‑markets innovation, and strengthen links between our capital markets.
+Given digital assets are a focus of the Taskforce, the DSS provides a valuable opportunity to share learnings and identify areas for cross border cooperation.
+Conclusion
+In 2025, we worked closely with HMT and the FCA on the Wholesale Financial Markets Digital Strategy to help set out a tokenisation vision for the UK. We remain committed to making that a reality.
+With so much change ahead, it’s worth reminding ourselves of what hasn’t changed: our mission of financial stability.
+In pursuit of that mission, we’ll keep the radar sweeping, the runways clear, and the routes open. While we set the rules to make take‑offs and landings safe, we’ll continue working with you to trial new aircraft and redesign airspace so new technologies can fly.
+The future is ambitious. But making the changes I outlined today, including finalising the regime for systemic stablecoins; expanding the remit of the DSS to facilitate responsible innovation; and clarifying the use of tokenised collateral under UK EMIR, will support financial stability domestically and internationally.
+By working together, we can achieve these goals. I look forward to working with the existing, and new, FMIs and innovators to realise this vision.
+I would like to thank Shane Scott, Umaymah Ali, Ania Szerszen, Emma Butterworth, Kushal Balluck, Alex Gee, Rebecca Gunn, Honey Fafowora, Jamie Long, Barry King, Priya Mistry, Chas Biling, and Chris Ford for assisting me in preparing these remarks.
+Proposed regulatory regime for sterling-denominated systemic stablecoins
+Digital Securities Sandbox (DSS)
+Digital Gilt Instrument (DIGIT)
+Ensuring the resilience of CCPs
+Property (Digital Assets etc) Act 2025
+FCA’s Regulatory Sandbox
+HMT: Boosting collaboration between UK and US financial systems to drive innovation and growth in global markets
+HMT: Boosting collaboration between UK and US financial systems to drive innovation and growth in global markets
+Close
+FCA’s Regulatory Sandbox
+Close
+Property (Digital Assets etc) Act 2025
+Close
+Ensuring the resilience of CCPs
+Close
+Digital Gilt Instrument (DIGIT)
+Close
+Digital Securities Sandbox (DSS)
+Close
+Proposed regulatory regime for sterling-denominated systemic stablecoins
+Close
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

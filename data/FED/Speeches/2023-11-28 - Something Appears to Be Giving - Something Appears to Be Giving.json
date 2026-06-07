@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Something Appears to Be Giving",
+  "date_original": "2023-11-28",
+  "date_au": "28/11/2023",
+  "datetime_original": "",
+  "speaker": "Something Appears to Be Giving",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20231128a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-28 - Something Appears to Be Giving - Something Appears to Be Giving.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-28 - Something Appears to Be Giving - Something Appears to Be Giving.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3df023435112a55f46c6149736aeff6bcef02948ab32952aaf19ad931dee69de"
+}

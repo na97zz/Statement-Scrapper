@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report",
+  "date_original": "2025-07-30",
+  "date_au": "30/07/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/publications/mpr/mpr-2025-07-30/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2025-07-30 - Monetary Policy Report.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2025-07-30 - Monetary Policy Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b538862b472ce98ec09c34a41fe5dde199b4d8a15a9f260dc1b87b879a301424"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Thoughts on the Crypto Ecosystem",
+  "date_original": "2023-02-10",
+  "date_au": "10/02/2023",
+  "datetime_original": "",
+  "speaker": "Thoughts on the Crypto Ecosystem",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230210a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-02-10 - Thoughts on the Crypto Ecosystem - Thoughts on the Crypto Ecosystem.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-02-10 - Thoughts on the Crypto Ecosystem - Thoughts on the Crypto Ecosystem.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "96b353964b0a5f662021546b9e61c6ad3578a20ee8723003925a6d3ee96ba651"
+}

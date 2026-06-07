@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Education",
+  "date_original": "2022-11-17",
+  "date_au": "17/11/2022",
+  "datetime_original": "",
+  "speaker": "Financial Education",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20221117a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-11-17 - Financial Education - Financial Education.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-11-17 - Financial Education - Financial Education.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "28630b486f6ae63b747deb0dac069bee3ae59dbf667536872bd721eae01c173b"
+}

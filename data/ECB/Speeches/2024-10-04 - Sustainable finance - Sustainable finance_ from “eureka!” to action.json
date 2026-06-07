@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Sustainable finance: from “eureka!” to action",
+  "date_original": "2024-10-04",
+  "date_au": "04/10/2024",
+  "datetime_original": "",
+  "speaker": "Sustainable finance",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241004~e2c8a5aae1.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-10-04 - Sustainable finance - Sustainable finance_ from “eureka!” to action.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-10-04 - Sustainable finance - Sustainable finance_ from “eureka!” to action.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a8ff9272a0e0272eb9b89126a30b5c6ca6b7b0dd6c5155d33bbc58159902630e"
+}

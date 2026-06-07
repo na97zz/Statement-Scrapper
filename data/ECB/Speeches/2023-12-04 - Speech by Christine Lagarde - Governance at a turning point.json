@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Governance at a turning point",
+  "date_original": "2023-12-04",
+  "date_au": "04/12/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231204~a2027eb718.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-12-04 - Speech by Christine Lagarde - Governance at a turning point.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-12-04 - Speech by Christine Lagarde - Governance at a turning point.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dd7836e90533fbb8491d3fd20ada51e24ab9446bb7dd8e0c781c7f116ac7b00b"
+}

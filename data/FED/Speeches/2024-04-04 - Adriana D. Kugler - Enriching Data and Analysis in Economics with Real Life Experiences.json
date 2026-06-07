@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Enriching Data and Analysis in Economics with Real Life Experiences",
+  "date_original": "2024-04-04",
+  "date_au": "04/04/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20240404a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-04 - Adriana D. Kugler - Enriching Data and Analysis in Economics with Real Life Experiences.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-04 - Adriana D. Kugler - Enriching Data and Analysis in Economics with Real Life Experiences.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f7b6bede44d4d6e4dc3e3e88c51112c9f45ef311aa8f39030ebb893b4d498f08"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2025-05-15",
+  "date_au": "15/05/2025",
+  "datetime_original": "",
+  "speaker": "Opening Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250515a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-05-15 - Opening Remarks - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-05-15 - Opening Remarks - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3bb026a8ec0b09ce5f767460a10984253bb64dfd735c0ffe3a42b3b75124019f"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Cut or Skip?",
+  "date_original": "2024-12-02",
+  "date_au": "02/12/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20241202a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-12-02 - Christopher J. Waller - Cut or Skip_.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-12-02 - Christopher J. Waller - Cut or Skip_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "22c84ec68935a8d43e5bd9e55fe8127aa186ccc6fd0dfdd3577f93ed3ee1a22a"
+}

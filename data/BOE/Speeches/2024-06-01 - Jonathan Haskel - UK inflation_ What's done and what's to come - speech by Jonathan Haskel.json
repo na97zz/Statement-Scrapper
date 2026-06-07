@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "UK inflation: What's done and what's to come - speech by Jonathan Haskel",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Jonathan Haskel",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/july/uk-inflation-whats-done-and-whats-to-come-speech-by-jonathan-haskel.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Jonathan Haskel - UK inflation_ What's done and what's to come - speech by Jonathan Haskel.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Jonathan Haskel - UK inflation_ What's done and what's to come - speech by Jonathan Haskel.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:48",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2024/july/speech-by-jonathan-haskel-at-escoe-kings-college-london",
+  "content_sha256": "ef87ca9eec840b098d957c62e0c42127bcc33b378a91e42d9bf076cf3f874498"
+}

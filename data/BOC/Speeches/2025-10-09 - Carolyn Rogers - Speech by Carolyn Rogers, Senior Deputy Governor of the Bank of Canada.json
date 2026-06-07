@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
+  "date_original": "2025-10-09",
+  "date_au": "09/10/2025",
+  "datetime_original": "",
+  "speaker": "Carolyn Rogers",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2025/10/speech-carolyn-rogers-2025-10-09/",
+  "raw_file_path": "data\\BOC\\Speeches\\2025-10-09 - Carolyn Rogers - Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2025-10-09 - Carolyn Rogers - Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:58:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0c93982ce5222bb5ab8e606d36d0771477760e66a24fc19f7da8e99add3625d7"
+}

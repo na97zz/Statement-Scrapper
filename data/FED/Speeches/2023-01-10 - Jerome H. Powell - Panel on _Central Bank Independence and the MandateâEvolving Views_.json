@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Panel on \"Central Bank Independence and the MandateâEvolving Views\"",
+  "date_original": "2023-01-10",
+  "date_au": "10/01/2023",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20230110a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-01-10 - Jerome H. Powell - Panel on _Central Bank Independence and the MandateâEvolving Views_.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-01-10 - Jerome H. Powell - Panel on _Central Bank Independence and the MandateâEvolving Views_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6b05170aad49f539cc5c3a913abaa8ca01f76d30b23be925ad7cbfd71b21ff34"
+}

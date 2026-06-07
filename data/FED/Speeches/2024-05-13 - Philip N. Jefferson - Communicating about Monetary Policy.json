@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Communicating about Monetary Policy",
+  "date_original": "2024-05-13",
+  "date_au": "13/05/2024",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20240513a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-13 - Philip N. Jefferson - Communicating about Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-13 - Philip N. Jefferson - Communicating about Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "43c5bacd8263bd7cb7ee39eea44a4689b1b5e27d09abf9511fcaf6c90e6d0ff0"
+}

@@ -1,0 +1,11 @@
+metric,value
+total_documents_loaded,2679
+total_documents_after_filters,2434
+documents_filtered_out,245
+total_documents_scored,2366
+documents_missing_text,68
+documents_with_zero_phrase_matches,1626
+average_score_by_bank,"{""BOC"": -0.106786, ""BOE"": 0.235272, ""BOJ"": 0.032764, ""ECB"": -0.534364, ""FED"": 0.161665, ""NORGES_BANK"": 0.086957, ""RBA"": 0.310579, ""RBNZ"": 0.064678, ""RIKSBANK"": 0.135968, ""SNB"": -0.016867}"
+average_score_by_document_subtype,"{""minutes"": 0.284704, ""other"": -1.936465, ""press_conference"": -0.04, ""speech"": 0.068023, ""statement"": 0.172394}"
+most_hawkish_document,"{""bank"": ""RBA"", ""classification"": ""hawkish"", ""date_au"": ""2024-06-18"", ""doc_id"": ""DOC_B118D6DC17FF"", ""score"": 8.418947501009619, ""title"": ""Monetary Policy Decision""}"
+most_dovish_document,"{""bank"": ""ECB"", ""classification"": ""dovish"", ""date_au"": ""2025-04-17"", ""doc_id"": ""DOC_F9AD1FCA6B84"", ""score"": -6.869646833851926, ""title"": ""Christine Lagarde, Luis de Guindos: Monetary policy statement (with Q&A)""}"

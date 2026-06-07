@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Regulatory Dominance of the Federal Reserveâs Balance Sheet",
+  "date_original": "2025-11-19",
+  "date_au": "19/11/2025",
+  "datetime_original": "",
+  "speaker": "Stephen I. Miran",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/miran20251119a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-11-19 - Stephen I. Miran - Regulatory Dominance of the Federal Reserveâs Balance Sheet.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-11-19 - Stephen I. Miran - Regulatory Dominance of the Federal Reserveâs Balance Sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2c0fe74d1aa3ad901881d374761518e966372ea5d3f4068ee9b208787b7f2d7d"
+}

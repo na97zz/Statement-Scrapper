@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Thereâs Still No Rush",
+  "date_original": "2024-03-27",
+  "date_au": "27/03/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240327a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-03-27 - Christopher J. Waller - Thereâs Still No Rush.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-03-27 - Christopher J. Waller - Thereâs Still No Rush.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "13b0573da47cc20f771aadad43ccda531358931cb20d788e734ef4d40137b384"
+}

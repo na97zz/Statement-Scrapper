@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Inflation in the euro area",
+  "date_original": "2024-05-27",
+  "date_au": "27/05/2024",
+  "datetime_original": "",
+  "speaker": "Speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240527~13d86a7d66.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-05-27 - Speech by Philip R. Lane - Inflation in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-05-27 - Speech by Philip R. Lane - Inflation in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5d7e5f8479d5c3853c41e7fa7afad9f94fd22edfb1102e59e9909cfaa1cef0fa"
+}

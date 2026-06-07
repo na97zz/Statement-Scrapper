@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Innovation and the Future of Finance",
+  "date_original": "2023-04-20",
+  "date_au": "20/04/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230420a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-04-20 - Christopher J. Waller - Innovation and the Future of Finance.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-04-20 - Christopher J. Waller - Innovation and the Future of Finance.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b92f8709aeec751db3dd859123e55149f4a9d37a6c6750e3b3d49792fa62b361"
+}

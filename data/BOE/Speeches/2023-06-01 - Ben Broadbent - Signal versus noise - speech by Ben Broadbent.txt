@@ -1,0 +1,46 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Signal versus noise - speech by Ben Broadbent
+DATE: 01/06/2023
+SPEAKER: Ben Broadbent
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/december/annex-signal-versus-noise-speech-by-ben-broadbent.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Extracting a signal about the output gap from noisy growth, unemployment and inflation 
+This technical annex goes through the details of the exercise described in the main body of the 
+speech. The exercise built on that shown in Broadbent (2014). That speech noted the result from 
+Svensson and Woodford (2003) that optimal policy in the face of incomplete information about 
+economically relevant variables, like the output gap, is invariant to the degree of accuracy. However, 
+the “signal extraction” formula that the policymaker follows to infer those variables is sensitive to 
+the variance of the shocks. We extend that model to include an inflation observable, and to include 
+shocks to the natural rate of unemployment and price markup shocks.  
+In our small model for the economy, the output gap, x, is autocorrelated and is subject to persistent 
+demand shocks, d. Unemployment depends on the distributed lag of x and a white-noise disturbance 
+u*. Output growth is a combination of changes in the output gap and a supply shock, assumed to be 
+white noise in the growth rate, Δ𝑠, and so a random walk in the level. Inflation depends on its own 
+lag, as well as the lagged output gap, and a white noise disturbance, 𝜀. 
+𝑥𝑡= 𝛼𝑥𝑡−1 + 𝑑𝑡 
+𝑢𝑡= −𝛾1𝑥𝑡−1 −𝛾2𝑥𝑡−2 + 𝑢𝑡
+∗ 
+∆𝑦𝑡= ∆𝑥𝑡+ ∆𝑠𝑡 
+𝜋𝑡= 𝜆𝜋𝑡−1 + 𝜅𝑥𝑡−1 + 𝜀𝑡 
+The standard deviations of the four shocks are 𝜎𝑑, 𝜎𝑢, 𝜎𝑠 and  𝜎𝜀. We observe Δ𝑦, u and 𝜋. Our task 
+is to find the best possible estimate of x. 
+The parameter values are chosen to deliver variances of the observable variables that broadly match 
+that in the annual UK data: 𝛼= 0.25, 𝛾1 = 0.25, 𝛾2 = 0.55, 𝜆= 0.4, 𝜅1 = 0.1, 𝜅2 = 0.25, 𝜎𝑑=
+0.23, 𝜎𝑢= 0.15, 𝜎𝑠= 0.17 and  𝜎𝜀= 0.23. We solve the problem numerically. This gives rise to an 
+updating equation for the output gap: 
+𝑥̂𝑡= 𝑥̂𝑡−1 + 𝜅𝑦(Δ𝑦𝑡−Δ𝑦̂𝑡) + 𝜅𝑢(𝑢𝑡−𝑢̂𝑡) + 𝜅𝜋(𝜋𝑡−𝜋̂𝑡) 
+Where Δ𝑦̂𝑡, 𝑢̂𝑡 and 𝜋̂𝑡 are prior expectations of growth, unemployment and inflation 
+respectively. The Kalman gain parameters (𝜅𝑦, 𝜅𝑢 and 𝜅𝜋) can then be scaled by the 
+expected variance of the observables to construct a variance decomposition. This can be 
+interpreted as the contribution of innovations in each observable (and the covariances 
+between them) to the estimate of the output gap.  
+The first panel in Chart [8] plots the contribution of activity and unemployment data to the 
+estimated variance of the output gap, where along the x-axis we increase the standard 
+deviation of the supply shock relative to the others. The second panel charts the 
+contributions of unemployment and inflation to the estimated variance of the output gap, 
+where along the x-axis we increase the standard deviation of the shock to u*.

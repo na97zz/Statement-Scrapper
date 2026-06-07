@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The sky’s the limit: shaping the UK’s digital financial future - speech by Sasha Mills",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Sasha Mills",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/january/sasha-mills-speech-at-the-tokenisation-summit",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Sasha Mills - The sky’s the limit_ shaping the UK’s digital financial future - speech by Sasha Mills.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Sasha Mills - The sky’s the limit_ shaping the UK’s digital financial future - speech by Sasha Mills.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:13:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "62b56063b8b0d1214592fa8ee2f860743fd5d600d8efadee216314d92e65c833"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Recent Views on Monetary Policy and the Economic Outlook",
+  "date_original": "2024-09-30",
+  "date_au": "30/09/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240930a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-30 - Michelle W. Bowman - Recent Views on Monetary Policy and the Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-30 - Michelle W. Bowman - Recent Views on Monetary Policy and the Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f97b6ce5af2a89d0ad8b9e777fdad28aba8015bf7163a49f616b781f8fcedbce"
+}

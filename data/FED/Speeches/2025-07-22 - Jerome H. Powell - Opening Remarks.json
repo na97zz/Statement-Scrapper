@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2025-07-22",
+  "date_au": "22/07/2025",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20250722a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-22 - Jerome H. Powell - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-22 - Jerome H. Powell - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "33c30807adf965b57252671015229638a244de6f0790766a9cb93270be47f942"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Little by Little, Progress Seems to be Resuming.",
+  "date_original": "2024-05-21",
+  "date_au": "21/05/2024",
+  "datetime_original": "",
+  "speaker": "Little, Progress Seems to be Resuming.",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240521a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-21 - Little, Progress Seems to be Resuming - Little by Little, Progress Seems to be Resuming.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-21 - Little, Progress Seems to be Resuming - Little by Little, Progress Seems to be Resuming.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8424d275fd6f2cb161b80be390488e271845b13ccf5195f5dc88cf28972c404a"
+}

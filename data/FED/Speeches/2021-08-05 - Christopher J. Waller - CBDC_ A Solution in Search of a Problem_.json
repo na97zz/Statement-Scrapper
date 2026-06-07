@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "CBDC: A Solution in Search of a Problem?",
+  "date_original": "2021-08-05",
+  "date_au": "05/08/2021",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20210805a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-08-05 - Christopher J. Waller - CBDC_ A Solution in Search of a Problem_.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-08-05 - Christopher J. Waller - CBDC_ A Solution in Search of a Problem_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1081ffc6431f6ce6f8ab73ee866f9cf318432582a5e4848c24d0d54c0f197a97"
+}

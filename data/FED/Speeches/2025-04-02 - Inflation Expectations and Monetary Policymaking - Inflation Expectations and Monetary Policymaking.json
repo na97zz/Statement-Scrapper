@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Inflation Expectations and Monetary Policymaking",
+  "date_original": "2025-04-02",
+  "date_au": "02/04/2025",
+  "datetime_original": "",
+  "speaker": "Inflation Expectations and Monetary Policymaking",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250402a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-04-02 - Inflation Expectations and Monetary Policymaking - Inflation Expectations and Monetary Policymaking.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-04-02 - Inflation Expectations and Monetary Policymaking - Inflation Expectations and Monetary Policymaking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "865109b1eb7dcd79b7c01f9b72f92959211f88511d7fca073392111e8416baa2"
+}

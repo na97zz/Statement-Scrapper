@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "'Yesterday’s logic' − speech by Nathanaël Benjamin",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Nathanaël Benjamin",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/july/nathanael-benjamin-speech-at-uk-finance-pra-2023-supervisory-priorities-for-international-banks",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Nathanaël Benjamin - 'Yesterday’s logic' − speech by Nathanaël Benjamin.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Nathanaël Benjamin - 'Yesterday’s logic' − speech by Nathanaël Benjamin.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ce3549ed02db649b23211a3ad2e3c164c9e3dfb66c694045b71b5e220e69743c"
+}

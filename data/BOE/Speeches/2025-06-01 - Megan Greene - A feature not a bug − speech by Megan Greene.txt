@@ -1,0 +1,767 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A feature not a bug − speech by Megan Greene
+DATE: 01/06/2025
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2025/june/speech-megan-greene-national-institute-of-economic-and-social-research.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+ 
+ 
+A feature not a bug − 
+speech by Megan Greene   
+Given at the National Institute of Economic and Social Research  
+24 June 2025 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech 
+Introduction 
+Many thanks for inviting me to NIESR for this speech. I have spent many hours in this 
+building, contributing to regular discussions previously as a market participant and 
+attending board meetings for Rebuilding Macroeconomics when it was based here. It’s 
+lovely to be back in this setting. 
+Social scientists like to talk about structural changes, and my speech today is no 
+exception. I’m going to use it to explore one of the most important – and often           
+overlooked - structural changes happening in macroeconomic policy at the moment: the 
+shift of central bank balance sheets towards new steady states and what this means for 
+monetary policy specifically.  
+The size and composition of central bank balance sheets can provoke “passionate 
+reactions” as Andrew Hauser, the former Executive Director of Markets at the Bank, once 
+noted (Hauser, 2019). Perhaps this is not surprising given how crucial a role the central 
+bank balance sheet plays in the functioning of our financial system and economy and how 
+dramatically various central bank balance sheets have changed over the last decade.  
+During the Global Financial Crisis, as rates fell to their effective lower bounds, major 
+central banks turned to more unconventional policy tools, such as Quantitative Easing 
+(QE), to stimulate lending and spending in the economy in order to meet their inflation 
+targets. This led to a significant expansion in many central bank balance sheets. Additional 
+shocks such as Covid prompted further rounds of asset purchases over the following 
+decade, leaving the size of balance sheets at historically elevated levels.  
+Following Covid, most major central banks began to slowly shrink their balance sheets – a 
+process known as Quantitative Tightening (QT)1 – as seen in Figure 1.  
+ 
+ 
+ 
+1 The US Federal Reserve also conducted QT from 2017-2019. 
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+Figure 1: Central bank assets as a share of national/regional GDP 
+Per cent (%) (a) 
+ 
+Source: Bloomberg Finance L.P. and Bank calculations. Latest data point is June 2025. 
+(a) Daily data has been transformed into monthly averages. 
+But how central banks have undergone the transition towards smaller balance sheets, 
+what the end states will look like, and what facilities are used to support interest rate 
+control and financial stability is not uniform. I’d like to explore some of these differences. 
+First, I aim to talk through the theory behind different end states and why many paths lead 
+to the same destination. Next, I’ll review what central banks have actually been doing, 
+focusing on the Bank of England (BoE), the European Central Bank (ECB) and the Federal 
+Reserve (Fed). To be clear, this is not an exhaustive list of central banks undergoing this 
+transition; I’ve simply chosen them for their impact on the UK economy.  
+Finally, I’d like to ask whether there are any pricing differentials that create trading 
+opportunities for banks given the differences in how the Bank of England, ECB and Fed 
+are managing their balance sheets. To be clear, I am examining this purely through the 
+lens of monetary policy implementation: do financial arbitrage opportunities impact central 
+banks’ abilities to implement monetary policy? When I refer to arbitrage today, I do not 
+mean the academic economic definition of a risk-free trade. I am referring to banks taking 
+profits from trading opportunities. 
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+At the Bank of England, the day-to-day management of the balance sheet, including the 
+design and implementation of balance sheet operations, lies with the Bank’s          
+Executive – which includes the Governor and Deputy Governors – and not the          
+Monetary Policy Committee (MPC). But our remit on the MPC is to set monetary policy to 
+“maintain price stability; and subject to that, to support the economic policy of                     
+His Majesty’s Government, including its objectives for growth and employment.”2 That 
+requires having sufficient control of instruments impacting monetary conditions – broadly 
+defined as the quantity of inside money and general level of market interest rates3 
+(hereafter referred to as ‘rate control’). These will be impacted by, among other things, 
+developments in our balance sheet and spillovers from abroad. 
+My main message today is that different end states for central bank balance sheets may, 
+at face value, create financial arbitrage opportunities for banks, but they are fairly limited. 
+Financial arbitrage opportunities present incentives for banks to participate in our facilities, 
+enhancing rather than undermining our ability to maintain rate control. This is a feature, not 
+a bug. 
+Now that I’ve given you my thesis statement, let me walk you through some of the theory 
+behind central bank balance sheet frameworks.   
+Theoretical frameworks 
+There’s an extensive body of literature detailing the theory underpinning monetary policy 
+frameworks, going back to the seminal work of William Poole (1968), in which he 
+analysed the choice central banks faced between targeting the interest rate or the supply 
+of reserves. But fear not – I won’t take you on a long journey through economic history 
+today. I’m going to draw on Annette Vissing-Jorgensen’s (2023) recent work to help 
+illustrate not only what options are available to central banks for their steady-state balance 
+sheet frameworks, but also why these different frameworks can all be effective at 
+achieving rate control.  
+The starting point here is understanding the role that central bank reserves play in the 
+financial system. Reserves are deposits that commercial banks hold at the central bank. 
+They are considered the most liquid form of money; they act as the ultimate means of 
+settlement for transactions in the economy; and they are only created by the central bank. 
+ 
+2 See Monetary policy remit: Mansion House 2024. 
+3 Principles of engagement - Governance of the Bank of England's balance sheet: principles of 
+engagement | Bank of England. In practice, the MPC intends to use Bank Rate as its active policy tool when 
+adjusting the stance of monetary policy. The parameters of the QT strategy are amended at a lower frequency 
+than decisions on Bank Rate and are not calibrated with a view to fine-tuning the monetary policy stance 
+(August 2024 Monetary Policy Report).  
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+There are three main reasons commercial banks would want – and need – to hold them 
+(Hauser, 2023). 
+First, banks are mandated to hold a certain amount of liquid assets, known as ‘High 
+Quality Liquid Assets’ (HQLA) – of which central bank reserves are one form – to ensure 
+they can meet the payment obligations created by their customers at all times. Second, 
+banks may choose to hold additional reserves to meet higher-than-expected demand, 
+including outflows in periods of stress. Third, banks may wish to hold additional reserves in 
+excess of their precautionary needs or lend them to other banks if these options are 
+financially attractive. 
+We can formalise these options in a general and simplified way using the economist’s 
+favourite tool: the supply and demand diagram - as shown in Figure 2. This figure is a 
+stylised example rather than a representation of any one central bank’s specific approach. 
+Figure 2: Stylised reserves supply and demand diagram(a) 
+ 
+(a) Note: adaptation from Visseng-Jorgensen (2023). In this chart, I have simplified such that the IOR and 
+target market interest rate effectively act as floors for the demand curve. In practice, there might be some 
+demand for reserves below the IOR from participants who are not eligible for a deposit account at the central 
+bank (so-called ‘leaky floor’). 
+The starting assumption here is that the supply of reserves and interest paid on reserves 
+(IOR) are both set exogenously by the central bank. Supply is therefore fixed and 
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+unaffected by the interest rate in this stylised framework. You can see this in Figure 2 
+represented by the straight, vertical orange lines. An expansion in the supply of reserves is 
+demonstrated by an outward shift of the supply curve – for instance, from Supply 1 to 
+Supply 2 – while a reduction in supply is represented by a movement in the opposite 
+direction. 
+The demand curve, shown in aqua, illustrates the amount of reserves demanded by 
+commercial banks at any given interest rate. The short–term market interest rate is 
+determined by the intersection of the supply and demand curves. 
+There are a couple of things to note about the demand curve. First, the level of the IOR 
+influences the level of the demand curve. Any change in the IOR leads to a vertical shift in 
+the demand curve, moving the market to a new equilibrium interest rate. For example, as 
+the IOR increases, reserves become more attractive as a store of value so the whole 
+demand curve shifts up. It is also worth noting that the spread between the IOR and the 
+market interest rate matters since it impacts the opportunity cost of holding reserves and 
+therefore influences how many reserves banks choose to hold. 
+Second, the demand curve is downward sloping in nature - as is typically the case for 
+goods, services and other assets.  As their price – or their market rate – falls, banks 
+demand more of them.  
+But there are two more specific reasons for this. First, as banks hold more reserves, the 
+convenience benefits they get from holding extra reserves – notably that they are already 
+in the form of the settlement asset, and are more convenient than monetising other, less 
+liquid assets – diminishes so they are willing to pay less of a so-called ‘convenience yield’ 
+for them. Second, as market rates go up relative to the IOR, banks face a higher 
+opportunity cost: banks benefit more from lending out funds to other banks or using them 
+to invest in other assets, rather than holding on to them in the form of reserves and 
+earning the IOR (and vice versa). 
+A final note on the demand curve is that it is non-linear. As reserves increase, the demand 
+curve becomes flatter until demand for reserves is fully satiated and the demand curve is 
+completely horizontal. Here, any change in supply has no impact on the market rate since 
+reserves are so abundant. On the other hand, as reserves become less abundant, the 
+demand curve becomes steeper and market rates become increasingly more responsive 
+to changes in supply (Afonso et al, 2024). 
+Now that we’ve covered the basics, let’s take a look at some options for a framework that 
+central banks can choose to set their market rate. Our supply and demand diagram shows 
+two distinct approaches to achieving the same target market interest rate: Point A and 
+Point B.   
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+At point A, the central bank has set a low IOR (IOR1), resulting in a low reserve demand 
+curve (Demand 1), and has chosen to supply a scarce amount of reserves. With this 
+approach, the central bank is able to create the conditions for its target market interest 
+rate. However, in committing to a scarce reserve framework, the market rate is susceptible 
+to volatility, given the equilibrium lies on the steep part of the demand curve. Here, even 
+small shifts in supply and demand can lead to a considerable change in the market interest 
+rate. 
+Alternatively, the central bank can achieve the same market interest rate at Point B. In this 
+particular regime, the central bank makes use of a higher IOR (IOR2), resulting in a higher 
+demand curve (Demand 2), and at the same time provides an abundant level of reserves. 
+As such, demand is satiated, the demand curve is relatively flat and there is little scope for 
+volatility in the market rate. The consequence of the central bank’s choices here is that 
+given its interest rate control target and its objectives, it has chosen to remunerate the 
+reserves at a higher interest rate IOR2 and consistent with that it must provide a larger 
+number of reserves. 
+The examples I’ve used – A and B – are relative extremes in regimes where central banks 
+aim to set supply and influence demand. In theory, and absent any other restrictions, the 
+central bank can achieve the same market interest rate using a plethora of combinations of 
+reserve supply and IOR. For this reason, we see a variety of different frameworks 
+implemented at different times in the real world. 
+Prior to the GFC, reserves were generally scarcer and central banks used regular open 
+market operations (OMOs) to fine tune the supply of reserves to keep short-term money 
+market rates aligned with the policy rate. Within these systems, market rates fluctuated 
+within a ‘corridor’, with facilities setting the floors – as defined by the IORs in              
+Figure 2 – and ceilings for rates. 
+The sharp economic downturn accompanying the GFC necessitated a historic reduction in 
+interest rates, and most major central banks quickly approached their effective lower 
+bounds. As a result, many central banks engaged in large-scale asset                         
+purchases – primarily government bonds – known as quantitative easing. To pay for these 
+assets, central banks created reserves. These reserves became liabilities on the central 
+bank balance sheet, mirroring the newly acquired assets - as illustrated in the stylised 
+central bank balance sheet (Figure 3) below. 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+ 
+ 
+Figure 3: Stylised central bank balance sheet (a) 
+ 
+a) Note that in this simplified illustration, assets on the RHS do not necessarily represent the backing asset 
+for the corresponding liabilities on the LHS. 
+As reserves became abundant, this pushed market rates lower. In order to effectively 
+implement monetary policy, the policy rate acted as a floor to – and target for – market 
+rates and we entered a decade where central banks used these ‘floor systems’. 
+The forceful actions taken by central banks in response to Covid expanded their balance 
+sheets further, reaching historically elevated levels. This is shown for the UK in Figure 4.  
+ 
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+Figure 4: The Bank of England’s balance sheet as a share of nominal GDP 
+Per cent (%) (a) 
+ 
+Source: Bank of England, ONS and Bank calculations. Latest data point is 2024. 
+(a) Consolidated balance sheet as a percentage of lagged nominal GDP based on GB and NI definition. 
+Data up to and including 2018 taken from “Annual data on the Bank of England’s balance sheet” dataset. 
+Data including 2019 and onwards is taken from the Bank of England’s Annual Reports and Accounts and the 
+ONS. Therefore, care should be taken when comparing over the time series.  
+Following Covid, many central banks began reducing their balance sheets. There are a 
+number of benefits to this. For example, it reduces the risk of the balance sheet ratcheting 
+higher in size, and thus increases the headroom for the central bank to be able to use its 
+balance sheet in the future if needed in support of its remit (Bailey et al., 2020). Most 
+central banks have been doing this through passive roll-off (allowing assets to come to 
+maturity without reinvesting), but the Bank of England has also engaged in active sales. 
+This is largely because the UK government bonds we purchased had, on average, a 
+longer maturity than our peers so unwinding the balance sheet by relying on passive      
+roll–off alone would have taken much longer. Passive roll-off would have also involved a 
+lumpy profile of sales, so active QT has allowed us to smoothen this out. 
+This move away from an environment of abundant reserves, which has been the status 
+quo for over a decade, represents a significant transition for central banks. And as with 
+any transition, it carries some risk.  As we get closer to the minimum level of reserves 
+required by commercial banks without causing them to bid up money market rates, central 
+banks have laid out their plans for what their respective steady-state frameworks will look 
+like. As mentioned, there is a whole range of frameworks between abundant and scarce 
+reserves that can in theory ensure effective interest rate control.  
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+But there are two main considerations central banks need to take into account when 
+determining the likely end state for their balance sheets. First, we cannot observe the 
+minimum range of reserves – known at the Bank of England as the preferred minimum 
+range of reserves (PMRR) – so while we have estimates for where it might be, these are 
+uncertain and this number changes over time.4 Second, policymakers will need to ensure 
+a new monetary framework does not jeopardise financial stability objectives. In practice, 
+this likely means not going back too far to the left in Figure 2 – into the territory of scarce 
+reserves. Put together, the optimal framework is likely to have ample reserves, but less 
+abundant than the levels observed in the period after QE (Saporta, 2025).  
+Steady-state balance sheets across Central Banks 
+With some theory under our belts, I’d like to explore how central banks have been 
+transitioning to their new steady states and what steady-state frameworks they’ve chosen. 
+I’ll focus on three major central banks – the Bank of England, the ECB and the Fed. 
+Figure 5 outlines the journeys and destinations for these three central banks. As you can 
+see, the Bank of England and ECB have chosen relatively similar steady-state frameworks 
+– with a demand-driven floor – while the Fed has opted for a supply–driven framework. I’ll 
+briefly outline each of these frameworks in turn and how they can ultimately help to 
+achieve similar interest rate outcomes, starting with the Bank’s. 
+Figure 5: An overview of current QT policy settings across major central banks(a) 
+ 
+ 
+(a) BoE current pace assumes even distribution of the Sep 2024 – Sep 2025 £100bn envelope across 
+quarters for simplification.  
+Sources: Bank of England, Federal Reserve, European Central Bank. 
+ 
+4 The latest survey conducted asking banks what their preferred minimum range of reserves is suggests that 
+the PMRR is £385-540bn, marginally higher than £385-530bn in Q3 2024 (Saporta, 2025) 
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+The Bank of England 
+The Bank of England began passively unwinding its balance sheet in early 2022 before 
+also actively selling gilts later that year.  
+As reserves become scarcer, the risk of volatility in short term market rates rises, as I 
+outlined earlier. To avoid this, the Bank introduced the Short-Term Repo facility (STR). 
+This repo facility allows commercial banks to borrow an unlimited amount of reserves at 
+Bank Rate for a 7-day term. In exchange, they must offer up high-quality collateral (such 
+as Gilts), using this to bid on reserves at weekly auctions.5 This facility ensures that money 
+market rates do not rise too far above Bank Rate, since banks could then borrow reserves 
+at cheaper rates from the Bank than in the market. Another repo facility, the Indexed   
+Long-Term Repo Facility (ILTR),6 will play an increasing role to complement the STR in 
+providing the stock of reserves. 
+In practice, this requires operational readiness of the Bank and commercial banks to 
+ensure these facilities are used effectively and seamlessly. Indeed, the increasing usage 
+of repo facilities over the past year as money market rates have stayed relatively close to 
+Bank Rate, as is shown in Figure 6, goes some way to demonstrating this is the case.  
+As QT reduces reserves, the Bank expects a growing share of reserves to be backed by 
+its repo operations. Once reserves fall to the level of banks’ “true” demand – the so–called 
+PMRR – we expect banks – in aggregate – to replace any reserves lost due to the 
+unwinding of QE and TFSME7 roll–off by participating in our repo operations. At that point, 
+the aggregate quantity of reserves will be repo-led and demand-driven. The Bank’s regular 
+repo facilities will help to ensure short-term market interest rates remain aligned to Bank 
+Rate, maintaining the effective transmission of monetary policy. 
+ 
+ 
+ 
+ 
+ 
+ 
+5 A haircut applies to this collateral, so the effective rate paid on the facility is slightly above Bank Rate. 
+Borrowed reserves are then paid back a week later and the collateral is returned. 
+6 For more detail, see Using the ILTR: a guide for participants (June 2025). 
+7 Term Funding Scheme with additional incentives for SMEs (TFSME) was a scheme introduced during the 
+Covid crisis, which offered four-year funding at or very close to Bank Rate to eligible banks and building 
+societies to reinforce the transmission of the reduction in Bank Rate and support lending to the real economy, 
+particularly to SMEs.   
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+Figure 6: STR and ILTR usage (LHS) & Overnight secured and unsecured rates as 
+spreads to Bank Rate (RHS)  
+£ billions (a)                                                   
+ 
+Basis points (b)                                                      
+ 
+Source: Bank of England, Bloomberg Finance L.P. and Bank calculations. Latest data point is 19/06/2025. 
+(a) LHS shows stock outstanding. 
+(b) Prior to 2006, the Bank ran an operationally intensive framework of multiple daily operations to supply a 
+small number of large commercial banks with just enough reserves to settle intra-day payments and the 
+overall supply of reserves was extremely low compared to today. In 2006, the framework of reserves 
+averaging was introduced by the Bank. In this framework, the Bank started to pay interest on reserves, which 
+incentivised banks to hold positive reserve balances. As well as this, this framework had two main elements: 
+voluntary reserves targets set by participants themselves, and weekly lending operations. (Saporta, 2025). 
+Spread is calculated as RONIA or SONIA minus Bank Rate. 
+The ECB 
+The ECB began shrinking its balance sheet in 2022, later than the Bank of England but the 
+pace has been swift. 
+The ECB has taken a passive approach to QT, allowing expired holdings to roll off across 
+its QE portfolios including the Asset Purchase Programme (APP)8 and the Pandemic 
+Emergency Purchase Programme (PEPP). Despite these reductions in the ECB’s QT 
+portfolios, the majority of the roll-off in the balance sheet has so far stemmed from 
+repayments of the ECB's targeted longer-term refinancing operations (TLTROs) – see 
+Figure 7. 
+ 
+8 Consists of four separate programmes: the Corporate Sector Purchase Programme (CSPP), Public Sector 
+Purchase Programme (PSPP), Asset-Backed Securities Programme (ABSPP) and Third Covered Bond 
+Purchase Programme (CB3PP3). 
+
+
+Bank of England  
+ 
+ Page 13 
+ 
+Figure 7: TLTRO III repayments lead the ECB’s balance sheet unwind 
+€ billions (a) 
+ 
+Source: European Central Bank and Bank calculations. Latest data point is May 2025. 
+(a) TLTRO is Targeted Longer-term Refinancing Operations; PEPP is the Pandemic Emergency Purchase 
+Programme; and APP is Asset Purchase Programmes. 
+Policymakers have highlighted that even with balance sheet roll offs, liquidity remains 
+ample in the eurozone for the time being (Schnabel, 2024). 
+In order to keep control of money market rates, the ECB aims to transition in a           
+“measured and predictable way” (Cipollone, 2025) to a demand-driven system9 with a soft 
+floor in steady state, whereby the marginal unit of reserves is supplied by standard 
+refinancing operations. Within this framework, in a similar spirit to the Bank, the ECB uses 
+a variety of facilities to keep money market rates anchored to its target rate (the Deposit 
+Facility Rate), including the Main Refinancing Operations (MRO) and Marginal Lending 
+Facility (MLF)10 – see Figure 8.   
+ 
+ 
+ 
+9 As characterised by Schnabel (2024).  
+10 Looking further out, the ECB plans to introduce structural longer-term credit operations and a structural 
+portfolio of securities (Buch and Schnabel, 2025). 
+
+
+Bank of England  
+ 
+ Page 14 
+ 
+Figure 8: Euro area money market rates (LHS) and DFR-Euro-STR spread (RHS)   
+   Per cent(a)                                                                              Basis points(b)                                               
+ 
+Source: European Central Bank and Bank calculations. Latest data point is for 20/06/2025 for Euro-STR and 
+23/06/2025 for all other rates. 
+(a) MLF is the Marginal Lending Facility rate; MRO is the Main Refinancing Operations rate; DFR is the 
+Deposit Facility Rate. The Euro Short-Term rate replaced the Euro Overnight Index Average (EONIA), 
+which was discontinued on 3 January 2022. 
+(b) Spread is calculated as Deposit Facility Rate minus Euro-Short Term Rate. 
+While these facilities have existed in previous regimes too, one of the main changes in this 
+new system – and what differentiates this system from the Bank’s steady–state             
+demand-driven framework – is the pricing of standing weekly repo facilities. The ECB 
+prices both its short-term (MRO) and long–term repo (LTRO) at the same rate, currently 
+15bps above the deposit rate,11 and the pricing does not depend on the collateral posted. 
+In contrast, the Bank prices its short–term repo (STR) at the policy rate, with a haircut 
+applied to collateral, but allows the price of the longer-term repo (ILTR) to be set higher 
+depending on how much participants bid and what collateral they post.12  
+The Federal Reserve 
+The Fed was the first amongst these three central banks to shrink its balance sheet via 
+passive roll–off from 2017, though this was halted after volatility in money markets in 2019. 
+The current round of normalisation began in June 2022, though the pace of passive 
+ 
+11 The ECB has reduced the spread on its MROs from 50bps to 15bps as it wants to incentivise greater 
+usage of these weekly operations, while limiting volatility in short-term money market rates. At the same 
+time, the ECB argues that a spread of 15bps will leave room for money market activity and provide 
+incentives for banks to seek market-based funding solutions.  
+12 The ECB supplies reserves at a constant price (15bps above deposit rate) and does not depend on 
+collateral (not accounting for haircuts). The BoE STR also supplies reserves at a constant price (Bank Rate, 
+ignoring the haircut on collateral) but only Level A collateral is eligible. Meanwhile, supply in the ILTR will 
+vary with demand and with the type of collateral – with level A and B starting below the ECB price, and Level 
+C at 15bps.  
+
+
+Bank of England  
+ 
+ Page 15 
+ 
+unwind has since been adjusted lower as the Fed approaches the level of reserves it 
+intends to supply in its supply-driven framework.13 As the Fed's security holdings (the aqua 
+line in Figure 9) decline, the Overnight Reverse Repo (ONRRP) has accounted for the bulk 
+of the shrinkage in Fed liabilities, unsurprising given these are the most rate–sensitive 
+funds and the facility is intended as a backstop tool (Logan, 2024).  
+Figure 9: The ONRRP has borne the brunt of the Fed’s balance sheet unwind  
+Change in $ billions(a) 
+ 
+Source: FRED and Bank calculations. Latest data point is for 11/06/2025. 
+(a) ONRRP is the Fed’s Overnight Reverse Repo Facility; TGA is the Treasury General Account. 
+Unlike the BoE and ECB, which target policy rates, the Fed explicitly specifies a target 
+range, rather than a single rate known as the Effective Federal Funds Rate. To keep the 
+Effective Federal Funds Rate within a controlled channel, it uses Interest on Reserve 
+Balances (IORB) to act as a floor for market rates.  
+Admittedly, these market rates have fallen more markedly below the IORB during periods 
+when liquidity has increased to excessive levels, as shown by the spread between the 
+Effective Federal Funds Rate and the IORB in Figure 10. This is often attributed partly to 
+the presence of significant lenders who cannot earn IORB on their balances at the central 
+bank and so are willing to lend reserves at a lower rate than the IORB.14  
+ 
+13 $60bn per month initially before slowing to $25bn per month and now to $5bn per month from April 2025. 
+14 Entities that are not depository institutions ie, banks, typically cannot access IORB. This includes Federal 
+Home Loan Banks, money market mutual funds and Government Sponsored Enterprises. This constitutes a 
+“leakage” in the system. Therefore, the ONRRP, which qualified firms can utilise, makes use of a rate slightly 
+below the IORB (Chien and Stewart, 2024) and ensures that money market rates do not consistently fall 
+10bps below the IORB (Afonso et al., 2022). 
+
+
+Bank of England  
+ 
+ Page 16 
+ 
+To reinforce the IORB as a floor, the Fed introduced the Overnight Reverse Repo 
+(ONRRP), which is set at a slightly lower rate and open to a broader set of counterparties 
+beyond depository institutions. This effectively acts as a backstop to ensure that rates do 
+not fall too far below the IORB in periods where there is excessive liquidity. This ‘corridor’ 
+between the IORB and ONRRP rates allows the Fed to manage day to day fluctuations in 
+the Federal Funds market.  
+Finally, the Fed uses a Standing Repo Facility (SRF) to supply liquidity to prevent market 
+rates going too high – effectively acting as a cap of sorts as institutions can always borrow 
+cash from the Fed at that rate.15 Banks can also access liquidity from the discount window, 
+though use of this facility has a stigma attached to it.16 
+Figure 10: US money market rates (LHS) and EFFR-IORB spread (RHS) 
+Per cent (%)                                                  Basis points(b) 
+  
+ 
+Source: FRED and Bank calculations. Latest data point is for 17/06/2025. 
+(a) EFFR is the Effective Federal Funds Rate; IORB is the Interest on Reserve Balances; and ONRRP is the 
+Overnight Reverse Repo Rate. The IORB replaced two separate rates on 29 July 2021 – namely, the 
+Interest on Excess Reserves and the Interest on Required Reserve Balances.  
+(b) Spread is calculated as the Interest on Reserves Balance Rate minus the Effective Federal Funds Rate. 
+ 
+15 The minimum bid rate for the SRF is currently set at 4.5%, which is equal to the top of the FOMC's target 
+range for the Effective Federal Funds Rate (for more, see FAQs: Standing Repo Facility). Eligible collateral 
+includes US Treasuries, agency debt and agency mortgage-backed securities, with a range of haircuts applied 
+to collateral (for more, see Repo Securities Schedule). 
+16 The pricing and terms for the Fed's Discount Window varies by the lending program in question: the Primary 
+Credit program is available to "generally sound depository institutions" at a rate equal to the top of the FOMC 
+target range for the Effective Federal Funds Rate. The Secondary Credit program is available for depository 
+institutions that do not qualify for primary credit and is priced at the primary credit rate plus 50bp (for more, 
+see The Primary and Secondary Lending Programs). The range of eligible collateral for the discount window 
+is wider than the SRF, with higher haircuts applied to most forms of collateral under the Secondary Credit 
+program (for more, see Collateral Valuation). 
+
+
+Bank of England  
+ 
+ Page 17 
+ 
+In steady state, the Fed aims to supply an ample level of reserves somewhere between an 
+abundant level of reserves and the level demanded by counterparties. Reserves supplied 
+above what the system needs implies that the Fed will remain on the relatively flat part of 
+the reserves demand curve (Figure 2). In theory, this means money market rates should 
+be within the FOMC’s target range without the need for regular use of central bank liquidity 
+facilities to actively manage reserve supply. Still, the SRF and discount window are in 
+place as a release valve for when there are pockets of illiquidity in markets (Logan, 2025). 
+This is different from the Bank and the ECB, for which these ceiling tools are intended to 
+be used for regular liquidity management. 
+Implications for financial arbitrage and monetary policy 
+So far, I’ve discussed the different approaches to balance sheet normalisation being taken 
+by the Bank of England, ECB and Fed. In steady state, these major central banks will offer 
+lending facilities to market participants that operate differently.  
+A natural question therefore is whether this generates price differentials across markets 
+that create trading opportunities for global banks operating in all these jurisdictions? I am 
+referring to these opportunities here as arbitrage. If there are arbitrage opportunities, do I 
+need to care as a member of the MPC; does this have implications for monetary policy 
+implementation?  
+In short, the scope for arbitrage exists but appears limited. Most importantly, it doesn’t 
+undermine monetary policy implementation, but rather strengthens it.   
+I’ll begin by considering why one might think the transition away from abundant reserves to 
+new regimes may bring more arbitrage opportunities.  
+First, there are more tools and facilities being introduced by central banks in demand-
+driven systems. In these systems, banks operating in different jurisdictions will need to 
+directly access facilities operated by multiple central banks, and these will have different 
+pricing and eligibility requirements. This may, in turn, create opportunities for some form of 
+arbitrage.  
+For example, the Bank and the ECB both intend for their market-wide repo facilities to be 
+used as part of regular liquidity management, but they are priced differently. The BoE’s 
+STR is priced at Bank Rate – with an estimated all-in cost of around 5-10bps above Bank 
+Rate once one accounts for the cost of haircuts on collateral (Saporta, 2025) – while its 
+longer-term facility has pricing that will vary according to demand. The ECB prices both its 
+
+
+Bank of England  
+ 
+ Page 18 
+ 
+short and long-term repo at 15bps above the deposit rate – and with different collateral 
+eligibility to the BoE.17  
+These discrepancies in pricing could in theory create an opportunity for global banks, 
+present in both markets, to benefit through trades – making use of multiple central bank 
+facilities. The potential for these mismatches may also be higher since there is likely to be 
+greater volatility in money market rates given liquidity needs will need to be more actively 
+managed rather than satiated by an abundance of reserves.  
+Second, different choices in frameworks for managing money market rates will also result 
+in differences in pricing. Once all systems are in steady state, the theory would suggest 
+that we’re likely to see short-term market rates as a spread to the policy rate settle 
+differently depending on whether the supply of reserves is lower or higher. Indeed, this is 
+illustrated by points A and B in Figure 2, which show that – for a given set of             
+assumptions – the IOR set by central banks would be higher relative to the policy rate in a 
+system with more abundant reserves versus one with less abundant reserves. 
+A global bank could, at face value, trade fluctuations in the differential between these two 
+spreads created by different systems. For example, if there were a shock causing euro 
+area money market rates to fall significantly below the ECB’s deposit rate, a tactical 
+arbitrage opportunity could arise. The bank could borrow at the more favourable euro area 
+money market rate, convert this into sterling via FX swaps, hedge the FX market risk, and 
+then place this money into a reserves account at the Bank of England to earn interest at 
+Bank Rate.  
+These are some ways in which arbitrage opportunities might emerge. Now I will lay out 
+why, both in theory and in practice, these opportunities for arbitrage are not new per se, 
+will likely be limited in scope and actually act as a feature in supporting rate control.  
+Arbitrage is an intrinsic and essential part of financial markets generally: it’s what ensures 
+assets are priced fairly and efficiently. And while frictions – such as some forms of 
+regulation and transaction costs – mean that prices of assets may not perfectly adjust to 
+what might be considered their ‘fair value’, financial markets are generally effective in 
+reflecting the latest and most full set of information, correcting what might be considered 
+‘mispricing’ over the medium–term.  
+Opportunities for arbitrage exist across all asset classes, and also across central bank 
+facilities. This could be one reason hedge funds have played an increasingly prominent 
+role in QE and QT auctions in the UK (Kaminska et al., 2025) as they intermediate 
+secondary bond markets – a trend that is visible across all major sovereign bond markets.  
+ 
+17 See footnote 12 for more detail. 
+
+
+Bank of England  
+ 
+ Page 19 
+ 
+I also note that firms have always benefited from different pricing across jurisdictions, 
+including in the recent period of abundant reserves. After all, they can earn interest by 
+holding reserves at central banks, so global banks have an incentive to move cash to take 
+profits on their location whenever a profitable FX basis arises between sterling, the US 
+dollar and the euro. If it’s profitable to shift money18 across jurisdictions once accounting 
+for the cost of exchanging and hedging the currencies and other constraints (such as 
+regulation or stigma), banks will do so. It’s very difficult to disentangle this in the data and 
+provide specific evidence, but we should assume that if banks have an opportunity to 
+make an attractive risk-adjusted return, they are likely to embrace it.  
+Still, opportunities for arbitrage are limited. If pricing differentials created opportunities 
+across jurisdictions that led to firms swapping currencies to take advantage of this, one 
+would expect exchange rate markets to adjust and remove this opportunity. In essence, 
+this is macro 101: according to the covered interest rate parity condition (CIP), forward 
+exchange rates adjust to remove the potential for arbitrage. If it were still profitable for a 
+bank to take advantage of pricing in another jurisdiction’s central bank facilities, even after 
+accounting for exchange rate differentials, then one would expect the relative cost of 
+borrowing and lending currencies – known as cross-currency basis – to adjust and act as a 
+secondary means of absorbing any return. 
+Admittedly, frictions and regulatory frameworks in these markets may prevent this 
+adjustment from being immediate or full, but they should reduce the opportunity for 
+arbitrage and ensure that deviations of exchange rates from the standard CIP framework 
+are temporary and therefore not relevant for me as a monetary policymaker with a 
+medium-term time horizon.  
+Nuances underlying the headline pricing of different central bank facilities may also limit 
+the scope for arbitrage. For instance, the different haircuts applied to collateral used in 
+these facilities may outweigh the differences in the effective cost of using different 
+facilities. And, looking ahead, it is worth noting that the pricing of and eligibility for these 
+facilities could change in the future. After all, this pricing is currently calibrated to the 
+current state of transition and could change once central banks reach their desired steady 
+states. Indeed, as my colleague Vicky Saporta (2025) set out recently in the context of 
+our own approach, central banks are likely to learn by doing. Therefore, the scope and 
+magnitude for arbitrage opportunities might change in the future.  
+Finally, the willingness of banks to identify and act on pricing differentials is a feature of 
+our system, not a bug.  
+After all, the usage of our facilities – whether it be for arbitrage opportunities or for other 
+liquidity purposes – is crucial for controlling rates in short–term money markets and 
+ 
+18 Note: we are not referring here to reserves, which cannot be shifted between central banks. 
+
+
+Bank of England  
+ 
+ Page 20 
+ 
+ensuring that they do not drift too far from the policy rate. Floor and corridor systems only 
+work because central bank facilities provide incentives for banks to participate in them as 
+part of the money market – and the presence of arbitrage opportunities can provide one 
+such incentive. 
+This control of short-term rates is essential in ensuring the transmission of monetary policy 
+is not distorted and can be used effectively to ensure price stability, which is my primary 
+objective as an MPC member. This is especially important in the current context, since it 
+ensures we can continue to undergo QT without the risk of losing monetary control on the 
+way to and after the PMRR is reached.  
+The recent experience in the UK provides me with additional confidence that monetary 
+policy implementation should be unaffected by this going forward. After all, there has been 
+a welcome reduction in stigma associated with our repo facilities and a pickup in their 
+usage; our facilities are very much “open for business”. Money market rates have been 
+relatively contained, with limited volatility and no obvious distortions in relative pricing 
+across jurisdictions.  
+All of this leaves me with the space to focus on being able to set monetary policy – which 
+is all the better since there’s plenty to think about on that front at the moment too.  
+Monetary policy views 
+There is a significant amount of uncertainty both domestically and globally, and we’ve 
+used scenarios to help us think through risks around our outlook. I’d like to take a few 
+minutes to discuss what I think the key risks are. 
+The main messages for me remain the same: underlying activity is weak, the labour 
+market has loosened further and the disinflationary process continues, albeit with an 
+elevated plateau of inflation around 3.5% for the second half of this year. 
+I’m worried about both the demand and the supply sides of the economy. On the demand 
+side, we assume a recovery in output to nearly 2% over the forecast period, driven by a 
+pick-up in consumption and corresponding fall in the savings ratio. I’m not sure this will 
+materialise. As I set out in a previous speech (Greene, 2024), mortgages resetting at 
+higher rates are likely to continue to weigh on consumption even as interest rates are on a 
+downward trajectory. And I expect precautionary savings will rise – not drop – as the 
+labour market softens further. All else equal, this would be disinflationary. 
+On the supply side, both headline and underlying productivity growth have fallen 
+considerably. We expect a sharp recovery in productivity growth over the forecast period, 
+almost back to the 1% trend. I believe the risks to this are firmly to the downside. This 
+could be exacerbated by recent trade policy developments. Trade policy uncertainty is 
+
+
+Bank of England  
+ 
+ Page 21 
+ 
+likely to remain a drag on business investment for some time to come as firms delay    
+long-term decisions about capital allocation. Supply chain disruptions from tariffs could 
+also serve as a negative supply shock. All else equal, these developments would be 
+inflationary. 
+But trade policy could be disinflationary as well. Since the Liberation Day turbulence last 
+round, signals on trade policy have broadly been positive, including UK trade deals with 
+the US and India (and an agreement for closer cooperation with the EU) and a skeleton for 
+a US-China trade deal. Still, if countries can no longer export to the US market as 
+profitably because of US tariffs, they might seek to drop prices for goods exports to gain 
+access to other markets, such as the UK. So far there is nascent evidence of trade 
+diversion or re-routing from China, with goods export volumes to the US falling from April 
+2025 but rising to the UK, EU and particularly to ASEAN. Trade uncertainty has fallen back 
+from April to May in line with our expectations, but I don’t think we realistically have much 
+more certainty about trade policy now than we did in May. I still expect trade policy to have 
+a net disinflationary impact on the UK, but it may be muted relative to my expectations in 
+May, when it was a factor in my decision to cut Bank Rate.  
+Meanwhile, the labour market has eased roughly in line with our expectations. A margin of 
+slack seems to have opened up, with vacancies dropping materially in the latest print by 
+7.9% and the unemployment rate picking up – as expected – to 4.6%. Additionally, we saw 
+the largest monthly fall in payrolls data in April 2025 in almost five years. But given the 
+ONS’s advice to view these estimates with caution, I place more weight on our own 
+estimate of underlying employment growth, which points to stagnation in hiring rather than 
+contraction. The corresponding picture on pay is somewhat more nuanced: so far pay 
+settlements have come in between 3-4%, in line with the steer we are taking from the 
+Agents’ pay survey and the Decision Maker Panel (DMP) for 2025. Overall, I think the 
+evidence points to a slowly softening labour market rather than one that is sharply 
+deteriorating. 
+Finally, I worry about the near-term profile for inflation this year, which in my view now 
+resembles more of a “plateau” than a “hump”. We expect inflation to resume its fall 
+towards our target from early next year. However, there is a risk that elevated inflation of 
+roughly 3.5% the rest of this year will feed through into inflation expectations, and 
+therefore wage and price setting behaviour. Aside from energy and regulated prices 
+buoying inflation, food prices have surprised consistently to the upside. Energy and food 
+prices are particularly salient for inflation expectation setting. Household inflation 
+expectations have been rising for months and are at the upper end of the band we might 
+expect given consumer prices. Business expectations are also elevated but are less      
+out-of-line with the past. I think the risk that our near-term plateau in inflation feeds through 
+into second round effects is skewed to the upside. This is even more a concern in light of 
+the escalating conflict in the Middle East, which poses upside risks to oil prices. 
+
+
+Bank of England  
+ 
+ Page 22 
+ 
+So where does this leave me on the balance of risks? I continue to think the risks remain 
+two-sided but skewed to the downside on growth and to the upside on inflation. This is an 
+uncomfortable place to be for a central banker. Given the period of elevated inflation 
+through which we have just come, I think price stability is the key priority. But extracting a 
+clear signal on this amongst increased noise and uncertainty is difficult. On the domestic 
+front, noisy data means that it will take longer for me to take comfort from recent 
+disinflationary trends. On the global front, there are a number of key events playing out 
+between now and our next meeting, including the deadline for the pause on so-called 
+“reciprocal tariffs” from the US, the potential passage of a budget in the US and the 
+unfolding of events in the Middle East. It’s unlikely that the uncertainty from these     
+events – and subsequent developments – will be resolved any time soon. I therefore think 
+a careful and gradual approach to removing monetary policy restrictiveness continues to 
+be warranted. 
+ 
+The views expressed in this speech are not necessarily those of the Bank of England or 
+the Monetary Policy Committee. All omissions and errors are my own. 
+ 
+Acknowledgements 
+I would like to thank Amarjot Sidhu, Waris Panjwani and Emma Hatwell for their help in the 
+preparation of this speech. I’d also like to thank Andrew Bailey, Huw Pill, Victoria Saporta, 
+Dave Ramsden, Martin Seneca, Tom Pattie, Johnny Elliot, Arif Merali, Matt Roberts–Sklar, 
+Michael McLeay, Finn Meinecke, Grainne McGread, Benjamin Baker, Oscar Pedreira 
+Sanchez, Andrew Butcher, Olga Turko, Natalie Burr, Shiv Chowla, Jack Worlidge,      
+Daniel Beale, Rand Fakhoury, and Daire MacFadden for their thoughtful comments and 
+help with data and analysis.

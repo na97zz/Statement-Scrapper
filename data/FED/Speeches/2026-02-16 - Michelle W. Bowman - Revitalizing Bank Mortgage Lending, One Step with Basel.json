@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Revitalizing Bank Mortgage Lending, One Step with Basel",
+  "date_original": "2026-02-16",
+  "date_au": "16/02/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260216a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-02-16 - Michelle W. Bowman - Revitalizing Bank Mortgage Lending, One Step with Basel.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-02-16 - Michelle W. Bowman - Revitalizing Bank Mortgage Lending, One Step with Basel.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "37ad5115957d0b5b7adb8593c4bfc8f42c4098897744cf8a185e32f8544f294c"
+}

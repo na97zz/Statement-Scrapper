@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Inflation persistence and monetary policy − speech by Huw Pill",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Huw Pill",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/april/huw-pill-speech-at-the-international-centre-for-monetary-and-banking-studies-public-lecture",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Huw Pill - Inflation persistence and monetary policy − speech by Huw Pill.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Huw Pill - Inflation persistence and monetary policy − speech by Huw Pill.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3c2ecca90b447741c376df09b79a4d1f793986c9fc5ea42676bee19dfdc05ee3"
+}

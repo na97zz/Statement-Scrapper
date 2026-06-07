@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Normalising monetary policy in non-normal times",
+  "date_original": "2022-05-25",
+  "date_au": "25/05/2022",
+  "datetime_original": "",
+  "speaker": "Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220525~eef274e856.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-05-25 - Fabio Panetta - Normalising monetary policy in non-normal times.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-05-25 - Fabio Panetta - Normalising monetary policy in non-normal times.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7691aa9c7fd212415b10a89b5bb85c578c76b280400e9d43867d573520e77998"
+}

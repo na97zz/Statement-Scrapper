@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - May 2023",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2023/may/monetary-policy-report-may-2023.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2023-06-01 - Monetary Policy Report - May 2023.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2023-06-01 - Monetary Policy Report - May 2023.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:55:12",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2023/may-2023",
+  "content_sha256": "53c965e06f9753ce9bf2615b31d4b51e0bc3290eef6f3ea77ede9c83338aea7e"
+}

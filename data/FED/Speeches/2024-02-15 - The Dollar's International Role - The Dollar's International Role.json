@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Dollar's International Role",
+  "date_original": "2024-02-15",
+  "date_au": "15/02/2024",
+  "datetime_original": "",
+  "speaker": "The Dollar's International Role",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240215a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-15 - The Dollar's International Role - The Dollar's International Role.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-15 - The Dollar's International Role - The Dollar's International Role.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "74cef70a0ecc4f9ad50cd40f15b3bcd0c9f6d529d89740862e4e4cd255751e4b"
+}

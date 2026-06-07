@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - November 2024",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2024/november/monetary-policy-report-november-2024.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2024-06-01 - Monetary Policy Report - November 2024.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2024-06-01 - Monetary Policy Report - November 2024.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:54:50",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2024/november-2024",
+  "content_sha256": "bc35ba8c378899be4e3cdb50808cd4b8be415fd6abe3e27d6c2d04b0dae75620"
+}

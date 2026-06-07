@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The outlook for inflation and monetary policy - speech by Michael Saunders",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Michael Saunders",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/december/michael-saunders-speech-at-a-boe-hosted-event",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Michael Saunders - The outlook for inflation and monetary policy - speech by Michael Saunders.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Michael Saunders - The outlook for inflation and monetary policy - speech by Michael Saunders.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1d618a1aa376cdf951ba0751e38263f62a59fd7ea0a0a7f5c748e96ecb32d6d7"
+}

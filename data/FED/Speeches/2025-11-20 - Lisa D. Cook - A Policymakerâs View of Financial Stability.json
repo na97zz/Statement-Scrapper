@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Policymakerâs View of Financial Stability",
+  "date_original": "2025-11-20",
+  "date_au": "20/11/2025",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20251120a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-11-20 - Lisa D. Cook - A Policymakerâs View of Financial Stability.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-11-20 - Lisa D. Cook - A Policymakerâs View of Financial Stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "45badfbd1634cbfbfa088be512f4fbb87c56e602ddb041e485f4bf28f0cdebf0"
+}

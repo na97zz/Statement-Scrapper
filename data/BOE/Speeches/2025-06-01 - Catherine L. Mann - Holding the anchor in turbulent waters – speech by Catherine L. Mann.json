@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Holding the anchor in turbulent waters – speech by Catherine L. Mann",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Catherine L. Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/march/catherine-l-mann-keynote-lecture-reserve-bank-of-new-zealand-research-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Catherine L. Mann - Holding the anchor in turbulent waters – speech by Catherine L. Mann.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Catherine L. Mann - Holding the anchor in turbulent waters – speech by Catherine L. Mann.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:13:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cba68e5268e48d5f4817d287ae37b28a8b5959eca769bc979b11e76e664e9771"
+}

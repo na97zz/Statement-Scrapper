@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Letâs Get On with It",
+  "date_original": "2025-08-28",
+  "date_au": "28/08/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250828a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-28 - Christopher J. Waller - Letâs Get On with It.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-28 - Christopher J. Waller - Letâs Get On with It.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7f3727c262b6308c2b68495c7277d24b14fdcec6945bce31ba382539b547d662"
+}

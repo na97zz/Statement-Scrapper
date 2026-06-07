@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The Great Moderation 20 years on – and beyond – speech by Catherine L. Mann",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Catherine L. Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/september/policy-spillovers-speech-by-catherine-mann.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Catherine L. Mann - The Great Moderation 20 years on – and beyond – speech by Catherine L. Mann.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Catherine L. Mann - The Great Moderation 20 years on – and beyond – speech by Catherine L. Mann.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:04",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2024/november/catherine-l-mann-society-of-professional-economists-annual-conference",
+  "content_sha256": "5360d31f912c9c5c43ccb375733e24e75573321cc0da8ab069606a726d484027"
+}

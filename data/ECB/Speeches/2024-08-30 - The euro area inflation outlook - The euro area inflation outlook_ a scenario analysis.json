@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The euro area inflation outlook: a scenario analysis",
+  "date_original": "2024-08-30",
+  "date_au": "30/08/2024",
+  "datetime_original": "",
+  "speaker": "The euro area inflation outlook",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240830~ef0af8d7cc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-08-30 - The euro area inflation outlook - The euro area inflation outlook_ a scenario analysis.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-08-30 - The euro area inflation outlook - The euro area inflation outlook_ a scenario analysis.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "846b1f9ba5cc4dcad58a03a05f8d91b0cd3de19929ea8b81bb3183cea53ec8cd"
+}

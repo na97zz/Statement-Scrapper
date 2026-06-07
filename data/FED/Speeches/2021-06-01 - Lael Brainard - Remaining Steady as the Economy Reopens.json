@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Remaining Steady as the Economy Reopens",
+  "date_original": "2021-06-01",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210601a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-06-01 - Lael Brainard - Remaining Steady as the Economy Reopens.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-06-01 - Lael Brainard - Remaining Steady as the Economy Reopens.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1d67d6abb2d7cd0ef82690c479f826b614a23bf5fb7431f95a1909bb73039e72"
+}

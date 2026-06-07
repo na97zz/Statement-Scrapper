@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook",
+  "date_original": "2021-11-19",
+  "date_au": "19/11/2021",
+  "datetime_original": "",
+  "speaker": "Economic Outlook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20211119a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-11-19 - Economic Outlook - Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-11-19 - Economic Outlook - Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "532fa6d5d1443fa46818dc5e30c646edafc1364fa1c8de6b22fced33512bb7cc"
+}

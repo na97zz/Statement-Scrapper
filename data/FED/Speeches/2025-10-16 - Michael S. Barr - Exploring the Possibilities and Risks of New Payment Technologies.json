@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Exploring the Possibilities and Risks of New Payment Technologies",
+  "date_original": "2025-10-16",
+  "date_au": "16/10/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20251016a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-16 - Michael S. Barr - Exploring the Possibilities and Risks of New Payment Technologies.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-16 - Michael S. Barr - Exploring the Possibilities and Risks of New Payment Technologies.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a3329471d0b5f0af6660fbe30a9c98d9ad55c5b0af275f22a35390045d59c05d"
+}

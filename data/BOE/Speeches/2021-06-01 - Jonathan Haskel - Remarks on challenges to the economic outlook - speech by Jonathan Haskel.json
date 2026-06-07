@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Remarks on challenges to the economic outlook - speech by Jonathan Haskel",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Jonathan Haskel",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/march/remarks-on-challenges-to-the-economic-outlook-speech-by-jonathan-haskel.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Jonathan Haskel - Remarks on challenges to the economic outlook - speech by Jonathan Haskel.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Jonathan Haskel - Remarks on challenges to the economic outlook - speech by Jonathan Haskel.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:19",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/march/jonathan-haskel-panellist-at-the-centre-for-economic-policy-research-webinar",
+  "content_sha256": "b45bbd0bac11c1c564b8d62bea5b40cfcc1aa6a2467fddc6f70254beba7bf46a"
+}

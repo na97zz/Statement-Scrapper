@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "A European perspective on currency and convergence",
+  "date_original": "2026-06-02",
+  "date_au": "02/06/2026",
+  "datetime_original": "",
+  "speaker": "Boris Vujčić, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260602~101b71c594.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-06-02 - Boris Vujčić, Vice - A European perspective on currency and convergence.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-06-02 - Boris Vujčić, Vice - A European perspective on currency and convergence.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:11:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5a6aadedd35dcf919e68f9f3531ed72dd018ed7ff85a973e5480df880602130"
+}

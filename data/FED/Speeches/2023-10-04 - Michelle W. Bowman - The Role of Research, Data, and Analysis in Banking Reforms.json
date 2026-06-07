@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Role of Research, Data, and Analysis in Banking Reforms",
+  "date_original": "2023-10-04",
+  "date_au": "04/10/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20231004a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-04 - Michelle W. Bowman - The Role of Research, Data, and Analysis in Banking Reforms.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-04 - Michelle W. Bowman - The Role of Research, Data, and Analysis in Banking Reforms.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "27f095f336f80637d5063882f921a38b9a413e445bcba5d21efdf9178354a54f"
+}

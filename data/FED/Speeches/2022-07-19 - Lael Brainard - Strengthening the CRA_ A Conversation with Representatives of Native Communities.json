@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Strengthening the CRA: A Conversation with Representatives of Native Communities",
+  "date_original": "2022-07-19",
+  "date_au": "19/07/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220719a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-07-19 - Lael Brainard - Strengthening the CRA_ A Conversation with Representatives of Native Communities.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-07-19 - Lael Brainard - Strengthening the CRA_ A Conversation with Representatives of Native Communities.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "828e2b1ccdbb66c2f71b504be239bfc831c087fcb6b40ac6fdc752429ae47d33"
+}

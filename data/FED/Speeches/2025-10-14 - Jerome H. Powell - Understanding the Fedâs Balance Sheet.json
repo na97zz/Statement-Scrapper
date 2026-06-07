@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Understanding the Fedâs Balance Sheet",
+  "date_original": "2025-10-14",
+  "date_au": "14/10/2025",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20251014a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-14 - Jerome H. Powell - Understanding the Fedâs Balance Sheet.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-14 - Jerome H. Powell - Understanding the Fedâs Balance Sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2267bcdd332a6ed2ed13151978be1e5044229a6331cb38e21bc5d5171fd63db0"
+}

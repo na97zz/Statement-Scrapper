@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Elevated Economic Uncertainty: Causes and Consequences",
+  "date_original": "2023-11-14",
+  "date_au": "14/11/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20231114a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-14 - Philip N. Jefferson - Elevated Economic Uncertainty_ Causes and Consequences.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-14 - Philip N. Jefferson - Elevated Economic Uncertainty_ Causes and Consequences.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9444d2d28b8be7cab18e6d9433ce1320376ff695ae5fba2f624ff6e40811dd8a"
+}

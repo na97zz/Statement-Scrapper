@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook: Time to Let the Data Do the Talking",
+  "date_original": "2022-09-09",
+  "date_au": "09/09/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220909a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-09-09 - Christopher J. Waller - The Economic Outlook_ Time to Let the Data Do the Talking.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-09-09 - Christopher J. Waller - The Economic Outlook_ Time to Let the Data Do the Talking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1461c51b308ccc3d224d5050c694a8df05e49f2b2de04293a7d72d033cf511cb"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Developing Communities through Public-private Partnerships",
+  "date_original": "2026-03-24",
+  "date_au": "24/03/2026",
+  "datetime_original": "",
+  "speaker": "Developing Communities through Public-private Partnerships",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260324a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-24 - Developing Communities through Public-private Partnerships - Developing Communities through Public-private Partnerships.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-24 - Developing Communities through Public-private Partnerships - Developing Communities through Public-private Partnerships.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8815ce8d38f0e9b78ecf6e33dfc1337d9bfdb0f59abee7bcae8d304a8cbe486e"
+}

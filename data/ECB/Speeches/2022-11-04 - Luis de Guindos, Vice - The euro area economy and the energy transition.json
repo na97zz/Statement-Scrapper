@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The euro area economy and the energy transition",
+  "date_original": "2022-11-04",
+  "date_au": "04/11/2022",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221104~b1fcbec7e6.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-04 - Luis de Guindos, Vice - The euro area economy and the energy transition.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-04 - Luis de Guindos, Vice - The euro area economy and the energy transition.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "25a0714984cedc48247d8afb8c0b134d9d54890fae99adab99fae79e0e0c9450"
+}

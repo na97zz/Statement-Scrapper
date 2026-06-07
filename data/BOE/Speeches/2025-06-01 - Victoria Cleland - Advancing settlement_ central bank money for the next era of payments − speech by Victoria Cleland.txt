@@ -1,0 +1,92 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Advancing settlement: central bank money for the next era of payments − speech by Victoria Cleland
+DATE: 01/06/2025
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/october/victoria-cleland-opening-remarks-at-the-boe-bis-dlt-innovation-challenge-showcase
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Advancing settlement: central bank money for the next era of payments − speech by Victoria Cleland
+Given at the Bank of England and Bank for International Settlements Innovation Hub’s DLT Innovation Challenge Showcase
+Published on 
+
+ 21 October 2025
+Victoria Cleland shares the work undertaken by the Bank to modernise wholesale settlement using central bank money. She reflects on the DLT Innovation Challenge, and unveils the
+Synchronisation Lab
+– a new dynamic space to explore how atomic settlement could benefit various markets and transaction types. This is an exciting new development that supports innovation while safeguarding stability.
+Speech
+Introduction
+I am excited to join you today at the Bank of England and Bank for International Settlements Innovation Hub’s DLT Innovation Challenge (The Innovation Challenge) showcase event. This event is more than a celebration of ideas. It is an opportunity to engage with the technologists building distributed ledgers and to explore how central bank money can be represented on external, blockchain-based systems. The Innovation Challenge is part of our broader programme of engagement and experimentation as we explore how to benefit from the critical role of central bank money in wholesale settlement in the future.
+Today, I would like to outline how we are thinking about that future, with safer, faster and more innovative central bank money at its heart. And I am delighted to announce a new step in that journey: the launch of the
+Synchronisation Lab
+, a space designed to help industry explore the wider potential of central bank money.
+The Innovation Challenge was designed to build a practical understanding of DLT capabilities, inform future wholesale experimentation, and strengthen the Bank’s understanding of unified ledgers. Since blockchains first came to our attention with the launch of cryptocurrencies, there has been continuing development and evolution in distributed ledger technology, including increasing applications in more traditional financial markets.
+Over the course of four weeks beginning in September 2025, we invited nine firms to engage with the broad question of how wholesale central bank money could be transacted and settled on an external programmable ledger which the Bank does not control, and where trust is not inherent. Through a series of weekly deep dives participants shared valuable insights on settlement finality and security, scalability, network and asset control, and interoperability.
+Through this engagement, we have built a clearer picture of the technical and policy considerations of representing wholesale central bank money in blockchain based technologies. This is helping us identify the conditions under which they could meet the Bank’s standards and risk principles, and what policy considerations may emerge as adoption increases. The wide benefit of this work is a testament to the value of a strong public and private partnership.
+Why wholesale settlement matters
+Wholesale payments are the lifeblood of financial markets. They support investment, liquidity, and economic growth. The Bank plays many roles in wholesale payments, as a supervisor, policymaker, operator and participant. Today I will focus on one that is foundational: our role as operator of wholesale payment infrastructure and orchestrator and convener of the innovation agenda.
+RTGS and the infrastructure for innovation
+We operate the trusted, resilient platforms that underpin the UK’s financial system: the Real Time Gross Settlement (RTGS) service and the CHAPS payment system. Our renewed RTGS service (RT2) was launched in April 2025, delivering higher resilience, broader access, wider interoperability, and improved user functionality. RT2 is not just a system upgrade—it is a launchpad for future innovation where the private sector can build the next generation of payment services. So we want to build on this strong foundation, to enhance functionality and ensure our wholesale settlement infrastructure can continue to evolve to meet the changing needs of industry.
+Exploring new settlement models
+Central bank reserves are the ultimate risk-free settlement asset, underpinning many other forms of money such as the deposits individuals or businesses hold at commercial banks. This makes central bank reserves an essential anchor for the stability of the wider financial system.
+We recognise that enabling innovation in payments is essential to support new business models and improve outcomes across the financial system and the economy as a whole. The importance of competition and innovation in this space was a key driver of our decision to expand direct access to RTGS, allowing a broader range of firms to settle in central bank money, unlocking new business models, improving outcomes for end users, and supporting competition.
+Looking ahead, our vision is for a multi-money ecosystem, where different forms of money— including central bank money, commercial bank money, tokenised deposits, stablecoins—can coexist and interoperate. These different forms of money must also interact with a wide range of assets, whether they are represented in conventional ledgers, or in a tokenised format. For central bank money to remain at the core of this evolving landscape, it must be secure, accessible and interoperable: supporting smooth movement across different forms of money and assets, and enabling innovation across the financial system.
+To support asset side innovation, we have, with the FCA, introduced a Digital Securities Sandbox which creates an environment for firms to facilitate the issuance, trading and settlement of digital securities in the UK, on distributed programmable ledgers. On the cash side, we have launched a programme of wholesale experiments where we are testing different approaches to facilitate a more seamless interaction between various assets and types of money. We believe that linking today’s existing systems with emerging new innovative platforms through synchronisation and our omnibus accounts will significantly enhance settlement. We also want to explore whether a new infrastructure, potentially underpinned by a wholesale Central Bank Digital Currency (wCBDC), would provide additional flexibility and resilience that would be desirable to participants.
+Our experiments aim to understand how each settlement approach addresses critical topics such as liquidity fragmentation, efficiency, programmability, and interoperability. Our goal is to build an evidence base for a report towards the end of next year and highlight key learnings. Ahead of this we will shortly publish a paper outlining how synchronisation can support tokenised securities settlement and programmability use cases.
+DLT Innovation Challenge
+The Innovation Challenge, together with projects such as
+Agorá
+, in which the Bank is participating, are focused on exploring the design and development of new ledger infrastructures. Together these initiatives help us understand how future financial systems might operate on these ledgers, and how central bank money can be used safely while represented on external platforms which the Bank does not control.
+During the Innovation Challenge we have seen examples of the industry considering questions around settlement finality through ‘consensus mechanism’ design. We have seen how these systems could scale to meet the demands of wholesale payments, while safeguarding the integrity of central bank money as a foundation of trust and stability. We have gained insights into how programmability could facilitate automation, and how cryptographic tools could ensure privacy and trust in these systems. And importantly, the Innovation Challenge has shown methods by which these new systems can interoperate with existing and new ledgers including through bridges and synchronisation tools. By linking new platforms with existing systems, synchronisation offers a practical route to interoperability, which would enable the Bank to support innovation securely and efficiently.
+This work has sharpened our understanding of developments in DLT, and highlighted several areas where further experimenting could be valuable in understanding the limits and benefits of its broader application.
+Synchronisation
+We are already developing a synchronisation capability for RT2. This would enable transactions to settle conditionally upon the movement of assets on external ledgers – achieving atomic settlement. How would this work?
+A new type of entity, a synchronisation operator, would coordinate this process, connecting RT2 to an asset ledger. This would enable RT2 to support real-time settlement for various use cases, from FX settlement to property transactions and much in between. By enabling industry to settle atomically in central bank money potentially across multiple different ledgers, it mitigates risks of partial or incomplete transactions, and eliminates the need for escrow-like arrangements. All of this enhances efficiencies, opens the door to greater innovation in financial markets, and ensures central bank money can interoperate with, and bring risk reduction benefits to, many ledgers.
+Through our Meridian experiments (
+Meridian
+and
+Meridian FX
+) with the BIS Innovation Hub London, we demonstrated that synchronisation can serve as a powerful bridge between existing RTGS infrastructure and emerging tokenised securities settlement solutions built on DLT. Through these experiments, we have also proven that it is technically feasible for synchronisation operators to connect to other ledgers, and orchestrate transactions across property, and foreign currencies. Crucially, this approach avoids the need to rebuild payment systems from the ground up – thereby offering a pragmatic and more cost-effective route to innovation.
+In
+Project Meridian FX
+, we worked together with the BIS innovation Hub London, the European Central Bank, and three Eurosystem national central banks to explore how synchronisation could be used for FX transactions. This approach has the potential to work alongside existing and new settlement infrastructures, helping to address long-standing pain points in FX settlement. Looking ahead, we expect that the flexibility of synchronisation means it could be extended to other areas, for instance enabling more efficient mobilisation and substitution of collateral and enhanced liquidity management. All of which could help to reduce costs and support more resilient financial markets.
+To advance our exploration of synchronised settlement, on 16 October 2025 we launched a call for applicants for the
+Synchronisation Lab
+. This is a dedicated space for hands-on experimentation with promising use cases. The Lab provides a non-live testing environment where prospective synchronisation operators (“Lab Participants”) can explore how synchronised settlement might work in practice. Lab Participants will interact directly with the synchronisation capability we are designing. Ideally, they will also build on top of the Lab platform to demonstrate how their services might connect with users. By working with a simulated RT2 and showcasing more their end-to-end propositions, Lab Participants will help us validate our design choices, demonstrate the practical benefits of synchronisation to wider industry, and support ecosystem readiness for future implementation. This is an exciting step forward – one that harnesses the power of public-private collaboration to shape the future of settlement infrastructure.
+We have been working closely with a wide range of industry participants throughout this journey, and the response has been overwhelmingly positive. There is strong demand for synchronisation functionality, with firms identifying a diverse set of use cases—from streamlining housing transactions and securities settlement to improving foreign exchange processes. Many see synchronisation as a way to reduce settlement risk, optimise liquidity, and unlock efficiencies across the transaction chain. Our recent engagement shows that established players and fintech innovators alike are eager to explore how synchronisation can transform their operations.
+The Lab will go-live in Spring 2026 and will run for six months, providing a unique opportunity to explore the future of settlement infrastructure. Applications are open until 28 November 2025, and we welcome both public and private sector organisations interested in being a synchronisation operator to apply. This initiative offers a chance to engage with an emerging technology that could redefine how assets and payments move across systems. With your input, we can work together to shape how synchronised settlement looks like in practice. More details are available on
+Synchronisation Lab – terms of participation
+.
+Conclusion
+As a central bank we want to enable innovation that delivers tangible benefits for households and businesses, while safeguarding the stability and integrity of our financial system.
+Advancing wholesale settlement infrastructure means exploring how central bank money can serve the next era of payments. And that journey is not one we can take alone. Collaboration is key. We learn from and with each other. The Innovation Challenge and our upcoming Synchronisation Lab are powerful examples of that spirit. Thank you for your contributions.
+References
+Synchronisation Lab – Terms of Participation
+Acknowledgements
+I would like to thank Pablo Sánchez Zapata, Regis Bouther, Yi Wei Chai, Prem Munday, Rajan Patel and Nina Turnbull for their help in preparing these remarks.
+Convert this page to PDF
+Victoria Cleland
+Executive Director, Payments
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

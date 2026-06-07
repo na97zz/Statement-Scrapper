@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Building a robust and diversified clearing ecosystem",
+  "date_original": "2022-03-22",
+  "date_au": "22/03/2022",
+  "datetime_original": "",
+  "speaker": "Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220322~fb2f159779.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-03-22 - Fabio Panetta - Building a robust and diversified clearing ecosystem.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-03-22 - Fabio Panetta - Building a robust and diversified clearing ecosystem.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "abb140d354cb6e87a0a28bc498a7a8dee9260f1b7358eba3bc7ad2c3ffc96816"
+}

@@ -1,0 +1,341 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A rich vein or fool’s gold? Economic forecasts during large shocks − speech by Swati Dhingra
+DATE: 01/06/2024
+SPEAKER: Swati Dhingra
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/may/remarks-given-by-swati-dhingra-at-econdat-2024.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+ 
+ 
+A Rich Vein or Fool’s Gold? 
+Economic Forecasts During 
+Large Shocks − speech by 
+Swati Dhingra 
+Given at ECONDAT 
+10 May 2024 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech 
+It is a pleasure to be here at Bush House. I could not agree more with the premise of the 
+ECONDAT conference. Last summer, I gave a speech at Manchester Met University to 
+argue that advances in our analytic toolkit, together with data innovations, are the vital 
+route to a clearer and timelier understanding of the economy (Dhingra (2023)). As the 
+Bank embarks on reforms in the light of the Bernanke Review, it is an appropriate time and 
+place to reiterate this. 
+Economic forecasting is an enterprise fraught with uncertainty, and even more so during 
+turbulent times. Equally however, forecasts are indispensable to a forward-looking 
+policymaker, so it is important to consider how we might improve them so that we are in a 
+better position to face the shocks of the future. In my view, it is investments in 
+measurement and analysis, and not tweaks to forecasting models or communications, that 
+will advance our understanding of the economy and ultimately lead to better          
+decision-making. Meaningful challenge cannot arise in policymaking unless there is 
+compelling evidence to support it.  
+ECONDAT is contributing to the progress in credible economics and policymaking, and I 
+am therefore delighted to be giving the closing remarks at the conference. 
+Fool’s gold1: model-based forecasts as a guide to policy 
+during unprecedented times 
+This inflationary episode has prompted a reappraisal of the evidence that is needed, both 
+at the micro and macro levels, to support policymaking during large shocks to the 
+economy. In what follows, I will offer my own reflections on recent forecast misses and on 
+some tools that will enable central banks to better assess economic conditions. 
+ 
+ 
+ 
+1   Fool’s gold, typically pyrite, is a yellow mineral that looks like gold but is not as valuable (Oxford 
+Advanced Learner’s Dictionary). It has small amounts of real gold (Fougerouse (2021)).   
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+Forecast errors across central banks were large and relatively similar during this 
+inflationary episode despite different forecasting models and tools. 
+Chart 1: Central banks’ forecast errors, 2016-2023 
+ 
+Source: Bernanke Review (2024). 
+The UK was in the middle of the pack in terms of inflation misses across various central 
+banks, each of which employed a different suite of forecasting tools. Whilst forecasting 
+performance has been relatively similar over the recent inflationary episode (at least at the 
+one-year horizon), the scale of the energy shock with which central banks have had to 
+contend varied significantly across countries. Energy-exporting countries, such as Norway 
+and the United States, faced a less dramatic surge in energy prices than importing 
+countries, which may have been expected to simplify the task of anticipating price 
+developments. However, when the peak energy price in each country is taken into 
+account, the forecast misses continue to show a similar pattern, though the UK fares 
+comparatively better in this context (see Appendix for details).  
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+While the shocks could not have been anticipated, the forecast errors of the 
+models were persistent and systematic. 
+Chart 2: UK CPI forecasts and outturns (a) 
+ 
+Source: Kanngiesser and Willems (2024). 
+(a) Light aqua line depicts the UK CPI inflation outturns. Dark aqua lines depict CPI modal inflation forecasts. 
+The depicted outturns in the blue line refer to the outturns k = 12 quarters after the first data release. For the 
+last 12 quarters, the latest available vintage is used.  
+Forecast deviations are large when absolute changes in inflation are large. But errors tend 
+to be systematically in one direction – either above the outturn or below it. In this inflation 
+episode, all but one forecast under-predicted inflation. The only over-predictions were due 
+to the introduction of the energy price guarantee on the way up and during the last quarter 
+of 2023 after inflation had started to fall back rapidly. 
+Judgements were placed to offset some of the systematic forecast errors, but 
+they needed to be disciplined with late-cycle data outturns that are less 
+forward-looking. 
+To some extent, forecasting will always involve an element of judgement. By drawing on 
+the rich and varied expertise across the Bank, judgement remains a valuable input to the 
+forecast process. To monitor the direct impact of external shocks on the labour markets, 
+and the extent of second-round effects, our judgments have relied on late-cycle indicators, 
+such as wage growth and relatedly services price inflation (which contains a higher share 
+of labour in costs than goods). As inflation has fallen back, judgement now represents a 
+larger relative share of projected inflation and requires greater scrutiny of developments 
+informing it. 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+Chart 1:  Inflation projections and MPC judgement 
+Judgement now constitutes a larger component of forecast inflation (a) 
+ 
+(a) Projections and judgements are a four-quarter average. Judgement refers to the MPC’s judgement of 
+inflation persistence. 
+Statistical models can improve incrementally by learning from past forecast 
+errors, but learning is confined to what is in the data. At turning points that lack 
+historical precedent, these models remain liable to systematically over-predict 
+or under-predict outcomes. 
+The Bernanke-Blanchard model provided a useful approach for decomposing the drivers 
+of post-pandemic inflation into the relative contributions from external shocks, labour 
+market tightness, and the monetary policy response. While such models were successful 
+in explaining the surge in inflation, they have tended to over-predict inflation as these 
+pressures moderate (Chart 4). 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+Chart 4: Statistical modelling over-predicted inflation on the way down (a) 
+ 
+(a) The dashed lines show inflation projections with data until 2023 Q4. Solid lines show inflation projections 
+with data until 2024 Q1. Inflation outturns are in solid yellow. 
+Better data and research design can reduce forecast uncertainty by providing 
+more accurate forward-looking measures and by enabling tests of different 
+mechanisms driving inflation, as in the examples of mortgage contracts data, 
+company dissolution registries and granular labour market analysis. 
+Example 1. Mortgage contracts data is reducing forecast uncertainty through more 
+accurate modelling of monetary policy transmission. 
+ 
+Mortgage contracts data (Chart 5, first panel) shows most UK mortgages are fixed-rate 
+and over a third of mortgages have still to come off their fixes since the end of 2021. 
+Consistent with this, the latest shift in the OIS curve has only marginally affected estimates 
+of aggregate mortgage repayments over the forecast (second panel), with around 63 
+percent of the effects on mortgage repayments expected to come through by the end of 
+the forecast horizon.  
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+Chart 5: Mortgage Contracts Data 
+Roll Off from Fixes and Effects of Shifts in the OIS curve on Mortgage Payments (a) 
+ 
+ 
+(a) The right hand panel depicts actual (teal line) and projected (dashed lined) cumulative mortgage payments 
+(depending on the OIS curves at different points in time). 
+Example 2. Company dissolution notices are providing a forward-looking indicator of 
+reduced firm resilience. 
+Using granular data from Companies House and the Insolvency Service, Barkema, 
+Froemel, Piton (2024) document a set of facts about the rising number of corporate 
+dissolutions. First, the increase in dissolutions that have already materialised reflected a 
+catch-up following Covid and was concentrated among firms started during Covid. Second, 
+while these firms were small and had a limited macroeconomic impact, firms currently in 
+the process of dissolving are larger. Their exit might therefore be more material from a 
+macroeconomic perspective. Finally, the recent economic environment could contribute to 
+further rises in dissolutions and particularly insolvencies in the future that could have more 
+material macroeconomic impact. 
+We highlight some of these trends in Chart 6. This dataset indicates that registrations have 
+been rising since 2019, primarily in retail and information and communications, and 
+potentially due to technological changes since the pandemic. While dissolutions were 
+suspended during the pandemic, they have now finished catching up, rising above their 
+2019 average. Dissolution notices are rising faster and are now occurring among larger 
+firms, suggesting a larger impact from dissolutions than has been seen so far. 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+Chart 6: Company registries of entry and dissolutions 
+Dissolutions have caught up with their pre-pandemic trend and are on the rise (a) 
+ 
+Source: ONS  
+(a) 
+Registrations and dissolutions are cumulative (in deviation from trend). 
+ 
+Example 3. Granular wage and inactivity data from local labour markets in the UK offers 
+little evidence of positive correlation, suggesting rising inactivity was not a key driver of 
+wage inflation during the current episode. 
+Chart 7: Wage inflation and Rise in Inactivity (a) 
+ 
+(a) Each dot in the scatter plot represents a Travel to Work Area in the UK. The x-axis is the rise in inactivity 
+from 2013 to 2023 from APS data and the y-axis is the average growth rate in hourly wages from 2013 to 
+2023 from ASHE data.  
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+Past publications (May 2022 MPR) have partially attributed labour market tightness to 
+rising inactivity. Causal statements can be put to more rigorous empirical testing with 
+granular data to overcome some of the limitations posed by short time series during large 
+shocks.  
+In this example, the correlation evident in aggregate wage and inactivity data does not 
+hold up as a mechanism for wage inflation in more granular data from local labour markets 
+across the country.  Travel to work areas that had higher inactivity did not experience 
+higher wage inflation. This is also confirmed by a negative correlation between the change 
+in gross monthly wages and the change in the inactivity rate over the recent period at a 
+regional level (Machin and Wadsworth (2023)). While inactivity had not been a key driver 
+of wage inflation, it is nonetheless contributing to lower productivity, especially in already 
+lagging areas of the country (as highlighted in Machin and Wadsworth (2023) across 
+broader regions of the UK and for different skill levels). Uncertainty over data in recent 
+years makes it much harder to have a deeper understanding of the labour market forces 
+driving inflation, and a joined-up effort to improve these statistics is an important 
+undertaking for the future. 
+ 
+Leveraging quasi and natural experiments with granular data and techniques to estimate 
+policy impacts has already led to significant progress in various fields of economics and 
+our understanding of critical public policy choices (Angrist and Pischke (2010) and Card 
+(2023)). These well-identified granular effects are increasingly being incorporated into 
+economic models to provide a macroeconomic view of the impacts. 
+The real gold: forecasts bolstered by better data 
+Building on these observations from the cost-of-living crisis, I will discuss key avenues that 
+I think will strengthen policymaking during large shocks. These have been informed by my 
+experience on the MPC since August 2022 and more broadly, by discussions on designing 
+and implementing evidence-based policy, particularly those that involve difficult tradeoffs 
+or polarising debates, including through the Economy 2030 Inquiry and the modelling 
+review of Britain’s international economic policy (The Economy 2030 Inquiry (2023), 
+Venables (2022)). 
+King’s is the right place to discuss this - the book it has recently published has provided 
+invaluable scrutiny through the responses of many economists to the Bernanke Review. I 
+will reference these contributions from Aikman and Barwell (2024) – AB hereafter – as I 
+discuss the key avenues.  
+In my view, the main lesson from the last few years is that evidence-based policymaking 
+needs to be our priority. And to state the obvious, the starting point cannot be anything 
+other than evidence itself.  
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+To re-state a platitude, models are only as good as the data that is fed into them. 
+Innovations are making data advances more achievable, including for example, through 
+analytics companies and big data (such as contracts and shipping data), developments in 
+national statistics (such as availability of scanner data and online collections) and 
+mandatory data collection (such as tax records, value added transactions and detailed 
+company accounts) (Dhingra (2023), Davies in AB (2024) has concrete suggestions).  
+The Bank has played a pioneering role in data development before and this is going to be 
+critical in the future, given the current state of affairs and the greater uncertainties in the 
+world economy. As highlighted in the first example, the mechanical relationship obtained 
+from mortgage contract data provides a much more accurate picture of monetary policy 
+transmission than structured economic modelling of household behaviour. If we had similar 
+energy contracts data, we would have had a much more precise picture of the impact of 
+energy prices increases across firms and households. 
+The imprecision of forecasting medium-term outcomes, particularly during large shocks, 
+means investing in the data and analytical infrastructure would offer much better 
+preparation for future uncertainties. Data uncertainty can be big enough during large 
+shocks that the straitjacketed lens of forecast models is less informative. Even statistical 
+models become wanting because they often miss turning points, as highlighted earlier. 
+Once better data infrastructure is in place, it can be combined with a simplified modelling 
+apparatus to maintain the discipline of a self-consistent economic framework. 
+Simplification of the forecasting apparatus can help free up valuable expertise and 
+resources that can be deployed in more effective avenues, and they would provide 
+transparency and accountability. 
+A central MPC forecast provides the discipline of an internally consistent narrative. But it 
+comes at an enormous cost of committee and Staff time being devoted to adapting 
+forecast errors into judgements that, in this inflationary episode, were small relative to the 
+scale of the shock being experienced, as shown earlier.  
+A Staff forecast offers a way of maintaining consistency and of ascertaining the risks 
+without the incrementalism of a best collective judgement. It has the ability to empower 
+Staff to experiment with different assumptions and risks, while taking ownership and credit 
+for analysis that is theirs to begin with. Conducting regular, calendar-based internal 
+reviews would further strengthen the modelling apparatus and provide transparency on 
+forecast errors (Neiss in AB (2024)). Importantly, it would heighten the level of 
+accountability for committee members when they choose to differ from the policy path 
+implied by the Staff forecast. 
+Staff-led scenario modelling might help assess and explain risks that differ from the central 
+forecast. My assessment from a minority experience is that producing multiple forecasts 
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+under alternative scenarios during a period of large shocks has been beyond the resource 
+capacity of individual external members and possibly even Bank Staff, particularly given 
+the constraints imposed by the Bank’s IT and modelling infrastructure that were highlighted 
+by the Bernanke Review. While experimenting with different assumptions and risks may be 
+helpful in thinking through the uncertainties, getting a handle on the uncertainty over data 
+and interpreting it to assess the evolution of the economy are more crucial. Timely and 
+forward-looking insights into the working of the economy can discipline policymaking by 
+challenging priors.  
+A critical question would be how scenarios are chosen. The concern here is that it could 
+become an “ad hoc” exercise and add to the incrementalism from the “repeat game” of 
+negotiating a best collective judgement on the choice of scenarios - quite the opposite of 
+what they are intended to do (Aikman, Giles and Goodhart; Grady and Julius in AB 
+(2024)). Staff-led scenarios could reduce these risks, but the implementation details would 
+determine if they are able to do so.  
+Time and resources are always scarce in policymaking and the best use of them would be 
+to develop the data and analytical infrastructure. Better inputs and a simplified forecasting 
+apparatus would be most meaningful for better calibration of policy responses during large 
+shocks to the economy.  
+I would like to thank Jenny Chan and Donal McVeigh for their work on these remarks. I am 
+grateful to Daniel Albuquerque, Lauren Barnes, Maren Froemel, Derrick Kanngiesser, 
+Giulia Mantoan, Sophie Piton, Doug Rendle, Dan Steel, Carlo Varriale, and Ivan Yotzov for 
+their analysis, and to Andrew Bailey, Fabrizio Cadamagnani, Andrew Gaffney, Jonathan 
+Haskel, Ed Hill, Waris Panjwani, and Kate Reinold for comments and input.  
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+Appendix 
+Chart 8: Central banks’ forecast errors, 2016-2023 
+Adjusted for the relative magnitude of the energy shock on consumer prices (a) 
+ 
+(a) Forecast errors normalised by the peak energy price relative to the peak energy price in the UK.

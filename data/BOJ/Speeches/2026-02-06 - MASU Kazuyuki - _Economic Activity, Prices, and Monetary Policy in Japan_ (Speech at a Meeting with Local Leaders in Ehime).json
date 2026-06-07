@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Ehime)",
+  "date_original": "2026-02-06",
+  "date_au": "06/02/2026",
+  "datetime_original": "",
+  "speaker": "MASU Kazuyuki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260206a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-02-06 - MASU Kazuyuki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Ehime).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-02-06 - MASU Kazuyuki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Ehime).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2e206d25e1d67f7fd9163e9c869bdbb8d0375e75b1c8917d8127b8dddb99d55d"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The effectiveness and transmission of monetary policy in the euro area",
+  "date_original": "2024-08-24",
+  "date_au": "24/08/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240824~c215968c41.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-08-24 - The effectiveness and transmission of monetary policy in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-08-24 - The effectiveness and transmission of monetary policy in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "038572e485f114ffaa31eb92b7302d63fb147d0f771b9aba30b25d414a5f3abd"
+}

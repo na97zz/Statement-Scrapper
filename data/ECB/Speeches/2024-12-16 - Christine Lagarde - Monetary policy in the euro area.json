@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy in the euro area",
+  "date_original": "2024-12-16",
+  "date_au": "16/12/2024",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241216~7caa8c7202.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-12-16 - Christine Lagarde - Monetary policy in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-12-16 - Christine Lagarde - Monetary policy in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4ae52f67dab603d5ceea1c461d934ffa075f7d90f887958205314b34a23ce736"
+}

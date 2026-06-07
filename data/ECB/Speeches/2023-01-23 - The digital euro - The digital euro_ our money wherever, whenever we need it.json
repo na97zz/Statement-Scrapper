@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The digital euro: our money wherever, whenever we need it",
+  "date_original": "2023-01-23",
+  "date_au": "23/01/2023",
+  "datetime_original": "",
+  "speaker": "The digital euro",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230123~2f8271ed76.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-01-23 - The digital euro - The digital euro_ our money wherever, whenever we need it.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-01-23 - The digital euro - The digital euro_ our money wherever, whenever we need it.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "498b85bdde83b53f14b9dce87faa9c6c8751180f8c0eee65b5d64e73ffad103b"
+}

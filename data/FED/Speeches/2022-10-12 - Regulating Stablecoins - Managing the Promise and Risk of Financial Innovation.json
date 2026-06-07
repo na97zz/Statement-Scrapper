@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Managing the Promise and Risk of Financial Innovation",
+  "date_original": "2022-10-12",
+  "date_au": "12/10/2022",
+  "datetime_original": "",
+  "speaker": "Regulating Stablecoins",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20221012a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-12 - Regulating Stablecoins - Managing the Promise and Risk of Financial Innovation.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-12 - Regulating Stablecoins - Managing the Promise and Risk of Financial Innovation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d6f674e7cb63368c9401f4e37eb470adf97e337516a3cbb267c1d3e94dd4743d"
+}

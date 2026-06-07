@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Further Effective and Sustainable Monetary Easing\" (Speech at the Kisaragi-kai Meeting in Tokyo) (via webcast)",
+  "date_original": "2021-03-30",
+  "date_au": "30/03/2021",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210330a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-03-30 - KURODA Haruhiko - _Further Effective and Sustainable Monetary Easing_ (Speech at the Kisaragi-kai Meeting in Tokyo) (via webcast).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-03-30 - KURODA Haruhiko - _Further Effective and Sustainable Monetary Easing_ (Speech at the Kisaragi-kai Meeting in Tokyo) (via webcast).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2b64985ce8af24de0afa6aee5c83874efc9155b71447e982f1ca262744166248"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook",
+  "date_original": "2025-03-07",
+  "date_au": "07/03/2025",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20250307a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-03-07 - Jerome H. Powell - Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-03-07 - Jerome H. Powell - Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ec0f2726755fd3c489f84302b9297b2c0bce797e12e3fb87ab27f68aea81b8ca"
+}

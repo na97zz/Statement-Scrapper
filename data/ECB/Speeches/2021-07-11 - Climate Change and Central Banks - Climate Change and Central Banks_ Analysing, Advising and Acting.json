@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Climate Change and Central Banks: Analysing, Advising and Acting",
+  "date_original": "2021-07-11",
+  "date_au": "11/07/2021",
+  "datetime_original": "",
+  "speaker": "Climate Change and Central Banks",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210711~ffe35034d0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-07-11 - Climate Change and Central Banks - Climate Change and Central Banks_ Analysing, Advising and Acting.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-07-11 - Climate Change and Central Banks - Climate Change and Central Banks_ Analysing, Advising and Acting.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3efb2dcf7a3ed2f37a0c3f9bd56de6a779f690016c04eb46220abf65fcd433b0"
+}

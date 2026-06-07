@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "What Roles Should the Private Sector and the Federal Reserve Play in Payments?",
+  "date_original": "2024-11-12",
+  "date_au": "12/11/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20241112a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-11-12 - Christopher J. Waller - What Roles Should the Private Sector and the Federal Reserve Play in Payments_.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-11-12 - Christopher J. Waller - What Roles Should the Private Sector and the Federal Reserve Play in Payments_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "df9bb0aeceec874df5d39e417594ba00d1c886eaac28083c480a73441b625aca"
+}

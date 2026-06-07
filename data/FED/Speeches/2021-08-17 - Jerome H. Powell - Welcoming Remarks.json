@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2021-08-17",
+  "date_au": "17/08/2021",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20210817a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-08-17 - Jerome H. Powell - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-08-17 - Jerome H. Powell - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a9d5756d21589ffe7000f6f28a1eb95e2bf44481c7874fc1bd1b94ee560414d9"
+}

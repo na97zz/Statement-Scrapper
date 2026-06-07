@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Opportunities and Challenges for Financial Intermediation Functions Brought about by Technological Advancements\" (Remarks at the Paris Europlace Financial Forum 2024 in Tokyo)",
+  "date_original": "2024-11-21",
+  "date_au": "21/11/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko241121a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-11-21 - UEDA Kazuo - _Opportunities and Challenges for Financial Intermediation Functions Brought about by Technological Advancements_ (Remarks a.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-11-21 - UEDA Kazuo - _Opportunities and Challenges for Financial Intermediation Functions Brought about by Technological Advancements_ (Remarks a.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f2f53376dc46aa088cb4d2695d5d2f950713333129e62152b6604c374181a45"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Consequences of Bank Capital Reform",
+  "date_original": "2024-06-26",
+  "date_au": "26/06/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240626a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-06-26 - Michelle W. Bowman - The Consequences of Bank Capital Reform.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-06-26 - Michelle W. Bowman - The Consequences of Bank Capital Reform.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "71052e406003f05d1c3908bb0fdbf7960fe56be6089025d53a386d7785ac579f"
+}

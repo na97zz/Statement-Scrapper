@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy decisions",
+  "date_original": "2023-10-26",
+  "date_au": "26/10/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/pr/date/2023/html/ecb.mp231026~6028cea576.en.html",
+  "raw_file_path": "data\\ECB\\Monetary Policy\\2023-10-26 - Monetary policy decisions.html",
+  "text_file_path": "data\\ECB\\Monetary Policy\\2023-10-26 - Monetary policy decisions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:09:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "edc0e88d0351023c9734e6be3a4a317ebab338305d69dbcf33ff9d99bfd17bbc"
+}

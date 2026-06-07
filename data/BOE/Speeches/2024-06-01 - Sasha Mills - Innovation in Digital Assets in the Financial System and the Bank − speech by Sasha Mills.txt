@@ -1,0 +1,99 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Innovation in Digital Assets in the Financial System and the Bank − speech by Sasha Mills
+DATE: 01/06/2024
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/october/sasha-mills-keynote-speech-at-the-digital-assets-week
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Innovation in Digital Assets in the Financial System and the Bank − speech by Sasha Mills
+Given at Digital Assets Week
+Published on 
+
+ 02 October 2024
+In her speech, Sasha Mills talks about how recent innovations in digital assets and payments pose both opportunities and risks to the Bank in meeting its monetary and financial stability objectives. Sasha highlights the Bank’s recent work on innovation, including our Discussion Paper on our approach to innovation in money and payments, the launch of our Digital Securities Sandbox, and experiments on wholesale payments.
+Speech
+Introductory remarks
+Good morning. I’m delighted to have the opportunity to speak to you today about innovations in the use of digital assets across the financial system, and how we’re helping to facilitate some of that innovation at the Bank of England.
+I’m particularly pleased to speak to you all at Digital Assets Week in London, where we’re seeing first-hand how the City, as a global financial hub, continues to work with the UK’s vibrant fintech sector to support growth across the country.
+Innovations in digital assets and payments are inseparable from the goals we seek to achieve as the UK’s central bank. They pose opportunities and risks in meeting our monetary and financial stability objectives; indeed they are foundational and go to the heart of trust in money. Understanding these innovations, preparing for them, and supporting their adoption in a safe manner, including ensuring a payments landscape which maintains the singleness of money, is at the very heart of our work at the Bank.
+There’s a huge amount of work taking place in industry around the adoption of digital assets; unless we’re alive to this work, the speed at which certain markets and activities become systemic may outpace the ability of policymakers to build infrastructures and frameworks to respond.
+Facilitating innovations in digital assets and payments in a safe way requires adapting to changing landscapes, in particular the technologies which enable the exchange and settlement of assets, and how money is used in an increasingly digital financial system.
+We set out our approach to innovation in money and payments in a discussion paper over the Summer.
+footnote
+[1]
+I want to draw out a few specific areas where the Bank is focussed on facilitating innovation in digital assets and payments, in a way that’s consistent with our objectives to protect and enhance UK monetary and financial stability.
+I will focus on our Digital Securities Sandbox,
+footnote
+[2]
+which opened for applications earlier this week, before moving on to innovations in wholesale payments more widely.
+The Digital Securities Sandbox
+The Digital Securities Sandbox, or DSS, is an exciting joint initiative between the Bank and the Financial Conduct Authority intended to support the application of new technologies, including those that support digital assets such as programmable distributed ledgers, to promote innovation in financial markets.
+When people ask me how governments and regulators can keep up with the breakneck pace of innovation in industry around digital assets, I immediately think of the DSS.
+One of the most exciting areas of innovation in finance is how assets are being recorded and traded. While unbacked crypto grabs the headlines, to me developments in the underlying technologies, including blockchains and programmable ledgers, may be what will have the lasting positive impact on supporting financial markets and growth.
+The DSS will provide a regulated live environment for innovators to create and trade digital securities so that opportunities created by this innovation can be maximised in a way that keeps our financial system safe.
+Capitalising on new technology could have great benefits for the financial system. In a tokenised world firms are effectively working from the same data. This standardisation, coupled with using shared ledgers, could improve the efficiency of processes involved in reconciliation, trading and settlement and introduce more automation, reducing errors and costs.
+This new technology could also create opportunities for a wider range of asset classes to be traded and utilised than we see today improving overall market liquidity. This technology also allows assets to be fractionalised.
+Small efficiency gains can add up to large benefits in aggregate; by making things faster, cheaper, and more straightforward, these changes could help financial market participants like pension funds, or companies that use capital markets to finance investment.
+But those potential benefits can only be realised if the technology is implemented safely. The application of programmable ledgers in finance is still relatively new – implementing it in critical financial markets could be risky. This is why the DSS will have several stages, with limits that adjust as firms meet higher standards of resilience; we listened to feedback from industry when developing these stages and limits, and are keen to continue to work with industry in creating a regime that supports safe and sustainable innovation.
+We also responded to feedback from industry by expanding the DSS to include non-GBP denominated securities. This allows the DSS to be better aligned to the UK securities market, where firms will often issue debt in multiple currencies rather than just in GBP.
+The DSS represents a major step in exploring innovation in digital assets in the UK and could lead to faster and cheaper ways for these securities to trade, settle, and be used among financial market participants.
+Digital securities issued through the DSS offer a test case for exploring forms of payment that can interact with programmable securities platforms. In due course, it could support new models of settlement in central bank money, a topic to which I will return shortly.
+Developing regulation in a sandbox is a first for the Bank. It provides a unique chance to test and adapt the regulatory framework as we learn from innovators testing different business models in the Sandbox. With that in mind, the DSS welcomes startups as well as existing financial firms.
+Taking this approach means it is possible to shape a new permanent regulatory regime that’s innovation friendly, proportionate and fit for purpose, without compromising monetary or financial stability.
+Wholesale Payments Innovation
+Digital assets, of course, need a compatible settlement asset. With this in mind, in recent years the Bank has undertaken a number of initiatives, aside from the DSS, in response to innovations in the wholesale payments and settlement landscape.
+We are enhancing our capability to supply wholesale central bank money for settlement through a multi-year programme to deliver a renewed RTGS service. As part of this, the Bank has also introduced Omnibus Accounts which facilitate settlement backed in central bank money for tokenised asset transactions, ensuring the benefit of tokenisation can be realised across the transaction.
+footnote
+[3]
+I noted earlier that we have also set out our approach to innovation in money and payments more broadly in a discussion paper over the Summer. We see this as the start of an important conversation with industry, rather than the Bank setting out its end-state view on all things innovation. We want industry to engage with us on this, and value your feedback as we continue to develop our approach to innovation in this space.
+In terms of looking forward, we are clear that confidence in the underlying technology used to transfer money is inseparable from confidence in money itself. If central bank money is unable to interact with new technologies, there could be a risk of high value wholesale settlement activity moving away from central bank money to private settlement assets, weakening financial stability.
+For money to fulfil its functions, it must maintain a characteristic that makes it unlike any other asset – it is backed by a promise of the state. We have a low-risk appetite for a significant shift away from wholesale settlement in central bank money towards private settlement assets (such as from the use of stablecoins for wholesale transactions), because settlement in central bank money is the anchor back to the state. This is why we are exploring options to enhance the ability to settle tokenised wholesale transactions in central bank money.
+With that in mind, we have developed our roadmap for future change on the renewed RTGS system with close engagement with industry.
+footnote
+[4]
+The key features of this roadmap include setting out our long-term plans to extend RTGS settlement hours, and build a new synchronisation interface allowing innovative new payment infrastructures to coordinate movements in external programmable ledgers with settlements in central bank money.
+We are also considering how central bank money could interact with programmable ledgers through the use of a wholesale central bank digital currency (wCBDC).
+We need to consider the respective roles these innovations might play in the Bank’s toolkit; with this in mind, the Bank is working on a programme of experiments to test the use cases, functionalities and prospective designs of both wCBDC and synchronisation, and their relative merits.
+Concluding remarks
+In conclusion, the Bank of England exists to promote the good of the people of the United Kingdom by maintaining monetary and financial stability. Innovations in digital assets and payments can help us meet these objectives.
+But we must be alive to the risks. We are focussed on facilitating innovation that helps us to meet our objectives by progressing the work I highlighted today. Industry’s engagement on the launch of our Digital Securities Sandbox, the renewal of RTGS, our approach to innovation in money and payments, and experimenting on the best approach to facilitating innovation in wholesale payments, will be crucial to achieving this and ensuring we learn together with industry going forward. Thank you.
+I would like to thank Shane Scott, Alex Gee, Kushal Balluck, Emma Butterworth, Andrew Bailey, Harsh Mehta, Sarah Breeden, Michael Yoganayagam and Nina Turnbull for their assistance in preparing these remarks.
+The Bank of England’s approach to innovation in money and payments
+Digital Securities Sandbox (DSS)
+Bank of England publishes policy for omnibus accounts in RTGS
+Future Roadmap for RTGS
+Future Roadmap for RTGS
+Close
+Bank of England publishes policy for omnibus accounts in RTGS
+Close
+Digital Securities Sandbox (DSS)
+Close
+The Bank of England’s approach to innovation in money and payments
+Close
+Convert this page to PDF
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

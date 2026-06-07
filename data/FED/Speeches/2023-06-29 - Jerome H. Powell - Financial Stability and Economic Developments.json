@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stability and Economic Developments",
+  "date_original": "2023-06-29",
+  "date_au": "29/06/2023",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20230629a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-06-29 - Jerome H. Powell - Financial Stability and Economic Developments.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-06-29 - Jerome H. Powell - Financial Stability and Economic Developments.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dbf76aee60fd2564fcfccfebeeead5b02a1b34323c3a91d11512b119f3d22a7a"
+}

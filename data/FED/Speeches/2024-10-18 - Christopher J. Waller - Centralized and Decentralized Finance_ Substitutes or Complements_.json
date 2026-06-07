@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Centralized and Decentralized Finance: Substitutes or Complements?",
+  "date_original": "2024-10-18",
+  "date_au": "18/10/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20241018a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-18 - Christopher J. Waller - Centralized and Decentralized Finance_ Substitutes or Complements_.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-18 - Christopher J. Waller - Centralized and Decentralized Finance_ Substitutes or Complements_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "719df556bbeeab092645edcce9838073542fd22c1814208b867104ffff0957f3"
+}

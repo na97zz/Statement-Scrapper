@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Working Women in the Pandemic Era",
+  "date_original": "2022-08-17",
+  "date_au": "17/08/2022",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20220817b.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-08-17 - Michelle W. Bowman - Working Women in the Pandemic Era.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-08-17 - Michelle W. Bowman - Working Women in the Pandemic Era.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0984ecdd2355bcd840e9de74abed3a45c8f4ad96e6675d586d52dfa2b7c48392"
+}

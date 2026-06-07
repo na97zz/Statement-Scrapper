@@ -1,0 +1,137 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Payment cycles: An update on the Future Roadmap for the RTGS service - speech by Victoria Cleland
+DATE: 01/06/2024
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/december/speech-by-victoria-cleland-on-the-future-roadmap-of-bank-of-england-rtgs-service
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Payment cycles: An update on the Future Roadmap for the RTGS service - speech by Victoria Cleland
+Given at FinTech Connect on 5 December 2024
+Published on 
+
+ 16 December 2024
+Victoria Cleland shares an update on the Future Roadmap for the Bank of England’s Real Time Gross Settlement (RTGS) service, highlighting how close engagement with users is supporting innovation in a number of key areas. Future enhancements could include enhanced access, extended settlement hours and innovative synchronised payments.
+Speech
+I am delighted to be addressing such a diverse and innovative group today. Some of you might be wondering what we all have in common. I think we share at least one very important goal: ensuring that money and payments keep up with society’s needs.
+The payments landscape is changing, and at pace. It has come a long way from the exchange of grain a couple of millennia ago – but where next? We all have a role to play in making domestic and cross-border payments faster, cheaper, easier to access, and more transparent. Enhancements will benefit end users, but also the economy and growth. And we can attain this goal more effectively if we see it as our collective endeavour: the public and private sector working with, and learning from, each other.
+Today I would like to outline the Bank’s approach to innovation in money and payments, focus on work underway to enable our wholesale infrastructure to continue to meet the changing needs of industry and set out our priorities for our Future Roadmap for the Real Time Gross Settlement (RTGS) service. The title of this speech is Payment Cycles, I will also refer to another interest of mine – bicycles – and what we might all learn from bike design!
+Our approach to innovation in money and payments
+We published a discussion paper on the Bank’s
+Approach to innovation in money and payments
+this July, outlining our approach to, and the importance of, wholesale, retail and international payments. It highlighted the opportunities that innovation could bring, and the need to be alert to the risks it could pose to meeting our objectives of monetary and financial stability,
+Our discussion paper emphasised the importance of central bank money: the ultimate risk-free asset. Central bank money refers to the reserves held by financial institutions at the Bank of England. It is the most liquid and widely accepted settlement asset in the UK economy, and it offers the highest level of safety arising from the backing of the central bank, which reduces counterparty and credit risks. We want to ensure that there is not a significant shift away from settlement in central bank money.
+To achieve this, we need to keep central bank money useful and relevant. RTGS is the infrastructure which makes central bank money accessible to eligible banks and building societies as well as Financial Market Infrastructures and their settlement participants. RTGS is the beating heart of the financial system, so we want to ensure that it can continuously adapt to the changing needs of the industry and that safe and resilient settlement in central bank money remains at the core of the payments landscape.
+We are currently undertaking a multi-year programme to renew this infrastructure, the vision for which is to provide a renewed RTGS service which has not just increased resilience but also enables competition and innovation. Key to this is our focus on improved user functionality. For example, through introducing APIs and an enhanced liquidity saving mechanism we will support emerging user needs in the changing payments landscape. Through the move to the ISO 20022 global messaging service for CHAPS in 2023, we have facilitated enhanced interoperability with domestic and international payment systems, further increasing resilience and contributing towards improvements in cross-border payments. And the new service will facilitate greater direct access to central bank money to enable innovative service providers to benefit from settlement in RTGS.
+Strong foundations, shared mission, and iteration and learning
+I mentioned bicycles. Before turning to an update on the Future Roadmap for RTGS, I would like to reflect on the lessons we can learn from the history of bicycle design about approaches to innovation.
+Bicycles have been around for over two centuries. Early bikes, like the so-called “Boneshaker”, look very different from today’s. But the Boneshaker was cutting edge at the time, and fulfilled its core objective of transporting its rider from A-to-B. It probably wasn’t the greatest user experience, and to be honest I might not commute daily if that was still on the only bike on offer. But innovation has transformed cycling and removed many frictions in the journey.
+There are common and enduring features which remain key. Both our Boneshaker and modern bikes have a frame, two wheels, and a way to steer. But technology has been used to enhance the user experience and to meet the evolving needs of consumers. Modern bikes have improved aerodynamics to enhance speed, and innovations in style have added immense choice to accommodate differing user needs – from the fold-up and electric offering for commuters, to the high-speed, no-brake models for Olympic and professional track cyclists. These new models have needed to balance improvements in speed, with cost and resilience. Maintaining this balance is not so different from that we seek in our approach to innovation in money and payments! And there are similarities too in the approach to innovation.
+Innovation requires a shared mission, and sense of partnership between different parties.
+A shared mission has certainly driven great innovation for those hunting for gold medals. And a shared mission is key to us in innovating payments. Preserving and enhancing the usefulness of money and payments is a collective, public and private, endeavour and we want to work with industry to shape the future of payments. Industry engagement was key to developing the vision for the renewed RTGS, and we have maintained that engagement by continuing to consult on the Future Roadmap for RTGS, and through co-creation to develop new functionality. This is why the Bank published its
+Approach DP
+earlier this year: to start a conversation that will shape and inform our priorities. And it’s why we welcome the National Payments Vision, and the creation of the
+Payments Vision Delivery Committee
+and
+Vision Engagement Group
+to drive progress on retail innovation.
+A second observation about innovation
+: sustained progress always requires iteration and learning via a number of small, focused changes; as well as occasional big ones. The advent of the bike itself was a big bang invention; and use of new technologies, such as carbon fibre and 3D printing, have been major changes. But continuous improvement in specific features, such as disc brakes and puncture-resistant tyres, has been crucial in keeping bikes relevant. And then came the electric bike as another big bang moment.
+In the Bank, we are taking an iterative approach to payments innovation. The introduction of the ISO 20022 global messaging standard for CHAPS was a major, transformative change. And now we are collaborating with industry and with international counterparts to introduce a stream of smaller changes to sustain this progress, keeping our message schemas up to date, responsive to industry requirements, and internationally aligned. And like Olympic bicycles, the renewed RTGS system has been built in a modular design, to allow us to enhance and upgrade components iteratively. This means that once the new core ledger and settlement engine is introduced next year, we will have a strong platform on which to build enhancements such as synchronised payments.
+And thirdly, innovation is a team sport:
+delivered through the inspiration and hard work of many diverse teams. Many of us will recognise Sir Chris Hoy as the winner of 17 Olympic and World Championship gold medals, but fewer of us are aware that the team behind Sir Chris’ 2008 bike had a hand in over 100 Olympic and World Championship gold medals.
+footnote
+[1]
+Similarly, our transformation of RTGS has relied on many different teams across the Bank, and also on suppliers, and, crucially, on the input from industry. And new technology isn’t just about the product, it needs to consider the whole ecosystem, new operating models and training for internal and external users.
+So what work is already underway to ensure the ‘frame’ that we provide, our RTGS service, continues to meet the changing needs of industry and other users in order to promote innovation?
+The RTGS Future Roadmap
+We held a formal consultation in 2022, seeking views on a
+Future Roadmap for RTGS
+. This Roadmap sets out our plan to continuously evolve RTGS through building on the strong foundations laid by upgrading our core ledger and settlement engine.
+The Roadmap features aim to support innovation in several key areas. We are continuing to enhance the resilience of RTGS to address the changes in the payments landscape – for example, by assessing new ways to connect to RTGS such as through APIs. We are adding features that improve user functionality and interoperability, such as synchronisation. And we’re exploring how wider access to the RTGS platform, and longer RTGS settlement hours, can foster innovation and boost resilience. Some of these features will have particular benefits to enhance cross-border payments and advance the international work on this, which is strongly supported by the Bank.
+Ultimately, we are building this for the industry – we want to provide infrastructure and services which create a strong platform to enable industry to innovate. We have already worked closely with industry to deliver the renewed RTGS service, and international work on cross-border payments under the auspices of the
+G20 Roadmap
+has also benefited from close collaboration. The CPMI’s ISO 20002 harmonisation requirements were developed by a public-private taskforce, allowing them to command broad support, and I very much welcome the initiative from the Payments Interoperability and Extension Task Force to gather industry views on the steps required to enhance cross-border payments. Co-creating with the industry and other users is also at the centre of our approach to the future roadmap for RTGS.
+I would like to focus three priorities where industry input this year has helped us make progress.
+Reviewing whether wider access to RTGS could be facilitated
+First, access to the RTGS service. Any technology must be accessible to be useful. We have taken steps to extend the benefits of safe settlement in central bank money by offering settlement accounts to more, and to more diverse types of firms.
+These benefits include, for example, greater certainty from settlement on their own behalf without relying on a sponsor, who may be their competition. Faster payments and cheaper services due to fewer intermediaries in the payment chain. And reducing excessive tiering in the system. These can ultimately benefit end users and enhance cross-border payments.
+In 2017, we became the first G7 central bank to provide access to Non-Bank Payment Service Providers (NBPSPs). In 2021, we introduced Omnibus Accounts for payment system operators: a new type of account which supports innovation in wholesale payment services by expanding the range of access options currently available. Through an omnibus account, payment systems using innovative settlement models, such as DLT, can settle transactions real time, 24x7, in central bank money. And we want to keep expanding access. Earlier this year, we asked industry for views
+relating to facilitating
+access to RTGS
+by NBPSPs, FMIs and foreign banks, as well as to the review of the CHAPS direct participation threshold
+through a
+discussion paper
+.
+We are considering the feedback received and are aiming to respond by Spring 2025.
+We remain committed to making our access framework and policies more dynamic, transparent and fit for purpose in an environment of increasingly rapid change and innovation.
+Reviewing the case for extending RTGS settlement hours
+The accessibility of central bank money also depends on the hours of operation of the RTGS service.
+The RTGS service currently settles 12x5 from 6am to 6pm each business day. Extending those settlement hours will help to reduce payment delays, speed up execution, lower costs, and mitigate settlement risk. And by increasing overlap with payment system operators in other jurisdictions, there are big benefits for cross-border payments. We expect extending RTGS settlement hours to enable innovation and more effective competition. It expands the benefits of other innovative RTGS features. And it facilitates more seamless integration of central bank money into ‘always-on’ payment solutions.
+It also brings challenges such as staffing and operational implications as well as system changes. So earlier this year, we issued a
+discussion paper
+to learn more about the implications of extending settlement hours.
+As set out in October this year, informed by your feedback, we are
+minded to extend our settlement hours
+. We see a strong case for a phased transition to extended hours over several years, and with a first-stage extension of four and a half hours into the morning. Our ambition is to move to near-24x7 operation around the turn of the decade. We will continue to work closely with the industry on a more detailed analysis and will issue a consultation paper in 2025 outlining the final proposal for extending settlement hours.
+Fostering wholesale settlement innovation through “synchronisation”
+We are developing an exciting new functionality to expand conditional settlement in central bank money to transactions that involve a wider set of assets. We call this synchronisation: co-ordinating the movement of central bank money between accounts in the RTGS service, with the transfer of assets on one or more other ledgers.
+Synchronisation will involve a new type of entity, a 'synchronisation operator' (SO). The SO will orchestrate the movement of funds in RTGS with the assets on the external ledgers. Playing such a pivotal role in the flow of synchronisation, it has been extremely important for us to co-create with prospective SOs to enable us to design the service in a way that is most beneficial and will result in the greatest value for industry and other users. We have spoken to industry and prospective SOs bilaterally, sought views in our co-creation meetings, and most recently asked about design choices via our synchronisation survey that elicited some extremely useful insights.
+So far, we have heard that synchronisation could provide big benefits across multiple ‘use cases’. There is potential in house purchase transactions, by enabling communication between the RTGS service with a property ledger; and in FX PvP, between the UK RTGS service and another RTGS service; and in tokenised-asset transactions, between the RTGS service and programmable platforms for digital assets. We will continue to consult and work with industry next year to improve design and prepare for delivery.
+We’re also learning through experiments. The Bank is working with the BIS Innovation Hub’s London centre on the Meridian
+series of synchronisation experiments. In 2023, we demonstrated how synchronisation could be applied to
+house purchases
+. Now, working with the Eurosystem, we’re exploring
+synchronisation of FX PvP
+between sterling and euro where we could see the benefits for cross-border payments with lower liquidity costs and settlement risk.
+And as set out in our
+Approach DP
+, we are soon to embark on a programme of experiments to consider what additional functionality a so-called wholesale central bank digital currency could bring. Many central banks have started to explore the potential of a wCBDC, which we interpret as a
+new platform for the distribution of wholesale central bank money which unlocks separate functionalities or efficiencies to those enabled by RTGS systems. Our experiments could test different transactions under both a synchronisation functionality and tokenised wCBDC. This would enable relative assessment of the differences and interoperability between the technologies. Working closely with the industry will continue to be crucial as we begin this programme.
+Conclusion
+I began this speech with what cycling can tell us about innovation. As we complete today’s tour of the payments landscape let us reflect on some key components of sustainable and useful innovation: shared mission, public and private; iteration; and teamwork.
+To quote Theodore Levitt, “Creativity is thinking up new things. Innovation is doing new things”.
+footnote
+[2]
+We look forward to working with industry to deliver real benefits to customers, and ultimately to the growth of the economy.
+Acknowledgments
+I would like to thank Dovile Naktinyte, Rajan Patel and Nina Turnbull for their help in preparing these remarks, and further to Paul Bedford and Laurie Roberts for their comments and suggestions.
+References
+Spender (2024), ‘
+Cyclist Magazine Podcast episode 111: Dimitris Katsanis makes the world’s fastest bikes
+’
+Ewing (2024), ‘
+Talking About Brand Innovation: Brand Innovation and You
+’
+Cyclist Magazine Podcast: Dimitris Katsanis makes the fastest bikes | Cyclist
+Let's Talk About Brand Innovation - System1 Group
+Let's Talk About Brand Innovation - System1 Group
+Close
+Cyclist Magazine Podcast: Dimitris Katsanis makes the fastest bikes | Cyclist
+Close
+Convert this page to PDF
+Victoria Cleland
+Executive Director, Payments
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

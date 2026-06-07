@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Clinical supervision − speech by Sam Woods",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Sam Woods",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2026/may/sam-woods-speech-at-the-henry-thornton-lecture-bayes-business-school",
+  "raw_file_path": "data\\BOE\\Speeches\\2026-06-01 - Sam Woods - Clinical supervision − speech by Sam Woods.html",
+  "text_file_path": "data\\BOE\\Speeches\\2026-06-01 - Sam Woods - Clinical supervision − speech by Sam Woods.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:08:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e380f5d2e268b8823ea9da280eb9fb1fd0205463768c690c3523c283d46f946e"
+}

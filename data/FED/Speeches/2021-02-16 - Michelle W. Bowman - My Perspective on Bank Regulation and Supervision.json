@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "My Perspective on Bank Regulation and Supervision",
+  "date_original": "2021-02-16",
+  "date_au": "16/02/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210216a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-02-16 - Michelle W. Bowman - My Perspective on Bank Regulation and Supervision.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-02-16 - Michelle W. Bowman - My Perspective on Bank Regulation and Supervision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0d46838c602d8ee233d751bd3b09d5275a7959725042b7e9353c1c3050ac0440"
+}

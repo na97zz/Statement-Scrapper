@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Opening Remarks at the 2023 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japan",
+  "date_original": "2023-05-31",
+  "date_au": "31/05/2023",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230531a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-05-31 - UEDA Kazuo - Opening Remarks at the 2023 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japan.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-05-31 - UEDA Kazuo - Opening Remarks at the 2023 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japan.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fb06992a3afd58d67ac3ae2b6a67a1a668efe13ddf6384682496b680af5c4132"
+}

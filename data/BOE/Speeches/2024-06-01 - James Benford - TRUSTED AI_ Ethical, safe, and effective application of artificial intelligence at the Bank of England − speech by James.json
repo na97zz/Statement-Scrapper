@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "James Benford",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2024/september/james-benford-speech-at-the-central-bank-ai-inaugural-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - James Benford - TRUSTED AI_ Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James.html",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - James Benford - TRUSTED AI_ Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d27f5a7b49ef8e54244ae8716c156b75fdbcb5e9a9eda28a412611d9ea7dd14a"
+}

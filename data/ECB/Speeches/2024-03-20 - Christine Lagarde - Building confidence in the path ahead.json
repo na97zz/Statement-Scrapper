@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Building confidence in the path ahead",
+  "date_original": "2024-03-20",
+  "date_au": "20/03/2024",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240320~28c9a70818.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-03-20 - Christine Lagarde - Building confidence in the path ahead.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-03-20 - Christine Lagarde - Building confidence in the path ahead.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6d48103ce577ace5a4237ab1117d35707cdb412763c3ad1b87c4ca53a550f910"
+}

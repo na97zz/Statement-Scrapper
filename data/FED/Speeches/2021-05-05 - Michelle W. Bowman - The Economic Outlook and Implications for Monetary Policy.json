@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and Implications for Monetary Policy",
+  "date_original": "2021-05-05",
+  "date_au": "05/05/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210505a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-05-05 - Michelle W. Bowman - The Economic Outlook and Implications for Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-05-05 - Michelle W. Bowman - The Economic Outlook and Implications for Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "05df32b200a8f512ebe8f591c449614f46bef440eeccf375fc86a1a26823b61a"
+}

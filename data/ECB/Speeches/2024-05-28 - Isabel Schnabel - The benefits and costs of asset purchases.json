@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The benefits and costs of asset purchases",
+  "date_original": "2024-05-28",
+  "date_au": "28/05/2024",
+  "datetime_original": "",
+  "speaker": "Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240528~a4f151497d.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-05-28 - Isabel Schnabel - The benefits and costs of asset purchases.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-05-28 - Isabel Schnabel - The benefits and costs of asset purchases.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4aad961b5aa35d33fdf756ada447e116c76d054232788101c2c93f99dad6dae2"
+}

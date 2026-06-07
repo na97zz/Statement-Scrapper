@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stability: Resilience and Challenges",
+  "date_original": "2023-11-06",
+  "date_au": "06/11/2023",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20231106a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-06 - Lisa D. Cook - Financial Stability_ Resilience and Challenges.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-06 - Lisa D. Cook - Financial Stability_ Resilience and Challenges.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5f9e84e2fd067785d767029343d0dd7f78258a2828ebecf8d55ad23f0d78ae57"
+}

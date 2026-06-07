@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Seven Reflections on Japan's Economy, Monetary Policy, and the Bank of Japan\" (Speech at the Center on Japanese Economy and Business, Columbia University in New York)",
+  "date_original": "2023-02-28",
+  "date_au": "28/02/2023",
+  "datetime_original": "",
+  "speaker": "WAKATABE Masazumi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230228a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-02-28 - WAKATABE Masazumi - _Seven Reflections on Japan's Economy, Monetary Policy, and the Bank of Japan_ (Speech at the Center on Japanese Econ.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-02-28 - WAKATABE Masazumi - _Seven Reflections on Japan's Economy, Monetary Policy, and the Bank of Japan_ (Speech at the Center on Japanese Econ.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c64d6aed8169db3140905bbfdf583152ef25b90ebef750fa88887ae48aac5631"
+}

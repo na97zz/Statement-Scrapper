@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2023-06-22",
+  "date_au": "22/06/2023",
+  "datetime_original": "",
+  "speaker": "Opening Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230622a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-06-22 - Opening Remarks - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-06-22 - Opening Remarks - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ffc0c0415124a4bf8791864a6d81431e6d1064115038832b02f9d2a26019b472"
+}

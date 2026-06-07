@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Considerations for Revisions to the Bank Regulatory Framework",
+  "date_original": "2023-05-19",
+  "date_au": "19/05/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230519a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-19 - Michelle W. Bowman - Considerations for Revisions to the Bank Regulatory Framework.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-19 - Michelle W. Bowman - Considerations for Revisions to the Bank Regulatory Framework.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "584a1d0f2d76e5e285a9848c3eaf8bf27900ce8de32835daae305e5db1427fb9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Remaining Patient as the Outlook Brightens",
+  "date_original": "2021-03-23",
+  "date_au": "23/03/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210323b.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-23 - Lael Brainard - Remaining Patient as the Outlook Brightens.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-23 - Lael Brainard - Remaining Patient as the Outlook Brightens.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5934aa469e1529c2af730a043754bdfff9555cf80a697d34fba0105454f0afdd"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy decisions",
+  "date_original": "2025-09-11",
+  "date_au": "11/09/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250911~6afb7a9490.en.html",
+  "raw_file_path": "data\\ECB\\Monetary Policy\\2025-09-11 - Monetary policy decisions.html",
+  "text_file_path": "data\\ECB\\Monetary Policy\\2025-09-11 - Monetary policy decisions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:08:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5bb099a3aa14a549941b00453651da95e5bfcbfd44e0a9ca6e47b10c6adbe683"
+}

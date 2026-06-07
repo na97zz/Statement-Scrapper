@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy, financial stability and medium-term growth in the euro area",
+  "date_original": "2024-02-14",
+  "date_au": "14/02/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240214~3397307c2b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-02-14 - Monetary policy, financial stability and medium-term growth in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-02-14 - Monetary policy, financial stability and medium-term growth in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "09d5f0f32022019f6243ff280ffe7c4c36e184b83603d2240cf84a7dcb703fe3"
+}

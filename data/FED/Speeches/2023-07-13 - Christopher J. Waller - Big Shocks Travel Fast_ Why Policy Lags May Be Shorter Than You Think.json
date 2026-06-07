@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Big Shocks Travel Fast: Why Policy Lags May Be Shorter Than You Think",
+  "date_original": "2023-07-13",
+  "date_au": "13/07/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230713a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-07-13 - Christopher J. Waller - Big Shocks Travel Fast_ Why Policy Lags May Be Shorter Than You Think.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-07-13 - Christopher J. Waller - Big Shocks Travel Fast_ Why Policy Lags May Be Shorter Than You Think.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c3a8c888e9e352c5af45e73a6c21bca65cbbd34d068dbd7a5ba41e964092a86b"
+}

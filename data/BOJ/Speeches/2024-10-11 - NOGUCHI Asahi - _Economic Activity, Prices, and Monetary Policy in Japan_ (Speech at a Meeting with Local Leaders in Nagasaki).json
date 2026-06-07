@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Nagasaki)",
+  "date_original": "2024-10-11",
+  "date_au": "11/10/2024",
+  "datetime_original": "",
+  "speaker": "NOGUCHI Asahi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko241011a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-10-11 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Nagasaki).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-10-11 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Nagasaki).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e3a612f1b30dce6f76eb237a32c5b5b105c7f23d3fd365a6dcc0678424de9d1c"
+}

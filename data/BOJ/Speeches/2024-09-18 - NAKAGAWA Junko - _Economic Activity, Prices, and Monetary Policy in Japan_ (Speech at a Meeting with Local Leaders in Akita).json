@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Akita)",
+  "date_original": "2024-09-18",
+  "date_au": "18/09/2024",
+  "datetime_original": "",
+  "speaker": "NAKAGAWA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240918a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-09-18 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Akita).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-09-18 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Akita).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "adb762be9384cb7dcf766f7a771aa53d4ed82e9222855ac765e52589d9da5189"
+}

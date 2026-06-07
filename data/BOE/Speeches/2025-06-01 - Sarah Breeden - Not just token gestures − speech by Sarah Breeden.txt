@@ -1,0 +1,233 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Not just token gestures − speech by Sarah Breeden
+DATE: 01/06/2025
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/october/sarah-breeden-panellist-at-fintech-foundation-2025-dc-fiintech-week
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Not just token gestures − speech by Sarah Breeden
+Based on remarks given on the ‘Real World Assets Tokenisation: What Asset Classes Will Work – and Which Won’t’ panel at DC Fintech Week 2025
+Published on 
+
+ 15 October 2025
+Sarah Breeden discusses the significant steps the Bank of England is taking to enable responsible innovation in finance in this period of profound technological change. She looks ahead to the Bank’s forthcoming consultation on its stablecoin regime to deliver their greater use in 'real world’ payments, and the importance of active engagement with and by industry to drive the innovation we seek.
+Speech
+It’s a pleasure to be here at DC Fintech Week 2025 to speak about tokenisation and Distributed Ledger Technology (DLT), given their potential to transform real world retail and wholesale financial services.
+This technology allows the creation of common shared ledgers that can be updated near-simultaneously across all parties in a financial transaction, thereby eliminating the need for each party to maintain its own records.
+It enables financial assets to be digitally represented (‘tokenised’) on such shared ledgers and settled near instantaneously.
+And in this way, it can facilitate faster, cheaper processes in wholesale financial markets and cross-border payments - with fewer intermediaries, less operational risk, shorter settlement windows and smart contracts automating processes such as coupon payments on bonds.
+In addition, these ledgers can increase the liquidity of a wider range of financial assets (for example private assets, units in investment funds, or real estate), enabling them to be held, traded or even used as collateral by a broader set of players. Assets can also be 'fractionalised' so that investors can hold a portion (eg of a property) if they can't afford the whole.
+Applied to retail payments, these technologies can offer households and businesses new functionality – embedding payments more deeply, automatically and efficiently into our increasingly digital lives.
+They could enhance online shopping by enabling a buyer’s funds to be reserved at time of purchase and automatically released to the seller only once physical delivery of goods is confirmed. That could enable greater competition in online retail if consumers are more confident to shop online with a new merchant or platform.
+footnote
+[1]
+Such functionality might also help to alleviate the perennial challenge of late payments to small businesses, as they could receive payments automatically upon delivery. Lower cost payments could also make micropayments (those for very small amounts) more economical, so that, for example, customers pay for the newspaper articles, book pages or songs that they consume as they do so, rather than some being putting off by having to pay flat subscriptions upfront.
+In addition, as we start to see so-called ‘agentic’ artificial intelligence (AI) being deployed in commerce
+footnote
+[2]
+- where an AI-powered virtual ‘agent’ learns a user’s preferences, autonomously browses online stores, compares prices and makes purchases on a user’s behalf – tokenisation and DLT could support this by enabling the AI agent to integrate more seamlessly with real-time, digitally native payments infrastructure than it can with traditional technology.
+The Bank of England’s approach to promoting responsible innovation in tokenisation
+The Bank of England has today
+published
+its approach to promoting responsible innovation in DLT, AI and quantum computing – the three technologies we see as having the greatest potential today to shape financial services.
+We don’t forecast with perfect foresight, least of all when it comes to technological trends. Some benefits expected today will turn out not to materialise tomorrow, and other new technologies will no doubt emerge.
+There are also challenges to overcome – for example in using DLT, we need to ensure that these ledgers when used in regulated infrastructure deliver the same levels of operational resilience, settlement finality and clearly accountable governance that we expect for regulated infrastructure using traditional technology, while still maintaining scalability for high transaction volumes.
+But by seeking to get ahead of how these new technologies will impact our objectives for monetary and financial stability, we can ensure that we have the hard and soft infrastructure, and that we convene and coordinate the financial services industry, to enable their responsible adoption.
+When it comes to tokenisation, we’ve already put in place
+soft infrastructure – the regulatory framework – to enable the private sector to set up trading venues and settlement systems for tokenised assets. This is the Bank’s so-called
+Digital Securities Sandbox
+launched last year jointly with the Financial Conduct Authority (FCA). ‘Sandbox’ is an understatement though. These won’t merely be prototypes or experiments; they will be real-world transactions in tokenised securities, and market participants will interact with these trading venues and settlement systems in the same way as they do in the conventional financial system.
+We’ve got 15 firms preparing with regulators to launch trading and settlement venues potentially as early as next year, with more in the pipeline – ranging from established financial firms (eg Euroclear, HSBC, JP Morgan and the London Stock Exchange Group) to new players, and across the full range of asset classes (eg equities, corporate and government bonds, and investment funds including real estate funds).
+The sandbox will enable markets in these securities to grow up to a set size
+footnote
+[3]
+over the next five years, during which time the Bank, FCA and HM Treasury intend to learn from firms’ activity and, subject to that, to determine the new, permanent regulatory regime for the trading and settlement of digital securities.
+Of course, financial markets are inherently global, and tokenised financial markets should be no different.
+As tokenised asset markets emerge in different jurisdictions, we should avoid them operating in a such a way that they are incompatible with each other - or indeed with those parts of domestic financial systems using traditional technology. That would impede cross-border and cross-asset trading, and so fragment market liquidity. Interoperability and regulatory cooperation including across borders will be essential. That motivates our participation in the Monetary Authority of Singapore’s Global Layer 1 initiative, which is exploring common standards for DLT platforms. Given I’m here in DC, I should also flag that we’ve had a lot of positive interest from US authorities in our Sandbox.
+footnote
+[4]
+And I look forward to discussing opportunities for greater UK-US collaboration in tokenised markets in the new Transatlantic Taskforce
+footnote
+[5]
+announced following the US President’s state visit to the UK in September, to be chaired by our respective finance ministries.
+Given the inevitable coordination issues with deploying new technologies across financial markets, there is an important role for UK authorities in convening market participants and driving collective action. The UK government announced in July as part of its
+Wholesale Financial Markets Digital Strategy
+that it will appoint a Digital Markets Champion to join up the private sector’s work on these issues. And it is proceeding with issuing a digital gilt instrument (DIGIT) on a platform within our Sandbox, to help catalyse the development of UK-based DLT infrastructure and the adoption of DLT in UK financial markets.
+footnote
+[6]
+Now I know
+you’d expect me to say this – I am a central banker and we are in the money business after all
+– but the most important enabler for the responsible adoption of tokenisation in finance is the availability of settlement assets with the requisite safety and functionality to play the role of money in tokenised transactions.
+I set out in a
+speech
+last month that my vision for the UK payments landscape is one of a ‘multi-money’ mixed ecosystem – with a role for money issued by the central bank, money issued by commercial banks, and money issued by regulated non-banks (that is, stablecoin issuers); all freely and frictionlessly exchangeable at par, while providing users with choice and competition.
+For central bank money, we’ve launched the Bank’s new wholesale payments infrastructure, RT2, this year. This has functionality already to support settlement of the cash leg of tokenised asset transactions using a tokenised representation of central bank money.
+footnote
+[7]
+And a payment system of this kind is already live in the UK and in its initial stages of operations.
+Synchronisation functionality, which will allow central bank money to be fully integrated with wholesale tokenised transactions, will initially launch next year in our Synchronisation Lab, to enable testing of real-world use cases. And subject to that, it will be delivered into production.
+We’re calling on industry to work with us on starting to deploy these new functionalities in RT2. Omnibus account functionality is live. And later this week, we will be issuing a call for participants for the Synchronisation Lab. So the tools are there for industry to use. I encourage you all to bring your creativity to bear in developing innovative use cases with them.
+For our part, we’re also experimenting with whether there is anything further that we can do, beyond omnibus accounts and synchronisation, such as the Bank itself tokenising central bank money for use in wholesale transactions (so-called ‘wholesale Central Bank Digital Currency’)
+footnote
+[8]
+or for use in retail transactions (retail CBDC).
+footnote
+[9]
+For commercial bank money, we clarified to banks two years ago how deposit-taking entities issuing digital money can do so in the form of (tokenised) deposits and we continue to engage closely with banks to ensure that regulation is not a barrier.
+footnote
+[10]
+Importantly also, a new institutional model for UK payments announced this summer will deliver the next generation of UK retail payments infrastructure, to enable the seamless exchange of tokenised money between banks and stablecoin issuers.
+footnote
+[11]
+Stablecoins
+I want to spend the remainder of my remarks today on stablecoins. There’s obviously been a lot of focus on stablecoins this year, with the passage in July of the GENIUS Act in the US establishing the legislative basis for stablecoin regulation at a federal level.
+With the flurry of activity in the US this year, I hear people say that the UK is behind in its work on stablecoins. I must say I don’t recognise this. The FCA
+consulted
+on its detailed requirements for stablecoins in May this year. We will consult later this year on our requirements for sterling-denominated stablecoins used in systemic payment systems. That will put us in a position to finalise our regulatory regimes next year – as is the aim in the US.
+I should be clear that the Bank’s role as the regulator of stablecoins used in systemic payment systems means that we are concerned only with those stablecoins being widely used as money in retail and wholesale ‘real world’ payments. The vast majority of stablecoin activity globally at the moment is instead used as the settlement asset for trading of unbacked cryptoassets.
+footnote
+[12]
+While unbacked cryptoassets are growing in popularity, the Bank’s Financial Policy Committee continues to judge that their systemic risks to UK financial stability are limited – and so there is no need for stablecoins used in that market to be subject to the Bank’s stablecoin regime.
+Our stablecoin regime is instead motivated by their potential for use in retail and wholesale payments. We want to support such a role for stablecoins as part of a multi-money system (as I mentioned earlier). And while, to date, proposals for stablecoins to be used for these purposes are yet really to take off, we know from other areas of tech innovation how quickly new products can grow, particularly where (as in payments) network effects are large, and where they can harness large existing user bases. We also know from experience how difficult it can be retrospectively to regulate such networks.
+Those network dynamics are why at the Bank we have been working hard to put in place a regulatory regime for stablecoins being widely used for payments
+ahead of
+their emergence, so that our regulatory framework for money is fit for the future.
+We are well advanced in putting this in place. Such a regime will allow those stablecoin firms who want to innovate by providing better payment services to users to understand the risks that need to be managed as they develop those products – and ensure that innovation is not simply competing by taking higher financial, operational or conduct risks.
+In that vein, for such stablecoins to have a role in our multi-money system, it’s important that they meet the same levels of robustness as we expect from widely used money today – that issued by commercial banks.
+That isn’t to say they have to meet the exact rules we apply to banks. In our regime, stablecoins don’t seek in their business models to make money from lending or maturity transformation, so lots of banking sector regulation need not apply. But we do need to ensure that in all states of the world, a pound issued by a regulated stablecoin issuer is worth the same as a pound issued by a commercial bank and a banknote issued by the Bank of England. This ‘singleness of money’ is the foundation on which monetary and financial stability and ultimately economic activity depend – just as we don’t in our everyday lives expect today to question whether a pound in one bank is worth the same as a pound in another.
+The Bank of England is clear that it is prepared to offer regulated stablecoins the means to achieve this.
+In particular, we said in 2023
+that we would provide accounts at the Bank of England for systemic stablecoin issuers, which they can use to back their coins and so ensure their value.
+footnote
+[13]
+And, as my colleague Sasha Mills and I have set out in recent months, in response to feedback on those proposals, we will supplement that in our upcoming consultation by enabling systemic stablecoin issuers to receive some return on their backing assets by allowing a proportion of them to be invested in short-term UK government debt.
+footnote
+[14]
+In addition, our consultation will set out that the Bank is considering putting in place a liquidity facility to help backstop solvent systemic stablecoin issuers’ ability to monetise those assets if needed and so to support meeting redemption requests.
+footnote
+[15]
+As a consequence, and in contrast to other jurisdictions where stablecoins have to rely in effect on their competitors (commercial banks) to provide them a bank account, in the UK’s regime the Bank of England will play the role of banker to systemic issuers. That avoids the issues we’re already starting to see overseas of a lack of availability of banking services for stablecoin issuers.
+Holding deposits with the central bank also mitigates the financial stability risks that could otherwise arise from interconnectedness between commercial banks and systemic stablecoin issuers. It avoids the risk of rapid outflows from a stablecoin backed with commercial bank deposits creating funding challenges for the bank. And it avoids the risk of failure of a bank calling into question the solvency of a stablecoin issuer (as we saw, for example, in March 2023 when Circle’s USDC stablecoin lost its peg to the dollar after the failure of one of its bankers).
+footnote
+[16]
+And of course, the lower risk of holding cash at the central bank rather than in a commercial bank can be reflected in lower capital requirements for the stablecoin issuer.
+My final point touches on how we safely manage the transition from our current system of central bank and commercial bank money, to a more diverse and competitive multi-money system where regulated stablecoin issuers can also issue money.
+Our focus here is on ensuring the real economy’s continued access to credit, by ensuring the financial system has time gradually to adjust to new forms of digital money – a critically important issue in the UK given credit here relies more heavily on banks compared to, for example, the position in the US.
+footnote
+[17]
+It is not on protecting banks’ business models.
+To illustrate my point, let’s consider a widespread and fast adoption of stablecoins. Significant and rapid outflows of bank deposits into such stablecoins could lead to a precipitous drop in credit for businesses and households if the banking system were unable to increase, at scale and at pace, its use of wholesale financing from non-banks (insurers, funds etc). Once adjusted, access to finance for the real economy would be stabilised.
+footnote
+[18]
+But it is the financial stability risks in transition that we are concerned with.
+We are clear that this is the outcome we want to avoid, and are open to exploring how best to achieve it. We have considered different tools - limits on a customer’s holdings of systemic stablecoins, aggregate limits on the overall size of the coin, and limits on transaction size. All of these are intended to be temporary to allow the structure of real-economy financing to adjust – and to enable the Bank to monitor adoption of stablecoins and assess the potential for rapid changes in the structure of the financial system. So let me be clear. We would expect to remove the limits once we see that the transition no longer threatens the provision of finance to the real economy.
+Our starting point is that applying limits to a user’s holdings of a given systemic stablecoin is the best way to avoid such a precipitous reduction in the availability of credit to UK borrowers. These would limit flows around the system, whilst still allowing for coins to be widely usable for retail payments. Our consultation later this year will seek feedback on the proposed levels for such limits
+footnote
+[19]
+– businesses would have a higher holding limit than individuals, and there would likely be an exceptions regime so that the largest businesses in the country (eg supermarkets) could hold more if required, We also intend to seek feedback on implementing such limits in practice, as well as on other approaches to achieving our aims.
+When it comes to wholesale payments, my view is that central bank money must remain the settlement asset for systemically important asset markets even as we see greater tokenisation in those markets. That way, we don’t introduce potentially precarious and unnecessary interconnections in the financial system and so create financial stability risks.
+But, central bank money isn’t needed for all settlement today, and it won’t be needed for all settlement in the future. That’s why there will likely be an important role in tokenised markets for privately issued money: both tokenised deposits and regulated stablecoins.
+We are therefore working to expand the range of settlement assets in the Digital Securities Sandbox to include not just tokenised deposits but also regulated stablecoins. The limits I mentioned on holdings of systemic stablecoins would not need to apply to stablecoins used as a settlement asset for transactions in the Sandbox – as individual trading and settlement venues in the Sandbox are already subject to limits on their overall issuance in a particular asset class. And so we will be able to observe use cases and risks as we consider what adjustments may be needed as we move towards a permanent regime, while still allowing innovation to take place in real-world transactions.
+Conclusion
+As I said, we will be consulting in coming weeks on the detail of our proposed regime for sterling stablecoins used in systemic payment systems, and we’ll be open to feedback as we finalise our rules.
+Tokenisation holds much potential for retail and wholesale financial services. The Bank is committed to enabling such responsible innovation. These aren’t token gestures that we’re making. They are significant modernisations of our own infrastructure, regulation and convening role, as we seek to maintain monetary and financial stability at an exciting time of technological change.
+We can’t though do this alone. We need the industry - both incumbents and new entrants - to work with us to engage, to experiment, to develop the use cases, and to deploy this technology; and thereby harness it for the benefit of households, businesses and financial markets.
+I would like to thank Michael Yoganayagam for his assistance in drafting these remarks, and to Kushal Balluck, Rachel Breitenbach, Emma Butterworth, Pavel Chichkanov, Amy Lee, Colm Manning, Magda Rutkowska and Natalja Sekhan for their helpful input. I would also like to thank Andrew Bailey, David Bailey, Victoria Cleland, Sasha Mills, Dave Ramsden, David Rule, Vicky Saporta, Ruth Smith, David Soanes and Carolyn Wilkins for their comments.
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC
+Eg OpenAI’s Instant Checkout in ChatGPT
+Eg £8-13.1 billion for gilts, and £17-28 billion for GBP corporate bonds; Table D,
+Guidance on the operation of the Digital Securities Sandbox | Bank of England
+.
+SEC.gov | Old Flames – Remarks by Commissioner Hester M. Peirce to the City of London Corporation, July 16, 2025
+Boosting collaboration between UK and US financial systems to drive innovation and growth in global markets - GOV.UK
+Digital Gilt Instrument (DIGIT) pilot update - GOV.UK
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Synchronisation and beyond: enabling the next wave of financial innovation − speech by Victoria Cleland | Bank of England
+Digital Pound Lab | Bank of England
+Letter from David Bailey, Nathanaël Benjamin and Vicky Saporta on ‘Innovations in the use by deposit-takers of deposits, e-money and regulated stablecoins’ | Bank of England
+Payments Vision Delivery Committee Update | Bank of England
+Citi Institute,
+Stablecoins 2030
+Regulatory regime for systemic payment systems using stablecoins and related service providers | Bank of England
+International payment rails: the value of a harmonised gauge − speech by Sarah Breeden | Bank of England
+;
+Building tomorrow’s markets: the digitalisation of finance − speech by Sasha Mills | Bank of England
+We are also considering putting in place a separate liquidity facility for systemic stablecoin issuers in certain gone concern scenarios, and are working with HM Treasury to consider options for special administration and resolution regimes to ensure that, were a systemic stablecoin issuer to fail, there is continuity of service where needed and protection of coinholders through redemption at par.
+Circle held $3.3 billion (around 9%) of its backing assets as deposits with Silicon Valley Bank (SVB) at the point of SVB’s failure in March 2023. USDC returned to its peg once US authorities confirmed that SVB deposits would be made whole.
+While not strictly comparable due to data sources, around 85% of outstanding credit to UK households (excluding student debt) is provided by banks, compared to 30-40% in the US (depending on how one accounts for the role of US government-sponsored enterprises in securitising loans originated by banks but ultimately held by non-banks).
+Once the financial system has adjusted, some households and businesses may find it economical to obtain financing from non-banks, if the cost of financing by banks has increased (as a result of banks relying more than previously on more expensive wholesale funding rather than deposit funding).
+As Sasha Mills
+said
+in July, “If implemented, these limits would likely be in the region of £10-20k for individuals and £10mn for businesses. But to be clear, we are still engaging with industry and listening to feedback, so these proposals are not finalised. We will be consulting on the precise details of this and other parts of the Bank’s requirements later this year.”
+As Sasha Mills
+said
+in July, “If implemented, these limits would likely be in the region of £10-20k for individuals and £10mn for businesses. But to be clear, we are still engaging with industry and listening to feedback, so these proposals are not finalised. We will be consulting on the precise details of this and other parts of the Bank’s requirements later this year.”
+Close
+Once the financial system has adjusted, some households and businesses may find it economical to obtain financing from non-banks, if the cost of financing by banks has increased (as a result of banks relying more than previously on more expensive wholesale funding rather than deposit funding).
+Close
+While not strictly comparable due to data sources, around 85% of outstanding credit to UK households (excluding student debt) is provided by banks, compared to 30-40% in the US (depending on how one accounts for the role of US government-sponsored enterprises in securitising loans originated by banks but ultimately held by non-banks).
+Close
+Circle held $3.3 billion (around 9%) of its backing assets as deposits with Silicon Valley Bank (SVB) at the point of SVB’s failure in March 2023. USDC returned to its peg once US authorities confirmed that SVB deposits would be made whole.
+Close
+We are also considering putting in place a separate liquidity facility for systemic stablecoin issuers in certain gone concern scenarios, and are working with HM Treasury to consider options for special administration and resolution regimes to ensure that, were a systemic stablecoin issuer to fail, there is continuity of service where needed and protection of coinholders through redemption at par.
+Close
+International payment rails: the value of a harmonised gauge − speech by Sarah Breeden | Bank of England
+;
+Building tomorrow’s markets: the digitalisation of finance − speech by Sasha Mills | Bank of England
+Close
+Regulatory regime for systemic payment systems using stablecoins and related service providers | Bank of England
+Close
+Citi Institute,
+Stablecoins 2030
+Close
+Payments Vision Delivery Committee Update | Bank of England
+Close
+Letter from David Bailey, Nathanaël Benjamin and Vicky Saporta on ‘Innovations in the use by deposit-takers of deposits, e-money and regulated stablecoins’ | Bank of England
+Close
+Digital Pound Lab | Bank of England
+Close
+Synchronisation and beyond: enabling the next wave of financial innovation − speech by Victoria Cleland | Bank of England
+Close
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Close
+Digital Gilt Instrument (DIGIT) pilot update - GOV.UK
+Close
+Boosting collaboration between UK and US financial systems to drive innovation and growth in global markets - GOV.UK
+Close
+SEC.gov | Old Flames – Remarks by Commissioner Hester M. Peirce to the City of London Corporation, July 16, 2025
+Close
+Eg £8-13.1 billion for gilts, and £17-28 billion for GBP corporate bonds; Table D,
+Guidance on the operation of the Digital Securities Sandbox | Bank of England
+.
+Close
+Eg OpenAI’s Instant Checkout in ChatGPT
+Close
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC
+Close
+Convert this page to PDF
+Sarah Breeden
+Deputy Governor, Financial Stability
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

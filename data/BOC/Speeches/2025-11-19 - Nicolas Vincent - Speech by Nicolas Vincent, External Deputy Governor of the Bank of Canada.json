@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Nicolas Vincent, External Deputy Governor of the Bank of Canada",
+  "date_original": "2025-11-19",
+  "date_au": "19/11/2025",
+  "datetime_original": "",
+  "speaker": "Nicolas Vincent",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2025/11/speech-nicolas-vincent-2025-11-19/",
+  "raw_file_path": "data\\BOC\\Speeches\\2025-11-19 - Nicolas Vincent - Speech by Nicolas Vincent, External Deputy Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2025-11-19 - Nicolas Vincent - Speech by Nicolas Vincent, External Deputy Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:57:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fcfd58aa72489c91b02c55d01054a59fc2d7230eaaab880a8b5f4d415f10288f"
+}

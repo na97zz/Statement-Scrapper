@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Central Bank Digital Currency: An update on the Bank of England’s work - speech by Tom Mutton",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Tom Mutton",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Tom Mutton - Central Bank Digital Currency_ An update on the Bank of England’s work - speech by Tom Mutton.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Tom Mutton - Central Bank Digital Currency_ An update on the Bank of England’s work - speech by Tom Mutton.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dc9a4d5eaf02439ffd6333d125f0a3845f184216d50404b0567d67fed63a4002"
+}

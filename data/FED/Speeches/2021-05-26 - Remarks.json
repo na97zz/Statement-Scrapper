@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Remarks",
+  "date_original": "2021-05-26",
+  "date_au": "26/05/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20210526a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-05-26 - Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-05-26 - Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d3efee238042fcf6501725af32f7378caa82029751a5a9c452d4bc5c85b33d50"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Year in Review: A Tale of Two Supply Shocks",
+  "date_original": "2024-12-03",
+  "date_au": "03/12/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20241203a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-12-03 - Adriana D. Kugler - A Year in Review_ A Tale of Two Supply Shocks.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-12-03 - Adriana D. Kugler - A Year in Review_ A Tale of Two Supply Shocks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "015354945c3de9ea73f697baf4a7b3d0606699aea0345cd73d171a118ad41be6"
+}

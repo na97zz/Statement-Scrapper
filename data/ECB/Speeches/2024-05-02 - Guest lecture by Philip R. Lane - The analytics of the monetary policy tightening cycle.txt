@@ -1,0 +1,538 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: The analytics of the monetary policy tightening cycle
+DATE: 02/05/2024
+SPEAKER: Guest lecture by Philip R. Lane
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240502~4066265c78.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+The analytics of the monetary policy tightening cycle
+Guest lecture by Philip R. Lane, Member of the Executive Board of the ECB, at Stanford Graduate School of Business
+Stanford, 2 May 2024
+Introduction
+My aim today is to review the ECB’s monetary policy tightening cycle.
+[
+1
+]
+The tightening began in December 2021 with the announcement of the end date for our net purchases under the pandemic emergency purchase programme (PEPP), as well as the recalibration and subsequent phase-out of our targeted lending programme. After concluding net purchases under the PEPP in March 2022 and net purchases under the asset purchase programme (APP) in June 2022, we subsequently normalised our policy rate (the deposit facility rate [DFR] in conditions of abundant excess liquidity) from -0.5 per cent to 2 per cent in the second half of 2022, before raising rates further into restrictive territory during the first nine months of 2023 to a level of 4.0 per cent. We have held the DFR constant at this level over the last five meetings since our last hike in September (Chart 1).
+[
+2
+]
+This was an especially striking tightening campaign in view of the prevailing highly-accommodative monetary stance, which consisted of very low levels of the policy rate that had been in place over the last decade, the considerable net asset purchasing under the APP since 2015 and under the PEPP since 2020 and the scale and pricing of the targeted long-term refinancing operations. In late 2021, this stance was still expected to be maintained over the medium term: for instance, the median respondent in the December 2021 Survey of Monetary Analysts expected the deposit facility rate to remain in negative territory until the first quarter of 2025 and net purchases under the APP to continue until June 2023. It follows that, relative
+the path expected in late 2021, the tightening cycle constituted a major surprise. Of course, the underlying driving force for the tightening cycle was the very large surprise increase in inflation, especially in 2022, after the unjustified Russian invasion of Ukraine. A defining feature is that a significant component of the stance tightening is expected to be persistent in nature, with rates only expected to descend to the neighbourhood of a more neutral level, while quantitative easing and targeted refinancing operations are not expected to be resumed.
+Chart 1: Policy rate path and risk-free curve over time
+(percentages per annum)
+Sources: Bloomberg and ECB calculations.
+Notes: The cut-off dates for the data used for the €STR forward curves are 17 December 2021, 11 March 2022, 22 July 2022, 16 December 2022, 9 February 2024, and 29 April 2024.
+The aim of this lecture is to review this tightening cycle from an analytical perspective. The tightening cycle had two basic aims. First, during an extended period in which inflation was far above our target, it was imperative to unwind a monetary stance that would have been too accommodative relative to the rapid shift in expected inflation over the relevant policy horizon. Second, given the scale of the surprise inflation in 2021-2022, it was essential to contain the propagation of the inflation shock through the subsequent price-wage adjustment phases. While corrective waves of price and wage resetting were inescapable, a monetary stance that ensured that demand would be dampened and that inflation would return to the target in a timely manner would be needed to ensure an orderly adjustment phase that did not risk embedding above-target inflation into longer-term inflation expectations.
+In calibrating the speed and scale of monetary tightening in the context of the post-pandemic recovery and extraordinary surge in energy prices (including due to the Russian invasion of Ukraine), several considerations were paramount.
+First, lags in monetary transmission were inevitable: it would take time for monetary policy to exert its full impact on inflation.
+Second, the descent of inflation from its peak would be assisted by the reversal of some of the factors driving the inflation surge: the easing of supply bottlenecks; the likely expansion of energy supply and contraction in energy demand in response to the spectacular increases in oil and gas prices; and the gradual re-normalisation of the economy through the fading out of pandemic-related distortions in sectoral supply and demand patterns. That is, the calibration of monetary policy should take account the temporary nature of some of the shocks, while making sure that these temporary shocks would not convert into permanent inflation through the de-anchoring of inflation expectations.
+Third, the calibration needed to allow for various types of uncertainty. Along one dimension, there was uncertainty about the intrinsic persistence of the inflation process. In addition to the standard uncertainty about the feedback dynamics by which price increases in one period would trigger subsequent price and wage increases in following periods, the scale of inflation during 2022 also led to shifts in behaviour, with firms switching to more frequent pricing resets. While this added to the intensity of inflation, it also held out the possibility that the overall adjustment process could be front-loaded.
+[
+3
+]
+Ultimately, the persistence of inflation would turn on the scale of de-anchoring of inflation expectations, which warranted close monitoring.
+Along a second dimension, there was uncertainty about the strength of transmission of monetary policy in view of possible shifts in the economic, financial and monetary environment. First and foremost, the many years of low inflation and the strategic commitment by central banks to deliver the inflation target over the medium term provided a strong foundation for containing the inflation shock, compared to the costly de-anchoring dynamics observed in the 1970s. Compared to previous tightening cycles, it was also important to take into account trend shifts in: the sectoral composition of activity (which, among other things, can affect the overall degree of price rigidity in the economy, the interest sensitivity of demand and the overall sensitivity of activity levels to domestic demand); the state of the labour market; the scale of leverage among households and firms; the state of the banking system (which had been stabilised following regulatory reforms and intensified supervision with the introduction of the Single Supervisory Mechanism) in relation to capital levels, the risk profiles of loan books (including due to the beneficial impact of borrower-based macroprudential measures) and bond holdings, together with the risk profile of liability structures; and, finally, structural exposures to interest rate movements (with a substantial increase in the share of fixed-rate mortgages).
+[
+4
+]
+In addition to trend shifts, the pandemic itself had resulted in lower leverage and more robust balance sheets, due to forced savings during the pandemic and the scale of fiscal transfers to households and firms. Furthermore, monetary tightening could be taking hold at the same time as a projected rebound in economic activity might protect employment levels, with firms holding onto workers in anticipation of post-pandemic normalisation. Working in the opposite direction, Russia’s unjustified war against Ukraine had triggered a major increase in economic uncertainty, while the surge in imported energy prices constituted a major terms of trade shock that substantially reduced real incomes and purchasing power: these forces were independently likely to dampen consumption and investment for any given level of monetary restriction.
+Along a third dimension, the nature of the monetary configuration also created uncertainty about the tightening process. After many years of expanding the central bank balance sheet (which had further accelerated during the pandemic), the required shift in the monetary stance called for an exit from net asset purchases and a pull back from the longer-term refinancing operations that had pumped liquidity into the banking system, in addition to the lifting of the policy rate. In the absence of historical benchmarks for this exit process, there was a wide range of views about the possible impact on the financial system. In addition, since both balance sheet normalisation and the lifting of policy rates were simultaneously proceeding at a global level, there was also uncertainty about the strength of international spillovers in the tightening process.
+[
+5
+]
+A final uncertainty dimension related to the modelling of monetary policy. The ECB maintains a suite of macroeconomic models in order to provide robust underpinnings for forecasting and policy analysis.
+[
+6
+]
+The projected impact of shifts in monetary policy varies across these models, in line with differences in the specification of the economic and financial environment and, crucially, in the sensitivity of inflation expectations to policy actions.
+Taken together, these various types of uncertainty underlined the importance of taking a data-dependent approach to the calibration of monetary policy that would take into account the evolving inflation outlook, the realised path for underlying inflation indicators and the incoming evidence on the strength of monetary policy transmission.
+I will now provide an analytical review of the transmission of monetary policy tightening to: the financial and banking systems; the economy; and, finally, inflation. I will also briefly draw some lessons from the tightening period for the conduct of monetary policy during the next phase of the cycle.
+Transmission to financial markets and the banking sector
+Our policy rate hikes and the phasing out of asset purchases have been passed smoothly to money markets, risk-free rates, risk assets and lending rates by banks.
+[
+7
+]
+Transmission via market interest rates
+The money market is the immediate locus in the transmission of monetary policy. Our key ECB interest rates have a direct impact on the rates prevailing in that market, while our balance sheet policies also play an important role. The transmission of the steep increase in our policy rates to unsecured money market rates has been smooth and complete. This is essential for a proper transmission as the euro short-term rate (€STR) and expectations about its future path form the basis of the entire euro area risk-free rate curve: the overnight index swap (OIS) rates. In the secured money market, rates saw some imperfect pass-through in late 2022 as the revaluation of bonds contributed to a temporary scarcity of collateral. Our measures (such as securities lending, cash collateral, and changed remuneration of government deposits) have helped to successfully restore full transmission in that part of the money market as well.
+As we returned to our policy rates as the primary instruments for steering the monetary policy stance in 2022, the understanding in the market of how we decide the key ECB interest rates has become pivotal again. This understanding contributes to the formation of expectations of market participants about the future path of interest rates and thereby has an immediate impact on medium- to longer-term interest rates, which are particularly consequential for the economy. ECB staff analysis of euro area risk-free rates and inflation-linked swap (ILS) rates suggests that financial markets have rapidly internalised the ECB’s pattern of reaction to changes in the inflation outlook. As a result, the gradual upward shift of the €STR forward curve throughout the tightening cycle (Chart 1) was more than proportional to the upward shift in market-based measures of inflation compensation (Chart 2), bringing real interest rates in the euro area from deeply negative to firmly positive levels.
+Chart 2: Inflation path and fixings
+(percentages per annum)
+Sources: Bloomberg, LSEG and ECB calculations.
+Notes: “Latest” refers to fixings with a cut-off date of 29 April 2024.The latest observations are for March 2024 for realised HICP (monthly data).
+When annual HICP inflation stood at 5 per cent in December 2021, markets were still pricing in a steady return of inflation to 2 per cent by the end of 2022. The repeated upward surprises in inflation thereafter caused an upward repricing of risk-free rates and of measures of inflation compensation, yet without signs that markets were misrepresenting our reaction function or that they were expecting inflation to stay permanently high. In fact, the inflation path priced into measures of inflation compensation and ECB staff analysis that seeks to extract the genuine inflation expectations component indicate that longer-term inflation expectations have remained well anchored close to 2 per cent throughout this episode.
+The continued anchoring of inflation expectations also helps explain another pattern in euro risk-free rates that has caused concerns among some observers: the slope of the risk-free curve – as measured by the difference between the OIS-ILS spread at a ten-year compared to two-year maturity – has been negative for over a year now and even stood at -0.8 in June 2023, a record-low level since the launch of the euro (Chart 3). Historically in the euro area and elsewhere, an inverted yield curve has often preceded economic recessions.
+[
+8
+]
+While the euro area economy has been stagnating, fears of a deep and long recession have proven unfounded. At the current juncture, the negative slope of the yield curve points to an assessment by markets which is directionally in line with ours: short-term interest rates stand at high and firmly restrictive levels but medium to longer-term rates are lower, as inflation and with it our policy rates are set to decline over time. In other words, the current inversion of the yield curve indicates expectations of an eventual normalisation of inflation towards 2 per cent and of interest rates towards more neutral levels.
+Chart 3: Slope of the risk-free yield curves
+(percentages per annum)
+Sources: Bloomberg and ECB calculations.
+Notes: Pre-1999 OIS rates are extrapolated using German Bund yields. Shaded areas indicate periods of euro area recession as defined by the CEPR-EABCN Euro Area Business Cycle Dating Committee. The latest observations are for March 2024 (monthly data).
+Longer-term risk-free rates increased in the euro area not only on account of higher expected policy rates, but also due to other measures taken by us and central banks globally. In particular, the phasing out of asset purchases has had an additional tightening effect via the decompression of term premia. Since December 2021, more than one third of the 280 basis point increase in the ten-year euro area OIS rate is estimated by our staff to result from an increase in term premia stemming from quantitative tightening and other factors. Indeed, the ongoing reduction (both realised and expected) of the Eurosystem bond holdings has been the main driver behind the increase in sovereign risk premia – and, given the no-arbitrage condition, in risk-free term premia – as duration risk is added back into the market (Chart 4).
+Chart 4: Impact of APP and PEPP sovereign bonds holdings on sovereign risk premia of the big-4
+(basis points)
+Sources: ECB calculations.
+Notes: The chart shows the estimated impact of APP and PEPP holdings on the GDP-weighted sovereign risk premium of sovereign bonds for the big-four sovereign issuers (Germany, France, Italy and Spain). Impacts are derived on the basis of an arbitrage-free affine model of the term structure with a quantity factor (see Eser, F., Lemke, W., Nyholm, K., Radde, S. and Vladu, A. L. (2023), “Tracing the Impact of the ECB’s Asset Purchase Program on the Yield Curve”,
+International Journal of Central Banking
+). The upper range of the blue area, i.e. the smaller impact estimates are based on the baseline version of the model, while the lower range of the blue area, i.e. the greater impact series are based on an alternative version of the model informed by the yield reactions to the March 2020 PEPP announcement. The latest observations are for March 2024.
+Our policy tightening has also been reflected in sovereign bond markets, which have coped well with the rapid increase in interest rates. Sovereign bonds serve as a key reference asset to price other bonds and as an important determinant of overall financial conditions within economies. ECB staff analysis also confirms that sovereign stress impairs the transmission of monetary policy to the real economy and eventually to inflation. Looking at the euro area as a whole, GDP-weighted euro area sovereign bond yields have moved largely in lockstep with risk-free rates in recent years. As a result, the ten-year yield spread over the OIS rate has been fairly stable (Chart 5). While the increase in interest rates and the decline of the Eurosystem balance sheet have induced upward pressure on longer-term bond yields, the pandemic emergency purchase programme (PEPP), including the in-built flexibility applied to reinvestments, and the transmission protection instrument (TPI) have been important elements in our monetary toolkit. It is plausible that the remarkably smooth transmission of the forceful tightening cycle to the sovereign bond market would not have been possible to the same extent without PEPP flexibility and the TPI. The EU-wide solidarity embodied in the NGEU programme has also played a vital role in reducing risk premia.
+Chart 5: Ten-year sovereign yield spreads over OIS rates
+(percentages per annum)
+Sources: Refinitiv and ECB calculations.
+Notes: The spread is the difference between individual countries’ ten-year sovereign yields and the ten-year OIS rate. The latest observations are for 29 April 2024.
+Finally, the exchange rate response has been relatively muted over the tightening cycle. The euro has remained broadly stable against the US dollar(Chart 6). This is largely due to the considerable degree of synchronicity of the tightening cycle.
+Chart 6: USD/EUR exchange rate and EA-US 2-year interest rate differential (based on OIS rates)
+(left-hand scale: USD/EUR, right-hand scale: percentage points)
+Sources: Bloomberg, ECB and ECB staff calculations.
+Notes: The latest observations are for 25 April 2024.
+Transmission via the banking sector
+The transmission of the restrictive monetary policy stance to bank lending conditions has evolved over the course of the tightening cycle. In general, the cost of funding for banks depends both on their sources of funding and the term structure of interest rates. Bank bond yields responded quickly to the tightening monetary policy (Chart 7). And while the pass-through from our policy rates to the average rates that banks apply to deposits has been partial and relatively slow, time deposit rates, especially those of firms, have tracked policy rate hikes rather closely (Chart 8).
+One contributor to the asymmetry in the response of returns on different segments of bank funding to monetary policy was that banks had been reluctant to pass on negative interest rates to their retail depositors during the highly accommodative phase, driving a negative spread between the remuneration of customer deposits and the interest banks were receiving on reserves. As a corollary, banks were initially slow to raise deposit rates in order to restore traditional margins. In addition, the high amount of central bank liquidity and the low demand for credit also limited the pressure to increase deposit rates. Furthermore, a lack of competition in some member countries also reduced the pass through to deposit rates.
+Over the period since September 2023 in which we have held our policy rates constant, bank bond yields have declined somewhat, in part reflecting the anticipation of future rate cuts, while deposit rates have continued to increase, as competition for deposits intensifies and depositors shift funds from lower remuneration overnight deposits towards more attractive time deposits.
+Chart 7: Bank funding costs
+(percentages per annum)
+Sources: ECB (BSI, MIR, FM), Markit iBoxx and ECB calculations.
+Notes: The chart shows daily bank bond yields. Monthly new business deposit rates are weighted by outstanding amounts. Composite funding costs are a weighted average of deposit rates and average monthly bond yields, with outstanding amounts as weights. Right panel shows the contributions of the components to the change in the composite bank funding cost between December 2021 and February 2024. The latest observations are for February 2024 for monthly data and 17 April 2024 for daily data.
+Chart 8: Deposit rates
+(percentages per annum)
+Sources: ECB (BSI, MIR) and ECB calculations.
+Notes: Time deposits refer to deposits with agreed maturity of up to two years; shaded areas show ranges across Germany, Spain, France and Italy. The latest observations are for February 2024.
+Banks have passed on their increased funding costs to firms and, to a slightly lesser extent, households in mortgage lending (Chart 9). Interest rates on new lending increased rapidly, peaking soon after the last rate hike in September 2023, but have been edging down recently. However, average lending rates on the outstanding stock of loans have continued to increase. This reflects the ongoing transmission of past rate hikes, as loans that were granted in the past at lower rates reprice.
+Chart 9: Bank lending rates to households and firms
+(percentages per annum)
+Source: ECB (MIR) and ECB calculations.
+Note: Interest rates on new business for firms and households for house purchase refer to the indicator for the total cost of borrowing, which is calculated by aggregating short-term and long-term rates on new business using a 24-month moving average of new business volumes. The latest observations are for February 2024.
+The annual growth rate of lending to firms and households declined sharply over the tightening cycle but is now also showing signs of stabilisation, albeit at low levels. According to the most recent bank lending survey (BLS), net demand for new bank loans by firms is still declining, as the high interest rate environment keeps external financing costs elevated and the weak growth environment means that firms are postponing fixed investment plans (Chart 10). At the same time, banks reported a modest net tightening of bank credit standards for loans to firms, mainly on account of increased risk perception (Chart 11)
+Evidence from the survey on the access to finance of enterprises (SAFE) is consistent with the weakness in bank lending to firms (Chart 12 and Chart 13). Firms participating in SAFE have reported a continued deterioration in bank loan availability, although this has eased from previous rounds and firms do expect a small improvement in credit supply over the next three months. There has also been a sharp drop in the share of firms applying for a bank loan, a continuation of the trend that began late last year. At the same time, firms signalled less reliance on bank loans, which might reflect sufficient internal funds and/or easier access to non-bank external funding, together with the postponement of investment plans due to a slowing economy or expectations of lower interest rates later this year.
+Turning to lending conditions to households, the BLS results point to tentative stabilisation in net demand for new loans to households, while credit standards on household mortgages eased for the first time in two years (Chart 14 and Chart 15). Taken together, the information from these surveys is consistent with persistently-weak credit demand and stabilisation in credit supply conditions to firms and households at tight levels.
+Chart 10: Change in demand for loans to firms, and contributing factors
+(net percentages of banks reporting an increase)
+Source: ECB (BLS).
+Notes: “Other financing needs” is the unweighted average of “mergers/acquisitions and corporate restructuring” and “debt refinancing/restructuring and renegotiation”. “Use of alternative finance” is the unweighted average of “internal financing”, “loans from other banks”, “loans from non-banks”, “issuance/redemption of debt securities” and “issuance/redemption of equity”. The net percentages for “Other factors” refer to an average of the further factors which were mentioned by banks as having contributed to changes in loan demand. The latest observations are for the first quarter of 2024.
+Chart 11: Change in credit standards for loans to firms, and contributing factors
+(net percentages of banks reporting a tightening)
+Source: ECB (BLS).
+Notes: “Cost of funds and balance sheet constraints” is the unweighted average of “banks’ capital and the costs related to banks’ capital position”, “access to market financing” and “liquidity position”. “Risk perceptions” is the unweighted average of “general economic situation and outlook”, “industry or firm-specific situation and outlook/borrower’s creditworthiness” and “risk related to the collateral demanded”. “Competition” is the unweighted average of “competition from other banks”, “competition from non-banks” and “competition from market financing”. The net percentages for “Other factors” refer to an average of the further factors which were mentioned by banks as having contributed to changes in credit standards. The latest observations are for the first quarter of 2024.
+Chart 12: Credit supply and loan availability of firms
+(net percentages)
+Source: ECB (BLS and SAFE).
+Notes: For the BLS a positive value is a net tightening of credit standards. For the SAFE a positive value is a net decrease in bank loan availability. SAFE figures are inverted. The circles refer to expectations over the next three months.
+Chart 13: Loan demand, bank loan applications and financing needs
+(left-hand scale: net percentages; right-hand scale: percentages)
+Source: ECB (BLS and SAFE).
+Notes: On the left-hand scale, for the BLS, a positive value is a net increase in loan demand at the bank; for the SAFE, a positive value is a net increase in the need of firms for bank loans. On the right-hand scale, the percentages shown are for firms that applied for a bank loan relative to firms for which bank loans are a relevant source of finance. The latest observations are for the first quarter of 2024.
+Chart 14: Change in demand for loans to households for house purchase, and contributing factors
+(net percentages of banks reporting an increase)
+Source: ECB (BLS).
+Notes: “Other financing needs” is the unweighted average of “debt refinancing/restructuring and renegotiation” and “regulatory and fiscal regime of housing markets”. “Use of alternative finance” is the unweighted average of “internal finance of house purchase out of savings/down payment”, “loans from other banks” and “other sources of external finance”. The net percentages for “Other factors” refer to an average of the further factors which were mentioned by banks as having contributed to changes in loan demand. The latest observations are for the first quarter of 2024.
+Chart 15: Change in credit standards for loans to households for house purchase, and contributing factors
+(net percentages of banks reporting a tightening)
+Source: ECB (BLS).
+Notes: “Cost of funds and balance sheet constraints” is the unweighted average of “banks’ capital and the costs related to banks’ capital position”, “access to market financing” and “liquidity position”; “Risk perceptions” is the unweighted average of “general economic situation and outlook”, “housing market prospects, including expected house price developments” and “borrower’s creditworthiness”. “Competition” is the unweighted average of “competition from other banks” and “competition from non-banks”. The net percentages for “Other factors” refer to an average of the further factors which were mentioned by banks as having contributed to changes in credit standards. The latest observations are for the first quarter of 2024.
+In comparison to previous hiking cycles, the flow of credit to firms has declined more quickly since the start of our policy rate hikes (Chart 16). The decline in credit observed so far in the current cycle has been stronger than historical regularities would suggest, based on linear models. The particularly large and rapid increase in policy rates may have amplified the tightening impulse. This may have activated two specific amplification channels operating through bank and firm balance sheets. The first is a risk-taking channel, in which large policy rate hikes increase the riskiness of borrowers, reducing the capacity and willingness to lend.
+[
+9
+]
+The second is a signalling channel, through which rapid rate hikes might foreshadow a deterioration in future economic conditions, reducing the expected revenues and increasing the expected future funding costs of potential borrowers, leading them to reduce their demand for credit. Staff estimates suggest that the actual contraction in credit has been more in line with a path that incorporates such non-linear effects in transmission operating through bank and firm balance sheets (Chart 17).
+The availability of liquidity to the banking system is also playing a role in the transmission to bank lending. Estimates by ECB staff suggest that banks with lower excess liquidity are more likely to reduce their supply of credit in response to policy rate hikes, and the increase in their lending rates is likely to be larger (Chart 18). This means that, as aggregate liquidity shrinks, the transmission of our restrictive monetary policy stance to bank lending may strengthen.
+Finally, institutional factors, such as banking supervision and macroprudential policies, play a significant role in shaping the risk-taking behaviour of banks. Both supranational and centralised bank supervision can reduce unwarranted risk taking by banks, while encouraging lending to better performing firms.
+[
+10
+]
+Sound macroprudential policies can also complement monetary policy by increasing the resilience of the financial system.
+[
+11
+]
+Such frameworks, which have been put in place over the past decade, have strengthened the banking sector, and allow for a more orderly transmission of monetary policy, thus reinforcing monetary policy's ability to fulfil its mandate of ensuring price stability.
+[
+12
+]
+Chart 16: Monetary policy transmission across hiking cycles
+(x-axis: years; y-axis: cumulative changes in percentage points for the policy rate, and credit growth in deviation from the start of the cycle (t) in percentage points for total credit to firms)
+Sources: ECB (BSI, CSEC) and ECB calculations.
+Notes: The relevant policy rate is the Deutsche Bundesbank’s Lombard rate up to December 1998, the ECB’s main refinancing operations rate up to May 2014 and the ECB’s deposit facility rate thereafter. Total credit covers loans and debt securities. Monetary financial institutions loans are adjusted for sales and securitisation and cash pooling. The starting months correspond to the month immediately preceding the cycle’s first hike or the explicit announcement of the hike. Hiking cycles are considered to have begun in: June 1988, October 1999, November 2005 and May 2022. The dotted line shows a counterfactual for lending volumes, taking December 2021 as the latest observation and projecting volumes conditional on the path of monetary policy rates based on the BVAR model in Altavilla, C., Giannone, D., and Lenza, M. (2016), “The Financial and Macroeconomic Effects of the OMT Announcements”, International Journal of Central Banking, Vol. 12, No 3, pp 29-57. The latest observations are for March 2024 for total credit to firms and for April 2024 for the policy rate.
+Chart 17: Credit growth in the current hiking cycle through the lens of non-linearity
+(annual credit growth)
+Sources: ECB and ECB calculations.
+Notes: The estimates are based on local projections that are non-linear in the shock sign and magnitude. For each month, the predicted change in credit growth is the sum of weighted, lagged, impulses, where the impulses depend on the size of the policy change, and the weight is the change in the policy rate h periods in the past. The decomposition is achieved by computing the fitted change for the linear model (in yellow), and the non-linear model where only speed or strength is allowed to vary with the size of the rate change. The latest observations are for January 2024.
+Chart 18: Response of loan supply and lending rates to a policy rate hike by level of excess liquidity
+(percentage points of supply-driven loan growth (panel a) and change in lending rates (panel b) over three months for each percentage point increase in the deposit facility rate; size of bubbles equal to volumes of loans to firms)
+Sources: Panel a): ECB (AnaCredit, iBSI, MOPDB) and ECB calculations; panel b): ECB (AnaCredit, iBSI, iMIR, MOPDB) and ECB calculations.
+Notes: Supply-driven loan growth at the bank level is identified applying the methodology of Mary Amiti and David Weinstein to the euro area credit register (see Amiti, M. and Weinstein, D. (2018), “How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data”,
+Journal of Political Economy
+, Vol. 126, No 2, pp. 525-587). The chart reports coefficients from regressions of the supply-driven loan growth (panel a) and bank-level changes in new lending rates to firms (panel b) three months ahead on the level of excess liquidity interacted with the change in the deposit facility rate over the same period, distinguishing between observations before and after December 2021 and with the excess liquidity-over-assets ratio between the levels indicated on the x-axis. The specification includes bank and country time fixed effects and controls for bank assets. The size of the bubbles measures the outstanding amounts of loans to firms for banks belonging to each category. The latest observations are for November 2022.
+Transmission to the economy
+The restrictive policy stance has also been feeding through to economic activity.
+Economic activity has been stagnating throughout 2023 and started to recover at the beginning of 2024 (Chart 19). In terms of the demand components, public consumption has been the main consistent driver of growth, while private consumption and external demand have remained subdued in recent quarters. Weak housing investment has been a persistent drag on growth, while business investment has been more resilient until recently, as past order backlogs supported the production of capital goods (Chart 20).
+Chart 19: GDP growth contributions
+(quarter-on-quarter percentage changes and contributions)
+Sources: Eurostat and ECB calculations.
+Notes: The latest observations are for the first quarter of 2024 for GDP and the fourth quarter of 2023 for the contributions.
+Chart 20
+: Investment indicators
+(left-hand scale: quarter-on-quarter percentage changes, diffusion index, net percentage balances; right-hand scale: percentage point changes relative to the fourth quarter of 2021)
+Sources: Eurostat, European Commission, S&P Global and ECB calculations.
+Notes: PMIs and industrial confidence are standardised over the period 2000-2019. Euro area investment is excluding Irish intangibles. The latest observations are for the fourth quarter of 2023 for investment, the first quarter of 2024 for construction production, March 2024 for PMIs, and April 2024 for European Commission.
+Our restrictive policy stance has transmitted at different speeds to different parts of the economy. The speed and strength of transmission depends on several factors, including the importance of foreign demand and foreign competition, the reliance on domestic compared to global supply chains, the balance sheets of households and firms, the interest sensitivity of investment and consumption and the state of the labour market. Estimates suggest that the peak impact of our policy tightening on activity levels is larger for manufacturing than for services, with the peak impact occurring in the fourth quarter of 2023, and larger for business and housing investment than for private consumption, with the transmission to business investment strengthening further in the first quarter of 2024 (Chart 21).
+[
+13
+]
+As the structure of the euro area economy evolves, such sectoral heterogeneity in monetary policy transmission may also alter the impact on aggregate economic activity. For instance, in view of the rising role of services in the euro area, and the slower and weaker response of services output to monetary policy, it is natural to ask whether transmission to the overall economy has become less powerful in terms of its impact on output. ECB staff analysis confirms that a higher services intensity dampens monetary policy transmission to economic activity, but this dampening effect is moderate: the observed increase in the services share of the euro area economy since the launch of the euro is estimated to have reduced the peak effect on output of a monetary policy interest rate increase by just around 10 per cent (Chart 22).
+[
+14
+]
+Monetary policy tightening also has heterogeneous effects on different types of private consumption. For example, our staff estimate that spending on durable goods and luxury goods declines more than it does on non-durables, services, and necessity goods (Chart 23). Inflation is also found to adjust differently across essential and non-essential items.
+Chart 21: Monetary policy tightening impact: supply and demand components of activity
+(percentage changes since the fourth quarter of 2021)
+Source: ECB calculations
+Notes: See Battistini, N. and Gareis, J. (2023), “
+Monetary policy and the recent slowdown in manufacturing and services
+”, Economic Bulletin, Issue 8, ECB. The charts show BSVAR-based effects of monetary policy shocks, which are identified with sign restrictions using genuine monetary policy surprises as reflected in changes in one-year OIS rates around the ECB’s monetary policy announcements as instruments. The chart on the left side shows the effects of monetary policy shocks on manufacturing and services (real) gross value added. The chart on the right side shows the effects of monetary policy shocks on (real) private consumption, business investment and housing investment. The effects for the first quarter of 2024 are based on the projected effects of the estimated monetary policy shocks up to the fourth quarter of 2023.
+Chart 22: Effect of higher service intensity on monetary policy transmission to gross value added
+(percentages)
+Sources: ECB, Eurostat and ECB calculations.
+Notes: See Hauptmeier, S. and Holm-Hadulla, F. (2023), “Industry structure and the real effects of monetary policy”,
+Economic Bulletin
+, Issue 7, Box 4, ECB. The chart shows the impact of a 25 basis point policy rate hike over a period of five years (T0 to T5), conditional on the services shares prevailing in 1999 and 2022 respectively. This corresponds to the sum of the slope coefficient of the monetary policy rate and the coefficient of an interaction term between the monetary policy rate and the services share. Solid bars indicate that the effects are significant to at least a 10 per cent level.
+Chart 23: Impulse responses to a monetary policy tightening by durability and necessity
+(percentages)
+Source: ECB calculations.
+Notes: The chart shows the impulse responses for a surprise monetary policy tightening of 10 basis points based on a panel local projections model for the ten largest euro area countries for real household consumption, broken down into durable goods as well as non-durable goods and services (left) and luxuries and necessities (right) based on Eurostat’s annual three-digit COICOP data as well the Household Budget Survey. Monetary policy is represented by the monetary policy shocks according to the high-frequency monetary policy shock series by Jarociński, M. and Karadi, P. (2020), “Deconstructing Monetary Policy Surprises – The role of Information Shocks”, American Economic Journal: Macroeconomics, Vol. 12, No 2, pp. 1-43. The shaded areas (dashed lines) represent 95 per cent confidence bands. Non-durable goods also include semi-durable goods.
+The build-up of household excess savings and the aggregate strength of corporate balance sheets due to the restrictions on mobility and the significant fiscal transfers during the pandemic may have helped to cushion the impact of monetary policy during the early phase of the tightening. The robust labour market has also supported real income and consumption, in view of the sensitivity of household spending plans to the perceived risk of unemployment. The rotation back towards services, particularly contact-intensive and recreation and travel services following the post-pandemic reopening, was also an important driver of the drop in the savings rate in 2022 and 2023.
+[
+15
+]
+Nevertheless, the sharp increase in inflation has eroded the real value of household and corporate deposits, while the jump in interest rates has generated losses on bond holdings and depressed house prices, thus weighing on financial and non-financial wealth.
+[
+16
+]
+Moreover, household excess savings accumulated over the pandemic are now concentrated mostly in illiquid assets held by wealthier households, which may not provide a significant boost to private consumption.
+[
+17
+]
+In addition, profit margins and retained earnings have declined markedly since the start of the hiking cycle and the net interest income earned by firms has fallen.
+[
+18
+]
+Finally, while consumer confidence has recovered from its extremely low levels in September 2022, which had been triggered by Russia’s invasion of Ukraine and surging energy prices, it is still low and well below its long-term average, weighing on spending even as real disposable incomes grow (Chart 24).
+[
+19
+]
+Chart 24: Private consumption, real disposable income and consumer confidence
+(left-hand scale: index Q4 2019 = 100, right-hand scale: net percentage balance
+Sources: Eurostat and European Commission.
+Notes: The latest observations are for the fourth quarter of 2023 for private consumption and disposable income, and April 2024 for consumer confidence.
+As reflected in the March 2024 ECB staff macroeconomic projections for the euro area, we expect growth to recover gradually over the course of this year. Output in the euro area returned to a positive growth rate in the first quarter of 2024 after five quarters of stagnation, while soft indicators, such as the composite PMI for the euro area, point to further positive growth rates in the quarters ahead (Chart 25).
+The recovery might continue to be characterised by different speeds across sectors. However, as the impact of past monetary policy tightening starts reducing its intensity, the divergence between weak manufacturing and resilient services activity should gradually reduce. The recovery should be supported by declining inflation and further nominal wage growth, which boost real disposable incomes and consumer confidence. A gradual pickup in foreign demand is also expected to support the recovery. Finally, monetary policy should exert less of a drag on demand over time. In line with this, the March projections are also predicated on significant policy easing over the projection horizon (see also Chart 1). Respondents in the most recent survey of monetary analysts (SMA) expect a gradual recovery in GDP in the first half of this year, in line with the March projections, likely reflecting an anticipation of an of an easing in financing conditions.
+Chart 25: Purchasing Managers’ Index
+(diffusion index)
+Source: S&P Global.
+Note: The latest observation is for April 2024 (flash).
+Transmission to inflation
+We have already seen a substantial disinflation from the peak inflation rate of 10.6 per cent in October 2022 (Chart 26). Inflation had started to increase in early 2021 from the pandemic low point of -0.3 per cent in late 2020, rising above the two per cent medium-term target in July 2021, before continuing to climb throughout 2021 and most of 2022. Since late 2022, inflation has come down markedly and the March 2024 ECB staff projections see inflation stabilising around the 2 per cent target from about the middle of 2025 onwards.
+In fact, inflation has declined more quickly than we had expected. For instance, inflation came in at 2.7 per cent in the fourth quarter of 2023 and 2.6 per cent in the first quarter of 2024, 0.6 and 0.8 percentage points below what was projected back in September 2023, respectively. Slightly further ahead, inflation is expected to continue to be close to our two per cent target. Inflation excluding energy and food is projected to continue declining gradually over the projection horizon, also returning to two per cent in the second half of 2025. Market participants largely agree with this assessment, with the one-year forward inflation-linked swap (ILS) rate at around 2 per cent and the median respondent in the SMA expecting inflation to stabilise at around 2 per cent in the second half of 2025.
+Chart 26: Inflation projections
+(annual percentage changes)
+Sources: Eurostat, March 2024 ECB staff macroeconomic projection and SMA.
+Notes: HICP refers to headline inflation and HICPX to HICP excluding food and energy. Realised HICP and HICPX are at monthly frequency, and HICP and HICPX projections are at quarterly frequency. Inflation-linked forward swap rates are based on an interpolation of inflation fixings continued by ILS rates. The latest observations for realised HICP and HICPX are for April 2024 (flash estimate); April 2024 round for SMA; March projections cut-off for the inflation-linked forward swap rates (2 February 2024).
+While overall, the strong disinflation over the past year largely reflects the unwinding in energy inflation (which, in turn, partly reflects large base effects), the easing of pipeline pressures and the relaxation of supply bottlenecks, monetary policy tightening has contributed to the disinflation process by dampening demand and anchoring medium-term inflation expectations at our two per cent target.
+Inflation has continued to fall in recent months. According to the recent flash release, headline inflation remained stable in April at 2.4 per cent, while core inflation declined to 2.7 per cent from 2.9 per cent in March. Both services and goods inflation declined in April, while energy and unprocessed food inflation increased. Most measures of underlying inflation also continue to ease, although domestic price pressures remain strong (Chart 27).
+Chart 27: Measures of underlying inflation
+(annual percentage changes)
+Sources: Eurostat and ECB staff calculations.
+Notes: “PCCI” stands for “persistent and common component of inflation”. The “adjusted” measures abstract from energy and supply-bottleneck shocks using a large SVAR see Bańbura, M. Bobeica E. and Martínez-Hernández, C. (2023), “
+What drives core inflation? The role of supply shocks
+”,
+Working Paper Series
+, No 2875, ECB, deducted mechanically from each measure. The latest observations for “standard measures” of HICPX, HICP excluding unprocessed food and energy, and HICP excluding energy are for April 2024 (flash estimate) and March 2024 for the rest.
+Wage growth is moderating but remains elevated, with recently signed agreements pointing to a slowdown in wage growth to around 4 per cent for the remainder of the year (Chart 28). Firms are also telling us that they expect to raise prices less, with the one year ahead selling price expectations now hovering around 3 per cent, down from 6 per cent a year ago (Chart 29). They also expect slower wage growth over the coming year. This is consistent with evidence from the European Commission, which shows further declines in selling price expectations, which now stand around their mid-2021 levels for most sectors (Chart 30).
+Chart 28: ECB wage tracker
+(annual percentage changes)
+Sources: ECB, national central banks and the Dutch employer association (AWVN).
+Notes: Euro area aggregate based on Germany, Greece, Spain, France, Italy, Netherlands and Austria. The indicator "average of agreements signed in last quarter including one-off payments" displays the average growth rate of contracts signed in a given quarter in the first four quarters of signing. One-off payments are spread over the 12 months from the disbursement date. The latest observations are for the first quarter of 2024 (preliminary) for the latest agreements, and March 2024 for the ECB wage tracker.
+Chart 29: SAFE (one year ahead) selling price expectations
+(percentage changes over the next 12 months)
+Sources: Survey on the Access to Finance of Enterprises (SAFE) and ECB calculations.
+Notes: Survey-weighted mean and median euro area firm expectations of changes in selling prices, along with interquartile range. Computed after trimming at the wave-country-specific 1st and 99th percentiles - all enterprises. The latest observations are for March 2024.
+Chart 30: European Commission selling price expectations
+(diffusion index)
+Source: European Commission.
+Notes: The expectations are for three months ahead. The latest observations are for April 2024.
+So, how has monetary policy contributed to the current disinflation? Monetary policy affects demand and prices through various channels, some that are more direct (via intertemporal substitution) and some that are more indirect (via growth and employment). This means that the full effect of changes in monetary policy on aggregate inflation comes with long and variable lags. In the next section, I will discuss some of the model-implied estimates of the impact that our policy tightening cycle has had on inflation so far, and the expected impacts over the medium-term. However, granular price analysis can also shed light on this question. As consumers rein in their spending in response to a monetary policy tightening, they start by consuming fewer goods with a high intertemporal elasticity of substitution, such as non-essential items and durables. They may also reduce spending on goods that are more interest-rate sensitive, such as durable goods purchased using credit. Analysis by staff suggests that the price response of items most sensitive to monetary policy shocks, which tend to include durables and non-essential items, is around three times larger than for less sensitive items (Chart 31). Finally, the price reaction to monetary policy shocks of these more sensitive consumer items has been stronger in the recent tightening cycle than is past episodes of monetary restraint, reflecting the effectiveness of the steep and decisive hiking policy in dampening demand.
+Given the differential output impact of monetary policy across manufacturing and services that was discussed in the previous section, we may also expect a differential impact on sectoral inflation. Indeed, the share of items that are highly sensitive to monetary policy shocks is higher for goods than for non-tradable services, while inflation reacts less to monetary policy shocks in countries that are more intensive in services intermediates.
+[
+20
+]
+For example, if prices in the traded sector (predominantly capital intensive manufacturing) are largely exogenous and driven by world prices, then monetary policy may have larger output effects but small price effects. The inverse may be true in the non-traded sector (predominantly services) where the combination of imperfect competition and price rigidities may give rise to stronger price effects of monetary policy via the real economy. Pinning down these differences empirically can be challenging in light of the diverse composition of these two sectors and confluence of other (potentially countervailing) channels.
+Chart 31: Price sensitivity of items in the core inflation basket to monetary policy shocks
+(cumulative percentage changes)
+Sources: Eurostat, Haver, and ECB staff calculations based on Allayioti, A., Górnicka, L., Holton, S. and Martínez Hernández, C. (forthcoming), “Sensitivity of core inflation to monetary policy in the euro area: A granular approach.”
+Notes: Impulse responses across individual items in the HICPX basket that are highly and moderately sensitive to monetary policy computed via smooth local projections (Barnichon, R. and Brownlees, C. (2019)) using the proxy for monetary policy shocks of Jarociński, M. and Karadi, P. (2020) estimated using the data set by Altavilla, C. et al. (2019), controlling for lags of the dependent variable, EuroStoxx index, industrial production, nominal effective exchange rate, oil prices, producer prices, as well as three-month and one-year Euribor rates. Estimation samples based on an expanding window approach are: (i) pre-COVID (December 2000-December 2019); (ii) including COVID (December 2000 – December 2021); and (iii) including monetary policy normalisation and tightening (December 2000 - September 2023). All impulse responses are normalised to 25 basis points increase in the monetary policy proxy.
+The next phase of the disinflation process is likely to be more gradual, with bumps in the road ahead. We expect headline inflation to decline more slowly than it has done so far, largely on account of positive base effects, including the expiration or retirement of fiscal measures taken in the past to dampen the surge in energy prices for consumers and firms (Chart 32).
+Chart 32: Short-term inflation projections
+(annual percentage changes)
+Sources: Eurostat, March 2024 ECB staff projections, Consensus Economics, Bloomberg and ECB calculations.
+Notes: Quantile regression forest from Lenza, M., Moutachaker, I. and Paredes, J. (2023), “
+Density forecasts of inflation: a quantile regression forest approach
+”,
+Working Paper Series
+, No 2830, ECB. Cut-off for the regression forest is 30 April 2024. The HICP fixings are observed market prices, whereas the HICPX fixings are estimated based on the model in Grønlund, A.M., Jørgensen, K. and Schupp, F. (2024), “
+Measuring market-based core inflation expectations
+”,
+Working Paper Series
+, No 2908, ECB. The latest observations for HICP and HICPX is for April 2024 (flash estimate).
+A key role of monetary policy in the disinflation process has been to ensure that the large and persistent but temporary inflation shocks did not translate into an increase in the medium-term inflation trend through the de-anchoring of inflation expectations. Overall, longer-term inflation expectations have remained well anchored throughout the tightening cycle. The anchoring of longer-term expectations and the expectation that inflation would return to target in a timely manner has been supported by the speed and magnitude of the monetary policy response.
+The expectations curve from the Survey of Professional Forecasters (SPF) has remained downward sloping throughout the inflation surge (which was also the case for consumers), meaning that the spike in inflation was not expected to persist and long-term expectations remained broadly stable (Chart 33). The right tail in the distribution of long-term inflation expectations in the SPF has diminished markedly compared with the peak inflation phase in late 2022 (Chart 34). The inflation risk premium embedded in five-year-on-five-year inflation swaps has declined by about 40 basis points since last summer (Chart 35). We have also seen a decline in the inflation expectations at the medium-term horizon reported by firms and households from both the SAFE and CES results (Chart 36).
+Chart 33: Term structure of inflation expectations from professional forecasters and the monetary policy response
+(left-hand scale: annual percentage changes; right-hand scale: percentages per annum)
+Sources: ECB SPF, ECB calculations and Bloomberg.
+Notes: Term structure of inflation expectations show expectations for different horizons in past rounds of the SPF.
+Chart 34: SPF: distribution of longer-term inflation expectations
+(percentage of respondents)
+Sources: SPF and ECB calculations.
+Notes: The vertical axis shows percentages of respondents, the horizontal axis shows the HICP inflation rate. Longer-term inflation expectations refer to four to five years ahead. The latest observations are for the second quarter of 2024.
+Chart 35: Decomposition of 5-year-on-5-year ILS rate
+(annual percentage changes)
+Sources: Bloomberg and ECB calculations.
+Notes: Premia-adjusted forward ILS rates are average estimates from two affine term structure models as in Joslin, S., Singleton, K. and Zhu, H. (2011) applied to ILS rates non-adjusted for the indexation lag; see Burban, V. et al. (2022),
+Economic Bulletin
+, Issue 8, 2021, Box 4, ECB. The latest observations are for 16 April 2024.
+Chart 36: Longer-term inflation expectations
+(annual percentage changes)
+Sources: ECB (CES and SAFE) and ECB calculations.
+Notes: The series refer to the median value. The latest observations are for March 2024.
+Counterfactual analysis
+In this section, I report on some counterfactual model-based exercises conducted by ECB staff.
+In providing a complete account of the role of monetary policy, it is simply not feasible in empirical studies to have full control over various confounding factors that contribute to output and inflation dynamics. Accordingly, one role for counterfactual analysis is to isolate the contribution of monetary policy tightening in the disinflation process. Estimates from our suite of macro models suggest that the monetary policy tightening that has cumulated since 2022 and is expected to continue to transmit through 2026 is detracting, on average, around 2 percentage points yearly from both GDP growth and inflation, relative to the counterfactual simulated path in the absence of policy action (Chart 37).
+[
+21
+]
+In addition, these simulations suggest that, while the impact on GDP growth from our cumulative action might have reached its maximum level in 2023, the bulk of the impact on inflation is comparatively backloaded, with substantial pass-through still expected to transpire in the period ahead. In this quantitative model-based analysis, the calculation of the monetary policy impact abstracts from the role that the strong policy response to the surge in inflation has had in ensuring that inflation expectations have remained broadly anchored. That is, the policy impact would be even stronger if the models also assigned a role for monetary policy in maintaining the anchor.
+Chart 37: Impact of monetary policy tightening according to a suite of models
+(percentage points)
+Source: ECB calculations based on the NAWM II model (see Coenen, G. et al., op. cit.), the MMR model (see Mazelis, F. et al., op. cit.) and the ECB-BASE model (see Angelini, E. et al., op. cit.).
+Notes: This chart reports the results of a simulation involving changes to short-term rate expectations between December 2021 and March 2024 and changes to expectations regarding the ECB’s balance sheet between October 2021 (to account for anticipation) and May 2023. The reported values refer to year-on-year growth rates. “Mean” denotes the average across the six model variants.
+Chart 38 illustrates a model-based exercise on the development of upside de-anchoring risks under the actual interest path during the hiking phase (blue bars) and a counterfactual analysis where the rate is assumed to have remained on the path underlying the December 2021 projections (yellow bars). De-anchoring is defined as a situation where medium-term inflation expectations deviate from the ECB’s 2 per cent inflation target. The analysis of the risks of de-anchoring are based on stochastic simulations around the projections of a regime-switching dynamic stochastic general equilibrium (DSGE) model. In the anchored regime, the perceived inflation target is in line with the actual 2 per cent target. In contrast, in the de-anchored regime, inflation expectations are driven by past and current inflation realisations, even though the central bank continues to pursue the unchanged 2 per cent target.
+Chart 38 shows that, due to the tightening of monetary policy, the credibility of the central bank has been maintained by containing upside de-anchoring risks. If rates had been kept at the level of December 2021, the risks would have increased considerably.
+Chart 38: Risks of de-anchoring of medium-term inflation expectations
+(percentage risk of upside de-anchoring)
+Source: ECB calculations based on Christoffel, K. and Farkas, M. (2024): The Risks of De-anchoring of medium-term inflation expectations (mimeo).
+Notes: The bars show the risks of upside de-anchoring for the December 2023 projections and a ‘no-normalisation’ counterfactual where the rate expectations remain on the path underlying the December 2021 projections. 2024, 2025 and 2026 refer to the projections according to the December 2023 projections. The simulations are based on a regime switching version of the NAWM I Christoffel, K., Coenen, G. and Warne, A. (2007)), where the credible regime is defined as the estimated version of the NAWM-I, with a fixed inflation target, the de-anchored regime is characterised by a time varying inflation target. Upward de-anchoring is defined as a situation where the de-anchored simulation path is above the baseline inflation path. The share of de-anchoring is based on 1000 simulations over a nine-quarter evaluation horizon.
+A second role for counterfactual analysis is to probe whether alternative tightening paths might have out-performed the tightening path we adopted. Chart 39 reports a set of alternative policy simulations, based on two macroeconomic models of the euro area (the MMR model and the NAWM-II model), which allow the derivation of policy rate paths that are conditionally optimal in the context of the models, given the different information sets available to policy makers regarding the path for inflation and the output gap at different points in time.
+[
+22
+]
+The models suggest that, if the ECB had perfect foresight on the path that inflation and output would follow subsequently, we should have started hiking in the fourth quarter of 2021, raising the policy rate to between 4.5 and 6 per cent by mid-2023, depending on the model used (black dotted lines in Chart 39). Under this earlier and more aggressive tightening path, inflation would have peaked at around 7 per cent, roughly 3½ percentage points below the actual inflation peak in October 2022.
+However, the associated output losses would have been severe. This result derives from the fact that the model attributes welfare losses to (squared) deviations of inflation from the target, output from potential, as well as interest rates from the equilibrium value. In that context, to some extent, the model finds it optimal to tolerate a large recession to reduce peak inflation. Along this line, the MMR model estimates that, to achieve this lower inflation profile, output would have needed to decline by 5 per cent below the baseline by the end of 2022, while the NAWM-II model shows that the economy would have needed to contract by 2 per cent in early 2022 and continue contracting for over a year.
+Of course, the ECB did not have perfect foresight as to the future path of inflation and output: there were large forecast errors in 2021 and especially 2022, with a prominent role for the unexpected surge in energy prices and, relatedly, food prices.
+[
+23
+]
+Chart 39 also shows the updates to the model-based optimal policy paths that were triggered by the updates to the macroeconomic projections between December 2021 and December 2023, illustrating the high sensitivity of these paths to revised beliefs about the projected paths for inflation and output. In very broad terms, the revisions to the policy path followed by the ECB have been directionally similar to the revisions to such optimal policy paths.
+Chart 39: Optimal policy counterfactuals
+(left panel: percentages per annum; middle panel: year-on-year percentage changes; right panel (top) percent of output gap relative to baseline; right panel (bottom) quarter-on-quarter percentage changes)
+MMR
+NAWM
+Notes: The optimal policy rate path simulations beyond the first quarter of 2024 are not shown for confidentiality reasons. “Actual” denotes historical data (DFR for the MMR model and €STR for the NAWM II). The other dashed lines on the left graph are a sequence of optimal policy counterfactuals computed in real time at each projection vintage from the fourth quarter of 2021 to the fourth quarter of 2023. The “With hindsight” lines denote the optimal policy counterfactual computed in the fourth quarter of 2021 with the benefit of hindsight by assuming that the same information that we now have on subsequent inflation and output developments and projections in the March 2024 ECB projections was already available in the fourth quarter of 2021. The middle and right panels show implied inflation and output gap respectively.
+For MMR
+: The output gap is in deviation from baseline output gap in the relevant vintage.
+For NAWM
+: The figure depicts the optimal policy counterfactuals carried out using the New Area Wide Model (NAWM) II (see Darracq Pariès, M., Kornprobst, A., and Priftis, R (2024)) at different points in time conditional on quarterly real-time macroeconomic projection baselines of the ECB between the fourth quarter of 2021 and the fourth quarter of 2023.
+It is also useful to expand the counterfactual analysis to take into account that the run-down of our securities portfolio has contributed to bringing inflation back to target. Optimal policy rate simulations in the MMR model show that our decisions regarding the securities portfolios and the associated change in expectations since the start of policy normalisation have been equivalent to an average of 30 basis points in rate increases between the first quarter of 2022 and the fourth quarter of 2026.
+[
+24
+]
+A similar analysis using the NAWM II model suggests that, compared to the case where the short-term interest rate is the sole policy instrument, an optimal policy mix, which considers changes to both the interest rate and the central bank balance sheet starting in the third quarter of Q3 2022, would have called for an unwinding of the central bank balance sheet by an additional 4 percentage points of GDP by the end of 2027, compared with expectations for the balance sheet path at the time, and a policy rate that is lower by around 10 basis points throughout the simulation horizon.
+[
+25
+]
+This optimal combination of policy instruments would have contributed towards marginally lower inflation and higher output, compared with the case where the short-term rate is the only available instrument.
+A third role for counterfactual analysis is to examine the implications of uncertainty (as captured by alternative scenarios) for the conduct of monetary policy. In particular, since multiple dimensions of uncertainty are relevant, it is desirable to probe the robustness of monetary policy across a range of scenarios. For instance, taken in isolation, uncertainty about the persistence of inflation (for example, think of a scenario in which the feedback of wage inflation to price inflation could be stronger than expected) would call for a more aggressive monetary policy response to above-target inflation. However, also taken in isolation, uncertainty about the strength of monetary policy transmission would call for a more attenuated monetary policy response.
+In order to think about the performance of a given monetary policy option across these different scenarios, it is useful to inspect model-based robustness exercises. Such counterfactual robustness exercises are routinely carried out by staff at the ECB. For instance, it is helpful to view the calculation of a “minimise maximum regret” criterion that minimises the worst-case welfare loss across various scenarios, with staff running simulations on the basis of a range of possible model-based loss functions that attaches weights to deviations of inflation from the target and deviations of output from potential output. When inflation is projected in the baseline to be not too far above the target, it turns out that “inflation persistence uncertainty” dominates only if the loss function puts zero weight on output losses, whereas “monetary transmission uncertainty” dominates if the loss function puts some weight on output losses. This is because the output losses under a more aggressive monetary policy response, if transmission turns out to be stronger and inflation declines more quickly than expected, outweigh the losses under a more attenuated monetary policy response if inflation turns out to be more persistent.
+[
+26
+]
+Another type of robustness exercise is to examine the conduct of monetary policy under alternative modelling assumptions. For instance, as indicated earlier, it is evident that the large shocks in 2021 and especially 2022 triggered an increase in the frequency of price adjustment. Current work in progress by a team of economists from different central banks develop an optimal policy analysis that allows for a shift toward more frequent price changes in response to large shocks.
+[
+27
+]
+Under their approach, an increase in the frequency of price changes represents both an extra cost from high inflation (since there are economic costs – including management costs – from adjusting prices more frequently) but also an opportunity: if price setters understand that the central bank is committed to returning inflation to the target in a timely manner through an aggressive interest rate response to the large shock, the phase of intense inflation will be shorter and the sacrifice ratio in terms of lost output will be lower since price setters only have to focus on adjusting prices to the cost shock rather than also having to incorporate an excessively-prolonged aftershock phase of second round effects. In turn, the anticipation of the monetary policy response helps to reduce the scale and duration of inflation response to the large shock.
+Of course, while such model-based, staff-led robustness simulations help to provide some analytical underpinnings in reviewing policy options, many factors feed into the overall risk assessment of policymakers in making a rate decision. During the tightening cycle, the hierarchy of the various dimensions of uncertainty has shifted across different phases.
+For instance, in the first half of 2022, uncertainty about the impact of the sharp shift in the expected path for the balance sheet with the end of net asset purchases (from a scale above
+€1 trillion in 2021) motivated a step-by-step approach to the phasing-out of quantitative easing, especially in the context of a similar shift by other central banks. The high economic damage envisaged in the alternative scenarios considered in March 2022 in the immediate aftermath of Russia’s invasion of Ukraine also motivated a gradual approach to the initial adjustment in the monetary stance in the first half of 2022. For instance, the optimal policy simulations in the MMR and NAWM-II models for the adverse downside scenario based on the escalation of Russia’s invasion of Ukraine published with the March 2022 projections prescribed a less responsive policy path compared to the baseline.
+[
+28
+]
+By the same token, the very sharp rise in actual and projected inflation in the course of 2022 put a premium on guarding against the de-anchoring of inflation expectations and motivated an accelerated approach to monetary tightening between July 2022 and March 2023, with the policy rate being raised by 350 basis points over six meetings. This acceleration took place in the context of a considerable decline in transmission tail risks in view of the observed smoothness of the exit from quantitative easing and the reassurance provided by the announcement of the Transmission Protection Instrument (TPI) in July 2022.
+The March 2023 meeting also signalled a shift to a more granular approach to calibrating the level of restrictiveness, with the four subsequent meetings moving rates up in 25 basis point increments. Moving to a lower incremental pace reflected the reduction in inflation uncertainty (inflation had declined markedly from the October 2022 peak) and the increase in uncertainty about monetary policy transmission in view of the mounting evidence of a sharp slowdown in credit dynamics and in recognition of the time lags before the full impact of the accumulated hikes could be observed.
+The final hike at the September 2023 meeting also incorporated risk management considerations. In particular, in view of some signs of an increase in inflation risks over the course of the summer, it was judged to be safer to increase the policy rate by a further 25 basis points to 4.0 per cent. This additional hike would reinforce progress towards the target for two basic reasons. First, if the economy evolved in line with the staff baseline case, the decision to hike would bolster confidence that inflation would return to target within the projection horizon. Second, a higher interest rate would more strongly limit the amplification of any upside shocks to the inflation path. In consequence, a more secure pace of disinflation and greater insurance against upside risks would also reinforce the anchoring of inflation expectations, which remained a precondition for the disinflation process to keep up its pace.
+The next phase: reducing the level of restriction
+In line with our assessment at the April monetary policy meeting, this review of the tightening cycle, together with the observed disinflation path in recent months and the analysis of the drivers of inflation over the projection horizon, indicates that, based on the three elements of our reaction function we can conclude that the key ECB interest rates are at levels that are making a substantial contribution to the ongoing disinflation process. Our future decisions will ensure that our policy rates will stay sufficiently restrictive for as long as necessary. If our updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission were to further increase our confidence that inflation is converging to our target in a sustained manner, it would be appropriate to reduce the current level of monetary policy restriction.
+Subject to maintaining sufficient confidence in the sustained convergence of inflation to our target, the appropriate speed and scale of the reduction in the level of restriction will need to take into account several factors.
+[
+29
+]
+First, given the lags in transmission, the tightening effects from our past interest rate hikes are still unfolding. The simulations shown in Chart 37 suggest that, while the impact on GDP growth from our cumulative action might have reached its maximum level in 2023, the bulk of the impact on inflation is comparatively backloaded, with substantial pass-through still expected to transpire in the period ahead.
+Second, as we continue along the disinflation path, the evolution of inflation expectations also has implications for the calibration of monetary policy restriction. As expectations of future inflation normalise further, leaving nominal rates unchanged implies a mechanical increase in real interest rates. For instance, if it were deemed appropriate to keep interest rates stable in real terms, nominal rates would need to decline in line with inflation expectations. In turn, this would reinforce the normalisation of inflation expectations and help to keep longer-term expectations of inflation well anchored at target.
+Third, there are two-sided risks in proceeding through the next phase. In one direction, easing policy too soon or proceeding too quickly would not be consistent with inflation sustainably returning to target if inflation turns out to be more persistent than anticipated. In the other direction, keeping rates overly restrictive for too long could push inflation below target over the medium term and incur excessive side effects in terms of sacrificed output, employment and investment. This would require corrective action through a subsequent acceleration in rate cuts that could even require having to descend to below-neutral levels to fix any persistent drift towards a below-target inflation trend.
+In navigating these risks, we will continue to follow a data-dependent and meeting-by-meeting approach to determining the appropriate level and duration of restriction, and we are not pre-committing to a particular rate path. This approach has served us well in the tightening cycle and many of the same considerations will apply during the unwinding phase. In particular, we will have to balance the merits of forecast-based criteria that might call for front-loaded rate cuts versus data-dependent criteria that might call for a gradual and sequential approach, in view of the remaining uncertainty around the degree of persistence in inflation dynamics. Since the relative strengths of these opposing considerations are continuously evolving, a meeting-by-meeting approach maximises policy optionality.
+A data-dependent and meeting-by-meeting approach is the best way to ensure that the calibration of monetary policy incorporates the multiple dimensions of uncertainty that have been highlighted in this lecture. Each quarterly projection meeting provides comprehensive staff updates on the inflation outlook, underlying inflation and the strength of monetary transmission. In turn, while the staff projections are based on the market yield curve, the information at the quarterly meetings provides the foundations for an array of simulations of possible future rate paths, including optimal policy exercises as shown in Chart 39 and “robust” paths that seek to minimise the risk of a policy error across a range of plausible scenarios.
+While this family of possible future rate paths provides helpful guidance to the Governing Council, the robust approach to making rate decisions under conditions of high uncertainty is to avoid pre-commitments or creating unwarranted expectations about the future rate path. In particular, moving from one meeting to the next meeting and from one projection round to the next projection round allows for the accumulation of further data that can help inform the rate decision.
+For instance, the net interpretation of the incoming data at a non-projection meeting can result in several possible outcomes: (i) the confirmation of the quarterly assessment; (ii) a further boost to the level of confidence in the sustainability of convergence to the target and/or increased evidence of adverse economic side effects from the level of restriction; (iii) a decline in the level of confidence in the sustainability of convergence to the target and/or increased evidence of economic resilience despite the level of restriction. These outcomes differ markedly in terms of the implications for a rate decision at a non-projection meeting. Accordingly, it is best not to commit to a pre-set path for rate decisions and preserve optionality.
+Conclusion
+To conclude, the tightening cycle has ensured that the disinflation process has not been derailed by the de-anchoring of inflation expectations, with the sustainable return of inflation to our target underpinned by a dampened-demand environment. We consider that the key ECB interest rates are at levels that are making a substantial contribution to the ongoing disinflation process. Our future decisions will ensure that our policy rates will stay sufficiently restrictive for as long as necessary. If our updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission were to further increase our confidence that inflation is converging to our target in a sustained manner, it would be appropriate to reduce the current level of monetary policy restriction. In any event, we will continue to follow a data-dependent and meeting-by-meeting approach to determining the appropriate level and duration of restriction, and we are not pre-committing to a particular rate path.
+For their contributions to this speech, I am grateful to Thomas McGregor, Elisa Saporito, Annukka Ristiniemi, Falk Mazelis, Romanos Priftis, Tilman Bletzinger, Niccolò Battistini, Andreea Vladu and Antoine Kornprobst. The views expressed here are personal and should not be interpreted as representing the collective view of the Governing Council.
+For a meeting-by-meeting account of our tightening path see Lane, P.R. (2024), “The 2021-2022 inflation surges and monetary policy in the euro area”, published as
+The ECB blog
+, 11 March 2024, and as
+CEPR Chapter
+, 14 February 2024, in English, B., Forbes, K. and Ubide, Á. (eds.), Monetary Policy Responses to the Post-Pandemic Inflation, CEPR Press. For an additional perspective on the monetary policy tightening cycle, see Pablo Hernandez de Cos (2024), “
+Reflections on monetary policy arising from the latest inflationary-disinflationary episode,”
+Speech at London School of Economics, 1 May.
+See, amongst others, Cavallo, A., F. Lippi and K. Miyahara (2024) “
+Large Shocks Travel Fast
+”,
+American Economic Review: Insights
+, forthcoming.
+Variation across the euro area in the importance of fixed-rate mortgages was identified since the beginning of the euro as a source of transmission heterogeneity, as emphasised by Dornbusch, R., C. Favero and F. Giavazzi (1998) “Immediate Challenges for the European Central Bank,”
+Economic Policy
+13(26), 15-64. In addition to this cross-country variation, there was a trend increase in the share of fixed-rate mortgages during the pre-pandemic low interest rate period. While fixed-rate mortgages transfer the interest rate exposure away from the mortgage borrower to the holders of interest-sensitive assets, it is plausible that the mortgage borrowers have higher marginal propensities to consume.
+Obstfeld, M. (2022), “
+Central banks are raising rates nearly everywhere, risking a global recession
+”, PIIE, as well as Caldara, D., Ferrante, F., Iacoviello, M., Prestipino, A. and Queralto, A. (2024), "
+The International Spillovers of Synchronous Monetary Tightening
+," Journal of Monetary Economics.
+For details about the models used for policy analysis at the ECB, see Darracq-Paries, M., Motto, R., Montes-Galdon, C., Ristiniemi, A., Saint Guilhem, A. and Zimic, S. (2023), “
+A model-based assessment of the macroeconomic impact of the ECB’s monetary policy tightening since December 2021
+”,
+Economic Bulletin
+, Issue 3, ECB. For a review of models used for forecasting, see Ciccarelli, M., Darracq-Paries, M. Priftis, R. (eds.) (2024), “
+ECB macroeconometric models for forecasting and policy analysis
+”,
+Occasional Paper Series
+, No 344, ECB.
+While I focus on banks in this lecture, clearly non-bank financial intermediation also plays a role in the transmission of monetary policy. Since 2009, the importance of banks in euro area financial intermediation has declined in favour of non-bank financial institutions (NBFIs). Direct lending by NBFIs to the private sector is relatively small in the broad euro area, with notable exceptions concentrated in few countries. But those institutions play a dominant role in holding both sovereign and corporate bonds and their balance sheet has steadily increased since the global financial crisis. Hence, since the global financial crisis, the reduction in the relative role of loans over bonds has translated into a diminished importance of banks in monetary transmission compared with NBFIs. Recent research demonstrates that monetary policy transmission via traditional banks and NBFIs differs in non-trivial ways but remains effective in the face of a changing monetary toolkit and evolving central bank mandate. See for instance Gebauer, S. and Mazelis, F. (2023), “Macroprudential regulation and leakage to the shadow banking sector”,
+European Economic Review
+, Vol. 154, No 104404, May and Holm-Hadulla, F., Mazelis, F. and Rast, S. (2023), “Bank and non-bank balance sheet responses to monetary policy shocks”,
+Economics Letters
+, Vol. 222, No 110918, January.
+ECB (2023), “
+The inversion of the yield curve and its information content in the euro area and the United States
+”
+Economic Bulletin
+, Issue 7.
+In addition, moving away from very low policy rates also reduced the incentives to search for yield, further contributing to a pull back in risk taking by banks and customers.
+Altavilla C., Boucinha M., Peydró J. L., Smets, F.R. (2020a),
+Banking supervision, monetary policy and risk-taking: big data evidence from 15 credit registers
+,
+Working Paper Series,
+No 2349, ECB, January .
+Altavilla C., Laeven L., Peydró J. L. (2020b),
+Monetary and macroprudential policy complementarities: evidence from European credit registers
+,
+Working Paper Series
+, No 2504, ECB, December.
+With most banks comfortably above minimum capital standards, a tightening of monetary policy is less likely to generate tail risks in the banking system. On the overall relation between bank capital and monetary transmission, see S. Van den Heuvel (2002), “
+Does bank capital matter for monetary transmission?
+,” Federal Reserve Bank of New York Economic Policy Review, 259-265 (May).
+ECB (2023), “
+Monetary policy and the recent slowdown in manufacturing and services
+”,
+Economic Bulletin
+, Issue 8.
+ECB (2023), “
+Industry structure and the real effects of monetary policy
+”,
+Economic Bulletin,
+Issue 7.
+For a discussion of household adjustment margins and shift in preferences in the context of the pandemic aftermath and the surge in inflation, see ECB (2024), “
+How have households adjusted their spending and saving behaviour to cope with high inflation
+?”,
+Economic Bulletin
+, Issue 2.
+See also F. Pallotti, G. Paz-Pardo, J. Slacalek, O. Tristani and G. L. Violante (2023), “
+Who bears the costs of inflation? Euro area households and the 2021–2022 shock
+,” ECB Working Paper No. 2877. All else equal, the surprise surge in inflation also reduced the real value of outstanding debt, with the net impact on debtors depending on the degree of exposure to asset price declines. Of course, the near-term cash flow positions of debtors depends on whether the debt is fixed-rate or floating-rate.
+On the allocation of excess savings by use and across the net wealth distribution, see ECB (2023), “
+The consumption impulse from pandemic savings ‒ does the composition matter?
+”,
+Economic Bulletin
+, Issue 4. On the allocation of excess savings by source and across the income distribution, see ECB (2023), “
+Excess savings: To spend or not to spend
+”,
+The ECB Blog
+, 2 November.
+ECB (2023), “
+Net interest income of households and firms
+”,
+Economic Bulletin
+, Issue 8.
+ECB (2023), “
+The role of supply and demand in the post-pandemic recovery in the euro area
+”,
+Economic Bulletin
+, Issue 4.
+See for example, Galesi, A. and Rachedi, O. (2018), “
+Services Deepening and the Transmission of Monetary Policy
+”, Journal of the European Economic Association, pp. 1-33, and Bellifemine, M., Couturier, A. and Jamilov, R. (2023), “
+The Regional Keynesian Cross
+”, Economics Series Working Papers 995, University of Oxford, Department of Economics. Differences in the sensitivity of sectoral inflation rates to monetary policy may also depend on differential exposure to international competition. For example, if prices in the traded sector (predominantly capital- intensive manufacturing) are largely exogenous and driven by world prices, then monetary policy may have large output effects but small price effects. The inverse may be true in the non-traded sector (predominantly services where domestic demand plays a larger role in determining prices).
+The simulations are carried out using the NAWM II model. See Coenen, G., Karadi, P., Schmidt, S. and Warne, A. (2018), “The New Area-Wide Model II: an extended version of the ECB’s micro-founded model for forecasting and policy analysis with a financial sector”,
+Working Paper Series
+, No 2200, ECB, November (revised December 2019); the MMR model in Mazelis, F., Motto, R. and Ristiniemi, A.(2023), “Monetary policy strategies for the euro area: optimal rules in the presence of the ELB”,
+Working Paper Series
+, No 2797, ECB, March; and the ECB-BASE model in Angelini, E., Bokan, N., Christoffel, K., Ciccarelli, M. and Zimic, S.(2019), “Introducing ECB-BASE: The blueprint of the new ECB semi-structural model for the euro area”,
+Working Paper Series
+, No 2315, ECB, September. See also Darracq-Paries, M., Motto, R., Montes-Galdon, C., Ristiniemi, A., Saint Guilhem, A. and Zimic, S. (2023), “
+A model-based assessment of the macroeconomic impact of the ECB’s monetary policy tightening since December 2021
+”,
+Economic Bulletin
+, Issue 3. See also F. de Fiore, B. Mojon, D. Rees and D. Sandri, 2023, “
+The contribution of monetary policy to disinflation
+,”
+BIS Bulletin
+No. 82. Of course, many alternative counterfactual exercises are possible and many alternative calibration choices can be implemented, such that the reported exercises are illustrative in nature.
+For further details on the policy counterfactuals carried out using the Mazelis, Motto and Ristiniemi (MMR) model, see Mazelis, F., Motto, R. and Ristiniemi, A. (2023), op. cit. are prepared for a chapter in the forthcoming Handbook on Inflation (Coenen, Mazelis, Motto, Ristiniemi, Smets, Wouters (forthcoming)). For further details on the policy counterfactuals carried out using the New Area-Wide Model (NAWM) II, see Darracq Pariès, M., Kornprobst, A. and Priftis, R. (2024), “Monetary policy strategies to navigate post-pandemic inflation: an assessment using the ECB’s New Area-Wide Model”,
+Working Paper Series
+, No 2935, ECB, April. The optimal policy simulations in both models are conducted in the COPPs toolkit. For further details see de Groot, O., Mazelis, F., Motto, R. and Ristiniemi, A. (2021), “A toolkit for computing Constrained Optimal Policy Projections (COPPs)”,
+Working Paper Series
+, No 2555, ECB, May.
+On the conduct of monetary policy in the event of large relative price shocks, see also V. Guerrieri, M. Marcussen, L. Reichlin and S. Tenreyro (2023),
+The art and science of patience: relative prices and inflation
+, Geneva Report on the World Economy 26.
+This finding is based on an ex-post analysis using optimal policy counterfactuals under two different sets of assumptions. In a first exercise, the policymaker is assumed to be aware of realised macroeconomic developments and forecasts as captured by the ECB projections from March 2024, but is able to implement an alternative rate path already from the start of the policy normalisation in 2021Q4. The rate path follows optimal policy based on a loss function that takes the following variables into account: deviations of inflation from the target; the output gap; interest rate smoothing. The relative weights on these variables are estimated using euro area data. In a second exercise, optimal rate policy is conducted under the counterfactual assumption that the securities portfolios evolved according to expectations prior to the announcement of policy normalisation at the December 2021 GovC rather than according to their actual evolution. Due to the higher balance sheet and associated macroeconomic dynamics, the optimal rate path in the second exercise is 30bps higher on average over the period 2022Q1 to 2026Q4.
+Optimal policy counterfactuals under commitment in 2022Q3 are computed conditional on the December 2023 macroeconomic baseline and a central bank loss function, which beyond penalising deviations of inflation from target and deviations of GDP from potential, it also includes penalties on asset holding and interest rate and balance sheet volatility. The penalties of the loss function are calibrated such that under optimal balance sheet policies in March 2015, the path produced by the model is consistent with announcements on asset purchases by the Governing Council as of March 2015.
+These robust control exercises use three models: MMR model (Mazelis, Motto, Ristiniemi, 2023), the New Area-Wide Model (Coenen, Karadi, Schmidt, Warne, 2019), and the BASE model (Angelini, Bokan, Christoffel, Ciccarelli, Zimic, 2019). A weight of 0.25 on the output gap follows the literature (Kiley and Roberts, 2017) and practice in other policy institutions (Yellen, 2012). These values are consistent with a relative weight on unemployment rate deviations from its natural rate of 1 (Svensson and Tetlow, 2015; Debortoli et al., 2019) and an Okun’s law coefficient of 0.5 that relates the output gap to the unemployment gap. The robust control approach avoids the policy paths that would deliver the largest losses.
+P. Karadi, A. Nakov, G. Nuno, E. Pasten and D. Thaler, 2024, “Strike while the iron is hot: optimal monetary policy with (S,s) pricing,” work in progress.
+The scenarios are described in ECB (2022), “
+The impact of the conflict in Ukraine on the euro area economy in the baseline and two alternative scenarios
+”,
+ECB staff macroeconomic projections for the euro area
+, March.
+See also C. Lagarde, 2024, “
+Building confidence in the path ahead
+,” Speech to XXIVth ECB Watchers conference. The process of moving away from the peak level of restrictiveness has many parallels to the process of moving away from the peak level of accommodation. See Philip R. Lane (2022) –
+Barcelona speech
+– for a discussion.
+Related topics
+Banking sector
+Financial markets
+Monetary policy
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

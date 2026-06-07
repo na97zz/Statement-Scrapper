@@ -1,0 +1,116 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A multi-tool for cross-border payments: the power of Legal Entity Identifiers − speech by Victoria Cleland
+DATE: 01/06/2024
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/july/victoria-cleland-speech-financial-stability-board-regulatory-oversight-committee
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+A multi-tool for cross-border payments: the power of Legal Entity Identifiers − speech by Victoria Cleland
+Given at the FSB-GLEIF-ROC Global LEI conference
+Published on 
+
+ 09 July 2024
+Victoria Cleland discusses the benefits Legal Entity Identifiers (LEI) could enable for payments, the role that they can play in enhancing cross-border payments, and steps that could be taken to drive their uptake and use.
+Speech
+I would like thank colleagues from the Financial Stability Board (FSB), the Global LEI Foundation (GLEIF), and the Regulatory Oversight Committee (ROC) for arranging this conference and providing an opportunity to delve more into the wide-ranging benefits of Legal Entity Identifiers (LEIs). Benefits which are more far reaching than realised at their creation, and which provide opportunities for so many of the audience today.
+Today’s conference brings together public and private sector experts to discuss the benefits of LEIs in a range of sectors. We will hear insights on LEI implementation, benefits of LEIs, and the actions that we can take to further drive adoption and use of LEIs.
+I would like to start by asking you to consider what LEIs have in common with Teflon and with Tempur mattresses? The answer is that they have each found applications and uses well beyond their originally conceived purposes. The material used in Tempur mattresses was originally developed to cushion astronauts during lift-off
+footnote
+[1]
+, and Teflon was used during the Manhattan Project before it became better associated with non-stick cookware
+footnote
+[2]
+. And LEIs are now recognised to have a wider range of applications than first envisaged.
+LEIs have their roots in the response to the 2008 global financial crisis. In an increasingly complex and globalised financial system, parties sometimes found it hard to establish the precise identity of counterparties to their financial transactions. This made assessing risk exposures challenging on an individual firm basis, aggregate risks hard to analyse across the market, and presented a barrier to the resolution of financial institutions.
+The launch of LEIs in 2012, followed by the launch of the GLEIF 10 years ago almost to the day, were important steps in the journey towards a more transparent, safer and efficient financial system. Today LEIs are firmly part of the financial system furniture, enabling the clear identification of specific entities.
+To briefly explain, what an LEI is:
+A 20 character standardised alpha-numeric code, enabling unambiguous identification of legal entities, avoiding challenges that arise from identifying entities by name alone. For example, confusion can arise where entities have similar names such as US commercial bank ‘Bank of England’ and the UK central bank ‘The Governor and Company of the Bank of England’. But there is no ambiguity between their LEIs (549300GY4NTTEM7WWB64 and YUEDD7W89PH0FV8Q2S28).
+Every LEI contains consistent reference information about an entity and its ownership structure, enabling an understanding of ‘who is who’ and ‘who owns whom’.
+The data is publicly available for free as a global directory, enhancing market transparency.
+As of early July 2024, there are 2.7m active LEIs worldwide. Much of the uptake to date is in large part driven by regulatory mandates – the ROC’s most recent figures point to 161 items of law and regulation that require use of LEIs.
+footnote
+[3]
+As LEIs have become more ubiquitous in finance, a wider range of use cases has emerged, derived from the ability to know exactly and unambiguously who another legal entity is. As these use cases and their ensuing benefits become better known, I hope that use of LEIs will be driven more by market demand than regulatory mandation. A few beneficial use case include:
+Reconciliation processes could be enhanced by adoption of LEIs as an identifier in e-invoices passed between companies. This could be used to more quickly link an invoice with internal accounting system records on a trading partner, thereby reducing the need for manual processing and enabling consistent bookkeeping and financial statements.
+If adopted in sanctions lists, LEIs could enable more automated compliance checking, reducing the need for bespoke technological solutions and reducing the occurrence of false positives.
+If widely adopted, LEIs could enable faster and cheaper ‘know your customer’ processes by reducing frictions in verifying the identity of new customers, payers and payees.
+Hopefully a few of these have caught your attention. And hopefully it is clear that their reach could be particularly strong in enhancing cross-border payments. Indeed greater use of LEIs is one of the FSB’s priority actions for enhancing cross-border payments
+footnote
+[4]
+and achieving the FSB targets
+footnote
+[5]
+. It is a motivation for today’s conference, and a strong interest of mine in my capacity as Chair of the FSB’s Cross-Border Payments Coordination Delivery Group.
+The FSB’s 2022
+report
+on ways to improve adoption of LEIs highlighted the important role that they could play in strengthening data standardisation, assisting and supporting straight-through processing of payments, KYC processes and sanctions screening. Within the context of the overall G20 Roadmap
+footnote
+[6]
+, LEIs can help to reduce the need for manual translation of identity; broadly enabling automation, increasing speed and reducing the cost of cross-border payments.
+Widespread use of LEIs could offer enhancements at all stages of a cross-border payment journey:
+At payment initiation, inclusion of an LEI could enable account to account owner validation, providing greater assurance that the end user is sending money to the correct recipient.
+Payment processing at payment system operators (PSOs) could be simplified with consistent unambiguous identification and PSOs could benefit from richer data on activity and system usage patterns.
+Financial crime checks could be simplified by using LEIs as a reference to access due diligence information.
+For the recipient, an LEI carried in a payment message could enable fast and automated reconciliation with information on debtors.
+Taking a wider view, there are also a range of potential use cases for LEIs outside the immediate world of finance. For example, in global trade LEIs could increase efficiency in supply chains by streamlining customer due diligence, identify risks such as vendor impersonation and track initiatives such as ESG data through a supply chain. LEIs could also improve inclusion in global trade by enabling access to trade finance for SMEs, thereby broadening participation in domestic and international markets.
+So, LEIs have real potential. But like many innovations are taking some time to gain critical mass. When it was first invented in the early 19th century, the modern bicycle was considered a fad by some, and critics questioned its longevity. Over a century later, bicycles are part of everyday life. And the first smartphone was developed in 1992 but it was only a couple of decades later that it really took off. Like bicycles and smartphones, then, LEIs may take time before they are fully appreciated and embraced.
+While the potential opportunities presented by LEIs are significant, their global use is still relatively low. Unfortunately the uptake of LEIs by non-financial corporates is currently too low to make a real difference to cross-border payments. International bodies are taking a number of steps that should prompt greater use of LEIs – to highlight two examples:
+the Financial Action Task Force’s (FATF) public consultation on Recommendation 16 (the principal standard covering information required to be contained in cross-border payment messages for financial crime purposes) specifically references LEIs to be required as a mandatory element in cross-border payment messages, and
+the Committee on Payments and Market Infrastructures’ (CPMI) Joint Task Force requirements on harmonised ISO 20022 data requirements for enhancing cross-border payments
+footnote
+[7]
+highlights LEIs as a globally recognised and publicly available identifier to improve the speed, transparency and cost of cross-border payments.
+The FSB will publish a follow up report on progress on promoting uptake of LEIs later this year. But there is plenty more that industry and regulators can do to realise the benefits of LEIs for cross-border payments and more widely. I hope that today’s conference will inspire new ideas.
+For those of us in the public sector who set regulations or standards, I would encourage you to consider and advocate for opportunities to incorporate LEIs as a compulsory data element. We are doing this for payments settled in the UK high-value payment system (CHAPS) between financial institutions from 1 May 2025. We will also be looking to incorporate further data standards, such as LEIs, into regulatory reporting as part of the PRA’s banking data review. Experience tells us that LEI adoption is greatest when it is driven by a mandate; by increasing its ubiquity we can create the conditions for more innovative use cases to emerge.
+For private sector colleagues, I would encourage you to think broadly about how to take advantage of LEIs for your organisation. This could include continuing to investigate and develop use cases and leveraging the opportunities that widespread LEIs offer. Adopted effectively, LEIs can help to cut costs for providers of payment services and enable faster, cheaper and more transparent services to consumers.
+A better set of outcomes is within reach, with a little more imagination and focus on implementation. I very much hope that today’s event acts as a catalyst for concrete action.
+Acknowledgments:
+I am grateful to Richard Lewis and Karin Oldham for their assistance in preparing this speech, and further to Joseph Chilvers, Paul Bedford, and James Benford for their comments and suggestions.
+Learn About TEMPUR® | NASA | TEMPUR® UK
+aps.org/archives/publications/apsnews/202104/history.cfm
+Regulatory uses of the LEI (leiroc.org)
+G20 Roadmap for Enhancing Cross-border Payments: Priority actions for achieving the G20 targets - Financial Stability Board (fsb.org)
+Targets for addressing the four challenges of cross-border payments: Final report - Financial Stability Board (fsb.org)
+Enhancing Cross-border Payments: Stage 3 roadmap - Financial Stability Board (fsb.org)
+https://www.bis.org/cpmi/publ/d218.pdf
+https://www.bis.org/cpmi/publ/d218.pdf
+Close
+Enhancing Cross-border Payments: Stage 3 roadmap - Financial Stability Board (fsb.org)
+Close
+Targets for addressing the four challenges of cross-border payments: Final report - Financial Stability Board (fsb.org)
+Close
+G20 Roadmap for Enhancing Cross-border Payments: Priority actions for achieving the G20 targets - Financial Stability Board (fsb.org)
+Close
+Regulatory uses of the LEI (leiroc.org)
+Close
+aps.org/archives/publications/apsnews/202104/history.cfm
+Close
+Learn About TEMPUR® | NASA | TEMPUR® UK
+Close
+Convert this page to PDF
+Victoria Cleland
+Executive Director, Payments
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

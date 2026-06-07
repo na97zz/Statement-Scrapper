@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Crypto-Assets and Decentralized Finance through a Financial Stability Lens",
+  "date_original": "2022-07-08",
+  "date_au": "08/07/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220708a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-07-08 - Lael Brainard - Crypto-Assets and Decentralized Finance through a Financial Stability Lens.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-07-08 - Lael Brainard - Crypto-Assets and Decentralized Finance through a Financial Stability Lens.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "20977aabdcd3236528af64f837ebbff9474a95f57cabbe515c3a8808b76f59b1"
+}

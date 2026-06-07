@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The contribution of finance to combating climate change",
+  "date_original": "2021-10-12",
+  "date_au": "12/10/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211012~bfe7738d35.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-10-12 - Speech by Christine Lagarde - The contribution of finance to combating climate change.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-10-12 - Speech by Christine Lagarde - The contribution of finance to combating climate change.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "81557213e55ca2a8726ae51a456d7449cc548941c1f1fca9c81f3c65cfae91ca"
+}

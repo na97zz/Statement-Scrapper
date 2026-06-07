@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and U.S. Productivity",
+  "date_original": "2022-11-30",
+  "date_au": "30/11/2022",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20221130a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-11-30 - Lisa D. Cook - The Economic Outlook and U.S. Productivity.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-11-30 - Lisa D. Cook - The Economic Outlook and U.S. Productivity.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "070da334f5380fead849d5ebaf502953132f528b2b89abbedede84ee56777ab9"
+}

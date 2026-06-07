@@ -1,0 +1,333 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Modernising the trains and rails of UK payments − speech by Sarah Breeden
+DATE: 01/06/2024
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/april/sarah-breeden-keynote-speech-at-the-innovate-finance-global-summit-2024
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Modernising the trains and rails of UK payments − speech by Sarah Breeden
+Given at the Innovate Finance Global Summit 2024
+Published on 
+
+ 15 April 2024
+Amidst the prospect of significant technological change in payments, Sarah sets out how the Bank of England seeks to deliver trust and support innovation, both as a provider and as a regulator of retail and wholesale money. She discusses the first-order threats and opportunities facing central banks and the private sector.
+Speech
+Innovation in money and payments
+The money we use to support economic and financial activity, and the payment systems we use as we do so, are fundamental to the Bank of England’s role to maintain monetary and financial stability. Money and payments have been no stranger to technological innovation over many centuries.
+footnote
+[1]
+But the pace, breadth and depth of technological change we see now suggests even more radical change may be ahead of us.
+My aim today is to set out how the Bank of England is seeking to ensure that we will be able both to capture the benefits of these advances and to ensure they are safe. I’ll discuss how, as we consider the payments landscape in its entirety, we are increasingly focused on innovation in wholesale payments and the importance of payments innovation by banks. We’ll publish a Discussion Paper on these areas this summer to draw on input and collaboration from the private sector, as a complement to the work we’ve been doing on stablecoin regulation and retail central bank digital currency (CBDC).
+Looking back nearly five years ago, Facebook and others proposed a Libra stablecoin that aimed to apply technologies pioneered in the crypto-asset ecosystem to retail payments in the real-world on a global scale. That was somewhat of a bolt from the blue.
+footnote
+[2]
+It reminded us in the UK that, notwithstanding an apparently quick and seamless payments experience for many people (with near ubiquitous contactless card payments and new wallet apps like Apple Pay), technological innovation in money and payments was far from over.
+Today, we see examples of interbank retail payment systems around the world – the Unified Payments Interface in India, Pix in Brazil, Swish in Sweden – that are used alongside cards for retail payments in a way that doesn’t yet happen in the UK. Individuals can pay retailers in-store or online out of their bank accounts without going via cards – offering savings particularly for small businesses.
+footnote
+[3]
+And people increasingly make payments between different banks using only the recipient’s mobile phone number or a QR code.
+As we look ahead, we appear to be on the cusp of widespread, more fundamental technological change. Technologies loosely grouped under the broad heading of ‘tokenisation’ – distributed ledger technology (DLT) and the potential for atomic settlement and programmability, as pioneered in crypto-asset markets – have the potential to offer greater efficiency and functionality for ‘real world’ retail and wholesale payments. That innovation matters for our role in maintaining monetary and financial stability, and also has the potential to offer significant benefits for customers and businesses, economic activity and growth.
+In retail payments (the high volume, low value payments made between households and businesses), our experiments with the private sector and the London Centre of the Bank for International Settlements’ Innovation Hub have already shown how use cases for these technologies can embed payments more deeply, automatically and efficiently into our increasingly digital lives.
+footnote
+[4]
+Such technologies can enhance online shopping by enabling a buyer’s funds to be reserved at time of purchase and automatically released to the seller only once physical delivery of goods is confirmed. That could enable greater competition in online retail if consumers are more confident to shop online with a new merchant or platform. Similarly (and perhaps I’m playing to the gallery for those who’ve travelled long distances today), they could allow commuters to purchase train tickets and be refunded immediately and automatically if the train arrives late, without a need for separate forms and payment instructions. In the context of supply chains, automatic payment upon delivery could help alleviate the perennial challenge of late payments to small businesses.
+footnote
+[5]
+And finally, these technologies could meaningfully reduce the cost of retail payments. Libra was proposing to enable cross-border payments like remittances at a fraction of the 6-7% average cost at the time. And lower cost payments could make micropayments (those for very small amounts) more economical, so that, for example, I pay for the article I read rather than needing an entire newspaper subscription.
+I highlight these examples not as a comprehensive description of what these technologies have to offer. Rather, they simply highlight to me that there is genuine potential for these technologies to improve our everyday lives.
+Such technologies also offer the opportunity to enhance wholesale payments and settlement – low volume, high value activity between financial and corporate institutions, which includes interbank payments as well as the payments that settle financial market activity.
+Here, while the execution of financial market transactions today takes place at speed, its clearing and settlement is far slower, as the multiple entities involved (central securities depositories, central counterparties, custodians, banks and end-investors) each update their records. DLT allows a single, definitive database to be shared and updated simultaneously across all network participants, rather than each party maintaining its own records. It thus enables all participants in a network to have the same, single source of truth, without the need for manual reconciliation. This can facilitate faster, more efficient processes with fewer intermediaries, and increase the speed at which a transaction can settle – all of which could reduce the risks and costs involved. Tokenisation could also increase the liquidity of a wider range of financial assets (for example private assets, units in investment funds, or even real estate), enabling them to be held, traded or perhaps used as collateral by a broad set of players, and 'fractionalised' so that investors can hold a portion if they can't afford the whole.
+footnote
+[6]
+The Bank of England’s role in payments innovation
+I like to think of money and payment systems in terms of trains and rails – money is the train, and the payment system is the set of rails by which that asset travels from sender to receiver. The Bank of England’s role for each is two-fold – both provider and regulator.
+First, we provide trains and rails of our own. We issue our own money (cash and central bank reserves) and run the Real-Time Gross Settlement (RTGS) infrastructure (the system by which reserves are transferred between financial institutions). These sit at the heart of the economy and financial system,
+and together deliver trust in money and payments, which underpins monetary and financial stability.
+footnote
+[7]
+They are also an important foundation on which the private sector can provide services and innovate.
+Second, we regulate the trains and rails provided by the private sector – the money issued by commercial banks, and the interbank payment systems and card schemes through which that money is transferred.
+footnote
+[8]
+Again, our aim is to deliver trust in money and payments and so monetary and financial stability – by ensuring this private sector activity is safe. In so doing, we support safe innovation.
+The technological innovation I’ve described requires us to look ahead to identify what changes in our role as provider and regulator might be needed. I’d highlight three reasons for that.
+First, some of these technologies can reduce risks in the financial system. For example, collapsing the myriad of post-trade clearing and settlement activities and intermediaries into a potentially instantaneous smart contract could reduce, or even remove, counterparty credit and settlement risks. This could bring some new challenges to manage (the ability to net transactions before settlement is reduced, for example). But the direction of travel towards more efficient post-trade processes in financial markets is clear.
+Second, as the central bank, we issue the safest form of money in the economy and that plays a crucial foundational role for monetary and financial stability. And so, as technology advances and new players introduce welcome competition, we need to ensure that we provide central bank money and payments infrastructure with the requisite functionality so that its role as an anchor of confidence in different types of money in the economy is not eclipsed.
+Third, a regulated financial system that isn't delivering at the frontier in terms of outcomes for the real economy and financial market participants is vulnerable to new players growing quickly outside of the regulatory perimeter. Such players might quickly get to systemic scale and, in so doing, create risks that are hard retrospectively to address – a phenomenon we’ve seen as technological innovation has hit other sectors of the economy.
+footnote
+[9]
+Our work on retail innovation
+Stablecoin regulation
+We were reminded starkly of this final point by the Libra announcement in 2019. We faced the prospect of Facebook harnessing its network of (then) over two billion users to drive adoption both of a new form of money for retail payments (a stablecoin) and of new DLT rails for it to travel on. On both fronts, the risks were not adequately addressed by the regulatory frameworks then in place. And that meant trust in money and payments would not be assured.
+While the Libra/Diem
+footnote
+[10]
+proposal came to naught, the possibility of stablecoins coming to be used at scale for retail payments (including by harnessing large firms’ existing user bases) remains. PayPal launched a dollar stablecoin with Paxos last year. And Visa is experimenting in the US, enabling merchants to receive payments in Circle’s USD Coin.
+So in November, we published a Discussion Paper proposing a regulatory regime for stablecoins used at systemic scale in retail payments, while the Financial Conduct Authority (FCA) proposed a regime for stablecoins more broadly.
+footnote
+[11]
+We’ve received valuable feedback from a range of stakeholders in the crypto, payments and banking sectors, as well as from academics and civil society.
+Our proposals are focused on ensuring the new train (the stablecoin itself) and the new rails (the system that transfers the stablecoins from payer to payee) meet our and the public’s expectations for them to be as safe as those currently used for retail payments (commercial bank money and interbank payment systems respectively).
+As with commercial bank money, safety comes from the financial resources stablecoin issuers hold to reduce the likelihood of failure and the resolution arrangements in place in case they do. It will be impossible to provide deposit insurance-style protections for stablecoins, since there isn’t a broader industry among which to share the costs. And so that means tighter requirements on financial resources than for commercial bank money. We have proposed that stablecoins used at systemic scale for payments be backed 100% by central bank deposits. And that these would be unremunerated, as stablecoin issuers would not be engaged in lending or in money market activity, and so not expected to play a role in monetary policy transmission.
+In the absence of revenues from backing assets, revenues for stablecoin issuers would have to come from other sources. This could be from fees for the use of the payment rails themselves, as is the case for interbank payment systems, including card companies, today. Or it could be through providing ancillary services, in the way that Open Banking firms today neither issue money nor provide payment rails, but rather offer users services such as budgeting tools based on access to payments data. (At the risk of straining my metaphor, such firms offer neither the train nor the rail, but rather the onboard concessions delivering services to passengers.)
+But my fundamental point is that business models wanting to offer a systemic means of payment and earn revenues from maturity and liquidity transformation should be regulated as banks.
+In feedback to the Discussion Paper, some respondents said these requirements would challenge stablecoin issuers’ business models and so might effectively bar use of stablecoins at systemic scale. We’ll of course closely consider all feedback received and we will then consult further on a draft rulebook – guided always by the principle that the same risks in different business models need to be addressed to achieve the same regulatory outcome.
+Exploration of retail CBDC
+At the same time as considering how to regulate new tokenised money for retail payments issued by the private sector, we are also exploring whether to provide such money ourselves. Hence, the Bank of England and HM Treasury (like many other countries around the world) are exploring whether or not to issue a retail CBDC in the UK.
+Use of cash in UK retail transactions has already fallen from around two-thirds of transactions twenty years ago to 14% in 2022.
+footnote
+[12]
+And the possibility of large technology companies issuing money risks bearing down further on the role of central bank money in retail payments. To be clear, we will issue banknotes for as long as people wish to use cash. But these trends do raise concerns for the Bank of England’s objectives that may warrant a response.
+A core tenet of monetary and financial stability is that the public can be confident in the value of money, regardless of its form and issuer, and that all types of money can be easily exchanged, delivering so-called uniformity of money. Wide access to banknotes – alongside bank regulation and provision of RTGS – has provided the anchor for our financial system and our economy for generations - since it ensures different forms of private money (like bank deposits) can always be converted into financially risk-free public money.
+The fall to date in the use of cash hasn’t yet challenged this uniformity of money. The risk that it might do so in future is hard to quantify and may be remote. But this uncertainty and the severity of the impact should it crystallise is an important motivation for our exploration of a retail CBDC. I firmly believe that, as technological innovation takes place, we must not forget the contribution that retail central bank money has made to monetary and financial stability.
+There is also a risk that new players issuing money may impede other firms’ ability to provide wallets and other payment services for it (so-called ‘walled gardens’), or issue money in such a way that users cannot transact with users outside of their platform. This could challenge uniformity of money, since this money might not always be easily converted into other types of money. Such dynamics would also challenge competition in the payments market – and we’ve of course seen in other sectors of the economy how digital, highly networked markets can present challenges to competition regulation.
+footnote
+[13]
+Given that context, we consulted with HM Treasury last year on a retail digital pound, and we published in January our response to the over 50,000 responses we received.
+footnote
+[14]
+Many people raised important concerns around ensuring privacy and control over how they spend their money should a digital pound be launched.
+footnote
+[15]
+We take these concerns seriously. In response, the Government has committed to introducing primary legislation to Parliament before a digital pound could be launched (and to consult further before doing so). And that legislation would guarantee users’ privacy and control of their digital pound payments.
+Let me emphasise – we have not taken any decision on whether or not to issue a digital pound. But preparatory work is prudent to ensure the option to issue is available if needed. Our work over the next two years or so will be focused on making a robust and objective assessment of potential benefits and costs, including operational and technical feasibility. To do that, we will consider the potential design of a digital pound in greater detail, informed by technology experimentation and proofs of concept with the private sector. We will continue to engage widely with external stakeholders. And importantly, we will be informed by how innovation in the wider payments landscape evolves.
+Indeed, key inputs into any decision to proceed with a retail CBDC will be the nature and scale of innovation in other forms of retail money (in particular, commercial bank money), as well as how our own wholesale payments infrastructure might evolve in support. Let me cover both in the rest of this speech, starting with our work
+supporting innovation in wholesale payments and settlement – an area on which we’re increasingly focused.
+Our increased focus on wholesale innovation
+Settlement
+I spoke earlier about how tokenisation could drive greater speed and efficiency in post-trade financial market processes, through less need for manual reconciliation and long chains of intermediaries. As regulator of financial market infrastructure (FMI), we’re proactively encouraging firms to explore these technologies.
+New legislation passed last year gave HM Treasury the power to establish so-called ‘FMI sandboxes’ – where we modify regulations to allow firms to experiment with new technology. Earlier this month, the Bank of England and the FCA consulted on our approach to the first such sandbox, the Digital Securities Sandbox.
+footnote
+[16]
+This will enable the private sector to set up real-world trading venues and settlement systems using new technologies such as DLT. We will review feedback to our consultation closely, and plan to open the sandbox to applications this summer.
+I want to emphasise the ‘real world’ aspect, because “sandbox” as a moniker probably undersells the innovation we’re making as regulators here. These won’t merely be prototypes or experiments. Our aim is to design the sandbox so that sandbox entrants and the digital securities in it are used in broadly the same way as in the conventional financial system.
+footnote
+[17]
+So this is a really exciting opportunity for market participants and regulators to gain practical insights into the potential benefits of new technologies, while placing limits on activity to enable that innovation to take place safely.
+The sandbox will last for five years, during which time the Bank of England, FCA and HM Treasury intend to learn from firms’ activity and, subject to that, to create a new permanent regulatory regime for the trading and settlement of digital securities. The government has the tools to put that in place reasonably quickly. In that sense, the sandbox ought not be a ‘bridge to nowhere’, but rather a means to test and then embed durable and safe innovation.
+Payments
+As securities are transferred from buyers to sellers, so money needs to be transferred the other way. Our starting point here is that there are clear benefits to financial stability from settling wholesale transactions in central bank money. It is the ultimate risk-free asset and safest form of money in the economy, and it enables an unequivocal discharge of obligations between parties.
+Of course, some wholesale transactions settle in commercial bank money today.
+footnote
+[18]
+And commercial bank money is a much safer asset than it was at the time of the Global Financial Crisis (GFC), thanks to reforms to bank regulation and central bank liquidity insurance, as well as the establishment of resolution regimes.
+That said, there is a tail risk from too much wholesale settlement taking place in privately issued money. Banks holding money with each other in order to settle payments creates interconnectedness – and this could amplify a banking stress, as banks pull wholesale deposits from each other, leading to wider deleveraging and losses (dynamics that were clearly at play during the GFC). Moreover, a payment system settling in commercial bank money would struggle quickly to switch to central bank money in a banking stress, impairing the economic activity being conducted through it.
+Settlement of wholesale transactions in central bank money on the other hand can be an anchor of confidence and stability in a stress. We have a low risk appetite at the Bank of England for a significant shift away from settlement in central bank money towards private settlement assets. And so, as the technology for trading, payments and securities settlement evolves, we need to ensure our wholesale payments infrastructure keeps pace.
+We have already made significant headway in renewing the UK’s RTGS system. It now operates using global messaging standards, to enable more automatic processing of payments domestically and cross-border. Later this year, it will transition to a more resilient and capable core settlement engine (including with capability to move to near 24/7 operation in future). And we are reviewing how best to expand further the number of financial institutions with direct access to RTGS.
+footnote
+[19]
+At the moment, the tokenised securities transactions in the Digital Securities Sandbox would not be able to settle in central bank money. Rather, they would have to use privately issued settlement assets, such as tokenised bank deposits. We are therefore increasingly focused on how best our wholesale infrastructure should evolve to support the settlement of tokenised transactions, to ensure the continued role of central bank money in wholesale payments.
+Already, we have established a new ‘omnibus’ account in the current RTGS system to allow private sector payment systems using DLT to offer settlement in a tokenised representation of central bank money.
+footnote
+[20]
+Indeed, the first such payment system entered its initial phase of operations at the end of last year under limits from the Bank of England. Returning to my trains/rails framing,
+such a solution in effect allows the private sector to offer a train with the safety of central bank money, travelling on privately operated payment rails using the latest DLT technology – even though the underlying central bank money continues to employ a traditional centralised ledger.
+More broadly, the Bank of England is exploring with the industry the benefits of extending the renewed RTGS system in future to offer synchronised settlement in a variety of assets, by linking the traditional centralised RTGS ledger to other ledgers, including those using DLT.
+footnote
+[21]
+Money could move on our RTGS system at the same time as tokenised securities move in financial market transactions. Or money in RTGS could move at the same time as money on another central bank’s distributed ledger in foreign exchange transactions. Such ‘atomic settlement’, with the simultaneous movement of money and assets on different ledgers, can effectively extend Delivery versus Payment or Payment versus Payment to a greater range of use cases.
+Indeed, in a project with the BIS Innovation Hub last year, we explored how such synchronisation might work in practice to enhance housing purchases. Movement of funds in RTGS could automatically take place at the same time as the change in home ownership is recorded on a digitised title deed, meaning less need for costly and risky chains of intermediaries.
+footnote
+[22]
+(And all this was coordinated by a ‘synchronisation operator’, which – now probably stretching my analogy to breaking point – is akin to managing the train timetable so that money and assets move on different rails at the same time.)
+Meanwhile, some other central banks are experimenting with going further, tokenising central bank money themselves on a separate, distributed ledger – so-called wholesale CBDCs.
+footnote
+[23]
+The question we are keen to consider is how these different models for central bank infrastructure compare, including whether there are important differences in the payment use cases they can support.
+The evolution of wholesale payments will also be relevant to our consideration of a retail CBDC, since both could help support the future uniformity of money in the UK. Today, the equal value of money issued by different banks is supported not only by being able to convert them one-for-one into cash, but also by payments between those banks settling across the books of the central bank, in reserves, through RTGS.
+footnote
+[24]
+Similarly, as the technology underlying privately issued money evolves (whether through tokenised bank deposits or regulated stablecoins), this uniformity of money could potentially be bolstered not just by retail CBDC, but also by enhancing the Bank of England’s wholesale payments infrastructure so that it can continue to play its key role in supporting settlement between these new forms of private money.
+Payments innovation by banks
+I want to finish on what the coming wave of technology innovation in payments means for commercial bank deposits – which of course support the vast majority of retail payments in the UK at present.
+As Andrew Bailey said in his call to action at Mansion House last year, we don’t want the central bank to be left as the only game in town when it comes to payments innovation.
+footnote
+[25]
+In addition to our exploratory work on retail CBDC and our proposed regime for regulated stablecoins, we want to encourage more thinking and, crucially, action by banks in payments innovation. That needs to cover trains and rails – both how tokenisation might be applied to bank deposits to enhance their functionality across the full range of retail payments use cases, and what interbank payment rails would be needed to support this.
+I am firmly of the view that the technology revolution will hit – indeed, is hitting – finance in the way that it has hit other sectors of the economy. It strikes me that, for banks (as the incumbents), payments innovation is both a first-tier opportunity (given the potential benefits for them and their customers of additional payments functionality) and a first-tier threat (given the risk of disintermediation by new players). That in my view demands urgent action.
+For the Bank of England’s part, we’ll support this both as a regulator by setting out clear expectations
+footnote
+[26]
+, and as a provider of the wholesale infrastructure via which interbank payments ultimately settle. On the latter, we are experimenting with six other central banks, the Bank for International Settlements and the private sector on ‘Project Agorá’, which will explore how tokenised commercial bank deposits could be integrated with tokenised wholesale central bank money to enhance payments efficiency and functionality, including cross-border.
+footnote
+[27]
+To pause for a moment on this international dimension before I conclude, central banks all around the world are facing questions similar to those I’ve set out today. Projects like Agorá will help us pool our resources in tackling them. But importantly, they will also help ensure we tackle them in a way that is coherent, helps reduce rather than add to frictions in cross-border payments, and importantly (and definitely a subject for a speech on another day) helps us understand the implications for the international monetary system should digital money lead to more frictionless cross-border money holdings and payment flows.
+footnote
+[28]
+Conclusion
+New technologies offer the prospect of enhanced retail and wholesale payments functionality in the UK. Our immediate focus at the Bank of England following Facebook’s Libra announcement in 2019 has rightly been on establishing regulatory regimes for stablecoins to be used safely for retail payments, and on considering whether a retail CBDC might be needed in future.
+But we are increasingly complementing that work with a focus on how we can best support innovation both in wholesale payments and financial markets (including through modernisation of the Bank of England’s wholesale payments infrastructure) and in banks’ retail payments offerings. To do that will require input and close collaboration from the private sector, and so we are planning to set out our thinking in these areas in a Discussion Paper this summer.
+footnote
+[29]
+We look forward to harnessing the expertise and creativity of the people in this room as we do so.
+I would like to thank Michael Yoganayagam for his assistance in drafting these remarks. I would also like to thank Martin Arrowsmith, Andrew Bailey, Paul Bedford, Emma Butterworth, Diana Carrasco Vime, Victoria Cleland, Amy Lee, Sasha Mills, Ali Moussavi, David Rule, Danny Russell, Vicky Saporta, Cormac Sullivan and Danny Walker for their helpful input and comments.
+Indeed, my colleagues David Rule and Iain de Weymarn have written recently about the lessons we can draw from the late seventeenth century (when paper money first began to circulate alongside silver coin in the UK) for the innovation in money we’re seeing today.
+New money, old money – Bank Underground
+As my predecessor Jon Cunliffe described in his final speech as Deputy Governor for Financial Stability in October:
+Money and payments: a ‘black ships’ moment? - speech by Jon Cunliffe | Bank of England
+.
+Small businesses in the UK pay on average almost five times the fees paid by the largest retailers to accept card payments - close to 2% of the transaction value. See Chart B.3,
+The digital pound: a new form of money for households and businesses? Consultation Paper (bankofengland.co.uk)
+.
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC (bis.org)
+Time is Money | FSB, The Federation of Small Businesses
+;
+Prompt payment and cash flow review - GOV.UK (www.gov.uk)
+Unlocking the power of securities tokenisation - UK Finance
+In his Mansion House speech last year, Andrew Bailey set out two important foundations underpinning public trust in money – the uniformity (or ‘singleness’) of money (wherever we hold our money – in bank accounts, notes and coins etc – we can be assured that it all has the same value) and ‘finality of settlement’ (when we pay for something, we can rest assured that it actually has been paid for).
+Speech given by Andrew Bailey at the Financial and Professional Services Dinner, on Monday 10 July 2023 (bankofengland.co.uk)
+In the UK, the Bank of England supervises systemic payment systems, and their systemic service providers, as part of its financial stability objective. The Payment Systems Regulator (PSR) also supervises UK payment systems to promote competition, innovation and the interests of their users.
+Londoners overwhelmingly against TfL decision to ban Uber, analysis of social media posts reveals | London Evening Standard | Evening Standard
+Libra was rebranded as Diem in December 2020.
+FCA and Bank of England publish proposals for regulating stablecoins | Bank of England
+UK Payment Markets 2023 | Policy and Guidance | UK Finance
+Unlocking digital competition, Report of the Digital Competition Expert Panel - GOV.UK (www.gov.uk)
+Bank of England and HM Treasury respond to digital pound consultation | Bank of England
+People’s use of digital payments today also generates personal data, and there is a robust legal regime in place around the access that the public and private sectors can have to that data.
+The Bank of England and the FCA issue joint consultation and draft guidance on the Digital Securities Sandbox | Bank of England
+Provided entrants have completed the requisite testing and engagement with supervisors.
+This is due to a range of reasons, including some firms not having access to the central bank balance sheet or having cost-effective arrangements with private settlement banks. That said, the barriers to entry for direct access to the UK wholesale payment system CHAPS (such as the cost of technical infrastructure required) has reduced in recent years and, we expect, will continue to decrease. Hence, the Bank of England is reviewing whether the set of financial institutions with access to RTGS should be widened further -
+Reviewing access to RTGS accounts for settlement | Bank of England
+.
+The Real Time Gross Settlement service: an open platform to drive innovation - speech by Victoria Cleland | Bank of England
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Synchronisation is one of the key priority areas for further work as part of the Future Roadmap for RTGS once the new core ledger and settlement engine go live later this year. We are now working closely with industry to assess business cases and define the high level design of priority features before deciding which features to implement and in what order.
+Future Roadmap for RTGS | Bank of England
+Project Meridian: innovating transactions with synchronisation (bis.org)
+For example – the
+Banque de France
+, the
+Swiss National Bank
+, the
+Monetary Authority of Singapore
+, the
+Reserve Bank of India
+, the
+Central Bank of Brazil
+, and the
+Hong Kong Monetary Authority
+.
+Uniformity of money is also supported by having robust regulatory regimes for private issuers of money (to ensure that banks are robust enough to always honour their commitment to convert deposits into cash
+one-for-one).
+Speech given by Andrew Bailey at the Financial and Professional Services Dinner, on Monday
+10 July 2023 (bankofengland.co.uk)
+Letter from David Bailey, Nathanaël Benjamin and Vicky Saporta on ‘Innovations in the use by deposit-takers of deposits, e-money and regulated stablecoins’ | Bank of England
+Project Agorá: central banks and banking sector embark on major project to explore tokenisation of cross-border payments (bis.org)
+The Bank of England is also closely involved in efforts coordinated by the G20 to enhance cross-border payments.
+G20 Roadmap for Enhancing Cross-border Payments: Consolidated progress report for 2023 - Financial Stability Board (fsb.org)
+This will also support HM Treasury’s work this year in setting out a
+National Payments Vision
+.
+This will also support HM Treasury’s work this year in setting out a
+National Payments Vision
+.
+Close
+The Bank of England is also closely involved in efforts coordinated by the G20 to enhance cross-border payments.
+G20 Roadmap for Enhancing Cross-border Payments: Consolidated progress report for 2023 - Financial Stability Board (fsb.org)
+Close
+Project Agorá: central banks and banking sector embark on major project to explore tokenisation of cross-border payments (bis.org)
+Close
+Letter from David Bailey, Nathanaël Benjamin and Vicky Saporta on ‘Innovations in the use by deposit-takers of deposits, e-money and regulated stablecoins’ | Bank of England
+Close
+Speech given by Andrew Bailey at the Financial and Professional Services Dinner, on Monday
+10 July 2023 (bankofengland.co.uk)
+Close
+Uniformity of money is also supported by having robust regulatory regimes for private issuers of money (to ensure that banks are robust enough to always honour their commitment to convert deposits into cash
+one-for-one).
+Close
+For example – the
+Banque de France
+, the
+Swiss National Bank
+, the
+Monetary Authority of Singapore
+, the
+Reserve Bank of India
+, the
+Central Bank of Brazil
+, and the
+Hong Kong Monetary Authority
+.
+Close
+Project Meridian: innovating transactions with synchronisation (bis.org)
+Close
+Synchronisation is one of the key priority areas for further work as part of the Future Roadmap for RTGS once the new core ledger and settlement engine go live later this year. We are now working closely with industry to assess business cases and define the high level design of priority features before deciding which features to implement and in what order.
+Future Roadmap for RTGS | Bank of England
+Close
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Close
+The Real Time Gross Settlement service: an open platform to drive innovation - speech by Victoria Cleland | Bank of England
+Close
+This is due to a range of reasons, including some firms not having access to the central bank balance sheet or having cost-effective arrangements with private settlement banks. That said, the barriers to entry for direct access to the UK wholesale payment system CHAPS (such as the cost of technical infrastructure required) has reduced in recent years and, we expect, will continue to decrease. Hence, the Bank of England is reviewing whether the set of financial institutions with access to RTGS should be widened further -
+Reviewing access to RTGS accounts for settlement | Bank of England
+.
+Close
+Provided entrants have completed the requisite testing and engagement with supervisors.
+Close
+The Bank of England and the FCA issue joint consultation and draft guidance on the Digital Securities Sandbox | Bank of England
+Close
+People’s use of digital payments today also generates personal data, and there is a robust legal regime in place around the access that the public and private sectors can have to that data.
+Close
+Bank of England and HM Treasury respond to digital pound consultation | Bank of England
+Close
+Unlocking digital competition, Report of the Digital Competition Expert Panel - GOV.UK (www.gov.uk)
+Close
+UK Payment Markets 2023 | Policy and Guidance | UK Finance
+Close
+FCA and Bank of England publish proposals for regulating stablecoins | Bank of England
+Close
+Libra was rebranded as Diem in December 2020.
+Close
+Londoners overwhelmingly against TfL decision to ban Uber, analysis of social media posts reveals | London Evening Standard | Evening Standard
+Close
+In the UK, the Bank of England supervises systemic payment systems, and their systemic service providers, as part of its financial stability objective. The Payment Systems Regulator (PSR) also supervises UK payment systems to promote competition, innovation and the interests of their users.
+Close
+In his Mansion House speech last year, Andrew Bailey set out two important foundations underpinning public trust in money – the uniformity (or ‘singleness’) of money (wherever we hold our money – in bank accounts, notes and coins etc – we can be assured that it all has the same value) and ‘finality of settlement’ (when we pay for something, we can rest assured that it actually has been paid for).
+Speech given by Andrew Bailey at the Financial and Professional Services Dinner, on Monday 10 July 2023 (bankofengland.co.uk)
+Close
+Unlocking the power of securities tokenisation - UK Finance
+Close
+Time is Money | FSB, The Federation of Small Businesses
+;
+Prompt payment and cash flow review - GOV.UK (www.gov.uk)
+Close
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC (bis.org)
+Close
+Small businesses in the UK pay on average almost five times the fees paid by the largest retailers to accept card payments - close to 2% of the transaction value. See Chart B.3,
+The digital pound: a new form of money for households and businesses? Consultation Paper (bankofengland.co.uk)
+.
+Close
+As my predecessor Jon Cunliffe described in his final speech as Deputy Governor for Financial Stability in October:
+Money and payments: a ‘black ships’ moment? - speech by Jon Cunliffe | Bank of England
+.
+Close
+Indeed, my colleagues David Rule and Iain de Weymarn have written recently about the lessons we can draw from the late seventeenth century (when paper money first began to circulate alongside silver coin in the UK) for the innovation in money we’re seeing today.
+New money, old money – Bank Underground
+Close
+Convert this page to PDF
+Sarah Breeden
+Deputy Governor, Financial Stability
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

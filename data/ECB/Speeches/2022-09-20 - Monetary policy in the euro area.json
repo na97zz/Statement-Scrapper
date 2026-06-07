@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy in the euro area",
+  "date_original": "2022-09-20",
+  "date_au": "20/09/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220920~c3afc1a441.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-09-20 - Monetary policy in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-09-20 - Monetary policy in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d9b84f5954caf627e6a4247bf1cad979a488babc07c8ae48d731d3666d5613e1"
+}

@@ -1,0 +1,138 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: What will operational resilience look like going forward? An overview of the supervisory regulatory position − speech by Duncan Mackinnon
+DATE: 01/06/2022
+SPEAKER: Duncan Mackinnon
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2022/may/duncan-mackinnon-speech-at-the-city-and-financial-9th-annual-operational-resilience
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+What will operational resilience look like going forward? An overview of the supervisory regulatory position − speech by Duncan Mackinnon
+Given at the City & Financial 9th Annual Operational Resilience for Financial Institutions Summit
+Published on 
+
+ 25 May 2022
+Duncan Mackinnon sets out where the Prudential Regulation Authority (PRA) expects firms to focus as they work towards building operational resilience by March 2025. By this time, firms will need to ensure they are resilient to disruption of their important business services, which if disrupted, could pose a risk to their safety and soundness or in certain cases to the financial stability of the UK.
+He does so in the context of the international work the PRA and the Bank of England are involved in. He also sets out what it means to embed operational resilience.
+Speech
+Good morning all, and thank you for inviting me to speak here at the 9th Annual Operational Resilience for Financial Institutions Summit. It’s been another eventful year for operational resilience. World events, technological shifts and policy developments continue to move apace.
+Firms have been operating in a challenging environment – with Brexit, the pandemic, and now the crisis in the Ukraine – and this does not seem likely to change soon. We recognise that through events such as these, there will be many things that matter to us most as people, such as the wellbeing of those we care about. We also acknowledge and appreciate the significant efforts firms have made to effectively manage complex operational risks over the past two years.
+However, there is more for us to do. The system is ever-more complex and interconnected. The risk environment is fast-evolving. The risks that crystallise in the future will not be the same as the disruptions we’ve seen in the past. They may be more complex and difficult to manage. The economic and social challenges of recent years reinforce our view that strengthening operational resilience is essential for the safety and soundness of firms, financial stability and, ultimately, the good of the people of the UK.
+In this speech I aim to set out where we expect firms including banks and insurers, to focus as they work towards March 2025, by which time they will have to provide assurance that they are resilient to disruption of their important business services, within agreed impact tolerances.
+footnote
+[1]
+I will give a little more colour on our priorities for firms’ scenario testing and building operational resilience. I will put this in the context of the work we are leading and contributing to on the international stage. I will set out what it means to embed operational resilience, considering the policy landscape and existing firm practices. Finally, I will look at what’s coming next from the Prudential Regulation Authority and the Bank of England (hereafter the PRA and Bank respectively) in terms of policies and broader initiatives.
+Findings from our initial firm assessments
+In a recent speech on the PRA’s supervisory roadmap for operational resilience, my colleague David Bailey, the Executive Director for UK deposit takers, set out some of our initial findings from our assessment of UK Deposit Takers
+footnote
+[2]
+in the 12 months since the policy was published.
+He noted, firms have taken positive steps to identify important business services
+footnote
+[3]
+. The approaches firms have taken and the granularity they have opted for are varied. Some firms have identified important business services at a high level, for example, “payments” or “lending”. Others have broken these categories down into several important business services, for example, debit and credit card transactions. There is likely to be value in firms working towards greater consistency in some areas. But as a regulator, our focus remains on whether firms have met the outcomes set out in the policy. Is there an identifiable external user? Can the firm set an impact tolerance for the service? Are services identified at a level such that boards can make prioritisation and investment decisions?
+Many firms have further work to do to set impact tolerances to safety and soundness and financial stability. And it is important that boards and senior management engage closely on operational resilience to ensure this work gets done. Where firms have set tolerances, there has often been a wide range of tolerances across different firms providing the same service. For example, CHAPS payments impact tolerances for safety and soundness varied across some firms from two days to two weeks. We expect to have challenging conversations over the coming months on these variances. Firms will have to justify how they came to the conclusions they have, and demonstrate that the tolerance they have set will protect safety and soundness and financial stability.
+I will focus, in the rest of this speech, on how we expect firms to take their work forward to 2025 and beyond.
+Implementing operational resilience policy
+The Bank, PRA and Financial Conduct Authority (FCA) operational resilience policies, came into force on 31 March 2022
+footnote
+[4]
+. By now, the firms, Financial Market Infrastructures (FMIs) and insurers the policy applies to
+footnote
+[5]
+should have identified important business services and set impact tolerances. And they should have mapped and commenced a programme of scenario testing.
+But operational resilience cannot be achieved through compliance alone. Important business services, impact tolerances, mapping and testing are only the start. Approaches and solutions must acknowledge that operational failures are inevitable. And as we do not know what disruptions will materialise, firms need to plan for a wide range of possible failures.
+At the PRA, we continue to work alongside colleagues in the Bank and the FCA to supervise firms’ implementation. We expect firms’ mapping to include all critical resources and consider internal and external dependencies. Mapping should rapidly become more sophisticated, in line with firms’ potential impact. It should enable firms to identify vulnerabilities, and inform the development of scenario testing. And testing itself should be evolving so that firms can assure their boards they can deliver important business services within impact tolerances through severe but plausible scenarios by end-March 2025.
+Scenario testing
+The scenarios a firm uses should assume disruption has occurred. They should include data integrity scenarios and incorporate third party disruption; they should also consider factors beyond the firm’s control. Scenarios should consider the evolving risk environment, they should be challenging, and ask what might happen if back up arrangements do not function as anticipated. Scenarios will include cases where multiple parts of the organisation are disrupted simultaneously. Given that impact tolerances are set at the maximum level of disruption a firm can tolerate, firms will have to judge how close to that line they are comfortable to be through their testing.
+The form of testing a firm uses must be robust and appropriate in line with its potential to impact its own important business services and the wider system. For high impact important business services within systemic firms, desktop testing is ultimately unlikely to be sufficient.
+In their testing, we expect firms to ensure full coverage of important business services. They should also ensure the right governance is in place with first, second and third line of defence, and that senior management and boards are all involved and engaged with the testing results as appropriate.
+Building resilience
+The operational resilience policy is outcome-based. There are many roads to resilience. But where firms cannot remain within tolerance, it is likely that they will need to invest. For example:
+Firms may have to build substitutability into the way services are delivered. For example, they might build an additional data centre or facility, such that when failures occur, services can be transferred and delivered to the same standard by different means.
+Firms may need to review and adapt outsourcing arrangements, ensuring that if a third party supplier is disrupted, this does not lead to disruption of the service as a whole.
+Firms may need to re-architect or replace legacy systems which have remained critical to the delivery of services despite their obsolescence. We acknowledge these things are not easy. They will take time.
+As a regulator, we are less concerned with how firms go about building this resilience. Our focus is on whether they can achieve the policy’s ultimate outcome and remain within impact tolerances. And that is the purpose of the period from now until the date in March 2025 by which time firms will have to assure us they can indeed meet this requirement. Firms should use the time they have now to address vulnerabilities and build capabilities. The longer firms take to map to the required level of sophistication and to run robust scenario tests, the shorter the period they will have to address their vulnerabilities and build resilience.
+International
+Moving on to our work on the international stage, we have been at the forefront of developing common standards, guidance and principles across international fora. Our key role in the delivery of the Basel Committee on Banking Supervision (BCBS) operational resilience principles ensured they were well aligned with our UK operational resilience policy. These principles have laid the foundation and guide regulators as they develop their own operational resilience approaches.
+We continue our work to ensure greatest possible international harmonisation on operational resilience. The Financial Stability Board (FSB) is driving greater convergence in practices related to incident reporting. We continue to work with EU partners through the European Systemic Cyber Group (ESSG) which has recently issued a recommendation to establish a pan-European systemic cyber incident coordination framework. And in our work with the G7 Cyber Expert Group we are prioritising addressing the increasing threat of ransomware. We are keen to ensure these activities remain aligned and coordinated, in order to increase the resilience of the global financial system, and reduce the likelihood of conflicting requirements for firms operating in multiple jurisdictions.
+Embedding operational resilience
+Implementing operational resilience is not just about the individual requirements and outcomes within the policy. We expect resilience to be embedded in the way firms do business.
+We are well aware that not all of firms’ investment is driven by operational resilience. However, we expect for it to become a major consideration in their investment programmes. Designing services to be resilient is often easier than reverse engineering resilience into fragile services. And, in line with the policy requirements, this investment should reflect firms’ awareness of their role in the wider system.
+Operational resilience policy complements and enhances existing expectations, such as operational risk policy, disaster recovery and business continuity. These policies remain essential – we still expect firms to manage their risks effectively, and reduce the likelihood of disruption. There are clear links between operational risk and resilience policies; for example, both require firms to do scenario testing for identified operational risks. Firms can leverage their approaches and frameworks to meet both policy outcomes.
+The scenarios a firm uses for the operational risk element of their Internal Capital Adequacy Assessment Process (ICAAPs) might also be used as part of the implementation of operational resilience policy. However, it will not be possible to use all the same scenarios to meet both policy requirements. ICAAPs may include scenarios covering internal and external fraud losses which would be outside the scope of operational resilience policy. However, it is likely business disruption scenarios can be leveraged to meet both policy requirements.
+Our initial supervisory engagement has also found many firms have utilised disaster recovery and business continuity testing to address operational resilience requirements. We see this as part of firms embedding operational resilience into the way they do business. But our priority as a regulator will always be to ensure that where other frameworks are leveraged, the expectations in each policy are still met in full. If existing testing does not provide a firm with an end-to-end view of the resilience of its important business services, more work will have to be done. And we expect the scenarios used in this testing to be sufficiently severe.
+Alongside operational resilience policy, we have published our outsourcing and third party risk management policy
+footnote
+[6]
+, aimed at facilitating greater resilience and adoption of the cloud and other new technologies. This also came into effect in March 2022. Implementation of this policy is fundamental to firms’ resilience. The requirements are complementary. We continue to assess outsourcing arrangements and an increasing number of proposals to move services to the cloud. As this work progresses we will have a particular focus on firms’ exit strategies and their contingency planning for temporary and prolonged outages.
+Looking ahead
+Looking ahead, there are a number of initiatives in the pipeline, aimed at enhancing the resilience of the finance sector.
+In March, the Financial Policy Committee (FPC) discussed the exploratory cyber stress test planned for 2022
+footnote
+[7]
+. This will look at firms’ capabilities and the potential financial stability impact of a hypothetical scenario. Findings from the stress test will be used by the FPC, supervisors and firms to understand and enhance response and recovery capabilities.
+The Bank, PRA, FCA, and HM Treasury are working together to develop measures to manage the systemic risks posed by critical third parties (CTP) to UK financial institutions - including but not limited to cloud service providers. We have announced that we intend to publish a joint Discussion Paper in 2022 to inform future regulatory proposals relating to CTPs, particularly on technically complex areas such as resilience testing.
+The upcoming Discussion Paper will also examine potential ways to strengthen cross-border regulatory and supervisory cooperation in relation to CTPs. Managing the systemic risks posed by CTPs is a key area of focus for financial regulators around the world. Examples which highlight this include the EU’s Digital Operational Resilience Act proposals and the FSB’s ongoing work in this area. The UK authorities are developing an approach that seeks to advance our objectives, fits with our existing policy and works for the UK. However, we are mindful of the need for global coordination.
+You will have noted we also recently published Policy Statement
+footnote
+[8]
+PS2/22 | CP21/21 - Operational Resilience and Operational Continuity in Resolution. Firms and holding companies should be taking a group level view of operational resilience, ensuring risks arising in parts of the group that are not subject to the individual requirements, are considered.
+Concluding remarks
+We have started out on a long journey towards a more operationally resilient finance sector. We have already seen firms take positive steps since we first introduced our operational resilience discussion paper in 2017. But we have a long way to go.
+From a PRA perspective, we would like to ensure we are as coordinated as possible with domestic and international regulatory colleagues. We are keen that both our assurance activities and any new policy that emerges in coming years remains outcome focused.
+In the same way, we expect firms to go beyond compliance. Operational resilience is not something a small team of experts can achieve. It requires firms to think differently and integrate resilience into the way they do business.
+I would like to thank Matt Lloyd, Eustathios Triantafellou, Mariam Harfush-Pardo and Metesh Patel for their invaluable help in preparing these remarks.
+An impact tolerance is “the maximum tolerable level of disruption to an important business service as measured by a length of time in addition to any other relevant metrics”
+Operational resilience: next steps on the PRA’s supervisory roadmap − speech by David Bailey
+| Bank of England
+Important business services are: “The services a firm provides which, if disrupted, could pose a risk to a firm’s safety and soundness or, if a firm meets the criteria…the financial stability of the UK”
+SS1/21 ‘Operational resilience: Impact tolerances for important business services’ (bankofengland.co.uk)
+Prudential Regulation Authority and Bank of England policies apply to UK banks, building societies,
+PRA-designated investment firms (Banks), and CRR consolidation entities; and UK Solvency II firms, the Society of Lloyd’s, and its managing agents (insurers), as well as FMIs.
+SS2/21 Outsourcing and third party risk management | Bank of England
+Financial Policy Summary and Record - March 2021 (bankofengland.co.uk)
+PS2/22 | CP21/21 - Operational Resilience and Operational Continuity in Resolution: CRR firms, Solvency II firms, and Financial Holding Companies | Bank of England
+PS2/22 | CP21/21 - Operational Resilience and Operational Continuity in Resolution: CRR firms, Solvency II firms, and Financial Holding Companies | Bank of England
+Close
+Financial Policy Summary and Record - March 2021 (bankofengland.co.uk)
+Close
+SS2/21 Outsourcing and third party risk management | Bank of England
+Close
+Prudential Regulation Authority and Bank of England policies apply to UK banks, building societies,
+PRA-designated investment firms (Banks), and CRR consolidation entities; and UK Solvency II firms, the Society of Lloyd’s, and its managing agents (insurers), as well as FMIs.
+Close
+SS1/21 ‘Operational resilience: Impact tolerances for important business services’ (bankofengland.co.uk)
+Close
+Important business services are: “The services a firm provides which, if disrupted, could pose a risk to a firm’s safety and soundness or, if a firm meets the criteria…the financial stability of the UK”
+Close
+Operational resilience: next steps on the PRA’s supervisory roadmap − speech by David Bailey
+| Bank of England
+Close
+An impact tolerance is “the maximum tolerable level of disruption to an important business service as measured by a length of time in addition to any other relevant metrics”
+Close
+Convert this page to PDF
+Duncan Mackinnon
+Executive Director for Supervisory Risk Specialists
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

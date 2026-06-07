@@ -1,0 +1,307 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Financial stability in light of new global challenges: global shocks, interconnections and central counterparties − speech by Randy Kroszner
+DATE: 01/06/2025
+SPEAKER: Randy Kroszner
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/june/randall-kroszner-keynote-address-and-fireside-chat-at-fias-international-derivatives-expo
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Financial stability in light of new global challenges: global shocks, interconnections and central counterparties − speech by Randy Kroszner
+Given at FIA International Derivative Expo
+Published on 
+
+ 17 June 2025
+Randy sets out some of the challenges facing central counterparty (CCP) clearing in the current risk environment. He focuses on how fragilities need to be addressed by CCPs, regulators and supervisors alike, given the increasingly global nature of shocks and the concentration of the large members across CCPs.
+Speech
+Introduction
+It’s a pleasure to be here at such an interesting time. I would like to start by noting that central counterparty (CCP) clearing is an issue I have been close to throughout my career as an academic, regulator and policymaker.
+footnote
+[1]
+I am here today as an external member of the Bank’s
+Financial Policy Committee
+(FPC), which is charged with identifying, monitoring and mitigating systemic risks; and of the
+Financial Market Infrastructure Committee
+(FMIC), which supervises CCPs and other financial market infrastructures while also facilitating innovation in the provision of FMI services.
+Each committee has a role in delivering the Bank’s financial stability objective and, to this end, they have had to navigate a rapidly evolving landscape.
+Today I want to share some thoughts on how these global dynamics are reshaping the financial stability landscape and, in particular, challenges for the crucial role that CCPs play within it. In particular, I will focus the following:
+First, changes in the risk environment, in particular the increase in the potential for new, unusual and increased correlation across markets due to global shocks and interconnections;
+Second, how these risks and fragilities need to be addressed by CCPs, regulators and supervisors as well as users and members, alike, given the increasingly global nature of shocks and the concentration of the large members across CCPs; and
+Third, steps that can be taken – and are already being taken - to address and mitigate the problems.
+Changes in the global risk environment
+As the FPC warned in April, the probability of adverse events, and the potential severity of their impact has risen.
+footnote
+[2]
+The potential for global economic shocks originating from rising geopolitical risks, trade policy, and global sovereign debt vulnerabilities is front and centre of market participants’ and financial stability policymakers’ minds.
+In parallel, we are seeing the emergence of new risks. For example, increasingly complex cyber threats – often globally coordinated and sometimes targeting critical financial infrastructures. Technological innovation continues at breakneck speed. The adoption of AI and machine learning tools in finance offers tremendous promise, but also may carry new risks, particularly in the absence of robust guardrails.
+In this context, the potential for globally correlated shocks that affect CCPs and markets around the world is increasing. That matters because, as my colleague Nat Benjamin discussed last week, the role of the FPC is to understand how shocks impact the real economy through the provision of vital services.
+footnote
+[3]
+We need to understand how institutions will behave in stress and where the vulnerabilities in business models lie. A more uncertain environment creates substantial demand for the kinds of instruments that are cleared by CCPs – tools that help firms hedge, manage and distribute risks. As the environment becomes more uncertain, the services offered by CCPs become even more vital. And so we’ve seen cleared transaction volumes reach successive peaks following the Russian invasion of Ukraine, the failure of Credit Suisse and most recently the market response to tariffs (
+Chart 1
+).
+Chart 1: Index on number of trades cleared by CCPs
+footnote
+[4]
+Footnotes
+Source: CCP supervisory data
+So as CCPs become increasingly vital, they can also face new risks. Another lesson from past crises is that in times of stress, correlations tend to rise – sometimes sharply and those that usually hold (and provide hedging benefits) can break.
+footnote
+[5]
+Activities or institutions that appeared uncorrelated in normal times can suddenly move together. For example, during the Silicon Valley Bank crisis, correlation coefficients between bank returns of the US and other G7 countries and BRICS countries were higher than those for the pre-crisis period.
+footnote
+[6]
+The reality is in stressed markets, shocks propagate faster, and vulnerabilities surface more quickly around the globe.
+footnote
+[7]
+This has serious implications for CCPs. Because of their central role in clearing and settlement, a shock affecting one CCP – or a highly interconnected clearing member – can have systemic implications. I discuss this in the next section.
+Implications for CCPs in an interconnected system
+As Sarah Breeden set out last month, CCPs clear trillions of pounds worth of contracts every day, profoundly enhancing the stability and efficiency of the financial system.
+footnote
+[8]
+They simplify the web of connections between market participants through multilateral netting; the help to set a common baseline of risk management for all market participants; and they enhance the transparency of default management.
+In the wake of the global financial crisis clearing mandates were introduced in certain key markets to reduce counterparty credit risks and contagion risks across the system. Since then, we have seen substantial growth in cleared markets. This has increased the overall resilience of the system by reducing counter-party credit risk and putting in place robust default management processes to reduce contagion.
+footnote
+[9]
+But it has also made the financial system more interconnected through CCPs, and through the same large entities being members of multiple CCPs. And so it is crucial that CCPs continue to act as shock absorbers.
+footnote
+[10]
+Across CCPs globally, it tends to be a small number of members that are responsible for posting a large share of the initial margin and mutualised default fund contributions that protect the CCP and its members in the event of a default via the “default waterfall”.
+Focussing on the first layer of that default waterfall, initial margin (IM). Margins are fundamental for managing counterparty credit risk, and they tend to adjust to changing market conditions to better reflect that risk.
+But academic research and regulators’ analysis demonstrates that the demands on members are likely to become more concentrated in a stress or in volatile market conditions.
+footnote
+[11]
+For example, during the “dash for cash” observed in the early days of Covid-19 pandemic, more than half of the net increase in IM at the largest UK CCPs fell on just 10 members. During the market turmoil following the Russian invasion of Ukraine, the top 10 members of UK CCPs faced nearly 80% of IM calls.
+If losses extend beyond the defaulting members’ margin, then CCPs will draw upon their own capital or “skin in the game”. The fact that CCPs also have resources at stake helps align incentives in the system.
+Beyond that, in a severe market stress combined with the default of one or more large members, then losses may have to be covered by the mutualised default fund. This will then need to be replenished by surviving members. For example, the default of Einar Aas at Nasdaq Clearing in September 2018 absorbed about two-thirds of the default fund, which had to be replenished by surviving members.
+footnote
+[12]
+Here again, we see that the impact may be concentration on a small number of members: at most CCPs the top five members account for between 30%-60% of the mutualised default fund.
+footnote
+[13]
+This concentration extends across CCPs, since the largest entities tend to be members of several CCPs globally. The 11 largest clearing member groups are all members of 16 of the 26 largest CCPs.
+footnote
+[14]
+These large members are generally well-equipped to manage any additional margin calls or resource needs in response to an idiosyncratic stress or operational outage at a single CCP. And their ability to absorb losses in this way is part of how CCPs are able to limit contagion in the wider financial system. However, a wider or far more extreme stress resulting in larger demands from multiple CCPs risks putting these institutions and their clients under pressure.
+footnote
+[15]
+Thinking about even more extreme circumstances, e.g. multiple defaults that go beyond CCPs’ default funds, we would see even greater demands on members. This includes additional cash calls, the potential for haircutting of variation margin gains and in extremis, the tear-up of contracts.
+This is an extreme example, and not something we have yet seen. But research has demonstrated that this can potentially transmit losses from one CCP to another, reducing the ability of CCPs to act effectively as “shock absorbers”.
+footnote
+[16]
+For example, stress at one CCP can reduce the resources available to protect others, while the concentration of the impact in a small number of players can transmit stress in one CCP to others. In a more inter-connected and riskier world, we need both CCPs and their regulators to be alert to these risks and dynamics to prevent them from amplifying shocks. And we need CCP members to play their part too, given their vital role in the governance and risk management.
+What this means for how we regulate CCPs
+In the current risk environment, it is particularly important that both CCPs themselves and regulators take into account this interconnectedness.
+The practical challenge for both the CCPs and their supervisors and regulators is that many of the mechanisms to deal with stress that CCPs have in place focus on the stability of the individual CCP (or CCPs in a jurisdiction) but it can be difficult to fully take into account inter-connectedness and how these actions affect the wider system.
+This highlights the importance of consciously taking a system-wide approach to help ensure incentives within CCPs or among regulators are aligned. For CCPs, a misalignment in this space could mean that their own processes do not fully internalize the impact that their actions could have on the wider system. For regulators, there could be a mismatch between a global highly interconnected network and the predominately local focus and mandates of national legislatures, regulators and supervisors. This is made more challenging by the fact that there are still gaps in our visibility of these connections and so underlines the value of multi CCP fire drills.
+In the final section of this speech I want to set out the progress we have made on these issues, but also where we can benefit from a continued focus on cross-border cooperation, data sharing and alignment. The better the flow of information across jurisdictions, market actors, and authorities, the more resilient the system becomes.
+Data and surveillance
+I’ll start with data and our visibility of the system. Significant improvements to market transparency were made after the financial crisis to make data accessible to regulators. Our understanding of the risks in the visible part of the network has hugely improved as we make use of the data we collect and develop tools to understand these risks.
+For example, we use Securities Financing Transaction Regulation (SFTR) and European Market Infrastructure Regulation (EMIR) trade repository data to gain timely insights into firms’ overall exposures in derivatives markets and securities financing markets.
+footnote
+[17]
+This enables us to quickly identify which markets a given firm is active in and who their counterparties are. We have also developed alert systems to flag particularly large and fast-growing positions, as for example in the Archegos case. Our continuous scanning of the data in this way has enabled us to identify and investigate emerging risks, and where necessary intervene.
+These market data tools are complemented by the infrastructure we have developed using supervisory data that we collect from the CCPs themselves. We have been able to develop “desktop” stress-testing tools that can identify the potential impact on UK CCPs of a member default and the potential knock-on impacts on the system if the CCP has to call additional resources.
+And exercises such as the Bank’s
+System-Wide Exploratory Scenario
+(SWES) have given us richer insights into how these dynamics play out through the wider financial system. In future, we plan to draw on lessons learned from that exercise and the rich data that we already collect to further our modelling of system-wide dynamics.
+footnote
+[18]
+But despite these huge improvements in data availability, we still do not see the full network.
+Chart 2
+below shows large GSIB members as large turquoise nodes sitting at the centre of a network. In a market stress these entities will be subject to concurrent demands from CCPs. But we only see these exposures for UK entities, and so do not have a complete picture of how risks could transmit through the system.
+Chart 2: CCP network – a simplified representation
+footnote
+[19]
+Footnotes
+Source: CCP supervisory data
+Understanding these obligations and demands on members which are at the heart of the global CCP network is therefore critical to assessing financial stability risks. This remains a one of the biggest gaps in our understanding of the network. Better understanding of the network – through greater coordination and cooperation among regulators is key to achieving this.
+footnote
+[20]
+Governance and regulation
+Regulators are also consciously thinking about how to supervise CCPs with the wider system in mind and identifying opportunities for cooperation.
+As Sarah Breeden set out last month, at the Bank of England we adopted a macro-prudential approach to regulating CCPs whereby it considers risks to financial stability in the UK and globally.
+footnote
+[21]
+The importance of taking a broader view is also reflected in the Bank’s mandate – as the regulator we are required in any exercise of our rule-making power to consider the effects of these rules on the financial stability of any country where one of our clearing houses provides services, and we must act in a way that does not favour one jurisdiction over another.
+In this spirit, the Bank is introducing fundamental rules for FMIs – a set of high-level, outcome-based principles – following the consultation last year.
+footnote
+[22]
+These rules will sit alongside the Bank’s more detailed rules and are intended to drive board-level discussions about the outcomes the Bank is seeking and how CCPs can achieve them, supporting both our financial stability and innovation objectives. They include a specific rule requiring CCPs to assess and manage
+the risks that their operations could pose to the stability of the financial system, reflecting the central role they play both domestically and internationally.
+footnote
+[23]
+We will publish the final versions of these rules shortly, as the first use of the Bank’s rulemaking power, and intend for them to enter into force next year.
+At international level we’ve seen many positive examples of how cooperation can foster better outcomes. The recent international work to address margin procyclicality concluded with a set of proposals to improve transparency and market participants’ understanding of potential future margin requirements.
+footnote
+[24]
+We’ve also been linked up with other regulators in exercises such as CCP fire-drills, testing major CCPs’ ability to liquidate large positions without amplifying stresses in volatile markets. The outcomes of the exercise also provide GSIBs with multiple CCP memberships with crucial information which would enable them to assess better their own vulnerabilities and influence risk management at individual CCPs from a broader multi-CCP perspective.
+But I think we should continue to be ambitious here. So in this interconnected but uncertain world the priorities for me are:
+Efforts to address data gaps to ensure regulators can see the full network of CCPs and the complexity of cross-border interactions, improving our preparedness for a potential crisis.
+Continued steps to improve the flow of information across jurisdictions and market actors.
+For supervisors and regulators globally to ensure they fully understand the risks associated with inter-connectedness, potentially through joined up stress testing exercises.
+Thank you.
+I would like to thank Tatjana Nikitina, Andra Orasanu and Sarah Venables, Murat Menguturk and Renato Senis for their assistance in preparing this speech. I would also like to thank Clare Ashton, Sarah Breeden, Barry King, Maighread McCloskey, Simon Morley, Niamh Reynolds, Francine Robb, Richard Spooner and Mei Jie Wang for their advice and comments.
+See Randall S. Kroszner, On the historical role of CCPs and systemic risk, see Kroszner, “Lessons from Financial Crises: The Role of Clearinghouses,” Journal of Financial Services Research, December 2000, vol. 18, pp. 157-71; and Kroszner, "Can the Financial Markets Privately Regulate Risk? The Development of Derivatives Clearing Houses and Recent Over-the-Counter Innovations," Journal of Money, Credit, and Banking, August 1999, 569-618.
+See Bank of England,
+Financial Policy Committee Record – April 2025
+.
+Nat Benjamin (June 2025),
+Picking what matters
+.
+The percentage ratio (index value) of the number of trades cleared at UK CCPs relative to 2 January 2025 (base value).
+See Mico Loretan and William B English, “
+Evaluating changes in correlations during periods of high market volatility
+”, BIS Quarterly Review, June 2000.
+Md Akhtaruzzaman, Sabri Boubaker and John W. Goodell, "Did the collapse of Silicon Valley Bank catalyze financial contagion?", Finance Research Letters, Elsevier, Volume 56, September 2023, 104082.
+Thijs Markwat, Erik Kole and Dick van Dijk, “Contagion as a domino effect in global stock markets”, Journal of Banking & Finance, Elsevier, Volume 33, Issue 11, November 2009, pp. 1996-2012. Also Kristin Forbes, “Global economic tsunamis: Coincidence, common shocks or contagion?”, speech given at Imperial College, London, published 22 September 2016.
+Sarah Breeden (May 2025),
+A system-wide approach to system-wide resilience: CCPs and their users
+For an overview of how CCPs manage defaults and limit contagion, see
+Central counterparties: what are they, why do they matter and how does the Bank supervise them? | Bank of England
+.
+See, for example, Nat Benjamin (July 2024),
+Late call
+.
+T.B. King et al. Central Clearing and Systemic Liquidity Risk International Journal of Central Banking 2023 19(4).
+See Share of Default Fund held by Top 5 Members
+Clearing Members and Concentration | FIA
+U. Faruqui, W. Huang, E. Takats.
+Clearing risks in OTC derivatives markets: the CCP-bank nexus,
+BIS Quarterly Review, December 2018, p 75.
+Share of Default Fund held by Top 5 Members
+Clearing Members and Concentration | FIA
+A comprehensive data collection exercise from 26 CCPs is an example of cross-border cooperation and data sharing. ‘
+Analysis of Central Clearing Interdependencies
+’ (BIS 2018).
+Haldane, A., May, R.
+Systemic risk in banking ecosystems
+, Nature
+469
+, 351–355 (2011).
+LMA Veraart, I. Aldasoro.
+Systemic Risk in Markets with Multiple Central Counterparties
+BIS WP No 1052 (2022).
+Trade Repository (TR) Data Collections | Bank of England
+Lee Foulger (December 2024)
+The SWES: using system-wide scenario analysis to spot systemic risks
+The size of the nodes representing CCPs are fixed, the size of the nodes representing clearing members are scaled to reflect relative size of IM they contribute.
+A comprehensive data collection exercise from 26 CCPs is an example of cross-border cooperation and data sharing. ‘
+Analysis of Central Clearing Interdependencies
+’ (BIS 2018).
+Sarah Breeden (May 2025),
+A system-wide approach to system-wide resilience: CCPs and their users
+.
+Fundamental Rules for financial market infrastructures | Bank of England
+See Fundamental Rule 10 in
+Sarah Breeden (May 2025),
+A system-wide approach to system-wide resilience: CCPs and their users
+BCBS, CPMI, IOSCO
+Transparency and responsiveness of initial margin in centrally cleared markets - review and policy proposals
+(January 2025)
+BCBS, CPMI, IOSCO
+Transparency and responsiveness of initial margin in centrally cleared markets - review and policy proposals
+(January 2025)
+Close
+See Fundamental Rule 10 in
+Sarah Breeden (May 2025),
+A system-wide approach to system-wide resilience: CCPs and their users
+Close
+Fundamental Rules for financial market infrastructures | Bank of England
+Close
+Sarah Breeden (May 2025),
+A system-wide approach to system-wide resilience: CCPs and their users
+.
+Close
+A comprehensive data collection exercise from 26 CCPs is an example of cross-border cooperation and data sharing. ‘
+Analysis of Central Clearing Interdependencies
+’ (BIS 2018).
+Close
+The size of the nodes representing CCPs are fixed, the size of the nodes representing clearing members are scaled to reflect relative size of IM they contribute.
+Close
+Lee Foulger (December 2024)
+The SWES: using system-wide scenario analysis to spot systemic risks
+Close
+Trade Repository (TR) Data Collections | Bank of England
+Close
+LMA Veraart, I. Aldasoro.
+Systemic Risk in Markets with Multiple Central Counterparties
+BIS WP No 1052 (2022).
+Close
+Haldane, A., May, R.
+Systemic risk in banking ecosystems
+, Nature
+469
+, 351–355 (2011).
+Close
+A comprehensive data collection exercise from 26 CCPs is an example of cross-border cooperation and data sharing. ‘
+Analysis of Central Clearing Interdependencies
+’ (BIS 2018).
+Close
+Share of Default Fund held by Top 5 Members
+Clearing Members and Concentration | FIA
+Close
+U. Faruqui, W. Huang, E. Takats.
+Clearing risks in OTC derivatives markets: the CCP-bank nexus,
+BIS Quarterly Review, December 2018, p 75.
+Close
+T.B. King et al. Central Clearing and Systemic Liquidity Risk International Journal of Central Banking 2023 19(4).
+See Share of Default Fund held by Top 5 Members
+Clearing Members and Concentration | FIA
+Close
+See, for example, Nat Benjamin (July 2024),
+Late call
+.
+Close
+For an overview of how CCPs manage defaults and limit contagion, see
+Central counterparties: what are they, why do they matter and how does the Bank supervise them? | Bank of England
+.
+Close
+Sarah Breeden (May 2025),
+A system-wide approach to system-wide resilience: CCPs and their users
+Close
+Thijs Markwat, Erik Kole and Dick van Dijk, “Contagion as a domino effect in global stock markets”, Journal of Banking & Finance, Elsevier, Volume 33, Issue 11, November 2009, pp. 1996-2012. Also Kristin Forbes, “Global economic tsunamis: Coincidence, common shocks or contagion?”, speech given at Imperial College, London, published 22 September 2016.
+Close
+Md Akhtaruzzaman, Sabri Boubaker and John W. Goodell, "Did the collapse of Silicon Valley Bank catalyze financial contagion?", Finance Research Letters, Elsevier, Volume 56, September 2023, 104082.
+Close
+See Mico Loretan and William B English, “
+Evaluating changes in correlations during periods of high market volatility
+”, BIS Quarterly Review, June 2000.
+Close
+The percentage ratio (index value) of the number of trades cleared at UK CCPs relative to 2 January 2025 (base value).
+Close
+Nat Benjamin (June 2025),
+Picking what matters
+.
+Close
+See Bank of England,
+Financial Policy Committee Record – April 2025
+.
+Close
+See Randall S. Kroszner, On the historical role of CCPs and systemic risk, see Kroszner, “Lessons from Financial Crises: The Role of Clearinghouses,” Journal of Financial Services Research, December 2000, vol. 18, pp. 157-71; and Kroszner, "Can the Financial Markets Privately Regulate Risk? The Development of Derivatives Clearing Houses and Recent Over-the-Counter Innovations," Journal of Money, Credit, and Banking, August 1999, 569-618.
+Close
+Convert this page to PDF
+Randall Kroszner
+External member of the Financial Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Transformation of the Global Economy and Developments in Monetary Policy\" (Speech at a Meeting Held by the Sapporo Chamber of Commerce and Industry)",
+  "date_original": "2025-09-29",
+  "date_au": "29/09/2025",
+  "datetime_original": "",
+  "speaker": "NOGUCHI Asahi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250929a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-09-29 - NOGUCHI Asahi - _Transformation of the Global Economy and Developments in Monetary Policy_ (Speech at a Meeting Held by the Sapporo Chamb.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-09-29 - NOGUCHI Asahi - _Transformation of the Global Economy and Developments in Monetary Policy_ (Speech at a Meeting Held by the Sapporo Chamb.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7312b6a00032a8ae894042afa91df00ee2403de5d25d49bce1b17e430c5cfe5e"
+}

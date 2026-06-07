@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Okayama)",
+  "date_original": "2024-09-19",
+  "date_au": "19/09/2024",
+  "datetime_original": "",
+  "speaker": "TAMURA Naoki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240919a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-09-19 - TAMURA Naoki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Okayama).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-09-19 - TAMURA Naoki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Okayama).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "83cde45329390ba74b9bb0fcf08d91517ae68b158e51256c764ca509a50867c1"
+}

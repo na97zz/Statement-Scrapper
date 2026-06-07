@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Innovation Imperative: Modernizing Traditional Banking",
+  "date_original": "2023-03-14",
+  "date_au": "14/03/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230314a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-03-14 - Michelle W. Bowman - The Innovation Imperative_ Modernizing Traditional Banking.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-03-14 - Michelle W. Bowman - The Innovation Imperative_ Modernizing Traditional Banking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c2a31bb07989919dc76df090e07796a10b81ea34c51e0de8cde333407e1681da"
+}

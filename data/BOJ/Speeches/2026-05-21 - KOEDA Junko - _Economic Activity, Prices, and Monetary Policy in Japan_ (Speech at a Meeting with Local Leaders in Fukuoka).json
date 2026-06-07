@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Fukuoka)",
+  "date_original": "2026-05-21",
+  "date_au": "21/05/2026",
+  "datetime_original": "",
+  "speaker": "KOEDA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260521a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-05-21 - KOEDA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Fukuoka).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-05-21 - KOEDA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Fukuoka).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9132dab5dc2a86a046d9dd6b34d0754a2b50844be6816ffd4bfb9d09cdff1a05"
+}

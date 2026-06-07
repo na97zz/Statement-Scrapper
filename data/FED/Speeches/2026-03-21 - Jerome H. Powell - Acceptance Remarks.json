@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Acceptance Remarks",
+  "date_original": "2026-03-21",
+  "date_au": "21/03/2026",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20260321a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-21 - Jerome H. Powell - Acceptance Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-21 - Jerome H. Powell - Acceptance Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "173d8602c795220e3bab64e4a1f4e5b8b6ea57e3e1394eae2926cde3198c28b1"
+}

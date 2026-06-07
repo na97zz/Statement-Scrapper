@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "(Reference) Decisions at the July 2024 Monetary Policy Meeting [PDF 456KB]",
+  "date_original": "2024-07-31",
+  "date_au": "31/07/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240731b.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2024-07-31 - (Reference) Decisions at the July 2024 Monetary Policy Meeting [PDF 456KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2024-07-31 - (Reference) Decisions at the July 2024 Monetary Policy Meeting [PDF 456KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0f666ce449a74bfd2103a4a557cf634e9c10da41817ac55498ffc7a934264ef1"
+}

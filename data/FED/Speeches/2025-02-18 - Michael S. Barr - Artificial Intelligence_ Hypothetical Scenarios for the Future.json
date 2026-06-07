@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Artificial Intelligence: Hypothetical Scenarios for the Future",
+  "date_original": "2025-02-18",
+  "date_au": "18/02/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-18 - Michael S. Barr - Artificial Intelligence_ Hypothetical Scenarios for the Future.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-18 - Michael S. Barr - Artificial Intelligence_ Hypothetical Scenarios for the Future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "496979df3856271f19059dfd7299bf4b8aad97a312fde405ac01cc33f2f9b885"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "IMFC Statement",
+  "date_original": "2025-04-25",
+  "date_au": "25/04/2025",
+  "datetime_original": "",
+  "speaker": "Statement by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250425~2ddde574aa.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-04-25 - Statement by Christine Lagarde - IMFC Statement.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-04-25 - Statement by Christine Lagarde - IMFC Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3492ec3985e22da2628d12a5e6c9d81bf54c0b6dda1d787db937e7ee11a2f9cb"
+}

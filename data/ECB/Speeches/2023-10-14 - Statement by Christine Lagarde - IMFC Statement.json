@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "IMFC Statement",
+  "date_original": "2023-10-14",
+  "date_au": "14/10/2023",
+  "datetime_original": "",
+  "speaker": "Statement by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231014~60c5eb8328.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-10-14 - Statement by Christine Lagarde - IMFC Statement.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-10-14 - Statement by Christine Lagarde - IMFC Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ec548c2273f099b1c547356becb9b679821816cc92fba925ff6abae2973ed710"
+}

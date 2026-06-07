@@ -1,0 +1,292 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Managing the present, shaping the future - speech by Clare Lombardelli
+DATE: 01/06/2024
+SPEAKER: Clare Lombardelli
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/november/clare-lombardelli-speech-at-the-3rd-boe-watchers-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Managing the present, shaping the future - speech by Clare Lombardelli
+Given at the Bank of England Watchers Conference, organised by King’s Business School and the Money, Macro and Finance Society
+Published on 
+
+ 25 November 2024
+In her first speech as Deputy Governor for Monetary Policy, Clare Lombardelli sets out her views on the UK economy and the risks to the outlook. She then presents the Bank's plan to implement the Bernanke Review.
+Speech
+Good morning. Thank you for inviting me. It’s a pleasure to speak at the Bank of England Watchers Conference, in front of many of our key stakeholders. This is my first speech as Deputy Governor for Monetary Policy. So I’ll start by setting out my view on the economy and the outlook – how I am “managing the present”. I’ll then move on to talk about the Monetary Policy Transformation Programme we are undertaking in response to Dr Bernanke’s
+review
+– how we are “shaping the future”. This is a big reform programme. We are going to handle uncertainty differently, putting different scenarios - different stories about the economy - closer to the heart of policymaking and communications. To do that, we are making a major investment in our tools, our processes and our people. We have made some progress since the review was published in April, but have a long way to go. We want to engage with you on this journey. I will come back to the details shortly.
+The evolution of the UK economy
+Inflation has fallen steeply over the past two years, from its peak of 11.1% in October 2022 to 2.3% in October 2024. This mainly reflects the ongoing unwind of the very large external cost shocks that hit the UK in 2021 and 2022 and that made UK inflation rise steeply in the first place. As you can see in Chart 1, the key driver of the increase in inflation was the rise in goods prices. This was a result of the global supply constraints that arose during the pandemic, and the large rise in energy and then food prices associated with the Russian invasion of Ukraine. In turn, higher energy prices pushed up goods prices further.
+Chart 1: External shocks have driven the large rise and then fall in UK inflation
+Footnotes
+Sources: ONS, Department for Energy Security and Net Zero and Bank calculations. Chart shows the MPC’s latest near-term inflation forecast, consistent with the November MPR. It does not reflect the October CPI data released on 20 November, which was broadly in line with this forecast. Figures in parentheses are CPI basket weights in 2024. The food component is defined as food and non-alcoholic beverages.
+The MPC monitors closely a range of measures of underlying inflation. We take a
+forward-looking approach given the lags in monetary policy. A simple and observable proxy measure is services inflation, as services prices are mainly affected by domestic and slower-moving factors. Even though headline inflation fell steeply from its peak and has been around target for half a year, services inflation is still above its pre-pandemic average (Chart 2) – it was 5% in October and we expect it to stay around that rate for another few months. As a result, as the tailwind from lower energy prices dissipates, we expect headline inflation to rise back to 2.8% in the third quarter of 2025.
+Chart 2: Services inflation still above its pre-pandemic average
+Footnotes
+Sources: ONS and Bank calculations. Chart shows the MPC’s latest near-term inflation forecast, consistent with the November MPR. It does not reflect the October CPI data released on 20 November, which was broadly in line with this forecast. Core goods = goods excluding food and non-alcoholic beverages, alcohol, tobacco and energy. Dashed lines represent 2010-19 averages which are 3.0% and 0.8% for services and core goods respectively.
+Wages are a material driver of services prices, and the slower-moving nature of services inflation reflects in large part the relatively high ‘stickiness’ of wages compared with other prices. This is clear in Chart 3, which shows a model-based decomposition of a “core” measure of services inflation.
+footnote
+[1]
+This model specifies core services inflation in terms of pay growth and manufacturing producer output inflation; the latter captures the cost of goods used to produce services, including energy. The model suggests that most of services inflation is driven by what’s happening to pay growth.
+footnote
+[2]
+Chart 3: Wage growth is a material driver of services inflation
+Footnotes
+Sources: ONS and Bank calculations. Core services inflation excluding rents. Final data point is 2024 Q3. The model is estimated on seasonally adjusted quarterly data excluding VAT. Estimated contributions to services inflation are based on autoregressive distributed lag regressions of services inflation on pay growth (orange bars) and manufacturing PPI inflation (aqua bars). See also
+Greene (2024)
+and
+Mann (2024)
+.
+In principle, higher-than-usual profit margins could also be driving the current elevated services inflation. But we regularly monitor developments in companies’ margins and there is little evidence of that. ONS data show that the profit share of aggregate income has fallen slightly in recent years; and the Bank’s Agents and company surveys suggest that profit margins, including in the services sector, fell or were flat in 2022 and 2023 and are likely to remain compressed in coming quarters.
+footnote
+[3]
+So we are paying close attention to wage developments. Chart 4 shows a decomposition of wage growth used by Bank staff to inform the MPC projections. Wage growth is decomposed into short-term inflation expectations, a measure of labour market tightness and productivity growth. This model suggests that wage growth since 2021 can be explained mainly by changes in short-term inflation expectations and labour market tightness.
+footnote
+[4]
+Chart 4: Wage growth has fallen back but is still above pre-pandemic rates
+Footnotes
+Sources: Barclays, Citigroup, ONS, YouGov and Bank calculations. Final data point is 2024 Q2. Wage equation based on
+Yellen (2017)
+. Pay growth is Bank staff’s estimate of underlying pay growth between January 2020 and March 2022 and the ONS measure of private sector regular AWE growth otherwise. Short-term inflation expectations are based on the Barclays Basix Index and the YouGov/Citigroup one year ahead measure of household inflation expectations and projected forward based on a Bayesian VAR estimation. Slack is based on the MPC’s estimates, informed by the vacancies to unemployment ratio. Productivity growth is based on long-run market sector productivity growth per head.
+The chart shows that wage growth has already fallen materially from its peak of 8.1% in mid-2023 to 4.8% in the three months to September, but is still above its pre-pandemic rate. I take two other points from this chart. First, it suggests that the labour market is still a little tight and continues to exert upward pressure on wages, although this effect has been easing gradually. That’s consistent with the signal from a range of labour market indicators; for example the vacancies-to-unemployment ratio has fallen back to its 2019 level, but that was somewhat tighter than in the past. The information we are receiving from our agents is also consistent with the picture of an easing but still relatively tight labour market. Second, this model cannot fully explain the current strength of wage growth, as shown by the residual. This excess persistence in wage growth is probably associated with continuing second-round effects of the past inflationary shocks.
+footnote
+[5]
+The way the persistence in wage and price inflation evolves from here is uncertain and to help consider this, the MPC set out three “cases” for the economy in November. I’ll come back to these.
+There are some signs that the process of wage disinflation may be slowing. Chart 5 shows companies’ expectations of wage growth from the Bank’s Decision Maker Panel (DMP) survey. Firms expect wage growth to decline further, but their one-year ahead expectations seem to have stabilised in recent months. Last month our Agents reported that contacts expected pay awards in 2025 to moderate to around 2%-4%. We’ll need further intel to assess where in that range we’re likely to land. If we use the decomposition from Chart 4, assuming productivity growth of c.1% and a labour market broadly in balance, wage growth would need to be around 3% to be consistent with inflation at target.
+Chart 5: The DMP survey suggests wage disinflation may be slowing
+Footnotes
+Sources: DMP Survey and Bank calculations. Final data point for realised wage growth is October 2024. Diamonds show expectations for wage growth one year ahead.
+More broadly there is large uncertainty around the labour market and wage developments. The labour market is subject to both structural and cyclical changes. And we are hampered by the challenges of the quality of data, in particular in the Labour Force Survey. There have also been recent changes to the costs of employment from the combination of the increase to the National Living Wage, the rise in employer National Insurance Contributions and potentially the changes to workers’ rights. Although the size, timing and interaction of these effects are uncertain.
+Risks to the economic outlook
+In September the MPC set out three “cases” for how the economy could evolve from here (Chart 6). In Case 1, disinflation is driven by the unwind of the external shocks and that will continue to feed through to pay and price setting. Just as inflation rose on the back of external shocks, even its more persistent components will revert to target as those shocks recede. If the economy evolves in this way, monetary policy restriction will need to be reduced more quickly. A large part of the disinflation process we have seen so far can be characterised in this way. There’s been a lower cost in terms of output lost than many expected a couple of years ago. And disinflation has progressed faster than expected – one year ago the MPC expected CPI inflation to be 3.3% in the third quarter of 2024, more than 1 percentage point higher than the outturn.
+Chart 6: The MPC set out three “cases” for the UK economy
+In Case 2, disinflation is also driven by the unwind of external shocks, but the second-round effects on inflation are more persistent than in Case 1 and so a restrictive monetary policy stance is needed for longer for inflation to return to target on a sustainable basis. Our published projection in the November MPR is based on this case for the economy. In this world, a continuing restrictive monetary policy stance and tighter fiscal policy are expected to open up a margin of excess supply, which will support further moderation in wages and prices.
+In Case 3, deeper structural changes in the UK economy threaten to impart a more lasting inflationary dynamic, if not met with a longer-lasting restrictive monetary policy response. Case 3 is articulated on the basis of real income catch-up effects in the November MPR. If this dynamic persists into next year and perhaps beyond, there is a risk that, absent a policy response, workers and firms might start to adjust to a new normal of wage increases of perhaps 3.5% or 4% and price inflation closer to 3% than to the target. That would be more costly to change if it becomes entrenched.
+Each of these cases is broadly consistent with the evidence to date and the economy could evolve in line with any of them from here. I’ll use this framework to talk about how I see the key uncertainties to the economic outlook, alongside considering broader risks to demand.
+Inflation may fall faster than expected, consistent with Case 1. And there is a further risk that the UK economy proves less resilient than expected to the ongoing monetary restriction and fiscal consolidation, and / or that there is a possible weakening of the global economy. We have seen some slowing in other countries in Europe and need to be vigilant to it as the UK shares some similarities with other European economies. And last week’s ‘flash’ PMIs for November may suggest some slowing in the UK too, although I don’t take a strong signal from a single release. Given the lags in policy it would be important not to act late if the economy moved in this direction.
+Alternatively, there is a risk that inflation is more persistent than expected, as set out in Case 3. And there’s a risk that demand remains strong relative to supply so that inflationary pressures remain. A tight labour market would give workers more power in wage setting and resilient demand would enable firms to raise prices by more than would be consistent with inflation at target sustainably.
+I view the probabilities of downside and upside risks to inflation as broadly balanced. But at this point I am more worried about the possible consequences if the upside materialised, as this could require a more costly monetary policy response.
+The outlook for wages and services prices is unclear from here. We need to see more evidence that wage growth and services inflation will continue their journey down to
+target-consistent rates. But there are some signs that the process of wage disinflation may be slowing, as shown in Chart 5, so it’s too early to declare victory on inflation. It’s often been said that the last mile may be the hardest, and that’s where we are now.
+This is why I support a gradual removal of monetary policy restriction and will be monitoring the flow of data over the coming months so we can calibrate our policy path as needed.
+Innovations to the MPC policy process in November
+As part of developing our response to the Bernanke Review and to help the MPC think more about uncertainty we started to do things a bit differently over the past few policy rounds, and made some notable changes in the November round. The aim was to help us think about the economic channels underpinning the different views across the Committee and consider the policy consequences and risks if the economy were to evolve in different ways. There were two main elements to what we did.
+First, Bank staff simulated two alternative paths for how the economy may evolve relative to the baseline under different assumptions about the structure of the economy. The two simulations captured features of Case 1 and Case 3 respectively, while the published forecast was based on Case 2.
+Using the paths for a range of variables implied by those simulations, we looked at what the evidence from the current data suggested about how likely they were. We also simulated the monetary policy response each of them implied, using ‘optimal’ policy projections.
+footnote
+[6]
+And we considered the consequences of following the policy path appropriate for one case if in fact it turned out that a different case applied.
+Second, we reconfigured how the Committee spent its time and what the discussions were focused on. We considered the published forecast alongside the simulations. More Committee time was dedicated to discussion about the ways in which the outlook for the economy could be different, how we interpreted the available data, and the implications of that for the path monetary policy should take.
+This was a small step in the broader direction of our response to Dr Bernanke’s review, which I’m going to talk about in more detail shortly. The trialling of some new approaches in November illustrated areas where we want to develop our tools. The macroeconomic simulations were constructed using our standard forecasting framework, which isn’t designed for the production of the central forecast and fully-fledged scenarios at the same time. This meant the simulations were stylised, and that’s why they were set out in a qualitative way in the MPR.
+But despite those limitations, the analysis provided a helpful starting place for a richer discussion across the Committee about how the economy may evolve and how to think about different possibilities and risks in policy decisions.
+Transforming monetary policy making
+I’ll now move on to talk about the comprehensive and substantial reforms we are making in response to Dr Bernanke’s review. We are extremely grateful to Dr Bernanke for his thought and time. His review provides a thorough assessment of the monetary policy making processes at the Bank. It is hard hitting; in parts it makes for uncomfortable reading. But we welcome it in its entirety. It makes 12 specific recommendations for reform, and we have accepted them all.
+Let me start by saying what is out of scope before turning to what is in.
+The key elements of our institutional framework for monetary policy, set by Government, will be unchanged. The current framework was set up in the 1990s – the inflation target and the formation of the independent MPC based around a diversity of views, expertise and experience, supported by expert analysis from Bank of England staff. This has been fundamental in anchoring inflation expectations (
+Carney, 2020
+).
+But within this framework, we are reforming the whole nose to tail process of monetary policy making and communication. This will be the largest reform since the Bank was granted operational independence for monetary policy in 1997. We will cover all, but not be limited to, the areas considered in Dr Bernanke’s review. Chart 7 captures the elements of our transformation programme.
+We will change:
+Our capabilities, including our data infrastructure and our modelling framework.
+The inputs into policymaking, including the role of the forecast and scenarios, and their underlying assumptions.
+The way MPC discussions are structured.
+How we use these inputs to inform the MPC’s policy decision.
+And, how we communicate the policy decision, outlook and risks to both financial markets and the general public.
+We will reform how we organise ourselves, our staffing levels, skills and incentives. And how we seek and use external input from academics, market participants and other experts.
+Chart 7: The elements of our monetary policy transformation programme
+The case for reform and the scale of the challenge
+In the years following the introduction of inflation targeting in the UK, the economy was largely subject to shocks that our processes were well set up to manage. But in recent years, the UK has faced a sequence of supply shocks that led to a sharp rise in inflation. The scale and nature of the shocks has posed substantial challenges to forecasting not just at the Bank of England but at other central banks and the economics profession more broadly.
+The experience of more frequent and larger supply shocks has also underscored the importance of communicating uncertainty clearly. And being able to do that in a range of circumstances. Dr Bernanke’s review pointed to the need to think again about how the MPC considers uncertainty and how it communicates the impact of that uncertainty for monetary policy.
+The interactions between the elements of the reform are complex. For example, the recommendation to use scenarios to better understand and articulate the balance of risks around the outlook has implications for the design of the forecasting infrastructure, the internal processes for MPC discussions, as well as for external communications.
+The 9-person MPC is made up of a mix of internal Bank executives and independent external appointees, each with a vote. This builds a welcome and valuable diversity of experience into policymaking. And is a strength of the UK’s monetary policy making system. However, it does make it difficult to apply an off-the-shelf approach from elsewhere. We will need to think carefully to ensure these reforms make the most of our unique institutional structure.
+I understand that you will all have lots of questions about precisely what the end-state of this process will look like. These changes will need careful consideration. We are going to take our time, and we want your help and the help of others to get it right.
+The building blocks of our new approach
+The forecast and scenarios
+Let me start with how we will consider uncertainty. We will widen and rebalance our approach, placing less focus on a central projection. We will put more systematic analysis around how we consider risks to, and uncertainty about, the way the economy may evolve. And around how to set policy considering those risks and uncertainties. We will build the use of scenarios into our processes. We will loosen the link between the forecast and the policy decision and its communication. This was one of the overarching recommendations from Dr Bernanke.
+This is not entirely new. The MPC has always considered risks and uncertainties. And on some occasions, the MPC has turned to scenario analysis to improve its understanding of the inflation outlook.
+footnote
+[7]
+A wider and more systematic use of scenarios will allow us to better consider alternative conditioning assumptions and also different relationships between economic variables. Combined with data analysis it will help us judge the likelihood of different views of the economy, and to update our judgements on risks and uncertainties over time as the evidence evolves. And it can help us understand better the consequences of setting policy as if we are in one state of the world, when in fact we may be in another.
+We will consider and publish different scenarios for the economy on an ongoing basis. And we will look at how monetary policy might need to be different in those alternative outlooks by looking at policy paths which are endogenous to those scenarios.
+Of course, the devil is in the detail of how we design and practically apply these changes. And there are important questions we will need to work through. These include:
+First, what scenarios to choose? We will prioritise policy relevance in our scenario selection and development, and we expect to be discussing a small number of scenarios at any given time.
+Second, who ‘owns’ what? We will need to consider the respective roles of the MPC and Bank staff in the forecast and scenario development. There will be more staff input into the baseline forecast. This will free up MPC time for discussions of the economy, policy and policy strategy. We will retain an important role for the Committee in shaping the forecast and in scenario selection cementing the link between analysis and policymaking.
+Third, how to use a broader range of inputs to inform the policy outlook? We will need to develop our framework for how we will combine the different inputs to best support the MPC's policy deliberations. How to bring together insights from conjunctural analysis, the baseline projection, the scenarios, and policy analysis?
+Fourth, how to combine these approaches into clear informative communication? Scenario analysis will help communicate the risks and uncertainty around the economic outlook. And it will provide an opportunity to increase transparency around our reaction function in different circumstances. But with many potential paths for key variables there will be a premium on clearly articulating the outlook and the reasons behind the policy decisions.
+One important question is what interest rate path or paths we publish. We will consider whether to publish the forecast with a modelled endogenous path for policy, either instead of, or alongside, a forecast conditioned on the market path for interest rates. There are some calls for the MPC to publish a collective expected interest rate path or to provide a dot plot. As the Bernanke Review explains, this is a highly consequential issue. This is not as simple as it sounds. Publishing a form of expected path risks suggesting greater certainty about future rates than it is possible to give, which in turn undermines policy credibility.
+Given the scale of the potential changes, and that we are doing this alongside setting monetary policy in the coming months and years, we will test and trial our new thinking. The consideration of cases in the November round I have described was just an initial step, and I expect our approach will be and look very different in the longer term.
+Modelling
+We will develop and draw on a wider range of models that capture the different uncertainties that we want to explore. We use models both to assess the current state of the economy, as well as forecast its future and to simulate alternative paths and policy responses.
+No single model can possibly capture all the relevant features to perform even just one of those roles adequately. In particular, when there is large uncertainty about the structure of the economy, we need approaches that can identify the possibility of structural changes and their consequences. When there are uncertainties about certain economic relationships in the economy, we need tools and techniques that can focus on those variables.
+So we are investing in our modelling toolkit: reviewing, updating and expanding our existing suite of models. This is a multi-year project and we are still designing our modelling strategy. But we have already made some progress updating our current core DSGE model COMPASS, as well as some of the semi-structural and more statistical models that currently support the forecast process.
+We are also developing a large-scale semi-structural model to complement that approach and help with modelling certain scenarios. We know we will also need to invest in developing a set of more specialised models to allow us to explore the economics of particular mechanisms in greater detail, as well as the toolkit that enables us to do a variety of monetary policy simulations in different scenarios for the economy.
+footnote
+[8]
+One important question will be how best to synthesise the information from a range of different modelling approaches for monetary policymakers. And whether we can and should do that in a more systematic way.
+footnote
+[9]
+This is complex. Some other central banks are, like us, undertaking major investment in their modelling toolkit and we will be able to learn from them.
+footnote
+[10]
+Continuous learning
+We know that the answers to all these issues won’t be found solely in the Bank. And that external engagement is part of an environment where monetary policy making is supported by a culture of continuous learning.
+We will consult with experts, academics, watchers, market participants
+footnote
+[11]
+, and our international counterparts. We are going to consider the best way to do that effectively. In the meantime, I want to highlight two initial changes.
+There is a lot of expertise outside the Bank on macroeconomic modelling. We want to draw on that. To start the conversation, we are introducing a new technical paper series, and intend to begin a series of seminars on those papers in 2025. This will be our primary vehicle for documenting new models developed in response to the Bernanke Review.
+And we will also host a conference in summer 2025 to explore some of the interconnected issues around scenarios, modelling and communication for effective monetary policy making.
+Another aspect we will build into the core of our approach is forecast evaluation. This will help us continue to adapt and update our understanding of the economy, and to improve our modelling, analysis and use of data. It will help us assess whether the scenarios we have considered were capturing some of the key risks missed by the baseline forecast, helping to inform future analysis.
+The Bank already does forecast evaluation, for example the discussion of forecast performance that appears annually in the MPR. And Bank staff continue to produce relevant research in this area.
+footnote
+[12]
+Building on this we can benefit from more formal and systematic quantification of the sources of past forecast errors. So we will introduce a new regular forecast evaluation report, building on the work that we have been publishing in the MPR. The lessons from this work will then be used to update our analysis and modelling.
+Communications
+A core part of Dr Bernanke’s recommendations was around changing our external communications to better communicate uncertainty around how the economy may evolve and what that means for monetary policy.
+Dr Bernanke recommends that we ‘move cautiously’ in adopting changes to communications. He is right, not least because of the importance of clear communication for monetary policy. A landscape with a baseline forecast and scenarios brings huge opportunities for communicating uncertainty, but also challenges on clarity.
+Clear communication is a key part of ensuring trust in what we do. And by increasing understanding of our reaction function, it can improve the effectiveness of monetary policy. And we know that the simpler the communication, the better.
+footnote
+[13]
+Substantive changes to our external communications will take time. One challenge is how to communicate uncertainty in the best way possible. The fan charts were a major innovation when they were introduced in the 1990s, but I agree with Dr Bernanke that there are better ways to convey uncertainty.
+Scenarios will help us here, they will enable us to provide narratives about how the economy may differ from the baseline projection, why, and what that would mean. But we will need to draw on the advice of others to communicate the degree of uncertainty and the balance of risks effectively. And that may include learning from disciplines other than economics.
+footnote
+[14]
+Implementing our new approach
+These changes will require a substantial improvement in our technology. This was Dr Bernanke’s first recommendation, and one to which he assigned a high priority.
+With technology changing rapidly and the challenges of recent years we have slipped behind the frontier. Dated technology impedes the ability of Bank staff to support the MPC because even some quite routine analytical tasks involve a great deal of manual processing. It also impedes our ability to draw on new and different types of data.
+Of course, data are the lifeblood of our policy analysis: we are all data obsessives on the MPC. The evolving data help us gauge the forces that are acting on the economy and are key to our assessment of the medium-term outlook and risks. This is an exciting area of innovation. For example, the digitisation of transactions means high-frequency and granular data are increasingly available, and the data technology to process such data is also evolving rapidly.
+We have an extensive work programme well underway. This is the largest modernisation of our time-series data capabilities in 25 years. And is part of a more general transformation programme to modernise the Bank's data infrastructure (
+Benford, 2024a
+) including moving to the cloud and exploring how AI can make us more effective and efficient.
+We are taking a root-and-branch approach. One imperative is that staff and policymakers can quickly access the right data and understand their lineage and quality, and to this end we are upgrading our metadata and data management models. This is painstaking work – we have around three million data series to migrate - but essential to lay the foundations for the analytical technology that sits on top of it.
+We are developing a new platform that will provide a modern environment in which Bank staff can develop and maintain models. We will be able to automate the running of models, the dissemination of their outputs and the production of diagnostics on their performance. This will both save staff time and provide the analytical flexibility needed to support our ambitions for forecasting and scenario analysis.
+As well as investment in technology, we are also investing in people. I’ve been enormously impressed with the expertise, judgement, skills, and dedication of Bank staff since I joined the institution in the summer. I’ve seen a huge amount of high-quality analysis.
+In the near term, as we ramp up our technical capabilities, we are planning a sizable expansion in these areas, providing new opportunities for existing staff and through external recruitment. So come and be part of it and work with us. We will shortly begin advertising for senior positions and will have more job openings to come. If you are interested, get in touch.
+Conclusion
+So let me conclude.
+The UK economy has made good progress on disinflation. The shocks that drove inflation up have dissipated and inflation has returned to around target. But the more persistent components of inflation and uncertainties around how the labour market will evolve are cause for concern. So we need careful observation of all the relevant economic data and intelligence as we seek to gradually reduce policy restriction.
+We are making progress in responding to the Bernanke Review. Modernising our technology and time series data capabilities. And we tested developing some different narratives for the economy and their underlying economic structures in the November policy round.
+But we have a long way to go. We are undertaking an ambitious and necessary transformation in our approach to monetary policy. It’s big. We are excited by the opportunity and committed to it seeing it through.
+We will put different stories about the economy, or scenarios, closer to the heart of policymaking and communications. These reforms will make monetary policy more robust to a wider range of circumstances.
+We are building the infrastructure to enable us to do that in a systematic way. We are testing as we go. Where things don’t work, we will drop them or adapt them. I expect you will see us experimenting with some things over the next year. It will be a programme of continuous learning.
+This programme is going to take time to work through – years not months. Some parts will move quicker than others. As Dr Bernanke recommended, some of the most visible aspects of the change programme will probably come towards the end of the process.
+And with that I’m happy to take some questions.
+I’ve received helpful comments from other MPC members and colleagues at the Bank of England. In particular I’d like to thank Fabrizio Cadamagnani, Mike Goldby, Navreen Teja and Matt Tong for their help in preparing the speech.
+This core measure strips out volatile components like accommodation and airfares as well as rents.
+A range of different models used to brief the MPC also come to a similar conclusion. They include
+machine-learning models developed by Bank staff like the one set out in
+Buckmann, Potjagailo and Schnattinger (2023)
+. These models can be particularly helpful during periods of large shocks and turning points, as they can explore granular data and accommodate complex non-linearities.
+The model of core services inflation in Chart 3 can’t give a clear steer on trends in profit margins as it captures them implicitly in the residual alongside many other factors.
+There is inevitable uncertainty around productivity growth and how firms are reflecting it in wages. This model assumes that aggregate wage growth incorporates the trend rate of productivity growth in the economy, based on the historical relationship between wages and productivity.
+An alternative version of this model presented in the November MPR and in
+Ramsden (2024)
+shows a closer fit to current pay growth if longer lags between inflation expectations and wage growth are included.
+For more details on our toolkit to produce optimal policy projections see the annex to
+Broadbent (2022)
+.
+As the Review noted, alternative forecasts around the central projection were introduced briefly as part of the Bank’s response to
+Stockton (2012)
+and published in the Inflation Report in February 2015 (lower oil prices) and May 2015 (higher labour supply growth). More recently, scenarios were published in the MPR in late 2021 and 2022 to illustrate risks around energy prices and inflation persistence.
+This is likely to include an array of models, including those highlighted in Dr Bernanke’s review, such as those that feature a rich description of the monetary transmission mechanism, alternative expectations formation processes, detailed descriptions of the labour market, the UK's trading relationships and other important aspects of the supply side of the economy.
+One approach could be through more systematic forecast combination. This idea dates back at least as far as
+Bates and
+Granger (1969), who showed that a weighted average of two unbiased forecasts will always perform at least as well as the best model. A more recent literature has applied combination beyond point forecasts to the whole distribution of outturns: density combination approaches were first raised in
+Wallis (2005)
+, reviewed recently in
+Aastveit, Mitchell, Ravazzolo, Van Dijk (2018)
+and for quantile forecasts in
+Aastveit, ter Ellen, Mantoan (2024).
+The Bank of Canada, for example, is planning a new generation of models, featuring a new workhorse macroeconomic model and a suite of alternative models to better support a risk management approach to monetary policy
+(Coletti, 2023)
+.
+We continue to value the input from market participants and technical experts, including via the Market Participants Survey (MaPS).
+For example, a working paper published by Bank staff in July
+(Kanngiesser an
+d Willems, 2024) proposes a systematic approach for central banks to leverage past forecasts and associated errors with the aim of learning more about the structure and functioning of the underlying economy.
+The latest research suggests that simpler communication improves understanding and trust among those with an economics background, as well as the general public
+(McMahon & Naylor, 2023)
+.
+For example,
+Van der Bles et al (2019)
+contains helpful advice to communicators of uncertainty.
+For example,
+Van der Bles et al (2019)
+contains helpful advice to communicators of uncertainty.
+Close
+The latest research suggests that simpler communication improves understanding and trust among those with an economics background, as well as the general public
+(McMahon & Naylor, 2023)
+.
+Close
+For example, a working paper published by Bank staff in July
+(Kanngiesser an
+d Willems, 2024) proposes a systematic approach for central banks to leverage past forecasts and associated errors with the aim of learning more about the structure and functioning of the underlying economy.
+Close
+We continue to value the input from market participants and technical experts, including via the Market Participants Survey (MaPS).
+Close
+The Bank of Canada, for example, is planning a new generation of models, featuring a new workhorse macroeconomic model and a suite of alternative models to better support a risk management approach to monetary policy
+(Coletti, 2023)
+.
+Close
+One approach could be through more systematic forecast combination. This idea dates back at least as far as
+Bates and
+Granger (1969), who showed that a weighted average of two unbiased forecasts will always perform at least as well as the best model. A more recent literature has applied combination beyond point forecasts to the whole distribution of outturns: density combination approaches were first raised in
+Wallis (2005)
+, reviewed recently in
+Aastveit, Mitchell, Ravazzolo, Van Dijk (2018)
+and for quantile forecasts in
+Aastveit, ter Ellen, Mantoan (2024).
+Close
+This is likely to include an array of models, including those highlighted in Dr Bernanke’s review, such as those that feature a rich description of the monetary transmission mechanism, alternative expectations formation processes, detailed descriptions of the labour market, the UK's trading relationships and other important aspects of the supply side of the economy.
+Close
+As the Review noted, alternative forecasts around the central projection were introduced briefly as part of the Bank’s response to
+Stockton (2012)
+and published in the Inflation Report in February 2015 (lower oil prices) and May 2015 (higher labour supply growth). More recently, scenarios were published in the MPR in late 2021 and 2022 to illustrate risks around energy prices and inflation persistence.
+Close
+For more details on our toolkit to produce optimal policy projections see the annex to
+Broadbent (2022)
+.
+Close
+An alternative version of this model presented in the November MPR and in
+Ramsden (2024)
+shows a closer fit to current pay growth if longer lags between inflation expectations and wage growth are included.
+Close
+There is inevitable uncertainty around productivity growth and how firms are reflecting it in wages. This model assumes that aggregate wage growth incorporates the trend rate of productivity growth in the economy, based on the historical relationship between wages and productivity.
+Close
+The model of core services inflation in Chart 3 can’t give a clear steer on trends in profit margins as it captures them implicitly in the residual alongside many other factors.
+Close
+A range of different models used to brief the MPC also come to a similar conclusion. They include
+machine-learning models developed by Bank staff like the one set out in
+Buckmann, Potjagailo and Schnattinger (2023)
+. These models can be particularly helpful during periods of large shocks and turning points, as they can explore granular data and accommodate complex non-linearities.
+Close
+This core measure strips out volatile components like accommodation and airfares as well as rents.
+Close
+Convert this page to PDF
+Clare Lombardelli
+Deputy Governor, Monetary Policy
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

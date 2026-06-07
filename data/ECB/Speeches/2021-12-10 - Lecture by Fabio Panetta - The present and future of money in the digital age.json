@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The present and future of money in the digital age",
+  "date_original": "2021-12-10",
+  "date_au": "10/12/2021",
+  "datetime_original": "",
+  "speaker": "Lecture by Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211210~09b6887f8b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-12-10 - Lecture by Fabio Panetta - The present and future of money in the digital age.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-12-10 - Lecture by Fabio Panetta - The present and future of money in the digital age.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "120929377bf99f13b6421df2dd4ec5190dceae8ed7ecebd2009fe72c2799ee46"
+}

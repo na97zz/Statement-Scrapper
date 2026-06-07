@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Georgetown University Law Center Commencement Address",
+  "date_original": "2024-05-19",
+  "date_au": "19/05/2024",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20240519a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-19 - Jerome H. Powell - Georgetown University Law Center Commencement Address.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-19 - Jerome H. Powell - Georgetown University Law Center Commencement Address.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d520a3e30f38932516fbb93a6895865a031088bd529f1b5316fc75472d262ba8"
+}

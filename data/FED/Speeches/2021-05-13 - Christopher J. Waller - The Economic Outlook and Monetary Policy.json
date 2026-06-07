@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and Monetary Policy",
+  "date_original": "2021-05-13",
+  "date_au": "13/05/2021",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20210513a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-05-13 - Christopher J. Waller - The Economic Outlook and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-05-13 - Christopher J. Waller - The Economic Outlook and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "36eae1f7b1e238d58711ce03e3adbc0d87b7c4adc6828911c8ae7b958aaf447e"
+}

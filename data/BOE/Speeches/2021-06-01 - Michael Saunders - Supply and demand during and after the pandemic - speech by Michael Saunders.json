@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Supply and demand during and after the pandemic - speech by Michael Saunders",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Michael Saunders",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/march/supply-and-demand-during-and-after-the-pandemic-speech-by-michael-saunders.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Michael Saunders - Supply and demand during and after the pandemic - speech by Michael Saunders.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Michael Saunders - Supply and demand during and after the pandemic - speech by Michael Saunders.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:15",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/march/michael-saunders-bank-hosted-speech-supply-and-demand-during-and-after-the-pandemic",
+  "content_sha256": "047956236d1f6ad59dbd6d233df4cfbfc559b650a4f07b6a0b8384619d88214f"
+}

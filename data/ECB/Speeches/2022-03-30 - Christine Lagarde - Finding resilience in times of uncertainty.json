@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Finding resilience in times of uncertainty",
+  "date_original": "2022-03-30",
+  "date_au": "30/03/2022",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220330~49ddaafb85.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-03-30 - Christine Lagarde - Finding resilience in times of uncertainty.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-03-30 - Christine Lagarde - Finding resilience in times of uncertainty.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "64bd11335a99afc10046b617b0123032c24259fa0586df108d884855130fef3f"
+}

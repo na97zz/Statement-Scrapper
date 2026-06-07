@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Closing Remarks",
+  "date_original": "2021-03-18",
+  "date_au": "18/03/2021",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20210318a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-18 - Jerome H. Powell - Closing Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-18 - Jerome H. Powell - Closing Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a5994e382c518ebec332bde648e8354d0f4953ae3942c88ed2debf548f131c42"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Central bank independence in an era of volatility",
+  "date_original": "2025-01-27",
+  "date_au": "27/01/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250127~16c35af0c0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-01-27 - Central bank independence in an era of volatility.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-01-27 - Central bank independence in an era of volatility.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e82078150aaad63a9694c0d8d00bbc2fc71a79110535165b8f95bdbacf609efc"
+}

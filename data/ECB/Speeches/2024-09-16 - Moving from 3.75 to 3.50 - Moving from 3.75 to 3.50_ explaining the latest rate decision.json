@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Moving from 3.75 to 3.50: explaining the latest rate decision",
+  "date_original": "2024-09-16",
+  "date_au": "16/09/2024",
+  "datetime_original": "",
+  "speaker": "Moving from 3.75 to 3.50",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240916~c0eff5db57.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-09-16 - Moving from 3.75 to 3.50 - Moving from 3.75 to 3.50_ explaining the latest rate decision.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-09-16 - Moving from 3.75 to 3.50 - Moving from 3.75 to 3.50_ explaining the latest rate decision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2f3d80a7292dbd621f04bc47ce3ffe73c7da9061360043fa054307aeee8d885f"
+}

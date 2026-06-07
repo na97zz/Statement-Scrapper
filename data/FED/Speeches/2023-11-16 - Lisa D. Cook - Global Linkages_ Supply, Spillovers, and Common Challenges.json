@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Global Linkages: Supply, Spillovers, and Common Challenges",
+  "date_original": "2023-11-16",
+  "date_au": "16/11/2023",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20231116a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-16 - Lisa D. Cook - Global Linkages_ Supply, Spillovers, and Common Challenges.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-16 - Lisa D. Cook - Global Linkages_ Supply, Spillovers, and Common Challenges.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c90d394da3ceb13ea9631f55b1365f2c8ffdf0096ffc2d58244155a3ea588391"
+}

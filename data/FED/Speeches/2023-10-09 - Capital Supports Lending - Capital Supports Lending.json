@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Capital Supports Lending",
+  "date_original": "2023-10-09",
+  "date_au": "09/10/2023",
+  "datetime_original": "",
+  "speaker": "Capital Supports Lending",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20231009a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-09 - Capital Supports Lending - Capital Supports Lending.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-09 - Capital Supports Lending - Capital Supports Lending.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1fbc59980b3d31fbb8e4f7b50a6dfa94958235396cd3fc8a9eee52877ad5ea92"
+}

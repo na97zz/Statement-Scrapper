@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Challenges Facing Central Bankers",
+  "date_original": "2025-01-08",
+  "date_au": "08/01/2025",
+  "datetime_original": "",
+  "speaker": "Challenges Facing Central Bankers",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250108a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-01-08 - Challenges Facing Central Bankers - Challenges Facing Central Bankers.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-01-08 - Challenges Facing Central Bankers - Challenges Facing Central Bankers.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "92df7d19a1dd986259b30c48ac8b24aa4d565c35441d356e93fda14b45f9b9fe"
+}

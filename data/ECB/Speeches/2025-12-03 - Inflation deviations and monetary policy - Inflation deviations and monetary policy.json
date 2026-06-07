@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Inflation deviations and monetary policy",
+  "date_original": "2025-12-03",
+  "date_au": "03/12/2025",
+  "datetime_original": "",
+  "speaker": "Inflation deviations and monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251203~0aa6ff1366.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-12-03 - Inflation deviations and monetary policy - Inflation deviations and monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-12-03 - Inflation deviations and monetary policy - Inflation deviations and monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1fb2aade3d06d8a98199585d7966413ab2c5e00078e6004423d4941f7cad46f4"
+}

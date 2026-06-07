@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The monetary policy strategy of the ECB: the playbook for monetary policy decisions",
+  "date_original": "2022-03-02",
+  "date_au": "02/03/2022",
+  "datetime_original": "",
+  "speaker": "Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220302~8031458eab.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-03-02 - Philip R. Lane - The monetary policy strategy of the ECB_ the playbook for monetary policy decisions.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-03-02 - Philip R. Lane - The monetary policy strategy of the ECB_ the playbook for monetary policy decisions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9538d9f14cdf7063575897f6ec574afad9ce7e8aa929f88ecb4c4c7194245eda"
+}

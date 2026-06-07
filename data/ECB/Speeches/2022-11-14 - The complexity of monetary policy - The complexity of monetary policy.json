@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The complexity of monetary policy",
+  "date_original": "2022-11-14",
+  "date_au": "14/11/2022",
+  "datetime_original": "",
+  "speaker": "The complexity of monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221114~23b213922c.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-14 - The complexity of monetary policy - The complexity of monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-14 - The complexity of monetary policy - The complexity of monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "01225809699d6f40308e5050be8de567e20f36714e1ac78cc4a7cdf1f1f54c32"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Reforming Solvency II: Delivering policyholder protection - speech by Andrew Bailey",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/december/andrew-bailey-speech-at-the-ifoa-delivering-policyholder-protection-in-insurance-regulation",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - Reforming Solvency II_ Delivering policyholder protection - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - Reforming Solvency II_ Delivering policyholder protection - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "90390263d1642c94f35e37dabefec98feb51f16b5664042487bdb0dd92697412"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Monetary policy and central bank asset purchases: Substitutes and complements − speech by Huw Pill",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Huw Pill",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/november/huw-pill-speech-at-the-beesley-lecture-series",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Huw Pill - Monetary policy and central bank asset purchases_ Substitutes and complements − speech by Huw Pill.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Huw Pill - Monetary policy and central bank asset purchases_ Substitutes and complements − speech by Huw Pill.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:18:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3e4172f83e9b9398f1ff384ac184da975cd005230901ddb2d1d1943144a2ea62"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Lessons Learned on Normalizing Monetary Policy",
+  "date_original": "2022-06-18",
+  "date_au": "18/06/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220618a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-06-18 - Christopher J. Waller - Lessons Learned on Normalizing Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-06-18 - Christopher J. Waller - Lessons Learned on Normalizing Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c8070940d3d76b5b5f48081de201982529fb70497b864c1ec93c05974fe1b2ce"
+}

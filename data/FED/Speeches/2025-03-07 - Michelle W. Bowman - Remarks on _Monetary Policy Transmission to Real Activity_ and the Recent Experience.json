@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Remarks on \"Monetary Policy Transmission to Real Activity\" and the Recent Experience",
+  "date_original": "2025-03-07",
+  "date_au": "07/03/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250307a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-03-07 - Michelle W. Bowman - Remarks on _Monetary Policy Transmission to Real Activity_ and the Recent Experience.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-03-07 - Michelle W. Bowman - Remarks on _Monetary Policy Transmission to Real Activity_ and the Recent Experience.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a21642a79a3d599ea1fad0856e0dbf51862d970fbd419e0e43e88deea2d5d24f"
+}

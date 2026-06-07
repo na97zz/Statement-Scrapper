@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Case for Cutting Now",
+  "date_original": "2025-07-17",
+  "date_au": "17/07/2025",
+  "datetime_original": "",
+  "speaker": "The Case for Cutting Now",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250717a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-17 - The Case for Cutting Now - The Case for Cutting Now.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-17 - The Case for Cutting Now - The Case for Cutting Now.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c06edf119ec03cf8d5c5f049040e78a27ddbd21c9ee57fa60b69bd001d4968ff"
+}

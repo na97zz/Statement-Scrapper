@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Forward Guidance as a Monetary Policy Tool: Considerations for the Current Economic Environment",
+  "date_original": "2022-10-12",
+  "date_au": "12/10/2022",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20221012a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-12 - Michelle W. Bowman - Forward Guidance as a Monetary Policy Tool_ Considerations for the Current Economic Environment.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-12 - Michelle W. Bowman - Forward Guidance as a Monetary Policy Tool_ Considerations for the Current Economic Environment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b12947f062930d4a33b818f60c21d551c9f57d07060eafc32db930c361f3dc6b"
+}

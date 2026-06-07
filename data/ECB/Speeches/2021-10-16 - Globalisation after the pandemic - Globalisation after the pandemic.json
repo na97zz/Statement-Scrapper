@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Globalisation after the pandemic",
+  "date_original": "2021-10-16",
+  "date_au": "16/10/2021",
+  "datetime_original": "",
+  "speaker": "Globalisation after the pandemic",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211016~25550329d5.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-10-16 - Globalisation after the pandemic - Globalisation after the pandemic.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-10-16 - Globalisation after the pandemic - Globalisation after the pandemic.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "93668ad0a7c2218fa4fa7f9035323700e2bcbc97f94b0b16690f17202c4c7ac0"
+}

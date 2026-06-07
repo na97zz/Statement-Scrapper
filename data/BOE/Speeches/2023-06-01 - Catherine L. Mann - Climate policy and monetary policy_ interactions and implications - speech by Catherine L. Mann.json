@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Climate policy and monetary policy: interactions and implications - speech by Catherine L. Mann",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Catherine L. Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/june/monetary-policy-in-the-face-of-large-shocks-speech-by-silvana-tenreyro.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Catherine L. Mann - Climate policy and monetary policy_ interactions and implications - speech by Catherine L. Mann.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Catherine L. Mann - Climate policy and monetary policy_ interactions and implications - speech by Catherine L. Mann.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:10",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2023/november/catherine-l-mann-university-of-oxford-environmental-economics-seminar",
+  "content_sha256": "f3426efee036296551c0bf590dba121e1488d3252810034eb55f279f4f8de7ed"
+}

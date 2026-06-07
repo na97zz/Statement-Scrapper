@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "IMFC Statement",
+  "date_original": "2024-04-19",
+  "date_au": "19/04/2024",
+  "datetime_original": "",
+  "speaker": "Statement by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240419~fab7dbda3e.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-04-19 - Statement by Christine Lagarde - IMFC Statement.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-04-19 - Statement by Christine Lagarde - IMFC Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ebb645c03fb5a1a3bb2344fc6f3887621131f114770e34250b7c072552d00d29"
+}

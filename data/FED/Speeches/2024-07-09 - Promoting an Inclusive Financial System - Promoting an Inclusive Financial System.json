@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Promoting an Inclusive Financial System",
+  "date_original": "2024-07-09",
+  "date_au": "09/07/2024",
+  "datetime_original": "",
+  "speaker": "Promoting an Inclusive Financial System",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240709a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-07-09 - Promoting an Inclusive Financial System - Promoting an Inclusive Financial System.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-07-09 - Promoting an Inclusive Financial System - Promoting an Inclusive Financial System.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8d5639b505335cec8a7b0aba390610e2f06310d11a1a18aac7ee00b020de9360"
+}

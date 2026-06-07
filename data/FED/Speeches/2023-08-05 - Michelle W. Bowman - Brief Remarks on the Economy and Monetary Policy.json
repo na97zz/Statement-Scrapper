@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks on the Economy and Monetary Policy",
+  "date_original": "2023-08-05",
+  "date_au": "05/08/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230805a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-08-05 - Michelle W. Bowman - Brief Remarks on the Economy and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-08-05 - Michelle W. Bowman - Brief Remarks on the Economy and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "debeeaf09d18ec6a4d3800142928a01c775ede979650ace6a56c0331e88971b4"
+}

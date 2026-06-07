@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Considerations for a Central Bank Digital Currency",
+  "date_original": "2023-04-18",
+  "date_au": "18/04/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230418a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-04-18 - Michelle W. Bowman - Considerations for a Central Bank Digital Currency.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-04-18 - Michelle W. Bowman - Considerations for a Central Bank Digital Currency.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "347dfa48bae6e6565a22d578e0925df74c216e421ba20fd13962c6ba81c48e1d"
+}

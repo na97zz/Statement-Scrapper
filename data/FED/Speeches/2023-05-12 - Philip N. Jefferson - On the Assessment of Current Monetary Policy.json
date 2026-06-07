@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "On the Assessment of Current Monetary Policy",
+  "date_original": "2023-05-12",
+  "date_au": "12/05/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20230512a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-12 - Philip N. Jefferson - On the Assessment of Current Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-12 - Philip N. Jefferson - On the Assessment of Current Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0a225a640ed29cb0da0b429178b4b06ed55daa78423e94f8d1756e2fc984fe48"
+}

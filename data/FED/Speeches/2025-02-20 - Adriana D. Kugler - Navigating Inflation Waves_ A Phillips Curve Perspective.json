@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Navigating Inflation Waves: A Phillips Curve Perspective",
+  "date_original": "2025-02-20",
+  "date_au": "20/02/2025",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250220a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-20 - Adriana D. Kugler - Navigating Inflation Waves_ A Phillips Curve Perspective.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-20 - Adriana D. Kugler - Navigating Inflation Waves_ A Phillips Curve Perspective.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "09de54ae9f1233897e175506b38a31c6e4591dc1933dfeae1b7ea41bf647252d"
+}

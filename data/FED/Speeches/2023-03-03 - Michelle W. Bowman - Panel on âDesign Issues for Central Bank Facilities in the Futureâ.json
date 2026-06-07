@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Panel on âDesign Issues for Central Bank Facilities in the Futureâ",
+  "date_original": "2023-03-03",
+  "date_au": "03/03/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230303a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-03-03 - Michelle W. Bowman - Panel on âDesign Issues for Central Bank Facilities in the Futureâ.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-03-03 - Michelle W. Bowman - Panel on âDesign Issues for Central Bank Facilities in the Futureâ.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f87c78767e129625eae75c791a82a372868657228cdc46e860fce5cf801e9d75"
+}

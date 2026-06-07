@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Opening Remarks at the 2022 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japan",
+  "date_original": "2022-05-25",
+  "date_au": "25/05/2022",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220525a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-05-25 - KURODA Haruhiko - Opening Remarks at the 2022 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japa.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-05-25 - KURODA Haruhiko - Opening Remarks at the 2022 BOJ-IMES Conference Hosted by the Institute for Monetary and Economic Studies, Bank of Japa.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d1e298ff865da40c9b5fbb4a95dde49a1b804ea39ee77eeb0d8d9e4aab889e88"
+}

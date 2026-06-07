@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Innovation in the Financial System",
+  "date_original": "2024-06-17",
+  "date_au": "17/06/2024",
+  "datetime_original": "",
+  "speaker": "Innovation in the Financial System",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240617a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-06-17 - Innovation in the Financial System - Innovation in the Financial System.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-06-17 - Innovation in the Financial System - Innovation in the Financial System.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3156f3fd972b6961a05fbbc3877f95a77ab9e95609d341b5192b160a22539722"
+}

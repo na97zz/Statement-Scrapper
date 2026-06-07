@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Perspectives on U.S. Monetary Policy and Bank Capital Reform",
+  "date_original": "2024-06-25",
+  "date_au": "25/06/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240625a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-06-25 - Michelle W. Bowman - Perspectives on U.S. Monetary Policy and Bank Capital Reform.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-06-25 - Michelle W. Bowman - Perspectives on U.S. Monetary Policy and Bank Capital Reform.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ed1a78037528a552eb79b0798d31ebcce308f111638c573088bcb88b3f21b411"
+}

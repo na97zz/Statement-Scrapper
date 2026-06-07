@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Addressing Climate-related Financial Risks -- From a Central Bank's Perspective --\" (Opening Remarks at the International Research Workshop on Climate-related Financial Risks)",
+  "date_original": "2021-03-25",
+  "date_au": "25/03/2021",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210325a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-03-25 - KURODA Haruhiko - _Addressing Climate-related Financial Risks -- From a Central Bank's Perspective --_ (Opening Remarks at the Internatio.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-03-25 - KURODA Haruhiko - _Addressing Climate-related Financial Risks -- From a Central Bank's Perspective --_ (Opening Remarks at the Internatio.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d7a5d09fdd1b8c647d29cb197579a39737c1c6252357a254f059e552cbcfb90c"
+}

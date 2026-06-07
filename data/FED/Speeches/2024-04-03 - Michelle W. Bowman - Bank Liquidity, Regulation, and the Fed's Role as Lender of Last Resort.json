@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Bank Liquidity, Regulation, and the Fed's Role as Lender of Last Resort",
+  "date_original": "2024-04-03",
+  "date_au": "03/04/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240403a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-03 - Michelle W. Bowman - Bank Liquidity, Regulation, and the Fed's Role as Lender of Last Resort.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-03 - Michelle W. Bowman - Bank Liquidity, Regulation, and the Fed's Role as Lender of Last Resort.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ac59e9f5f02c56d8f19a6820395a55a04ccec3628d27c3cfcb6172821a3d0d5c"
+}

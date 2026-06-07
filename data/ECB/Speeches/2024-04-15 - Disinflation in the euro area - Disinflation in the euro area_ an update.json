@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Disinflation in the euro area: an update",
+  "date_original": "2024-04-15",
+  "date_au": "15/04/2024",
+  "datetime_original": "",
+  "speaker": "Disinflation in the euro area",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240415~08ef84923c.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-04-15 - Disinflation in the euro area - Disinflation in the euro area_ an update.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-04-15 - Disinflation in the euro area - Disinflation in the euro area_ an update.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4eed10ceabe3de5ab84b41040e5b54edca524685d7d2798a1b6a46837a133ad7"
+}

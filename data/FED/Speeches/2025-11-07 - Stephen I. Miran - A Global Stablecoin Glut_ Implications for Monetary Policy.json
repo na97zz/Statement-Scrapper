@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Global Stablecoin Glut: Implications for Monetary Policy",
+  "date_original": "2025-11-07",
+  "date_au": "07/11/2025",
+  "datetime_original": "",
+  "speaker": "Stephen I. Miran",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/miran20251107a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-11-07 - Stephen I. Miran - A Global Stablecoin Glut_ Implications for Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-11-07 - Stephen I. Miran - A Global Stablecoin Glut_ Implications for Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "84a80b9dad693d12ba2bbe9faf7a40bfb10ee4e227442b1db55179861a0e49b5"
+}

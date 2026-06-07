@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "A rich vein or fool’s gold? Economic forecasts during large shocks − speech by Swati Dhingra",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Swati Dhingra",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/may/remarks-given-by-swati-dhingra-at-econdat-2024.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Swati Dhingra - A rich vein or fool’s gold_ Economic forecasts during large shocks − speech by Swati Dhingra.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Swati Dhingra - A rich vein or fool’s gold_ Economic forecasts during large shocks − speech by Swati Dhingra.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:01",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2024/may/remarks-given-by-swati-dhingra-at-econdat-2024",
+  "content_sha256": "5ca8fafa795623e9ae48aa92ba7bdc559e4086ca19b6790a3a41d434c1b69a1a"
+}

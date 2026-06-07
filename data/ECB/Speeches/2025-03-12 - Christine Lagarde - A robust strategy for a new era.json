@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "A robust strategy for a new era",
+  "date_original": "2025-03-12",
+  "date_au": "12/03/2025",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250312~915537d675.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-03-12 - Christine Lagarde - A robust strategy for a new era.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-03-12 - Christine Lagarde - A robust strategy for a new era.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ef45175a2bbd8a94d6f5f104041efb8c6f44483a8ac1aa98baef0a589bef387b"
+}

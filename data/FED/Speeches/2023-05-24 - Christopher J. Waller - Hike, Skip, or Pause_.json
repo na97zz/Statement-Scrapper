@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Hike, Skip, or Pause?",
+  "date_original": "2023-05-24",
+  "date_au": "24/05/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230524a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-24 - Christopher J. Waller - Hike, Skip, or Pause_.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-24 - Christopher J. Waller - Hike, Skip, or Pause_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "05210fa0494e65d2229abc98b54527c7e860b42c1b9a9aa7fb5a894fbbc88aef"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stability Implications of Climate Change",
+  "date_original": "2021-03-23",
+  "date_au": "23/03/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210323a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-23 - Lael Brainard - Financial Stability Implications of Climate Change.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-23 - Lael Brainard - Financial Stability Implications of Climate Change.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7aba32d8183b1b0fbe84fa1d1bd5141499478f4a1fd5fc76553bcc994bf607a0"
+}

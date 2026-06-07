@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Time Has Come",
+  "date_original": "2024-09-06",
+  "date_au": "06/09/2024",
+  "datetime_original": "",
+  "speaker": "The Time Has Come",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240906a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-06 - The Time Has Come - The Time Has Come.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-06 - The Time Has Come - The Time Has Come.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "45c4bb07c9702dc99ed8df9322780a4863c88c7e957992df061b1a65464c0345"
+}

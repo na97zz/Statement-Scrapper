@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The U.S. Housing and Mortgage Market: Risks and Resilience",
+  "date_original": "2021-11-08",
+  "date_au": "08/11/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20211108a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-11-08 - Michelle W. Bowman - The U.S. Housing and Mortgage Market_ Risks and Resilience.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-11-08 - Michelle W. Bowman - The U.S. Housing and Mortgage Market_ Risks and Resilience.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "01756736453f0153f5592f480e2a7c1e203b3fdd980cb68e8c6e72be0052711f"
+}

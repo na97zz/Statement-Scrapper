@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Independence, Predictability, and Tailoring in Banking Regulation and Supervision",
+  "date_original": "2023-02-13",
+  "date_au": "13/02/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230213a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-02-13 - Michelle W. Bowman - Independence, Predictability, and Tailoring in Banking Regulation and Supervision.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-02-13 - Michelle W. Bowman - Independence, Predictability, and Tailoring in Banking Regulation and Supervision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "89cb9f0dc57007af7b68f41030efa3c63479924ea06407a94e9a93fcecca6afb"
+}

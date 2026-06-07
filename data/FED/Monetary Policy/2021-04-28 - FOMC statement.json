@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2021-04-28",
+  "date_au": "28/04/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20210428a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2021-04-28 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2021-04-28 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:49:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "03db640168d1773bdd708d145ecf0958214779879c270aa2f9fb1f80f187ccc2"
+}

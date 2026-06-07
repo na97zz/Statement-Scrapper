@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2023-11-13",
+  "date_au": "13/11/2023",
+  "datetime_original": "",
+  "speaker": "Welcoming Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20231113a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-13 - Welcoming Remarks - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-13 - Welcoming Remarks - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8a0cb5c6601285fbd5b1eb7df96e96184cffac9c125887cc94ad34f7214d3a75"
+}

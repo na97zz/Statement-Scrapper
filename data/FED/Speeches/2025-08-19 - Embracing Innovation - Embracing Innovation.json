@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Embracing Innovation",
+  "date_original": "2025-08-19",
+  "date_au": "19/08/2025",
+  "datetime_original": "",
+  "speaker": "Embracing Innovation",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250819a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-19 - Embracing Innovation - Embracing Innovation.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-19 - Embracing Innovation - Embracing Innovation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5b1c69c5c613ce19704771d3ed0e194d76459e62d631f784afe367ebd8312c5"
+}

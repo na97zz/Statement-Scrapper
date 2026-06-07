@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Data and Research in Indian Country",
+  "date_original": "2025-10-08",
+  "date_au": "08/10/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20251008b.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-08 - Michael S. Barr - Economic Data and Research in Indian Country.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-08 - Michael S. Barr - Economic Data and Research in Indian Country.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4ada44c85055b842e40db725619f2fdfbc283d763dd472bc7799c464fade1b60"
+}

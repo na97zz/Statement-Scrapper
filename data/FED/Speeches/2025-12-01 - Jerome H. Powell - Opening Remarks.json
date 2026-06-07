@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2025-12-01",
+  "date_au": "01/12/2025",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20251201a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-12-01 - Jerome H. Powell - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-12-01 - Jerome H. Powell - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e12221c4f167d955418d8200c5a68613e28295cee5fa422ab8e210eb630ee4e8"
+}

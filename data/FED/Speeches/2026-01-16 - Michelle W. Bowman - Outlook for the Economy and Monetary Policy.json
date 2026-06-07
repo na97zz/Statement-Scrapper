@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Outlook for the Economy and Monetary Policy",
+  "date_original": "2026-01-16",
+  "date_au": "16/01/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260116a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-01-16 - Michelle W. Bowman - Outlook for the Economy and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-01-16 - Michelle W. Bowman - Outlook for the Economy and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bbef66933ca30945c252d379246054200866e627d0a0a123d84559cae73cf2f6"
+}

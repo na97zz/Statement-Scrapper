@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Federal Reserveâs Role in Supporting Responsible Innovation",
+  "date_original": "2023-09-08",
+  "date_au": "08/09/2023",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20230908a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-09-08 - Michael S. Barr - The Federal Reserveâs Role in Supporting Responsible Innovation.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-09-08 - Michael S. Barr - The Federal Reserveâs Role in Supporting Responsible Innovation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3ceaf8eeb3921a9bf258e4790b1589695f1d39ff84b03d8bdae1042dea9bb74b"
+}

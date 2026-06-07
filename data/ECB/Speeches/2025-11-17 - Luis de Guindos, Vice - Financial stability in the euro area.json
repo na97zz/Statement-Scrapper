@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Financial stability in the euro area",
+  "date_original": "2025-11-17",
+  "date_au": "17/11/2025",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251117~319ec8d663.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-11-17 - Luis de Guindos, Vice - Financial stability in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-11-17 - Luis de Guindos, Vice - Financial stability in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9b26367d16ab0cb010b255957438b42c5e7aeba1845a12ffd9de39dde29913dd"
+}

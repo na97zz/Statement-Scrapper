@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Monetary Policy in the Time of COVID",
+  "date_original": "2021-08-27",
+  "date_au": "27/08/2021",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20210827a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-08-27 - Jerome H. Powell - Monetary Policy in the Time of COVID.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-08-27 - Jerome H. Powell - Monetary Policy in the Time of COVID.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "96dff6b46b44318cfc31bc7950f86eb878d8c896b9c30ef1e8897a5fed9d57a8"
+}

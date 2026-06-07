@@ -1,0 +1,373 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Enhancing cross-border payments in Europe and beyond
+DATE: 01/04/2025
+SPEAKER: Speech by Piero Cipollone
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250401~9e1ee05e88.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Enhancing cross-border payments in Europe and beyond
+Speech by Piero Cipollone, Member of the Executive Board of the ECB, at the Regional Governors’ Meeting
+Osijek, 1 April 2025
+As we gather here today in Osijek, we stand at a crossroads in the world of payments.
+Digitalisation is driving economic progress and transforming the way we make retail payments, yet there is growing frustration that the dramatic decline in IT and telecommunications costs has not been reflected in lower fees for cross-border payments in many parts of the world.
+This has proven to be an obstacle to economic integration, including in this part of Europe. For instance, a small business owner here in Croatia trying to make a €5,000 transfer to a supplier in a Western Balkan economy that is not part of the Single Euro Payments Area (SEPA) faces costs up to 12 times higher than when sending the same amount to a counterpart within SEPA.
+[
+1
+]
+Such disparities are a barrier to growth. Addressing them is a priority, not only to reduce costs but also to drive economic development and bring us closer together. This is why the expansion of SEPA is so important and a key milestone on the European integration path.
+Montenegro, Albania and North Macedonia recently joined SEPA.
+[
+2
+]
+This paves the way for the payment service providers in these countries to be operationally ready to offer SEPA transfers as of October
+[
+3
+]
+, facilitating transfers in euro at a considerably reduced cost. We also very much support the efforts being made in the other Western Balkan economies towards joining SEPA.
+The pressing need to enhance cross-border payments is not just a regional concern, it is a matter of urgency worldwide. As international transaction volumes have surged, outstripping GDP growth, the economic toll of inefficient cross-border payments has continued to mount. Despite technological advancements and recent improvements, progress is heterogeneous across countries and cross-border payment transactions remain expensive and slow in many places.
+Moreover, the shifting geopolitical landscape has introduced a new dimension to this challenge. Rising geopolitical tensions have spurred initiatives to create alternatives to existing global infrastructure. This could lead to fragmentation of the global financial system into multiple, non-communicating blocs, which would further hamper the efficiency of cross-border payments and contribute to the refragmentation of trade and investment. In parallel, the emergence of stablecoins – which the United States intends to promote worldwide
+[
+4
+]
+– brings its own risks, including for currency substitution.
+The Eurosystem is responding proactively to these challenges in line with the G20 Roadmap for enhancing cross-border payments.
+[
+5
+]
+Our approach rests on two pillars: on the one hand, harnessing the potential of fast payment systems to enhance the efficiency of cross-border payments and deliver tangible improvements in speed and cost; on the other, continuing to respect the sovereignty and stability of our partners. This can be achieved by interlinking fast payment systems across countries. In other words, we are aiming to address inefficiencies and build lasting connections that are rooted in trade openness and balanced relationships with our partners – goals which have long been a hallmark of the European approach to economic integration.
+Today, I will focus on three points. First, I will examine the current state of cross-border payments. Second, I will discuss how geopolitical fragmentation is creating a further imperative to act. Lastly, I will present the Eurosystem’s strategic response to these challenges, which includes initiatives such as interlinking fast payment systems and exploring the possible use of a digital euro in third countries.
+The state of cross-border retail payments
+Over the past few decades, the world has witnessed a significant surge in cross-border payments, driven by the globalisation of trade, capital and migration flows. Cross-border payment flows are projected to double to €268 trillion by 2030.
+[
+6
+]
+But despite this significant expansion and the improvements that have resulted from international efforts, international payments too often remain prohibitively expensive and inefficient.
+[
+7
+]
+While domestic payments have undergone a digital revolution – becoming faster, cheaper and more accessible – cross-border transactions have yet to fully benefit from these technological advancements.
+[
+8
+]
+The average cost of international retail payments remains high: for nearly one-quarter of global payment corridors, costs exceed 3%. And in too many cases, cross-border payment is still slow: one-third of retail cross-border payments took more than one business day to be settled in 2024.
+[
+9
+]
+These inefficiencies raise three pressing issues that demand our attention.
+First, high costs and slow transaction times are undermining economic integration and growth. Small and medium-sized enterprises (SMEs), which form the backbone of many economies are disproportionately affected. For SMEs operating on tight margins, exorbitant fees are not just an inconvenience but a barrier that often discourages them from engaging in cross-border trade. According to research by the World Bank, in 2023 it cost SMEs about ten times more to transfer €5,000 between Western Balkan economies than between EU countries.
+[
+10
+]
+Second, the world’s most vulnerable groups – such as migrant workers sending remittances home – bear a disproportionate share of these costs. Remittances are a lifeline for millions of families worldwide, supporting one in nine people globally. Yet sending money home remains prohibitively expensive in many regions. The cost of remittances to the Western Balkan economies averaged 6.7% until recently
+[
+11
+]
+, only slightly below the 7.7% paid in Sub-Saharan Africa
+[
+12
+]
+. The impact that reducing these fees will have on financial inclusion and well-being cannot be overstated. The World Bank has estimated that by meeting the global Sustainable Development Goal target of 3%, the Western Balkan economies would save approximately half a billion euros per year.
+[
+13
+]
+Third, the inefficiencies affecting cross-border payments have created a vacuum that alternative players, particularly in the crypto-asset space, are eager to fill. However, many of these solutions come with significant risks that cannot be overlooked. Unbacked crypto-assets, for instance, are highly volatile and speculative in nature, creating risks for unsuspecting households and businesses.
+Furthermore, the United States’ push to maintain the dollar’s global dominance through the promotion of stablecoins worldwide presents its own set of challenges. While stablecoins may be touted as the solution to a problem, they in fact create new problems that require a solution. Unless they are properly regulated according to the Financial Stability Board principles (as achieved in Europe through the Regulation on markets in crypto-assets
+[
+14
+]
+), they cannot guarantee convertibility at par value at all times and are susceptible to runs. They may thus destabilise the very system they are meant to improve. Also, because 99% of stablecoins are denominated in US dollar and their expansion could leverage the global customer base of big tech companies
+[
+15
+]
+, they could considerably increase currency substitution risks, leading to “digital dollarisation”.
+[
+16
+]
+This would impair the effectiveness of domestic monetary policy and increase financial stability risks by amplifying capital outflows in response to negative shocks. This could have a destabilising effect on emerging markets and less developed economies, particularly small economies integrated in global value chains.
+[
+17
+]
+Geopolitical fragmentation
+That brings me to my second point: the fundamentally changed international order and its potential to fragment payment systems worldwide.
+Rising geopolitical tensions are reshaping the very foundations of cross-border payments and endangering the global rules-based system. This could challenge established correspondent banking networks and messaging systems such as Swift.
+At a time when we should be integrating payment systems to reduce their complexity and cost for users, separate platforms have sought to create alternatives to existing global infrastructures. This trend began as early as 2013 when Iran, in response to its exclusion from Swift, created its own messaging system. Russia followed suit in 2014 with the System for Transfer of Financial Messages after its annexation of Crimea. China’s Cross-Border Interbank Payment System, launched in 2015, has seen remarkable growth, with over 1,500 financial institutions using it in 2024, a number that has more than doubled since 2018.
+The pace of these initiatives has accelerated significantly since Russia’s invasion of Ukraine. In the past two years alone, we have seen nearly 20 new initiatives from countries in emerging markets aimed at bypassing Swift and western correspondent banks. At the BRICS Summit in October 2024, member countries agreed to explore the feasibility of establishing an independent cross-border settlement and depositary infrastructure, BRICS Clear.
+[
+18
+]
+These developments raise serious concerns about the potential fragmentation of the global financial system. We could face disrupted international capital flows and reduced efficiency as the system risks being splintered into multiple, non-communicating blocs.
+For the euro’s international role
+[
+19
+]
+to contribute to preserving a stable and integrated financial system, the euro needs to provide the benefits of a global public good.
+[
+20
+]
+We must ensure it can reliably connect various parts of the global payments system and deliver tangible benefits in terms of speed and cost, while respecting the integrity, sovereignty and stability of our partners.
+The Eurosystem’s strategy for efficient and open cross-border payments
+In this context, the European Central Bank (ECB), together with euro area national central banks, is promoting a strategy for the integration of global cross-border payments to address inefficiencies while maintaining openness. This strategy rests on two main initiatives.
+[
+21
+]
+Interlinking fast payment systems
+The first is the interlinking of fast payment systems. Over the past decade, central banks have made significant improvements to the backend infrastructure for facilitating payments, thereby fostering the digitalisation of domestic payment systems. As of today, over 100 jurisdictions worldwide have implemented their own fast payment systems.
+[
+22
+]
+There is already evidence that the global network of fast payment systems tends to be segmented along geopolitical lines
+[
+23
+]
+, but interlinking these systems could help overcome this fragmentation and extend the benefits of digitalisation to cross-border payments.
+This approach offers several advantages. It would reduce costs, increase the speed and transparency of cross-border payments and shorten transaction chains. It would also enable payment service providers to conduct transactions without having to use multiple payment systems or a long chain of correspondent banks. Moreover, it would ensure that the platform to connect and convert currencies would be managed as a public good, thus avoiding closed loops and discriminatory pricing. Accordingly, the G20 Roadmap has identified interlinking as a key strategy for enhancing cross-border payments.
+[
+24
+]
+Europe serves as a compelling example of what this interconnected payments landscape might look like. Within the euro area, account holders can transfer funds instantly 24/7 through the TARGET Instant Payment Settlement (TIPS) service. A key feature of TIPS is that it is a multi-currency platform that settles instant payments within a payment scheme – the SEPA Instant Credit Transfer scheme – governed by uniform rules, standards and protocols, avoiding the risk of fragmentation.
+Taking advantage of this multi-currency feature, Sweden is already using TIPS for making fast payments in kronor.
+[
+25
+]
+Denmark will do the same as of this month
+[
+26
+]
+and Norway as of 2028
+[
+27
+]
+.
+In October 2024 the ECB’s Governing Council decided to take concrete steps towards interlinking TIPS with other fast payment systems to improve cross-border payments globally.
+[
+28
+]
+First, a cross-currency settlement service will be implemented within TIPS. This will make it possible for instant payments originating in one TIPS currency to be settled in another. Initially, this service will enable cross-currency payments between the euro area, Sweden and Denmark.
+[
+29
+]
+Second, a cross-currency settlement service will be implemented for the exchange of cross-border payments between TIPS and other fast payment systems globally.
+[
+30
+]
+This will allow to explore interlinking TIPS with fast payment systems that have a compatible scheme, are interested in being involved and ensure full compliance with the standards set by the Financial Action Task Force to combat money laundering and terrorist financing.
+Third, the Eurosystem will explore connecting TIPS to a multilateral network of instant payment systems through Project Nexus, led by the Bank for International Settlements (BIS).
+[
+31
+]
+By connecting to Nexus, TIPS could evolve into a hub for processing instant cross-border payments to and from the euro area and other countries that are using TIPS.
+[
+32
+]
+Fourth, the Eurosystem is currently assessing the feasibility of creating a bilateral link with India’s Unified Payments Interface (UPI).
+[
+33
+]
+UPI has the highest instant payment transaction volumes in the world, with close to 500 million transactions per day
+[
+34
+]
+, and India is among the top ten recipients of euro area remittances.
+We are going even further to address the situation in the Western Balkans, since most countries in the region do not yet have a fast payment system.
+[
+35
+]
+As a service provider for TIPS, Banca d’Italia is working with the central banks of Albania, Bosnia and Herzegovina, Kosovo and Montenegro to develop an instant multi-currency payment system based on TIPS software, with North Macedonia potentially joining at a later stage.
+[
+36
+]
+The new platform will make it possible to pay instantly within each country and across countries. It will also ease the path towards enabling instant payments between participating countries and the euro area.
+The international role of the digital euro
+Now let me turn to the second initiative we are exploring to enhance cross-border retail payments, namely the creation of a digital euro and its use in third countries.
+A digital euro would be a central bank digital currency, an electronic equivalent to cash. It would complement banknotes and coins, giving people an additional option that they could use free of charge for any digital payment across the euro area. It would work both online and offline in shops or when making person-to-person or e-commerce transactions. Moreover, it would provide a European infrastructure that could be used by private payment service providers to offer their own solutions across the continent, thereby fostering competition and innovation.
+While the digital euro would primarily be used in the euro area, it is worth considering its possible international use. The current draft legislation foresees an approach that respects the sovereignty of third countries, mitigates potential risks for them and offers them new opportunities.
+Non-euro area residents could have access to the digital euro when visiting the euro area temporarily by setting up an account with a European payment service provider. We also believe that we could enable merchants outside the euro area to accept digital euro payments from euro area residents.
+[
+37
+]
+Moreover, users outside the euro area could be granted permanent access to the digital euro subject to an agreement between the EU and third countries, complemented by an arrangement between the ECB and the respective central banks.
+[
+38
+]
+In any case, use of the digital euro in third countries would be implemented gradually and with the appropriate safeguards to ensure that it would be used primarily as a means of payment and would not stoke currency substitution. For instance, individual holding limits for users outside the euro area would not be allowed to exceed the limits set for euro area residents and citizens.
+Moreover, the digital euro’s design includes multi-currency enabling features similar to those of TIPS. In practice, this means that non-euro area countries could use the digital euro infrastructure to offer their own digital currencies, thus facilitating transactions across these currencies. The digital euro could therefore provide a solution for offering and transferring central bank digital currencies internationally and serve as a platform for innovation in cross-border payments. On this basis, the digital euro could facilitate cross-border payments and remittances, making them more efficient and cost-effective.
+Conclusion
+Let me conclude.
+We find ourselves at a pivotal moment in the evolution of cross-border payments. The current geopolitical landscape threatens to fragment our global payment systems, potentially leading to inefficiencies and reduced transparency. However, this challenge also presents an opportunity for positive change.
+The region where we are meeting today exemplifies the challenges we face, what we can achieve through collaboration and the potential for further progress.
+As we move forward, our goal is clear: we must develop safer, more accessible alternatives that make global payments cheaper, faster and more transparent, without compromising on integrity, stability and sovereignty.
+The time for action is now. Through innovation, interoperability and a commitment to open financial markets, we can build a global payment system that is resilient to geopolitical shifts and can support economic growth and financial inclusion worldwide.
+In 2023 it cost approximately 12 times more to transfer €5,000 from the EU to the Western Balkans than between EU countries, and 15 times more to transfer €20,000. See Dashi, E., Banka, H., Laco, M. and Ardic, O. (2024),
+Measuring the cost of cross-border business-to-business payments in the Western Balkans
+, The World Bank; and Yu, X. (2024), “
+Bridging economies: The catalyst role of low-cost cross-border payments in the Western Balkans
+”,
+Emerging Europe
+, 14 May.
+See European Payments Council (2024), “
+Montenegro is now part of the SEPA payment schemes’ geographical scope
+”,
+press release
+, 21 November; European Payments Council (2024), “
+Albania is now part of the SEPA payment schemes’ geographical scope
+”,
+press release
+, 21 November; and European Payments Council (2025), “
+The Republic of North Macedonia is now part of the SEPA payment schemes’ geographical scope
+”,
+press release
+, 6 March.
+The earliest operational readiness date for payment service providers from Montenegro, Albania and North Macedonia is 5 October 2025, in line with the
+entry into force of the 2025 SEPA payment schemes
+.
+See The White House (2025), “
+Strengthening American Leadership in Digital Financial Technology
+”, 23 January.
+See paragraph 16 in G20 (2020),
+G20 Riyadh Summit
+Leaders’ Declaration
+, 21 November; Financial Stability Board (2020),
+Enhancing Cross-border Payments – Stage 1 report to the G20
+, 9 April; Committee on Payments and Market Infrastructures (2020),
+Enhancing cross-border payments: building blocks of a global roadmap – Stage 2 report to the G20
+, Bank for International Settlements,13 July; and Financial Stability Board (2020),
+Enhancing Cross-border Payments – Stage 3 roadmap
+, 13 October.
+FXC Intelligence,
+Cross-border payments market sizing data
+.
+Financial Stability Board (2024),
+G20 Roadmap for Enhancing Cross-border Payments – Consolidated progress report for 2024
+, 21 October.
+Panetta, F. (2023), “
+The world needs a better cross-border payments network
+”,
+Financial Times
+, 31 October.
+Financial Stability Board (2024),
+Annual Progress Report on Meeting the Targets for Cross-border Payments – 2024 Report on Key Performance Indicators
+, 21 October.
+For larger transfers of €20,000 or more, the disparity grows even wider, resulting in costs that are up to 17 times higher. See Dashi, E., Banka, H., Laco, M. and Ardic, O., op. cit.
+See World Bank Group (2024), “
+Advancing the Modernization and Integration of Payment Systems in the Western Balkans
+”,
+brief
+, 15 May; and the
+United Nations Sustainable Development Goals Indicators Database
+, Indicator 10.c.1:
+Remittance costs as a proportion of the amount remitted
+.
+Financial Stability Board, op. cit.
+World Bank Group, op. cit.
+Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40).
+Stablecoins could gain traction and scale rapidly as big tech companies utilise their existing user base and data to promote and market them. See Committee on Payments and Market Infrastructures (2023), “
+Considerations for the use of stablecoin arrangements in cross-border payments
+”,
+CPMI Report
+, Bank for International Settlements, October; and Panetta, F. (2021), “
+Stay safe at the intersection: the confluence of big techs and global stablecoins
+”, speech at the UK G7 Presidency Conference on “Safe Openness in Global Trade and Finance”, 8 October.
+See Brunnermeier, M., James, H. and Landau, J-P. (2021), “
+The digitalisation of money
+”,
+BIS Working Papers
+, No 941, Bank for International Settlements, 19 May.
+See Copestake, A., Le, A. H., Papageorgiou, E. and Tan, B. J. (2023), “
+Macrofinancial Implications of Foreign Crypto Assets for Small Developing Economies
+”,
+IMF Fintech Notes
+, No 2023/012, International Monetary Fund, 6 December.
+XVI BRICS Summit (2024),
+Kazan Declaration: Strengthening multilateralism for just global development and security
+, 23 October.
+European Central Bank (2024),
+The international role of the euro
+, Frankfurt am Main, June.
+See also Cipollone, P. (2024), “
+Why Europe must safeguard its global currency status
+”,
+Financial Times
+, 12 June.
+In addition to the initiatives discussed in this speech, which focus on retail cross-border payments, the Eurosystem is also exploring the potential offered by new technologies, such as distributed ledger technology, for wholesale cross-border payments (i.e. cross-border payments among financial institutions). As part of its
+exploratory work on new technologies for wholesale central bank money settlement
+, the Eurosystem conducted experiments in conjunction with the Bank of England to investigate the potential for greater automation in cross-currency payment versus payment transactions in central bank money, based on interoperability and synchronisation between the ledgers of different central banks.
+See BIS (2024), “
+Fast payments: design and adoption
+”, BIS Quarterly Review, 4 March, and the World Bank’s Project Fastt
+Global Tracker
+.
+Ferrari, M. Mehl, A., Triay Bagur, O. and Vansteenkiste, I. (forthcoming), “Geopolitics and global interlinking of fast payment systems”. The paper finds that the reduction in the probability of payment links between geopolitically distant countries is as much as two times stronger than for geographically distant ones.
+Financial Stability Board (2024),
+G20 Roadmap for Enhancing Cross-border Payments - Consolidated progress report for 2024
+, 21 October.
+ECB (2024), “
+Sweden joins TIPS – Eurosystem instant payments platform also settles in kronor
+”,
+MIP News
+, 27 February.
+ECB (2024), “
+Denmark joins T2 and TIPS to fully integrate Danish krone in Eurosystem’s payment services
+”,
+press release
+, 21 March.
+ECB (2024), “
+Norway joins TIPS, adding Norwegian krone to Eurosystem’s instant payment service
+”,
+press release
+, 29 November.
+ECB (2024), “
+Eurosystem launches initiatives to improve cross-border payments by interlinking fast payment systems
+”,
+MIP News
+, 21 October.
+ECB (2024), “
+TIPS to include cross-currency instant payments service
+”, 21 October.
+This will be based on the European Payments Council’s
+One-Leg Out Instant Credit Transfer scheme
+.
+BIS (2024), “
+Project Nexus: enabling instant cross-border payments
+”, 5 November.
+Nexus, a project run by the BIS Innovation Hub Centre in Singapore, will initially connect the fast payment systems of Bank Negara Malaysia, Bangko Sentral ng Pilipinas, the Monetary Authority of Singapore, the Bank of Thailand and the Reserve Bank of India.
+UPI is an instant payments system developed by the National Payments Corporation of India and regulated by the Reserve Bank of India.
+Cornelli, G., Frost, J., Gambacorta, L., Sinha, S. and Townsend, R. M. (2024), “
+The organisation of digital payments in India – lessons from the Unified Payments Interface (UPI)
+”,
+BIS Papers
+, No 152, December.
+The National Bank of Serbia already operates a fast payment system,
+Instant Payments Serbia – NBS IPS system
+.
+ECB (2025), “
+Roll-out of instant payment settlement service in Western Balkans
+”,
+MIP News
+, 17 January; and Banca d’Italia (2025), “
+Agreement for the creation of an instant payment system in the Western Balkans
+”, 10 January.
+Merchants outside the euro area could accept digital euro but, just like euro area merchants, would not hold digital euro. They would obtain the equivalent in commercial bank money via a European collecting payment service provider.
+See European Commission (2023),
+Proposal for a Regulation of the European Parliament and of the Council on the establishment of the digital euro
+, recital 49 and Chapter VI.
+Related topics
+Payment systems
+Financial market infrastructures
+Digital euro
+International relations
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

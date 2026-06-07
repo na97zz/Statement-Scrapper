@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Is ‘crypto’ a financial stability risk? - speech by Jon Cunliffe",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Jon Cunliffe",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/october/jon-cunliffe-swifts-sibos-2021",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Jon Cunliffe - Is ‘crypto’ a financial stability risk_ - speech by Jon Cunliffe.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Jon Cunliffe - Is ‘crypto’ a financial stability risk_ - speech by Jon Cunliffe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6329127f1fa1ab42f7638ff3f4de6116c4f8e6df3e2b17a6ab8e2122d5496a4e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Remarks at G30 dinner",
+  "date_original": "2023-06-16",
+  "date_au": "16/06/2023",
+  "datetime_original": "",
+  "speaker": "Remarks by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230616~855cf9b61d.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-06-16 - Remarks by Christine Lagarde - Remarks at G30 dinner.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-06-16 - Remarks by Christine Lagarde - Remarks at G30 dinner.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "caed1d9a475e37eeb5baab2ce22109f438ea6f2c2ad679703ed9a27c0669a2a5"
+}

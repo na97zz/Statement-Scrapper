@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Asset purchases: from crisis to recovery",
+  "date_original": "2021-09-20",
+  "date_au": "20/09/2021",
+  "datetime_original": "",
+  "speaker": "Asset purchases",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210920~ae2c7412dc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-09-20 - Asset purchases - Asset purchases_ from crisis to recovery.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-09-20 - Asset purchases - Asset purchases_ from crisis to recovery.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "623224f0ce526086d5e2a81c6a8cb6cc42e88368a6a8a2942d396faf6dcfba90"
+}

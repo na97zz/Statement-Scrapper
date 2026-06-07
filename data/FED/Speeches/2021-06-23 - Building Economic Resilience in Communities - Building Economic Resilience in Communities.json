@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Building Economic Resilience in Communities",
+  "date_original": "2021-06-23",
+  "date_au": "23/06/2021",
+  "datetime_original": "",
+  "speaker": "Building Economic Resilience in Communities",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210623a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-06-23 - Building Economic Resilience in Communities - Building Economic Resilience in Communities.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-06-23 - Building Economic Resilience in Communities - Building Economic Resilience in Communities.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a243e8553ed064529848a52415697696af87c070b927de21335c5711406a8587"
+}

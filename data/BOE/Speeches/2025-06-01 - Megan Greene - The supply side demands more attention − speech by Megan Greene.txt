@@ -1,0 +1,489 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The supply side demands more attention − speech by Megan Greene
+DATE: 01/06/2025
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/september/megan-greene-university-of-glasgow-business-school
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The supply side demands more attention − speech by Megan Greene
+Given at the Adam Smith Business School, University of Glasgow
+Published on 
+
+ 24 September 2025
+In this speech, Megan Greene argues that the conventional wisdom that central banks should look through supply shocks needs to be reconsidered. She examines the UK’s recent experience with a pandemic and war in Ukraine to highlight lessons for central banks on how to think about supply shocks and adjust policy in response to them. She suggests that we are entering an age in which supply shocks are likely to be more frequent and severe, driven by factors like climate change and geopolitical tensions.
+Speech
+Introduction
+It’s lovely to be back here in Glasgow - a city better suited than most for a discussion on the supply side of the economy and how monetary policymakers should respond to shifts in it. For starters, it is such a pleasure to speak at one of the nation’s great universities, which was once home to Adam Smith, who in his
+seminal work
+advocated for specialisation as a way to boost productivity. Glasgow’s shipbuilding and manufacturing capabilities continued to play a role in the UK’s productivity story during the UK’s industrial revolution. And the city now serves as a hub for research and innovation across a number of transformative industries,
+including sustainable energy
+.
+Factors impacting the supply side of an economy can be easy to see in retrospect, but are sometimes difficult to identify and measure in real time. We often have to resort to other ways of detecting them. Perhaps most intuitively, we can identify a supply shock by its origins: as an event that changes the inputs to production, including their price, in turn affecting firms’ ability to produce the goods and services they provide to the economy.
+Defined this way, different supply shocks are easy to imagine: wildfires destroying vital infrastructure and crops; a container ship blocking cargo from being transported through the Suez Canal; the discovery of new oil and gas deposits off the coast of Brazil and the introduction of steam engines and personal computers to make firms and workers more productive. Supply shocks can be negative or positive, with implications for activity, inflation and potential growth.
+Such shocks are nothing new, of course. Of the 8 recessions the UK has experienced since WWII, supply shocks played an important role in at least half of them (Figure 1). The Suez Crisis oil embargo played a role in the recession of 1957, oil price shocks featured heavily in the mid-1970s and the early 1980s recessions, and shocks to supply (as well as demand) were important in the two most recent downturns in 2020 and 2023. A rise in energy prices also contributed to inflation being above target between 2010 and 2013.
+footnote
+[1]
+Figure 1: Inflation, Bank Rate and recessions since WWII
+Footnotes
+Source: ONS, A Millennium of Macroeconomic Data for the UK and Bank calculations.
+When there is a specific event or a new discovery of natural resources, like those shown in Figure 1, supply shocks are fairly easy to identify. But some developments in supply are more structural and subtle in nature. For example, a potential rise in inactivity in the UK labour market following Covid-19 may now be weighing on labour supply. In these cases, origins can be difficult to identify in real time. We can instead define supply shocks by observing macroeconomic outcomes.
+When there has been a supply shock, output and inflation tend to move in opposite directions. By contrast, demand shocks, which affect the willingness or capacity of households, firms, and governments to purchase goods and services, cause activity and inflation to move in the same direction, all else equal.
+Demand shocks tend to receive the most attention. This is largely because generations of economists have learned to view economic fluctuations primarily through the lens of aggregate demand. This mainly began with the revolutionary work of Keynes, who argued that aggregate demand is the primary driver of economic activity, and continued with New Keynesianism and Post-Keynesianism.
+But to view economics through the lens of demand misses the fact that shifts in supply matter too. The supply side of the economy is often thought of as slow moving, requiring less constant monitoring than the demand side. But recent experience would suggest otherwise. The pandemic and a war in Europe have reminded us that the supply side of the economy can change abruptly and successive supply shocks can interact with one another. I am therefore going to focus on supply shocks in my speech today.
+Central banks tasked with maintaining price stability don’t have tools to directly address supply shocks. Our tools are mainly aimed at demand management. Furthermore, supply shocks are typically viewed as temporary—an energy price spike, for example, or a pandemic. Consequently, monetary policymakers have tended to look through supply shocks. I think we may need to rethink this approach.
+In the rest of my speech today I’m going to explain what the theory says about how monetary policymakers should think about supply shocks. Next, I’ll reflect on recent lessons learned from the successive supply shocks posed by Covid-19 and Russia’s invasion of Ukraine. I’ll argue that there will be plenty of opportunity to apply these lessons going forward given the high likelihood of additional supply shocks. And finally, I’ll explain how this all informs my views about the current conjuncture in the UK economy.
+Supply shocks and the “four Ts”
+The supply side of the economy is shaped by labour supply, capital and total factor productivity (TFP). TFP captures how efficiently labour and capital are combined to produce an economy’s output. A change in any one of these components can alter the economy’s productive capacity positively or negatively, acting as a shock to the supply side.
+As a monetary policymaker, I’m interested in the supply side of the economy because it impacts inflation and economic activity. At the Bank of England, the Monetary Policy Committee (MPC) is mandated by the Government to maintain price stability. In practice, this means keeping inflation sustainably at 2% over the medium term. Subject to that, the MPC also supports the Government’s other economic aim, which is strong, sustainable and balanced growth. Understanding the supply side of the economy is crucial to us achieving our mandate.
+But there is a question about what central banks can do about shifts in supply in the economy. This is particularly the case when there is a negative supply shock, pushing output down and inflation up and forcing an uncomfortable trade-off for central banks between stabilising prices and output. In contrast, positive supply shocks tend to be viewed as less of a cause for concern given their ability to expand the productive capacity of the economy without being inflationary. For that reason, I will mainly focus my remarks today on the role of monetary policy in the face of negative supply shocks.
+Traditionally, monetary policymakers have tended to look through such supply shocks. In a speech last year, Deputy General Manager of the Bank for International Settlements Andréa Maechler showed that the monetary policy response of advanced economies is, on average, three times stronger when addressing demand-driven inflation than supply-driven inflation (
+Maechler, 2024
+). The UK’s experience has been similar; the Bank’s SVAR model suggests that changes in Bank Rate have historically been driven more by demand shocks than supply shocks, on average (Figure 2).
+Figure 2: Forecast-error variance decomposition of Bank Rate
+(a)(b)
+Per cent (%)
+Footnotes
+(a) The chart illustrates by how much, on average, the volatility of Bank Rate is driven by each shock identified within the model.
+(b) This chart plots the forecast-error variance decomposition of Bank Rate from the Bank’s structural VAR model for the UK economy (over the period Q1 1992 to Q2 2024 (
+Brignone & Piffer, 2025
+). The model identifies 6 shocks. The orange band shows the sum of UK supply shock, world supply shock and world energy shock. The aqua bar shows the sum of the UK demand shock and the world demand shock. The model is estimated using Bayesian methods. The chart shows the decomposition of the pointwise mean implied by the posterior distribution of the model. The difference between the sum of the decompositions and 100 is due to unidentified shocks.
+A number of arguments have been made, including by Maechler in her 2024 speech, for why this is and should be the case. They can be summarised as the “four Ts”.
+First, supply shocks are often assumed to be
+transitory
+. That is, when a supply shock hits, it is not generally expected to have a persistent effect on the inflation rate. Instead, a supply shock is typically assumed to cause an immediate one-off shift in the price level, which will either fall out of the inflation calculation after one year (should prices not rise further) or potentially reverse if affected prices fall back to their pre-shock levels after the shock subsides. Given the “long and variable” lags with which monetary policy works (
+Friedman, 1961
+), the conventional wisdom is that monetary policy should look through these kinds of supply shocks.
+Second, negative supply shocks—all else equal—induce an awkward
+trade-off
+for policymakers. This is perhaps best demonstrated with a demand and supply diagram. In the left-hand side panel of Figure 3, we have an inflationary supply shock—for example a flood that destroys factories and houses and makes it difficult for people to report to work. Here, the shock causes a leftward shift in the aggregate supply curve (in orange) from AS1 to AS2 as production is disrupted. This contraction in supply leads to a fall in overall output in the economy, from Y1 to Y2. At the same time, the price level increases from P1 to P2. Inflation and output move in opposite directions.
+Let’s compare that to an inflationary demand shock, such as significant tax cuts designed to stimulate the economy – as shown in the right-hand side panel of Figure 3. The shock causes the aggregate demand curve to shift to the right, from AD1 to AD2. The price level rises, from P1 to P2 - as it did under the supply shock - but this time output also increases, from Y1 to Y2. Inflation and output move in the same direction.
+Figure 3: AD-AS diagram: (LHS) an adverse supply shock and (RHS) an inflationary demand shock
+When inflation and output move in the same direction like this, the required monetary policy response is relatively straightforward (
+Tenreyro, 2022
+). If the economy is overheating as a result of excess demand, policymakers can tighten the policy stance, dampening demand and reducing inflation. Alternatively, weak demand can be met with a looser monetary policy stance, boosting demand and inflation.
+When inflation and output move in opposite directions in response to a negative supply shock, monetary policymakers must weigh the benefits of stabilising prices through a tighter stance against the cost of weakening output. For this reason, monetary policy is likely to respond more cautiously to a negative supply shock.
+Third, anchored expectations are assumed to restrict any further
+transmission
+of the shock through the economy. If households and firms believe the central bank will credibly achieve its inflation target and inflation expectations are thereby well-anchored, there is limited risk of second round effects emerging through changes in wage and price setting behaviour. Without second round effects, the shock should subside and monetary policymakers aiming to stabilise prices over the medium-term can look through it.
+And finally, the primary monetary policy instrument—moving rates up and down—is, at its core, a demand-side management
+tool
+. It targets inflation through its impact on aggregate demand, not supply. It is also a relatively blunt tool, unable to act with precision by, for example, targeting a specific sector affected by the shock. Using interest rates to address supply shocks risks dampening activity unnecessarily in sectors outside of the shock’s immediate vicinity.
+Lessons learned from recent supply shocks
+These “four Ts” capture the traditional arguments for why policymakers should look through supply shocks. But a fifth “T” comes to mind:
+timeworn
+.
+Following two major successive supply shocks—the pandemic and a war in Europe—most developed country central banks saw inflation peak well above their targets. Inflation reached 9.1% in the US, 11.1% in the UK and 10.6% in the Euro Area.
+footnote
+[2]
+More than five years on from the onset of the pandemic, inflation remains above target in the US and the UK. It is worth considering the lessons we’ve learned from these recent shocks so central banks might improve our responses to supply shocks in future. I think these lessons can be divided into two sections: 1) the nature and transmission of shocks and 2) policy responses.
+When it comes to the nature and transmission of shocks, we have to consider that supply shocks themselves can be persistent. My remarks so far have focused on the impact of individual shocks on activity and inflation. But for reasons I’ll come on to, I think supply shocks are likely to become more frequent. This means that supply shifts in the economy are more likely to occur simultaneously or successively, leading to multiplicative effects on the economy.
+We saw this in the wake of the pandemic. Bank staff have used a machine learning model to disaggregate UK inflation into domestic and global supply and demand factors, labour market tightness and a trend component that reflects second round effects as measured by core inflation, wages or inflation expectations (Potjagailo, Buckmann, & Schnattinger, Forthcoming, 2025). Figure 4 shows that at the end of 2021, global supply factors, including increases in commodity prices and supply chain disruptions, accounted for approximately half of the increase in inflation above the 2% target, with domestic supply factors accounting for around a fifth. Further successive supply shocks triggered by Russia’s invasion of Ukraine in early 2022 continued to push inflation above its target in subsequent quarters, as seen in the aqua and gold bars.
+Figure 4: Boosted Inflation Model (BIM), CPI inflation decomposition
+Annualised and smoothed
+Footnotes
+Source: Staff analysis based on
+Buckmann et al. (2025)
+Notes: Block-wise predictive contributions (coloured bars) to 1-month-ahead annualised month-on-month CPI inflation (blue line), around 1993-2019 mean (2%). Model estimated via cross-validation over the 1989M1–2024M12 sample. Yellow line: actual CPI inflation, annualised and smoothed over 12 months.
+Even if the shocks themselves aren’t persistent, some kinds may propagate through the economy long after the shock has subsided. Recent research by Bank staff examines the impact of different negative supply shocks on core CPI inflation in the UK, considering a drop in productivity growth, a fall in labour supply (owing, for example, to a rise in long-term sickness in the labour force) and a wage mark-up (perhaps because of greater worker power in wage negotiations). While a drop in productivity growth and a wage mark-up lead to the sharpest initial increases in core inflation, a negative labour supply shock results in the most persistent increase (Figure 5) (Munday & Paul, 2025).
+Figure 5: Three types of supply shocks with three different effects on inflation
+Impact on core CPI inflation (QoQ)
+Footnotes
+Source: Bank analysis drawn from Munday, T., & Paul, A. (2025). Worrying about Wages given Prices. Bank of England, mimeo.
+The extent to which supply shocks have persistent economic effects depends in part on the extent to which second round effects take hold. These in turn act mainly through inflation expectations. In the wake of the pandemic and invasion of Ukraine, short-term household and firm inflation expectations rose rapidly (Figure 6). Recent research by Bank staff points to some important state-contingencies and non-linearities in the expectations formation process, which help explain recent dynamics in inflation expectations.
+First, the level of inflation matters: firms’ and households’ attentiveness to inflation is greater during periods of high inflation, particularly when inflation crosses specific thresholds. According to Bank staff research, this threshold is around 3-4% in the UK (Gaffney & Potjagailo, 2025).
+footnote
+[3]
+,
+These threshold effects come into sharper relief the longer high inflation persists, and the UK has experienced near-continuous above-target inflation for over four years. The direction of travel in inflation also matters. Expectations are asymmetrically attentive to rising, rather than falling, inflation. And finally, the source of inflationary pressure matters. Expectations are particularly responsive to price changes in salient items such as food (
+Anesti, Esady, & Naylor, 2025
+) and energy – both of which were particularly impacted by the war in Ukraine.
+Figure 6: Households’ and firms’ short-term inflation expectations
+(a)
+Per cent (%)
+Footnotes
+Source: Bank/Ipsos Inflation Attitudes Survey (IAS), Citigroup, YouGov, DMP survey and Bank calculations. Latest data point is August 2025.(a) Data shown are the one year ahead inflation expectations measures. A methodological break occurred in the IAS during the Covid pandemic that means a degree of caution should be taken when making long-run comparisons with these data. Since August 2022, the YouGov/Citigroup survey has been based on updated response buckets. Data are not seasonally adjusted and the latest data points are for August 2025.
+The recent inflationary episode has also taught us that it’s important to consider the state of the economy when gauging how much inflation expectations impact wage and price setting behaviour. For example, the degree of labour market tightness matters. Higher household inflation expectations are more likely to impact wages when the labour market is tight and worker power is greater. My previous colleague on the MPC, Jonathan Haskel, argued persuasively that the initial rise in UK inflation after the pandemic hit was due to successive energy price and supply chain shocks (
+Haskel, 2023
+). However, these shocks had persistent inflationary impacts even after they had faded due to the tightness of the labour market. In early 2022, the labour market tightened rapidly and the demand for workers (reflected by the number of vacancies) began to outstrip supply (as proxied by the unemployment rate). The vacancy to unemployment ratio rose from 0.55 in the second quarter of 2021 to a high of 1.0 in the second quarter of 2022, well above its equilibrium level (Figure 7).
+Figure 7: Vacancy to unemployment ratio
+Vacancies to unemployment ratio and its estimated equilibrium value (a)
+Footnotes
+Sources: Advertising association/World Advertising Research Centre Expenditure Report, ONS and Bank calculations.
+(a) The equilibrium V/U ratio is estimated using an error-correction model over the period 1982–2024. The real cost of vacancy posting and hourly labour productivity are included as long-run determinants for the level of vacancies. The model also includes controls for short-term movements in these variables (
+Stelmach et al (2025)
+). The final data point for the equilibrium V/U ratio is 2025 Q2.
+This impacted wage bargaining — as workers negotiated for higher wages — and price setting — as firms passed higher labour costs onto consumers in the form of higher prices. This is captured in Figure 4 by the labour market tightness (pink bars) and trend (green) components of the CPI decomposition, which when inflation peaked in Q4 2022, explained around 40% of the overshoot in inflation.
+Firm pricing may also depend on the state of the economy. Research by Bank staff, which uses the Decision Maker Panel (DMP) survey, points to key state-dependencies in the formation of firms’ own price expectations (
+Yotzov, Bloom, Bunn, Mizen, & Thwaites, 2024
+). Firm expectations likely become more sensitive to inflation outturns in high-inflation environments. This is evidenced by the greater sensitivity of firms’ year-ahead own-price expectations to inflation outturns in the post-2022 period of high inflation relative to earlier periods of low inflation, which were also characterised by slack in the labour market (2017 – 2021) (Figure 8). Evidence from the DMP also suggests that there are asymmetries at play – a rise in inflation has significant effects on business own-price expectations, but falling inflation does not.
+Figure 8: Sensitivity of DMP firms’ own-price growth expectations to CPI inflation changes
+Sensitivity coefficient with confidence interval
+Footnotes
+Source:
+Yotzov et al. 2025
+The level of inflation also interacts with the way in which firms set prices, influencing the frequency of price changes and consequently the speed with which supply shocks transmit to inflation. In early 2023, around 60% of DMP firms reported that they set prices in a state-dependent manner by responding to specific events. The remaining 40% set prices in a time-dependent manner, adjusting prices at fixed intervals. Theory suggests that state-dependent price setters should change their prices more frequently when inflation is higher to maintain margins (
+Alvarez, Beraja, Gonzalez-Rozada, & Neumeyer, 2019
+). This is supported by DMP data - firms reported that they changed prices more often in 2022, when inflation was much higher, than in 2019. Most of this increase in the frequency of price changes was in state-dependent price-setting firms, who also saw larger rises in their input prices than time-dependent firms. In high inflation environments, the presence of state-dependent price-setters can introduce a non-linear response of inflation to supply shocks as firms adjust prices more quickly. This could at least partially explain why supply shocks have transmitted so quickly to inflation over recent years (
+Bunn, et al., 2023
+).
+To help further illustrate how the transmission of supply shocks is state-dependent, we’ve used the Bank’s core DSGE model to explore how a supply shock transmits under two different states of the economy. In Figure 9, the aqua lines show the impact of a one standard deviation supply shock in the model on inflation and GDP growth.
+footnote
+[4]
+We then model the same supply shock in a world in which inflation expectations are more responsive to past inflation (in orange). In this alternative state of the world, the supply shock pushes inflation up more than in the baseline and GDP growth down more.
+Figure 9: Inflation and output response from supply shock under different model calibrations
+Percentage points
+Footnotes
+Source: Bank calculations using an estimated DSGE model for the UK economy as set out in (
+Albuquerque, et al., 2025
+).
+Just as the post-pandemic inflationary episode has taught us important lessons about the nature of supply shocks and their transmission, we’ve also learned lessons about policy responses to these shocks. First, the appropriate monetary policy response to a given supply shock depends on the shock and the state of the economy. The scenarios the MPC produced in August 2025 can help to demonstrate this idea. Figure 10 shows our August 2025 baseline projection for inflation and the output gap (in white), conditioned on the market curve.
+footnote
+[5]
+This baseline scenario includes the continued impact of past supply shocks, alongside other factors. The orange line shows projections for a scenario with higher inflation persistence, again conditioned on the market curve. This scenario involves a different state of the economy, with more backward-looking inflation expectations, and a new supply shock, with weaker productivity growth, than the baseline scenario. We can see that inflation is higher and the output gap smaller in the inflation persistence scenario.
+Figure 10: August 2025 forecast and inflation persistence scenario
+Conditioned on the market curve representing Bank Rate
+Footnotes
+Source: Bank calculations.
+These projections become more interesting when we use them to think about policy responses. Instead of following the market curve, we use an endogenous policy path that evolves according to a targeting rule, which minimises the deviations of inflation from target and output from potential.
+footnote
+[6]
+This exercise, shown in the aqua line in Figure 11, uses a loss function to identify the best outcomes – in terms of inflation and the output gap – that monetary policy could achieve in the model, and the policy path that would deliver them. We can see that it suggests a more restrictive monetary policy stance than that implied by the market curve. This illustrates how the appropriate policy response can be affected by the structural features of the economy and the impact of an additional supply shock.
+While this projection makes reasonable assumptions about policymaker preferences on interest rate smoothing and trade-off management, it should not be interpreted as representing the MPC’s view of the future path for policy, nor even mine. Indeed, a more restrictive response can take many forms. The policy path produced by the model implies a policy reversal that involves hiking Bank Rate in the near-term before pivoting back to cuts. I place a substantial premium on avoiding such policy reversals, as they threaten central bank credibility. A more restrictive stance that takes this aversion to policy reversals into account could, in my view, instead mean skipping cuts.
+Figure 11: The inflation persistence scenario
+Conditioned on the market curve and under endogenous policy
+Footnotes
+Source: Bank calculations.
+Uncertainty around structural features of the economy may also impact the appropriate policy response. Bank research finds that if policymakers are uncertain about the degree of intrinsic inflation persistence — as they may well be in the case of a supply shock — policy should respond more forcefully to inflation than under certainty (Munday & Paul, 2025). This result supports evidence from
+Söderström (2002)
+, which shows that responding forcefully to control inflation can prevent it from persisting in future.
+Additionally, the optimal policy response to a supply shock may depend on whether inflation or output responds more quickly to monetary policy. Central banks often think that changes in interest rates affect slack, which in turn affects inflation at longer time horizons. If this holds, it is optimal for central banks to look through transitory supply shocks and only seek to stabilise demand shocks (
+Kilponen & Leitemo, 2011
+). Lagged transmission of monetary policy to inflation means that any monetary policy response would feed through to the real economy too late to address the inflationary overshoot, and would only generate output gap volatility
+However, several recent empirical studies using high-frequency identification methods suggest that inflation may in fact respond more quickly to monetary policy than output (
+Cesa-Bianchi, Thwaites, & Vicondoa, 2020
+). This is especially plausible given inflation has exceeded the target over the past few years, so firms are likely to adjust prices more frequently.
+Ascari and Haber (2022)
+show that this leads to a faster pass-through of monetary policy to prices in the US. Research by Bank staff points towards a similar result for the UK – monetary policy shocks give rise to larger nominal effects when trend inflation is high (
+Esady, 2024
+).
+If inflation does indeed respond more quickly to monetary policy than output and the Phillips Curve is relatively flat, Bank staff analysis suggests it is optimal for policy to try and offset supply shocks and look through demand shocks (Munday & Willems, 2025). If the central bank has better, more immediate control over inflation relative to output, it should focus on delivering on the inflation part of its mandate.
+While we’ve learned a lot from recent negative supply shocks, monetary policymakers should continue to develop both our processes and policy responses in anticipation of future supply shocks. At the Bank of England, we are partly doing this via a multi-year project acting on the recommendations put forward in the Bernanke Review (
+Bernanke, 2024
+).
+As set out by the Governor (
+Bailey, 2025
+) and Deputy Governor for Monetary Policy (
+Lombardelli, 2024
+and
+2025
+) we are making comprehensive and substantial reforms to how we make and communicate monetary policy. This includes further developing our data infrastructure and modelling capabilities, changing how we use models and analysis as inputs into policymaking and placing less weight on the central forecast but instead considering a wider range of scenarios. All of this will help us have better discussions and make better decisions in general, but they will also help us to better gauge the supply side of the economy and adjust to changes in it in particular. We have already shifted from conducting an in-depth supply stocktake once a year to a more ongoing review of the supply side of the economy. Conducting scenarios has also enabled us to model states of the world in which supply capacity may be different to what is in our central projection.
+Negative supply shocks here to stay
+It is crucial these changes in processes and policy responses help us better understand supply shocks and how to respond to them because I believe we have entered an age of supply shocks. On this I am in good company; Fed Chair Jerome Powell and ECB President Christine Lagarde have also acknowledged that supply shocks are likely to be more frequent and prominent in the future (
+Lagarde, 2023
+;
+Powell, 2025
+).
+In my view, future supply shocks are likely to be driven by two transformational trends: climate change and geoeconomics. It is incumbent upon central banks to understand the risks of these shocks arising, how they might propagate through the economy and how our policies might need to shift in response.
+Climate change
+I’ll start with climate change. My focus here is not the science, but rather the implications for the economy and monetary policy. According to the World Meteorological Organization (WMO), 2024 likely marked the first year in which the global mean temperature reached more than 1.5 degrees Celsius above its pre-industrial average (
+World Meteorological Organization, 2025
+). On top of that, the frequency of climate-related disasters worldwide has increased markedly in recent decades – as shown in Figure 12.
+Figure 12: Climate-related disasters
+Frequency
+Footnotes
+Source: International Monetary Fund,
+Climate Change Indicators Dashboard
+. Latest datapoints are 2024.
+The UK is no exception; the Met Office’s latest State of the UK Climate report (
+2025
+) highlights that temperatures and rainfall are increasingly extreme.
+Increased physical risks posed by climate change could cause material disruption to the supply capacity of the UK economy. Let’s take flooding, for example. A flood can destroy physical goods, infrastructure and machinery and may displace workers – as pointed out by my colleague James Talbot in his recent speech (
+2025
+). This negative supply shock could cause output to contract and inflation to rise. Indeed, research by
+Ficarra and Mari (2025)
+finds that a 1 standard deviation increase in the number of UK floods leads to a reduction in regional GDP of over 1% and an increase in regional inflation of about 50 basis points at the two year mark.
+Physical events occurring outside the UK can also impact the supply side of the UK economy. For example, a flood in South America that destroys soybean crops is likely to place upward pressure on global agricultural commodity prices. These increased costs then filter through to the domestic UK economy, shifting the aggregate supply curve to the left. Thus, as the prevalence of such weather events increases, we can expect to see increased volatility in commodity prices.
+Transition risks — associated with the move towards a greener economy — are also likely to generate negative supply shocks. This is most evident with carbon pricing. Bank research suggests a contraction in the supply of carbon allowances increases the carbon price, acting as a supply-side shock that pushes down on output and increases both energy and non-energy inflation for up to 2 to 3 years following the shock (Figure 13;
+Copeland, Brandt, Burr, & Wanengkirtyo, 2025
+).
+Figure 13: Impulse response functions of UK macroeconomic variables to a restrictive carbon policy shock
+(a)
+Percentage points Per cent
+Footnotes
+Source:
+(Copeland et al., 2025)
+Impulse responses to an identified UK-relevant carbon policy shock, normalised to increase energy CPI inflation by 1pp at peak. Estimation sample: June 2008 to April 2024. The solid line represents the median draw. The shaded areas are the 80% credible intervals.
+To be clear, while the green transition is likely to generate supply shocks, it is less costly than not undergoing the transition at all or implementing it too late and too slowly. As my colleague Sarah Breeden (
+2025
+) has pointed out, measures to shift to a green economy can be costly for inflation in the short and medium term. But over the longer term, these measures should reduce the threat of negative supply shocks from physical risks.
+Geoeconomics
+Geopolitical risk
+footnote
+[7]
+has spiked repeatedly in recent years as tensions have risen (Figure 14) and economic integration has reversed. While the political aspect of geoeconomics is notoriously difficult to forecast, it seems likely the recent peak in globalisation is behind us and industrial policy and economic statecraft are here to stay for some time. These factors can pose negative supply shocks via many different channels.
+Figure 14: Geopolitical risk index
+Index, 1985:2019 = 100
+Footnotes
+Source:
+Caldara, Dario and Matteo Iacoviello (2022)
+; latest data point is September 2025.
+One very direct channel is energy prices. Figure 15 illustrates the tendency for energy prices to rise following recent geopolitical events, particularly those involving energy producing markets. The Russian invasion of Ukraine is shown here on the left-hand axis and another two events on the right-hand axis. If such events become more frequent, we can expect energy price shocks to occur more often – pushing up on inflation and down on output.
+Figure 15: WTI futures three months ahead prices during the 15 days following major recent geopolitical events
+(a)
+Cumulative percentage change from day of event (%)
+Footnotes
+Source: Refinitiv Eikon and adapted from
+Smith and Pinchetti (2024)
+(a) Note use of different axes for geopolitical events.
+More policy-led factors are also likely to generate adverse supply shocks. The impact of geopolitical tensions on economic interdependence can be viewed through the trilemma put forward by Edward Fishman in his recent book Chokepoints (
+2025
+). This trilemma posits that geopolitical rivalry, economic interdependence and economic security cannot all be sustained simultaneously. As geopolitical rivalry intensifies, governments must choose whether to prioritise economic interdependence or security.
+The growing use of economic statecraft suggests that many governments may have chosen the latter. Economic statecraft - both a cause and consequence of geoeconomic fragmentation – involves the use of economic tools to achieve foreign policy objectives. These tools include tariffs, export controls, sanctions, investment restrictions and the exclusion of actors from financial plumbing.
+While economic statecraft dates back to ancient Greece,
+footnote
+[8]
+it has become more prevalent since the global financial crisis, with the number of active sanctions, for example, rising sharply in recent years – as shown in Figure 16. Recent examples include the disconnection of Iranian banks from SWIFT, sanctions imposed on Russia by the US and its allies following the invasion of Ukraine, and China’s placement of export controls on firms linked to Taiwan’s military.
+Figure 16: Frequency of sanctions by type
+Number of sanctions
+Footnotes
+Source:
+Global Sanctions Database
+; (
+Yalcin, et al., 2025
+); latest datapoint is 2023.
+Such measures can restrict or distort cross-border flows of trade and capital, with implications for supply. A reduction in capital flows, particularly foreign direct investment (FDI), could weigh on supply because of the important role that such flows play in boosting aggregate productivity (
+Batten & Jacobs, 2017
+). Similarly, increased frictions in financial plumbing could result in higher transaction costs and reduced market efficiency, also negatively impacting UK supply.
+The prominent use of tariffs this year underscores the growing role of economic statecraft in shaping the global trading system. Tariffs are typically thought to function as an adverse supply shock for countries imposing them, and a negative demand shock for those economies on the receiving end. But the economic fallout is not limited to just those economies directly involved in their implementation, with the overall inflationary impact dependent on a range of factors, including whether or not retaliation occurs (
+Greene, 2025
+).
+The imposition of tariffs can have an adverse impact on the supply side of an economy by increasing uncertainty. The introduction and subsequent pausing of tariffs earlier this year was accompanied by a sharp tick-up in trade policy uncertainty, which remains elevated even now (Figure 17). Sustained uncertainty of this nature can impede domestic investment as confidence falls and firms delay decision-making (
+Kohlscheen, Rungcharoenkitkul, Xia, & Zampolli, 2025
+). Indeed, research shows an increase in trade policy uncertainty (TPU) in the US reduced investment there by about 1.5% in 2018 (
+Caldara, Iacoviello, Molligo, Prestipino, & Raffo, 2020
+). Reduced investment can weigh on the supply of the economy by limiting capital deepening and constraining productivity growth.
+Figure 17: Trade policy uncertainty
+(a)
+Index
+Footnotes
+Source:
+Trade Policy Uncertainty
+; (
+Caldara, Iacoviello, Molligo, Prestipino, & Raffo, 2020
+); latest data point is August 2025.The monthly index reflects the amount of times trade policy and uncertainty terms jointly appear in major newspapers. The index is normalized so that a value of 100 represents an article share of 1%.
+In addition, tariffs can negatively impact UK supply as a result of their disruptive impact on global supply chains. Increased disruption can cause intermediate inputs to become more expensive, as well as generate more frequent supply bottlenecks. This raises inflationary pressures for all economies along the supply chain, even those not caught up in the immediate tariff action. This is a particularly important consideration for a small open economy, such as the UK, which is highly integrated into global trading networks (
+Freeman, Key, Martin, Mulcahy, & Theodorakopoulos, 2024
+).
+Sustained geopolitical tensions and further fragmentation could adversely impact the supply side of the UK economy. But one important factor to bear in mind is the speed at which this fragmentation occurs. Research suggests that an anticipated and gradual shift towards fragmentation allows economic agents to adjust their behaviour, mitigating some of the potential inflationary effects. If the rift is sudden and unanticipated, the supply side effect is bigger and fragmentation can force more stark trade-offs for policymakers (
+Tenreyro, Ambrosino, & Chan, 2024
+).
+Conclusion and monetary policy views
+The magnitude and persistence of supply shocks can be very difficult to identify and measure. According to the theory, central banks should generally look through them. Supply shocks are often temporary, responding to them can generate costs in terms of output, inflation expectations are assumed to be well-anchored so second round effects can be avoided and central bank tools are poorly suited to addressing negative supply shocks directly.
+Having recently experienced the double whammy of a pandemic and a war in Europe, however, we have learned some lessons about the nature and transmission of supply shocks and about policy responses to them. These will come in handy going forward, as we are likely to continue to face negative supply shocks as a result of, among other things, climate change and geoeconomics. The Bank is committed as part of its implementation of the Bernanke Review to continue exploring lessons from our recent experience with supply shocks.
+For me personally, identifying the lessons we’ve learned from recent supply shocks is not just an academic exercise. These lessons also inform my thinking about the current conjuncture, and in my view suggest that the risks to our inflation outlook have shifted to the upside.
+I think there are two main reasons to believe the supply side of the UK economy may have undergone a structural shift. Productivity growth in the UK has been weak in recent years, but even more so in recent quarters. In our forecast, we expect it to revert to historical norms over the forecast period. This would represent a rapid recovery, and I think the risks are firmly to the downside. Second, UK 16yo+ employment fell rapidly during the pandemic and still remains 1 percentage point below its pre-pandemic peak. Given ongoing issues with the ONS Labour Force Survey, it is particularly difficult to determine how much of this is due to a rise in inactivity versus unemployment. If higher inactivity is a significant factor, that would represent a negative labour supply shock. Bank staff have shown that such shocks tend to generate more inflation persistence than other kinds of adverse supply shocks.
+If we can’t identify a supply shock easily from its origins, then we can look to macroeconomic outcomes. UK headline CPI inflation has been generally above target for over four years and rising for about a year. As you can see clearly in Figure 18, the year-long tick up in inflation puts the UK in stark contrast with our developed economy peers.
+Figure 18: UK inflation is higher than in the US and EA and has increased recently
+Contributions to annual inflation (percentage points)
+Footnotes
+Source: Eurostat (latest data point: August 2025, BEA, BLS (latest data point: July 2025), ONS (latest data point: August 2025). Euro area contributions to HICP inflation; US contributions to PCE inflation (headline CPI inflation shown in dashed line); UK contributions to CPI inflation.
+The MPC expects services inflation to flatline at around 5% through the end of this year and core inflation has been flat since Q2 2024 and is expected to remain so through 2025. Disinflation has so far been concentrated in interest rate sensitive sectors, which suggests that the bulk of disinflation may have already come through. Meanwhile, underlying activity has remained weak with the labour market loosening and slack emerging. On the face of it, the data has the hallmark of an adverse supply shock.
+Given these trends, some of the state dependencies that I’ve discussed today are likely to come to bear. Household and business short- and medium-term inflation expectations have been on an upward trend and remain elevated, with the former stretching the limits of what can be explained by price outturns. This is perhaps unsurprising given inflation has been in the 3-4% threshold at which expectations are particularly responsive to realised inflation. Furthermore, expectations are asymmetrically attentive to rising (rather than falling) inflation. Much of the recent upside news in inflation outturns has been from food price and energy inflation, both particularly salient for household expectation setting.
+After Covid, the labour market was tight, contributing to rising wage growth and higher services inflation. Labour market slack has now emerged, so second round effects as a result of a shift in the wage setting process may not be a major concern. Wage growth remains above what our suite of models can explain. But pay settlements are coming down in line with the Agents’ pay survey, the DMP and our own wage growth forecast for the year. While the wage setting process may not have changed this time, the price setting process may have. According to the DMP, firms’ year-ahead own price expectations remain more sensitive to upside inflation surprises.
+The risks of weaker demand have not disappeared, but to my mind they have diminished. I remain worried about weaker consumption and a higher savings ratio than we are expecting—so much so that I gave a whole
+speech
+on these dynamics almost exactly a year ago. But I am less concerned about a rapid decline in the labour market. Our metric of underlying employment growth has been very weak but relatively stable since the beginning of this year. According to our Agents, firms suggest that much of the labour market adjustment from higher National Insurance Contributions (NICs) and the National Living Wage (NLW) has already occurred. The historical Okun relationship between unemployment and output suggests the labour market has been easing in line with GDP. We expect GDP growth to rebound going forward, so if this relationship holds then a significant downside risk to the labour market should not materialise.
+Risks from trade also persist, but I think they have abated somewhat. The US’s effective tariff rate is higher than it has been since the Smoot Hawley Tariff Act. But a flurry of trade agreements have been struck between the US and its trading partners, suggesting the risk of persistently high trade policy uncertainty has diminished.
+What does all of this mean for policy going forward? Here, I think two of the lessons we’ve learned from recent supply shocks apply to the current conjuncture. First, when there is uncertainty around intrinsic inflation persistence, as there currently is, a monetary policymaker should respond to inflation. In doing so, one can prevent it from becoming entrenched going forward. Second, inflation may respond to monetary policy more quickly than output when inflation has exceeded the target for an extended period and firms are likely to adjust prices more frequently. In this environment, monetary policymakers should offset supply shocks.
+Responding to inflation can take many forms. In the scenario I showed earlier with higher inflation persistence resulting from more backward-looking inflation expectations and weaker productivity growth, the endogenous policy path was more restrictive than the market curve and involved near-term rate hikes. This endogenous path should not be taken as gospel. As I’ve said, I am not in favour of policy reversals by central banks. Instead, I believe an appropriate response to the uncertainty and risks we are currently facing should involve a cautious approach to rate cuts going forward.
+And with that, I’m happy to answer some questions.
+Acknowledgements
+The views expressed in these remarks are not necessarily those of the Bank of England or the Monetary Policy Committee. Opinions and all remaining errors and omissions are my own.
+I would particularly like to thank Emma Hatwell, Stephen Nelson-Clarke and Nades Raviraj for their help in the preparation of this speech.
+The text has also benefitted from helpful comments, data and analysis from Andrew Bailey, Huw Pill, Kavya Saxena, Sarah Breeden, Nicola Shadbolt, Josh Martin, Lauren Barnes, Tim Munday, Tim Willems, Jan Žáček, Hannah Copeland, Jack Page, Natalie Burr, Christoph Herler, David Latto, Simon Lloyd, Sumer Singh, Davide Brignone, Michele Piffer, Ivan Yotzov, Rebecca Mari, Jenny Chan, Phil Lachowycz, Michal Stelmach, and Galina Potjagailo, for which I am grateful.
+References
+Albuquerque, D., Chan, J., Kanngiesser, D., Latto, D., Lloyd, S., Singh, S., & Žáček, J. (2025).
+Decompositions, forecasts and scenarios from an estimated DSGE model for the UK economy.
+Bank of England, Macro Technical Paper No. 1.
+Alvarez, F., Beraja, M., Gonzalez-Rozada, M., & Neumeyer, P. (2019). From Hyperinflation to Stable Prices: Argentina’s Evidence on Menu Cost Models.
+The Quarterly Journal of Economics, Volume 134, Issue 1
+.
+Anesti, N., Esady, V., & Naylor, M. (2025).
+Food prices matter most: sensitive household inflation expectations.
+Bank of England Staff Working Paper No. 1,125.
+Ascari, G., & Haber, T. (2022). Non-Linearities, State-Dependent Prices and the Transmission Mechanism of Monetary Policy.
+The Economic Journal Vol. 132 Issue. 641
+, 37-57.
+Bailey, A. (2025). Monetary policy in uncertain times.
+Speech given at the Reykjavík Economic Conference, Iceland.
+Batten, S., & Jacobs, D. (2017). Foreign-owned firms and productivity.
+Bank Underground
+.
+Bernanke, B. (2024).
+Forecasting for monetary policy making and communication at the Bank of England: a review.
+Breeden, S. (2025). Weathering the storm: stability in a changing climate.
+Based on remarks given at the Chapman-Barrigan lecture.
+Brignone, D., & Piffer, M. (2025). A structural VAR model for the UK economy.
+Bank of England Macro Technical Paper No. 3
+. Retrieved from https://www.bankofengland.co.uk/-/media/boe/files/macro-technical-paper/2025/a-structural-var-model-for-the-uk-economy.pdf
+Broadbent, B. (2022). The inflationary consequences of real shocks.
+Speech given at Imperial College, London.
+Bunn, P., Bloom, N., Mizen, P., Ozturk, O., Thwaites, G., & Yotzov, I. (2023).
+Price-setting in a high-inflation environment.
+VoxEU Column.
+Caldara, D., & Iacoviello , M. (2022). Measuring Geopolitical Risk.
+American Economic Review. Vol. 112 Issue. 4
+, 1194-1225.
+Caldara, D., Iacoviello, M., Molligo, P., Prestipino, A., & Raffo, A. (2020). The economic effects of trade policy uncertainty.
+Journal of Monetary Economics Vol. 109
+, 38-59.
+Carney, M. (2017). Lambda.
+Speech given at London School of Economics.
+Cesa-Bianchi, A., Thwaites, G., & Vicondoa, A. (2020). Monetary policy transmission in the United Kingdom: A high frequency identification approach.
+European Economic Review Vol. 123
+.
+Copeland, H., Brandt, L., Burr, N., & Wanengkirtyo, B. (2025). What happens to inflation when we put a price on carbon?
+Bank Underground
+.
+Esady, V. (2024). State-dependent effects of UK monetary policy.
+Bank Underground
+.
+Ficarra, M., & Mari, R. (2025).
+Weathering the storm: sectoral economic and inflationary effects of floods and the role of adaptation.
+Bank of England, Staff Working Paper No. 1,120.
+Fishman, E. (2025).
+Chokepoints: How the global economy became a weapon of war.
+Elliot & Thompson.
+Freeman, R., Key, T., Martin, J., Mulcahy, J., & Theodorakopoulos, A. (2024).
+A portrait of the UK’s global supply chain exposure.
+Bank Quarterly Bulletin Q3 2024.
+Friedman, M. (1961). The Lag in Effect of Monetary Policy.
+Journal of Political Economy, Vol. 69, No. 5
+, 447-466.
+Gaffney, A., & Potjagailo, G. (2025).
+Looking through the blip? Evidence of intrinsic persistence when inflation is high.
+Bank of England, mimeo.
+Greene, M. (2025). Not such an island after all.
+Speech given at the Institute of Directors.
+Haskel, J. (2023). UK inflation since the pandemic: How did we get here and where are we going?
+Speech given at the University of Warwick .
+Kilponen, J., & Leitemo, K. (2011). Transmission lags and optimal monetary policy.
+Journal of Economic Dynamics and Control Vol. 35, Issue. 4
+, 565-578.
+Kohlscheen, E., Rungcharoenkitkul, P., Xia, D., & Zampolli, F. (2025). Macroeconomic impact of tariffs and .
+BIS Bulletin No. 110
+.
+Lagarde, C. (2023). Policymaking in an age of shifts and breaks.
+Speech given at Jackson Hole.
+Lombardelli, C. (2024). Managing the present, shaping the future.
+Speech given at the Bank of England Watchers Conference, organised by King’s Business School and the Money, Macro and Finance Society.
+Lombardelli, C. (2025). Central bank communications and uncertainty.
+Remarks given at the Second Thomas Laubach Research Conference, Federal Reserve Board, Washington DC, USA on 16 May 2025.
+Maechler, A. (2024). Monetary policy in an era of supply headwinds – do the old principles still stand?
+Speech at the London School of Economics, London, 2 October 2024.
+Met Office. (2025).
+State of the UK Climate.
+Munday, T., & Paul, A. (2025).
+Uncertainty Need Not Mean ‘Wait and See.
+Bank of England, mimeo.
+Munday, T., & Paul, A. (2025).
+Worrying about Wages given Prices.
+Bank of England, mimeo.
+Munday, T., & Willems, T. (2025).
+The impact of transmission lags on monetary policymaking: The long and short of it.
+Bank of England, mimeo.
+Potjagailo, G., Buckmann, M., & Schnattinger, P. (Forthcoming, 2025).
+Blockwise Boosted Inflation: non-linear determinants of inflation using machine learning.
+Powell, J. (2025). Opening Remarks.
+At the Second Thomas Laubach Research Conference, hosted by the Federal Reserve Board, Washington, D.C.
+Smith, S., & Pinchetti, M. (2024). The transmission channels of geopolitical risk.
+Bank Underground
+.
+Söderström, U. (2002). Monetary Policy with Uncertain Parameters.
+The Scandinavian Journal of Economics Vol 104, Issue 1
+.
+Talbot, J. (2025). The heat is on: why monetary policy makers are increasingly focusing on the impact of climate risks.
+Speech given at Oxford University.
+Tenreyro, S. (2022).
+The economy and policy trade-offs.
+Given at the 2022 Dow Lecture, National Institute of Economic and Social Research.
+Tenreyro, S., Ambrosino, L., & Chan, J. (2024).
+Trade fragmentation, inflationary pressures and monetary policy.
+BIS Working Papers No 1225.
+World Meteorological Organization. (2025).
+WMO confirms 2024 as warmest year on record at about 1.55°C above pre-industrial level.
+Yalcin, E., Felbermayr, G., Kariem, H., Kirilakha, A., Kwon, O., Syropoulos, C., & Yotov, Y. (2025). The Global Sanctions Data Base—Release 4: The Heterogeneous Effects of the Sanctions on Russia.
+The World Economy Vol. 48, Issue. 9
+, 2003-2017.
+Yotzov, I., Bloom, N., Bunn, P., Mizen, P., & Thwaites, G. (2024).
+The speed of firm response to inflation.
+Bank of England, Staff Working Paper No. 1,085.
+The restoration of the standard VAT rate (at 17.5%) in January 2010 and subsequent increase to 20% in 2011 also contributed, along with the continued effects of sterling’s post-GFC depreciation.
+These figures refer to Consumer Price Index (CPI) inflation for both the UK and US and Harmonized Index of Consumer Prices (HICP) inflation for the Euro Area.
+There is some uncertainty around this range. Authors run 100 specifications of the model, to test the robustness of the threshold estimates to model uncertainty. These vary in sample periods (some going back as far as 1976), frequency (monthly, quarterly), variables and the number of regimes. 70% of specifications identify a threshold below 3.6%. Around half of specifications estimate a threshold between a narrower range of 3-3.2%.
+This supply shock takes the form of a final goods price mark-up shock. This captures changes in inflation beyond those which can be explained by markup gaps, expected future inflation and previous period inflation.
+The market curve is the path for policy rates in advanced economies implied by financial markets, as captured in the 15 working day averages of forward interest rates to 29 July 2025.
+The per-period loss function is specified as:
+\[L_{t} = \left (\pi_{t}-\pi^{*} \right)^{2} + \lambda(y_{t}-y_{t}^{*})^{2} + \delta(\Delta i_{t})^{2}, \; \text{where} \; \lambda = 0.25 \; \text{and} \; \delta = 50\]
+The parameter attached to the output gap deviations, λ, measures how wide an output gap the policymaker is willing to bear in order to keep inflation close to target. The parameter captures preferences over interest-rate smoothing. The model also assumes bounded rationality – agents in the model have perfect foresight of how the economy will evolve, but they discount their knowledge of the future. For more details, see the Annex to (
+Broadbent, 2022
+) and (
+Carney, 2017
+)
+.
+Geopolitical risk (GPR) has been quantified through the development of an index based on the number of articles covering adverse geopolitical events in major newspapers.
+The Megarian decree of 432BC, which banned trade between Megara and the Athenian Empire, is one of the earliest examples of economic statecraft (
+Chan and Drury, 2000
+).
+The Megarian decree of 432BC, which banned trade between Megara and the Athenian Empire, is one of the earliest examples of economic statecraft (
+Chan and Drury, 2000
+).
+Close
+Geopolitical risk (GPR) has been quantified through the development of an index based on the number of articles covering adverse geopolitical events in major newspapers.
+Close
+The per-period loss function is specified as:
+\[L_{t} = \left (\pi_{t}-\pi^{*} \right)^{2} + \lambda(y_{t}-y_{t}^{*})^{2} + \delta(\Delta i_{t})^{2}, \; \text{where} \; \lambda = 0.25 \; \text{and} \; \delta = 50\]
+The parameter attached to the output gap deviations, λ, measures how wide an output gap the policymaker is willing to bear in order to keep inflation close to target. The parameter captures preferences over interest-rate smoothing. The model also assumes bounded rationality – agents in the model have perfect foresight of how the economy will evolve, but they discount their knowledge of the future. For more details, see the Annex to (
+Broadbent, 2022
+) and (
+Carney, 2017
+)
+.
+Close
+The market curve is the path for policy rates in advanced economies implied by financial markets, as captured in the 15 working day averages of forward interest rates to 29 July 2025.
+Close
+This supply shock takes the form of a final goods price mark-up shock. This captures changes in inflation beyond those which can be explained by markup gaps, expected future inflation and previous period inflation.
+Close
+There is some uncertainty around this range. Authors run 100 specifications of the model, to test the robustness of the threshold estimates to model uncertainty. These vary in sample periods (some going back as far as 1976), frequency (monthly, quarterly), variables and the number of regimes. 70% of specifications identify a threshold below 3.6%. Around half of specifications estimate a threshold between a narrower range of 3-3.2%.
+Close
+These figures refer to Consumer Price Index (CPI) inflation for both the UK and US and Harmonized Index of Consumer Prices (HICP) inflation for the Euro Area.
+Close
+The restoration of the standard VAT rate (at 17.5%) in January 2010 and subsequent increase to 20% in 2011 also contributed, along with the continued effects of sterling’s post-GFC depreciation.
+Close
+Convert this page to PDF
+Megan Greene
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

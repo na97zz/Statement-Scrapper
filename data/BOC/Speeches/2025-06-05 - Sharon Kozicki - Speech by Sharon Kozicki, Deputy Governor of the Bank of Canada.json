@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Sharon Kozicki, Deputy Governor of the Bank of Canada",
+  "date_original": "2025-06-05",
+  "date_au": "05/06/2025",
+  "datetime_original": "",
+  "speaker": "Sharon Kozicki",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2025/06/speech-sharon-kozicki-june-5-2025/",
+  "raw_file_path": "data\\BOC\\Speeches\\2025-06-05 - Sharon Kozicki - Speech by Sharon Kozicki, Deputy Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2025-06-05 - Sharon Kozicki - Speech by Sharon Kozicki, Deputy Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:58:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3c8ebbe2f198c075e27bee3071aa526fe321881f7ef88f52fb6c30fe3e62c9f1"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Future of Banking",
+  "date_original": "2024-02-02",
+  "date_au": "02/02/2024",
+  "datetime_original": "",
+  "speaker": "The Future of Banking",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240202a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-02 - The Future of Banking - The Future of Banking.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-02 - The Future of Banking - The Future of Banking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f6cb9701853a31a31db4e28464ac6142203a278f0dcd8d4803dccaabeee099c1"
+}

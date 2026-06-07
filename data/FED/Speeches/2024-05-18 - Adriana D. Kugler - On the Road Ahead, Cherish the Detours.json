@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "On the Road Ahead, Cherish the Detours",
+  "date_original": "2024-05-18",
+  "date_au": "18/05/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20240518a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-18 - Adriana D. Kugler - On the Road Ahead, Cherish the Detours.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-18 - Adriana D. Kugler - On the Road Ahead, Cherish the Detours.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8dcec8436fb96971879508de24d2c3b3bb6df51d77a053b6058655bffd7493fe"
+}

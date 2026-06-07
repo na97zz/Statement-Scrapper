@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Shizuoka (via webcast))",
+  "date_original": "2021-06-02",
+  "date_au": "02/06/2021",
+  "datetime_original": "",
+  "speaker": "ADACHI Seiji",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210602a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-06-02 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Shizuoka (via webcast.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-06-02 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Shizuoka (via webcast.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "45446dba5d9403039f42dbe2071e5f535107239acf6630503d1e56380563737e"
+}

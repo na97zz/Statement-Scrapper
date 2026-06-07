@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Reflections on Monetary Policy in 2021",
+  "date_original": "2022-05-06",
+  "date_au": "06/05/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220506a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-05-06 - Christopher J. Waller - Reflections on Monetary Policy in 2021.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-05-06 - Christopher J. Waller - Reflections on Monetary Policy in 2021.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "237b08906de96fe3e4c1a24a2fcd8c989f5d1e2fbd727fda7c24bb30638f9c8a"
+}

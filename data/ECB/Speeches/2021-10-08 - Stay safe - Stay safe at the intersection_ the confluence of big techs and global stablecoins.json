@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Stay safe at the intersection: the confluence of big techs and global stablecoins",
+  "date_original": "2021-10-08",
+  "date_au": "08/10/2021",
+  "datetime_original": "",
+  "speaker": "Stay safe",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211008~3c37b106cf.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-10-08 - Stay safe - Stay safe at the intersection_ the confluence of big techs and global stablecoins.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-10-08 - Stay safe - Stay safe at the intersection_ the confluence of big techs and global stablecoins.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f2a19eea2b8401bb365c54fcd85f237f4d5d3cca07e668b4f97a8e9769ea11ca"
+}

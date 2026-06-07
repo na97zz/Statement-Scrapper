@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Progress on Fast Payments for All: An Update on FedNow",
+  "date_original": "2022-08-29",
+  "date_au": "29/08/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220829a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-08-29 - Lael Brainard - Progress on Fast Payments for All_ An Update on FedNow.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-08-29 - Lael Brainard - Progress on Fast Payments for All_ An Update on FedNow.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a1ba167c283ffa63e7f3c8624b013382ed15860ae70de639b4572e6fee7bd5b7"
+}

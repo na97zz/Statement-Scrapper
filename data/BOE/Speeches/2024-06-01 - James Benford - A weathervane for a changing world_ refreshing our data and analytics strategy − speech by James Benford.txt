@@ -1,0 +1,167 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford
+DATE: 01/06/2024
+SPEAKER: James Benford
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/march/james-benford-speech-at-the-big-data-ai-world-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford
+Given at Big Data and AI World, part of Tech Show London, at the ExCeL centre, Royal Victoria Dock, London
+Published on 
+
+ 07 March 2024
+The Bank’s Data and Technology areas are leading a refresh of the Bank’s data and analytics strategy. The new Bank-wide approach will strengthen data governance and management, enhance external data sharing, stand up a new platform on the Cloud and explore pilots of AI tools. The approach on skills is broadening and data will be established as a profession.
+Speech
+Good morning. It is a pleasure to be here to speak to you today.
+I will talk today on the steps underway at the Bank of England, between our data and technology areas, to update our data and analytics strategy.
+It’s important for two reasons.
+First, the way we collect and use data has implications far beyond the organisation itself.
+The Bank sets the main interest rate in the economy to meet our inflation target of 2%. We produce and circulate banknotes and oversee the smooth running of payment system. We regulate UK banks, building societies, insurers and large investment firms to make sure they are being run in a safe and sound way. We monitor risk across the UK financial system as a whole, taking action to mitigate it where needed. We can support the financial system by lending to it when and where needed. Where firms run into difficulties, we ensure this doesn’t cause problems for protected depositors, for taxpayers or the wider economy.
+Across all these areas, data and analysis drive policy decisions the Bank makes and how we communicate them.
+Further, data we collect and how we collect it affects over 2000 financial institutions that report to us and contributes to over 37½ thousand published data series which are core to UK and global financial statistics.
+Second, I hope that sharing our experience will be of use to others. Plotting a course on data for complex, long-standing organisations is not straightforward, particularly during periods of rapid technological change.
+The Bank and its history with data
+I will start by saying a bit about the Bank’s history with data.
+That context explains where we are today and shapes the priorities for the next stage.
+Data are the lifeblood of the Bank and analytics the beating heart behind our decisions. We cannot take effective decisions to discharge our functions without detailed information and expert analysis about the economy and financial system. It has always been thus, right back to when the Bank was founded as a private bank in 1694.
+There are many historical examples, but my favourite goes back to 1805 when a wind dial was put up in the Court room in the Bank, effectively our boardroom, linked to a vane on the roof. Back then, the weather was an important regular influence on the economy and that dial drove the Bank’s decisions on monetary policy. When the wind came in from the east, ships would be sailing up the Thames to unload their goods. The Bank would then put more money in circulation, so traders could purchase goods as they were unloaded. If the wind came from the west, the Bank would pull back excess money, to stop too much money chasing fewer goods, tempering inflation.
+Over two hundred years later, we talk of real-time dashboards driving decisions in the board room. The technology is different and there are a lot more data, but the intent is identical.
+Production of statistics by the Bank can be traced back to 1851, when the Cashier’s office was collating things like the average price of wheat and metals; gold and silver bullion holdings and exchanges; and, of course, interest rates. These were brought together in a book of ‘Periodical Fluctuations’, first compiled in 1875. By 1921, the first department at the Bank dealing with economic and financial statistics was formed producing estimates for the economy as a whole, including for the balance of payments. In 1960, we began to publish the Bank of England Quarterly Bulletin, with an economic commentary, articles and a statistical annex. Monetary and financial statistics moved online in 2000.
+Collections to support how we regulate firms in the financial sector have a shorter, though more complex history. The Bank’s supervisory powers came with the Banking Act in 1979 in the aftermath of the secondary banking crisis. Collections later took on an international imperative following the first Basel Accord in 1991. The third iteration on Basel regulations, following the 2008 global financial crisis gave us, initially under an European purview, the system of some 200 regular regulatory returns we have today. The move of supervision from the Bank to the financial services authority in 1997, and its return to the Bank in 2013 means there is a complex reporting system in the UK where some collections come to the Bank from the Financial Conduct Authority, and some come direct. The UK’s departure from the European Union has given us a valuable opportunity to review the approach and rationalise what is collected.
+Data in use in the Bank today
+Given the theme of this conference, I thought I would say a bit about some fairly unique big data sets the Bank has access to from the data we collect and the data we generate from our own operations. Around 40 are managed through an on-premise data and analytics platform which offers additional computing power to crunch the numbers. I’ll give you four examples.
+The largest big dataset arrives from trade repositories, who on a daily basis send us around 100 million rows of data on individual derivatives transactions and positions and around 15 million rows of data on securities financing transactions and positions. Our financial stability area has built up a range of tools to interrogate this data set every day and to monitor and flag the build-up of risk in the system.
+Second, we also have a large household-level dataset encompassing quarterly reporting at the loan level on the 9.5 million mortgages in the UK,
+footnote
+[1]
+which has been in vital to tracking and understanding the impact of recent increases in Bank Rate.
+Third, to support our analysis of the health of UK companies, we draw on a large company level dataset covering the balance sheet and profit and loss for 1,500
+footnote
+[2]
+firms in the UK. It was used to understand pressures on balance sheets through the pandemic with those insight going not just to our Monetary and Financial Policy Committees but also to HM Treasury to help them design and run various corporate loan schemes. We also run a monthly Decision Maker Panel survey of more than 2000 firms
+footnote
+[3]
+up and down the country.
+Fourth, all electronic payments in the UK run through the real time gross settlement system or RTGS, which the Bank runs. RTGS processes over £775 bn
+footnote
+[4]
+of payments each working day providing the Bank with a unique window on the economy. As well as putting it to use internally with the MPC, we made cuts of the data available to the ONS during the pandemic to help them track what was happening to spending in the economy.
+Updating the Bank’s Data and Analytics Strategy
+Building a data platform powerful enough to assemble and interrogate those big datasets was one cornerstone of the Bank’s previous data and analytics strategy. The strategy focused on enablement and established a broader data community across the Bank and equipped our analysts with modern analytical tools. One in four people at the Bank are now a member of our data community and one in five are cutting code regularly in R or Python to carry out their analytical work. Six in ten are interrogating data through one of our new interactive dashboards. Progress embedding these tools across the business has been accelerated by a central analytics enablement hub, which has now partnered with teams across the business on over 30 projects to modernise regular analytical processes.
+While our previous strategy succeeded in driving the adoption of a modern set of tools and techniques in some parts of the Bank, progress was uneven and hampered by a number of barriers. The Bank’s Court of Directors commissioned our Independent Evaluation Office (IEO), to take stock on the Bank’s approach and make a set of recommendations on where to go next. That review started last year and initiated the process to refresh and update our approach. Let me walk you through the seven steps underway.
+Step 1: Independent Review
+Having an independent unit reviewing what we do at the Bank is very powerful; it helps increase public trust in us and improve our openness, and these evaluations have led to positive changes in how we work at the Bank.
+The IEO’s over-arching question was ‘Is decision-making to support the Bank’s policy objectives informed by the best available data, analysis and intelligence, and can it expect to be so in the future?’
+Its conclusions were released last October 2023. It recognised both the big strides the Bank had made in recent years and the distance still to travel. There has been a nervousness in adopting new technologies, notably cloud solutions, and changing established ways of working. There was a tendency also towards siloed ways of working and localised solutions.
+The report set out ten detailed recommendations, under three key themes. The first called for the Bank to agree a clear, updated vision for data and analytics, supported by a comprehensive strategy and governance. The second recommends a breaking down of institutional, cultural and technological barriers. The third encouraged us to broaden and deepen our efforts to equip staff with the necessary tools and skills to work effectively with data.
+The fact that there is plenty still to do is no surprise. The Bank is a complex institution with a long history where almost all areas work with data and analytics in some way. Its functions have evolved organically overtime reflecting the changing nature of its responsibilities. All strategies need themselves to evolve reflecting the changing challenges as well as the opportunities that come with new technologies.
+Step 2: Define a governance structure to shape a collective response
+Responding to the recommendations following from a review is itself an opportunity to form and embed a collective ownership.
+Before we got started revising a strategy, our second step was to strengthen the Bank’s governance arrangements and form at Executive level, a new Data and Analytics Board, co-chaired between the Chief Data Officer, myself, and Chief Information Officer, Nathan Monk. The Board reports to Court and has responsibility for the agreeing, maintaining and taking forward the Bank’s Data and Analytics strategy. It has on it a Director representing each area of the Bank, as well as key areas in the centre like People and Change.
+It brings together a federated system of local data boards. Each agree priorities for areas of the business, placing their own call on the overall strategy, and standing up projects to meet local need. Creating that system has catalysed all parts of the Bank to be clear and specific around their priorities for improving the way they use data to support their business objectives and is helping tighten up responsibilities around critical analytical process and the data sets that feed them.
+We have set up a D&A Business Partners function in the centre to work with corresponding functions in technology and in people to glue the pieces together. They provide a Bank-wide service, identify opportunities to collaboratively solve data and analytics issues that span multiple business areas, as well as facilitating their more efficient resolution. An initial focus of the partners has been helping all local areas to identify their priorities and the initiatives to take them forward.
+Following a recommendation in the review, we also set up an expert Technology and Data Advisory Panel to provide continual advice and challenge on the Bank’s approach, including by keeping us in step with the very latest technologies.
+Step 3: Define medium term strategic goals
+In the third step, we drew together from the business aims their aims for driving decisions with data and then worked up priority areas of change.
+In the Bank’s policy areas, the common aim is to put interactive dashboards in the hands of those on our policy Committees or the staff who present to them. These dashboards allow colleagues to interrogate data and the outputs of models much more easily. Doing so can cut through the iterative and often time consuming processes of decision-makers tasking questions on the data to analytical teams, awaiting a written report and commissioning another with follow ups.
+The Bank’s markets and banking area is looking both to use real-time data to inform live operational decisions and to harvest data from operations to shine a light on the economy and financial system.
+We are looking to broaden our use of management information to inform our corporate policies, building on the success of a scorecard to track progress on diversity outcomes.
+On the Bank’s data collections, we are seeking to get the right data in the building, at the right quality, at the lowest achievable cost, including to reporters.
+The big areas we are seeking to change across the organisation as a whole are grouped into 4 missions. Stronger data governance and management to make it easier to find, access and connect the data they need. Work with UK and international organisations to share data and drive adoption of data standards and best practices. A new cloud platform to modernise how we analyse data and inform decisions. Applications of innovative technologies such as artificial intelligence that build on it.
+Underpinning this is a set of ‘foundations’, focused heavily on people, process and technology.
+For each of these missions and foundations, we agreed a set of specific change goals with a three-to-five-year horizon in mind.
+Step 4: Agree principles and a consistent data architecture to guide approach
+In the fourth step, to guide a common approach, drawing on the National Data Strategy and the approach of organisations like the Office for National Statistics, we agreed a set of D&A Principles to set the tone at all levels of the organisation:
+We take a Bank-wide approach: we build from shared systems, use common data and collaborate on analysis
+That doesn’t mean one-size fits all. The second principle is to start with business outcomes and use data to support them, including by enabling experts in the business to build the tools they require
+We manage our data consistently, securely, transparently and ethically, promoting trust, extensive sharing and safe innovation
+We have begun to refresh various corporate policies and frameworks to bring these principles to life and ensure they have teeth.
+Specific standards on data management and analytical processes are now incorporated within the Bank’s Code. These provide staff with comprehensive guidance on data management and analytical processes and are informed by industry best practice. As well as tightening up local processes, the new policies are helping to populate a central register of core analytical processes and underpinning datasets, supporting their discoverability.
+An important and immediately impactful step has been rapid work in Technology to draw up a target data architecture to meet the goals in the strategy and embody the principles so there is compliance with them by design. At its heart is a new Cloud strategy and an ambition to manage the Bank’s data on the cloud unless there is a strong reason not to. The components of the architecture have now been agreed. It is now the North Star for every live project and programme embodying technological change in the Bank, ensuring that each works towards the data strategy.
+Our aim is that in time all of our data will be held in one lake or connected to it, described in a single, searchable catalogue, and connected with an integrated suite of analytical tools.
+Work started between Data and Technology before Christmas to explore various proof of concepts to test thinking to connect our data and analytics platform to the cloud and we are now moving on to develop a minimum viable product for a cloud platform to create an environment where pilots can be stood up against prioritised use cases in the business.
+Step 5: Agree immediate priorities for a data portfolio
+Step 5, marshalled by our Change and Planning function, was to prioritise the investment portfolio for the year ahead. This year we took a different approach on the investment portfolio by bringing all the experts and decision makers together at an offsite to agree prioritisation principles and effect them. In the data part of the portfolio, we agreed three priority business-facing programmes for the year ahead:
+First, and most advanced is the completion of work to move the Bank’s systems for producing, storing and disseminating financial statistics to the Cloud, unlocking productivity gains and new analytical capabilities
+Second, to renew the system that underpins the Bank’s management and analysis of macroeconomic and financial market data and forecasting to enhance the support provided to the Bank’s decisions on monetary policy.
+Third, to transform the Bank’s approach to regulatory data collections, through a phased approach to delivery that aligns with the planned ‘Banking Data Review’ of regulatory reporting.
+These three business-facing programmes will build on a Bank-wide Data & Analytics (D&A) Modernisation programme, jointly between Data and Technology, tasked with effecting the agreed data strategy, including providing the common governance and cloud platform for others to build from.
+Getting the right mix of prioritised set of business facing initiatives, or ‘verticals’, and a capability-focused foundation, or ‘horizontal’, is critical to success. An approach focused solely on capability can risk the build of a platform to nowhere. Having only business facing initiatives could risk an incoherent whole – the creation siloes on the cloud. Having both verticals and a horizontal provides a route to targeting the capability build at important and urgent business needs, whilst maintaining coherence across the organisation.
+As well as serving the three large business-facing initiatives, the D&A modernisation programme is managing a controlled set of pilots of AI tools across the Bank. These are targeted against an initial set of tightly defined use cases in different areas of the business, overseen by an AI Taskforce led between Data and Technology. We are choosing these pilots to hone an AI portfolio that has good coverage across different areas of the Bank and to help us explore all areas of recent advances in AI. We are testing both off the shelf, ‘Copilot’ tools, as well as more bespoke applications.
+The programme is also driving a revised approach on skills, joint with our People area. Data will be an early pilot of an approach to establish a formal Professions model in the Bank, similar to that used across the civil service. We are using that to define different types of data roles, from scientists, to architects and engineers, to develop learning pathways and sharpen career proposition. We have recently refreshed our data apprenticeships with the aim of increasing numbers and have embedded a week of learning on data and analytics within the graduate programme. We are going beyond a menu of technical courses to a broader data literacy proposition for all roles.
+Step 6: Seize the opportunity of change to rework end-to-end operating models
+Change presents a golden opportunity to step back and our sixth step is to re-shape ways of working. We are taking a user-centric approach, to identify pain points and missed opportunities in current processes, and applying service-design principles to re-organise fundamentally our processes and set clear requirements for the new systems we are building. The nature of the pain points vary and solutions need to be tailored to those circumstances. Viewed end-to-end the process feeding an ultimate decision can span many different areas of an organisation and can often extend beyond it. Modern technology, from process automation through to artificial intelligence, can unlock both important efficiency gains, enhance analytical capabilities and unlock entirely new possibilities.
+In our work to transform statistical production and macro-financial analysis, we are looking afresh at the business processes involved and looking to find efficiency gains and to enhance capabilities.
+Most ambitious here are our plans to Transform Data Collection, jointly with the Financial Conduct Authority (FCA). Reporting to the Bank and the FCA is a complex and large activity. In 2019, the annual cost of reporting obligations for UK banks was estimated at between £2 and £4½ bn
+footnote
+[5]
+– an indicator both of the scale of the challenge and the size of potential prize. The aim is to build a system that provides the right data at the lowest possible cost. Though our primary focus, given the imperative of the Banking Data Review, is on data collated from banks, the ambition is to build a new approach and framework that can be applied more broadly to other collections at the Bank. We will publish an update to industry on our joint plans with the FCA for the coming year by the end of the month.
+Step 7: Publish and mobilise to execute the plan, to track and manage the risks and the benefits
+Our seventh and final step is to publish our plan and mobilise to effect it. We committed as part of the management response to last year’s review to publishing a three-year roadmap with the Bank’s annual report in June. That commitment is already proving a valuable device to focus attention at a senior level on agreeing the plan, including prompt for business areas to think through what they may need in the years ahead.
+Execution requires different skillsets to strategy and design. We are currently mobilizing the resources required between our platform engineering teams in technology and partner teams in data and looking also at how we partner externally. We are making sure we have the right structures to manage dependencies, commonalities and sequencing across the data portfolio, and systems to manage the risks and to track the benefits.
+An ongoing commitment to report on progress to Court, our Board, will maintain focus on the value created and efficiency gains made and be an important device to managing risks to execution including those that come through broader dependencies.
+Conclusion
+There you have them. Our next seven steps towards data heaven.
+We are bringing and connecting all our data together, modernising our analytical process, upskilling our workforce so all can take advantage of the very latest tools. We are taking the opportunity to look at how we connect externally and re-working our business processes.
+Transformation won’t happen overnight, but we will keep at it and report regularly on progress and our process to share our learnings and so you can feedback and hold us to account.
+Thank you for listening.
+Acknowledgements
+I would like to thank Jasbir Lally and Pooja Prem for helping me to prepare these remarks and Kat Harrington, Dorothy Fouracre, Beth Hall, Will Parry, Susie Philp, Rajveer Berar, Scott Brind, Phoebe Pryor-Hilliard, Rebekah O’Toole and Noor Rassam for feeding in various facts. Work to respond to the IEO review and refresh our data strategy was spearheaded by a great leadership team in the Data and Analytics Transformation Directorate (DAT), including Martine Clark who heads up Data and Statistics Division and brought together our new principles, Peter Eckley who heads up Data Strategy, Paul Robinson who heads up Advanced Analytics and co-chairs our AI taskforce, and David Learmonth who ran the strategy refresh for us. Nathan Monk, William Lovell (the second co-chair of the AI taskforce), Iro Lyra and Rahul Pal in Technology drove work at pace to design our new data architecture and draw up a new cloud strategy. Jo Hill and Rebecca Braidwood in change and planning led the reshape of the Bank’s investment portfolio and our approach to prioritising and managing it. Jane Cathrall and Natasha Oakley in People are working on a new talent offer at the Bank, in which Mohini Subhedar in DAT is piloting data as a profession and a data literacy framework for all roles. Thank you also to Andrew Bailey, Chris Duffy, Huw Pill, Rhys Phillips, Fiona Shaikh for comments.
+PSD007 Mortgage Performance Data, 2023 H1.
+PRA regulated firms:
+Which firms does the PRA regulate? | Bank of England
+.
+Decision Maker Panel Data, January 2024:
+Monthly Decision Maker Panel data - January 2024 | Bank of England
+.
+RTGS and CHAPS annual report:
+Real-Time Gross Settlement (RTGS) system and CHAPS Annual Report 2022/23 | Bank of England
+.
+See the
+Future of Finance Report
+(2019).
+See the
+Future of Finance Report
+(2019).
+Close
+RTGS and CHAPS annual report:
+Real-Time Gross Settlement (RTGS) system and CHAPS Annual Report 2022/23 | Bank of England
+.
+Close
+Decision Maker Panel Data, January 2024:
+Monthly Decision Maker Panel data - January 2024 | Bank of England
+.
+Close
+PRA regulated firms:
+Which firms does the PRA regulate? | Bank of England
+.
+Close
+PSD007 Mortgage Performance Data, 2023 H1.
+Close
+Convert this page to PDF
+James Benford
+Former Executive Director for Data and Analytics Transformation and Chief Data Officer from 2023 to 2025
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

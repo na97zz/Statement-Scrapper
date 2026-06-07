@@ -1,0 +1,261 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Is ‘crypto’ a financial stability risk? - speech by Jon Cunliffe
+DATE: 01/06/2021
+SPEAKER: Jon Cunliffe
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2021/october/jon-cunliffe-swifts-sibos-2021
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Is ‘crypto’ a financial stability risk? - speech by Jon Cunliffe
+Given at SIBOS
+Published on 
+
+ 13 October 2021
+Jon Cunliffe looks at the impact of ‘crypto’ on the stability of the UK’s financial system.
+He says unbacked crypto-assets (eg Bitcoin) and backed crypto-assets for payments (stablecoins) have begun to connect to the financial system. And he talks about how regulators are responding to their rapid growth.
+Speech
+I want to talk today about whether the world of ‘crypto finance’ poses risks to financial stability.
+Cryptoassets have grown by roughly 200% in 2021, from just under $800 billion to $2.3 trillion today. They have grown from just $16 billion 5 years ago. $2.3 trillion of course needs to be seen in the context of the $250 trillion global financial system. But as the financial crisis showed us, you don’t have to account for a large proportion of the financial sector to trigger financial stability problems – sub-prime was valued at around $1.2 trillion in 2008
+footnote
+[1]
+.
+When something in the financial system is growing very fast, and growing in largely unregulated space, financial stability authorities have to sit up and take notice. They have to think very carefully about what could happen and whether they, or other regulatory authorities, need to act.
+At the same time, they need to be careful not to over-react – particularly when faced with the unfamiliar. We should not classify new approaches as ‘dangerous’ simply because they are different. Innovation, technology and new players can tackle longstanding frictions and inefficiencies and reduce barriers to entry. Throughout history, they have been key to driving improvement and to increasing resilience in financial services.
+I will give you my conclusions at the outset. Crypto technologies offer a prospect of radical improvements in financial services. However, while the financial stability risks are still limited, their current applications are now a financial stability concern for a number of reasons.
+Cryptoassets are growing fast and there is rapid development of new applications for the technology. The bulk of these assets have no intrinsic value and are vulnerable to major price corrections. The crypto world is beginning to connect to the traditional financial system and we are seeing the emergence of leveraged players. And, crucially, this is happening in largely unregulated space.
+Financial stability risks currently are relatively limited but they could grow very rapidly if, as I expect, this area continues to develop and expand at pace. How large those risks could grow will depend in no small part on the nature and on the speed of the response by regulatory and supervisory authorities.
+I will explain today what lies behind these conclusions and what they imply. First, however, we need to explore what lies behind the ‘crypto’ label in the financial system.
+Crypto itself is the underlying technology – the application of cryptographic innovation to the recording and to the transfer of the ownership of assets, often on public networks open to all. Recording and transferring ownership of assets is the bedrock of the financial system’s role in storing value and in making transactions. Crypto technology enables – though it does not require - recording and transfer to take place without the banks or custodians that have historically carried out this function.
+Within finance, the crypto label covers a multitude of different innovations in financial assets, markets and services. From a financial stability and from a regulatory perspective, what matters is not the underlying technology but how it is used and for what purpose. In other words, we should not regulate technologies but rather the activities the technology is performing. And in doing so, we need to ensure a consistent approach to risks, regardless of the technology used.
+I will not attempt a detailed taxonomy of all the crypto innovations in the financial sector - in all probability a few will have been added by the time I have finished speaking. But in order to discuss the most prominent risks, it is worth breaking them down into unbacked cryptoassets used primarily as speculative investments and backed cryptoassets intended for use as a means of payment. I will also touch briefly on the recent development of decentralised crypto platforms and markets that are beginning to offer a broad range of financial services.
+Unbacked cryptoassets
+Unbacked cryptoassets make up nearly 95% of the $2.3 trillion. They are essentially non-replicable strings of computer code that can be owned and transferred without intermediaries. Bitcoin, of course, is the most prominent example, but there are now nearly eight thousand unbacked cryptoassets in existence. These have no intrinsic value – that is to say there are no assets or commodities behind them: the value of the cryptoasset is determined solely by the price a buyer is prepared to pay at any given moment.
+As a result, their value is highly volatile. Bitcoin’s price movements have, for example, been twelve times more pronounced than that of the S&P500. For this reason, the main use of unbacked cryptoassets is for speculative investment. Some, like bitcoin, also have limited issuance and therefore claim to be a hedge against inflation. Although originally also mooted as a means of payment, the volatility of their value makes unbacked cryptoassets generally unsuitable for making payments - except for criminal purposes
+footnote
+[2]
+.
+Attitudes to unbacked cryptoassets, however, appear to be shifting – in the UK fewer holders now say they see them as a gamble and more see them as an alternative or complement to mainstream investment. Around half of existing holders say they will invest more
+footnote
+[3]
+.
+And while retail investment predominates in this market, there are signs of growing institutional investor interest, with these investors now thinking about whether to have crypto in their portfolio. More complex investment strategies are beginning to emerge, including crypto futures and other derivatives
+footnote
+[4]
+.
+At the same time, core wholesale finance and financial market infrastructure firms are putting their toes in the water. Several global banks are offering, or are planning to offer, digital asset custody services. Some international banks have started to, or are looking at, trading cryptoasset futures and non-deliverable forwards; and offering wealth management clients cryptoasset investments, following client demand. Others have developed exchange platforms facilitating matched trades, or offer customers access to other crypto exchanges through their apps. Leading payment firms are also exploring ways of allowing people and businesses to use certain stablecoins for payments and for the settlement of transactions within their networks.
+There are well founded concerns around unbacked cryptoassets in relation to investor protection, market integrity and financial crime. I will return briefly to these later, as they can have financial stability implications, although they are not usually the concern of financial stability authorities.
+A more direct issue from a financial stability perspective, given the unbacked and volatile nature of these assets, is the implications of a major price correction. Such major corrections have been relatively frequent in the short lifespan of unbacked cryptoassets. The price of bitcoin has fallen by over 10% in a single day on nearly 30 occasions in the past five years, with the largest of these -- a fall of nearly 40% following a cyber-incident at a prominent exchange -- coming in March last year.
+footnote
+[5]
+The forward looking question is what could result from such events, if these cryptoassets continue to grow at scale, if they continue to become more integrated into the traditional financial sector and if investment strategies continue to become more complex?
+In thinking about this, we should be clear that investors losing money on speculative investments does not, in and of itself, constitute a financial stability problem, though it may well be a major concern for authorities responsible for investor protection.
+It is a necessary feature of the financial system that investors who understand the risks of speculative investments can make losses, including large ones, as well as gains. The responsibility of the financial stability authority is to ensure that the system is resilient so that price corrections – and consequent losses – can occur without knock on effects on the financial system as a whole and without damage to the real economy.
+A comparison of two major price corrections illustrates the point.
+In the dot-com crash of the early 2000s investors lost over $5 trillion following a sharp correction in equities, with the technology-focussed NASDAQ losing over 75% of its value. In the months before the crash, the index had a market capitalisation of roughly $3.6 trillion and this followed five years of exuberant growth, averaging 42% each year. In this instance, the losses for investors were material but there was no loss of financial stability.
+By contrast, the collapse of the $1.2 trillion market in sub-prime mortgage backed securities in 2008 triggered the great financial crisis. In that case, the knock-on effects of a price collapse in a relatively small market was amplified and reverberated through an un-resilient financial system causing huge and persistent economic damage.
+Whether a major price correction is absorbed by the system, admittedly leaving some investors with very sore heads or whether it is amplified into a systemic impact depends on a number of key characteristics of how the asset is integrated into the financial system, especially interconnectedness and leverage. It depends also on the resilience of the system at the time of the correction – the liquidity in the system under stress and the ability of core elements of the system to absorb any losses.
+So a necessary thought experiment from a financial stability perspective is what would happen in the financial system if there was a massive collapse in the price of unbacked cryptoassets - at the extreme end, if the price fell to zero.
+Such a collapse is certainly a plausible scenario, given the lack of intrinsic value and consequent price volatility, the probability of contagion between cryptoassets, the cyber and operational vulnerabilities, and of course, the power of herd behaviour. Indeed the stress test scenarios to which we and other authorities subject the banking system are if anything much further into the tail of the probability distribution. The financial system is far more resilient today than it was in the recent past, following the reforms put in place in the post-crisis period. Of course, this does not mean there are no challenges, as the market disruption at the onset of COVID-19 (the ‘Dash for Cash’) reveals.
+A massive collapse in cryptoasset prices, similar to what we have seen in tech stocks and sub-prime, is certainly a plausible scenario. In such a price correction scenario, the first question that arises is the degree of interconnectedness between crypto and the conventional financial sector.
+The simplest form of connections are direct exposures, people or institutions holding cryptoassets for speculative purposes. As a large proportion of this activity is still being carried out outside the traditional financial sector, regulators have a limited line of sight into who is holding these assets. It is clear, however, that there are a large number of retail investors in this space –FCA survey research estimates 2.3 million adults own cryptoassets in the UK alone
+footnote
+[6]
+. However, the possible losses to retail investors, while raising, as I have said, investor protection concerns, is currently unlikely by itself to be large enough to be a financial stability risk.
+The picture is less clear for financial institutions. It is useful to distinguish between institutional investors and banks. A recent report identified 150 to 200 specialist crypto hedge funds
+footnote
+[7]
+. The investors behind these funds are typically high net worth individuals and family offices. In many respects this is a similar story to that of retail investors, though we would expect more appetite to take leveraged positions in these sectors. (I would note in passing that the recent Archegos episode is an illustration of the damage that can be done to bank balance sheets by speculative and non-transparent fund leverage).
+There is also evidence of significant and growing interest from traditional hedge funds, though data are very limited – in one recent survey of hedge funds, 21% of respondents indicated they were currently investing in digital assets and digital assets averaged 3% of their assets under management
+footnote
+[8]
+.
+Banks on the other hand have, as yet, much more limited direct exposure to crypto with their activities largely consisting of agency services. However, there is clearly a prospect for the degree of interconnectedness to rise in the near future. We are starting to see proposals not just for agency services like custody and trading platforms but also for balance sheet exposure including offering broker-dealer services.
+In response to these developments, the Basel Committee on Banking Supervision is consulting on the capital treatment for cryptoassets on bank balance sheets
+footnote
+[9]
+. Banking industry bodies, however, have in turn been explicit in their view that the “[currently] limited exposure [of banks to crypto assets]…is neither desirable nor sustainable”
+footnote
+[10]
+.
+Direct exposures provide an immediate channel by which losses could be transmitted from cryptoassets to the existing financial sector. However, there are also potential second round or indirect effects which can spread the impact into other asset classes.
+For example, a severe fall in the value of cryptoassets could trigger margin calls on crypto positions forcing leveraged investors to find cash to meet them, leading to the sale of other assets and generating spillovers to other markets.
+We saw last year, during the dash for cash, that this dynamic can put pressure on the amount of liquidity in the system. Similarly, there is the possibility of contagion. A large fall in crypto valuations could affect investor risk sentiment more broadly, causing investors to sell other assets that are judged to be risky and those perceived to have a similar investor base.
+Interconnectedness creates the possibility that shocks are transmitted through the financial system. However, to gauge the possible impact of a price correction shock, we also need to look at the degree of leverage, given its amplification effect.
+We know that the possibility exists today for retail investors and institutions to take leveraged positions, through unregulated as well as regulated derivatives infrastructure - including leverage of up to 100 times. At present, it does not appear such services are widely used – our best estimate of the derivative markets that offer leveraged exposures to cryptoassets is that they total around $40bn. On the other hand, and similarly to the story for interconnectedness, there is evidence of rapid growth. To take one example, CME crypto futures trading volume has increased tenfold over this year to around $2bn a day.
+All of this needs to be seen in the context of the lack of transparency that makes assessment of the risks more difficult and of some of the broader issues around cryptoassets and the platforms on which they trade.
+I have mentioned the justifiable and growing concerns around investor protection, law enforcement and market integrity. These concerns – and the need for regulation to address them - have increasingly been highlighted, in particular by securities regulators
+footnote
+[11]
+. I will not set them out here.
+Risks in these areas are not the direct responsibility of financial stability authorities and do not normally pose risks to the financial system as a whole. But they can be a trigger for destabilising market corrections. And, as has been observed by the Financial Policy Committee of the Bank of England, at sufficient scale they can lead a damaging and general loss of confidence in the financial system
+footnote
+[12]
+.
+Taking together the volatility of unbacked and largely unregulated cryptoassets, their nascent but
+fast-growing integration into the financial sector and the appearance on the scene of leveraged players, my conclusion is that while a severe price correction would not cause financial stability problems now, all else equal, the current trajectory implies that this may not be the case for very long.
+Backed cryptoassets for payments use, aka ‘stablecoins’
+As I noted earlier, the price volatility of unbacked cryptoassets makes them unsuitable for use as a settlement asset in payment systems. In order to facilitate payments in cryptoassets, a number of cryptoasset models have emerged that are denominated in fiat money and backed with a pool of assets. The asset pool is intended to stabilise the value of the cryptoasset or ‘coin’ relative to the fiat peg – hence the name ‘stablecoins’.
+Stablecoins constitute a relatively small proportion of cryptoassets – at $130bn they make up just over 5% of all cryptoassets, though they have more than doubled since 2020, when they represented around 2% of the total. Their use in crypto payment systems has so far been mainly for payments within crypto markets, though there are some signs that they are just beginning to be used by wholesale financial market players and large corporates.
+There are, however, in prospect, a number of proposals, including from big tech platforms, to expand existing schemes or develop new ones as payment systems for use at scale by the general public.
+From a financial stability perspective, this poses rather different questions to those posed by unbacked cryptoassets used for speculative investments.
+Large scale retail payment systems, capable of performing millions of transactions per minute, are a key part of the core infrastructure of the financial system. Households and businesses depend on them, increasingly so given the trend away from physical cash in many advanced economies. Disruption to their continuous and effective operation, or loss of confidence in them can jeopardise financial stability and cause major economic damage.
+Technological advances and innovation have been welcome and powerful drivers of improvements in the speed, efficiency and functionality of the way we transact, not just in recent decades but throughout history.
+Crypto technology offers the prospect of further transformation in the way we pay and the use of money as a means of transaction. However, the development of stablecoins for general purpose use at scale cannot be allowed to come at the cost of lower standards or higher risks to financial stability. Regulatory authorities will need to ensure that the standards that apply to current systemic payment systems apply equally effectively to any systemic or likely to be systemic payment system using stablecoins.
+However, applying this principle of ‘same risk, same regulation’ to systemic payment systems based on stablecoins and crypto technology poses a number of a challenges.
+Unlike existing payments systems which operate in central bank or commercial bank money, stablecoin payment systems issue their own money, the ‘coin’. This raises fundamental issues around the safety and interoperability of private money used in our economies. Stablecoin arrangements can be decentralised on public networks, with no overarching entity responsible for their operation. They can also be structured in novel ways as sets of separately operated yet interdependent functions that can frustrate comprehensive, end to end, risk management.
+A major step towards ensuring the consistent application of international standards to crypto-based financial services was the publication by CPMI-IOSCO last week
+footnote
+[13]
+of a report, for consultation, on how the international standards for systemic payment systems, the Principles for Financial Market Infrastructures (PFMI) should apply to stablecoin arrangements.
+The report confirms that the international standards do apply to systemic or likely to be systemic stablecoin arrangements. Crucially, it provides guidance on how the standards apply to some of the novel features of stablecoin arrangements that distinguish them from existing payment systems. I will briefly describe a few of the most important elements.
+As I have noted, a particular challenge of stablecoin arrangements is that they can be organised to separate out the functions of creating the settlement asset itself, of transferring it between buyers and sellers and of storing it. The guidance makes clear that even if these functions are carried out by separate entities, the standards apply to the arrangement as a whole and that the entity carrying out the transfer function is responsible for managing the risks to its safe operation from other functions in the arrangement.
+The guidance also clarifies the high standards the ‘coin’ must meet if it is to settle payments.
+Existing payment systems are required to use the highest quality money -central bank or commercial bank ‘money’ with minimal liquidity or credit risk, as the settlement asset. In other words they transfer high quality liquid claims on the central bank or on commercial banks between the buyer and the seller.
+Central bank money, effectively a claim on the state, is the safest, highest quality money in modern advanced economies. For this reason, the PFMIs call for systemic payment systems and other financial market infrastructure to settle in central bank money where possible.
+Where central bank money is unavailable, systemic payment systems may use commercial bank money instead. The liquidity and creditworthiness of commercial bank money is underpinned by the extensive regulation of banks, by central banks’ lender of last resort function and by deposit guarantee schemes. This means that the money issued by a commercial bank in the form of deposit accounts can be exchanged, on demand and at par value for central bank or other commercial bank money whenever the holder desires.
+Stablecoin payment systems issue and use their own money – the coin - as the settlement asset between buyers and sellers. The guidance sets out that the assets backing the stablecoin should enable the coin to observe the same high standards of creditworthiness and liquidity that apply to money used in existing systemic payment systems. This is crucial to ensure that confidence in the coin can be maintained in normal times and in stress. To this end the guidance also covers users’ claim on the issuer and/or the underlying assets and their right to redeem in central bank or commercial bank money at par at least by the end of day.
+The stablecoins in circulation today are typically backed by a mix of commercial paper, short dated securities and cash
+footnote
+[14]
+. This backing model is not appropriate for use in systemic payments. If holders were to run from these stablecoins, the assets would not support all redemptions. First, there is a liquidity mismatch between these backing assets and the redemption profile needed to serve as a payment instrument and second stablecoin operators may face difficulties in selling the backing assets, particularly in stressed conditions. These backing structures closely resemble those used by money market funds, where the challenges set out above have materialised in the past
+footnote
+[15]
+. In addition, we have also seen that in periods of stress MMF type structures can generate additional financial stability concerns by putting pressure on system-wide liquidity
+footnote
+[16]
+.
+A further important element of the CPMI-IOSCO guidance covers governance and makes clear that a stablecoin arrangement needs to be governed by one or more discrete legal entities with accountability for the operation of the arrangement and for the management of risk. This includes ensuring that any wider interdependent functions within the arrangement are governed in such a way that the arrangement can meet this governance standard as a whole. A decentralized crypto-algorithm on the internet would clearly fail this requirement. I will return to this point briefly in the next section on decentralised finance.
+The guidance, now out for consultation, clarifies that the international standards for payment systems apply to stablecoin payment arrangements. The guidance will provide the foundation for regulation to bring systemic stablecoins within the regulatory perimeter. It will remain, of course, a decision for individual jurisdictions whether and, if so, under what regulation to permit the operation of systemic or likely to be systemic stablecoin payment systems
+footnote
+[17]
+.
+If implemented by jurisdictions, the guidance will, in my view, be likely to lead to changes in the structure of some existing stablecoin arrangements, including with regard to the asset pool and loss-absorbing capital and also with regard to the responsibilities of arrangement operators. The guidance should play an important role in enabling current and prospective stablecoin initiatives to design and structure their arrangements to come within the international standards.
+The standards do not address all of the potential financial stability risks from stablecoins used for payments at systemic scale. There is also the possible impact on the banking system. If households and firms shift to holding and using stablecoins for transactions, rather than holding and using commercial bank money in bank deposit accounts, there could, in some scenarios, be a material shift of deposits out of the banking system.
+A number of central banks have modelled and estimated the scale and nature of very similar possible impacts on the banking system from the introduction of a central bank digital currency (CBDC)
+footnote
+[18]
+.
+Future demand from households and firms for stablecoins, and the scale of any consequent substitution away from bank deposits, is impossible to predict with certainty. But a series of assessments have fairly consistently reached the conclusion that, with careful design and implementation, the steady state impacts of substitution from bank deposits would probably be limited, though there could be greater risks in the transition.
+It is not the responsibility of financial stability authorities to preserve any particular business models, including in banking. The banking system has, throughout its history adapted to technological innovation and competition from new players and it will need to continue to do so. (Indeed, banks have benefited in recent decades from the technological innovations that have driven transactions away from cash to electronic transfer of bank deposits). However, financial stability authorities do have a legitimate interest in ensuring any transition is smooth and does not generate instability.
+Decentralised Finance – ‘DeFi’
+Finally, I would like comment briefly on a more recent set of applications to finance of crypto technology on public networks– the rapid initial growth of decentralised finance, or ‘DeFi’.
+DeFi is a development that demonstrates the increasing complexity, and potentially growing risk in the crypto ecosystem. The label refers to decentralised, algorithm-based financial services that rely on smart contracts and are delivered over DLT platforms without intermediaries. The most prominent use for DeFi at present is the provision of credit. Lending currently represents nearly half of the DeFi market. However, the DeFi model and technology can be deployed to replicate a range of financial services such as savings, trading, insurance and derivatives. DeFi is very small at present but growing very fast, from less than $10bn at the start of 2020 to nearly $100bn last month.
+The highly decentralised and global structure of the DeFi sector along with the difficulty to trace end users provide a unique set of challenges for regulators.
+Even on an initial view it is clear that the sector is opaque, complex and undertakes financial activities that carry risk – activities that are regulated with the traditional financial sector. There are pronounced market integrity challenges given the absence of investor protection, AML and other market integrity provisions.
+Moreover, even were such provisions in place, there may be no one for regulators to engage and hold accountable. In practice, the degree of decentralisation currently varies across platforms. However, in an extreme form, a DeFi platform could be completely decentralised with no identifiable legal entity, ownership nor even a point of human contact.
+DeFi is still in its early infancy but its rapid growth means that regulators, domestically and internationally, need to think seriously now about the risks of a broad range of financial services being effected through DeFi platforms and how to ensure risks are managed in the DeFi world to the same standards as they are managed in traditional finance. At the Bank of England we have begun work to this effect.
+Conclusion
+At the beginning of this talk I set out my conclusion that while financial stability risks from the application of crypto technologies are currently limited, there are a number of very good reasons to think that all else equal this might not be the case for very much longer.
+All else is not, of course, equal. Although crypto finance operates in novel ways, well-designed standards and regulation could and should enable risks to be managed in the crypto world as they are managed in the world of traditional finance.
+Indeed, bringing the crypto world effectively within the regulatory perimeter will help ensure that the potentially very large benefits of the application of this technology to finance can flourish in a sustainable way. As the chairman of the SEC has observed, “financial innovations throughout history do not flourish outside public policy frameworks”
+footnote
+[19]
+.
+Developing the standards and regulation that effect those public policy frameworks is, and should be, a painstaking, careful process. But one cannot help observing that in the two years it has taken to develop the draft CPMI-IOSCO guidance, stablecoins have grown sixteen-fold, although admittedly only to a relatively small amount.
+Regulators internationally and in many jurisdictions have begun the work
+footnote
+[20]
+. It needs to be pursued as a matter of urgency.
+Technology and innovation have driven improvement in finance throughout history. Crypto technology offers great opportunity. As Emerson said: “if you build a better mousetrap the world will beat a path to your door”.
+But it has to be a truly better mousetrap and not one that simply operates to lower standards – or to no standards at all.
+Thank you.
+The views expressed here are not necessarily those of the Bank of England or the Financial Policy Committee. I would like to thank Natalia Dobrovolschi, Rachel James, Yuliya Baranova, Paul Bedford, Emma Butterworth, Tiago Dos Santos, Ronnie Driver, Owen Lock, Irina Mnohoghitnei, Matthew Osborne, James Pople Hoskins, Samantha Riley, Simon Scorer and Cormac Sullivan for their help in preparing the text. I would like to thank Andrew Bailey, Elisabeth Stheeman, Lee Foulger, Tom Mutton and Christina Segal-Knowles for their helpful comments on the text.
+Pinto, E (2010), ‘Sizing total exposure to subprime and Alt-A loans in US first mortgage market as of 6.30.08’
+Illicit activity where the benefits from anonymity outweigh the costs from volatility and fees. See for example FATF (2019), Guidance for a Risk Based Approach to Virtual Assets and Virtual Asset Providers. This dynamic was evident in a prominent early use of Bitcoin being the facilitation of transactions on the Silk Road, an online market place for illicit goods, and remains in evidence today, with a growing use of Bitcoin to facilitate ransomware attacks.
+FCA: Research Note: Cryptoasset consumer research 2021.
+There is currently more than $40bn open interest in cryptoasset derivatives - the majority of which is positioned on unregulated exchanges where margin calls can be as little as 1%. Mainstream institutional investors are primarily active on regulated exchanges such as the CME, which offers Bitcoin and Ethereum futures. Some hedge funds have begun to trade the basis between the cash asset and futures price, while a small number of asset managers have used futures to gain exposure without holding the ‘physical’ cryptoasset. And a small number of banks have begun offering their wealth management clients exposure to cryptoassets through futures and non-deliverable forwards on an agency basis.
+Forbes – ‘Here’s what caused Bitcoin’s extreme plunge’, Mar 19 2020.
+FCA: Research Note: Cryptoasset consumer research 2021.
+PWC, ‘Crypto Hedge Fund Report’ (May 2021).
+Based on 39 hedge funds surveyed in PWC’s ‘Crypto Hedge Fund Report’ (May 2021).
+BCBS: Prudential treatment of cryptoasset exposures – June 2021.
+Joint Trades Comment Letter on the Consultative Document on the Prudential Treatment of Cryptoasset Exposures – October 2021.
+By way of example, see recent statements from Nikhil Rathi ‘Seizing opportunity – challenges and priorities for the FCA’, 22 September 2021 and Gary Gensler ‘Remarks before the European Parliament Committee on Economic and Monetary Affairs’, 1 September 2021.
+For example, “The [Financial Policy] Committee noted that any loss of confidence in a payment system and the unit of payment within it could spill over and disrupt other payment activity, with broader implications for financial stability” (FPC Record, December 2019).
+The Committee on Payments and Market Infrastructures (CPMI) are the global standard setter for payment, clearing and settlement services at the Bank for International Settlements, and the International Organization of Securities Commissions (IOSCO) are the global standard setter for securities markets regulation.
+Per firms’ attestation reports (issued monthly or quarterly). The lack of disclosure requirements means there is limited transparency over the composition of stablecoin backing.
+Previous episodes include the experience of the Community Bankers U.S. Government Money Market Fund in 1994 as well as the experience of MMFs during the crises of 2008 and 2020.
+This is set out in greater detail in Bank of England ‘Assessing the Resilience of Market Based Finance’ (2021) and FSB ‘Policy Proposals to Enhance Money Market Fund Resilience’ (2021)
+For example, Chinese authorities have opted to prohibit the operation of cryptocurrencies, including stablecoins. See ‘China expands crackdown by declaring all crypto activities ‘illegal’’ Financial Times, September 24 2021’.
+See for example ‘New Forms of Digital Money’ (June 2021), Bank of England or ‘Central Bank Digital Currencies: Financial Stability Implications’ (September 2021), BIS and Seven Central Banks.
+Financial Times, 01 September 2021, ‘Crypto platforms need regulation to survive, says SEC boss’.
+For example the cross-regulator
+Cryptoassets Taskforce
+in the UK, the
+President’s Working Group on Financial Markets
+in the US and the proposal for a
+regulation on Markets in Crypto-assets (MiCA)
+in the EU.
+For example the cross-regulator
+Cryptoassets Taskforce
+in the UK, the
+President’s Working Group on Financial Markets
+in the US and the proposal for a
+regulation on Markets in Crypto-assets (MiCA)
+in the EU.
+Close
+Financial Times, 01 September 2021, ‘Crypto platforms need regulation to survive, says SEC boss’.
+Close
+See for example ‘New Forms of Digital Money’ (June 2021), Bank of England or ‘Central Bank Digital Currencies: Financial Stability Implications’ (September 2021), BIS and Seven Central Banks.
+Close
+For example, Chinese authorities have opted to prohibit the operation of cryptocurrencies, including stablecoins. See ‘China expands crackdown by declaring all crypto activities ‘illegal’’ Financial Times, September 24 2021’.
+Close
+This is set out in greater detail in Bank of England ‘Assessing the Resilience of Market Based Finance’ (2021) and FSB ‘Policy Proposals to Enhance Money Market Fund Resilience’ (2021)
+Close
+Previous episodes include the experience of the Community Bankers U.S. Government Money Market Fund in 1994 as well as the experience of MMFs during the crises of 2008 and 2020.
+Close
+Per firms’ attestation reports (issued monthly or quarterly). The lack of disclosure requirements means there is limited transparency over the composition of stablecoin backing.
+Close
+The Committee on Payments and Market Infrastructures (CPMI) are the global standard setter for payment, clearing and settlement services at the Bank for International Settlements, and the International Organization of Securities Commissions (IOSCO) are the global standard setter for securities markets regulation.
+Close
+For example, “The [Financial Policy] Committee noted that any loss of confidence in a payment system and the unit of payment within it could spill over and disrupt other payment activity, with broader implications for financial stability” (FPC Record, December 2019).
+Close
+By way of example, see recent statements from Nikhil Rathi ‘Seizing opportunity – challenges and priorities for the FCA’, 22 September 2021 and Gary Gensler ‘Remarks before the European Parliament Committee on Economic and Monetary Affairs’, 1 September 2021.
+Close
+Joint Trades Comment Letter on the Consultative Document on the Prudential Treatment of Cryptoasset Exposures – October 2021.
+Close
+BCBS: Prudential treatment of cryptoasset exposures – June 2021.
+Close
+Based on 39 hedge funds surveyed in PWC’s ‘Crypto Hedge Fund Report’ (May 2021).
+Close
+PWC, ‘Crypto Hedge Fund Report’ (May 2021).
+Close
+FCA: Research Note: Cryptoasset consumer research 2021.
+Close
+Forbes – ‘Here’s what caused Bitcoin’s extreme plunge’, Mar 19 2020.
+Close
+There is currently more than $40bn open interest in cryptoasset derivatives - the majority of which is positioned on unregulated exchanges where margin calls can be as little as 1%. Mainstream institutional investors are primarily active on regulated exchanges such as the CME, which offers Bitcoin and Ethereum futures. Some hedge funds have begun to trade the basis between the cash asset and futures price, while a small number of asset managers have used futures to gain exposure without holding the ‘physical’ cryptoasset. And a small number of banks have begun offering their wealth management clients exposure to cryptoassets through futures and non-deliverable forwards on an agency basis.
+Close
+FCA: Research Note: Cryptoasset consumer research 2021.
+Close
+Illicit activity where the benefits from anonymity outweigh the costs from volatility and fees. See for example FATF (2019), Guidance for a Risk Based Approach to Virtual Assets and Virtual Asset Providers. This dynamic was evident in a prominent early use of Bitcoin being the facilitation of transactions on the Silk Road, an online market place for illicit goods, and remains in evidence today, with a growing use of Bitcoin to facilitate ransomware attacks.
+Close
+Pinto, E (2010), ‘Sizing total exposure to subprime and Alt-A loans in US first mortgage market as of 6.30.08’
+Close
+Convert this page to PDF
+Sir Jon Cunliffe
+Former Deputy Governor, Financial Stability from 2013 to 2023
+Sign up for latest updates
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

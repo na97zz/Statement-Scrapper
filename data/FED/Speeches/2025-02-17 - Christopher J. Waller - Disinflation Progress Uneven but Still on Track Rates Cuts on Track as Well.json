@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Disinflation Progress Uneven but Still on Track Rates Cuts on Track as Well",
+  "date_original": "2025-02-17",
+  "date_au": "17/02/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250217a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-17 - Christopher J. Waller - Disinflation Progress Uneven but Still on Track Rates Cuts on Track as Well.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-17 - Christopher J. Waller - Disinflation Progress Uneven but Still on Track Rates Cuts on Track as Well.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "43b9870c081de7a0b2fa21f914ef4ac89b433273f8d2f818ff5345eeaf82639e"
+}

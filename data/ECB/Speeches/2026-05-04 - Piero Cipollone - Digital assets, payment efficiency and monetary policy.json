@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Digital assets, payment efficiency and monetary policy",
+  "date_original": "2026-05-04",
+  "date_au": "04/05/2026",
+  "datetime_original": "",
+  "speaker": "Piero Cipollone",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260504~3e75e8b138.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-05-04 - Piero Cipollone - Digital assets, payment efficiency and monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-05-04 - Piero Cipollone - Digital assets, payment efficiency and monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "93bf81ec38a2d6e015d340c9124964da76a123d3107865ead96276c0f612a5b1"
+}

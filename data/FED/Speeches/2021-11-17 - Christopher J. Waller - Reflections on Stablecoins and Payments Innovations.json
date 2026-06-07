@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Reflections on Stablecoins and Payments Innovations",
+  "date_original": "2021-11-17",
+  "date_au": "17/11/2021",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20211117a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-11-17 - Christopher J. Waller - Reflections on Stablecoins and Payments Innovations.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-11-17 - Christopher J. Waller - Reflections on Stablecoins and Payments Innovations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4de4b458a63acf3d4c98f4ebaf9d71753c58ddf5c83fcbfc891b87dd0a296858"
+}

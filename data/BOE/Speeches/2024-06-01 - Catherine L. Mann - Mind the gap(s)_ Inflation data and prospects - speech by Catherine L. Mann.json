@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Mind the gap(s): Inflation data and prospects - speech by Catherine L. Mann",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Catherine L. Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2024/february/catherine-l-mann-speech-at-the-official-monetary-and-financial-institution",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Catherine L. Mann - Mind the gap(s)_ Inflation data and prospects - speech by Catherine L. Mann.html",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Catherine L. Mann - Mind the gap(s)_ Inflation data and prospects - speech by Catherine L. Mann.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ee61405b26285a8bde8f401eb146ec66dff6d522dc13df56d52dd5ff2ca47fbe"
+}

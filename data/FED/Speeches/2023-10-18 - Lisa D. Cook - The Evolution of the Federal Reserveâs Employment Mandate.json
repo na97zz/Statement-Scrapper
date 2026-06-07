@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Evolution of the Federal Reserveâs Employment Mandate",
+  "date_original": "2023-10-18",
+  "date_au": "18/10/2023",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20231018a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-18 - Lisa D. Cook - The Evolution of the Federal Reserveâs Employment Mandate.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-18 - Lisa D. Cook - The Evolution of the Federal Reserveâs Employment Mandate.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0467738a60fae701a51275b52d8cb1cab930115fe81abfa0fa7854632388ba08"
+}

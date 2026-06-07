@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Private Money and Central Bank Money as Payments Go Digital: an Update on CBDCs",
+  "date_original": "2021-05-24",
+  "date_au": "24/05/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210524a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-05-24 - Lael Brainard - Private Money and Central Bank Money as Payments Go Digital_ an Update on CBDCs.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-05-24 - Lael Brainard - Private Money and Central Bank Money as Payments Go Digital_ an Update on CBDCs.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "597134fbfd8e6e27104992bc2a2387b42e7428782fa2ae158c4091a4fa256c73"
+}

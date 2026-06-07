@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Monetary Policy and the Fedâs Framework Review",
+  "date_original": "2025-08-22",
+  "date_au": "22/08/2025",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20250822a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-22 - Jerome H. Powell - Monetary Policy and the Fedâs Framework Review.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-22 - Jerome H. Powell - Monetary Policy and the Fedâs Framework Review.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7ad7ef0fbec5818fecaedd79e88c4c3b41de771c9bf0e2b31993ad34a2791b4c"
+}

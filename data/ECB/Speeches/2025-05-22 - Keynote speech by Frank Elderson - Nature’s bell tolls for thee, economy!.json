@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Nature’s bell tolls for thee, economy!",
+  "date_original": "2025-05-22",
+  "date_au": "22/05/2025",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Frank Elderson",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250522~b371549cb6.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-05-22 - Keynote speech by Frank Elderson - Nature’s bell tolls for thee, economy!.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-05-22 - Keynote speech by Frank Elderson - Nature’s bell tolls for thee, economy!.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "02e703eb7d08a6bea059ac0a3717c95d3c8f93f10491275cc8272dba3c4450a6"
+}

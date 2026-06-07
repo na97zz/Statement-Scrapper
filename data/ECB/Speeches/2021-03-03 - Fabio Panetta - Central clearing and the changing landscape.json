@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Central clearing and the changing landscape",
+  "date_original": "2021-03-03",
+  "date_au": "03/03/2021",
+  "datetime_original": "",
+  "speaker": "Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210303~3a3d6522b0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-03-03 - Fabio Panetta - Central clearing and the changing landscape.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-03-03 - Fabio Panetta - Central clearing and the changing landscape.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0d733bccdd88c64178b55a4ee70cd7dd85b39c89d82e2a1e125791a9f1f570ce"
+}

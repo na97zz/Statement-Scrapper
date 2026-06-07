@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Remarks on the Introduction of a New Series of Bank of Japan Notes",
+  "date_original": "2024-07-03",
+  "date_au": "03/07/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240703a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-07-03 - UEDA Kazuo - Remarks on the Introduction of a New Series of Bank of Japan Notes.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-07-03 - UEDA Kazuo - Remarks on the Introduction of a New Series of Bank of Japan Notes.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a54d87f32534160a304554dcf2d64a7d41ac223641ab54cdea28625173d9614a"
+}

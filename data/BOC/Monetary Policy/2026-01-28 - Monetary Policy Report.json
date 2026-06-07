@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report",
+  "date_original": "2026-01-28",
+  "date_au": "28/01/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/publications/mpr/mpr-2026-01-28/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2026-01-28 - Monetary Policy Report.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2026-01-28 - Monetary Policy Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "28de0678ef4e0b35593f8252f638cb74113b69396cb2203f2d2c96a824f6ca33"
+}

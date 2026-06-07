@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Expanding Financial Inclusion",
+  "date_original": "2025-07-15",
+  "date_au": "15/07/2025",
+  "datetime_original": "",
+  "speaker": "Expanding Financial Inclusion",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250715a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-15 - Expanding Financial Inclusion - Expanding Financial Inclusion.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-15 - Expanding Financial Inclusion - Expanding Financial Inclusion.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a9d3fe83a72f9b26e7c8631f62ba150d966a9790c3b63139ab7b3977af2383a2"
+}

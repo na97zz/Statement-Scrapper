@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The crucial role of financial stability in a central bank’s policy strategy framework - speech by Randall Kroszner",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Randall Kroszner",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/june/randall-kroszner-dinner-speech-at-ecb-conference-on-financial-stability-and-macroprudential-policy",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Randall Kroszner - The crucial role of financial stability in a central bank’s policy strategy framework - speech by Randall Kroszner.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Randall Kroszner - The crucial role of financial stability in a central bank’s policy strategy framework - speech by Randall Kroszner.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:11:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "830421454f863a29b7b259aab6821c2180e1bb6ca008069a2e5a185c1d23d3f2"
+}

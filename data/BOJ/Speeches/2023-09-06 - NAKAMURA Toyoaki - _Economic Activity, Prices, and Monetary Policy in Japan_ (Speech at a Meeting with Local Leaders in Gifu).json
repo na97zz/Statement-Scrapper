@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Gifu)",
+  "date_original": "2023-09-06",
+  "date_au": "06/09/2023",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230906a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-09-06 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Gifu).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-09-06 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Gifu).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "83d41f84036ff800ee0fedc140336919d0a8a4670da40b124f3bc2b9fe4b8ede"
+}

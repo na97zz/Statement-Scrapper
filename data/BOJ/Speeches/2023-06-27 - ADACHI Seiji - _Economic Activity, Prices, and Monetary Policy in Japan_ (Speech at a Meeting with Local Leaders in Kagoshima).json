@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kagoshima)",
+  "date_original": "2023-06-27",
+  "date_au": "27/06/2023",
+  "datetime_original": "",
+  "speaker": "ADACHI Seiji",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230627a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-06-27 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kagoshima).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-06-27 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kagoshima).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1dd9a81e0315227f19949a6693b853be851e3a55fe79b1e9b8523903af99dd84"
+}

@@ -1,0 +1,261 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: With leverage comes responsibility − speech by Jonathan Hall
+DATE: 01/06/2023
+SPEAKER: Jonathan Hall
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/june/jonathan-hall-speech-at-niesr
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+With leverage comes responsibility − speech by Jonathan Hall
+Given at the National Institute of Economic and Social Research
+Published on 
+
+ 20 June 2023
+Jonathan Hall outlines the dynamic nature of leverage and the tension between deleveraging activity and financial stability. He illustrates this with reference to the leveraged Liability Driven Investment structures that amplified the market shock of Autumn 2022.
+Speech
+Good morning. My name is Jonathan Hall and I am an external member of the Bank of England’s Financial Policy Committee. I am very happy to be with you here today at the National Institute of Economic and Social Research.
+Over the course of the next ~40 minutes I would like to discuss the dynamic nature of leverage and the tension between deleveraging behaviour and financial stability
+footnote
+[1]
+. Although my remarks apply to leveraged investors in general, I will illustrate my points with reference to the leveraged Liability Driven Investment (“LDI”) structures that amplified the market shock of Autumn 2022.
+In particular, I will argue that when asset prices decline, a leveraged investor only has three alternatives:
+Dynamically deleverage by selling assets into a declining market, amplifying market moves.
+Temporarily accept higher leverage, risking ‘cliff-edge’ deleveraging if prices fall further.
+Deleverage by raising capital.
+I will analyse in detail how the first two alternatives increase financial stability risks, particularly in the event of a negative price shock. This analysis applies to any strategy which results in an investor selling assets into a declining market.
+Alternative three is therefore the most preferable from a financial stability perspective, but only if investors take seriously their responsibility to have the liquid assets, and operational capabilities, necessary to meet any capital calls.
+I will then detail the Recommendations we set out in response to the events of late 2022, and highlight the importance of our ongoing work, including the recently announced System Wide Exploratory Scenario stress test.
+After that I look forward to discussing your thoughts and questions.
+A typical leveraged LDI investment
+It may be helpful if I begin with a specific example:
+Imagine that you are a small pension fund.
+After reviewing your liabilities to pension holders, you determine that you have an exposure to interest rates and inflation that is equivalent to £200 of a portfolio of long dated nominal and inflation linked UK Government Bonds (henceforth, “gilts”, which should be understood to capture both nominal and inflation linked bonds). The net present value of your exposure increases as gilt yields fall.
+You would like to reduce the risk of volatility of your fund with respect to interest rates. In order to fully do so you need to buy £200 gilts. Unfortunately, you only have £150. Although your corporate sponsor understands that they are obliged to cover any ultimate ‘funding gap’ shortfall, they are not able to provide cash today.
+A consultant suggests a pooled LDI structure run by a well-known manager.
+The structure is set up to borrow 50% of the market value of any gilts owned. Therefore, an investment of £100 will enable a purchase of £200 bonds, funded through 50% investment and 50% borrowing. This is a structure with 2X leverage, measured as total assets/(total assets - borrowing).
+The consultant explains that, because gilts are high quality assets, borrowing only 50% against your holding is low cost, and gives you a significant buffer even if prices fall.
+The consultant then suggests that with the remaining £50, you can invest in a range of assets that should on average return more than the risk-free return available on gilts. If successful this excess return will close the funding gap over time, reducing the obligation on the corporate sponsor.
+You enter into the structure. From then on, your focus is mainly on the purchased ‘other assets’. You receive an update on their performance and the state of the funding gap at your regular meetings. You make sure that the corporate sponsor is aware that, if the assets do not perform well, they may need to inject further capital over time.
+On the surface, the process above sounds sufficient, but it is missing a crucial element. In the scenario, you are not paying enough attention to the dynamic nature of leverage, and to ensuring that you have the capability (financial and operational) to meet any capital calls. Adverse moves in the underlying gilts will lead to an increase in leverage, which can only be reduced through asset sales or an injection of capital. If a capital call is made by the LDI manager but not met, then the gilt portfolio will start to be unwound. If that is allowed to happen then what was intended to be a permanent, volatility reducing hedge was in fact a temporary and leveraged bet, unwound at unattractive levels.
+This scenario illustrates a number of facts about pension fund LDI investments in 2022:
+First, pension funds invested in long dated interest rate and inflation products such as gilts or swaps as a hedge. It has been said before, but it is worth reiterating that pension funds generally benefit from a rise in gilt yields. The decline in gilt prices in 2022 had a positive impact on aggregate funding ratios, as the value of pension fund’s liabilities fell. As can be seen in the following chart, the value of assets did also fall, but not by as much as liabilities.
+Second, many pension funds engaged in leverage so that they could hedge their liabilities despite not having a fully funded scheme. This allowed the pension fund and corporate sponsor to close the funding gap over time, as a function of the higher returns on risky assets and/or through an ongoing programme of cash injections from the corporate. The leverage in pension funds’ investments did not cause a solvency problem but it did cause a liquidity problem.
+Finally, a significant source of amplification of the market shock in late 2022 was smaller pension funds who invested in pooled funds. Although segregated mandates represented a far greater share of liabilities hedged (roughly 85%), investors in these structures had relatively sophisticated liquidity management processes which performed well in general.
+The table below outlines some of the differences between segregated mandates and multi-investor pooled funds. Some of these differences, such as the limited liability structure and lack of flexibility, increased the likelihood that gilt hedges held in the pooled structure would be unwound by LDI managers. It was the combination of large and sudden capital call obligations, LDI manager actions, and weak liquidity management processes that led to selling of gilts. This amplified the initial shock and threatened to spill over into financial instability.
+Table A: Differences between types of LDI funds
+Segregated mandates & bespoke funds
+Multi-investor pooled funds
+Description
+For use by individual schemes, with more tailored approach and greater flexibility
+For use by groups of smaller schemes, with limited flexibility and stricter rebalancing
+Share of LDI
+~85% of liabilities hedged
+~15% of liabilities hedged
+Leverage
+Generally 2-3x
+Between 2-5x, sometimes higher
+Legal structure
+Counterparties have some recourse to investor assets
+Limited liability (with less recourse on investor assets)
+Investing in a leveraged product can bring benefits, but it also brings dynamic responsibilities. If an entity is not set up to meet those responsibilities, then the leveraged investment is unsuitable.
+Performance drivers of a leveraged portfolio
+It is often said that leverage is dangerous because the size of the loss is not limited to the size of the initial investment. In the above example, if the value of the bonds goes to zero, then the loss is £200, even though the original investment was only £100.
+This loss is a function of the performance of the assets, but it is important to understand that there are two other potential sources of risk. These relate to management of the borrowing and management of changes in leverage.
+These sources of risk can be represented in the form of a triangle:
+Turning first to asset performance, some investors might feel that the downside can be mitigated by investing via a limited liability structure. In that case exposure is limited to the initial investment. Even if the bonds go to zero, there is no recourse to the investor’s other assets. However, this creates the risk that, if losses exceed the initial investment, the position will be unwound by the manager or leverage provider.
+The pension fund investor considered in the previous section might receive further comfort from the fact that, although the LDI structure is leveraged, the asset exposure is calculated to hedge liabilities.
+With respect to loan management, if borrowing is not locked in for the entire life of the trade, then it is subject to what is called roll-over risk. When the initial borrowing comes to an end it must be replaced and there is a risk that lending terms may have worsened. The new borrowing rate may be higher, or the amount of cash offered lower. At the extreme, lenders may be unwilling or unable to lend, and recapitalisation will be necessary in order to avoid a forced unwind
+footnote
+[2]
+.
+However, if borrowing is collateralised by a high-quality asset such as a UK government bond, this will minimise any roll-over risk. A leveraged investor in gilts may feel relaxed about loan management.
+An LDI investor may therefore feel that the general warning with respect to leveraged products does not apply, because assets are held as a hedge, their losses are limited to the size of their investment, and their roll-over risk is minimal.
+Unfortunately, this benign view doesn’t take into account the third performance driver, management of dynamic leverage. If asset values decline, then leverage will increase and a choice must be made: to rebalance the portfolio through dynamic deleveraging; to accept higher leverage and risk ‘cliff-edge’ deleveraging; or to raise capital. This is what I will focus on today, discussing the impact of each of these possibilities in turn.
+Dynamic deleveraging behaviour
+When investments are marketed as having a certain leverage, one might assume that that this is a naturally static number, but this ignores a feature of leverage that is not widely discussed in the popular press - its dynamic nature. A static leverage profile can only be maintained by actively rebalancing the portfolio as asset prices move. This leverage-targeting behaviour is necessary to offset leverage’s natural dynamism.
+For example, returning to the original 2X leverage bond structure discussed above, it can be seen that changes in the market value of the gilts lead directly to changes in leverage. If the bond prices rally from a price of 100 to 125 and no other actions are taken, then the leverage declines from 2X to 1.67x (250/150). Equally, but more concerningly, if bond values decline to 75 then leverage increases from 2X to 3X (150/50).
+To offset any increase in leverage and any risks that they themselves take a loss, the manager of a leveraged structure could sell (or force the client to sell) some bonds. For example, if following the 25% price fall, they sold £50 of bonds and used the proceeds to pay off the borrowing then the leverage would decline back to 2X (100/50). Although this action is consistent with maintenance of a static leverage profile it has two concerning implications:
+First, from the investor’s perspective it means that the structure will automatically reduce the size of the position when there is a loss. This automatic sell low (and buy back high) leverage-targeting behaviour not only has a negative expected value in a volatile environment, but it also removes the investor’s control with respect to position sizing. If, as is the case in LDI, the position is entered into as a long-term hedge against liabilities, then anything that unwinds the hedge is increasing the overall risk of the pension fund.
+Second, from the perspective of market stability this dynamic leverage targeting behaviour is an automatic amplifier of any price moves
+footnote
+[3]
+.
+A foundational principle of economics is that the pricing mechanism balances supply and demand. This relies on the assumption that, other things equal, demand for a product increases, and supply decreases, as its price declines. Given a set of information and economic actors, the market mechanism ensures a stable equilibrium price is found. If there is a shock or new information then, in an efficient market, the pricing mechanism responds and a new stable equilibrium is found.
+The graph below shows the volume of stabilising flows in a stylised example where supply and demand are both linear functions (in notional terms) of the difference between the fair market price and the actual price. Note that the y axis displays the volume of what I have called ‘stabilising activity’. If the price is below fair value, positive stabilising activity equals net buying, and the further the price is below fair value, the greater is this demand for the asset. Above fair value, positive stabilising activity equals net selling. The further the price is above fair value, the greater is the supply of the asset. You can imagine the price as a ball falling from above. Wherever it falls, supply and demand will push it towards fair value. This creates a stable equilibrium around the fair value price.
+Such natural stabilising activity towards an equilibrium fair value is a common good. It allows buyers and sellers to interact at a fair level and provides valuable information which can be incorporated in economic decisions
+footnote
+[4]
+.
+However, this pricing mechanism is undermined, to a greater or lesser extent, by investors that target a fixed leverage. Every time the price moves lower, they add selling pressure, in direct contrast to the assumption underlying efficient market theory. If the aggregate size of deleveraging is great enough, then any price level becomes unstable. Any displacement will be amplified such that prices move further away from a fair level, and the informational content of the market price will fall to zero.
+Dynamic leverage targeting behaviour is destabilising - it depletes supply of the common good.
+footnote
+[5]
+As can be seen in the below graph, the destabilising activity of leverage targeting is non-linear, and is greatest when there is a large fall in price. This is due to the exponential distribution of leverage, as shown in Chart 5. If the metaphorical ball of price action falls on this profile, deleveraging activity will push prices away from fair value.
+The next graph shows the aggregate flow of this stylised example (i.e. the sum of flows in the two previous graphs). In times when market moves are small the volume of selling necessary to deleverage will be small in the context of market liquidity. This selling will be absorbed within the normal market flow and, although market stability may be reduced, that reduction will not be enough to be problematic or even noticeable. This describes the market reaction to price falls that are smaller than 20% in the graph below. For larger price falls, however, the volume of selling will overwhelm the buying. Deleveraging activity flattens the aggregate demand for the asset as the price declines and inverts it if the move is extreme enough.
+Although the specific size of flows in this stylised example were picked at random, the resulting profile does seem to capture a feature of the market that I have previously described as jump-to-illiquidity
+footnote
+[6]
+.
+In normal times, when moves are small, the market appears stable, but in large shocks instability strikes. This market dynamic was seen in the ‘dash for cash’ in 2020, and in commodity markets after the Russian invasion of Ukraine.
+Market stability is harmed even further if a shock shifts fair value and increases uncertainty, as happened in the Autumn of 2022. This has three consequences that amplify moves and create instability. First, the shift in fair value means that there will be no buying to offset the deleveraging flows until beyond the new fair price. Second, increased uncertainty and volatility causes a reduction in market liquidity, as market makers at least temporarily assume a defensive posture. This further reduces the demand which could serve to offset any supply. And finally, if the shock is large enough it will take the market into a zone where the deleveraging flows are significant. If a leveraged position is large or there are multiple correlated leveraged positions then these flows will push the market down further, causing an avalanche of selling.
+In the below graphs I have assumed a -0.1 shift in fair value and have represented increased uncertainty by reducing the slope of the stabilising “V” to 75% of the original. This reflects the reduced confidence of liquidity providers. Leverage targeting activity is unchanged as it is purely a function of the price move since the last rebalancing action.
+As can be seen, when a shock that decreases fair value and increases uncertainty hits a market that is subject to significant volumes of leverage-targeting behaviour, destabilising activity can amplify moves and push prices significantly away from fair value. Eventually, or course, the deleveraging will be complete and/or what Darrell Duffie has called ‘slow-moving capital’ from relatively ‘inattentive investors’ will arrive to take advantage of the price dislocation
+footnote
+[7]
+. In advance of any reversion, however, significant harm may have been done to market and financial stability.
+Although today’s discussion has focused mainly on the financial stability risks of leveraged LDI structures, the concerns expressed with respect to deleveraging behaviour can be applied broadly to any market participant whose strategy results in selling as the market declines. This includes any funds who enter into trades to take advantage of market mispricing but are then forced, due to internal risk limits, margin calls or a loss of financing, to unwind as the mispricing grows larger. The FPC in its communications often talks of amplification. In this context amplification can be seen in direct opposition to the volatility dampening effects of the efficient market pricing mechanism.
+Deleveraging behaviour may be prudent from the perspective of an individual fund, but it depletes a common good and undermines a fundamental source of market stability. stability. The extent of any harm to stability is dependent on the size of deleveraging flows relative to market liquidity. The risk of instability is therefore greatest if a leveraged fund is very large, multiple leveraged funds are highly correlated, and/or if market liquidity is depleted
+footnote
+[8]
+.
+In biology
+footnote
+[9]
+, global trade
+footnote
+[10]
+and markets, efficiency in good times often comes at the cost of a reduction of resilience in bad times. Although leveraged or minimally capitalised investors will often state that their actions enhance efficiency in good times, what is also important from a financial stability perspective is how they behave in periods of stress. The FPC very specifically seeks to ensure that the financial system serves households and businesses in bad times as well as good. Deleveraging behaviour in stress undermines our ability to meet this objective.
+Cliff-edge deleveraging
+As an alternative to the dynamic leverage-targeting behaviour associated with portfolio rebalancing, investors, managers and/or lenders might feel that the quantum of leverage is irrelevant and should be allowed to rise. In this case the portfolio is left unchanged as long as there is enough collateral to cover the borrowing.
+From an LDI investor’s perspective this would make sense as the gilts owned are calculated to match liabilities. This means that not only does the investor wish to retain the hedge for as long as their liabilities exist but also, from the point of view of asset returns, the fact that the structure is leveraged is irrelevant. The pension fund needs £200 of exposure to hedge their liabilities, and the dynamic nature of leverage will not impact that fact.
+From the lender’s perspective, as gilts are considered to be extremely safe assets, the overcollateralization required will be minimal or maybe even non-existent. For a loan of £100, £150 gilts are more than enough. It is only if the value of the gilts falls to £100 or below that the lender will be exposed to the credit risk of their counterparty.
+Finally, the LDI manager could agree because they are protected by the right to unwind the structure before the loss exceeds the size of the pension fund investment
+footnote
+[11]
+.
+The problem with this willingness to accept higher leverage is that it creates what I will call cliff-edge risk. In the short term, no action will be taken but if the value of the gilts falls far enough then there is a risk that their value is no longer sufficient to collateralise the borrowing. In advance of the transition from over- to under-collateralisation the LDI manager or the repo provider will close out the position to protect themselves. Thus, the ongoing rebalancing associated with dynamic leverage management has been replaced by a potential sudden sale, where the entire position is unwound in one go.
+Although this may seem like an unlikely scenario when the investment is initially made, the consequences are significant. At the cliff-edge point the investor will have lost both their initial investment, and their hedge. Not only is this a negative outcome for the investor, it can also have significant financial stability risks. If the investor’s full position is sold, all at once and as a matter of urgency, this will drive prices significantly lower. This may push other structures into deleveraging behaviour, causing more selling. In addition to the direct market stability implications, a decline in the value of their collateral could lead to repo lenders having significant losses on what was supposed to be riskless lending.
+I am reminded here, of a quote from free climber Alex Hanold when he was discussing the possibility of falling 900 metres from El Capitan without a rope. He described falling as low risk, but high consequence.
+In Autumn 2022 what was perceived to be a low risk, became a central scenario, as long dated gilts traded at less than 50% of their Jan 2022 value.
+Although I have taken pains to elucidate the differences between leverage-targeting and cliff-edge deleveraging, in Autumn 2022 these differences became moot. Either strategy would have caused significant selling, amplifying the shock and harming financial stability.
+A responsibility to meet capital calls
+The final element of the leveraged portfolio management triangle is by far the most attractive from the perspective of hedge maintenance and financial stability. In this scenario, rather than responding to a decrease in gilt prices by selling gilts, the investor reduces leverage by recapitalising the structure.
+For example, if the structure is set up such that for every move lower in gilt prices, 50% of the loss must be replaced by new capital, then this cash injection can be used to pay off some of the borrowing and bring the leverage back to 2X. In a case where £50 is lost, £25 is called and the leverage returns to 2X (150/75).
+One implication of such a capital call is that it increases the investor’s total exposure. They are now exposed to the initial £100 and the subsequent £25, making their exposure greater than the original £100 despite the limited liability structure. At the extreme, if this process is repeated as the value of the bonds decline to zero then the investor does run the risk of losing £200. However, if the investment is a hedge, as in the case of LDI structures, then this loss will be offset by a reduction in the net present value of the liability to the pension holders, so the pension fund overall will not be harmed.
+Meeting the capital call in structures such as the above must be taken seriously by trustees. When trustees sign-off on a leveraged LDI structure as a hedge to their liabilities they need to understand the dynamic nature of the obligation.
+It is not enough to receive advice from a consultant about the suitability of the hedge. Nor is it enough to ensure that LDI provider is credible. These are static issues that are necessary but not sufficient to ensure that a leveraged investment is appropriate. What trustees and sponsors must understand is that if a capital call is made then they need to be able to meet that call. If they do not, then the structure will be partially or fully unwound. This turns the LDI investment from structural hedge into, at best, a contingent hedge which only exists in certain states of the market, or at worst a leveraged bet on gilt prices.
+Capital calls must be met not only in normal market conditions, but also in times of stress, when the size of the call is large, and the timing is urgent. Trustees must therefore have a clear and ongoing understanding of the liquidity of their non-LDI assets and have in place a liquidity waterfall plan which sets out the order in which assets will be liquidated. This plan must include operational elements to ensure that calls can be met in a timely manner, in practice as well as theory
+footnote
+[12]
+.
+LDI funds have always held cash buffers to ensure that short term liquidity needs can be met in severe but plausible scenarios. These are usually calculated based on a historic shock taking place over a number of days, but that incorporates two assumptions. The first is that future shocks will be of a similar magnitude to historic shocks, and the second is that pension funds (and LDI managers) have the operational capability to replenish liquidity buffers at pace during periods of stress.
+Unfortunately, in September 2022, neither of those assumptions turned out to be correct. Measured over a four-day period, the increase in 30-year gilt yields was more than twice as large as the largest move since 2000. This meant that cash buffers were overwhelmed and needed to be replenished immediately in order to avoid asset sales.
+Some pension funds were unable to recapitalise at the necessary speed, and this led to LDI structures being unwound. Not only was such selling bad for the pension fund investor, it also had a negative impact on market stability. When other market participants understood that not only would future issuance likely increase, but that pension funds with huge holdings were becoming forced sellers, the incentive to purchase became minimal
+footnote
+[13]
+. As flows functionally became one-way, the market became highly unstable.
+On the 28 September the Bank of England announced that it would conduct purchase operations each weekday from that date until 14 October. As Jon Cunliffe set out in his letter to the Treasury Select Committee: ‘The duration of the operation [was] intended to give LDI funds time to build the necessary resilience’
+footnote
+[14]
+. By successfully enhancing market stability through its temporary and targeted intervention, the Bank of England effectively gave the pension funds a significant window in which to raise liquidity and fulfil the dynamic obligations of their leveraged hedges. Many funds did so, and were therefore able to maintain their hedges, but even the 13-day window of the intervention was not enough for some funds.
+As can be seen there was significant selling of long dated gilts on the final day of the programme. Obviously, the funds selling on that day had not lost their need for the hedge, nor was the level an attractive opportunity to unwind. They were selling purely because, despite the extended period of stability provided by the Bank of England, which removed the immediate financial stability issue, those pension funds did not have the liquidity or operational capability to deliver the necessary capital (or the LDI funds did not have the operational capacity to receive such capital). As such the pension funds lost their hedge and thereby increased the riskiness of their portfolio.
+Although market participants should self-insure against severe but plausible moves, the moves in those four days in September were of an unprecedented speed and scale. Therefore, in my opinion, the inability of some pension funds to raise capital in advance of the Bank of England’s intervention was understandable. However, the fact that funds could not recapitalise over the course of a 13-day period in which markets were stable (or even favourable) reveals a level of understanding, liquidity planning and operational capacity that was inadequate. Pensions funds that were unable to raise capital over that period should consider whether they should have been holding leveraged investments.
+Many pension funds, particularly those investing in pooled LDI structures were small and minimally resourced, but this is not an excuse. If, for whatever reason, raising capital takes greater than 13 days, then the liquidity buffer needs to be calculated with that as an input. This fact should have been better incorporated into liquidity planning. Analysis and understanding of the fund’s ability to raise capital, from the corporate sponsor if necessary, must feed into the decision as to whether to enter into a leveraged structure. For those that do not have the capabilities, the product is not suitable. This is something that both the trustees and the consultants, must consider when deciding whether a product or hedging strategy is appropriate.
+The FPC’s recommendations with respect to LDI
+Although the FPC does not directly regulate pension funds, we did set out a number of recommendations in our Q1 publications. These reflect the fact that the rise in yields caused, for pension funds, a liquidity problem rather than a solvency problem.
+In summary these stated that funds should be able to: withstand severe but plausible stresses in the gilt market; meet margin and collateral calls without engaging in asset sales that could trigger feedback loops; and improve their operational processes to meet margin and collateral calls swiftly when needed.
+More specifically, the FPC judged that LDI funds should be resilient to a yield shock of around 250 basis points, at a minimum, in addition to the resilience required to manage other risks and day-to-day movements in yields.
+Pension schemes using leveraged LDI should be expected to be able to deliver collateral to their LDI vehicles within five days. Funds and schemes unable to implement these operational standards should be required to be resilient to a larger shock, calibrated to their own operational timelines.
+In addition, we recommended that that The Pension Regulator (“TPR”) should have the remit to take into account financial stability considerations on an ongoing basis.
+Further details are available in the FPC’s March 2023
+Financial Policy Summary and Record
+, as well as a Bank staff paper:
+LDI minimum resilience – recommendation and explainer
+.
+An update on LDI resilience
+Following the Bank’s intervention in September last year, the FPC’s recommendations in Q1, and TPR guidance, LDI funds have maintained high levels of resilience.
+However, recent moves in gilt yields have been significant: The benchmark 30Y index-linked gilt yield rose by 82bps between the end of March and late May. This shift in yields mechanically reduced the resilience of LDI funds leading to some LDI funds recapitalising in order to replenish their buffers.
+This first test of the resilience standard demonstrated that the FPC's recommendations are functioning broadly as intended, with funds holding significantly larger buffers on average and firms initiating recapitalisation at far higher levels of resilience.
+However, we will continue to monitor the situation and assess whether there are any further lessons to be learned from this recent experience.
+Leverage management and financial stability risks
+Today I have mainly focused on leveraged LDI structures, but the findings can be applied more broadly.
+Leverage has an intrinsically dynamic nature. A decline in asset values causes an increase in leverage, which needs to be managed. Depending on restrictions inherent in their mandates, managers of leveraged portfolios may be willing to accept higher leverage in the short term, but eventually they will need to sell assets or raise capital.
+From a stability perspective the preferred solution is for investors to deleverage through re-capitalisation. For this reason, it is important to ensure that critical sources of liquidity, such as Money Market Funds, are able to supply that liquidity, even in times of stress.
+In leveraged structures without the ability to raise capital at speed, both dynamic and cliff-edge deleveraging create vulnerabilities. These lead to the amplification of external shocks and deplete the stabilising forces that are a common good. This is one reason
+footnote
+[15]
+that the FPC has warned that in the event of further shocks, impaired liquidity conditions could be amplified by the vulnerabilities in the system of market-based finance
+footnote
+[16]
+. With our global partners we will continue to work to understand and reduce these risks, where possible.
+Alongside the international work agenda, the Bank will continue undertaking domestic work to reduce vulnerabilities where it is effective and practical.
+In December last year we announced that we were planning a system-wide exploratory exercise to support this work, which would, for the first time, incorporate the behaviour and impacts of non-bank financial institutions (“NBFIs”). I am excited to confirm that, just yesterday, we have launched this exercise publicly. An exercise of this type, with its huge, system-wide scope, has never been attempted before.
+This multi-round exercise has two objectives: First, to enhance understanding of the risks to and from NBFIs, and the behaviour of NBFIs and banks in stress, including what drives that behaviour. And second, to investigate how these behaviours and market dynamics can amplify shocks in markets and potentially bring about risks to UK financial stability.
+We expect the exercise to offer many lessons - for us, for participating firms and their regulators, for market participants, and also for the wider international policy and regulatory communities focused on these issues.
+Risks to financial stability can clearly emanate from non-bank sources, so it is only right that we expand our scenario analysis to supplement our theoretical understanding of these non-linear dynamics. I eagerly anticipate the results of this exercise, and expect the insights to influence our thinking going forward.
+Thank you for your time. I look forward to hearing your thoughts and comments and engaging with any questions you may have.
+I would like to thank the following for their input to and helpful comments on these remarks: Andrew Bailey, David Baumslag, Sarah Breeden, Alexandra Briers, Jon Cunliffe, Lee Foulger, Victoria Monro, Pierre Ortlieb, Gabor Pinter, Sana Siddique and Nicholas Vause.
+Although it is important to be clear that market instability is not the same as financial instability, I will set that thought aside for today, assuming that instability in core markets such as government bonds can be a cause of financial instability.
+At the FPC we monitor the maturity profile of leveraged lending and have policies such as the Counter Cyclical Capital Buffer to try and ensure banks maintain lending in times of stress. If lending were to be cut, then financial stress could be amplified by a rush to sell assets as leveraged structures are unwound.
+The discussion that follows parallels detailed work by economist Hyun Shin on the impacts of VAR constraints. See Section 3.4 of Shin, H. S. (2010), ‘Risk and Liquidity’, Oxford University Press.
+Although today’s discussion focuses on sources of demand for liquidity, an equally important topic is how to enhance the supply of liquidity.
+As Hyun Shin stated in the context of VAR constraints, ‘prices play a dual role – both as a reflection of actions as well as an imperative for actions’. Liquidity is a common good and ‘market participants who pursue these … strategies are consumers of liquidity’.
+Building financial market resilience: From diagnosis to prescription (Jon Hall, May 2021)
+Presidential Address: Asset Price Dynamics with Slow-Moving Capital Darrell Duffie* The Journal of Finance Vol LXV, No 4, August 2010
+For a suggestion of how to quantify the impact of leverage on financial stability see: Adrian, Borowiecki and Tepper (2022), A leverage-based measure of financial stability, Journal of Financial Intermediation
+Ulanowicz, Goerner, Lietaer, and Gomez (2009), Quantifying sustainability: Resilience, efficiency and the return of information theory, Ecological complexity 6
+For example, Europe’s dependence on Russian supplies of gas.
+In addition, LDI structures are very thinly capitalised and bankruptcy remote from the parent asset manager
+Often the first source of liquidity will be assets held in money market funds that promise daily liquidity. In the so-called dash-for-cash in 2020 the liquidity of MMFs was severely tested. As a response, the FPC, working with our international peers, is in the process of strengthening MMF resilience to ensure that the promise of daily liquidity can be met.
+And because market prices of long dated gilts were widely perceived to have been historically overvalued, due to pension fund buying, moves had to be very significant to attract non-pension fund investors, such as those anticipated in Darrell Duffie’s analysis.
+Letter from Sir Jon Cunliffe to Rt Hon Mel Stride, 5 October 2022
+Liquidity mismatch, such as in money market funds and open-ended funds, is another reason.
+July 2022 Financial Stability Report
+July 2022 Financial Stability Report
+Close
+Liquidity mismatch, such as in money market funds and open-ended funds, is another reason.
+Close
+Letter from Sir Jon Cunliffe to Rt Hon Mel Stride, 5 October 2022
+Close
+And because market prices of long dated gilts were widely perceived to have been historically overvalued, due to pension fund buying, moves had to be very significant to attract non-pension fund investors, such as those anticipated in Darrell Duffie’s analysis.
+Close
+Often the first source of liquidity will be assets held in money market funds that promise daily liquidity. In the so-called dash-for-cash in 2020 the liquidity of MMFs was severely tested. As a response, the FPC, working with our international peers, is in the process of strengthening MMF resilience to ensure that the promise of daily liquidity can be met.
+Close
+In addition, LDI structures are very thinly capitalised and bankruptcy remote from the parent asset manager
+Close
+For example, Europe’s dependence on Russian supplies of gas.
+Close
+Ulanowicz, Goerner, Lietaer, and Gomez (2009), Quantifying sustainability: Resilience, efficiency and the return of information theory, Ecological complexity 6
+Close
+For a suggestion of how to quantify the impact of leverage on financial stability see: Adrian, Borowiecki and Tepper (2022), A leverage-based measure of financial stability, Journal of Financial Intermediation
+Close
+Presidential Address: Asset Price Dynamics with Slow-Moving Capital Darrell Duffie* The Journal of Finance Vol LXV, No 4, August 2010
+Close
+Building financial market resilience: From diagnosis to prescription (Jon Hall, May 2021)
+Close
+As Hyun Shin stated in the context of VAR constraints, ‘prices play a dual role – both as a reflection of actions as well as an imperative for actions’. Liquidity is a common good and ‘market participants who pursue these … strategies are consumers of liquidity’.
+Close
+Although today’s discussion focuses on sources of demand for liquidity, an equally important topic is how to enhance the supply of liquidity.
+Close
+The discussion that follows parallels detailed work by economist Hyun Shin on the impacts of VAR constraints. See Section 3.4 of Shin, H. S. (2010), ‘Risk and Liquidity’, Oxford University Press.
+Close
+At the FPC we monitor the maturity profile of leveraged lending and have policies such as the Counter Cyclical Capital Buffer to try and ensure banks maintain lending in times of stress. If lending were to be cut, then financial stress could be amplified by a rush to sell assets as leveraged structures are unwound.
+Close
+Although it is important to be clear that market instability is not the same as financial instability, I will set that thought aside for today, assuming that instability in core markets such as government bonds can be a cause of financial instability.
+Close
+Convert this page to PDF
+Jonathan Hall
+External member of the Financial Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Tottori (via webcast))",
+  "date_original": "2021-10-21",
+  "date_au": "21/10/2021",
+  "datetime_original": "",
+  "speaker": "NOGUCHI Asahi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko211021a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-10-21 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Tottori (via webcast.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-10-21 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Tottori (via webcast.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "80951cdbc08c22469050af532bbf7b346d29bb24b8bfecbca3a5a91446041fed"
+}

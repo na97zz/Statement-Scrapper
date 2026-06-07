@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2022-03-18",
+  "date_au": "18/03/2022",
+  "datetime_original": "",
+  "speaker": "Welcoming Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20220318a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-03-18 - Welcoming Remarks - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-03-18 - Welcoming Remarks - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f12371cf60ffd02c446e5f66023630385dc883a664e97a3083ce480b0bc6d153"
+}

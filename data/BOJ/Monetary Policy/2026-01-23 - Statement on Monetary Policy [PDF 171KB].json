@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "Statement on Monetary Policy [PDF 171KB]",
+  "date_original": "2026-01-23",
+  "date_au": "23/01/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260123a.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2026-01-23 - Statement on Monetary Policy [PDF 171KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2026-01-23 - Statement on Monetary Policy [PDF 171KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bc834dc8bb5c93b959d9de7080acd2244296550ea95b362127e2b5799d0c7850"
+}

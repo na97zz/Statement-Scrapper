@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy in the euro area: attentive and focused",
+  "date_original": "2023-11-21",
+  "date_au": "21/11/2023",
+  "datetime_original": "",
+  "speaker": "Monetary policy in the euro area",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231121~5438d564cb.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-11-21 - Monetary policy in the euro area - Monetary policy in the euro area_ attentive and focused.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-11-21 - Monetary policy in the euro area - Monetary policy in the euro area_ attentive and focused.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "16d9399022801d7cc18a40e653f971f04634ce0c3d7aff71b11825686a074933"
+}

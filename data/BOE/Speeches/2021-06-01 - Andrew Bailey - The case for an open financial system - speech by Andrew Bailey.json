@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The case for an open financial system - speech by Andrew Bailey",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/february/andrew-bailey-mansion-house",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - The case for an open financial system - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - The case for an open financial system - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ae6faad0dfe86956722311032725adba2f0d7dda1317ec93de70d358687b31a6"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Stemming the tide: safeguarding our ocean and economy",
+  "date_original": "2025-06-07",
+  "date_au": "07/06/2025",
+  "datetime_original": "",
+  "speaker": "Stemming the tide",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250607~e6ed4778bc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-06-07 - Stemming the tide - Stemming the tide_ safeguarding our ocean and economy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-06-07 - Stemming the tide - Stemming the tide_ safeguarding our ocean and economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bbfe6f740ec11bf9bba36367f3839508963bb2129a283dc85ceb435754a6f651"
+}

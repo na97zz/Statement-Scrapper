@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Toyama)",
+  "date_original": "2022-10-26",
+  "date_au": "26/10/2022",
+  "datetime_original": "",
+  "speaker": "ADACHI Seiji",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko221026a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-10-26 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Toyama).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-10-26 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Toyama).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3660183349a965deeabbc1bba0691e62af1f487281de691a026d844191b7a1d1"
+}

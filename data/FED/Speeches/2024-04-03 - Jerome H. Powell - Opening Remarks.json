@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2024-04-03",
+  "date_au": "03/04/2024",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20240403a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-03 - Jerome H. Powell - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-03 - Jerome H. Powell - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "464b689922910602df6faadf49849ba2faac674f68ebab2da235a8480091eca1"
+}

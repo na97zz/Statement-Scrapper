@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The evolution of the Bank’s approach to resolution − speech by Dave Ramsden",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Dave Ramsden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2026/january/dave-ramsden-speech-at-kings-college-london-the-evolution-of-resolution",
+  "raw_file_path": "data\\BOE\\Speeches\\2026-06-01 - Dave Ramsden - The evolution of the Bank’s approach to resolution − speech by Dave Ramsden.html",
+  "text_file_path": "data\\BOE\\Speeches\\2026-06-01 - Dave Ramsden - The evolution of the Bank’s approach to resolution − speech by Dave Ramsden.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:09:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4c73a2797b346ce78787240a738d9cf179db0840670e99f9a916978da8d2594a"
+}

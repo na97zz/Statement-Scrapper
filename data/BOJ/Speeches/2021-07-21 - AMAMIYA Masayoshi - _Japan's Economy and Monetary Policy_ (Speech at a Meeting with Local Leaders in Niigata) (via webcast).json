@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Niigata) (via webcast)",
+  "date_original": "2021-07-21",
+  "date_au": "21/07/2021",
+  "datetime_original": "",
+  "speaker": "AMAMIYA Masayoshi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210721a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-07-21 - AMAMIYA Masayoshi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Niigata) (via webcast).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-07-21 - AMAMIYA Masayoshi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Niigata) (via webcast).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "965758919e278b66646ea4298cc10b75fea054e6a14a00dcd8f0302bd603bbec"
+}

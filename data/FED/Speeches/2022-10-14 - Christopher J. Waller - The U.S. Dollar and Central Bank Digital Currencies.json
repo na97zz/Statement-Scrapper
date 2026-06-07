@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The U.S. Dollar and Central Bank Digital Currencies",
+  "date_original": "2022-10-14",
+  "date_au": "14/10/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20221014a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-14 - Christopher J. Waller - The U.S. Dollar and Central Bank Digital Currencies.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-14 - Christopher J. Waller - The U.S. Dollar and Central Bank Digital Currencies.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a29cd0a95b0e4a7f0a39c86ac6c93412ce688b1c3f0167e30a77d13917cc50b4"
+}

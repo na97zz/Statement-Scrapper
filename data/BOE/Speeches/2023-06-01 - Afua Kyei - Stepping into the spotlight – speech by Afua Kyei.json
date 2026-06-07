@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Stepping into the spotlight – speech by Afua Kyei",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Afua Kyei",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/april/afua-kyei-fireside-chat-at-the-institute-of-practitioners",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Afua Kyei - Stepping into the spotlight – speech by Afua Kyei.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Afua Kyei - Stepping into the spotlight – speech by Afua Kyei.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4654e1508fa21eabde80f1e5dff507f3340888f793cfd78e29d85d7bef11f198"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Hiroshima (via webcast))",
+  "date_original": "2021-09-01",
+  "date_au": "01/09/2021",
+  "datetime_original": "",
+  "speaker": "WAKATABE Masazumi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210901a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-09-01 - WAKATABE Masazumi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Hiroshima (via webcast)).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-09-01 - WAKATABE Masazumi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Hiroshima (via webcast)).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9fac30bc2265dec7b449677f692e4cbb58c706f4590b28d739e5b1c6f72a1ae5"
+}

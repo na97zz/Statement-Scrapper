@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Capital Rules for the Real Economy",
+  "date_original": "2026-03-12",
+  "date_au": "12/03/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260312a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-12 - Michelle W. Bowman - Capital Rules for the Real Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-12 - Michelle W. Bowman - Capital Rules for the Real Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a7375b1d5726873c71f6e8fbd7a36b48719c0c5558d2ab463e3ac69c3a769390"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Maintaining prudence when navigating unexpected tides and firming currents",
+  "date_original": "2022-11-15",
+  "date_au": "15/11/2022",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde recently highlighted.",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221115~2bad2ebaec.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-15 - Christine Lagarde recently highlighted - Maintaining prudence when navigating unexpected tides and firming currents.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-15 - Christine Lagarde recently highlighted - Maintaining prudence when navigating unexpected tides and firming currents.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "717341d5feb50bacf5467e34825ddb4b02e5e3e3b3a59ee05ebb07b60bc3f065"
+}

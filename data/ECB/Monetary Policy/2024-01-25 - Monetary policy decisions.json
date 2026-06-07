@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy decisions",
+  "date_original": "2024-01-25",
+  "date_au": "25/01/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.mp240125~f738889bde.en.html",
+  "raw_file_path": "data\\ECB\\Monetary Policy\\2024-01-25 - Monetary policy decisions.html",
+  "text_file_path": "data\\ECB\\Monetary Policy\\2024-01-25 - Monetary policy decisions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:08:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "78dc18e6b73d0e8bcff8a34f71dea992bb9e159af9262f8b665eb592421bd69a"
+}

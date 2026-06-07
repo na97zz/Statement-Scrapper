@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy decisions",
+  "date_original": "2021-09-09",
+  "date_au": "09/09/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/pr/date/2021/html/ecb.mp210909~2c94b35639.en.html",
+  "raw_file_path": "data\\ECB\\Monetary Policy\\2021-09-09 - Monetary policy decisions.html",
+  "text_file_path": "data\\ECB\\Monetary Policy\\2021-09-09 - Monetary policy decisions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:09:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5b71abd57a1215a9c5ad5598fe18377ed3b7cd4c1904bb6be3d50bcfbfd754d"
+}

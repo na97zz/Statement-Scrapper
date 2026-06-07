@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Engineering revisited - speech by Sarah Breeden",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Sarah Breeden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2024/february/sarah-breeden-keynote-speech-uk-women-in-economics-annual-networking",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Sarah Breeden - Engineering revisited - speech by Sarah Breeden.html",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Sarah Breeden - Engineering revisited - speech by Sarah Breeden.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "43d658e35666c06860694afcf9ccae87a2b1f9b6a3b45dd3c750006f8ea4bcf2"
+}

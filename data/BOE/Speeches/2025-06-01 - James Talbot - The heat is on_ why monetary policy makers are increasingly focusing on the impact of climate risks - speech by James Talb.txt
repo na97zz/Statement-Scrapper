@@ -1,0 +1,523 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The heat is on: why monetary policy makers are increasingly focusing on the impact of climate risks - speech by James Talbot
+DATE: 01/06/2025
+SPEAKER: James Talbot
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/may/james-talbot-speech-at-university-of-oxford-on-climate
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The heat is on: why monetary policy makers are increasingly focusing on the impact of climate risks - speech by James Talbot
+Given at Oxford University
+Published on 
+
+ 09 May 2025
+James Talbot, Executive Director, International at the Bank of England and Chair of the Network for Greening the Financial System’s (NGFS) workstream on monetary policy, discusses the channels through which climate shocks affect the economy, the trade-offs they can present for policymakers and why central banks need to better understand these risks.
+Speech
+Introduction
+We are used to thinking of climate change as something that happens in the long run.
+For monetary policy makers, the focus is predominantly on responding to the shorter-term dynamics of the economy in order to achieve the inflation target. So why am I here today to talk about climate in the context of monetary policy?
+Central banks have been assessing the financial stability risks from climate change for a decade or more. The former Governor of the Bank of England, Mark Carney gave a speech in September 2015 on the impact of climate change on financial stability’.
+footnote
+[1]
+Then in 2019, the Bank of England set supervisory expectations for banks and insurers on the management of climate-related financial risks
+footnote
+[2]
+. In 2020, my colleague Sarah Breeden led the development of the first vintage of climate scenarios at the Network for Greening the Financial System (NGFS)
+footnote
+[3]
+footnote
+[4]
+and the Bank of England’s climate exploratory scenario in 2021
+footnote
+[5]
+.
+All of this work established the case that climate is a risk to the financial system.
+Central banks then turned to focus on the risks from climate change to their own balance sheets and to monetary policy operations, such as asset purchases. Sabine Mauderer led NGFS work to explore how monetary operations might need to adapt to a hotter world and the Bank of England set out how to green our Corporate Bond Purchase Scheme
+footnote
+[6]
+.
+But assessing the implications of climate change for monetary policy itself is a relatively newer line of enquiry.
+The ECB’s Isabel Schnabel explored this issue in a speech in 2022
+footnote
+[7]
+. In 2023, my colleague Catherine Mann – a member of the Bank of England’s Monetary Policy Committee – expressed the view that monetary policy makers could not ignore the effects of climate change
+footnote
+[8]
+.
+So why is the focus of monetary policy makers on the impact of climate change increasing?
+This can be a controversial question, but I think the answer is simple. Monetary policy makers need to take account of any macro-relevant shock which occurs over the monetary policy horizon – typically thought of as the next 2-3 years. And the most difficult shocks to deal with are those which push inflation and output in different directions – so called “trade-off inducing” shocks. There is evidence that the impact of climate change is increasingly exhibiting these characteristics.
+Before I dig into that further, let me make three introductory points on how central banks think about this issue –
+First, we take the scientific evidence on climate change as given. We are only interested in how this affects the economy and financial system, and therefore the achievement of our statutory objectives.
+Second, the policies needed to mitigate climate change are for governments, not central banks, to decide. But while we take those policies as given, they will have economic impacts and where there is uncertainty about the path for those policies, that can also affect economic behaviour.
+Third, this is not about whether central banks should change their remits in response to climate change. Not least because different central banks have different mandates. The Bank of England’s monetary policy remit is set by the government. It is clear that price stability is our primary goal, and subject to that we support the economic objectives of the government.
+However, the key thing that unites all central banks, is that if climate change – or the policies enacted to mitigate it – affect economic outcomes, it is a relevant consideration for monetary policy makers just like any other economic shock.
+Starting with the scientific evidence: the IPCC
+footnote
+[9]
+estimates that average global temperatures are now more than one degree higher than pre-industrial levels and are set to rise at 0.2°C per decade, due to past and ongoing greenhouse gas emissions. 2024 was the warmest year on record, with average global temperatures exceeding 1.5°C above pre-industrial levels. As climate change has accelerated, the frequency and intensity of extreme weather events has already increased; and even small increases in global temperature are expected to have significant impacts in future.
+Annual global damages from weather-related hazards have more than doubled in real terms in the past twenty years
+footnote
+[10]
+. Last year alone, natural catastrophes resulted in global economic losses of over $300 billion
+footnote
+[11]
+. According to the Swiss Re Institute, annual insured losses for natural catastrophes have been growing by between 5%–7% per year on average for the last three decades, and this trend is anticipated to continue.
+There is also evidence that we are already seeing macroeconomically-relevant impacts from a changing climate. Even countries like the UK, which may be less susceptible to large climate shocks, can be affected by the impact of events abroad. International food commodity prices are one example, as noted by the Governor in a recent speech (2023)
+footnote
+[12]
+. A study by Peersman (2022)
+footnote
+[13]
+shows how unanticipated increases in global food commodity prices have both reduced output and increased inflation in advanced economies.
+At the same time, governments across the world are implementing policies to transition to a less carbon-intensive economy in order to prevent the large and longer-term damages from a changing climate. Just under a quarter of global greenhouse gas emissions are currently covered by some form of carbon pricing mechanism, which aims to internalise the negative externalities created by these emissions. In the UK and EU, the price of carbon in the Emissions Trading System has been rising and is set to increase further over the next three years. Sectoral coverage is expanding; new carbon-intensive import taxes are being introduced; and both the supply of permits, and the share given for free, are being cut.
+In short, the impact of climate change is becoming a macroeconomically-relevant shock over the monetary policy horizon as well as affecting our societies and economies in the longer-term. In light of that, over the past three years, members of the NGFS have come together to develop a framework and analytical foundation to model and understand the impact of climate change on the economy. This is summarised in three new reports published last year
+footnote
+[14]
+. At the Bank of England too, we have been developing our toolkit to understand the impact of climate change on the UK economy.
+The final thing I want to emphasise by way of introduction is that while the climate transition might seem like a “problem” for monetary policy, the “no transition” scenario looks much worse. There is no better illustration of this than in the latest NGFS scenarios, which show that while
+policies to tackle climate change may present an inflation/output trade-off for monetary policymakers to deal with in the near term, the economic costs of climate inaction would be a far worse shock to deal with further ahead.
+Losses from the chronic impacts of climate change
+footnote
+[15]
+without further policy action are expected to be close to 15% of global GDP by 2050 relative to the theoretical baseline without climate change. That is almost two-thirds greater than the combined losses from physical and transition risks under a scenario which is compatible with reaching net zero in 2050.
+In the rest of the speech, I will talk about the work of the NGFS and the Bank of England to better understand the macroeconomic impacts of climate change before turning to how monetary policy makers might factor these changes into decision making. I’ll finish by giving some current and proposed examples of how we might operationalise that.
+Understanding the impact of climate change
+Let me start with how to assess the impact of physical risks.
+There are (at least) three dimensions. First, the nature and type of physical hazard. Second, the level of economic activity at the location where the shock occurs. And third, the vulnerability of assets and economic activity to physical events, reflecting construction quality, disaster preparedness, and response capacity. Here, adaptation measures, for example building flood barriers, are vital to increase resilience to severe weather events.
+What matters to monetary policy is how the shock affects supply and demand and over what horizon.
+Starting with supply
+: there can be immediate destruction of physical goods, capital and infrastructure as well as displacement of workers. Bank of England research looked at the impact of flooding on UK firms
+footnote
+[16]
+from 2011 to 2021. It found a significant increase in the probability of business termination as a result of a flooding event for both small and medium-sized firms. And for those corporates surviving, flooding is associated with a 28% and 15% reduction in turnover in the year of the shock for large and medium-sized firms respectively.
+Productivity may also fall given the impact of physical hazards on labour and agricultural land, or via diversion of attention and resources to reconstruction efforts. For example, heatwaves may reduce manufacturing productivity, and a drought will often impact agricultural productivity. Business relocation in response to a chronic increase in the exposure to physical risk can also have a significant impact.
+Severe weather events can also negatively impact the demand side of the economy in the near term.
+Destruction and loss of assets impacts income and wealth, which puts downward pressure on consumption. These effects come through a variety of channels including: the destruction of housing and disruption of wage payments or business income as well as greater uncertainty about growth and income prospects, which may depress confidence, reducing investment and increasing precautionary savings.
+There are also financial channels which could amplify these effects.
+Asset prices may fall because of the current or expected destruction of physical assets. There is a lot of evidence to suggest that house prices are negatively affected by current or expected physical hazards.
+footnote
+[17]
+So the value of collateral that borrowers can pledge to secure a loan can fall. Reduced insurance availability could also put downward pressure on house prices as insurers face increased claims as the physical impacts of climate change progress.
+footnote
+[18]
+In addition, if banks’ balance sheets are adversely affected, this can affect their willingness and ability to lend.
+The overall impact on output and inflation will depend on how supply and demand are affected and the response of monetary policy
+. Econometric studies on the macroeconomic effects from severe weather events find that the growth rate of GDP drops by around 0.5 percentage points (pp) on average in the immediate aftermath.
+footnote
+[19]
+footnote
+[20]
+A previous study by Raddatz (2009)
+footnote
+[21]
+estimated that a climate-related disaster resulted in a cumulative per-capita output loss of 0.25%, 0.5% and 1% for high, middle and low-income countries respectively. Countries with a lower resilience threshold
+footnote
+[22]
+also tend to see bigger effects
+footnote
+[23]
+. De Winne and Peersman (2021)
+footnote
+[24]
+show that a 10% increase in global food commodity prices stemming from weather-related shocks lowers GDP by 0.5% after six quarters across a panel of 75 countries.
+Adaptation measures and effective insurance can limit the economic fallout from severe weather events.
+Faster insurance payouts can help to speed up the recovery and help to limit the reduction in consumption.
+footnote
+[25]
+However, research suggests that 55% of global losses from physical hazards are currently not insured, and this may rise in future.
+A government’s ability and willingness to provide fiscal support
+is another important determinant of economic outcomes
+.
+Indeed, more frequent and severe weather events can diminish fiscal capacity and impair insurance provision, which can further increase the impact of shocks, particularly in emerging market and developing economies (Noy 2009)
+footnote
+[26]
+.
+The inflation impact depends on the type of disaster and the structural composition of the economy.
+Parker (2018)
+footnote
+[27]
+draws a distinction between storms, which increase food price inflation, and floods, which increase headline inflation more broadly. A study by Peersman (2022)
+footnote
+[28]
+showed that in response to a 1% unanticipated increase in globally-traded food prices, euro-area real GDP declined by 0.1% and headline inflation rose by 0.1%. Our own work at the Bank of England shows broadly comparable results for the UK.
+These impacts seem set to increase further as shocks become more frequent and severe.
+Kotz et al (2023)
+footnote
+[29]
+find that the summer 2022 extreme heat caused a cumulative impact of 0.7 percentage points on annual food price inflation and 0.3pp on annual headline inflation Europe. The paper also presents scenarios where the impact on inflation will increase substantially in future. Ficarra and Mari (2025)
+footnote
+[30]
+show that a one standard deviation increase in the number of UK floods would reduce regional output by 1% and raise regional inflation by 0.5% at the two-year horizon.
+It is little wonder, therefore, that governments have turned their attention to reducing the risks related to unmitigated climate change.
+But these actions will also have an economic impact too. So let me turn to that next.
+The shift towards a lower-carbon economy will affect how firms produce; how households consume; how governments spend and raise taxes; how banks and investors allocate finance; and can have international spillover effects.
+For ease, let’s focus on two types of transition policy: (i) carbon pricing and (ii) government subsidies or investment. The aggregate macroeconomic impacts of these policies will vary depending on their design, pace, stringency, credibility and the degree of coordination across countries.
+In the short run, higher carbon prices can act as a negative supply shock leading to an increase in inflation and a fall in output. Over the medium and longer term, the overall macroeconomic impacts will depend on policy design, sectoral coverage and how tax revenues are spent. A gradual and predictable rise in the carbon price results in smaller increases in inflation
+footnote
+[31]
+. Conversely, a more rapid price increase due to a delayed transition could create greater volatility, requiring central banks to react by more, with correspondingly greater impacts on output
+footnote
+[32]
+.
+The macroeconomic impacts of green subsidy schemes will depend on: the design and how they are financed as well as any supply bottlenecks. Directly subsidising private investments in green sectors, can act as a positive demand shock increasing both output and inflation. Whereas subsidising the price of green inputs can look more like a positive supply shock, increasing output but reducing inflation. The effect on overall inflation in the medium term will also depend on the impact on inflation expectations and the reaction of monetary policy.
+At the Bank, we have already begun to study these effects for the UK. Let me talk about some of this work.
+First, the impact on investment.
+A net zero-consistent pathway for the UK requires average financing of around £37 billion per year between 2030 to 2050, according to estimates by the Climate Change Committee (CCC)
+footnote
+[33]
+. Indeed, evidence from the Bank of England’s Decision Maker Panel
+footnote
+[34]
+survey suggests climate policies are already impacting the behaviour of UK firms. In 2024, UK firms reported that climate-related investments were set to rise from 2.5% of capital expenditures over the past three years to 5.5% in the next three years: an additional £13bn of green investment. Larger firms and those with higher energy intensity production expect the highest investment. And firms expect action to increase in the coming years.
+Second, the impact on growth and inflation.
+Using a structural model, Bank colleagues find that increases in carbon prices in the ETS push up on inflation and down on output in both the UK and euro area. The UK model estimates that over the period 2008-2024,
+a 10% carbon price increase triggers an immediate rise in energy price inflation of 0.8pp. This is followed by a smaller but more persistent rise in non-energy price inflation, of around 0.15pp at its peak, suggesting pass-through to energy-intensive sectors. There is also a lagged and temporary fall in the level of GDP.
+While a shock of this magnitude is illustrative, these dynamics suggest that when viewed in isolation, policies to increase the price of carbon operate much like other supply-side shocks in the economy, although these models do not capture the offsetting positive impact of avoided physical damages.
+Over the next few years – in other words, the current monetary policy horizon – the impact of carbon pricing on the economy could intensify. ETS sectoral coverage is set to expand and as free allocations are phased out for other sectors, carbon price rises could exert more ‘direct’ upward pressure on headline inflation.
+Third, spillover effects from abroad.
+Bank researchers
+footnote
+[35]
+have examined the potential spillover effects to the UK of carbon pricing and green subsidy policies implemented by major trading partners, using a two-country, two-sector DSGE model. The analysis suggests that an increase in green subsidies abroad is expansionary for the UK, as UK production expands to meet rising trading partner demand for UK exports. The model suggests UK inflation initially decreases due to cheaper imports, though it eventually rises alongside the higher UK economic activity. Conversely, increasing carbon prices abroad push up on UK inflation as UK imports become more expensive. While UK green goods exporters might benefit from rising demand for their products, the contractionary effect on trading partner output gradually decreases the demand for UK exports, which lowers UK output. So, for a small open economy, transition policies overseas seem to have similar economic effects to those at home.
+Implications for monetary policy makers
+The body of research and analysis I have just discussed suggests that the impact of both the physical effects of climate and the climate transition are growing in size and may increasingly represent a trade-off inducing shock for monetary policy makers to deal with.
+But how should policy makers think about this? In order to answer this question, I am going to adapt a framework from a recent speech by Francois Villeroy de Galhau, the Governor of the Banque de France.
+footnote
+[36]
+He considers five characteristics that are important for assessing how a climate shock or policy transmits through the economy.
+First, the
+persistence
+. If it is temporary, the classic prescription is for monetary policy to look through the first-round effects of a trade-off inducing shock. However, if natural disasters become more frequent and severe, it becomes harder to do that, not least because of the need for monetary policy to lean against second round effects in order to keep inflation expectations anchored.
+Second, the
+size of the shock
+. Many studies have found that in the past, climate-related shocks have been relatively small. But they are likely to grow: Kotz et al (2023)
+footnote
+[37]
+show that that without adaptation measures, annual global food price inflation may increase by 1-3ppby 2035, increasing headline inflation by between 0.3-1.2 pp. Those sorts of numbers would be very monetary-policy relevant.
+Third, if a shock affects sectors that are
+key nodes
+in the economy, it will have larger and more persistent effects. There is evidence of this already
+footnote
+[38]
+: the 2022 droughts led to low water levels on the Rhine, which led to material falls in German industrial production. That is because the river plays an important role in the transportation of raw materials that are at the beginning of production chains, causing knock-on disruption to finished goods.
+Fourth, the
+salience for households
+of affected sectors. Studies
+footnote
+[39]
+suggest that households’ inflation expectations are particularly influenced by price changes for items that they buy more frequently, such as food and energy, which are both particularly exposed to climate change.
+Fifth, the
+predictability
+of a shock. Natural disasters are by their nature highly unpredictable, even if the increasing frequency of their occurrence is more certain. Transition policies that are clear and implemented gradually, like a carbon tax phased in over a number of years, are less likely to lead to sudden volatility in inflation and output.
+In short, this all sounds quite similar to the shocks monetary policy makers have faced in recent years – large, unpredictable, but persistent supply shocks in areas of salience for households, which in some cases have disrupted supply chains.
+Indeed, if it sounds like more of the same, then I would argue that this is important for central banks in the context of the experience of the past few years. Not least because failure to act in response to these shocks could lead to second round effects, affecting wage bargaining and inflation expectations. There is ample evidence in the literature
+footnote
+[40]
+that at higher levels of inflation, and as inflationary shocks occur more frequently, households and firms pay more attention to current inflation when forming their expectations.
+So as acute physical shocks occur more frequently, monetary policymakers will need to understand the economic impact of these shocks and may need to react to them in order to keep inflation expectations anchored.
+Let’s take a look at some examples. For disaster-prone countries
+footnote
+[41]
+, it’s clear that a trade-off between near-term inflation and falling output arises frequently. In general, policymakers are more likely to tighten than relax policy in response to these shocks as they act to offset inflationary pressures. As physical events become more frequent and severe across a number of countries, the likelihood of second-round effects on inflation will increase, especially if agents start to incorporate expectations of future climate shocks into their inflation expectations.
+Turning to transition policies, some of my colleagues at the Bank of England have used a climate DSGE model to look at how the announced future path for carbon pricing and green government spending policies affect the UK economy and therefore monetary policy. Importantly, the model assumes less than full anticipation of the policies to be implemented. In the medium run, these policies push down on output and up on inflation – in short, we have the classic trade off again. Monetary policy is forced to tighten in the near term, with the degree of restriction lessening further out because negative effects on output begin to materialise.
+Modelling assumptions are important though. First, the model includes none of the acute physical damages avoided in the longer-term by transitioning to net zero. Second, the overall impact will depend on exactly how the carbon tax is implemented and the way that revenues are recycled back into the economy. Third, the model also takes no view of the longer-run effects on the supply side of the economy – indeed, while the efficiency of the economy will be reduced as fossil fuels are phased out, if new green technologies are more efficient in the long-run, then productivity will rise further out.
+Where do we go from here?
+As I noted at the beginning, we’ve been working on these issues over the past three years in the NGFS. One of the key strengths of the network is the diversity of its membership. This means that not only do we have a lot of central banks thinking about these issues – 105 at last count – but more than sixty of those members have come together to set out a framework and analytical foundation to model and understand the impact of climate change on the economy. These central banks bring different skills and experiences – they span all five continents and include oil exporters and importers; low income, emerging market and advanced economies; and countries where the physical effects of climate have already become much more prominent.
+More broadly, what I have learned from this work is: don’t let the best be the enemy of the good – get going on the modelling! While some central banks now have models which factor in climate considerations, the impact of the transition can be modelled using relatively conventional models such as those used to assess the impact of taxes and subsidies. These are detailed in the NGFS macro-modelling Handbook we published last year
+footnote
+[42]
+.
+On the physical side – modelling remains more challenging, as it requires the combination of two disciplines: economics and climate science. The most common approach to model physical economic impacts is to use Integrated Assessment Models, which link an emissions pathway to macro impacts via the use of a “damage function”. These are more appropriate for modelling more gradual, chronic physical impacts. Damage functions are a field of active research, with improvements being made over time. For example, the 2025 NGFS long-term scenarios show much larger damages for chronic climate impacts than in previous vintages. Other models are also required to reflect acute physical factors – to allow for unanticipated, higher frequency shocks.
+The next phase of the NGFS monetary-policy work will build on this practical experience. We are exploring how the impacts of climate change can be integrated into monetary policy decision-making, including via a modelling collaboration with the IMF using their GMMET model
+footnote
+[43]
+. Indeed, some central banks have already embedded climate-related variables in their nowcasting methods for GDP and inflation. Whereas others are beginning to explore climate scenarios for monetary policy purposes.
+At the Bank of England, we have been developing our capabilities to explore the transmission of climate shocks and to assess our forecast errors. For example, Bank analysis suggests that climate transition policies were probably more important contributors to recent movements in inflation than we previously thought
+footnote
+[44]
+.
+More broadly, we have begun to act on the recommendations of the Bernanke review - the independent review of forecasting for monetary policy making and communication at the Bank of England. As part of our response to this review, we plan to make more systematic use of scenarios for monetary policy – as described in Lombardelli (2024)
+footnote
+[45]
+– which could include weather and energy-related scenarios where appropriate. Such scenarios would sit alongside a central projection and allow the Bank’s Monetary Policy Committee to consider the implications of these alternative assumptions in their monetary policy deliberations.
+Conclusion
+Let me sum up with four conclusions.
+First, there is evidence that the physical effects of climate change are having an increasing impact on output and inflation over monetary-policy relevant horizons. This means that monetary policymakers need to understand these risks as part of their deliberations.
+Second, understanding the nature of climate shocks is important. While their impact will vary, these shocks may look similar to those that monetary policy makers have faced in recent years – large, unpredictable and potentially persistent, supply shocks. In other words, they may increasingly present difficult inflation-output trade-offs for policymakers to manage.
+Different central banks have different mandates, but if climate is a macro-relevant shock over the monetary policy horizon, then central banks will need to understand it. The first phase of our work in the NGFS has laid out an analytical framework and offered guidance on how to model climate shocks. These are also active areas of research at the Bank of England too.
+Third, this is not about using monetary policy to tackle the climate transition. That is a job for government policy. At the Bank of England, our monetary policy mandate is to maintain price stability – defined as an inflation rate of 2% – and, subject to that, to support the economic policy of the UK government. The best contribution monetary policy can make to the climate transition is therefore to ensure economic stability. But in order to do that, we need to understand the impact of climate change on the economy.
+Finally, governments are increasing actions to tackle climate change in order to avoid catastrophic economic damages in the future. Although the climate transition might seem like a problem for monetary policy to deal with, delaying it will only accrue greater difficulties for monetary policy further down the road.
+footnote
+[46]
+So as the transition progresses, the Bank of England will respond to it by continuing to set monetary policy to ensure that we achieve our inflation target. Just as we do with any other shock we face.
+I would like to thank Edwin Millar and Jackie Tibbetts for their excellent assistance in preparing these remarks. I would also like to thank Raphael Abiry, Lennart Brandt, Natalie Burr, Ambrogio Cesa-Bianchi, Boris Chafwehe, Hannah Copeland, Francesca Diluiso, Aydan Dogan, Lukasz Krebel, Danae Kyriakopoulou, Rebecca Mari, Dooho Shin, and Boromeus Wanengkirtyo for their underlying research and helpful input. I would also like to thank Andrew Bailey, Sarah Breeden, Simon Hall, Catherine Mann, Rhys Phillips, Caspar Siegert and Chris Young for their helpful comments. The views expressed here are not necessarily those of the Monetary Policy Committee (MPC) or the Financial Policy Committee (FPC).
+Speech by Mark Carney at Lloyd's of London, Tuesday 29 September 2015
+On 30 April 2025, the PRA published an update to this:
+CP10/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks – Update to SS3/19.
+The NGFS is a globally representative group of c. 140 central banks and supervisors which was founded in 2017 to develop and share best practice on how climate change impacts their core responsibilities.
+See:
+NGFS Scenarios Portal
+for further details.
+Results of the 2021 Climate Biennial Exploratory Scenario (CBES) | Bank of England
+On 5 November 2021, the Bank published
+our approach to green our Corporate Bond Purchase Scheme
+, with adjustments starting from the November 2021 reinvestment round.
+Isabel Schnabel: A new age of energy inflation - climateflation, fossilflation and greenflation
+Climate policy and monetary policy: interactions and implications - speech by Catherine L. Mann | Bank of England
+IPCC — Intergovernmental Panel on Climate Change
+Banerjee, C., Bevere, L., Corti, T., Finucane, J. and Lechner, R. (2023)
+Natural catastrophes and inflation in 2022: A perfect storm – Swiss Re Sigma: Swiss Re.
+Hurricanes, severe thunderstorms and floods drive insured losses above USD 100 billion for 5th consecutive year, says Swiss Re Institute | Swiss Re
+A measure of wheat for a penny: food price inflation in historical perspective - speech by Andrew Bailey | Bank of England
+Peersman G. (2022)
+International food commodity prices and missing (dis) inflation in the euro area. Review of Economics and Statistics, vol. 104(1), 85-100
+NGFS reports on climate change, the macroeconomy and monetary policy | Network for Greening the Financial System
+Physical risks can be described as chronic or acute. Chronic risks relate to long-term shifts in climate patterns like rising temperatures and sea levels, while acute risks arise from extreme weather events, such as floods, heatwaves and wildfires.
+Bank Underground - Staying afloat: the impact of flooding on UK firms
+For example,
+Ortega and Taspinar (2018)
+study house prices in New York City in the aftermath of Hurricane Sandy and Beltran,
+Maddison and Elliot (2019)
+analyse the price path of properties affected by flooding in England between 1995 and 2014.
+Ortega, F. and Taspinar, S. (2018)
+Rising sea levels and sinking property values: Hurricanev Sandy and New York’s housing market. Journal of Urban Economics, Elsevier, vol. 106(C), 81-100.
+Maddison, D. and Elliot, R (2019)
+The impact of flooding on property prices: A repeat-sales approach.
+The shorter-term financial impact of flooding on households is likely to be limited, as around 90% of residential properties are insured. This is in part due to the existence of Flood Re, a joint reinsurance initiative between the Government and the insurance industry. As physical climate-related risks increase over the longer term, and the Flood Re scheme ends, financial stability risks could develop. In the Bank’s CBES, under the ‘No Additional Action’ scenario, insurers projected that insurance for around 7% of (or approximately two million) UK households would become unaffordable or unavailable.
+See also
+Botzen et al. (2019)
+and
+Parker (2018)
+for a recent review of the quickly expanding literature.
+Botzen, W., Deschenes, O. and Sanders, M. (2019)
+The economic impacts of natural disasters: A review of
+models and empirical studies. Review of Environmental Economics and Policy, vol. 13(2), 167-188.
+Parker, M. (2018)
+The Impact of Disasters on Inflation. Economics of Disasters and Climate Change, Springer, vol. 2(1), 21-48.
+See
+Bodenstein and Scaramucci (2024)
+On the GDP Effects of Severe Physical Hazards.
+International Finance Discussion Papers (IFDP).
+Raddatz, C. (2009)
+The wrath of God: macroeconomic costs of natural disasters. World Bank policy research working paper, (5039).
+Events below this threshold are associated with a significantly lower toll on the human and economic activity than events that surpass this threshold.
+Emerging market and developing economies face much larger shocks to their economies following a disaster of similar magnitude (
+Noy, 2009
+) reflecting their lower resilience threshold. A climate disaster results in a cumulative per-capita output loss of 0.5 and 0.25% for middle and high-income countries, while the losses amount to 1% among low-income countries
+(Raddatz, 2009
+). However, the smaller effects of weather shocks in higher income countries do not mean that they are immune to the effects of climate change (
+Kahn et al., 2021
+).
+De Winne, J. and Peersman, G. (2021)
+The adverse consequences of global harvest and weather
+disruptions on economic activity. Nature Climate Change, vol. 11, 665-672.
+Business interruption insurance claims have been dominated by natural catastrophe activity in recent years according to Allianz Commercial. Such insurance measures can help to cushion the impact of extreme weather events on firms. As noted, annual insured losses for natural catastrophes have been growing and this is expected to continue.
+Noy, I. (2009)
+The macroeconomic consequences of disasters. Journal of Development Economics, 88(2), 221-231.
+Parker, M. (2018)
+The Impact of Disasters on Inflation. Economics of Disasters and Climate Change, Springer, vol. 2(1), 21-48.
+Peersman G. (2022)
+International food commodity prices and missing (dis) inflation in the euro area. Review of Economics and Statistics, vol. 104(1), 85-100.
+Kotz, M., Kuik, F., Lis, E. and Nickel, C. (2023)
+The impact of global warming on inflation: averages,
+seasonality, and extremes. Working Paper Series 2821,European Central Bank.
+Weathering the storm: sectoral economic and inflationary effects of floods and the role of adaptation | Bank of England
+Pinheiro de Matos, L. and Gili, R.M. (2022)
+Carbon prices: design and macroeconomic impact, CaixaBank Research.
+McKibbin, W.J., Morris, A.C., Wilcoxen, P.J. and Panton, A.J. (2020)
+Climate change and monetary policy: issues for policy design and modelling, Oxford Review of Economic Policy, Vol. 36(3), pp. 579-603.
+This figure represents the total additional capital investment required relative to the baseline, without removing double counting of energy costs.
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. The Bank of England use it to monitor developments in the economy and to track businesses’ views. The DMP was set up in August 2016 and is run by the Bank of England in collaboration with King’s College London and the University of Nottingham. Data is published monthly and quarterly.
+International spillovers from climate policy – Bank Underground
+Adapted from:
+Villeroy de Galhau, F. (2024), Monetary Policy in Perspective (II): Three landmarks for a future of “Great Volatility”, Speech delivered at The London School of Economics, London, 30 October 2024
+.
+Kotz, M., Kuik, F., Lis, E. and Nickel, C. (2023)
+The impact of global warming on inflation: averages,
+seasonality, and extremes. Working Paper Series 2821, European Central Bank.
+Ademmer, M., Jannsen, N. and Mösle, S. (2020) Extreme weather events and economic activity: The case of low water levels on the Rhine River. Kiel Working Papers 2155, Kiel Institute for the World Economy.
+Food prices matter most: sensitive household inflation expectations | Bank of England
+.
+D’Acunto et al (2021)
+and
+Coibion and Gornichenko (2015)
+).
+Holding the anchor in turbulent waters – speech by Catherine L. Mann | Bank of England
+How should central banks respond to climate shocks? Narrative evidence and policy options, Cantelmo et al 2024 - SUERF
+NGFS publishes a climate macroeconomic modelling handbook | Network for Greening the Financial System
+Getting to Know GMMET: The Global Macroeconomic Model for the Energy Transition
+Reading between the lines − speech by Sarah Breeden | Bank of England
+Managing the present, shaping the future - speech by Clare Lombardelli | Bank of England
+NGFS long-term scenarios
+demonstrate that although climate risks are likely to present trade-offs for policymakers in the near term, the costs of climate inaction far outweigh the impact of net-zero aligned climate policies.
+NGFS long-term scenarios
+demonstrate that although climate risks are likely to present trade-offs for policymakers in the near term, the costs of climate inaction far outweigh the impact of net-zero aligned climate policies.
+Close
+Managing the present, shaping the future - speech by Clare Lombardelli | Bank of England
+Close
+Reading between the lines − speech by Sarah Breeden | Bank of England
+Close
+Getting to Know GMMET: The Global Macroeconomic Model for the Energy Transition
+Close
+NGFS publishes a climate macroeconomic modelling handbook | Network for Greening the Financial System
+Close
+How should central banks respond to climate shocks? Narrative evidence and policy options, Cantelmo et al 2024 - SUERF
+Close
+Holding the anchor in turbulent waters – speech by Catherine L. Mann | Bank of England
+Close
+Food prices matter most: sensitive household inflation expectations | Bank of England
+.
+D’Acunto et al (2021)
+and
+Coibion and Gornichenko (2015)
+).
+Close
+Ademmer, M., Jannsen, N. and Mösle, S. (2020) Extreme weather events and economic activity: The case of low water levels on the Rhine River. Kiel Working Papers 2155, Kiel Institute for the World Economy.
+Close
+Kotz, M., Kuik, F., Lis, E. and Nickel, C. (2023)
+The impact of global warming on inflation: averages,
+seasonality, and extremes. Working Paper Series 2821, European Central Bank.
+Close
+Adapted from:
+Villeroy de Galhau, F. (2024), Monetary Policy in Perspective (II): Three landmarks for a future of “Great Volatility”, Speech delivered at The London School of Economics, London, 30 October 2024
+.
+Close
+International spillovers from climate policy – Bank Underground
+Close
+The Decision Maker Panel (DMP) is a survey of Chief Financial Officers from small, medium and large UK businesses. The Bank of England use it to monitor developments in the economy and to track businesses’ views. The DMP was set up in August 2016 and is run by the Bank of England in collaboration with King’s College London and the University of Nottingham. Data is published monthly and quarterly.
+Close
+This figure represents the total additional capital investment required relative to the baseline, without removing double counting of energy costs.
+Close
+McKibbin, W.J., Morris, A.C., Wilcoxen, P.J. and Panton, A.J. (2020)
+Climate change and monetary policy: issues for policy design and modelling, Oxford Review of Economic Policy, Vol. 36(3), pp. 579-603.
+Close
+Pinheiro de Matos, L. and Gili, R.M. (2022)
+Carbon prices: design and macroeconomic impact, CaixaBank Research.
+Close
+Weathering the storm: sectoral economic and inflationary effects of floods and the role of adaptation | Bank of England
+Close
+Kotz, M., Kuik, F., Lis, E. and Nickel, C. (2023)
+The impact of global warming on inflation: averages,
+seasonality, and extremes. Working Paper Series 2821,European Central Bank.
+Close
+Peersman G. (2022)
+International food commodity prices and missing (dis) inflation in the euro area. Review of Economics and Statistics, vol. 104(1), 85-100.
+Close
+Parker, M. (2018)
+The Impact of Disasters on Inflation. Economics of Disasters and Climate Change, Springer, vol. 2(1), 21-48.
+Close
+Noy, I. (2009)
+The macroeconomic consequences of disasters. Journal of Development Economics, 88(2), 221-231.
+Close
+Business interruption insurance claims have been dominated by natural catastrophe activity in recent years according to Allianz Commercial. Such insurance measures can help to cushion the impact of extreme weather events on firms. As noted, annual insured losses for natural catastrophes have been growing and this is expected to continue.
+Close
+De Winne, J. and Peersman, G. (2021)
+The adverse consequences of global harvest and weather
+disruptions on economic activity. Nature Climate Change, vol. 11, 665-672.
+Close
+Emerging market and developing economies face much larger shocks to their economies following a disaster of similar magnitude (
+Noy, 2009
+) reflecting their lower resilience threshold. A climate disaster results in a cumulative per-capita output loss of 0.5 and 0.25% for middle and high-income countries, while the losses amount to 1% among low-income countries
+(Raddatz, 2009
+). However, the smaller effects of weather shocks in higher income countries do not mean that they are immune to the effects of climate change (
+Kahn et al., 2021
+).
+Close
+Events below this threshold are associated with a significantly lower toll on the human and economic activity than events that surpass this threshold.
+Close
+Raddatz, C. (2009)
+The wrath of God: macroeconomic costs of natural disasters. World Bank policy research working paper, (5039).
+Close
+See
+Bodenstein and Scaramucci (2024)
+On the GDP Effects of Severe Physical Hazards.
+International Finance Discussion Papers (IFDP).
+Close
+See also
+Botzen et al. (2019)
+and
+Parker (2018)
+for a recent review of the quickly expanding literature.
+Botzen, W., Deschenes, O. and Sanders, M. (2019)
+The economic impacts of natural disasters: A review of
+models and empirical studies. Review of Environmental Economics and Policy, vol. 13(2), 167-188.
+Parker, M. (2018)
+The Impact of Disasters on Inflation. Economics of Disasters and Climate Change, Springer, vol. 2(1), 21-48.
+Close
+The shorter-term financial impact of flooding on households is likely to be limited, as around 90% of residential properties are insured. This is in part due to the existence of Flood Re, a joint reinsurance initiative between the Government and the insurance industry. As physical climate-related risks increase over the longer term, and the Flood Re scheme ends, financial stability risks could develop. In the Bank’s CBES, under the ‘No Additional Action’ scenario, insurers projected that insurance for around 7% of (or approximately two million) UK households would become unaffordable or unavailable.
+Close
+For example,
+Ortega and Taspinar (2018)
+study house prices in New York City in the aftermath of Hurricane Sandy and Beltran,
+Maddison and Elliot (2019)
+analyse the price path of properties affected by flooding in England between 1995 and 2014.
+Ortega, F. and Taspinar, S. (2018)
+Rising sea levels and sinking property values: Hurricanev Sandy and New York’s housing market. Journal of Urban Economics, Elsevier, vol. 106(C), 81-100.
+Maddison, D. and Elliot, R (2019)
+The impact of flooding on property prices: A repeat-sales approach.
+Close
+Bank Underground - Staying afloat: the impact of flooding on UK firms
+Close
+Physical risks can be described as chronic or acute. Chronic risks relate to long-term shifts in climate patterns like rising temperatures and sea levels, while acute risks arise from extreme weather events, such as floods, heatwaves and wildfires.
+Close
+NGFS reports on climate change, the macroeconomy and monetary policy | Network for Greening the Financial System
+Close
+Peersman G. (2022)
+International food commodity prices and missing (dis) inflation in the euro area. Review of Economics and Statistics, vol. 104(1), 85-100
+Close
+A measure of wheat for a penny: food price inflation in historical perspective - speech by Andrew Bailey | Bank of England
+Close
+Hurricanes, severe thunderstorms and floods drive insured losses above USD 100 billion for 5th consecutive year, says Swiss Re Institute | Swiss Re
+Close
+Banerjee, C., Bevere, L., Corti, T., Finucane, J. and Lechner, R. (2023)
+Natural catastrophes and inflation in 2022: A perfect storm – Swiss Re Sigma: Swiss Re.
+Close
+IPCC — Intergovernmental Panel on Climate Change
+Close
+Climate policy and monetary policy: interactions and implications - speech by Catherine L. Mann | Bank of England
+Close
+Isabel Schnabel: A new age of energy inflation - climateflation, fossilflation and greenflation
+Close
+On 5 November 2021, the Bank published
+our approach to green our Corporate Bond Purchase Scheme
+, with adjustments starting from the November 2021 reinvestment round.
+Close
+Results of the 2021 Climate Biennial Exploratory Scenario (CBES) | Bank of England
+Close
+See:
+NGFS Scenarios Portal
+for further details.
+Close
+The NGFS is a globally representative group of c. 140 central banks and supervisors which was founded in 2017 to develop and share best practice on how climate change impacts their core responsibilities.
+Close
+On 30 April 2025, the PRA published an update to this:
+CP10/25 – Enhancing banks’ and insurers’ approaches to managing climate-related risks – Update to SS3/19.
+Close
+Speech by Mark Carney at Lloyd's of London, Tuesday 29 September 2015
+Close
+Convert this page to PDF
+James Talbot
+Executive Director, International
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

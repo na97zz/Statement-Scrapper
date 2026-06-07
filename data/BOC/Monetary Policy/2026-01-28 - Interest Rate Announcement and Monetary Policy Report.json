@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Interest Rate Announcement and Monetary Policy Report",
+  "date_original": "2026-01-28",
+  "date_au": "28/01/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2026/01/interest-rate-announcement-and-monetary-policy-report-january-28-2026/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2026-01-28 - Interest Rate Announcement and Monetary Policy Report.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2026-01-28 - Interest Rate Announcement and Monetary Policy Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7498abca7866962ca18d25fab5dcbc4cc7ba6ae588a0c7ab8bc33c98f72a4781"
+}

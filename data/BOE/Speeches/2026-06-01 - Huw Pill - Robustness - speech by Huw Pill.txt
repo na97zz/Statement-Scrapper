@@ -1,0 +1,612 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Robustness - speech by Huw Pill
+DATE: 01/06/2026
+SPEAKER: Huw Pill
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/-/media/boe/files/speech/2026/speech-given-by-huw-pill.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+Bank of England  
+ 
+ Page 1 
+ 
+ 
+ 
+Robustness − speech by Huw 
+Pill 
+Speech at the National Bank of the Republic of North Macedonia and 
+SUERF conference – Central Banking Amid Persistent Global Shifts: 
+Fostering Stability, Innovation, and Resilience, Skopje 
+24 March 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 2 
+ 
+Speech  
+Thank you for the invitation to speak at today’s conference and for the warm welcome that 
+I have received here in Skopje.1 It is a privilege to hear from both former colleagues and 
+leading central bankers about how to address the multitude of challenges currently facing 
+macroeconomic and financial policymakers.2  
+In my remarks this morning, I will explore well-trodden ground: the conduct of monetary 
+policy under uncertainty.  
+To set expectations at the right level at the outset, I recognise that – precisely because this 
+ground is so well-trodden – it will be difficult to say something new. So don’t expect too 
+much in terms of novelty. 
+But equally, this ground is well-trodden precisely because it is so important. Dealing with 
+uncertainty is central to taking monetary policy decisions – perhaps now more than ever.  
+The outbreak of hostilities in the Gulf has created new risks for central bankers that we are 
+grappling with in real time (I will return to the conjuncture at the end of my comments). And 
+as my tenure on the Bank of England’s Monetary Policy Committee (MPC) extends into its 
+fifth year, I look back across a period of what seems like unprecedented uncertainty, 
+spanning pandemic, invasions, energy price spikes and market turmoil.  
+But monetary policy makers are often prone to characterise their tenure as one of 
+“unusually high uncertainty”. Mea culpa.3 It is noteworthy then that, for all the talk of a 
+Great Moderation in the early years of this century,4 you didn’t hear central bankers at that 
+time saying that they were facing a period of “unusually high certainty”.5  
+But there is a sense in which this misses the point.  
+It is the irreducible nature of the uncertainty surrounding the inflation outlook and the 
+propagation of inflationary shocks that renders the monetary policy problem         
+‘interesting’ – or (perhaps better when viewed from my seat on the MPC) ‘difficult’. After 
+all, as former Fed Chairman Alan Greenspan famously remarked: “Uncertainty is not just 
+an important feature of the monetary policy landscape; it is the defining characteristic of 
+that landscape”.6 
+
+
+Bank of England  
+ 
+ Page 3 
+ 
+And the nature of that uncertainty matters. 
+Back to the work of Theil in the 1950s and ‘60s,7 macroeconomists have characterised the 
+challenges facing monetary policy makers as an optimal control problem. Under certain 
+conditions,8 this leads to a certainty equivalence result.  
+In that setting, while introducing greater uncertainty into the system unavoidably adds to 
+the volatility of inflation, it does not alter how monetary policy should respond to 
+developments in the data. The optimal monetary policy rule is invariant to the magnitude of 
+risk captured by the distribution of shocks hitting the economy.  
+This approach became the workhorse framework for thinking about monetary policy. And 
+much progress was made in developing ‘the science of monetary policy’ on that basis.9 
+For example, the approach established the importance of the Taylor principle: having 
+nominal interest rates rise more than proportionately to inflation’s deviation from its target 
+imparted a necessary stabilising property to the conduct of monetary policy.10 
+In that context, a mapping was identified between ‘optimal targeting rules’ for monetary 
+policy and ‘optimal instrument rules’ for monetary policy.11 Cutting through the jargon, this 
+implied that once the monetary policy problem has been defined correctly within the 
+standard framework, deriving how monetary policy should respond to developments in the 
+state of the economy was simply a matter of mathematics.  
+The optimal sensitivity of policy interest rates to the evolution of macroeconomic indicators 
+(such as inflation or the output gap) was implicit in the definition of the inflation target, the 
+central bank’s model of the economy, and the distribution of shocks hitting that             
+economy – all of which were assumed to be known with certainty. 
+This was the basis of the textbook presentation of the ‘inflation forecast targeting’ regime 
+that served the Bank of England (and other central banks) well for a long period around 
+the turn of the century. And it marked the apogee of viewing ‘monetary policy as 
+engineering’.12 
+But if the answer to your question is simply a mechanical transformation of the question 
+itself, then you need to be confident that you have defined the question in the right way.  
+From the outset it was recognised that the standard optimal control characterisation of 
+monetary policy missed important forms of uncertainty: where expectation formation was 
+
+
+Bank of England  
+ 
+ Page 4 
+ 
+not always rational; where key players in the economy needed to learn over time about its 
+structure and the behaviour of other actors; where key model parameters were not known 
+with certainty and/or were subject to shocks; where the underlying paradigm driving the 
+inflation process – whether New Keynesian, monetarist, classical or Austrian – was 
+unclear.  
+The economic literature explored how policy makers should address these concerns.13 
+And in doing so, they brought into question the certainty equivalence result that insulated 
+monetary policy makers from the quantum of uncertainty they faced. The benefit of 
+adopting simple rules that were easier to communicate was also touted.14 
+Experience over recent years has further challenged the belief that the economy and the 
+transmission of monetary policy were simple enough and/or understood well enough to be 
+characterised by a naïve linear modelling framework. From my perspective, the character 
+and magnitude of the uncertainties the MPC have faced over recent years extends well 
+beyond what that standard framework could capture. 
+More profoundly, former BoE Governor Lord King has argued that monetary policy makers 
+face ‘radical uncertainty’ – uncertainties that are not susceptible to being represented by 
+probabilities or as risks.15 Such radical uncertainty captures: the Knightian uncertainty 
+familiar from economics texts; the Keynesian uncertainty that arises from the strategic 
+interaction among economic actors (through which the economy coordinates on one of 
+several aggregate outcomes); and, more simply, the “unknown unknowns” that plague the 
+policy making environment in practice. 
+Rather than confining themselves to the question nested within the conventional analytical 
+framework, a successful monetary policy maker needs to start by asking a more             
+relevant – but also substantially more challenging – question: How should monetary policy 
+be conducted in an environment of more profound uncertainty, where the character of 
+inflationary shocks and structure of the transmission mechanism are not well understood?  
+Recognising the necessarily real time dimension of policy making16 – the need to take 
+decisions as events happen, rather than enjoying the luxury of waiting to see how events 
+transpire before analysing the outcomes and then setting policy – only sharpens these 
+challenges. 
+
+
+Bank of England  
+ 
+ Page 5 
+ 
+Acknowledging these considerations, in 2023 the Court of the Bank of England 
+commissioned Ben Bernanke (former Chair of the Federal Reserve Board and Nobel Prize 
+winner in economics) to conduct ‘a review into the Bank’s forecasting and related 
+processes during times of significant uncertainty” (emphasis added). 
+That is a big question. It deservedly received a big answer. Professor Bernanke’s review 
+ran to more than 30,000 words and offered twelve recommendations for reform of the 
+Bank of England’s preparation of its monetary policy decisions.17 These recommendations 
+are currently being addressed by BoE staff, with the results becoming apparent in the 
+evolution of the MPC’s published analysis and communication over time.18 
+But in the eyes of many stakeholders, Professor Bernanke’s guidance can be boiled down 
+to one word: scenarios. More specifically, Professor Bernanke recommended that ‘to 
+improve the MPC’s policy discussion, the central forecast should be regularly augmented 
+by alternative scenarios’ (recommendation 7). This has been the focus of much of the 
+subsequent commentary about how the Bank of England is responding to Professor 
+Bernanke’s suggestions.  
+Constructing scenarios is not a novel approach to addressing the implications of 
+uncertainty for monetary policy, neither across central banks nor through time at the Bank 
+of England. And scenario analysis has been used in many other settings. But using 
+scenarios as a tool to address the implications of radical uncertainty for monetary policy is 
+an important innovation (even if not, of itself, a complete answer to all the issues raised by 
+Professor Bernanke in his review), particularly so if the results of this approach are also 
+used as a key tool for central bank communication with the public. 
+At the heart of such an approach is the pursuit of robustness in policy choices. By 
+evaluating policy settings across a range of different scenarios, monetary policy makers 
+can develop confidence that their decisions will deliver ‘good’ outcomes (evaluated against 
+their price stability objective) even in the face of radical uncertainty.  
+Rather than narrowly optimal in one setting (and potentially fragile in the face of small 
+deviations from that setting), a robust monetary policy delivers inflation close to target 
+across a broad and diverse set of environments defined by the range of scenarios 
+considered.19  
+
+
+Bank of England  
+ 
+ Page 6 
+ 
+Using scenario analysis in this way immediately begs two inter-related questions: (1) How 
+do you select the scenarios of relevance? and (2) How do you distil the implications of 
+various scenarios into a necessarily single decision about the level (and future path) of 
+policy interest rates? 
+As regards the former question, choosing the breadth and diversity of scenarios inevitably 
+requires the exercise of judgment. That judgement will have to manage the trade-off 
+between, on the one hand, ensuring the range of scenarios considered is broad enough to 
+offer meaningful diversity (and thus really test robustness of decisions in different 
+environments) and, on the other hand, avoiding that decisions are distracted or distorted 
+by arcane or obscure scenarios. Exercising judgement in this context is one aspect of what 
+might be labelled ‘the art of monetary policy’. 
+This allusion to art is not as trivial as it may initially sound. I understand that the CIA and 
+the US Department of Homeland Security have both employed science fiction writers to 
+develop scenarios for their counter-terrorism work, on the basis that institutional biases 
+and ‘groupthink’ among experts stifle their ability to think ‘outside-the-box’ and consider 
+possibilities that would otherwise be ignored.20 While (to my knowledge) the Bank of 
+England has not followed this route as yet, an important aspect of the post-Bernanke 
+reforms at the Bank of England is to promote diversity of thought among the staff and 
+encourage those willing to take contrarian views to ‘think-the-unthinkable’.21 
+I will dwell a little longer on the second question. 
+Monetary policy makers benefit from adopting a systematic approach to setting the stance 
+of policy, since this allows them to influence private expectations of those policy settings 
+and the implications they have for a wider set of economic variables. It is this insight that 
+has led to a focus on ‘monetary policy rules’, which in most practical applications provide a 
+mapping from the available data to the policy interest rate.  
+When pursuing a robust approach to monetary policy in the face of radical uncertainty, 
+policy makers need to choose a policy rule that performs well in a variety of disparate 
+settings.  
+To explore this in the abstract (and for simplicity), we can imagine two characterisations of 
+the inflation process and ask how monetary policy should be set to deliver price stability 
+
+
+Bank of England  
+ 
+ Page 7 
+ 
+reliably when we cannot be sure which of the two characterisations is actually driving 
+inflation outcomes. 
+Suppose each policy rule were to deliver a pair of performance outturns, one in each of the 
+two settings that we consider. By looking across all the possible rules, we can define a 
+locus of efficient pairings – each pair associated with a specific policy rule – that represent 
+the outturns that cannot be improved upon in a Pareto sense (i.e., along this efficient 
+locus, you cannot find a rule that improves performance in one of the settings without 
+worsening it in the other).  
+This leaves the question of how to select a rule from among those defining this efficient 
+frontier.22 
+One way of doing so would be to adopt a Bayesian approach. This entails assigning 
+subjective probabilities to each of the two characterisations of inflation dynamics, even 
+though there may not be an objective analytical basis for those probabilities at certain 
+times. Such an approach assesses the desirability of policy rules on the basis of a 
+weighted average of how they perform across the two settings, with the weights 
+determined by the chosen subjective probabilities. 
+An alternative approach involves a form of ‘risk management’, where policy makers 
+choose a policy rule on the basis that it will avoid the worst possible outcomes. One way to 
+capture this is to assume that policy makers seek to minimise the impact of the worst 
+outcome they could achieve across the two inflation environments – a so-called ‘min-max’ 
+strategy. 
+In this context, the preferred rule under the Bayesian approach will be identified by a 
+tangency to this efficient locus, where the slope of the tangent is related to the probability 
+assigned to each if the two settings.23 By contrast, the preferred rule under the min-max 
+approach will be identified by the point where the efficient locus crosses the 450 line – if all 
+scope to lower the two losses simultaneously has been exhausted, the minimisation of the 
+maximum loss entails the two losses being equal. 
+Having set up this simple machinery, we can explore three cases.24 
+
+
+Bank of England  
+ 
+ Page 8 
+ 
+Chart 1: Standard framework where the losses are equal 
+    
+ 
+The first case is one with the standard setting, where the underlying drivers of the inflation 
+process are unique and known. In that context, there is a unique optimal rule.  
+It may be that we have several narratives to describe monetary policy – say a monetarist 
+narrative and a New Keynesian narrative – but in this setting the differences between them 
+are cosmetic not substantial. In this context, the preferred choice of rule in the Bayesian 
+approach is independent of the subjective probability and identical to the preferred choice 
+in the min-max approach (Chart 1). In other words, in the standard setting robustness 
+collapses into optimality and the issues raised earlier in my presentation are irrelevant. 
+A more interesting case arises when the efficient locus is convex to the origin (as in    
+Chart 2), so that identifying a preferred rule faces meaningful trade-offs. In general, the 
+Bayesian and min-max approaches will be associated with different preferred rules. As a 
+starting point for a policy discussion at the MPC, these two different rules identify distinct 
+scenarios that are worth exploring in coming to a final ‘rule-based but not rule-bound’ 
+decision on the setting for policy interest rates.  
+
+
+Bank of England  
+ 
+ Page 9 
+ 
+Chart 2: Convex Efficient Locus  
+    
+ 
+Two features of this case are worth highlighting. 
+First, there is always a subjective probability in the Bayesian approach that will mimic the 
+preferred rule in the min-max approach. In that sense, the Bayesian approach 
+encompasses the min-max approach. 
+Second, within the Bayesian approach small changes in the subjective probability involve 
+small movements along the efficient locus. And in all likelihood, this implies relatively small 
+changes in the definition of the preferred policy rule. As such, in this setting updating 
+subjective Bayesian probabilities of the two characterisations of the inflation process – say 
+shifting a parameter capturing the slope of the Phillips curve or the persistence of 
+inflationary shocks – is not likely to lead to big changes in the preferred policy rule (and 
+therefore in the preferred path for policy rates).  
+It may require a shift to a different approach (say min-max) to create scope for a 
+meaningfully different scenario and meaningfully different implications for monetary policy. 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 10 
+ 
+ 
+Chart 3a: Non-convex efficient locus 
+ 
+There is finally a yet more interesting setting. In this case, the efficient locus – while 
+necessarily always downward sloping – no longer shows convexity to the origin (as in 
+Chart 3a). (The features of the underlying economic processes that would lead to this form 
+of locus are worth exploring further, but in the interests of time I will not do so here.)  
+Again, a number of points can be highlighted. 
+First, it is possible that the preferred rule from the min-max approach is no longer 
+supportable by a specific subjective probability in the Bayesian approach. In other words, 
+the min-max approach no longer nests within the Bayesian approach. As a result, the 
+scenarios associated with the two approaches are demonstrably more distinct. 
+Second, while updating of subjective Bayesian probabilities leads to the same marginal 
+moves along the efficient locus (and thus small changes in the preferred policy rule) over 
+most ranges, there are also situations where such updating leads to significant jumps 
+along the efficient locus (as in Chart 3b) – and thus potentially much bigger changes in the 
+preferred policy rule. These discontinuities emphasise the importance of looking at a more 
+diverse set of scenarios, since such scenarios may require much more significant shifts in 
+
+
+Bank of England  
+ 
+ Page 11 
+ 
+the appropriate path of monetary policy than the more marginal recalibration of policy 
+implied by a simple sensitivity analysis. 
+Chart 3b: Non-convex efficient locus: Jumps along the efficient locus 
+ 
+Third, in this situation, it is natural to consider at least three distinct scenarios, which do 
+not straightforwardly line up along a simple hawk / dove spectrum. Having a richer 
+dimensionality to the definition of scenarios may serve a richer discussion among policy 
+makers in coming to an eventual policy decision. 
+This simple exercise demonstrates how the pursuit of robustness in monetary policy 
+making can be supported by scenario analysis, which both entertains a variety of different 
+characterisations of the inflation process (“different models”) and defines different 
+systematic characterisations of monetary policy that span those different characterisations 
+(“different policy rules”). In other words, the questions of how to select scenarios and how 
+to bring the analysis of them together to support a necessarily single policy choice are     
+dxco-determined. 
+Of course, the practical question of how to operationalise this abstract framework to 
+address immediate policy questions remains open. My colleagues on the Bank of England 
+staff are already hard at work preparing scenarios and other material ahead of our next 
+MPC meeting at the end of April. It would not be appropriate for me to front-run their work 
+today. 
+
+
+Bank of England  
+ 
+ Page 12 
+ 
+At the same time – and notwithstanding the crude interpretation of the Bernanke review 
+that I have mentioned – the MPC’s assessment is not confined to scenario analysis.  
+In my view, the MPC operates in a rule-based rather than rule-bound manner: we need to 
+retain flexibility (and thus room for discretion) when there is so much uncertainty and 
+volatility as at present.  
+Irrespective of the scenarios presented by Bank staff and the policy rules we might 
+consider in the context of those scenarios, the MPC will always retain agency over its 
+policy decisions. The rationale for MPC decisions to deviate from those policy rules or 
+scenarios often contains as much information as the choice of the rules or scenarios 
+themselves.  
+Scenario analysis is a method by which we test whether a rule remains appropriate under 
+materially different states of the world. It does not encourage discretion. Rather it 
+reinforces focus and discipline in decision making in a radically uncertain world. 
+That said, some helpful parallels between the current challenges facing the MPC and the 
+simple framework I have discussed today can be drawn. 
+Much has happened over the past few weeks since hostilities commenced in the Gulf. And 
+much uncertainty remains. That uncertainty has a ‘radical’ character. 
+From a UK monetary policy perspective, for all the geo-political and geo-economic 
+speculation of late, the evolution of global commodity prices (particularly energy prices) is 
+of greatest importance. It is via energy prices that events in the Gulf will shape the outlook 
+for UK inflation and thus monetary policy. 
+Three channels of transmission to prices25 are relevant: (1) direct effects on UK inflation 
+via the impact of oil and gas price rises on fuel and energy price components of the CPI; 
+(2) indirect effects owing to the pass-through of higher energy costs to other components 
+of the CPI, such as food and services prices; and (3) potential second-round effects, 
+stemming both from (a) relative price changes (whereby CPI inflation is propagated by the 
+efforts of individuals and firms to resist the real income deterioration owing to relative price 
+shocks) and (b) from a possible de-anchoring of longer-term private inflation 
+expectations.26 
+
+
+Bank of England  
+ 
+ Page 13 
+ 
+Given the way utility bills and fuel prices are determined in the UK, direct effects operate 
+relatively mechanically. While less mechanical, through analysis of input / output tables 
+and estimation of time series models, we have a reasonably reliable guide to how indirect 
+effects influence the evolution of CPI inflation. Nonetheless, given the lags in monetary 
+policy transmission and the immediacy with which direct and indirect effects influence CPI 
+inflation, there are limits to what the MPC can do to dampen volatility arising through these 
+channels at shorter horizons. 
+As a result, the MPC’s focus is second-round effects – in particular, those associated with 
+‘catch-up’ dynamics in the aftermath of large relative price changes.27 The distinguishing 
+feature of second-round effects is their potential to have a lasting impact on price 
+dynamics. The resulting lower frequency and more persistent inflationary pressures        
+can – and must – be contained by monetary policy in pursuit of the 2% inflation target.  
+At the heart of these second-round effects lies the complex interactions among price 
+setting, wage dynamics and inflation expectations. But, while there is much evidence and 
+agreement that our understanding of the price / wage / cost nexus is at present 
+inadequate,28 there is no consensus over how it should be improved. In the spirit of the 
+earlier discussion, one might say that our collective understanding of these interactions is 
+characterised by ‘radical uncertainty’. 
+Mapping to the framework discussed above, two broad views of the likely character of 
+second-round effects can be identified. 
+One interpretation makes cyclical tightness central to why the propagation of the energy 
+shocks in 2022 proved more persistent than originally expected. Now that the labour 
+market is softer and an output gap has emerged, this interpretation implies a more 
+sanguine view of inflation persistence in the aftermath of Gulf hostilities relative to what we 
+saw at the time Ukraine was invaded.  
+An alternative interpretation places more weight on structural change in price and wage 
+setting as the explanation of greater-than-expected inflation persistence after the 2022 
+energy shock. Other things equal, this interpretation would suggest that persistence in the 
+current episode may again be greater than implied by our standard models estimated 
+during the ‘halcyon days of inflation targeting’ in the early 2000s.  
+
+
+Bank of England  
+ 
+ Page 14 
+ 
+On this latter view, the energy shocks of 2022 and 2026 (so far at least in the latter case) 
+both represent significant adverse terms-of-trade shocks that weigh on domestic real 
+income and exacerbate cost-of-living of households (particularly more vulnerable, lower 
+incomes households). These are real phenomena that need to play out via real 
+adjustments over time. Monetary policy cannot prevent or implement those real 
+adjustments: it can simply provide the nominal environment in which they can occur in a 
+less costly manner. 
+These two interpretations are neither mutually exclusive nor exhaustive. But nonetheless it 
+is useful here to distinguish them in this simplistic way in order to offer some mapping into 
+the framework developed above. 
+In the policy discussion, my own view has been (and remains) that the burden of proof lies 
+on the side of those seeking to deny a role for structural change (owing to the cumulative 
+effect of past shocks – the financial crisis, Brexit, Covid, invasion and government policies 
+– and perhaps the prospective effect of new shocks, such as the impact of AI adoption) in 
+price and wage setting. 
+Using the language of the Bayesian approach, I attach sufficient weight to the ‘structural 
+change’ interpretation to conclude that propagation of both previous inflationary shocks 
+and the new energy shock emanating from the Gulf is persistent enough to justify “caution” 
+in the conduct of monetary policy.29  
+At the same time, I cannot be certain that this interpretation of the inflation risks is correct. 
+The power of statistical tests to identify the slow-moving structural changes in price and 
+wage setting behaviour on which my view rests in real time is unavoidably low. So, my 
+policy assessment also entertains the possibility that the alternative view of the risk of 
+second-round effects could be true. And in evaluating how to weight this alternative view,    
+I consider not just the likelihood of it holding, but also the implications in terms of policy 
+outcomes if it were to do so.30 
+The pursuit of a robust monetary policy response inherent in these considerations led me 
+to support the unanimous MPC decision to hold Bank Rate at 3¾% at our meeting last 
+week. That said, I see the upside risks to price stability mounting as a result of events in 
+the Gulf.  
+
+
+Bank of England  
+ 
+ Page 15 
+ 
+As a result, I stand ready to act – if necessary – to contain the lasting components of any 
+new inflationary pressures so as to deliver on the MPC’s price stability mandate over the 
+medium term. The fog of uncertainty in which we always operate cannot be an excuse for 
+inaction. Uncertainty is always present (perhaps especially so of late), but the task of 
+monetary policy makers is to provide clarity on their pursuit of the price stability objective in 
+that uncertain world. 
+ 
+ 
+
+
+Bank of England  
+ 
+ Page 16 
+ 
+References 
+ 
+Bank of England (2024). Forecast Evaluation Report, 23 January 2026. 
+Bernanke, B.S. (2004). “The Great Moderation,” remarks at the meetings of the Eastern 
+Economic Association, Washington DC, 20 February 2004. 
+Bernanke, B.S. (2024). “Forecasting for monetary policy making and communication at the 
+Bank of England: A review,” Bank of England. 
+Breeden, S. (2023). “Monetary policy as engineering?” speech at the Institute of 
+International Finance, 19 December 2023. 
+Clarida, R., J. Gali and M. Gertler (1999). “The science of monetary policy: A New 
+Keynesian perspective,” Journal of Economic Literature 37(4), pp. 1661–1707. 
+Gerdesmeier, D., R. Motto and H. Pill (2002). “Monetary policy rules under paradigm 
+uncertainty,” Computing in Economics and Finance 154. 
+Giannone, D., L. Reichlin and L. Sala (2005). “Monetary policy in real time,” NBER 
+Macroeconomics Annual 19, pp. 161-217. 
+Greenspan, A. (2003). “Monetary policy under uncertainty,” remarks at the Federal 
+Reserve Bank of Kansas City Jackson Hole symposium, 29 August 2003. 
+Haberis, A., R. Harrison, K. Reinold and M. Waldron (2025). “Monetary policymaking 
+under uncertainty,” Bank of England macro technical paper no. 5. 
+Kanngiesser, D. and T. Willems (2024). “Forecast accuracy and efficiency at the Bank of 
+England – and how errors can be leveraged to do better,” Bank of England staff working 
+paper no. 1078. 
+Kay, J. and M.A. King (2020). Radical uncertainty: Decision-making for an unknowable 
+future, Bridge Street Press. 
+McCallum, B.T. and E. Nelson (2005). “Targeting vs. instrument rules for monetary policy”, 
+Federal Reserve Bank of St. Louis Review 87(5), pp. 597-611. 
+Nakamura, E., V. Riblier and J Steinsson (2025). “Beyond the Taylor rule,” NBER working 
+paper no. 34200. 
+Pill, H. (2025a). “Evolving UK monetary policy in an evolving world,” speech at the Institute 
+of Chartered Accountants of England and Wales annual conference Thriving in 
+Transformation, 17 October 2025. 
+Pill, H. (2025b). “The courage not to act,” remarks on the monetary policy outlook at a 
+briefing hosted by Barclays, 20 May 2025. 
+Rudebusch, G. and L.E.O. Svensson (1999). “Policy rules for Inflation Targeting,” chapter 
+5 in (ed. J.B. Taylor) Monetary policy rules, Chicago University Press, pp. 203-262. 
+Sargent, T.J. (1987). Macroeconomic theory, 2nd ed., Academic Press. 
+
+
+Bank of England  
+ 
+ Page 17 
+ 
+Speyerl, E. (2025). “Science fiction as a military asset,” Foreign Affairs Review, 14 
+November 2025. 
+Stock, J. and M. Watson (2002). “Has the business cycle changed and why?” NBER 
+Macroeconomics Annual 17, pp. 159-218. 
+Svensson, L.E.O. (2005). “Targeting versus instrument rules for monetary policy: What is 
+wrong with McCallum and Nelson?” Federal Reserve Bank of St. Louis Review 87(5), 
+pp. 613-626. 
+Theil, H. (1964). Optimal decision rules for government and industry, Amsterdam: North-
+Holland. 
+Williams, J.C. (2025). “Uncertainty and robust monetary policy,” remarks at the Reykjavík 
+Economic Conference, 9 May 2025.  
+Woodford, M. (2001). “The Taylor rule and optimal monetary policy,” American Economic 
+Review 91(2), pp. 232-237. 
+ 
+
+
+Bank of England  
+ 
+ Page 18 
+ 
+Notes 
+ 
+1  The views expressed in these remarks are not necessarily those of the Bank of England or its Monetary 
+Policy Committee. I would particularly like to thank Kavya Saxena, Lou Everett and Claire Willis for their 
+help in the preparation of these remarks and Saba Alam, Andrew Bailey, John Barrdear, Shiv Chowla, 
+David Learmonth, Tim Munday, Adrian Paul, Galina Potjagailo, Martin Seneca, Matt Tong and Tim 
+Willems for their comments on earlier drafts. I would particularly like to thank the chair (Emma Hatwell) 
+and participants in an internal Bank of England seminar where the material presented here was critically 
+scrutinised by what transpired to be a suitably tough audience. Opinions (and all remaining errors, 
+whether of commission or omission) are my own. 
+2  Perhaps it is a feature of getting older, but I am glad to acknowledge the significant overlap between 
+these two groups among the contributors to this conference. 
+3  For example, the minutes of the 4 August 2022 MPC meeting (in which I participated) state: “The risks 
+around the MPC’s projections from both external and domestic factors are exceptionally large at 
+present” (emphasis added). 
+4  Stock and Watson (2002), Bernanke (2004). 
+5  And, once you switch from a real time policy making perspective to a retrospective analytical perspective, 
+it is easy to forget that the Great Moderation was itself punctuated by risky events: the regime change 
+marked by the introduction of the euro; Y2K; 9/11; the second Gulf War, etc. 
+6  Greenspan (2003) (emphasis added). 
+7  Theil (1964). 
+8  Specifically, if the problem is characterised in linear quadratic (LQ) terms, where the structure of the 
+economy is linear and the objective of the policy maker is quadratic (Sargent, 1987). Such a setting 
+emerges naturally when a macro model is linearised around a steady-state which is consistent with the 
+achievement of an inflation target and shocks to the system are additive and Gaussian. 
+9  Clarida et al. (1999). 
+10  Woodford (2001). 
+11  Rudebusch and Svensson (1999). 
+12  Breeden (2023). 
+13  Haberis et al (2025). (This is one of a series of new macro technical papers published by Bank of England 
+staff describing how responses to the Bernanke review are being incorporated into the preparation of 
+MPC meetings and decisions.) 
+14  For an insightful discussion of these issues, see the interactions recorded in McCallum and Nelson (2005) 
+and Svensson (2005). 
+15  Kay and King (2020). 
+16  Giannone et al (2005). 
+17  Bernanke (2024). 
+18  Pill (2025a). 
+19  Williams (2025). 
+20  Speyerl (2025). 
+21  Looking to Hollywood for inspiration for monetary policy scenarios might appear farfetched. But the 
+insights in AI Artificial Intelligence (dir. Steven Spielberg, 2001) and Contagion (dir. Steven Soderbergh, 
+2011) would have been very relevant for recent and contemporary monetary policy challenges. 
+22  Gerdesmeier et al (2002). 
+23  This follows from the usual graphical approach to optimisation familiar to any undergraduate student of 
+economics. 
+24  To explain the nomenclature shown in the charts: gMM(.) is the preferred policy rule deriving from the min-
+max approach; gB(p,.) is the preferred policy rules deriving from the Bayesian approach with subjective 
+probability p. 
+25  I recognise that via terms of trade and confidence effects, the fallout from events in the Gulf is also likely 
+to weigh on UK demand and therefore influence price developments through its impact on resource 
+pressure via the Phillips curve. 
+ 
+
+
+Bank of England  
+ 
+ Page 19 
+ 
+ 
+26  Although I do not focus on the differences here, it is important to distinguish between second-round 
+effects owing to ‘catch up’ dynamics as firms and households respond to relative price changes with 
+distributional impact ((a) in the text) and those owing to scepticism about the credibility of monetary policy 
+((b) in the text. The former are those likely to derive from structural changes in price and wage setting 
+behaviour. 
+27  As Nakamura et al (2025) noted in their Jackson Hole paper last year, while the academic literature has 
+tended to focus on the uniqueness of outcomes consistent with price stability in their evaluation of 
+structural monetary models (which in turn reflects understandable concerns about dis-anchoring longer-
+term private inflation expectations from target), monetary policy makers have tended to focus on ‘catch-up 
+dynamics’ in price- and wage-setting behaviour (which tends to reflect concerns about the aggregate 
+inflationary implications of adjustments to relative price shocks). 
+28  This is one of the main conclusions of the recently published Forecast Evaluation Report (Bank of 
+England, 2026), which draws on the work of Kanngiesser and Willems (2024). 
+29  This assessment is reinforced by the latest (pre-Gulf hostilities) information from the Agents’ pay survey. 
+With a fuller sample, expected pay settlements in 2026 now lie at 3.6% – barely below the equivalent 
+survey expectation reported a year ago for 2025 (3.7%). Of course, this is a single indicator (albeit one on 
+which the MPC have rested much in the past), but it signals – even before the new inflationary shock from 
+the Gulf became apparent – a potential stalling of the underlying disinflation process that we are relying 
+on to achieve the inflation target on a lasting basis. See also the discussion in Pill (2025b). 
+30  Given these concerns, I internalise in my policy deliberations the possibility that small perturbations of the 
+baseline scenario (e.g. slightly increasing the slope of the wage PC in a workhorse New Keynesian model 
+estimated on data largely from the ‘Great Moderation’ period) would leave me vulnerable to missing more 
+appropriate policy prescriptions that would derive from a fundamental rethink of the relevant 
+macroeconomic dynamics (e.g. models of price- and wage-setting behaviour harking back to the 1970s 
+and ‘80s, where real income resistance plays a greater role).

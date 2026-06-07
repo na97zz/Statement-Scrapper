@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Community Banking: Looking Toward the Future",
+  "date_original": "2025-10-09",
+  "date_au": "09/10/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20251009b.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-09 - Michelle W. Bowman - Community Banking_ Looking Toward the Future.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-09 - Michelle W. Bowman - Community Banking_ Looking Toward the Future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "326f8c01986423d47a729fe021a6b8ded33b1f5327fbaa98b32df665f730b582"
+}

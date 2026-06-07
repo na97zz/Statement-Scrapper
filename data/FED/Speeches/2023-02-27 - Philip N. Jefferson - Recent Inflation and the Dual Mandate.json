@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Recent Inflation and the Dual Mandate",
+  "date_original": "2023-02-27",
+  "date_au": "27/02/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20230227a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-02-27 - Philip N. Jefferson - Recent Inflation and the Dual Mandate.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-02-27 - Philip N. Jefferson - Recent Inflation and the Dual Mandate.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b842d27040965c22c9950be5873fd14d5d192e6384e9eab5a4c12ba9873145eb"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Climate change and central banking",
+  "date_original": "2021-01-25",
+  "date_au": "25/01/2021",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210125~f87e826ca5.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-01-25 - Keynote speech by Christine Lagarde - Climate change and central banking.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-01-25 - Keynote speech by Christine Lagarde - Climate change and central banking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5cb3c4503bc205d98f525484bc2745a76336e29d39469333d4e78ea372984245"
+}

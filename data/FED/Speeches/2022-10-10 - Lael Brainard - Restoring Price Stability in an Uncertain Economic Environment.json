@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Restoring Price Stability in an Uncertain Economic Environment",
+  "date_original": "2022-10-10",
+  "date_au": "10/10/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20221010a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-10 - Lael Brainard - Restoring Price Stability in an Uncertain Economic Environment.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-10 - Lael Brainard - Restoring Price Stability in an Uncertain Economic Environment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb730e58f179def30b0a6cf7993c70fbfff1496f1b1c369cf279e4470318219e"
+}

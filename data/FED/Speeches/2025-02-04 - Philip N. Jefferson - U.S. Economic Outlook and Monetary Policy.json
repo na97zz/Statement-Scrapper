@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "U.S. Economic Outlook and Monetary Policy",
+  "date_original": "2025-02-04",
+  "date_au": "04/02/2025",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250204a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-04 - Philip N. Jefferson - U.S. Economic Outlook and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-04 - Philip N. Jefferson - U.S. Economic Outlook and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cce70ca71cbd801915a57693d4e5e8f36375d4f40c512783b931e0ae5e5f85ad"
+}

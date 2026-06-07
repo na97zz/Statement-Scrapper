@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Risks and Challenges for Bank Regulation and Supervision",
+  "date_original": "2025-02-20",
+  "date_au": "20/02/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20250220a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-20 - Michael S. Barr - Risks and Challenges for Bank Regulation and Supervision.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-20 - Michael S. Barr - Risks and Challenges for Bank Regulation and Supervision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d425176f00b377ee940caa288048ae1dad932223b8941739bec699896fbec62f"
+}

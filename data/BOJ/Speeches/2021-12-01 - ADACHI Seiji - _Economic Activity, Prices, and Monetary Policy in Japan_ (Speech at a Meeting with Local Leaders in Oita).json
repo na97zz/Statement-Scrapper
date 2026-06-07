@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Oita)",
+  "date_original": "2021-12-01",
+  "date_au": "01/12/2021",
+  "datetime_original": "",
+  "speaker": "ADACHI Seiji",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko211201a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-12-01 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Oita).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-12-01 - ADACHI Seiji - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Oita).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ed9fb10efa4f62d81160e43ba00e388ece4009d4d96b025bdbc49c4ae9c70756"
+}

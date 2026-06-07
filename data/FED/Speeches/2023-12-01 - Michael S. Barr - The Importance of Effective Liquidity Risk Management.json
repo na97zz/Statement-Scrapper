@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Importance of Effective Liquidity Risk Management",
+  "date_original": "2023-12-01",
+  "date_au": "01/12/2023",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20231201a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-12-01 - Michael S. Barr - The Importance of Effective Liquidity Risk Management.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-12-01 - Michael S. Barr - The Importance of Effective Liquidity Risk Management.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fd514fb84dea412eb37bb2862234e9540e87e6ba43334fab7ee7945ad76c2037"
+}

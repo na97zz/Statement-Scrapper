@@ -1,0 +1,184 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Enhancing our national asset: Maximising the value of data collections across the financial sector − speech by James Benford
+DATE: 01/06/2024
+SPEAKER: James Benford
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/october/james-benford-keynote-speech-at-the-a-team-group-regtech-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Enhancing our national asset: Maximising the value of data collections across the financial sector − speech by James Benford
+Given at RegTech Summit London
+Published on 
+
+ 03 October 2024
+The Bank of England is working to transform how we collect, use, and share our data, to maximise its value. Key to this is transforming statistical productions and working with the FCA, international regulators and industry to transform data collections. This work facilitates the international competitiveness of the UK economy and its medium- to long-term growth, as well as enhancing the data supporting supervision.
+Speech
+Introduction
+Good morning, it is a real privilege to be here to give the keynote today.
+My focus is on the essential foundation to RegTech, which is, of course, data. Without the right data, clearly defined and organised, we will never realise the full potential of new technologies, like artificial intelligence (AI) and quantum computing, that we are all so excited about.
+Given the centrality of data to everything we do at the Bank of England, we are continuously seeking ways to improve both our data and our use of them. In July, we published a new data and analytics strategy and accompanying three-year plan.
+footnote
+[1]
+,
+footnote
+[2]
+Our new strategy is organised into three missions:
+Making it easy for people in the Bank to work with and analyse our data;
+Bridging data gaps to increase the value of what we collect and share; and
+Enabling safe and effective innovation, including AI.
+footnote
+[3]
+It's the second mission – maximising the value of what we collect and share – that is my focus today. The Bank collects and shares large amounts of data. These data collections are an important national asset. They inform decision-making not just at the Bank of England, but also more broadly across the economy.
+And the way we collect that data has wider implications too. It shapes complex data supply chains across the financial sector, including the standards used in firms’ internal systems.
+We have a unique opportunity to set up transformational change and enhance the value of that national asset in the years to come.
+First, new technologies, including the cloud and artificial intelligence, are allowing us to process data and assure its quality more quickly and efficiently, to work more seamlessly across different systems. They are dramatically improving how users of the data can access and interact with it.
+Second, there is a stronger base of data standards to work with and an appetite in industry to build on them and expand on their role in reporting. Aligning how firms manage, exchange and use data internally with the way they report to us will both improve data quality and cut the costs of reporting.
+Third, the United Kingdom’s departure from the European Union has given us an opportunity to review fundamentally the regulatory data that we collect, better aligning it to our needs. In 2023, Parliament gave the Prudential Regulation Authority (PRA) at the Bank a new secondary objective, which requires us to facilitate the international competitiveness and growth of the UK economy. Streamlining our data collections can make an important contribution there.
+There are two key points I want to make today.
+First, the prize is significant. Data that are more timely and more attuned to user needs will better support monetary and financial stability and contribute more broadly to economic growth. Enhancements to the way data are collected can improve agility and productivity by freeing up and taking cost out of the data supply chain and strengthen data standards across the financial sector as a whole.
+Second, I want to encourage you to collaborate with us, to engage with us and to be clear where you see opportunities to add value. Data collection and dissemination involves many sets of hands and machines. It is only by working together that we can build a national asset that serves everyone as efficiently and effectively as possible.
+What data does the Bank collect, and why?
+The Bank’s objectives are monetary and financial stability. We ensure monetary stability by setting interest rates to achieve our 2% inflation target. We ensure financial stability by keeping the individual firms we regulate safe and sound as well as by managing any risks to the stability of the financial system as whole.
+To support those decisions, we need a lot of data.
+We produce over 30,000 statistical data series, sourced from over 300 reporting institutions, all of which are freely available on our website. Those statistics are the bedrock of the United Kingdom’s financial statistics.  They provide an invaluable window on the state of the economy, particularly the financial sector, the markets it serves and its overall output and productivity.
+In addition to those statistics, we collect vast amounts of regulatory data. Each day we receive around 35 million rows of data on derivatives and securities financing transactions from the trade repositories at the heart of those markets.  We regularly receive almost 300 regulatory collections from banks - including data on their profit and loss, their liquidity and capital adequacy, and various cuts of their balance sheet. We also receive around 200 reporting templates from insurers and a number of ad hoc
+– and sometimes very large – data collections on specific and changing risks. Our stress testing exercises are a good example of this.
+Now, let me try to bring some of that large system of data to life a little, and explain the role it plays.
+By 7am this morning, teams in institutions across the financial sector had submitted data covering the £47 billion of transactions made in Sterling money markets yesterday. By 9am, having checked, processed, and aggregated those returns, the Bank published the benchmark Sterling Overnight Index Average rate (SONIA).  SONIA is used as a reference rate in over £90 trillion of contracts each year
+footnote
+[4]
+, both floating rate loans and derivatives.  It is crucial in ensuring that the changes we make to our interest rates are transmitted to a much broader set of interest rates on savings and loans throughout the economy.
+Two weeks ago, the Bank’s Monetary Policy Committee (MPC) announced it had taken the decision to hold Bank Rate at 5%
+footnote
+[5]
+. As it always does, the Committee utilised data on the amount and price of money and credit in the economy, to gauge the outlook for consumer spending
+footnote
+[6]
+, the housing market and the economy more broadly.
+Statistics, together with the much broader suite of regulatory returns, also drive the work and decisions of our micro-prudential committees – the Prudential Regulation Committee (PRC) and Financial Market Infrastructure (FMI) Committee – as well as the UK’s macro-prudential decision maker, the Financial Policy Committee (FPC).
+When interest rates were very low in 2014, loan-level data on UK mortgages
+footnote
+[7]
+were used by the FPC to set an appropriate limit on lending at high loan-to-income (LTI) ratios, and to calibrate an accompanying affordability test, to avoid a dangerous build-up of high-risk debt in the system. When, in response to high inflation, interest rates needed to be increased by 5 percentage points between December 2021 and August 2023, those measures helped to prevent a sharp rise in borrower distress. The same loan-level mortgage data were also used in 2022 to conclude it was safe to drop the affordability test and rely on the LTI limit alone. The data are used extensively by supervisors in the PRA to monitor how the loan-to-income limit was implemented by individual firms and to assess their safety and soundness.
+More recently, granular trade repository data on derivatives and securities financing transactions have been particularly useful in monitoring large and growing exposures in the financial system, through a period where vulnerabilities have surfaced in the non-bank financial sector.
+Hopefully, that makes clear that this is important. So, what are we doing? Let me turn first to the statistics we produce, before moving on to the larger and more complex area of regulatory data collections.
+Building more valuable statistics
+Work to design and build a cloud environment for the Bank has now progressed sufficiently for us to work with a first batch of statistical returns on the cloud.
+We are building a new application in that environment, which we are calling STRATUS – the Statistical Timeseries Repository for Analysis, Transformation, Understanding and Sharing – to process, quality control and aggregate the returns we receive to produce our 30,000 published statistical series.
+We are seeking to finish setting up that new environment by the end of the year, to migrate datasets underpinning statistical production to it by 2025, and to switch off legacy systems in 2026.
+We expect STRATUS to bring several benefits both inside the Bank and beyond:
+First, greater computing power and automation of manual work will allow us to process, check and aggregate returns more quickly and more efficiently. In time, this should allow us to release statistics earlier and at a lower cost.
+Second, the new system will be more flexible and adaptable, creating a base for continuous improvement over time and greater agility for taking on new collections or making other changes to our published data.
+Third, those involved in producing statistics will have more scope to get involved to take their knowledge of the data to the analysis that feeds the Bank’s policy decisions.
+Fourth, statistical data will be more clearly described, easier to find and compare, with clear traceability from published series back to an individual return. Firms who report to us will be able to more easily compare their position to that of the market as a whole.
+Fifth, we will allow external access to our data via an Application Programming Interface (API), enabling external users to build products that directly reference it and update immediately following a data release.
+We will be building iteratively and will adapt and learn as we go. If there are ways you want us to improve how we make statistical data available to you, please do tell us and we will see what we can do.
+STRATUS is just one part of our commitment to improve our statistics and meet best practice.
+We are also building a modern capability to process granular security-by-security data that could help address known data gaps around sterling securities holdings.
+Additionally, I am pleased to confirm that, thanks to hard work between teams at the Bank and the Office for National Statistics (ONS), we have found a route to enhance reporting of the central bank component of sectoral balance sheets. Under the new approach, which will feed into the ONS later this year, the UK will be fully compliant with the International Monetary Fund’s (IMF) Special Data Dissemination Standard Plus (SDDS+).
+footnote
+[8]
+Increasing the value of regulatory data collections
+Regulatory data collections have a shorter history and are significantly larger and much more complex.
+Most of these collections were introduced, piece by piece, over the last decade or so, as regulations were rolled out after the financial crisis and data collections were mandated to monitor compliance with them. Much of the UK system was designed whilst we were a member of the European Union to meet the needs of all member states. Though the origin of the collections is in prudential policy, they are implemented and operated through data and technology teams. In the UK, that happens between the Bank and the Financial Conduct Authority (FCA), with about half of our collections operated by the FCA. One important end-user of the data are supervisors, who are interested in reported positions relative to regulatory rules, and also in the broader risks that firms are running. Another is our policy team, who use the data for cost-benefit analysis purposes, to ensure the right prudential outcomes as well as taking into account the impact of policy design on competitiveness and growth.
+With that complicated picture, it is not surprising that there are a number of problems with the current set up. First, we need to ensure that we are consistently clear in our reporting requirements. This would support firms’ compliance and may reduce costs incurred by the firm in meeting regulatory reporting requirements. Second, the design of the collections has not sufficiently incorporated supervisors’ needs. There are clear gaps where we don’t have the data we need. But we also need to ensure we only collect the data we need. Third, many collections have been designed in isolation. Stepping back and looking at the system as a whole, there are places where we can consolidate. And fourth, the systems that we have to underpin the collections, including how we process the data and interact with firms are, in places, dated and unnecessarily complex.
+In 2021, we started a period of discovery work, jointly between the Bank and the FCA – working collaboratively with firms – to realise our common vision to get regulators the data they need to fulfil their mission, at the lowest possible cost to industry.
+After spending the first couple of years on design work for specific use cases, we have recently scaled up the programme so that we can deliver more strategic change. The programme has a number of workstreams, encompassing all aspects of data collections.
+We are running it collaboratively through two new industry groups to make sure our plans capture firms need and align with how they are managing their data internally. Our new Transforming Data Collections (TDC) Advisory Board provides is the most senior level of engagement with industry and is supported by the work of the Industry Data Standards Committee (IDSC).
+footnote
+[9]
+The Advisory Board met this week and the main item for discussion were the results of an industry survey on the costs of reporting for the banking sector. One conclusion was that the overall costs for the banking sector were in the range of £1.5 billion – £2.0 billion, driven disproportionately by larger firms given greater complexities in their reporting. Firms could see a number of avenues to reduce this cost, not only by consolidating and streamlining what we collect, but through improvements in the clarity and efficacy of the processes through which data is collected. They understood better how the newer, ad hoc collections were being used but would prefer these to be formalised as regular collections. We agreed to set up a focused working group to drill into what steps would bring the biggest improvements to reporting and to size their impact. This will form an important part of our business case for the Transforming Data Collection work going forward.
+Discussions so far are already informing a set of principles for how we design our data collections and how we will operate them. I’ll share three important principles today. First, as we review and change our collections, we will be clear and specific on the purpose that they serve. We will drop collections that do not have a clear justification. Being transparent on how we are using the data, will allow firms to engage with us on how best to meet those needs. Second, we will explore options, to consolidate collections, wherever possible, including those involving the FCA. Third, we will be proportionate in our approach, by tailoring reporting populations and making sure all aspects of our collections are supported by a cost benefit analysis.
+Our main use case for these principles will be the PRA’s Banking Data Review. This will draw on the experience of the recent review of reporting for insurance, which resulted in Solvency UK having one third fewer required templates than the Solvency II regime that it replaces.
+footnote
+[10]
+And it will build on the proposals as part of the Strong and Simple initiative descope Small Domestic Deposit Takers from 38 reporting templates related to capital requirements, and to simplify or amend other templates for these firms.
+footnote
+[11]
+The Banking Data Review will proceed in three phases. By summer 2025 we will consult on a first wave of whole form deletions and proposals to close gaps and regularise reporting on counterparty credit risk. In a second wave in 2026 we will review the approach to credit risk and whether there are collections we can slim and consolidate together. The third wave will then look at the remaining areas of reporting.
+There is complementary work in train to review collections at the Financial Conduct Authority (FCA). In September, relevant firms were sent an updated and improved iteration of their Retail Banking Business Model Collection.
+As we close gaps and streamline what we collect we will improve how we do it. Central to this is clarity of reporting instructions and the embedding of data standards in collections. We will work here with the Industry Data Standards Committee. I am very grateful to Dawd Haque of Deutsche Bank for agreeing to chair the Committee and his proactive work across industry members to draw together a library of data standards relevant to regulatory reporting. As we design and refine collections through the Banking Data Review, we will work with the IDSC to embed industry standards in them. We are working with our peers globally to consolidate the international experience with data standards into a common library and will look to draw on the work of the IDSC here.
+We have also initiated work to deliver quick wins to our collection systems.
+The FCA is building a single front door to the multiple collection systems it runs so firms can access them through a single log in, see the status of outstanding collections and upcoming ones. This is alongside exploring a machine-readable version of the FCA Handbook rules.
+At the Bank, we are initiating a project to deliver a new Firm Communications Portal that will more effectively and efficiently structure conversations with firms about reporting. We will be using an early version of the portal to support data collections in the coming stress test. Development of the first iteration of the product, supporting regulatory and statistical reporting questions, is scheduled to be delivered by the end of 2025.
+Beyond these quick wins, we are working through our multi-year agenda to get the regulators the data they need at the lowest possible cost, and will be in a position to update on our longer-term plans further in the first quarter of next year.
+Conclusion
+To conclude, having the right data is central not just to everything we all do but to everything we want to do and what we can do together. The Bank’s work to improve financial statistics, and our work with the FCA to transform regulatory data collections, offers significant broad-based benefits.
+It will drive better decisions - not just those we make in support of monetary and financial stability, but those across the economy as a whole. We will improve how we make statistics available, to the benefit of all users. As we have with previous initiatives, we will work with the new government on the financial sector room in their new national data library
+footnote
+[12]
+.
+By working collaboratively with the financial sector, we will work to collect what we need at the lowest possible cost. Taking a chunk out of the £1.5-2bn annual reporting cost can deliver productivity benefits and create greater agility and dynamism by freeing up resource tied to regular processes. It can give us a data foundation across the financial sector that is more agile and responsive to changing needs and opportunities, with stronger standards to better enable data sharing. This will facilitate the international competitiveness of the UK economy and its medium- to long-term growth.
+We know that transformation will not be quick or easy, but we will keep driving forward to achieve our ambition to maximise the value of the data we collect. And we will do that collaboratively working across the regulators and with industry.
+Thank you for listening and for your continued engagement and encouragement.
+Acknowledgements
+I am particularly grateful to Zeeshan Akhtar, Miranda Hewkin Smith, Leslie Lambert, Phillippa Loveridge, Anna Palacci, Hannah Phaup and Aaron Shiret for their extensive research and work to prepare this speech.
+I am also grateful to Jonathan Barton, Nicola Bennett, Oliver Bush, Moritz Hesse, Alicia McCarthy, Jacob Ponte, Vicky Purkiss and Laura Wightman for their support and contributions.
+The Bank’s Data Transformation Programmes are being led by Martine Clark, David Bradnum, Adriana Fernandes and Christopher Hackworth who also provided comments on this speech. Thank you to colleagues at the FCA for continuing to collaborate with us and providing comments on this speech.
+A special mention goes to Angus Moir, who initiated the Transforming Data Collection work in 2021. Without Angus, we would not have the structures we have today, with industry and with the FCA. Nor would we have the clarity on the nature of the problem with regulatory reporting and how to bring together disparate needs across the end-to-end process.
+Thank you also to Andrew Bailey, Tamiko Bayliss, Srijanee Bhattacharyya, Caroline Brennan, Chris Duffy, Peter Eckley, Charlotte Gerken, Rebecca Jackson, Atul Kamat, Belinda Lavin, Michael Lyon, Rhys Phillips, Paul Robinson, Alison Scott, Alan Sheppard, Ben Stimson, Rob Taylor, Mark Walsh, Vicky White, Matthew Willison, Sam Woods and Ashley Young for providing comments.
+The Bank’s data and analytics strategy: a three-year roadmap | Bank of England
+A data revolution: Built together, for everyone - speech by James Benford | Bank of England
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford | Bank of England
+SONIA interest rate benchmark | Bank of England
+Bank Rate maintained at 5% - September 2024 | Bank of England
+See, for example, Box A ‘Assessing developments in broad money’, in the
+May 2024 Monetary Policy Report
+.
+Mortgages Product Sales Data dashboards | FCA
+IMF-Dissemination Standards Bulletin Board-SDDS Plus
+Industry Groups | Transforming Data Collection
+PS3/24 – Review of Solvency II: Reporting and disclosure phase 2 near-final, 2.16
+CP7/24 – The Strong and Simple Framework: The simplified capital regime for Small Domestic Deposit Takers (SDDTs) | Bank of England
+King’s Speech 2024: Science, technology and innovation - House of Lords Library (parliament.uk)
+King’s Speech 2024: Science, technology and innovation - House of Lords Library (parliament.uk)
+Close
+CP7/24 – The Strong and Simple Framework: The simplified capital regime for Small Domestic Deposit Takers (SDDTs) | Bank of England
+Close
+PS3/24 – Review of Solvency II: Reporting and disclosure phase 2 near-final, 2.16
+Close
+Industry Groups | Transforming Data Collection
+Close
+IMF-Dissemination Standards Bulletin Board-SDDS Plus
+Close
+Mortgages Product Sales Data dashboards | FCA
+Close
+See, for example, Box A ‘Assessing developments in broad money’, in the
+May 2024 Monetary Policy Report
+.
+Close
+Bank Rate maintained at 5% - September 2024 | Bank of England
+Close
+SONIA interest rate benchmark | Bank of England
+Close
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford | Bank of England
+Close
+A data revolution: Built together, for everyone - speech by James Benford | Bank of England
+Close
+The Bank’s data and analytics strategy: a three-year roadmap | Bank of England
+Close
+James Benford
+Former Executive Director for Data and Analytics Transformation and Chief Data Officer from 2023 to 2025
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

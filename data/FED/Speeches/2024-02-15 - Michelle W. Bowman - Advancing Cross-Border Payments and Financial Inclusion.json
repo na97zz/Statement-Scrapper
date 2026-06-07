@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Advancing Cross-Border Payments and Financial Inclusion",
+  "date_original": "2024-02-15",
+  "date_au": "15/02/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240215a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-15 - Michelle W. Bowman - Advancing Cross-Border Payments and Financial Inclusion.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-15 - Michelle W. Bowman - Advancing Cross-Border Payments and Financial Inclusion.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b776caa6f0ad4d9d753e32dbf1f18a81012342befa58ac20df4c300113433252"
+}

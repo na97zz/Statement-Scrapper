@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Growth and Change at Community Development Financial Institutions",
+  "date_original": "2024-05-14",
+  "date_au": "14/05/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20240514a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-14 - Lisa D. Cook - Growth and Change at Community Development Financial Institutions.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-14 - Lisa D. Cook - Growth and Change at Community Development Financial Institutions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2be7cc64fa5863940a07ac39c2cdef209d5a62c669b22b36aace829b0708df40"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Sources of Uncertainty in the Short Run and the Long Run",
+  "date_original": "2024-02-22",
+  "date_au": "22/02/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20240222a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-22 - Lisa D. Cook - Sources of Uncertainty in the Short Run and the Long Run.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-22 - Lisa D. Cook - Sources of Uncertainty in the Short Run and the Long Run.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "509b4ac47c71719bd1555936ac995d8a60dc7458542b994b3b2fac1aaf460066"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opening Remarks",
+  "date_original": "2024-04-18",
+  "date_au": "18/04/2024",
+  "datetime_original": "",
+  "speaker": "Opening Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240418a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-18 - Opening Remarks - Opening Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-18 - Opening Remarks - Opening Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8e3171aee27787cd2737eb9b59c022e35344c6783dbcebbb9cb699f0ae8cc1fc"
+}

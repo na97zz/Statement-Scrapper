@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Removing Frictions − speech by Nathanaël Benjamin",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Nathanaël Benjamin",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/december/nathanael-benjamin-speech-at-womble-bond-dickinson",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Nathanaël Benjamin - Removing Frictions − speech by Nathanaël Benjamin.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Nathanaël Benjamin - Removing Frictions − speech by Nathanaël Benjamin.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:10:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "65f6cea77a0f0266a1cd8045ed1699e517e3409a8f7a12eeb43f1002c862311b"
+}

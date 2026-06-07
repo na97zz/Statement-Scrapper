@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Almost as Good as It Getsâ¦But Will It Last?",
+  "date_original": "2024-01-16",
+  "date_au": "16/01/2024",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240116a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-01-16 - Christopher J. Waller - Almost as Good as It Getsâ¦But Will It Last_.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-01-16 - Christopher J. Waller - Almost as Good as It Getsâ¦But Will It Last_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bda24357f27771c28d09a596a7239178e50233898f46389564acd7f2479e49fa"
+}

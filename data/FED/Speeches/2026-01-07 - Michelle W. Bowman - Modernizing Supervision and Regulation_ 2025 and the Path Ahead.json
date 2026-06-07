@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Modernizing Supervision and Regulation: 2025 and the Path Ahead",
+  "date_original": "2026-01-07",
+  "date_au": "07/01/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260107a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-01-07 - Michelle W. Bowman - Modernizing Supervision and Regulation_ 2025 and the Path Ahead.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-01-07 - Michelle W. Bowman - Modernizing Supervision and Regulation_ 2025 and the Path Ahead.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eddc38440367d1c7f4eced17fe0d22ec243a849d9924b70745ac73f70f1ce0dc"
+}

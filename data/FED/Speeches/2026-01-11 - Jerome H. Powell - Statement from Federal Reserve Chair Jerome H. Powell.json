@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Statement from Federal Reserve Chair Jerome H. Powell",
+  "date_original": "2026-01-11",
+  "date_au": "11/01/2026",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-01-11 - Jerome H. Powell - Statement from Federal Reserve Chair Jerome H. Powell.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-01-11 - Jerome H. Powell - Statement from Federal Reserve Chair Jerome H. Powell.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bac23a82028c14340e3769d7a689aa440b6356dbbf5b00a38bb7e854472946e4"
+}

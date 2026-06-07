@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Press Conference Q&A",
+  "title": "Christine Lagarde, Luis de Guindos: Monetary policy statement (with Q&A)",
+  "date_original": "2021-10-28",
+  "date_au": "28/10/2021",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde, Luis de Guindos",
+  "speaker_role": "Christine Lagarde, President of the ECB, Luis de Guindos, Vice-President of the ECB English OTHER LANGUAGES (22) + Select your language Български BG Čeština CS Dansk DA Deutsch DE Eλληνικά EL Español ES Eesti keel ET Suomi FI Français FR Hrvatski HR Magyar HU Italiano IT Lietuvių LT Latviešu LV Malti MT Nederlands NL Polski PL Português PT Română RO Slovenčina SK Slovenščina SL Svenska SV",
+  "source_url": "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2021/html/ecb.is211028~939f22970b.en.html",
+  "raw_file_path": "data\\ECB\\Press Conference Q&A\\2021-10-28 - Christine Lagarde, Luis de Guindos_ Monetary policy statement (with Q&A).html",
+  "text_file_path": "data\\ECB\\Press Conference Q&A\\2021-10-28 - Christine Lagarde, Luis de Guindos_ Monetary policy statement (with Q&A).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:11:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b1dc9d50d1bd9ce756efb9bd1286b2bffa9c1ac8e303de19b26998e87c63c0d2"
+}

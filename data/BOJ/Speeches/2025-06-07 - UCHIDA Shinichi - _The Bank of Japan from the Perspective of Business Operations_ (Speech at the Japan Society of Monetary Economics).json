@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"The Bank of Japan from the Perspective of Business Operations\" (Speech at the Japan Society of Monetary Economics)",
+  "date_original": "2025-06-07",
+  "date_au": "07/06/2025",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250607a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-06-07 - UCHIDA Shinichi - _The Bank of Japan from the Perspective of Business Operations_ (Speech at the Japan Society of Monetary Economics).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-06-07 - UCHIDA Shinichi - _The Bank of Japan from the Perspective of Business Operations_ (Speech at the Japan Society of Monetary Economics).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2f7fa5c2a084a870a174abc1bbd1fca37d4982a0055bc4773e242f4e8f808b3c"
+}

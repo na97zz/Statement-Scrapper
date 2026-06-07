@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Consequences of Fewer Banks in the U.S. Banking System",
+  "date_original": "2023-04-14",
+  "date_au": "14/04/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230414a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-04-14 - Michelle W. Bowman - The Consequences of Fewer Banks in the U.S. Banking System.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-04-14 - Michelle W. Bowman - The Consequences of Fewer Banks in the U.S. Banking System.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "efc6d897d29a5ba0b899aa5132a93a4a922fe70642cc9e8cef0d124664ba5fa2"
+}

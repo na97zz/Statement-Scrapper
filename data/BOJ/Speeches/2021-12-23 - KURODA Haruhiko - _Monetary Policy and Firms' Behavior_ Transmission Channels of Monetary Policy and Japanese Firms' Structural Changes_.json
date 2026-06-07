@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Monetary Policy and Firms' Behavior: Transmission Channels of Monetary Policy and Japanese Firms' Structural Changes\" (Speech at the Meeting of Councillors of Nippon Keidanren (Japan Business Federation) in Tokyo)",
+  "date_original": "2021-12-23",
+  "date_au": "23/12/2021",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko211223a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-12-23 - KURODA Haruhiko - _Monetary Policy and Firms' Behavior_ Transmission Channels of Monetary Policy and Japanese Firms' Structural Changes_.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-12-23 - KURODA Haruhiko - _Monetary Policy and Firms' Behavior_ Transmission Channels of Monetary Policy and Japanese Firms' Structural Changes_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3cddef10cf5b556acb83a12c41f6389ccecfc67d595af47ed8a79573d066661a"
+}

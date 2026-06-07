@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy in the euro area: the next phase",
+  "date_original": "2022-08-29",
+  "date_au": "29/08/2022",
+  "datetime_original": "",
+  "speaker": "Monetary policy in the euro area",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220829~b9fac50217.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-08-29 - Monetary policy in the euro area - Monetary policy in the euro area_ the next phase.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-08-29 - Monetary policy in the euro area - Monetary policy in the euro area_ the next phase.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0c08d2f245dd97e0c628e695bf2e27953ff37feb301a15efdc242d86d24e79f4"
+}

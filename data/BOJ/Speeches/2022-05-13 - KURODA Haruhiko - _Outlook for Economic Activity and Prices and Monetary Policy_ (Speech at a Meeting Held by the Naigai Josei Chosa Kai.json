@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Outlook for Economic Activity and Prices and Monetary Policy\" (Speech at a Meeting Held by the Naigai Josei Chosa Kai (Research Institute of Japan)) (via webcast)",
+  "date_original": "2022-05-13",
+  "date_au": "13/05/2022",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220513a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-05-13 - KURODA Haruhiko - _Outlook for Economic Activity and Prices and Monetary Policy_ (Speech at a Meeting Held by the Naigai Josei Chosa Kai.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-05-13 - KURODA Haruhiko - _Outlook for Economic Activity and Prices and Monetary Policy_ (Speech at a Meeting Held by the Naigai Josei Chosa Kai.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "19efa3f98b6f26ba3b46b1aaea685e94783706dcc644c9fdb069824262f44822"
+}

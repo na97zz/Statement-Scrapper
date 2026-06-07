@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Federal Reserve's New Framework: Context and Consequences",
+  "date_original": "2021-01-13",
+  "date_au": "13/01/2021",
+  "datetime_original": "",
+  "speaker": "Richard H. Clarida",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/clarida20210113a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-01-13 - Richard H. Clarida - The Federal Reserve's New Framework_ Context and Consequences.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-01-13 - Richard H. Clarida - The Federal Reserve's New Framework_ Context and Consequences.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8c0e49be7e70ea50558098affe7c179cb81b3421728fc1921960d7a64e2d8948"
+}

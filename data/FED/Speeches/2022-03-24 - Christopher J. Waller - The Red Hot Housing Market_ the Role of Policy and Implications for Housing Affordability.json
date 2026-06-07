@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Red Hot Housing Market: the Role of Policy and Implications for Housing Affordability",
+  "date_original": "2022-03-24",
+  "date_au": "24/03/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220324a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-03-24 - Christopher J. Waller - The Red Hot Housing Market_ the Role of Policy and Implications for Housing Affordability.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-03-24 - Christopher J. Waller - The Red Hot Housing Market_ the Role of Policy and Implications for Housing Affordability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "78674def056f1b2e7a19063217746ac165c2afd8c1cec85fcf9238790d6d1ec0"
+}

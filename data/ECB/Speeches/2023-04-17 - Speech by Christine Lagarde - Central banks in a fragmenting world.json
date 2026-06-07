@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Central banks in a fragmenting world",
+  "date_original": "2023-04-17",
+  "date_au": "17/04/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230417~9f8d34fbd6.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-04-17 - Speech by Christine Lagarde - Central banks in a fragmenting world.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-04-17 - Speech by Christine Lagarde - Central banks in a fragmenting world.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3889c8d9ea9e85a52d863c5bd9172f8a3aadd4937404acfdbb036ab7bdb1e6b1"
+}

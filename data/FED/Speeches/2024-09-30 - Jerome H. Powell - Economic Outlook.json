@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook",
+  "date_original": "2024-09-30",
+  "date_au": "30/09/2024",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20240930a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-30 - Jerome H. Powell - Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-30 - Jerome H. Powell - Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9bc2c599c929e2c9b74871de8666f126e6fd528177f1b9e525b640cd2413f96e"
+}

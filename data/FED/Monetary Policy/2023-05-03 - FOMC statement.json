@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2023-05-03",
+  "date_au": "03/05/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20230503a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2023-05-03 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2023-05-03 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f572c4ff81ac3a14ed14a3637877009ec14028cc8a0a24b20c9e0559873515a7"
+}

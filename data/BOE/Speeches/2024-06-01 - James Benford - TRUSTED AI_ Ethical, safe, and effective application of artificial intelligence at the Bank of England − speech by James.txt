@@ -1,0 +1,389 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford
+DATE: 01/06/2024
+SPEAKER: James Benford
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/september/james-benford-speech-at-the-central-bank-ai-inaugural-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford
+Given at the Central Bank AI Conference
+Published on 
+
+ 25 September 2024
+Recent advances in artificial intelligence (AI) bring many opportunities and challenges to central banks. In this new chapter, we should take confidence from our experience with models. But resolve and humility are critical for us to broaden our data and analytics agendas and strengthen governance. Models will need to be TRUSTED (Targeted, Reliable, Understood, Secure, stress-Tested, Ethical and Durable) to ensure their ethical, safe and effective application across the organisation.
+Speech
+Introduction
+Good morning. It is a pleasure to be here at the inaugural Central Bank AI Conference.
+I am James Benford, Chief Data Officer at the Bank of England, and today I will discuss how we are preparing for the transformative potential that advances in artificial intelligence (or AI) offer to improve how we work internally to deliver monetary and financial stability. I have three key messages.
+First, central banks are not starting from scratch. We build on many decades of experience working with economic and financial models and, more recently, multidisciplinary AI solutions.
+Second, this new chapter will quickly expand the breadth and depth of our use of models. Prior agendas to modernise how we manage and work with data are becoming more load bearing, and we need to accelerate and broaden them.
+Third, we need to be alive to gaps being exposed in existing frameworks as we step up the use of AI. Ongoing work is needed to embed ethical consideration, appropriate governance, and stress testing into the systems we are building or using internally at the Bank.
+While not the subject of this speech, work is also ongoing within the Bank’s policy committees and internationally on how best to address the potential risks to safety and soundness and to financial stability from financial firms’ use of AI and so to enable its safe adoption. Our internal use of AI, and the strategy we are building to guide it, can both inform and be informed by this policy work.
+footnote
+[1]
+History of modelling at Bank
+AI extends the Bank of England’s long history with data, analytics, and modelling.
+The longest thread relates to monetary functions and modelling the economy. At the Bank of England, back in 1805, we used a wind dial to predict how soon ships would arrive in London, and therefore when trade would expand, and with it the demand for money. Over the years, the Bank established a role in measuring economic developments, which provided a base to estimate different quantitative relationships in the economy.
+But it was not until the advent of computing after the Second World War that models of the macroeconomy began to be developed. Famously, in 1949, the London School of Economics built a water-powered computer to bring large-scale macroeconomic modelling to life. The Bank bought a computer-based model, termed a ‘pig in a poke’ at the time, from the London Business School in the 1970s beginning many iterations of macroeconomic modelling.
+footnote
+[2]
+We move to the Medium-Term Macroeconomic Model (‘MTMM’) in 1999, to the Bank of England Quarterly Model (‘BEQM’) through the 2000s, to the ‘COMPASS’
+footnote
+[3]
+model used today, which was introduced in 2011. Today’s ‘COMPASS’ setup comprises one tractable, small model with a suite of some 50 supporting models. Though not the focus of my remarks today, the Bank is currently standing up a programme of work to improve our approach to forecasting for monetary policy making and communication, following a recent review by Dr Bernanke.
+footnote
+[4]
+There is also a long history of modelling on the financial side. Discussion Papers in the 1970s and 1980s modelled the financial position of companies using published accounts data.
+footnote
+[5]
+,
+footnote
+[6]
+Further advances in the availability of data and computing power brought the widespread adoption of empirical modelling in the banking sector, which led to the international ‘Basel’ approach to banking regulation incorporating banks’ market risk models from 1996 and credit risk from 2009. That brought central banks into the business of supervising firms’ use of models and led also to the development of a wide set of stress testing models.
+footnote
+[7]
+From 2014, we began to incorporate a range of what is now referred to as ‘traditional AI methods’ into our work, led by our newly established Advanced Analytics Division. Since then, traditional AI – often classification, prediction, natural language processing, and econometrics with machine learning – has featured in more than 100 research or applied data science projects. We have used natural language processing to study the media,
+footnote
+[8]
+monetary policy communications,
+footnote
+[9]
+,
+footnote
+[10]
+the content of prudential and banking regulations,
+footnote
+[11]
+job adverts,
+footnote
+[12]
+,
+footnote
+[13]
+letters to firms that we supervise,
+footnote
+[14]
+and to analyse responses to consultations.
+footnote
+[15]
+We have applied Machine Learning to forecasting UK inflation,
+footnote
+[16]
+financial crises,
+footnote
+[17]
+and bank distress;
+footnote
+[18]
+and studied it in methods-focused papers on statistical learning,
+footnote
+[19]
+interpretable machine learning,
+footnote
+[20]
+and designing effective human-AI partnerships for financial stability.
+footnote
+[21]
+We have embedded and operationalised machine learning in a range of use cases, from plausibility checking the data we collect from the financial sector,
+to providing supervisors with predictions of risk scores, and to even forecasting the use of our office space.
+Today, the Bank maintains hundreds of models in use for regular analytical processes including forecasting, financial pricing, supervisory stress testing, and risk management. Our approach to managing these processes, as well as the underlying data and models, is controlled by a range of policies on data and model risk management and on the analytical processes that bring them together. Similarly, our approach to supervision places expectations on firms’ data management and governance, and their model risk management.
+footnote
+[22]
+The opportunities and challenges with the latest wave of AI advancements
+Underpinning this history of the Bank of England’s increasing use of models is the exponential rise in the availability of data and computing power.
+The latest advancements, mostly Generative AI, continue this trend. But while experience will help us tackle similar challenges to before, this time round there are three fundamental differences: an enormous step change in the
+size and complexity
+of models, with applicability now to
+all data,
+and scope to be used by
+everyone
+.
+First, the enormous step change in the power, size and complexity of models.
+The Bank of England’s core central macro-economic forecasting model contains 175 parameters. We have trained single neural networks with hundreds of thousands of parameters. But the largest Llama 3.1 in the latest iteration of Meta’s open-source family of foundation AI models counts 405 billion parameters.
+Pretrained on vast amounts of data, foundation models - like Llama or GPT - demonstrate powerful abilities to adapt to an incredibly broad range of new tasks and power complex AI applications.
+But the flipside to the size and complexity of these models is that they risk being the ultimate black box. It can be very difficult to understand, let alone explain, their inner workings. Building approaches to control and stress test their outputs is critical to ethical, safe, and effective use.
+Second, the power of the new AI models brings all data dynamically into scope, both in training and in real-time application.
+Advances in computing has supplied resources for analysing vast amounts of mainly structured numerical data with sophisticated methods at great speed. Now, this capability is expanding to data that have historically been harder to analyse, not just numbers but unstructured text, images, sound, and video. This capability is driven by large and complex foundation models trained on huge swathes of data.
+Pretrained AI foundation models can also be paired with other data sources in real time, both public sources, such as the web, and private sources, like corporate knowledge databases, email, and messaging. In many cases, data from our interactions with these models can help shape their behaviour in the future, building an incredibly dynamic but complex system of humans and machines.
+While this vast amount of data greatly expands the potential use cases for AI, it also introduces wide sets of questions around acceptable use, or ethics, with issues around data privacy and security, and fairness and transparency. And the dynamism and complexity of AI systems means we cannot know for sure how they will evolve and respond in the future, meaning careful thought is needed on guardrails such as stress testing from the outset.
+Third, the ability to interact with some of these AI solutions in natural language means everyone can use them.
+Previous model development and deployment has been largely confined to technical teams that invested in modellers, data scientists, and developers. Outputs have either been relayed to decision-makers in written notes or presentations or, in more recent times, deployed to business teams in the form of automated data pipelines and dashboards.
+Generative AI solutions open the possibility for everyone to easily query and interrogate existing data and to generate new content. There is clearly the potential for broad-based benefit from productivity improvements through greatly expanded access to – and leverage of – accumulated knowledge, allowing central banks to do more with the available time and resource. New analytical insights and risk reduction can improve our work to maintain monetary and financial stability. It could be hugely empowering, and a great leveller, if we get things right by enhancing our staff’s digital capabilities. But, absent the right guardrails and skills around the use of these new AI solutions, there is also potential for wasted effort and costly mistakes.
+Our pillars of AI activity
+How then to seize the opportunities and rise to these challenges?
+The new wave of AI solutions is a reason to double down on strengthening data foundations.
+Models, at the end of the day, depend on the data fed into them. Existing agendas and strategies – and they are long and complex ones – to modernise and enhance general, organisation-wide capabilities to work with data are even more relevant.
+footnote
+[23]
+The urgency to invest in the technology and data foundations to central banking is now even more strong.
+At the Bank of England, our recently refreshed Data and Analytics Strategy
+footnote
+[24]
+seeks to ensure that we make it easier for our colleagues to work with and analyse data; that we bridge data gaps to increase the value of the data we collect and share; and that we enable ethical, safe, and effective innovation, including AI. Underpinning these three missions are two foundations: first, a new enterprise data platform on the Cloud and, second, an organisation-wide support for business change and skills.
+There are three places where recent advances in AI are already adding priorities to our data agenda:
+First, AI is placing additional requirements on our technological foundations. We have moved at pace to set up our new enterprise data platform and now have a minimum viable product that we are using to test how we can produce statistics and manage, manipulate, and visualise macroeconomic data on the cloud. The next step of the build will, by November, include a technical platform to support a wide range of AI applications, informed by pilots we are running.
+Second, AI is broadening the scope of our data management and governance work. Alongside management of structured data, we are now looking closely at how we manage unstructured data and records – such as documents – together with their metadata in this new world. We need to refine our approach to continue to ensure these data have high quality, usability, and traceability
+, and to maintain strong safeguards around privacy and security.
+Third, AI is broadening our skills foundation. A cornerstone of our data and analytics strategy is broadening our approach to provide a solid foundation in data literacy for all roles, complementing our core training offer. We now need to develop new AI skills – like our ability to engineer effective prompts or to integrate AI services into digital tools. Drawing on training resources, knowledge-sharing, and our work on AI use cases, we are building content for our skills foundation,
+striving for
+AI literacy
+for everyone at the Bank
+and AI fluency
+for our expert data professionals.
+Towards a broader AI strategy
+Scaling AI ethically, safely, and effectively across the Bank is dependent on putting these data foundations in place. As we do that, we are building experience in the use of AI through a series of targeted experiments and are using that experience to build
+a broader AI strategy.
+Last year we stood up an AI taskforce, a cross-functional body of experts to gather and prioritise use cases across the whole organisation for incorporating AI into our internal work.
+The most common use case type was using Generative AI to summarise and interrogate text, including producing summaries of meetings from a transcript, closely followed by more traditional AI or Machine Learning solutions to support classification, prediction and anomaly detection. There was also demand for other forms of AI solutions, such as chatbots.
+In response, we have trialled off-the-shelf tools like Copilots with over 250 staff across the Bank of England and have found significant productivity benefits. The evidence we are collecting suggests that these tools can serve use cases like document summarisation, meeting recaps and, particularly, the generation, testing and documentation of computer code. The application to all aspects of coding work, when guided by experienced hands, is particularly impressive.
+footnote
+[25]
+But we also found limitations that we will need to consider, for example, in terms of the reliable summarisation of very large numbers of documents. The benefits of AI are no longer constrained to the most analytical practice areas of our organisation. We expect Bank-wide benefits from solutions like AI-enabled summarisation of meeting transcripts or from the deployment of solutions like chatbot front-door assistants.
+Off-the-shelf tools, however, are not fit for all our AI use cases. Many use cases will need home-grown AI solutions that are more tailored to our staff and their domains of expertise. There are several proof-of-concept studies where we are exploring this.
+One resides in the Prudential Regulation Authority (PRA) led by our Regulatory Technology, Data and Innovation Division. This aims to use the latest cloud AI technology, with humans in the loop, to gain supervisory insights into
+the vast quantities of unstructured data. This was previously tackled using more traditional data science methods but due to the complexity and variety of the unstructured data sources it proved challenging to automate successfully. This project now looks to leverage AI capabilities including Machine Learning, Optical Character Recognition, and Natural Language Processing combined with Large Language Models to try and solve this challenging use case.
+Another example is where we are looking to enhance existing text analytics capabilities for our Agency Network. Here, we are exploring the feasibility of using Generative AI and Natural Language Processing methods to build an AI solution, with the Agents in the loop, that seeks to help extract insights grounded in information that our Agents collect at company visits.
+Finally, a third example involves using locally hosted language models to create a
+n AI assistant, aimed at helping Bank employees to quickly find answers to their queries without having to sift through internal policies and technical documentation.
+AI governance
+is critical to ensuring that we use AI in a way that enables experimentation and innovation while providing mitigants for risks, including data, model and third-party technology risks. We have completed an initial review of our internal policies
+footnote
+[26]
+and put in place interim AI governance arrangements for our experimentation phase. We are completing a broader review, including by learning from others’ experience, as we continue with our AI pilots, work towards our AI strategy, and get ready to scale. The appropriate governance and safeguards for AI and its use is an evolving field; we will keep
+abreast with the evolution of international and domestic regulation, legislation, and best practice, to ensure we remain at the forefront of safe and responsible adoption.
+Based on our initial work on internal uses, we believe there are several dimensions that need to be satisfied for AI models to be
+TRUSTED
+to inform our decision making at scale and effectively underpin our work to maintain monetary and financial stability. Running across all of them is the critical importance of humans being in the loop, in all aspects of the use of AI – development, deployment, operation and use – and both supported and held accountable for their role.
+First,
+the T is for Targeted.
+AI work needs to be focused on a tightly defined use case, tied to our strategy and our stability mission, and to generate measurable value. Given our strategic focus, we are prioritising use cases
+with broad application and demonstrable impacts on productivity, where we can be confident that the necessary foundations and conditions for success are in place. We are working on our internal standards for measuring the value that our data and AI initiatives deliver and are using this evidence to validate our investments and to decide which initiatives to continue, pivot, or sunset.
+Second,
+the R, is for Reliable
+.
+We are focused on reliable AI systems that perform at high standards, and grounded to high-quality data that is clearly relevant to the use case they are focused on. We are seeking to ensure the accuracy of outputs produced by Generative AI tools by putting in place guardrails that check and reference back the output to source documents in the corporate knowledge base.
+Third,
+the U is for Understood.
+Our AI literacy and fluency work is an essential foundation for effective use of AI models. The form of the models themselves and the data that underlies them need to be clear and comprehensible. We are focused on transparently designed AI solutions and are defining decision flows for buying, building, and using AI solutions. These decision flows will define process, roles, and accountabilities across critical decision points in the lifecycle of both third-party and home-grown AI solutions. We are pursuing the traceability of data that feed into the systems and the interpretability of AI outputs.
+And we are documenting the strengths and limitations of the AI solutions we are using, setting out clear ownership and responsibilities around the maintenance and use of the solutions.
+Fourth,
+the S is for Secure.
+The use of AI systems can broaden the scope of risks like data breaches, adversarial attacks, and misuse that compromise information security and their safety more broadly. Interactions with the systems can create new flows of data, both through specific queries by internal users and the models’ access to internal and external information sources. Our approach to obtaining, building and deploying AI must proactively address potential threats, for example by implementing clear terms of use and robust security measures and privacy controls, including on how data is stored and accessed by third party providers.
+Fifth,
+the T is for stress-Tested
+. It is hard to emphasise enough that as we scale and embed AI into our ways of working, we will be building increasingly complex systems of AI models interacting with humans. These systems and their behaviour will evolve, feeding into our decision making in ways that now seem very difficult or perhaps impossible to predict.
+Amidst all this dynamically increasing complexity, it is essential to have processes that keep humans both in the loop and clearly accountable. And we will need to ensure that mitigants are in place for potential risks and unintended consequences. Our existing practices for stress testing quantitative models must expand to account for Generative AI. Here, ex-ante and prior to scaling, we need robust testing procedures of the model itself
+footnote
+[27]
+and broader discussions on what could go wrong. While these outputs should be variable enough to foster creativity and diversity of thought,
+footnote
+[28]
+it is critical that they are contextually relevant and grounded to facts. This is not only about testing the technology. In time we may need to explore controlled experiments to test how systems of AI tools and humans affect decision making, in specific scenarios and in stressed conditions, building on central banks' experience of stress testing in fields such as financial stability and resolution planning. It’s beyond the scope of this speech, but there are areas where the scaling of AI solutions could affect firm-to-firm interactions and the functioning of markets, an important area that is already on the mind of financial policy makers.
+footnote
+[29]
+Sixth, the
+E is for Ethical.
+We are developing our Data, Analytics, and AI Ethics Framework, and associated toolkits and internal training materials. Our framework is guided by our dedication to the foundational principles of being beneficial and scientifically rigorous, fair and inclusive, transparent and secure, and compliant and accountable. As part of that we are placing clear responsibilities on the users of models, including AI models, given they are closest to the business processes they serve. But we are also giving them support to help them judge on best practice, the strengths and limitations of different models, to help ground their judgements.
+Seventh,
+D is for Durable.
+We are focused on creating durable AI systems that can be sustained. Our data foundations and Data and Analytics strategies will need to continue to evolve to cope with the ever-growing demands that AI places on them. It is key that are our foundations on technology and skills are flexible enough to accommodate these changing demands and allow for fast innovation. We also need to keep a close eye on the costs – financial and environmental – of the systems we are building and using to ensure they offer high value for money. An important lesson from previous waves of innovation, for example in machine learning solutions, is that reaping lasting and full benefits from advances in tools and technologies, requires accompanying and fundamental changes to both the processes they serve and the culture that supports them.
+Conclusion
+To conclude, the latest wave of AI offers great potential to improve how central banks work internally to develop stronger insights that underpin monetary and financial stability. To make the most of these opportunities, I’d like to suggest that as central banks consider how to incorporate AI in their internal work, we do so with three human qualities:
+confidence, resolve
+, and
+humility
+.
+Confidence
+because we have experience working with economic, financial and AI models over our long history. That domain knowledge is a great source of strength. Models now, as before, may appear as “pigs in pokes”. But with the right structures in place, we know that we can build trust and experience in them, leaving an informed role for judgement in the decisions humans ultimately make.
+Resolve
+because AI will place more load on our prior agendas to modernise our technology and approach to data and analytics. We need therefore to double-down on work to modernise how we manage and work with data, and broaden our technological, data governance and skills foundations.
+And
+humility
+because the latest wave of AI is in many ways different to what has come before. We will need to learn
+from each other and from experience as we go and be cognisant that existing frameworks did not anticipate the latest wave of AI. We will need to build rigorous AI governance frameworks and strategies,
+to focus on the specific applications with the most value and build broader approaches to managing the risks. As part of this, it is critical that we embed ethical consideration and stress testing into our AI work.
+Thank you for listening.
+Acknowledgements
+I am particularly grateful to Georgios Kyriakopoulos, Benjamin Crampton and Tania Loke for their extensive research and work to prepare this speech.
+I am also grateful to Nicola Bennett, Paul Boyle, William Durham, Dorothy Fouracre, Miranda Hewkin Smith, David Latto, Nick Ross, Daniel Steel, Vicky Purkiss, Helen Pye-Smith, and Barry Willis for their support and contributions. The Bank’s work to draw together and prioritise AI use cases has been led between our data and technology areas by Paul Robinson and Will Lovell, who also provided comments on this speech.
+Thank you also to Andrew Bailey, Carmen Barandela, Jelena Bjelanovic, Sarah Breeden, Zara Coe, Xenios Constantinou, Chris Duffy, Peter Eckley, Iro Lyra, Rebecca Estrada-Pintel, Mohammed Gharbawi, Rebecca Jackson, Amy Lee, Clare Lombardelli, Tom Mutton, Natasha Oakley, Will Oates, Rhys Phillips, Huw Pill, James Proudman, Dave Ramsden, Catarina Souza, Arthur Turrell, Sebastian Walsh, Iain de Weymarn and Sam Woods for providing comments.
+Artificial Intelligence Consortium | Bank of England
+The Bank’s first macroeconomic model dates to 1973, when it purchased a model from the London Business School. At that time, the Deputy Chief of the Bank’s Economic Intelligence Department (Leslie Dicks-Mireaux) remarked that ‘we had in a sense bought a “pig in a poke”’ (meaning something bought without first examining if it is good), as the model’s forecasting record was unknown (Bank of England Archive 10A216/3). By 1978, five years after the model was bought, it had been re-estimated and extended such that ‘its pedigree [was] scarcely recognisable’ (A. R. Latter, ‘Some issues in economic modelling at the Bank of England’, in P. Ormerod (ed.), Economic Modelling: Current Issues and Problems in Macroeconomic Modelling in the UK and the US, London, Heinemann, 1979, p. 26.).
+Central Organising Model for Projection Analysis and Scenario Simulation.
+Bank of England (2024),
+Forecasting for monetary policy making and communication at the Bank of England: a review
+Marais (1979),
+‘A method of quantifying companies' relative financial strength’, Bank of England Discussion Paper No. 4
+Chowdhury, Green, & Miles (2012),
+‘An empirical model of company short-term financial decisions: evidence from company accounts data’, Bank of England Discussion Paper No. 26
+, August 1986.
+Burrows
+et al
+.,
+‘RAMSI: a top-down stress-testing model developed at the Bank of England’, Bank of England Quarterly Bulletin 2012 Q3
+Kalamara et al. (2020),
+‘Making text count: economic forecasting using newspaper text’, Bank of England Staff Working Paper No. 865
+Munday and Brookes (2021),
+Mark my words: the transmission of central bank communication to the general public via the print media’, Bank of England Staff Working Paper No. 944
+Firrell and Reinold (2020), ‘
+Uncertainty and voting on the Bank of England’s Monetary Policy Committee’, Bank of England Staff Working Paper No. 898,
+Amadxarif et al (2021)
+‘The language of rules: textual complexity in banking reforms’, Bank of England Staff Working Paper No. 834
+Turrell et al. (2018),
+‘Using job vacancies to understand the effects of labour market mismatch on UK output and productivity’, Bank of England Staff Working Paper No. 737
+Turrell et al. (2018),
+‘Using online job vacancies to understand the UK labour market from the bottom-up’, Bank of England Staff Working Paper No. 742
+Bholat et al. (2017),
+‘Sending firm messages: text mining letters from PRA supervisors to banks and building societies they regulate’, Bank of England Staff Working Paper No. 688
+Bank of England (2024),
+Response to the Bank of England and HM Treasury Consultation Paper − The digital pound: A new form of money for households and businesses?
+Joseph et al. (2021),
+‘Forecasting UK inflation bottom up’, Bank of England Staff Working Paper No. 915
+Bluwstein et al. (2020),
+‘Credit growth, the yield curve and financial crisis prediction: evidence from a machine learning approach’, Bank of England Staff Working Paper No. 848
+Suss and Treitel (2019),
+‘Predicting bank distress in the UK with machine learning’, Bank of England Staff Working Paper No. 831
+.
+Joseph (2020),
+‘Parametric inference with universal function approximators’, Bank of England Staff Working Paper No. 784
+Buckmann and Joseph (2022),
+‘An interpretable machine learning workflow with an application to economic forecasting’, Bank of England Staff Working Paper No. 984
+Buckmann, Haldane, and Hüser (2021),
+financial stability’, Bank of England Staff Working Paper No. 937
+Bank of England (2023),
+PRA’s approach to supervision of the banking and insurance sectors
+Shin (2024), ‘III. Artificial intelligence and the economy: implications for central banks’,
+BIS Annual Economic Report 2024
+Bank of England (2024),
+The Bank’s data and analytics strategy: a three-year roadmap
+External studies (for example, see Cui et al
+(2024)
+.
+,
+‘The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers’
+) have found a productivity improvement of a quarter to a third on coding work using coding Copilots, and our internal experience has been similar so far. This impressive performance relies on experienced coders to review and redraft AI-generated material. This of course leaves an important question about how to train the future generation of coders, equipping them to both work with coding Copilots and with the knowledge to challenge and tailor their outputs.
+For example, our Data Management Policy, Model Risk Standards, Analytical Process Policy and our Software Development Policy.
+We have proposed interim AI governance guidelines highlighting the relevance of existing policies to AI, while we are furthering our thinking about wider AI governance requirements.
+For example, the AI Safety Institute’s AI safety evaluations platform available at: AI Safety Institute releases new AI safety evaluations platform
+Cipollone (2024),
+Artificial intelligence: a central bank’s view
+Hall (2024),
+Monsters in the deep? − speech by Jonathan Hall
+Hall (2024),
+Monsters in the deep? − speech by Jonathan Hall
+Close
+Cipollone (2024),
+Artificial intelligence: a central bank’s view
+Close
+For example, the AI Safety Institute’s AI safety evaluations platform available at: AI Safety Institute releases new AI safety evaluations platform
+Close
+For example, our Data Management Policy, Model Risk Standards, Analytical Process Policy and our Software Development Policy.
+We have proposed interim AI governance guidelines highlighting the relevance of existing policies to AI, while we are furthering our thinking about wider AI governance requirements.
+Close
+External studies (for example, see Cui et al
+(2024)
+.
+,
+‘The Effects of Generative AI on High Skilled Work: Evidence from Three Field Experiments with Software Developers’
+) have found a productivity improvement of a quarter to a third on coding work using coding Copilots, and our internal experience has been similar so far. This impressive performance relies on experienced coders to review and redraft AI-generated material. This of course leaves an important question about how to train the future generation of coders, equipping them to both work with coding Copilots and with the knowledge to challenge and tailor their outputs.
+Close
+Bank of England (2024),
+The Bank’s data and analytics strategy: a three-year roadmap
+Close
+Shin (2024), ‘III. Artificial intelligence and the economy: implications for central banks’,
+BIS Annual Economic Report 2024
+Close
+Bank of England (2023),
+PRA’s approach to supervision of the banking and insurance sectors
+Close
+Buckmann, Haldane, and Hüser (2021),
+financial stability’, Bank of England Staff Working Paper No. 937
+Close
+Buckmann and Joseph (2022),
+‘An interpretable machine learning workflow with an application to economic forecasting’, Bank of England Staff Working Paper No. 984
+Close
+Joseph (2020),
+‘Parametric inference with universal function approximators’, Bank of England Staff Working Paper No. 784
+Close
+Suss and Treitel (2019),
+‘Predicting bank distress in the UK with machine learning’, Bank of England Staff Working Paper No. 831
+.
+Close
+Bluwstein et al. (2020),
+‘Credit growth, the yield curve and financial crisis prediction: evidence from a machine learning approach’, Bank of England Staff Working Paper No. 848
+Close
+Joseph et al. (2021),
+‘Forecasting UK inflation bottom up’, Bank of England Staff Working Paper No. 915
+Close
+Bank of England (2024),
+Response to the Bank of England and HM Treasury Consultation Paper − The digital pound: A new form of money for households and businesses?
+Close
+Bholat et al. (2017),
+‘Sending firm messages: text mining letters from PRA supervisors to banks and building societies they regulate’, Bank of England Staff Working Paper No. 688
+Close
+Turrell et al. (2018),
+‘Using online job vacancies to understand the UK labour market from the bottom-up’, Bank of England Staff Working Paper No. 742
+Close
+Turrell et al. (2018),
+‘Using job vacancies to understand the effects of labour market mismatch on UK output and productivity’, Bank of England Staff Working Paper No. 737
+Close
+Amadxarif et al (2021)
+‘The language of rules: textual complexity in banking reforms’, Bank of England Staff Working Paper No. 834
+Close
+Firrell and Reinold (2020), ‘
+Uncertainty and voting on the Bank of England’s Monetary Policy Committee’, Bank of England Staff Working Paper No. 898,
+Close
+Munday and Brookes (2021),
+Mark my words: the transmission of central bank communication to the general public via the print media’, Bank of England Staff Working Paper No. 944
+Close
+Kalamara et al. (2020),
+‘Making text count: economic forecasting using newspaper text’, Bank of England Staff Working Paper No. 865
+Close
+Burrows
+et al
+.,
+‘RAMSI: a top-down stress-testing model developed at the Bank of England’, Bank of England Quarterly Bulletin 2012 Q3
+Close
+Chowdhury, Green, & Miles (2012),
+‘An empirical model of company short-term financial decisions: evidence from company accounts data’, Bank of England Discussion Paper No. 26
+, August 1986.
+Close
+Marais (1979),
+‘A method of quantifying companies' relative financial strength’, Bank of England Discussion Paper No. 4
+Close
+Bank of England (2024),
+Forecasting for monetary policy making and communication at the Bank of England: a review
+Close
+Central Organising Model for Projection Analysis and Scenario Simulation.
+Close
+The Bank’s first macroeconomic model dates to 1973, when it purchased a model from the London Business School. At that time, the Deputy Chief of the Bank’s Economic Intelligence Department (Leslie Dicks-Mireaux) remarked that ‘we had in a sense bought a “pig in a poke”’ (meaning something bought without first examining if it is good), as the model’s forecasting record was unknown (Bank of England Archive 10A216/3). By 1978, five years after the model was bought, it had been re-estimated and extended such that ‘its pedigree [was] scarcely recognisable’ (A. R. Latter, ‘Some issues in economic modelling at the Bank of England’, in P. Ormerod (ed.), Economic Modelling: Current Issues and Problems in Macroeconomic Modelling in the UK and the US, London, Heinemann, 1979, p. 26.).
+Close
+Artificial Intelligence Consortium | Bank of England
+Close
+Convert this page to PDF
+James Benford
+Former Executive Director for Data and Analytics Transformation and Chief Data Officer from 2023 to 2025
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

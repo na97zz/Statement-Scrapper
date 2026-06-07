@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Responsible Innovation in Money and Payments",
+  "date_original": "2023-10-17",
+  "date_au": "17/10/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20231017a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-17 - Michelle W. Bowman - Responsible Innovation in Money and Payments.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-17 - Michelle W. Bowman - Responsible Innovation in Money and Payments.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "88a5bf6b06b25883b183dc602811404a2ce3f93ca997b3d6e5ed8cda58ef116b"
+}

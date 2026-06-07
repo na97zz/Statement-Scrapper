@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Expectations, lags, and the transmission of monetary policy - speech by Catherine L. Mann",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Catherine L. Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/february/expectations-lags-and-the-transmission-of-monetary-policy-speech-by-catherine-l-mann.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Catherine L. Mann - Expectations, lags, and the transmission of monetary policy - speech by Catherine L. Mann.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Catherine L. Mann - Expectations, lags, and the transmission of monetary policy - speech by Catherine L. Mann.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:49",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2023/february/catherine-l-mann-speech-resolution-foundation",
+  "content_sha256": "30876fcfeeca04bb9861ec43bca57fda2d1ffbae15ec647b3474d990a119f5d6"
+}

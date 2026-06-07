@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Back to the future − speech by Dave Ramsden",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Dave Ramsden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/november/back-to-the-future-speech-by-dave-ramsden.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Dave Ramsden - Back to the future − speech by Dave Ramsden.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Dave Ramsden - Back to the future − speech by Dave Ramsden.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:08",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2023/november/dave-ramsden-keynote-speech-at-the-society-of-professional-economists-annual-conference",
+  "content_sha256": "eb10ba55d9a528818c2cce75bcf7d427067415874952ffdd91d9e34c51abb04e"
+}

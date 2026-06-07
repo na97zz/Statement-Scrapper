@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Shizuoka)",
+  "date_original": "2025-03-05",
+  "date_au": "05/03/2025",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250305a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-03-05 - UCHIDA Shinichi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Shizuoka).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-03-05 - UCHIDA Shinichi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Shizuoka).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5115fd25a98a400546a0c5135b46c959d8cb182ff76c9fc49197186e7e94e10b"
+}

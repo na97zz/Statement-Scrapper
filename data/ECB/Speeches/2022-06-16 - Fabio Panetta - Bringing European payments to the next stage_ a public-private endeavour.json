@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Bringing European payments to the next stage: a public-private endeavour",
+  "date_original": "2022-06-16",
+  "date_au": "16/06/2022",
+  "datetime_original": "",
+  "speaker": "Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220616~9f8d1e277b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-06-16 - Fabio Panetta - Bringing European payments to the next stage_ a public-private endeavour.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-06-16 - Fabio Panetta - Bringing European payments to the next stage_ a public-private endeavour.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6e5cf384516a2258a26663f308748fe57c2eed3b260c42879a8b1a93de260782"
+}

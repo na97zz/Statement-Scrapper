@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"The Future of Payment and Settlement Systems With or Without Central Bank Digital Currency\" (Opening Remarks at the Second Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency)",
+  "date_original": "2021-10-15",
+  "date_au": "15/10/2021",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko211015a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-10-15 - UCHIDA Shinichi - _The Future of Payment and Settlement Systems With or Without Central Bank Digital Currency_ (Opening Remarks at the Se.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-10-15 - UCHIDA Shinichi - _The Future of Payment and Settlement Systems With or Without Central Bank Digital Currency_ (Opening Remarks at the Se.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "842c0d04931a5b466eba4198f7979c28529934fe3ccc22560d5537d0abc04d95"
+}

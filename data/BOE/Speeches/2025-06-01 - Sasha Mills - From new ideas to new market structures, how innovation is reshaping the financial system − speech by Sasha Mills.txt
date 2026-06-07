@@ -1,0 +1,183 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: From new ideas to new market structures, how innovation is reshaping the financial system − speech by Sasha Mills
+DATE: 01/06/2025
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/october/sasha-mills-keynote-speech-at-the-association-of-financial-markets-in-europes-annual-operations
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+From new ideas to new market structures, how innovation is reshaping the financial system − speech by Sasha Mills
+Given at AFME OPTIC Conference, Amsterdam
+Published on 
+
+ 08 October 2025
+In this speech, Sasha discusses how new ideas and technologies, such as distributed ledgers, are driving innovation and reshaping market structures. She highlights the Bank’s support for responsible innovation by start-ups and established firms and how our approach to regulation is evolving in step with technology.
+Speech
+Introduction
+Good morning and thank you to the Association for Financial Markets in Europe for the invitation to speak today. It’s a pleasure to be here among colleagues from across the financial ecosystem.
+We are at a pivotal moment in the evolution of the financial system. Born out of the financial crisis came a new and disruptive idea, decentralised, disintermediated finance. This idea generated new technologies, blockchains, decentralised ledgers that offer the potential to fundamentally restructure the way the financial system operates and brings significant efficiencies to the market and economy. But it also brings new risks to be managed, including temporary risks as we transition to a new ecosystem.
+As the existing financial system and emerging one convert decentralised finance into real economy use cases a wave of new products, business models, processes are giving rise to innovative firms and evolving market structures. Financial market infrastructures (FMIs) sit at the heart of this transformation. Every day, they enable millions of payments, securities and other trades to flow through the financial system safely and efficiently. Their stability is paramount. But so too is their capacity for innovation. Innovation ensures FMIs can keep pace with a changing financial landscape. It also helps them continue to meet the needs of their participants.
+As the regulator of systemically important FMIs, the Bank of England (the Bank) is committed to supporting responsible innovation in the financial system. Whether you are an incumbent or a start-up in the world of FMIs, the Bank is keen to engage with you on your innovation journey – removing barriers and taking a ‘same risk, same regulatory outcome’ approach to the challenges it throws up. Our regulatory frameworks and approach are evolving in step with the technological changes. This ensures that the heart of the financial system continues to beat strongly.
+Today, I will look ahead to the future of the financial system, and the role FMIs will play in shaping it. As we navigate this transformation, we must embrace change with ambition and responsibility. Today’s discussion is an opportunity to reflect on how we achieve that balance, through four dimensions of change: ideas, technology, firms, and market structures.
+New Ideas and New Technologies
+Openness to new ideas is essential for meaningful innovation. New ideas, whether sparked by inefficiencies, challenges, or new insights, can lead to profound transformation. In the financial system, we’ve seen this time and again. Real-time payments, electronic securities settlement and central clearing were once novel concepts. Today, they are foundational to the functioning of the financial system.
+Once an idea becomes embedded, we may take it for granted. Not so many years ago distributed ledger technologies (DLT) and smart contracts were new ideas, now they are coming of age. But these ideas are not born in a vacuum. Existing regulations and processes exist.
+Today, I want to focus on the journey from that initial concept to widespread adoption, and how regulators are helping along the way. That journey starts with engagement. Engagement with industry is vital. It helps us, as regulators, better understand how we need to adapt, or where more clarity would be useful for you. That’s why I value events like this. They give us a chance to speak with you and hear from you.
+We are open to having conversations both at the formative stages of your journey as well as later on. Of course, the conversations along this journey might look very different. I’ll come back to that point shortly.
+But we also see value in earlier conversations – understanding the challenges firms are trying to solve and the ideas being explored. I and my colleagues at the Bank are keen to listen to you about where the opportunities lie. If you think greater clarity would be helpful, or if you’re unsure how existing rules apply, please let us know. Early dialogue helps us ensure our approach remains proportionate, effective and relevant.
+Translating ideas into technologies
+While openness to new ideas is essential, it is through their translation into new technologies that we begin to see tangible transformation across the financial sector. Technology is already transforming post-trade processes and has the potential to do so even more profoundly.
+As I have already mentioned, a prime example is distributed ledger technology. DLT brings to life the idea of using shared ledgers for record-keeping and transaction processing. Firms are starting to explore using DLT to issue programmable assets and automate processes through smart contracts. This has the potential to enhance transparency, and drive efficiencies in settlement, clearing, custody, and risk management. These are areas that lie at the heart of the financial system but are traditionally reliant on complex, multi-party coordination.
+Beyond DLT, Artificial Intelligence and machine learning and data-driven innovations also have the potential to improve how FMIs could optimise operations and build resilience.
+Yet, with innovation comes responsibility, particularly when it takes place in the heart of the financial system. Robust risk management must accompany new technologies to ensure systems remain resilient and regulatory outcomes achieved. For instance, deployment of DLT presents challenges. This includes mitigating new cyber risks, such as ones stemming from the interconnectedness of DLT systems (e.g. through cross-chain bridges). And ensuring that wholesale users of these systems have clarity on who is responsible for ensuring resilience to stress. We are seeing market participants actively working to overcome these challenges, which is encouraging. The goal, and opportunity, is to harness these technological advances to strengthen, not destabilise, the financial system.
+The Bank is actively supporting momentum in this space
+In our role as an operator, the Bank has been focused on facilitating the responsible adoption of new technology for many years. In 2021 we introduced
+Omnibus Account
+,
+which supports the settlement of tokenised assets backed in central bank money. In April this year, we also launched our renewed Real-Time Gross Settlement (RTGS) service, RT2
+,
+which has been designed as a platform on which to innovate, fostering economic growth and financial inclusion. Looking ahead, we are designing a synchronisation interface as part of the RTGS Future Roadmap. This will allow for the conditional settlement of funds in RTGS against assets on a variety of external ledgers – including programmable, DLT-based ledgers. The renewed RTGS service will also offer enhanced functionalities to improve market efficiencies, such as extended settlement hours. As well as this, the Bank is exploring further ways to support the responsible deployment of emerging technologies. This includes initiatives like the
+DLT Innovation Challenge
+, and the programme of wholesale payments experiments set out in our
+2024 discussion paper
+. These experiments will test the relative merits of different methods of central bank money settlement, such as synchronisation and a wholesale central bank digital currency.
+And secondly, in our role as a regulator, which is what I would like to focus more on today, we want to make sure new and existing firms we regulate can adopt technology responsibly. I will touch more on how we do this later on.
+But before I do that, as a regulator we also can use technology to help us do our job better. Regulatory and supervisory technology advancements can help us become even more effective; using ‘tech to check’ means that we can use new supervisory technologies to support us in becoming more efficient at ensuring regulatory outcomes are achieved. One example is
+Project Pyxtrial
+. This project explored how supervisory technology can provide near real-time monitoring of stablecoins’ backing assets. We also request that all regulatory materials submitted by Digital Securities Sandbox applicants and participants are submitted in machine-readable format so we can leverage the efficiencies from AI in our reviews.
+Innovation by incumbents and new firms
+As these technologies mature and embed and firms begin to deploy them, we are beginning to see a shift in the FMI landscape.
+Innovation is not limited to new entrants; incumbent firms are embracing change and actively evolving how they deliver FMI services. They are adopting new technologies, rethinking legacy systems, and reimagining their roles within the financial system.
+The move towards T+1 settlement is a clear example of this evolution in practice. For UK firms, adapting to a shorter settlement cycle is not just a technical change, it’s also an opportunity to innovate, streamline operations, and ensure the UK remains competitive in global markets. A shorter settlement cycle will also mean that firms and central counterparties (CCPs) face lower counterparty risks. And I anticipate this will lead to significant amounts of margin being released by CCPs to members and their clients, perhaps in the order of £1 billion according to our estimates
+footnote
+[1]
+- a significant sum which could be used by market participants for other productive purposes, supporting the UK economy.
+footnote
+[2]
+As regulators, we engage with firms already in our remit to understand how this innovation affects their business models, and what are the risks and opportunities.
+At the same time, new types of firms are emerging. Some seek to perform familiar roles in novel ways, such as issuing money or operating payment systems using DLT. Others are introducing entirely new functions that could become essential to the financial system, including synchronisation operators and programmable platform providers.
+This diversification of market participants is a sign of healthy innovation. It reflects a dynamic ecosystem where technology can enable new models of financial intermediation. As regulators, we want to support this evolution of market participants, and to support greater market entry and growth. Today, I want to talk about three examples:
+Firstly, we develop new regulations and adapt existing regulations to support new and existing firms
+We are streamlining key parts of the regulatory regime for CCPs, as set out in our
+consultation paper
+this summer. This includes consulting on how we might modernise certain processes, such as the approval of margin models and authorisation of new products. We're also using this consultation to gather industry's views on more exploratory topics, such as permitting tokenised assets as eligible collateral for CCPs.
+We plan to take the same approach for central securities depositories (CSDs) and will consult on that regulatory regime over the coming years.
+In the UK, Parliament passed the Financial Services and Markets Act in 2023, which gave the Bank powers to regulate systemic stablecoins. These are stablecoins that may be widely used as money (that is for everyday payments or for settling tokenised core financial market transactions) rather than only for non-systemic uses such as supporting crypto trading.
+We are now well advanced in developing the detailed regulatory framework, which will be forward-looking, setting out the standards stablecoins must meet to support responsible and sustainable innovation. We are doing so with a keen eye to the international standards and recommendations, like those by the Committee on Payments and Market Infrastructures and the Financial Stability Board. And in conversation with our international peers, including those in the US, where the recent GENIUS Act lays foundations for a future regulatory framework. We also take note of lessons learnt in jurisdictions that have already implemented stablecoin regulation, like the EU’s MiCA and Singapore’s stablecoin framework.
+Crucially, we are listening to industry feedback and considering what requirements will underpin viable future business models, while maintaining financial stability. Our proposed changes to the initial proposals on the backing assets requirements, as
+we set out previously
+, are a clear example of this approach. That is, the Bank will now allow systemic stablecoin issuers to hold a portion of their backing assets in a subset of
+high-quality liquid assets (HQLA).
+While we are open to innovation and supporting the development of viable business models, our priority is to maintain trust and confidence in money and payments. If stablecoins are to be widely used for everyday payments, maintaining trust and confidence in this new form of money is paramount.
+Our proposed framework sets robust standards to uphold this trust. So, our position is that a portion of backing assets should be held in central bank deposits. This means that we are prepared to provide the accounts and in effect be “the banker” to stablecoin issuers, which can further enhance trust in this new form of money and means stablecoin issuers need not rely on entities (commercial banks) with whom they are seeking to compete.
+We also recognise that stablecoins could potentially change market structures. As
+Andrew Bailey set out recently
+, they could weaken the link between money and credit creation, which in the UK is traditionally performed by banks. In the future, we could see more market-based finance instead, but this is unlikely to happen immediately. In the meantime, applying holding limits to stablecoins could allow us to learn more about the potential impact on the cost and availability of credit, and mitigate the risk of a disorderly transition.
+We will set out our proposals for regulating systemic stablecoins further in a consultation paper later this year.
+Secondly, we have published our supervisory approach to onboarding new FMIs.
+This
+approach
+provides greater transparency and clarity for firms on their way to become a Bank-regulated FMI. Key to this approach are two discretionary stages - mobilisation and scaling. These stages can support new FMIs to launch and begin growing their businesses in a regulated environment, under defined business restrictions.
+These stages are particularly valuable for new entrants whose market readiness may depend on securing investment. Or for firms that need time to complete operational build-out. During these stages, supervisory expectations will be proportionate to firms’ limited operations. Previously, firms may have been required to meet higher expectations at the point of authorisation. Now with this approach, they can progress towards them in a structured, gradual way. To further support this, the Bank will consult later this year on our powers to amend requirements in UK EMIR to support new CCPs.
+We recognise that in some cases, new FMIs might be coming into our regulation in parallel to seeking access to the Bank’s RTGS services. When this happens, this supervisory approach and the RTGS access policy are applied jointly to smooth the onboarding process.
+Finally, we are allowing for safe experimentation by new and existing firms in a controlled environment in a Digital Securities Sandbox (DSS).
+The
+DSS
+facilitates the use of developing technology such as distributed ledgers in the issuance, trading and settlement of securities. It allows firms to undertake activities within set limits in a regulated environment and will support the issuance of the UK Government’s digital gilt, DIGIT. At the same time, it helps us understand how these technologies could improve the efficiency of post-trade processes. Testing these activities in a sandbox also means we can experiment with how they are settled. We are currently working to expand the list of permissible payment assets to include regulated stablecoins. This work will also help inform our future regulatory regime for digital securities depositories.
+Together, these efforts demonstrate our commitment to regulation being an enabler of innovation and not an inhibitor. Our approach is intentionally flexible, recognising that innovation comes in many forms. Sometimes, our existing regulatory framework is already sufficiently adaptable to support new developments. In other cases, we may need to clarify or adapt our rules. What matters most to us is not the technology itself, but the outcomes it delivers for the financial system.
+To help bring this topic to life, let’s imagine a scenario.
+A startup founder reaches out to the Bank. They’ve been developing a new type of technology to streamline trading and settlement, and to improve efficiency in the post trade processes. The founder is at a crossroads. The idea is promising, but the path to implementation is unclear. They’re seeking clarity on how to scale safely in a regulated market. So, they come in to talk to us.
+At this stage, we can explain which regulatory paths are available to help them decide the most appropriate one. It might be that a mobilisation period is useful. This would allow the firm in early stages of development to operate under tight limits in a regulated environment, to test their operations before they scale. Alternatively, they may wish to establish their business and develop their risk management processes more, before applying for authorisation and launching their business at scale. Or maybe our DSS is the best way to explore the viability of their ideas in a safe and informed way, if their business is performing digital settlement of securities transactions.
+Without our flexible, proportionate approach, market entry would be much harder. Founders would have needed to complete fundraising, hiring, and full build out of their product up front before a single transaction happens.
+Instead, we aim to ensure our processes and expectations are proportionate to the risks posed. So that we enable, rather than hinder, new firms to enter and thrive in the market.
+When we talk, the founder may also ask about access to central bank services – including accounts with us or access to RTGS.
+footnote
+[3]
+So, I may bring in my colleagues from other parts of the Bank, to help advise on that. We are keen to support founders to navigate both processes, so their journey is coordinated and smooth.
+As well as speaking with new firms, we might also have conversations with an incumbent. That firm might be looking to deploy a new, innovative business line or introduce new technology that could create efficiencies. They may raise this topic as part of our regular supervisory dialogue. I listen with interest, keen to hear about the opportunities this innovation might bring and how it might impact the business model. And, similarly to my conversations with new firms, as our dialogue continues over time, I might also ask: does this introduce new risks and if so, how are you planning to manage them? What new dependencies or conflicts arise, and how will you govern them? How will you manage the transition to the new technology? All that with an aim to ensure that progress is accompanied by robust risk management and appropriate safeguards.
+And our conversations do not end there. Rather, it is part of an ongoing dialogue as new firms move towards becoming regulated, or incumbent firms look to deploy new technologies. And for the DSS, if you want to know more about how you will be regulated there are some great
+webinars
+you can watch.
+footnote
+[4]
+New Market Structures
+I want to move on from changes to individual firms to how new ideas and technologies are changing entire market structures. I see that change happening in two ways: how markets operate and through institutional change in the roles and functions of market participants.
+Changes to how markets operate
+New technologies are changing how transactions are executed, how value is transferred, and how systems interact. This brings both opportunities and challenges to how markets operate. I wanted to share a few challenges that have been on my mind lately.
+Decentralised, DLT-based models enable peer-to-peer transactions without centrally governed intermediaries. With these models, transactions, settlement and record-keeping are embedded in the protocol itself. This can improve transparency, reduce the likelihood of errors and so operational risk, and lower costs significantly. But it is important to preserve the clarity on who is accountable for what as roles change or merge.
+As new platforms and protocols emerge, markets could fragment. That may bring inefficiencies, siloed liquidity, and interoperability challenges unless standards are put in place to guard against that.
+Programmable ecosystems are giving rise to new forms of network effects. These could concentrate market power or create dependencies on specific technologies or platforms. This may raise questions about concentration risk and systemic resilience unless interoperability is factored in from the start.
+Institutional Change
+Beyond changes to how markets operate, there is also the potential for institutional transformation. Post-trade innovations may begin by removing frictions. But over time, this could prompt a rethinking of the institutional structures that support them.
+We’re seeing early signs of how technology could enable post-trade functions to be combined or offered in new ways, especially as functions may shift towards more distributed models. This could lead to a number of changes: innovation by existing institutions as firms consider how to evolve their business models, the emergence of new firms, or a redistribution of responsibilities across the financial ecosystem. The DSS is one example of this, where firms can test models that combine trading and settlement.
+As we navigate these shifts, our focus remains firmly on outcomes. If technology can deliver the same or better functioning post-trade systems, we welcome it – provided conflicts of interest are managed, and the financial system remains resilient. That is, where core markets continue to function smoothly and FMIs continue to provide essential services. We also remain mindful of the need to manage any transition risks carefully.
+This is why our regulatory approach is principles-based, forward-looking, and risk-focused. It is designed to keep pace with changing market structures. Our principle of “same risk, same regulatory outcome” ensures consistency across both legacy and emerging structures. By concentrating on the activities themselves - rather than solely on who performs them - we are better able to address emerging risks. This may mean regulating less in aggregate, as I explained earlier when talking about our supervisory approach. In particular, we may do less in the early phases of novel businesses, before they scale, but place greater emphasis on the aspects that matter most.
+Such an approach is particularly crucial as we consider how technology could reshape the market in the future.
+Maintaining stability in a changing market environment
+In this evolving landscape, our role extends beyond oversight. We also play a convening and enabling role helping guide the architecture of future financial systems. For example, through participating in international fora exploring programmable ledgers (such as the Global Layer One initiative), and by contributing to the global regulatory dialogue. We also support wider initiatives by the industry and the Government’s
+Wholesale Financial Markets Digital Strategy
+and their commitment to appoint a Digital Markets Champion to drive cross sector innovation.
+In this wider role, this year the Bank, as a member of the Payments Vision Delivery Committee, has worked alongside other UK authorities with input from industry, to take forward the Government’s ambition for a world-leading payments ecosystem. The Committee plays an important role in enhancing regulatory coordination and providing a mechanism to facilitate prioritisation decisions on payments initiatives. To begin this journey, the PVDC will publish its strategy for the next generation of retail payments later this year.
+footnote
+[5]
+Innovation and Growth
+As innovation continues to reshape FMI landscape, its impact can reach beyond the financial system. Innovation in financial services is not an end in itself; it is a means of supporting broader economic outcomes.
+Through our primary financial stability objective, we support growth by ensuring confidence in the financial system. Alongside this, we advance our secondary innovation objective, which facilitates innovation in FMIs and supports economic growth. When deployed responsibly and effectively, innovation can enhance productivity, support greater market entry, and unlock new sources of growth.
+Taken together, these new ideas, technologies, firms, and market structures can lead to a better functioning financial system and economy at large.
+Closing Reflections
+And so, when I think back to that hypothetical conversation with a startup founder who has this new idea, I would encourage them to be ambitious and to engage openly with regulators. Whether you’re a start-up with a bold new idea or a long-standing institution looking to evolve, our message is the same: we’re open to supporting your innovation journey, while ensuring the financial system remains resilient.
+As we navigate this period of transformation, the UK remains committed to fostering innovation while safeguarding financial stability. The Bank is not only adapting to change, but we are also actively enabling it.
+Together, we are developing a financial system that is robust, efficient, and prepared to meet future challenges. Through these efforts, we support the UK’s position as a leading global financial centre.
+Thank you.
+I’d like to thank Rhona Madden, Clare Ashton, Kushal Balluck, Paul Bedford, Sarah Breeden, Emma Butterworth, Victoria Cleland, Chris Filmer, Charles Gundy, Magda Rutkowska, Harry Sleep, Richard Spooner, Nina Turnbull, Sadi-Mae Wilson, Daniel Wright
+,
+Michael Wood and Michael Yoganayagam
+for their help in preparing these remarks.
+This estimate relates to margin posted to support UK cash equities clearing and applies the approximate margin reductions seen in another jurisdiction which has transitioned to T+1 from T+2.
+For more information on shortening the settlement cycle in the UK, see
+Innovation in UK Financial Markets - shortening the settlement cycle – speech by Sasha Mills
+For more information on our access policies, and how we are expanding access to RTGS, please see
+‘
+Response to the discussion paper on reviewing access to RTGS accounts for settlement
+Gate 2: Who is eligible and how to apply|
+For more information, see
+‘Payments Vision Delivery Committee Update’
+For more information, see
+‘Payments Vision Delivery Committee Update’
+Close
+Gate 2: Who is eligible and how to apply|
+Close
+For more information on our access policies, and how we are expanding access to RTGS, please see
+‘
+Response to the discussion paper on reviewing access to RTGS accounts for settlement
+Close
+For more information on shortening the settlement cycle in the UK, see
+Innovation in UK Financial Markets - shortening the settlement cycle – speech by Sasha Mills
+Close
+This estimate relates to margin posted to support UK cash equities clearing and applies the approximate margin reductions seen in another jurisdiction which has transitioned to T+1 from T+2.
+Close
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

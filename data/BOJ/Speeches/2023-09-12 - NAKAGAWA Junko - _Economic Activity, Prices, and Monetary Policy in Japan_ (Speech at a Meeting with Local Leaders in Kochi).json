@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kochi)",
+  "date_original": "2023-09-12",
+  "date_au": "12/09/2023",
+  "datetime_original": "",
+  "speaker": "NAKAGAWA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230912a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-09-12 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kochi).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-09-12 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kochi).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "37541b207036845f3491e836ec0c05aeac2f189089e9aca59403805904e69d0b"
+}

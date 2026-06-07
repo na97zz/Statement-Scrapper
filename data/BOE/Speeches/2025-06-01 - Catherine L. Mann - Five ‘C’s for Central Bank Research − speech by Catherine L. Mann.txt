@@ -1,0 +1,430 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Five ‘C’s for Central Bank Research − speech by Catherine L. Mann
+DATE: 01/06/2025
+SPEAKER: Catherine L. Mann
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/august/catherine-l-mann-panellist-at-conference-commemorating-100th-anniversary-founding-banco-de-mexico
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Five ‘C’s for Central Bank Research − speech by Catherine L. Mann
+Given at The Future of Central Banking conference on the occasion of the 100th Anniversary, Banco de México
+Published on 
+
+ 26 August 2025
+Catherine L. Mann discusses the importance of research for central bank credibility, and its role in communication with the public. Catherine outlines the role of research in the economic context of increasing tensions between inflation persistence and weak growth. Catherine concludes by highlighting how research influences her monetary policy decisions.
+Speech
+Introduction
+Economic research at central banks plays an important role: for the institutions themselves, the economists employed there, and for the decision-makers. Here are 5 ‘Cs’ of research, relevant to central banks but also other institutions with decision-making responsibility in policy and the marketplace: credibility, currency, communication, careers, and change.
+Research is the
+currency
+of the economics profession, which fundamentally is about understanding the relationships between households, businesses, and financial firms. Good research lends
+credibility
+to the institution through more informed decision-making. For the central bank, credibility is crucial to the functioning of monetary policy, its transmission, and monetary policymakers’ capacity to affect output and inflation. The credibility of the institution also depends on investment in this currency of the profession. Investment in staff’s
+careers
+who undertake this research
+implies they have time, resources and guidance to engage in research that supports the policy objectives of the institution.
+Research also
+changes
+and evolves – new data and methods support progress in the profession and help me as a policymaker to make judgements based on a range of data sources and models. Knowledge-sharing of research across institutions, enabled by conferences like these, encourages innovation.
+Finally, credibility, career, currency, and change come together through various forms of
+communication
+of that research, as a key ingredient to research quality and decision-making. The Bank of England’s outlets include, among them, internal poster sessions for work in progress, nearly journal-ready
+staff working papers
+, and the new
+Macro Technical Paper
+series, intended to document models, analysis and conceptual frameworks that underpin monetary policy preparation.
+footnote
+[1]
+Other Bank outlets include the ‘bite-sized’
+Bank Overground
+posts, and importantly,
+Bank Underground
+, the staff blog which can challenge – or support – views of the Monetary Policy Committee or the orthodoxy of the profession. Alongside Bank publications, our researchers also publish in top-tier peer-reviewed academic journals, as well as presenting both at Bank-organized and at top academic conferences.
+footnote
+[2]
+And, of course, research at the Bank is often highlighted in policymaker speeches, as I will be doing today.
+From data analysis to theoretical modelling, econometric techniques and textual analysis, research at the Bank of England has provided important cross-checks for me – particularly to the baseline forecast that at times could not capture important dynamics such as state-dependencies, non-linearities and asymmetries in economic relationships that underlie the monetary policy transmission mechanism, the importance of the inflation expectations channel, and the dynamics of demand.
+This speech will discuss some of the most recent staff research on the UK that informs my policy decision. I will emphasize research on inflation but will also highlight analysis that shows an increasing tension between inflation persistence and weak growth – the trade-off that we currently face in the United Kingdom. I will finish by discussing how this research influences my monetary policy strategy.
+Persistent inflation persistence?
+In the latest
+Monetary Policy Report
+, headline inflation is projected to reach a peak of 3.8% in quarterly space, and to remain above the 2% target until Q2 2027, two years from now.
+Chart 1
+plots the contributions to the more persistently elevated level of projected monthly near-term inflation, over the next six months, which is expected to peak at 4%. The contribution from services price inflation remains high at 2.5 percentage points, and food price inflation contributes an additional 0.5 percentage points.
+Chart 1: Contributions to annual headline CPI inflation
+Year-on-year percentage changes
+Footnotes
+Source:
+August 2025 Monetary Policy Report
+.
+Notes: Figures in parentheses are CPI basket weights in 2025, which do not sum to 100% due to rounding. Data are shown to June 2025. Component-level Bank staff projections are shown from July to December 2025. The food component is defined as food and non-alcoholic beverages. Fuels and lubricants estimates use Department for Energy Security and Net Zero petrol price data for July 2025 and are then projected based on the sterling oil futures curve.
+Inflation has been above target for four years now (excluding three months at 2% or less in 2024). In the baseline forecast it is projected to remain above target for another eight quarters. The most recent research on the
+expectations-wage-price nexus
+makes me conclude that inflation persistence is greater than the judgement incorporated in the baseline forecast: persistent inflation persistence is my central case. The remainder of this section will showcase some of the research that supports this conclusion.
+Expectations and salience
+Let me begin with inflation expectations. Short and long-term household inflation expectations have been rising – with short-term expectations 0.5 percentage points, and long-term expectations a full percentage point above their historical averages. Can we explain this expectations drift?
+Anesti et al. (2025)
+look at the sensitivity of households’ inflation expectations to their personally experienced inflation rate. This gets at the question of whether households place different weights on certain consumption categories compared to weights used for a representative household in the CPI basket. Authors regress changes in perceived and/or expected inflation on changes in experienced inflation, driven by components of the consumption basket.
+Chart 2
+plots the results for the food (in aqua) and services (in orange) categories – which I identified in Chart 1 as being the largest projected contributors to inflation over the next six months. The authors find that inflation perceptions and expectations are particularly sensitive to experienced food price-driven inflation.
+Chart 2: Effects of experienced food and services price-driven inflation on households’ inflation perceptions and expectations
+Regression coefficients (percentage points)
+Footnotes
+Source:
+Anesti et al. (2025)
+.
+Notes: Regressions estimate the relationship between changes in experienced inflation driven by different components of the basket, and changes in households’ inflation perceptions and expectations (as measured by the Bank of England/Ipsos Inflation Attitudes Survey), controlling for age fixed effects. Aqua diamonds represent regression coefficients of food price-driven inflation, orange diamonds represent coefficients of services price-driven inflation. Shaded areas represent the 90% confidence interval. The regression is estimated over a 2003Q1 – 2022Q1 sample period.
+Authors also document asymmetries and non-linearities: (1) inflation expectations change by approximately 1 percentage point more following a rise in food-price inflation than they do following a fall and (2) inflation expectations are significantly more sensitive to larger changes in food price-driven inflation than they are to smaller changes.
+Wage growth and inflation expectations
+Inflation expectations are also an important driver of wage growth. Staff analysis employs a machine learning model based on boosted decision trees following
+Buckmann et al. (2025)
+to fit non-linear associations between various indicators and wage growth. This allows to decompose wage growth into its drivers – representing the wage Phillips curve.
+Chart 3
+shows this decomposition. The authors find that the trend wage-growth component – shown in purple – is slow-moving, and remains elevated, contributing around 0.3 percentage points to wage growth above the 3% mean. Trend wage growth in the model is informed by inflation expectations, and this is consistent with wage growth taking longer to return to its target-consistent rate.
+Chart 3: Decomposition of wage growth from the Boosted Wage Model
+Annualized and smoothed
+Footnotes
+Source: Staff analysis based on
+Buckmann et al. (2025)
+.
+Notes: Colored bars show the block-wise predictive contributions to 1-month-ahead annualized month-on-month regular private sector pay growth (white line), around its 1993-2019 mean (3%). Model estimated via cross-validation over 1989-2024 sample. Dashed line: realized wage growth, annualized.
+Recently, there also is a notable emerging gap between the model prediction (solid white line) and observed wage growth (dashed white line), which suggests a source of excess or unexplained strength in wage growth not captured by the model. We can speculate that this could reflect accumulated institutional changes such as the national living wage, the rise in employer’s national insurance contributions, and wage compression up the ladder. In light of this unexplained strength, we need to be attentive to the potential drivers, and their consequences as possible indicators of persistence.
+We can also use survey data as a cross-check to the boosted wage model. Wage expectations from the Decision Maker Panel survey and our Agents lie at around 3.5-4% by the end of this year – remaining above target-consistent rates of wage growth.
+footnote
+[3]
+Wage-setting has therefore been an important source of elevated inflation, particularly in services,
+footnote
+[4]
+because labor costs are a large share of firms’ input costs. Ultimately, however, it is firms’ price-setting behavior that determines inflation.
+Price-setting and an inflation attention threshold
+How do firms set prices in the current environment?
+Yotzov et al. (2025)
+analyze the responses of firms to aggregate inflation data releases, using high frequency responses of firms from the Decision Maker Panel. The authors find that positive CPI inflation changes have significant effects on firms’ own-price expectations, while the effects of negative CPI inflation changes are smaller and insignificant. They do not find such effects on price expectations in low inflation periods.
+footnote
+[5]
+This asymmetric price-setting behavior also has been documented using CPI microdata, particularly for services prices (
+Brandt et al., 2024
+).
+This research highlights that firms expect to raise their prices by more in response to positive news in CPI inflation and in an environment where inflation is already high, relative to negative changes in CPI and a low inflationary environment. Firms’ expectation formation changes in high inflationary environments – this state-dependency is particularly relevant in the current context of the UK’s inflation hump.
+In my speech in New Zealand earlier this year (
+Mann, 2025
+), I highlighted that the literature has established an attentiveness threshold for such behavioral phenomena. This threshold inflation rate, if exceeded, prompts agents in the economy to become more attentive to inflation. Using US data, the literature puts this threshold at about 4% (
+Pfäuti, 2025
+).
+Bank researchers have recently estimated the threshold for the UK to be between 3 and 3.6% (Gaffney and Potjagailo, 2025).
+footnote
+[6]
+Using a threshold VAR, the authors show the risks of just “looking through” the inflation hump. As shown in the left panel of
+Chart 4
+, if inflation is above the identified threshold, the response of inflation to a standardized supply shock in the economy is stronger: one year after a supply shock that raises oil prices by 10%, CPI inflation rises by more than 0.6 percentage points if inflation is already above the threshold as the shock hits (in orange).
+footnote
+[7]
+The effect is less than half that in a low-inflation environment (in aqua).
+Moreover, second-round effects operate via changes in inflation expectations (right panel of
+Chart 4
+). For example, if expectations are more backward-looking, inflation is more persistent in a high-inflation regime. This research emphasizes that the inflation hump in the forecast, which pushes the inflation rate to 3.8% in 2025 Q3 (and 4% in September), would be sufficient to create the environment in which inflation is more persistent than in the baseline forecast, which would imply inflation above the 2% target for even longer.
+Chart 4: Impulse response functions of CPI inflation and inflation expectations to an adverse supply shock
+Inflation (LHS) and households’ inflation expectations (RHS)
+Footnotes
+Source: Gaffney and Potjagailo (2025).
+Notes: Sample period January 1989 – June 2024. Bayesian self-exciting threshold vector autoregression model (VAR) of
+Gargiulo et al. (2025)
+, with oil supply news shock by
+Känzig (2021)
+ordered first. This is a non-linear time series model that accounts for non-linearities via endogenous regime shifts. The estimated threshold for this specification is 3.1%. Lines represent the median, and shaded areas show the 68% credibility interval.
+It is not just expected future inflation that is affected when inflation pushes above the attentiveness threshold. Historically, as highlighted in my speech on the Great Moderation last year, higher levels of inflation have coincided with higher volatility in inflation (
+Mann, 2024b
+).
+While this is an observation of correlation and not causation, more volatile inflation can induce uncertainty about the future path of inflation, as it becomes more difficult to forecast. This undermines households’ and firms’ capacity to make well-informed financial decisions. Can research help disentangle the inflation rate from uncertainty created through inflation volatility?
+Using a UK household survey,
+Fischer et al. (2025)
+implement a randomized controlled trial with information treatments that contain inflation forecasts. They find that lower inflation uncertainty leads to higher household planned spending and expected income, while also reducing their uncertainty about future income (
+Chart 5
+). Using a follow-up survey, the authors also find that households with the initial treatment of lower inflation uncertainty also saved less, indicating an effect on actual (not just planned) behavior. There may well be symmetry for these effects.
+Georgarakos et al. (2024)
+, using euro area data, show that higher uncertainty about inflation (which historically has been associated with higher levels of inflation), reduces households’ subsequent durable goods purchases.
+Chart 5: Households’ inflation uncertainty and expected spending
+Expected monthly spending in log GBP and inflation uncertainty in percent
+Footnotes
+Source:
+Fischer et al. (2025)
+.
+Note: Binned scatterplot (aqua points) shows the relationship between log expected monthly household spending over the following year and survey respondents’ posterior (post-information treatment) inflation uncertainty. Dashed orange line shows a quadratic fitted trendline.
+Weak growth ahead?
+So far, I have emphasized the increased inflation persistence and other challenges to achieving the inflation target sustainably in the medium term beyond what is incorporated in the baseline projection. If that was the only issue, monetary policy decision-making would be straightforward – higher inflation should be met by a tighter stance. However, an inkling of another problem was revealed by the last research I summarized – high inflation uncertainty leads to lower spending. There are clear interactions between the inflation and growth trade-off that are foreshadowed by the research I have presented so far.
+In fact, UK GDP has remained weak with the level just barely above pre-Covid. Growth rates have averaged below 2% since the end of 2022, and are projected to remain subdued throughout the next three years. How does research inform my thinking about prospects for UK economic activity? What ‘under the macro bonnet’ perspectives on GDP growth inform my decision-making?
+Staff at the Bank of England use a quantile MIDAS regression approach that both incorporates different types of data and quantifies the likelihood of different GDP outcomes to understand the distribution of risks around the forecast (
+Mantoan and Verlander, 2025
+). Due to the multiple shocks hitting the economy, GDP has been increasingly volatile.
+footnote
+[8]
+Traditional nowcasting models use multiple frequency data inputs but have limited ability to incorporate these shocks and risks. The quantile MIDAS approach can forecast the entire distribution of future GDP outcomes instead of just a single point estimate.
+Chart 6
+shows four probability distributions of GDP nowcasts between December 2024 and June 2025. These distributions result from a combination of “hard” indicators, such as monthly GDP outturns, and “soft” (survey) data. The latter are available at a higher frequency than GDP, are more forward-looking, and include measures of systemic risk, retail sales data, and various purchasing managers’ indices, among others. The distributions reflect some tension between the strength in GDP outturns (the right mode) and survey steers (pointing to the left mode).
+Chart 6: Distributions of GDP nowcasts from Quantile MIDAS model
+Density plots of GDP nowcasts
+Footnotes
+Source:
+Mantoan and Verlander (2025)
+.
+Notes: Methodology using non-parametric distributions based on
+Mitchell et al. (2024)
+. One-quarter-ahead probability distributions for quarter-on-quarter GDP growth fitted from Quantile-MIDAS outputs to a non-parametric distribution. Monthly labels refer to the nowcast of the respective quarter of the year that the month falls in. For example, December 2024 represents quarter-on-quarter GDP growth for Q4 2024 based on data until December 2024. This chart was updated on 24 September 2025 to correct for an error in the fitting of distributions.
+As Chart 6 shows, these distributions have evolved over time – the GDP forecast turned bimodal in March 2025. Steers from the hard and soft data started to diverge in March, when the hard data pointed towards higher GDP growth than the timelier survey indicators. The modes shifted further apart in May, with both positive and negative growth almost equally likely. The June exercise similarly shows two modes, but both are positive. The GDP quantile MIDAS emphasizes to me that the trade-off between persistent inflation persistence and quite weak GDP growth remains.
+Monetary policy strategy
+The research shows increased persistence in inflation – which alone has a clear monetary policy response: tight(er) monetary policy. It also shows a weak growth outlook – which on its own also has a clear monetary policy response: loose(er) monetary policy. The combination of the two makes the monetary policymaker’s job harder in both decision-making and communication. Since each objective pulls the monetary policy instrument in a different direction, the key is to communicate clearly: 1) my assessment of the economic outlook and 2) my reaction function, in order to set expectations for the future path of policy, conditional on the outlook.
+As I already mentioned in my last speech on the topic of research and policy (
+Mann, 2023b
+), the key for monetary policy decision-making is how to weight information and predictions from existing models along with innovative new research, to distil a reasonable picture for how inflation and output might evolve under different economic and monetary policy scenarios.
+Beginning with my view on the outlook. The risks of, on the one hand, increased inflation persistence, but on the other hand, a weaker domestic outlook, were both explored in the staff’s scenarios published in May. In my assessment, the scenario outlining upside risks to inflation through inflation persistence (which included additional second round effects in domestic price and wage-setting, amplified by weak potential productivity growth) is playing out, whereas the ‘downside risk to demand’ scenario remains a risk and is not my central case. The projected inflation hump is higher than in our forecast in May, and together with elevated food prices and inflation expectations, increases the risk of attention threshold effects.
+A well-known result in the literature is that if policymakers are uncertain about the degree of inflation persistence, an aggressive response to inflation is appropriate when policymakers are aiming to avoid bad outcomes (
+Söderström, 2002
+) – by squeezing out inflation today, you prevent it from persisting in the future. If this policy is not followed, even tighter policy would be required later to remove the resulting higher inflation and rein in the expectations drift. Similarly,
+Angeloni et al. (2003)
+and
+Coenen (2007)
+find that with uncertainty about the degree of inflation persistence, it is better, from a robust control perspective, to assume a high(er) degree of persistence.
+Chart 7
+shows the August 2025 baseline projection for inflation and the output gap (in white), conditioned on the market curve. I compare this to the higher inflation persistence scenario, again conditioned on the market curve (in orange). This is to illustrate how, conditional on a given path for interest rates (in this case, the market curve), a higher inflation persistence scenario that I see as currently playing out, differs from the baseline forecast.
+footnote
+[9]
+Should this persistence scenario occur, inflation would remain above target throughout the three-year horizon. This implies that monetary policy is not tight enough under the market curve, or that financial market participants do not put much weight on this sort of scenario materializing.
+Chart 7: August 2025 forecast and inflation persistence scenario
+Conditioned on the market curve representing Bank Rate
+Footnotes
+Source: Bank calculations.
+To assess what a more appropriate path for policy might look like, I leave the August baseline forecast behind, given that the economy, in my view, evolves according to the inflation persistence scenario. We can reproduce the inflation persistence scenario with monetary policy following an endogenous path. In
+Chart 8
+, the aqua lines show the inflation, output gap, and Bank Rate outcomes when we no longer condition on the market curve, but policy instead evolves according to a targeting rule which minimises the deviations of inflation from target and output from potential. These policy projections identify the best outcomes – in terms of inflation and the output gap through the lens of a loss function – that monetary policy could achieve in the model, and the policy path that would deliver them.
+footnote
+[10]
+While the projection is produced on the basis of reasonable assumptions for policymaker preferences over trade-off management and interest-rate smoothing, it should not be interpreted as representing the MPC’s view of the future path for policy, nor explicitly my view either.
+Chart 8: The inflation persistence scenario
+Conditioned on the market curve and under endogenous policy
+Footnotes
+Source: Bank calculations.
+As an illustrative policy path, it is a benchmark and shouldn’t be taken at face value as a prediction for the path of Bank Rate. That said, we can see that it suggests a significantly tighter path for policy than is embedded in the market curve. This brings inflation back to target more quickly, at the expense of a larger output gap opening up. For this illustrative combination of inflation-output gap-Bank Rate to hold true, inflation persistence would have to play out exactly as modelled in the scenario along with the weights on trade-off management and interest-rate smoothing. All of those specifics are not tailored exactly to the weight I place as a policymaker on an activist policy stance (and aversion to a ‘policy boogie’ (
+Mann, 2023a
+) that might involve hiking in the near-term only to pivot to cuts), and on the relative weights on deviations in inflation from target, and output from potential.
+What does this exercise reveal that is relevant for my reaction function? I have spoken before about my activist approach to monetary policy. Let me today provide a bit more color on this, using language recently published in the ECB’s latest
+monetary policy strategy review
+. Specifically, they distinguish between
+forceful
+and
+persistent
+monetary policy action. My own view on this distinction is that an activist strategy combines these two aspects. A more persistent hold on Bank Rate is appropriate right now, to maintain the tight (but not tighter) monetary policy stance needed to lean against inflation persistence persisting. However, I stand ready for a forceful policy action, in the form of larger, more rapid Bank Rate cuts, should the downside risks to domestic demand start materializing. An activist policy strategy is needed to clearly communicate about the current and future path for policy, which will enhance the functioning of the monetary policy transmission mechanism, particularly in an environment of volatility in inflation and financial markets.
+Acknowledgments
+I would like to thank, in particular, Natalie Burr and Christoph Herler for their help in the preparation of this speech, as well as Andrew Bailey, John Barrdear, Marcus Buckmann, Iain de Weymarn, Andrew Gaffney, Simon Lloyd, Clare Lombardelli, Giulia Mantoan, Matthew Naylor, Jack Page, Galina Potjagailo, Philip Schnattinger, Sumer Singh, Jessica Verlander, Ivan Yotzov and Jan Žáček for their comments and help with data and analysis.
+References
+Albuquerque, D., Chan, J., Kanngiesser, D., Latto, D., Lloyd, S., Singh, S., and Žáček, J. (2025). ‘
+Decompositions, forecasts and scenarios from an estimated DSGE model for the UK economy
+’, Bank of England Macro Technical Paper No. 1.
+Anesti, N., Esady, V. and Naylor, M. (2025). ‘
+Food prices matter most: sensitive household inflation expectations
+’, Bank of England Staff Working Paper No. 1,125.
+Angeloni, I., Coenen, G. and Smets, F. (2003). ‘
+Persistence, the transmission mechanism and robust monetary policy
+’,
+Scottish Journal of Political Economy
+, 50 (5).
+Bank of England (2025). ‘
+Monetary Policy Report – August 2025
+’.
+Brandt, L., Burr, N. and Gado, K. (2024). ‘
+Beyond the average: patterns in UK price data at the micro level
+’, Bank Underground.
+Brignone, D. and Piffer, M. (2025). ‘
+A structural VAR model for the UK economy
+’,
+Bank of England Macro Technical Paper No. 3.
+Broadbent, B. (2022). ‘
+The inflationary consequences of real shocks
+’, speech given at Imperial College, London, 20
+th
+October.
+Buckmann, M., Potjagailo, G. and Schnattinger, P. (2025). ‘
+Boosted inflation – using machine learning to make sense of non-linear determinants of inflation
+’, Bank Underground.
+Bunn, P., Anayi, L., Bloom, N., Mizen, P., Thwaites, G. and Yotzov, I. (2025). ‘
+How curvy is the Phillips curve?
+’, Bank of England Staff Working Paper, No. 1107.
+Carney, M. (2017). ‘
+Lambda
+’, speech given at the London School of Economics, London, 16
+th
+January.
+Coenen, G. (2007). ‘
+Inflation persistence and robust monetary policy design
+’,
+Journal of Economic Dynamics and Control
+, 31 (1), pp. 111-140.
+ECB (2025). ‘
+The ECB’s monetary policy strategy statement
+’.
+Fischer, J., Herler, C. and Schnattinger, P. ‘
+When the fog clears: the effect of reduced inflation uncertainty on households’ financial behaviour
+’. Bank of England Staff Working Paper No. 1,133.
+Gaffney, A. and Potjagailo, G. (2025). ‘Inflation thresholds and intrinsic persistence’, mimeo.
+Gargiulo, V., Matthes, C. And Petrova, K. (2025). ‘
+Monetary policy across inflation regimes
+’, European Economic Review, 178.
+Georgarakos, D., Gorodnichenko, Y., Coibion, O. and Kenny, G. (2024). ‘
+The Causal Effects of Inflation Uncertainty on Households' Beliefs and Actions
+’, NBER Working Paper No. 33,014.
+Känzig, D. R. (2021). ‘
+The Macroeconomic Effects of Oil Supply News: Evidence from OPEC Announcements
+’,
+American Economic Review
+, 111 (4), pp. 1092-1125.
+Lombardelli, C. (2025). ‘
+What if things are different?
+’, speech given at the Bank of England Watchers Conference, London, 12
+th
+May.
+Mann, C. L. (2023a). ‘
+Turning Points and Monetary Policy Strategy
+’, speech given at the Lámfalussy Lectures Conference in Budapest, Hungary, 6
+th
+February.
+Mann, C. L. (2023b). ‘
+Inflation models and research: distilling dynamics for monetary policy decision-making
+’, speech given at the Canadian Association for Business Economics, 11
+th
+September.
+Mann, C. L. (2024a). ‘
+Policy spillovers when external shocks persist and domestic activity diverges
+’, speech given at the Central Bank Research Association, National Bank of Poland and Bank of Lithuania 5th biennial conference ‘Macroeconomic adjustments after large global shocks’, Vilnius, Lithuania, 20
+th
+September.
+Mann, C. L. (2024b). ‘
+The Great Moderation 20 years on
+’, speech given at the Annual Conference of the Society of Professional Economists, London, 14
+th
+November.
+Mann, C. L. (2025). ‘
+Holding the anchor in turbulent waters
+’, speech given at the conference on ‘35 years of flexible inflation targeting: Opportunities and challenges’, Wellington, New Zealand, 6
+th
+March.
+Mantoan, G. and Verlander, J. (2025). ‘
+Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model
+’, Bank Overground.
+Mitchell, J., Poon, A., and Zhu, D. (2024). ‘
+Constructing density forecasts from quantile regressions: Multimodality in macrofinancial dynamics.
+’
+Journal of Applied Econometrics,
+39 (5), pp. 790-812.
+Moreira, A. (2025). ‘
+Nowcasting GDP at the Bank of England: a Staggered-Combination MIDAS approach
+’, Bank of England Macro Technical Paper No. 2.
+Pfäuti, O. (2025). ‘
+The Inflation Attention Threshold and Inflation Surges
+’.
+Söderström, U. (2002). ‘
+Monetary Policy with Uncertain Parameters
+’,
+The Scandinavian Journal of Economics
+, 104 (1), pp. 125-145.
+Yotzov, I., Bloom, N., Bunn, P., Mizen, P. And Thwaites, G. (2025). ‘
+The speed of firm response to inflation
+’, NBER Working Paper No. 32,371.
+See
+Albuquerque et al. (2025)
+,
+Moreira (2025)
+and
+Brignone and Piffer (2025)
+.
+See for instance the
+Bank of England’s 2025 BEAR Conference
+on the Future of the Central Bank Balance Sheet.
+See Table 1 in
+Lombardelli (2025)
+for staff estimates of target-consistent rates of wage growth, and their sensitivity to import price and productivity growth assumptions.
+See for instance Chart 7 in
+Mann (2024a)
+.
+The low inflation sample spans from 2017-2021.
+There is some uncertainty around this range. Authors run 100 specifications of the model to test the robustness of the threshold estimates to model uncertainty. These vary in sample periods (some going back as far as 1976), frequency (monthly, quarterly), variables and the number of regimes. 70% of specifications identify a threshold below 3.6%. Around half of specifications estimate a threshold between a narrower range of 3-3.2%.
+Bunn et al. (2025)
+find, by splitting sectors into those with price growth above and below 4%, that firms with average price growth above 4% exhibit a strongly non-linear response to positive versus negative shocks. Firms with average price growth below 4% do not exhibit such convexity in their price response, for instance to demand shocks.
+Shocks are standardised to raise oil prices by 10% on impact in both the high and low inflationary settings.
+Charts 4 and 5 in
+Mann (2024b)
+provide a shock-based decomposition of UK inflation.
+The scenario does not exclusively focus on inflation persistence. In the scenario, the upcoming rise in headline inflation leads to additional second round effects in domestic price and wage-setting due to increased responsiveness of inflation expectations to CPI outturns. These effects are amplified by what would be weaker supply growth than in the baseline projection, modelled by weak potential productivity growth.
+The per-period loss function is specified as
+\[L_{t} = \left (\pi_{t}-\pi^{*} \right)^{2} + \lambda(y_{t}-y_{t}^{*})^{2} + \delta(\Delta i_{t})^{2}, \; \text{where} \; \lambda = 0.25 \; \text{and} \; \delta = 50\]
+For more details see the Annex to
+Broadbent (2022)
+and
+Carney (2017)
+.
+The per-period loss function is specified as
+\[L_{t} = \left (\pi_{t}-\pi^{*} \right)^{2} + \lambda(y_{t}-y_{t}^{*})^{2} + \delta(\Delta i_{t})^{2}, \; \text{where} \; \lambda = 0.25 \; \text{and} \; \delta = 50\]
+For more details see the Annex to
+Broadbent (2022)
+and
+Carney (2017)
+.
+Close
+The scenario does not exclusively focus on inflation persistence. In the scenario, the upcoming rise in headline inflation leads to additional second round effects in domestic price and wage-setting due to increased responsiveness of inflation expectations to CPI outturns. These effects are amplified by what would be weaker supply growth than in the baseline projection, modelled by weak potential productivity growth.
+Close
+Charts 4 and 5 in
+Mann (2024b)
+provide a shock-based decomposition of UK inflation.
+Close
+Shocks are standardised to raise oil prices by 10% on impact in both the high and low inflationary settings.
+Close
+There is some uncertainty around this range. Authors run 100 specifications of the model to test the robustness of the threshold estimates to model uncertainty. These vary in sample periods (some going back as far as 1976), frequency (monthly, quarterly), variables and the number of regimes. 70% of specifications identify a threshold below 3.6%. Around half of specifications estimate a threshold between a narrower range of 3-3.2%.
+Bunn et al. (2025)
+find, by splitting sectors into those with price growth above and below 4%, that firms with average price growth above 4% exhibit a strongly non-linear response to positive versus negative shocks. Firms with average price growth below 4% do not exhibit such convexity in their price response, for instance to demand shocks.
+Close
+The low inflation sample spans from 2017-2021.
+Close
+See for instance Chart 7 in
+Mann (2024a)
+.
+Close
+See Table 1 in
+Lombardelli (2025)
+for staff estimates of target-consistent rates of wage growth, and their sensitivity to import price and productivity growth assumptions.
+Close
+See for instance the
+Bank of England’s 2025 BEAR Conference
+on the Future of the Central Bank Balance Sheet.
+Close
+See
+Albuquerque et al. (2025)
+,
+Moreira (2025)
+and
+Brignone and Piffer (2025)
+.
+Close
+Convert this page to PDF
+Catherine L. Mann
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

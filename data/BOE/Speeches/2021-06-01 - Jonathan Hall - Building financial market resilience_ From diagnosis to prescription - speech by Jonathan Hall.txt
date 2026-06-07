@@ -1,0 +1,320 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Building financial market resilience: From diagnosis to prescription - speech by Jonathan Hall
+DATE: 01/06/2021
+SPEAKER: Jonathan Hall
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2021/may/jon-hall-building-financial-market-resilience
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Building financial market resilience: From diagnosis to prescription - speech by Jonathan Hall
+Given at Cardiff Business School
+Published on 
+
+ 19 May 2021
+Jonathan Hall examines several issues that caused the volatility in financial markets in March 2020. He then sets out possible ways to improve the resilience of these markets.
+All charts are available in the Appendix document.
+Speech
+I would like to thank The Business School at Cardiff University, Prifysgol Caerdydd, for inviting me to speak today.
+As long-standing institutions, Cardiff University and the Bank of England have much in common. One such commonality is that despite being geographically defined we serve people far beyond the respective boundaries of Cardiff and England. Cardiff University currently hosts students from 130 different countries and one of the benefits of this virtual speech is the ability to engage with friends and alumni of Cardiff University from across the globe.
+Likewise, the Bank of England serves households and businesses across the four nations of the United Kingdom and engages with global regulators and financial markets.
+In a globally connected world, it is only by working and sharing ideas together that we can achieve our common goals.
+Introduction
+The Bank of England Financial Policy Committee (“FPC”), on which I am an External Member, is mandated to ensure that the UK financial system can serve UK households and businesses in bad times as well as good. As such, a large part of the FPC’s role is to work to enhance the resilience of the two key components of the financial system, banks and financial markets, thereby reducing the likelihood that external shocks to the economy are amplified by problems in the financial sector.
+The economic impact of the Covid-19 pandemic was just such an external shock and in general the banking system proved resilient, with capital levels remaining high. In financial markets, however, vulnerabilities were exposed, which led in March 2020 to tightening financial conditions and dysfunction in even the most liquid markets such as US Treasuries and UK Gilts. Actions by market participants that may have been rational when considered in isolation, led to systemic issues when considered in aggregate. Although it was health concerns that understandably dominated front page news at the time, we should not underestimate the severity of the financial stress. Without extraordinary and fast actions by global central banks including the Bank of England, those financial market vulnerabilities would have amplified the external shock and worsened outcomes for households and businesses.
+Today, supported by an analysis of market dynamics, I argue that a number of financial market vulnerabilities were jointly responsible for the contemporaneous market dysfunction and tightening of conditions in March 2020. Those vulnerabilities remain and, without policy action to increase resilience, we would expect to see similar dynamics in the future. Indeed, both the ongoing fragility of bond markets and the dangers of leverage have been evident in recent weeks. I suggest six potential actions to address the highlighted vulnerabilities and discuss ongoing work both within the Bank and globally to explore implementation.
+Although the events of March 2020 are a source of empirical data, it is important to note that specific points of failure will be different across markets and shocks. For this reason, and to avoid making policy that is backward looking, regulators must address not just those points of failure but their underlying causes or vulnerabilities. These can generally be captured under the three themes of liquidity-mismatch, leverage and pro-cyclicality.
+The FPC’s Four Quadrants of Focus
+I find it helpful to divide the supply of finance to the economy into four quadrants, whilst bearing in mind that they are interlinked and related. This focuses attention on how effectively banks and financial markets support UK households and business, in good times and bad.
+Table 1: Quadrants
+Banks
+Financial Markets
+Good times
+?
+?
+Bad times
+?
+?
+In our most recent publications, informed by the 2020 experience and annual stress tests, the FPC have highlighted the resilience of the banking sector to shocks
+footnote
+[1]
+. We have also indicated that this leaves banks in a strong position to support the economic recovery and that they should do so, using capital buffers if necessary
+footnote
+[2]
+. Feedback from the Bank of England’s network of agents, including those in Wales, is that businesses believe that banks should be doing more to support them through the latter stages of the Covid shock.
+With regards financial markets however, the narrative is quite different. Current conditions are extremely supportive for both equity and debt financing, but the sharp market moves of 2020 revealed a lack of resilience that persists today.
+footnote
+[3]
+The message of recent FPC communications can be simplified and displayed as follows:
+Table 2: Quadrants
+Banks
+Financial Markets
+Recovery (2021)
+TBD
+Supportive
+External Shock (2020)
+Resilient
+Vulnerable
+What is clear from this representation is that, in the recent past at least, the support that financial markets provide to businesses and households has been more volatile than that provided by banks. Changes, particularly to capital, have increased banking stability since the financial crisis, but financial market support remains fragile, and can serve to amplify external shocks.
+For the remainder of this discussion I will focus predominantly on the bottom right quadrant of the matrix.
+But before doing so, it is worth pausing on the question of why this matters for the households and businesses across the four nations of the UK. There are three reasons:
+First, over the last decade the size and relevance of the non-bank financial sector has increased markedly. Over half of financial sector assets are now held by non-banks, and between 2008 and 2019 all of the net increase in debt finance to UK non-financial companies came from market-based debt rather than bank loans
+footnote
+[4]
+.
+Second, households depend on parts of the non-bank financial sector, such as pension funds and insurance companies, for saving and risk sharing.
+Third, policy is transmitted through the financial system as a whole. In March 2020 the economy needed easy financial conditions, but vulnerabilities led to a tightening. Without central bank asset purchases this would have negatively impacted the economy and increased the depths of the downturn. Increasing the resilience of the financial markets will enable the financial system as a whole to better support households and businesses in bad times as well as good.
+March 2020: From “Flight to Quality” to “Dash for Cash”
+Below I present a series of maps, detailing my best understanding of the main drivers of stress in March 2020. The details draw heavily on recent work by Bank staff, who plan to publish a paper analysing and quantifying these drivers. These maps represent the impacts and flows that were dominant in the key period of stress, from the 9th to the 19th March
+footnote
+[5]
+.
+Following a negative economic shock, investor appetite usually shifts from risky to safer assets, which increases demand for government bonds. This dynamic, known as flight-to-quality, was prevalent from the outset of the Covid-19 episode until 9th March. However, as concerns about the magnitude of the shock grew, markets became characterised by exceptionally high demands for cash and selling of even safe haven assets. The functioning of markets such as US Treasury and Gilt markets, amongst the deepest and most liquid in the world, deteriorated quickly. The Bank refers to this latter period as the dash-for-cash.
+Here is the total map.
+Figure 1: “Dash for Cash” Map
+From top to bottom it reveals how predictable market moves associated with an external shock impacted various market participants. These investors then took actions, necessary or precautionary, that led to asset selling and demand for cash. Feedback loops (in red) via selling pressure and cost of funding amplified the original moves, causing a vicious cycle.
+As will be seen, there were different but somewhat overlapping causes for the contemporaneous occurrence of both a tightening in financial conditions and market dysfunction. For the purpose of analysis, I will consider the causes separately, but it is the combination of causes and the feedback between them that made the dash-for-cash so concerning.
+Before diving into the detail, it is worth highlighting an element that is notably absent. In my representation, banks don’t play a significant role, either positive or negative. This is a marked improvement on the financial crisis of 2007/8 when bank exposures and interlinkages were a clear source of amplification. In March 2020 banks did, in fact, contribute to stability by increasing net holdings of US Treasuries and Gilts as prices fell. This increase, however, was not enough to match the selling.
+The changes to the regulatory system since the financial crisis removed this potential source of vulnerability, but perhaps also reduced the ability of banks to soak up instability from elsewhere, by constraining their capacity to intermediate in markets. Although not the focus of these remarks it is important to understand the extent to which regulatory constraints contributed to limiting dealer capacity in both outright bond and repo transactions. However, as the FPC has said, seeking to increase intermediation from banks by compromising on their resilience, would be neither acceptable nor effective.
+[Chart 1: Primary dealer net inventories of US Treasuries]
+[Chart 2: Cumulative net purchases of gilts by dealers]
+Outright Selling Pressure
+Having set aside banks, I now turn to the major causes of selling in government bonds.
+The map below, starts with three market moves which are entirely predictable and rational given the external shock: Falls in equity prices, FX repatriation flows in currency markets, which led to a >12% fall in GBPUSD from the 9th to the 19th March, and an increase in volatility.
+Figure 2: “Dash for Cash” Map
+The next step in the chain is the direct fallout from these market adjustments.
+Starting on the right, the two light blue boxes show the impact on derivatives margin of the increase in volatility and the fall in GBPUSD.
+Since the financial crisis, the vast majority of derivatives trades have moved to being margined and cleared rather than unsecured and bilateral
+footnote
+[6]
+.
+There are two kinds of margin. Variation margin (“VM”), which covers the current value of the trade, and initial margin (“IM”), which covers the risk of a change in value due to market moves, and is therefore correlated with market volatility. Variation margin is merely a pass-through from the counterparty with a positive present value to the counterparty with a negative present value. Initial margin, on the other hand, is posted by both counterparties to the clearing house or exchange, in order to protect the safety and soundness of these central counterparties, in the event of a default.
+When margin is called, it has to be delivered promptly, usually in cash or near-cash securities. Although margin and clearing have conferred significant benefits by reducing credit risk and financial market interlinkages, they have naturally led to an increase in liquidity risk
+footnote
+[7]
+.
+[Chart 3: Estimated initial margin payments for UK NBFIs]
+Moves in FX and volatility caused material margin calls, leading to a significant redistribution of liquidity around the system. Although in nominal terms these flows net to zero, the generally more conservative investment decisions of receivers of margin, including exchanges and clearing houses, acted as an effective drain of liquidity. If a provider of margin had insufficient cash reserves, then they were forced to sell assets, including shares in money market funds.
+footnote
+[8]
+[Chart 4: Outflows from sterling money market funds and estimated NBFI variation margin demands]
+This discussion leads to my first two policy proposals:
+First, managing the liquidity demands of margin calls is a key component of risk management in the current market landscape. All derivative users need to have structures and process in place to predict and manage potential liquidity outflows due to margined trades
+footnote
+[9]
+. Clearing houses and exchanges should minimise volatility and maximise transparency in IM calculations, so that counterparties can plan accordingly. The Financial Stability Board (“FSB”) has commissioned a group to consider margining practices internationally, which will report later in the year.
+Second, money market funds (“MMFs”) are a critical part of the liquidity management infrastructure, as many investors rely on them to be cash-like assets. However, in the dash-for-cash there were concerns about MMFs ability to meet redemptions due to the illiquidity of the assets in which they had invested. As the Governor explained in detail in his speech last week
+footnote
+[10]
+, mismatches between the assets held and the liquidity promise are a key source of vulnerability for the financial system as a whole. It is imperative that money market funds are either (i) regulated and managed in a way that allows them to perform their function in times of stress, precisely when they are needed the most, or (ii) no longer considered cash-like investments. The FSB has initiated a work programme to consider options for enhancing the resilience of money market funds, which is due to put out a consultation paper over the summer.
+Another source of bond selling, seen particularly in US Treasuries, was from overseas investors. I will not discuss this other than to point out that the size was significant, at ~$3.0trn. No analysis of previous shocks or expectations for future shocks can afford to ignore this dynamic. Although the UK did not see similar flows, the globally interconnected nature of bond markets meant that a rise in US Treasury yields caused spill-over effects in Gilts.
+[Chart 5: Monthly gross sales of U.S. Treasury bonds and notes by foreigners to U.S. residents]
+The final source of bond selling, the far-left light blue box in the map, came from a subset of investment funds who were forced to sell, due to losses, for risk management reasons, or due to investor redemptions. Many of these funds, particularly those with so-called balanced portfolios, would have expected positive returns on bonds to somewhat insulate their performance. When the bond-equity correlation flipped from negative in the flight-to-quality, to positive in the dash-for-cash, supposedly low volatility hedged portfolios suddenly became extremely risky. Chart 6 shows the performance of a range of “risk parity” funds. These assume, roughly, that markets have natural stabilisers and that correlations will protect a diverse portfolio from external shocks. As can be seen, this was indeed the case until the 9th of March, when performance suddenly collapsed.
+[Chart 6: Performance of a Sample of Risk Parity Mutual Funds]
+[Chart 7: Open-ended fund flows and average returns in March 2020]
+This highlights another element that is notable in its absence from the dash-for-cash map. Normally one would expect an external shock to lead to bond buying in the top row. Indeed, this is what occurred during the flight-to-quality. One potential reason that this natural stabiliser failed is that, by early March, government bonds reached a yield level close to the effective lower bound
+footnote
+[11]
+for policy rates. This reduced the carry and capital gain incentive to hold long term bonds rather than cash.
+In environments like the dash-for-cash where natural stabilisers are less reliable, funds that rely on those stabilisers will become significantly more risky.
+Although the lack of buying incentives may have been part of the reason for the transition from flight-to-quality to dash-for-cash, once the latter phase began, market vulnerabilities accelerated losses. This led to a vicious cycle of selling leading to further selling, such that even as yields moved away from the policy rate lower bound, and bonds should have started to look more attractive, there wasn’t enough demand to match supply.
+For some of the funds selling due to investor redemptions, liquidity mismatch risk was also an issue. The joint Bank and FCA survey of open-ended funds
+footnote
+[12]
+found that many fund managers overestimate the liquidity of their portfolios and the FPC judged that the use of pricing adjustments (“swing pricing”) was applied inconsistently. This can create a first-mover advantage which has the potential to become a systemic risk by creating run dynamics. This leads to my third policy proposal: To address liquidity mismatch, open-ended investment funds must align their redemption terms with the underlying liquidity of their assets. They can do this by holding more liquid assets, by lengthening redemption periods, or through more consistent and effective use of swing pricing.
+Given the global nature of asset management, it will be important to address these issues internationally. In support of the international endeavour, the FPC will set out in the next Financial Stability Report our view on how a liquidity classification and swing pricing framework could be developed in order to promote financial stability.
+When combined, the three sources of bond selling - margin requirements, overseas institutions and forced selling by fund managers - overwhelmed private sector buying. This caused financial conditions to tighten at a time when the economy needed looser conditions to offset the economic impact of the Covid-shock.
+Global central banks responded aggressively by committing their own balance sheets and buying government bonds, to support households and businesses.
+Funding and Market Disruption
+Having discussed the causes of outright selling, I will now turn to the causes of market disruption, whilst remaining cognisant that they are interlinked and related. In reality the two can’t be disaggregated.
+Once again, the map below starts with three predictable and rational moves: FX repatriation, increased market volatility and funding draws from the real economy. The latter were a prudent move by businesses looking to protect themselves from the negative cash flow dynamics associated with a sudden global shut down in business, and the risk of credit line reductions.
+Figure 3: “Dash for Cash” Map
+As before, margin calls led to cash demand, but this time the map highlights the impact on repo lending, either directly or via reduction in money market fund participation. Repo markets are a crucial part of the plumbing of the financial system, allowing firms to borrow against collateral. Increases in the cost of this borrowing and reductions in its availability have material impacts. Again, this reveals the critical importance of money market funds, as a source of liquidity or as a source of shock amplification, in times of stress.
+Increases in volatility and repo funding costs impacted two increasingly important sectors of the financial market ecosystem, relative value hedge funds and principal trading firms. These are shown on the right-hand side of the map and I will discuss them in turn. Although the specific examples below relate to US Treasury markets, the themes, spill-over effects and underlying vulnerabilities are global.
+[Chart 8: Sterling money market spreads]
+[Chart 9: MMF outflows and changes to gilt repo lending]
+A popular trade for relative value hedge funds funds is to buy cheap, particularly off-the-run, bonds against selling expensive bond futures. This enhances market efficiency and is called trading the cash-futures “basis”
+footnote
+[13]
+. Basis spreads are generally very tight so hedge funds use significant leverage in order to meet their target returns. In the dash-for-cash basis spreads widened sharply, but rather than being able to take advantage of this opportunity, funds with excessive leverage were forced to reduce positions, amplifying the moves
+footnote
+[14]
+. This vicious spiral was exacerbated by the repo market dynamic, which increased the cost of funding leveraged positions.
+footnote
+[15]
+Alongside hedge funds, the importance of Principal Trading Firms (“PTFs”) has increased significantly over the last decade, particularly in the US. PTF market share has risen to up to 60% of total volumes in benchmark UST securities on electronic interdealer platforms. In normal market conditions, PTFs enhance the overall liquidity, both in terms of volumes traded, and the wider order-book of prices. In times of high volatility and/or correlation breakdown, however, they behave entirely rationally and defensively, withdrawing their prices for a period until calm returns. In the dash-for-cash period PTF liquidity provision, measured in both volumes and submitted prices declined sharply.
+[Chart 10: PTF shares of volumes on electronic interdealer platforms]
+This jump-to-illiquidity, exacerbated by the fact that many traders were adapting to a working-from-home, led to significant increases in bid-offer spreads in Treasuries. This harmed the ability of market participants to execute transactions in what should be one of the most liquid markets in the world.
+[Chart 11: UST Bid-offer spreads]
+[Chart 12: Gilts Bid-offer spreads]
+Hedge funds and PTFs enhance liquidity and market efficiency in good times, but the events of March 2020 indicate a need to ensure that their actions do not amplify external shocks. To build resilience, I advocate a heightened focus on the two risks of jump-to-illiquidity and leverage. More generally market structure changes should always be considered in the context of their impacts on liquidity in bad times as well as good.
+One proposal with respect to jump-to-illiquidity could be to highlight and strengthen market maker obligations. For example, the UK Debt management Office requires primary dealers to provide continuous effective two way prices to customers in all conditions whereas futures exchanges generally exempt market makers from liquidity provision in “exceptional circumstances” of extreme volatility, and many bond trading platforms have no market maker obligations unless mandated by local regulators. Any protection of individual non-bank market makers must be balanced against the systemic costs.
+With respect to leverage, the FPC supports further work on the role of leveraged investors in the government bond markets, with the aim of ensuring that leveraged investors do not take on such excessive risk that they destabilise markets in times of stress. If necessary, higher minimum margins on derivative positions, as well as higher and more standardised haircuts on securities financing transactions, could be used to reduce those risks. Additionally, prime brokerage firms should ensure that margins are calibrated to cover losses in bad times as well as good. Prime brokerage should be a low-risk business.
+Although many hedge funds did reduce their basis-trading risk during the dash-for-cash, those that did not were saved by the fact that central bank purchases caused spreads to contract sharply. This naturally creates a risk of moral hazard, but it would be inappropriate for relative value hedge funds to anticipate similar good fortune in the future. If bond purchases had not been justified for monetary policy reasons, then some hedge fund losses might have been existential. Hedge funds should manage their leverage and liquidity with the expectation that central banks will not come to their aid. Illustrative cases are the infamous collapse of LTCM in 1998 and, in equities, the more recent failure of Archegos Capital.
+The policy suggestions I have made today attempt to address vulnerabilities at their source in two areas or focus: Reducing demand for liquidity, and increasing intermediation capacity, in times of stress. However, central banks will still be needed as a backstop in extreme tail events. This leads to the third area of focus: Central bank tools.
+footnote
+[16]
+The FPC has committed to examine whether central banks should have further facilities to provide liquidity to the wider financial system in stress, in order to support market functioning. Any such backstop of liquidity would need to be structured in a way that was not just effective and efficient but that also, through appropriate pricing, margining and regulatory requirements, reduces incentives for excessive risk taking in the future.
+In my opinion, the most attractive solution that has been proposed
+footnote
+[17]
+is for central banks to supply backstop government bond repo finance to a broad array of market participants. This would include non-banks as long as they met certain requirements. However, as excessive leverage is a key source of external shock amplification, any central bank lending should be subject to very high haircuts and only to counterparties that meet appropriate standards. This would both reduce central bank risk and limit counterparty leverage, whilst ensuring that well managed firms with government collateral and low leverage were always able to fund themselves
+footnote
+[18]
+.
+However, there are significant issues to consider, not least of which are the operational complexities of dealing with such a broad array of counterparties. Ongoing international work is exploring not just the theoretical benefits but also the considerable practical challenges of implementation. I look forward to engaging in further discussions on this as well as other possible central bank tools.
+Summary
+In my comments today I analysed the market dynamics in the crucial dash-for-cash period of March 2020. I argued that a number of financial market vulnerabilities were jointly responsible for the contemporaneous market dysfunction and tightening of conditions. This mattered because it posed risks to the supply of financing to businesses and households at the very point when they needed it most.
+Since then, financial markets have recovered strongly. Indeed, in some areas risky asset prices appear elevated. However, despite the broadly positive backdrop there have been a number of isolated incidents which indicate that the highlighted vulnerabilities remain. Policy making, informed by the experience of 2020, can serve to enhance resilience in 2021 and beyond.
+I propose six specific policies for consideration. The first five aim to reduce demand for liquidity, and increase intermediation capacity, in times of stress. They do this by addressing the three underlying sources of vulnerability: Liquidity-mismatch, leverage and pro-cyclicality. The sixth proposal should be considered a potential backstop for extreme tail events.
+Proposals
+Increase transparency and reduce pro-cyclicality in margin calculations. Ensure all derivatives users enhance planning for, and management of, liquidity outflows.
+Reform money market funds so that they are either regulated and managed in a way that allows them to perform their function in times of stress, or are no longer considered cash-like investments
+Ensure that open-ended investment funds align their redemption terms with the liquidity of their assets. They can do this by holding more liquid assets, by lengthening redemption periods, or through more effective use of swing pricing.
+Make it a principle to always analyse market structure changes in the context of their impacts on liquidity in bad times as well as good.
+Consider actions to reduce both jump-to-illiquidity risk, and the risk that excessive leverage by non-bank financial institutions causes market dysfunction in stress.
+Examine central bank tools, including exploring offering central bank government bond repo, with very high haircuts, to a broad array of counterparties that meet appropriate standards.
+It is my expectation that, in coordination with other global regulators, we can make progress on these proposals and enhance market resilience, for the benefit of all.
+Conclusion
+The FPC was set up to enhance financial stability. In order to make progress towards this goal, we must increase resilience by reducing the systemic risks that arise from pro-cyclicality, liquidity mismatch and leverage.
+Since its launch eight years ago, and in conjunction with other UK and global regulators, the FPC has made significant progress in increasing the resilience of the banking sector, but vulnerabilities remain in financial markets.
+It is imperative that we continue to work with our global partners to address the vulnerabilities that were exposed by the dash-for-cash of March 2020. In that way the households and businesses across all four nations of the UK can make plans, confident that the Financial System as a whole will be there to support them, in bad times as well as good.
+Thank you for your time and I look forward to questions.
+With thanks to Imane Bakkar, Geoff Coppins, Bernat Gual-Ricart, Jon Relleen, Matt Roberts-Sklar, Andrea Rosen, and Sana Siddique for their assistance in preparing these remarks, and to Andrew Bailey, Alex Brazier, Jon Cunliffe, Lee Foulger, Andrew Hauser, Anil Kashyap, Donald Kohn and Gertjan Vlieghe for their helpful comments and suggestions.
+In 2020 banks, and the economy more generally, benefitted significantly from government support schemes.
+See
+March 2021 FPC Record
+: “…it is in banks’ collective interest to continue to support viable, productive businesses, rather than seek to defend capital ratios by cutting lending, which would have an adverse effect on the economy and therefore could have an even greater negative effect on banks’ capital ratios.”
+“The functioning of debt markets was shown in March 2020 to be vulnerable to economic shocks and subsequent sharp moves in asset prices. The vulnerabilities in the non-bank financial system that led to this episode remain. Moreover, some risky asset prices appear elevated — for instance, corporate bond spreads are currently notably compressed relative to historical levels. The resilience of core markets could be tested again were these prices to adjust.”
+See:
+July 2019 Financial Stability Report
+See:
+Seven Moments in Spring: Covid-19, financial markets and the Bank of England’s balance sheet operations
+(Andrew Hauser, 4 June 2020)
+See:
+Lessons from the pandemic: Has the simpler post-2008 financial system held up? And where do we go from here?
+(Christina Segal-Knowles, 29 January 2021)
+See: FPC’s assessment of the risks from leverage in the non-bank financial system in the
+November 2018 Financial Stability Report
+See:
+The dash for cash and the liquidity multiplier: Lessons from March 2020
+(Anil Kashyap, 17 November 2020)
+This is especially important for counterparties with large uni-directional exposures such as insurance and pension funds
+See:
+Taking our second chance to make MMFs more resilient
+(Andrew Bailey, 12 May 2021)
+On 9th March 2020 10yr UK Gilt yields closed at 0.16% and 10yr US Treasuries closed at 0.54%.
+See:
+March 2021 FPC Record
+and
+Liquidity management in UK open-ended funds
+(Bank of England and FCA 26 March, 2021)
+For a detailed analysis of the cash-futures basis see:
+Hedge Funds and the Treasury Cash-Futures Disconnect
+(Daniel Barth, R. Jay Kahn, 1 April 2021)
+Position reduction was driven by a number of factors including: Breaches of internal risk and/or loss limits relative to capital; increased margin calls; reduction in funding, prime broker requirements.
+See:
+The impact of leveraged investors on market liquidity and financial stability
+(Jon Cunliffe, 12 November 2020)
+See:
+Why central banks need new tools for dealing with market dysfunction
+(Andrew Hauser, 7 January 2021) for a comprehensive list of possible approaches
+See:
+Still the World’s Safe Haven?
+(Darrell Duffie, June 2020);
+Why central banks need new tools for dealing with market dysfunction
+(Andrew Hauser, 7 January 2021); and
+Corporate Bond Market Dysfunction During COVID-19 and Lessons from the Fed’s Response
+(J. Nellie Liang 1 October 2020)
+If this was in place then central banks could follow Bagehot’s suggestion and lend "most freely... to merchants, to minor bankers, to 'this and that [person]', whenever the security is good"
+If this was in place then central banks could follow Bagehot’s suggestion and lend "most freely... to merchants, to minor bankers, to 'this and that [person]', whenever the security is good"
+Close
+See:
+Still the World’s Safe Haven?
+(Darrell Duffie, June 2020);
+Why central banks need new tools for dealing with market dysfunction
+(Andrew Hauser, 7 January 2021); and
+Corporate Bond Market Dysfunction During COVID-19 and Lessons from the Fed’s Response
+(J. Nellie Liang 1 October 2020)
+Close
+See:
+Why central banks need new tools for dealing with market dysfunction
+(Andrew Hauser, 7 January 2021) for a comprehensive list of possible approaches
+Close
+See:
+The impact of leveraged investors on market liquidity and financial stability
+(Jon Cunliffe, 12 November 2020)
+Close
+Position reduction was driven by a number of factors including: Breaches of internal risk and/or loss limits relative to capital; increased margin calls; reduction in funding, prime broker requirements.
+Close
+For a detailed analysis of the cash-futures basis see:
+Hedge Funds and the Treasury Cash-Futures Disconnect
+(Daniel Barth, R. Jay Kahn, 1 April 2021)
+Close
+See:
+March 2021 FPC Record
+and
+Liquidity management in UK open-ended funds
+(Bank of England and FCA 26 March, 2021)
+Close
+On 9th March 2020 10yr UK Gilt yields closed at 0.16% and 10yr US Treasuries closed at 0.54%.
+Close
+See:
+Taking our second chance to make MMFs more resilient
+(Andrew Bailey, 12 May 2021)
+Close
+This is especially important for counterparties with large uni-directional exposures such as insurance and pension funds
+Close
+See:
+The dash for cash and the liquidity multiplier: Lessons from March 2020
+(Anil Kashyap, 17 November 2020)
+Close
+See: FPC’s assessment of the risks from leverage in the non-bank financial system in the
+November 2018 Financial Stability Report
+Close
+See:
+Lessons from the pandemic: Has the simpler post-2008 financial system held up? And where do we go from here?
+(Christina Segal-Knowles, 29 January 2021)
+Close
+See:
+Seven Moments in Spring: Covid-19, financial markets and the Bank of England’s balance sheet operations
+(Andrew Hauser, 4 June 2020)
+Close
+See:
+July 2019 Financial Stability Report
+Close
+“The functioning of debt markets was shown in March 2020 to be vulnerable to economic shocks and subsequent sharp moves in asset prices. The vulnerabilities in the non-bank financial system that led to this episode remain. Moreover, some risky asset prices appear elevated — for instance, corporate bond spreads are currently notably compressed relative to historical levels. The resilience of core markets could be tested again were these prices to adjust.”
+Close
+See
+March 2021 FPC Record
+: “…it is in banks’ collective interest to continue to support viable, productive businesses, rather than seek to defend capital ratios by cutting lending, which would have an adverse effect on the economy and therefore could have an even greater negative effect on banks’ capital ratios.”
+Close
+In 2020 banks, and the economy more generally, benefitted significantly from government support schemes.
+Close
+Building Financial Market Resilience: From Diagnosis to Prescription - appendix
+Convert this page to PDF
+Jonathan Hall
+Financial Policy Committee
+Sign up for latest updates
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

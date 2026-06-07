@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Cyber risks and operational resilience: getting prepared − speech by Elisabeth Stheeman",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Elisabeth Stheeman",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/october/elisabeth-stheeman-speech-at-the-london-school-of-economics-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Elisabeth Stheeman - Cyber risks and operational resilience_ getting prepared − speech by Elisabeth Stheeman.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Elisabeth Stheeman - Cyber risks and operational resilience_ getting prepared − speech by Elisabeth Stheeman.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6e013e067e0cfed528698c225be951f506832821bb9008b96107bd6db75a15cf"
+}

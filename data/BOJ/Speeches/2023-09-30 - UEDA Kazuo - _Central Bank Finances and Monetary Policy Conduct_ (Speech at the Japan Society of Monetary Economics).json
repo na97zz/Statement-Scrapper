@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Central Bank Finances and Monetary Policy Conduct\" (Speech at the Japan Society of Monetary Economics)",
+  "date_original": "2023-09-30",
+  "date_au": "30/09/2023",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230930a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-09-30 - UEDA Kazuo - _Central Bank Finances and Monetary Policy Conduct_ (Speech at the Japan Society of Monetary Economics).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-09-30 - UEDA Kazuo - _Central Bank Finances and Monetary Policy Conduct_ (Speech at the Japan Society of Monetary Economics).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b21c80936307bb93ef039a3f6d51f743d35b04bcbe02153d3afdf93d06738dcf"
+}

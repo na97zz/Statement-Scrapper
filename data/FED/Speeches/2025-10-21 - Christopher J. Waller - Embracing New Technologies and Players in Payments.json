@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Embracing New Technologies and Players in Payments",
+  "date_original": "2025-10-21",
+  "date_au": "21/10/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20251021a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-21 - Christopher J. Waller - Embracing New Technologies and Players in Payments.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-21 - Christopher J. Waller - Embracing New Technologies and Players in Payments.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "910f0aa49cfba0ab9a24c2bf2658ebff995723953e7cde5ed5587aac11b32144"
+}

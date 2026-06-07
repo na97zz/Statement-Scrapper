@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Business Leaders in Nagoya)",
+  "date_original": "2025-12-01",
+  "date_au": "01/12/2025",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko251201a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-12-01 - UEDA Kazuo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Business Leaders in Nagoya).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-12-01 - UEDA Kazuo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Business Leaders in Nagoya).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7022061904a44561639dc837e1f4e96998797ed9e2398557f733d040a03f1d29"
+}

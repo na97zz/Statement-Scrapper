@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Bank failures − speech by Sam Woods",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Sam Woods",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/october/sam-woods-speech-at-the-city-banquet-mansion-house",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Sam Woods - Bank failures − speech by Sam Woods.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Sam Woods - Bank failures − speech by Sam Woods.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d85a237c003366b2b39085a160b3134b56432324834ebe8d947ec49c149e1c96"
+}

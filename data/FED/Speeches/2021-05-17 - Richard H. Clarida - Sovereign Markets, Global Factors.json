@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Sovereign Markets, Global Factors",
+  "date_original": "2021-05-17",
+  "date_au": "17/05/2021",
+  "datetime_original": "",
+  "speaker": "Richard H. Clarida",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/clarida20210517a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-05-17 - Richard H. Clarida - Sovereign Markets, Global Factors.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-05-17 - Richard H. Clarida - Sovereign Markets, Global Factors.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7a9d43d7ff75e28829672c64978d2c97452eb565ea293eab4aef48ff0a5f8924"
+}

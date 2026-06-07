@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Bringing Inflation Down",
+  "date_original": "2022-09-07",
+  "date_au": "07/09/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220907a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-09-07 - Lael Brainard - Bringing Inflation Down.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-09-07 - Lael Brainard - Bringing Inflation Down.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "855a7815b36ffd69884a72ff5738bcba60a93134a7d2491de7082b391f73df05"
+}

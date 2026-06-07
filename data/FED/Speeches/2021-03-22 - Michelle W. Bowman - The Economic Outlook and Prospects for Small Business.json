@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and Prospects for Small Business",
+  "date_original": "2021-03-22",
+  "date_au": "22/03/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210322a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-22 - Michelle W. Bowman - The Economic Outlook and Prospects for Small Business.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-22 - Michelle W. Bowman - The Economic Outlook and Prospects for Small Business.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "122456b2fb8b130c83aa7f5a142fee79605a8c44fe15e0139ae6f9fad4c09804"
+}

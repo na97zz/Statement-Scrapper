@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Hakodate)",
+  "date_original": "2024-08-07",
+  "date_au": "07/08/2024",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240807a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-08-07 - UCHIDA Shinichi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Hakodate).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-08-07 - UCHIDA Shinichi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Hakodate).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "25995e9bc70ec914749ed3317e862359b1f8c572ee68d3a449995d288b76d2dd"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Full Text [PDF 142KB]",
+  "date_original": "2023-02-17",
+  "date_au": "17/02/2023",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/data/ko230217a.pdf",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-02-17 - UCHIDA Shinichi - Full Text [PDF 142KB].pdf",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-02-17 - UCHIDA Shinichi - Full Text [PDF 142KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c30357a7a4781d38dfabc1bc9071391cfc3a385c5c9054c0a9f47014ef07db15"
+}

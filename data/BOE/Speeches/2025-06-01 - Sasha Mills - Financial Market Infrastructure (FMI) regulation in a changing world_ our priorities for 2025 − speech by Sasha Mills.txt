@@ -1,0 +1,118 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Financial Market Infrastructure (FMI) regulation in a changing world: our priorities for 2025 − speech by Sasha Mills
+DATE: 01/06/2025
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/february/sasha-mills-remarks-chair-ceo-ineds-roundtable-for-uk-financial-market-infrastructure-firms
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Financial Market Infrastructure (FMI) regulation in a changing world: our priorities for 2025 − speech by Sasha Mills
+Given at the Bank of England Chair/CEO/INEDs Roundtable for UK Financial Market Infrastructure firms (FMIs)
+Published on 
+
+ 10 February 2025
+In her speech, Sasha Mills outlines how the Bank is using its new powers to achieve its priorities for Financial Market Infrastructure (FMI) regulation in the coming year, including ensuring operational and financial resilience and embracing the opportunities of innovation at FMIs.
+Speech
+Good morning and thank you so much for joining us. Today we are here to discuss recent changes we have made to the Bank of England’s (the Bank’s) regulatory and supervisory frameworks for Financial Market Infrastructure (FMIs) and our priorities for FMI regulation this year.
+We are in a time, and in a sector, of sweeping technological advances, posing exciting opportunities to innovate within, and grow, the UK economy. As FMIs and regulators, we need to seize these opportunities, while understanding and mitigating the risks that come with them. In a context of heightened geopolitical tensions, embracing opportunities to find new, more effective ways of working, while ensuring FMIs’ resilience has never been more crucial.
+Our priorities for the year will help you deliver on that ambition. They are:
+Ensuring FMI services are operationally resilient.
+Safe and sustainable innovation.
+Financial resilience.
+Ensuring FMI services are operationally resilient. Cyber and third-party providers pose some of the most significant risks here that need managing. Our policies set the framework for achieving resilience and we will be looking at firms’ progress carefully in line with the March deadline.
+Safe and sustainable innovation. We want you to embrace the benefits that innovation offers, while managing the risks it poses. For our part, we will ensure our regulatory and supervisory frameworks facilitate innovation while maintaining financial stability.
+Financial resilience. While we’ve had the benefit of relative market stability recently, especially compared to previous years, we can’t take our eye off financial resilience. For central counterparties (CCPs) we will use stress testing and other tools to monitor and probe risks, improve transparency and target mitigation.
+To achieve these priorities, we need to continue to work openly and cooperatively together to mitigate risks, embrace innovation, and safely provide the critical infrastructure on which the economy relies.
+Why FMIs matter and our desired outcomes
+UK FMIs are essential to the global financial system. Every time an individual or business makes a transaction, your firms work behind the scenes to ensure it is processed smoothly, reducing and managing risk, particularly during periods of stress. The scale of this work is immense.
+Day in, day out, CCPs clear trillions of pounds worth of contracts, the UK’s central security depository, Euroclear UK & International (EUI) settles nearly a trillion pounds of securities transactions, and our payment systems process countless retail and wholesale transactions. Confidence in FMI services is critical to a vibrant and prosperous economy, facilitating growth by allowing other businesses, individuals and financial market participants to transact and take informed risk safely.
+While you deliver these services, it’s the Bank’s role to provide a regulatory and supervisory framework that ensures financial stability while facilitating innovation and supporting the wider economy.
+footnote
+[1]
+Our common goal of financially and operationally resilient FMIs delivering trusted services is best met when we work together, with an open dialogue, and an understanding of each other’s needs and constraints.
+But there is a consequence we need to acknowledge; in managing risk, FMIs centralise it. Disruption or operational outages at an FMI can trigger severe financial instability and economic consequences, especially given that the participants of FMIs are often systemically important institutions that rely on FMIs for their proper functioning, and in the case of UK CCPs, global systemically important institutions (G-SIIs) such as large banks. CCPs play a crucial role supporting trading and management of counterparty risk, while central security depositories (CSDs) ensure securities settle on time and play an important role in the liquidity and collateral chain. And payment systems are key to liquidity, supporting wholesale and retail payments across all sectors of the economy. What is clear is that any significant disruption to the operation of FMIs could rapidly escalate into broader financial and economic turmoil and a corresponding loss in confidence in the financial system. While thankfully it didn’t severely impact your firms, last summer’s Crowdstrike incident demonstrated the risks and importance of our work on operational resilience, outsourcing and third-party suppliers, to ensure firms take action ahead of time to identify risks to delivery of their critical services and make themselves resilient to disruption.
+If we look back further, history offers a stark reminder of how costly financial crises can be. The 2008 financial crisis was the most significant growth-destroying event in recent memory, but also highlighted the value of FMIs in reducing risk. This was dramatically illustrated through the difference in the ease with which the creditors of the failed US investment bank Lehman Brothers were able to deal with the losses arising from its cleared derivatives portfolio, using collateral the firm had deposited at the CCPs it used, against the years they spent dealing with losses from uncleared positions.
+footnote
+[2]
+This relative success of CCPs during the crisis is part of what has made them such a central node of the financial system today. Supporting FMIs in playing this role in reducing risk, and ultimately avoiding a repeat of such a crisis, is the most important contribution we can make to sustainable economic growth.
+In a more shock prone world, with elevated volatility in part driven by geopolitical stress, it is critical that FMIs are aware of the potential risks they can create as they manage their own risks and the risks of other firms. Supported by the Bank of England,
+the international community has responded to risks around procyclicality of margin calls
+, through new standards on margin transparency at CCPs which aim to improve centrally cleared market participants’ understanding of potential future margin requirements and margin responsiveness, helping to reduce the risk of severe procyclical effects in times of market volatility.
+Innovation: Playing our respective roles in embracing responsible innovation
+There has also been a step change in opportunities and risks arising from technological advances and we are committed to working with you to ensure we can embrace these opportunities safely. For payments, technological innovations are changing the landscape for providers, driven in large part by broader changes in what consumers expect. These advances will bring business opportunities and efficiencies as well as risks that need to be understood and managed. When safely implemented, they can also be used to help ensure resilience at FMIs, for instance through the huge potential in Artificial Intelligence (AI) as a tool to help monitor market activity and risk.
+We need to work together to manage the risks and, importantly, make the most of the opportunities. As FMIs you will need to adapt your risk management strategies and business models to navigate this new environment effectively while making the most of the technological advances that could enable a step change in the services you provide.
+These benefits could be realised by bringing new technologies to existing firms (for example, through tokenisation or the introduction of atomic settlement) or through new types of FMIs joining the payments, settlement and clearing sectors. These technological advances are a good thing – but the risks need managing. We are keen to hear from you both on how you are innovating and the benefits that this is bringing, and any risks you see being created.
+In line with our secondary objective to facilitate innovation, the Bank of England’s role is to give you space to innovate in a way that protects financial stability. Our role in facilitating innovation can be both as catalyst, allowing safe experimentation through initiatives such as the Digital Securities Sandbox, but also by getting out of the way. Removing barriers allows your firms or new players to innovate to improve FMI services.
+There are also opportunities in RegTech allowing us to do our job more effectively, including to process approvals more efficiently. Increases in computing power and application of techniques like machine learning may also allow us to perform desk-based assessments of firm resilience that are higher frequency and wider in scope – for example, more regular stress tests against a wider range of scenarios.
+What we have done so far on our priorities
+Over the past year, the Bank has taken critical steps to evolve its approach with new powers and responsibilities in mind, while maintaining a robust commitment to financial stability.
+We have laid the groundwork for an FMI rulebook, through our
+proposed Fundamental Rules
+. This is an important and substantive area of work for the Bank to progress and clarify the outcomes we will require FMIs to meet. They are intended to drive board-level discussions about these outcomes and how firms can achieve them, supporting both our financial stability and innovation objectives.
+We also refreshed our
+approach to supervision
+. Our supervisory approach is now more proportionate and risk-based, giving us greater flexibility to focus on the firms and issues that pose the greatest risks to our objectives, and providing us with more flexibility to choose to not intervene when we consider the costs outweigh the benefits. It also better accommodates the new and emerging risks that we see for FMIs.
+In keeping with the thinking behind the Fundamental Rules, the supervisory approach will help ensure firms consider and reflect on the impact they can have on the financial system and the real economy in their decision making. Our new approach also ensures firms are prepared to work with the authorities in times of severe disruption.
+In terms of resilience, we have made significant strides. We launched the
+Critical Third Parties (CTP) regime
+and introduced
+proposals for operational incident and outsourcing reporting
+, both of which help to ensure that the sectors’ operational resilience remains robust in the face of new challenges. We
+stress-tested the financial resilience of CCPs
+and contributed to international work on margin transparency.
+We are also working with
+you
+to ensure your systems and processes are operationally resilient, given the end-of-March deadline for FMIs, to show us that they can remain within their impact tolerances when the critical services they offer are disrupted. You have been engaged in this work, with wargames, collaborative risk meetings and initiatives such as the Cross Market Operational Resilience Group.
+Clearly there’s more work for FMIs to do ahead of the end-March deadline. While this is a significant milestone, it is not the last piece of the puzzle. FMIs will need to continue to improve operational resilience as risks and technologies evolve. And be mindful of risks that could be posed by the process of introducing significant changes to the technology they use. Cyber threat actors who seek to harm the financial system will not stop developing their techniques, so FMIs need to remain vigilant to the changing threats they are exposed to. We as regulators need to work to ensure our requirements and guidance respond to those risks.
+What’s to come?
+I wanted to return here to the three priorities that I set out at the start, building things out in a bit more detail.
+Ensuring FMI services are operationally resilient: This remains a cornerstone of our work, and only grows in importance as geopolitical volatility increases. As well as working with you through the approaching deadline to meet our required standards, we will be focussing on embedding our oversight regime for CTPs and engaging with you on our operational incident and outsourcing requirements. We also plan to develop more detailed guidance to formalise our expectations on cyber resilience, in line with increased sophistication and risk of cyber events. This would have the aim of FMIs improving their ability to identify and prevent cyber incidents, advancing their capacity to test their resilience against potential incidents, and importantly detecting, responding, and recovering in a safe manner if defences are breached.
+Facilitating safe and resilient innovation in payments, settlement and clearing: Through initiatives such as the Digital Securities Sandbox and the digital gilt (or DIGIT), we are focussed on facilitating innovation across payments, settlement and clearing in a way that drives growth while protecting financial stability. We are also implementing international standards for systemic stablecoins and will support innovation and enhancements within existing FMI services. As part of our work with HM Treasury (HMT) to repeal UK European Market Infrastructure Regulation (EMIR) for CCPs and replace it with Bank rules and relevant statutory provisions, together we are considering how we could simplify certain processes, such as for approving CCP margin models and authorising new products.
+Ensuring stability through financially resilient FMIs:
+For CCPs, we will propose rules to repeal EMIR and replace it with an adaptable and dynamic rulebook that aligns with evolving international standards, particularly on margin transparency. We will also engage with firms to further understand how changes in the clearing landscape impact your risk profile. We will also improve our use of data to monitor risks to financial and operational resilience.
+Across all of this work, we will continue to improve our engagement with you – the FMIs we regulate. This year, we will finalise our Fundamental Rules after consultation – making clear our requirements across our regulatory priorities. Initiatives like the Fundamental Rules and our refreshed Supervisory Approach are part of this effort. However, we also want to find out how we can help you embrace innovative technologies and make sure that we are ready for the challenges ahead.
+With your help, we can seize the opportunities provided by both recent technological advances and our new powers and responsibilities to ensure:
+UK FMIs can thrive domestically and internationally, support growth through effective risk management, innovate safely and enhance resilience;
+our Supervisory Approach remains strong and effective, is risk-based and flexible, and relevant to the shifting landscape of risks you engage with every day;
+our regulatory framework balances high standards and certainty with the agility to address change, with rules that are clear and accessible, and supervisory actions that are outcomes focussed; and
+we have a productive and open dialogue between regulators and industry with a ‘no surprises’ culture.
+This vision is ambitious, but it is achievable with your engagement and collaboration. Thank you for your work so far in realising this vision, and for your invaluable contributions to this vital sector.
+I would like to thank James Hoskins, Richard Spooner, Joe Irwin, Sadia Arif, Charlotte Kelly, Barry King, Justin Jacobs, Simon Morley, Shane Scott, Sarah Breeden, Michael Yoganayagam and Harsh Mehta for their contribution to these remarks.
+Note the Bank’s primary objective in relation to FMI’s is to protect and enhance the stability of the UK financial system. From 1 January 2024 it received a secondary objective to facilitate innovation in FMI services.
+More information is available
+.
+Further information
+on the FPC’s assessment of post-crisis reforms to derivatives markets.
+Further information
+on the FPC’s assessment of post-crisis reforms to derivatives markets.
+Close
+Note the Bank’s primary objective in relation to FMI’s is to protect and enhance the stability of the UK financial system. From 1 January 2024 it received a secondary objective to facilitate innovation in FMI services.
+More information is available
+.
+Close
+Convert this page to PDF
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

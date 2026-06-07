@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Investing in Europe’s future: The case for a rethink",
+  "date_original": "2022-11-11",
+  "date_au": "11/11/2022",
+  "datetime_original": "",
+  "speaker": "Investing in Europe’s future",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221111~9dfd501542.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-11 - Investing in Europe’s future - Investing in Europe’s future_ The case for a rethink.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-11 - Investing in Europe’s future - Investing in Europe’s future_ The case for a rethink.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "44a6ee633627c4e25768cc7254caab0f6b0e1478ca174022bd5165189f4d1b38"
+}

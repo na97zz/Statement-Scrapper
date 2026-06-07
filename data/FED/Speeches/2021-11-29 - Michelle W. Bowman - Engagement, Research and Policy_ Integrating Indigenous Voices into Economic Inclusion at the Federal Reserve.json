@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Engagement, Research and Policy: Integrating Indigenous Voices into Economic Inclusion at the Federal Reserve",
+  "date_original": "2021-11-29",
+  "date_au": "29/11/2021",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20211129a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-11-29 - Michelle W. Bowman - Engagement, Research and Policy_ Integrating Indigenous Voices into Economic Inclusion at the Federal Reserve.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-11-29 - Michelle W. Bowman - Engagement, Research and Policy_ Integrating Indigenous Voices into Economic Inclusion at the Federal Reserve.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dd3147f457361b320350aea098fd0a4cbee97137ad024020c98b80844c6a7cef"
+}

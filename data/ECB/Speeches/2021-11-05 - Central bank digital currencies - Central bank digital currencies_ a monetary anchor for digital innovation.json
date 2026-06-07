@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Central bank digital currencies: a monetary anchor for digital innovation",
+  "date_original": "2021-11-05",
+  "date_au": "05/11/2021",
+  "datetime_original": "",
+  "speaker": "Central bank digital currencies",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211105~08781cb638.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-11-05 - Central bank digital currencies - Central bank digital currencies_ a monetary anchor for digital innovation.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-11-05 - Central bank digital currencies - Central bank digital currencies_ a monetary anchor for digital innovation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9a1a77126329f4ac59d36705592bf8cfd87dce0d824b6caa03a96cbad33011f7"
+}

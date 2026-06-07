@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Goodbye to All That: The End of LIBOR",
+  "date_original": "2021-10-05",
+  "date_au": "05/10/2021",
+  "datetime_original": "",
+  "speaker": "Randal K. Quarles",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20211005a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-05 - Randal K. Quarles - Goodbye to All That_ The End of LIBOR.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-05 - Randal K. Quarles - Goodbye to All That_ The End of LIBOR.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4eb1438300a733d6bd5894157832978a7b91f8d37b83a73834f2b02d416648e5"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Striking the right balance: the ECB’s balance sheet and its implications for monetary policy",
+  "date_original": "2025-02-18",
+  "date_au": "18/02/2025",
+  "datetime_original": "",
+  "speaker": "Striking the right balance",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250218~cc20f3518c.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-02-18 - Striking the right balance - Striking the right balance_ the ECB’s balance sheet and its implications for monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-02-18 - Striking the right balance - Striking the right balance_ the ECB’s balance sheet and its implications for monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c4b476d96b8c749698a6e92bbfd506a6a31d7cb3f0dba6e35ec3837191d772b5"
+}

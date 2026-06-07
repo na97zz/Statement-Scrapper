@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"What to Know about Central Bank Digital Currency\" (Remarks at the FIN/SUM 2024)",
+  "date_original": "2024-03-05",
+  "date_au": "05/03/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240305a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-03-05 - UEDA Kazuo - _What to Know about Central Bank Digital Currency_ (Remarks at the FIN_SUM 2024).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-03-05 - UEDA Kazuo - _What to Know about Central Bank Digital Currency_ (Remarks at the FIN_SUM 2024).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5f215093527de9be10f327aa8c0d367e5988907ea4ff55e9d2c2e702a14e38a9"
+}

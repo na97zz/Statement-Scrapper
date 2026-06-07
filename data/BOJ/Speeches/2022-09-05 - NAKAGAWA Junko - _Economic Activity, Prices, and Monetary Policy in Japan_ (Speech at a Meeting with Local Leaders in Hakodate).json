@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Hakodate)",
+  "date_original": "2022-09-05",
+  "date_au": "05/09/2022",
+  "datetime_original": "",
+  "speaker": "NAKAGAWA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220905a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-09-05 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Hakodate).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-09-05 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Hakodate).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6685926f9d077b91c9fa1daf36c98e764fd9894c051588e9ad78f60a68ffb1a7"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcome Remarks",
+  "date_original": "2025-10-16",
+  "date_au": "16/10/2025",
+  "datetime_original": "",
+  "speaker": "Welcome Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20251016a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-16 - Welcome Remarks - Welcome Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-16 - Welcome Remarks - Welcome Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "75164b7e5dc70709de0c8c1793abd79bff8c3bc505fa9afdd2999116f46fea42"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Tiff Macklem, Governor of the Bank of Canada",
+  "date_original": "2025-02-21",
+  "date_au": "21/02/2025",
+  "datetime_original": "",
+  "speaker": "Tiff Macklem",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2025/02/speech-tiff-macklem-february-21-2025/",
+  "raw_file_path": "data\\BOC\\Speeches\\2025-02-21 - Tiff Macklem - Speech by Tiff Macklem, Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2025-02-21 - Tiff Macklem - Speech by Tiff Macklem, Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:58:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "16e142db64526af2e1b82a1df91864b390b059b592f690b32e9393c9144cac09"
+}

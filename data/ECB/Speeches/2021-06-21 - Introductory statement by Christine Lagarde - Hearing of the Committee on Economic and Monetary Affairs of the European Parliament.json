@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+  "date_original": "2021-06-21",
+  "date_au": "21/06/2021",
+  "datetime_original": "",
+  "speaker": "Introductory statement by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210621~352acef702.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-06-21 - Introductory statement by Christine Lagarde - Hearing of the Committee on Economic and Monetary Affairs of the European Parliament.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-06-21 - Introductory statement by Christine Lagarde - Hearing of the Committee on Economic and Monetary Affairs of the European Parliament.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "09860d619f762ffa24921b751e7da0d9021f8fa9f1128a2cca6c70e5f69cfcdb"
+}

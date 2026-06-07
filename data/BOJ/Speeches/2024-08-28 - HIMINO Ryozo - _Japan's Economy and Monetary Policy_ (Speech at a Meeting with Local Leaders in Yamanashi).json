@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Yamanashi)",
+  "date_original": "2024-08-28",
+  "date_au": "28/08/2024",
+  "datetime_original": "",
+  "speaker": "HIMINO Ryozo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240828a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-08-28 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Yamanashi).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-08-28 - HIMINO Ryozo - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Yamanashi).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d238be3035b4759f94f0f6896d2b08e09dc9367ca325100bcbd7341432944993"
+}

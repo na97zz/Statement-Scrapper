@@ -1,0 +1,140 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Cyber Risk: 2015 to 2027 and the Penrose steps - speech by Lyndon Nelson
+DATE: 01/06/2021
+SPEAKER: Lyndon Nelson
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2021/may/lyndon-nelson-the-8th-operational-resilience-and-cyber-security-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Cyber Risk: 2015 to 2027 and the Penrose steps - speech by Lyndon Nelson
+Given at the City & Financial 8th Operational Resilience and Cyber Security Summit
+Published on 
+
+ 25 May 2021
+Cyber risk is ever changing and we know we need to remain vigilant. Lyndon Nelson talks about the steps we take to counter it. These include:
+- simulation exercises
+- penetration testing
+- international collaboration.
+Speech
+What keeps you awake at night? I get asked that a lot.
+May be the question is more pointed than I had realised and it is being asked by people for whom the answer to the question would be me or may be the regulators more generally. What keeps the person who keeps me up at night? As a former chief risk officer and very presently a worrier, I have a lot to say to that question. Today, I’d like to cover the cyber chapter of my answer. For many if cyber is not the number one risk in their risk register it is the fastest rising. The advance of the cyber threat is also the main gateway that people go through for the consideration of the broader operational risk agenda. I spoke recently on operational resilience and our new policy statement
+footnote
+[1]
+, which rather than repeat I would encourage you read and to think of my remarks today as building on those but with particular focus on cyber risk – the journey we have made, the journey to come and that we must remain constantly vigilant.
+The journey we have made 2015-2021
+In 2015, my friend and former colleague, Andrew Gracie gave a speech
+footnote
+[2]
+to the Cyber Security Forum. He shared the Bank of England’s (Bank) expectations and the Financial Policy Committee (FPC) agenda on cyber risk and operational resilience. Andrew is a great visionary in not just this but other areas of central banking, so six years later, as I also prepare to pass on the baton, I wanted to start by reporting on how we have performed against that original strategy.
+As one would expect from a central bank and regulator we looked at operational resilience in three parts: assessment (testing), capabilities and coordination.
+Testing, testing, testing
+The first part of the strategy has been testing and assessment of firms’ resilience to cyber risk. We established CBEST (our threat-led penetration testing framework). It was truly pioneering work to combine ethical hackers with the latest threat intelligence to provide the best efforts to pick the technology locks of our 40 largest firms. This was and continues to be resource intensive work (an individual assessment takes between nine and twelve months to complete) but it has been effective in moving the cyber agenda forward. CBEST has spawned many imitators in different jurisdictions and different sectors. It remains our flagship testing programme for cyber resilience and is now well into its second cycle. Given the very dynamic nature of the cyber threat we have built CBEST so that it can also constantly evolve. For example, in response to a marked change in the cyber threat to the financial sector we announced
+footnote
+[3]
+in January 2021 that we have increased our attention on malicious insider and supply chain risks.
+At the international G7 level we have helped to publish the G7 Fundamental Elements for Threat-led Penetration Testing
+footnote
+[4]
+. This has helped us to consolidate our collective experience of such testing, and also provide a helpful platform from which we can collaborate with other authorities to cover cross-jurisdictional cyber risks. Recently we worked with the European Central Bank (ECB) and other European Authorities to conduct CBEST on a cross-jurisdictional basis and align with similar frameworks such as TIBER-EU. This gives us a wider scope of action (for example the ability to look at threats linked to vulnerabilities present on assets in other jurisdictions) and of course reduce firms’ burden of effort.
+As part of the FPC cyber agenda we are continuing to develop a new type of regular assessment, called a cyber-stress test to assess firms’ operational resilience and the impact this has on the FPC’s core strategic goals. Whilst CBEST focusses more on detection, the stress test looks at the response and in particular the ability to restore functioning after an incident. The stress test helps us to examine a firm and a system’s ability to recover within the timeframe implied in their impact tolerance in a severe but plausible scenario. As we communicated in March 2021
+footnote
+[5]
+, the next cyber stress test will be in 2022 and will involve a scenario where data integrity has been compromised within the end-to-end retail payments chain.
+Practice, practice, practice
+The other main use of severe but plausible scenarios is as the basis for simulation exercises, or as some would call them war-gaming. Exercises are a key part of our strategy. They build capabilities internally and across the sector. They provide an opportunity to rehearse assigned roles and responsibilities and build the muscle memory such that reactions become instinctive and measured. They provide a safe environment to prepare for known threats, play out scenarios in ‘slow time’ and identify weaknesses which a crisis might otherwise expose. Exercises can also be used to demonstrate or validate response capabilities, with a focus on managing the impacts regardless of cause.
+The UK is a world leader in its exercise programme. Being an observer at one of our exercises sometimes seems like the hottest ticket in town and we have helped many jurisdictions make their first steps in this important part of the toolkit.
+Our domestic programme has been running for many years and is now covered by the Cross Market Operational Resilience Group (CMORG) whose role is to promote work that strengthens the resilience of the financial sector and its ability to respond to operational incidents. Together with UK Finance we co-chair CMORG and have representatives from firms, HMT as well as the National Cyber Security Centre (NCSC). CMORG exercises include a high-profile biannual sector-wide simulation exercise (SIMEX), designed to validate the effectiveness of the sector response framework against severe but plausible sector-wide operational incidents. We have done various exercises over the past few years, including a pandemic, an extended outage at the Bank’s High Value Payment System – RTGS, and a significant cyber-attack which incorporated a data-integrity scenario.
+We have also participated at these exercises at the international level. As part of the G7 Cyber Experts Group (CEG) in June 2019, we delivered the first cross-border coordination exercise across the G7 (involving 23 financial authorities). Following agreement by the G7 CEG to have simulation exercises as a permanent part of their mandate, we published in December 2020: The G7 Fundamental Elements of Cyber Exercise Programmes.
+footnote
+[6]
+Working together on a shared agenda
+Of course, an exercise involving 23 financial authorities in eight jurisdictions is a feat of coordination, but this is a small challenge compared to the need to promote and foster an extensive collective action programme. In my recent speech on operational resilience, I reminded my audience that there is no operator of last resort function in Threadneedle Street and no facility that can take in an operationally paralysed bank on Friday and turn out a fully functioning bank on Sunday night ready to open the next day.
+This leaves an extensive agenda for collaborative responses between industry and the authorities. We are making good progress in the number of working groups that have been set up to collectively and collaboratively address cyber risk. One of the early deliverables was the Financial Sector Cyber Collaboration Centre (FSCCC). Its mission is to be proactive in identifying, analysing, assessing, monitoring and coordinating activities to mitigate systemic risk and strengthen the resilience of the UK financial sector against cyber.
+CMORG which I mentioned earlier continues to make progress: earlier this year it published a framework for reconnecting an organisation to the financial system that has been disconnected because of data or system integrity impacts. In the next few weeks, it will be publishing good practice to support consistency in how firms communicate about incidents, and a framework that maps the coordination and information-sharing links between all key response groups in the sector.
+The Journey to Come 2021-2027 and beyond
+Now with this volume of activity and the recent publication of both the Basel Committee’s principles for operational resilience
+footnote
+[7]
+and our final policy on operational resilience
+footnote
+[8]
+, you would be forgiven for thinking that it may be quiet in this space for a while. We do fully recognise the burden placed on the sector by this work and I spoke recently at how we are being proportionate and giving firms space. However, addressing cyber risk is to put oneself inside an Escher drawing and in particular the Penrose steps where we are constantly walking up the stairs and not reaching the top. This is the nature of the risk. It has a conscious opponent determined like a liquid to pour through cracks and find the lowest level of your controls and exploit them. If the risk adapts, then so must the response. I was looking at a cyber incident from a couple of years ago in which cyber criminals needed to coordinate the use of ATMs in twenty-three different countries and nine time zones in two 45-minute windows. If the opponent can co-ordinate across boundaries, then so must we.
+Our testing and exercising have steadily demonstrated improvements in cyber resilience, but there are still too many instances of failures in what one might call basic cyber hygiene. Examples of cyber hygiene issues include:
+Shortcomings in vulnerability management and information storage,
+Poor configuration of IT infrastructure and
+Poor user account and password management.
+These issues are exhibited by both large and small firms and those from across the full range of IT infrastructure in terms of size, complexity, and budgetary resources. It is this inadequacy of cyber hygiene that lies at the root of over 80% of the successful cyber-attacks on firms. Unfortunately, we don’t have to look too far to see what can happen when controls lapse. The global wave of cyberattacks and data breaches that began in January this year after four zero-day exploits were discovered in on-premises Microsoft Exchange Servers, giving attackers full access to user emails and passwords on affected servers, administrator privileges on the server, and access to connected devices on the same network. Estimates of the impact vary, but conservatively it impacted over 250,000 servers globally.
+Given the focus of CBEST, the cyber stress test and our simulation exercises have been on the largest firms, which are capable of causing systemic risk, it is important for the PRA with its safety and soundness statutory objective to build tools to assess and mitigate cyber risk for smaller firms. We are working hard on developing a testing strategy and a framework that will allow us to increase the coverage and frequency of assessment. This will include a more approachable CBEST-style test that will be applicable for a wider range of firms. Also in tandem with the roll-out of the supervisory approach to operational resilience we hope to be reaching far more parts of the financial sector.
+In this past year we have also seen how the composition of attacks has shifted towards the exploitation of third-party/outsourced relationships. Usually this has been through ransomware attacks. We have always understood that as the financial sector increasingly pursues a more digital rather than analogue future, the vulnerability to cyber-attack increases. What the attacks on third parties have highlighted is the additional exposure created if that digital future is delivered through a patchwork of the firm’s own services and outsourced providers. In addition, where a third-party itself grows market share and a position of dominance it also becomes a source of systemic vulnerability. The G7 CEG recognised this vulnerability and published its Fundamental Elements for Third Party Cyber Risk Management
+footnote
+[9]
+in October 2018. The Prudential Regulation Authority (PRA) as supervisor has also modernised its guidance on third parties and outsourcing and continues to consider further responses to this vulnerability. This was finalised as part of the operational resilience package.
+Conclusion: The Penrose Steps
+What lies ahead on our Escher Penrose Steps?
+The full roll-out of our operational resilience policy, which I have argued will transform our approach to risks such as cyber.
+Even greater momentum for collective action from the financial sector as it tackles important issues such as safeguarding firms against data corruption and the response to a large bank becoming operationally paralysed.
+Greater maturity in the international approach based on the lead taken by the G7 CEG and the Basel Committee.
+A suitable regime for critical third parties, which reflects their growing importance in the delivery of critical financial services to economies.
+And finally, what would I expect my successor to report in the Cyber Security Forum of 2027?
+That all firms treat cyber as a business risk in which their Boards are fully engaged;
+Firms aim to be a hard target for cyber attack but given that they assume failure will occur that they are prepared and have tested their ability to recover their important critical business services within reasonable timeframes;
+Dealing with cyber risk is well established as a collective endeavour. This includes active information sharing as well as building common capabilities;
+That firms fully recognise their cyber diaspora and have worked with their suppliers to identify, assess and mitigate the cyber vulnerabilities they bring;
+That the trust between regulator and regulated firms remains strong in contributing to a strong and agile incident response; and
+Finally, that the UK continues to set the benchmark for an operationally resilient financial services sector.
+Although I have talked about journeys and timeframes today, in truth the issue of cyber is not finite. There is no endpoint and no destination. I must leave you with the image of those Escher Penrose Steps in your mind. A constant journey, where we will need to be alert and vigilant. The good news though is that many, including the regulators, the government and the NCSC, will be taking that same journey with you. Many eyes make spotting vulnerabilities and threats much easier. Many hands make light work of tasks that need to be done. With such a collective effort let’s hope that make us all sleep easier in our beds.
+I would like to thank Gianandrea Padovani for their assistance with this speech.
+Operational resilience – outcomes in practice - speech by Lyndon Nelson
+Cyber in context - speech by Andrew Gracie
+CBEST Threat Intelligence-Led Assessments
+G-7 Fundamental Elements for Threat-Led Penetration Testing
+Financial Policy Summary and Record - March 2021
+G-7 Fundamental Elements of Cyber Exercise Programmes
+Principles for operational resilience (bis.org)
+Operational resilience – Statement of Policy
+G-7 Fundamental Elements for Third Party Cyber Risk Management in the Financial Sector
+G-7 Fundamental Elements for Third Party Cyber Risk Management in the Financial Sector
+Close
+Operational resilience – Statement of Policy
+Close
+Principles for operational resilience (bis.org)
+Close
+G-7 Fundamental Elements of Cyber Exercise Programmes
+Close
+Financial Policy Summary and Record - March 2021
+Close
+G-7 Fundamental Elements for Threat-Led Penetration Testing
+Close
+CBEST Threat Intelligence-Led Assessments
+Close
+Cyber in context - speech by Andrew Gracie
+Close
+Operational resilience – outcomes in practice - speech by Lyndon Nelson
+Close
+Convert this page to PDF
+Lyndon Nelson
+Deputy CEO &amp; Executive Director, Regulatory Operations and Supervisory Risk Specialists from 2016 to 2021
+Sign up for latest updates
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

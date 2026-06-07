@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kyoto)",
+  "date_original": "2026-02-26",
+  "date_au": "26/02/2026",
+  "datetime_original": "",
+  "speaker": "TAKATA Hajime",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260226a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-02-26 - TAKATA Hajime - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kyoto).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-02-26 - TAKATA Hajime - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kyoto).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "04367b7dc7b9e679a5767bebc86dba846c1e9a8b1740c355a50b9680e2bd1c80"
+}

@@ -1,0 +1,270 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Unexpected curves − remarks by Alan Taylor
+DATE: 01/06/2025
+SPEAKER: Alan Taylor
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/july/alan-taylor-panellist-at-ecb-forum-on-central-banking-2025
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Unexpected curves − remarks by Alan Taylor
+Given at the ECB Forum on Central Banking in Sintra, Portugal
+Published on 
+
+ 02 July 2025
+In his panel remarks, Alan Taylor outlines his view on interest rates in the long run. He shows that model-based neutral rates can predict policy rates. He explains why he would prefer the Bank to regularly talk about where interest rates are going.
+Speech
+Introduction
+Why do central banks talk about their decisions in public?
+For a long time, monetary policy was decided and implemented behind closed curtains. In my view, there are two reasons why that is not a good idea:
+First, we explain our decisions and intentions because we believe that it is conducive to both understanding of and trust in the institutional framework of demand management that many central banks find themselves in. In the United Kingdom, this means the delegation of inflation control from the government to an independent central bank; and then it implies the independence of the Bank of England’s Monetary Policy Committee for setting the stance of monetary policy in order to hit its statutory target.
+The second reason for explaining decisions and intentions is, broadly speaking, because of a desire to affect expectations of future interest rates—either directly or indirectly by affecting expectations of inflation, output and other aspects of the macroeconomic outlook. This in turn affects all parts of the yield curve, not just the short end, and forms an important channel for the transmission of monetary policy.
+In my remarks today I am going to speak mainly about this latter point. The question I address is: How can central banks credibly and usefully communicate with agents in the economy, especially when it comes to where interest rates are likely to settle in the long run?
+I’m going to argue that the arc of history bends towards greater transparency and that we, the Bank of England, still have a way to go. We at the Bank, or perhaps more precisely, members of the Monetary Policy Committee, are already very transparent along many dimensions. We publish minutes, conditional forecasts, scenario analysis, and other material that underpins our decisions. And we follow a one-member-one-vote strategy, such that disagreement on the committee is made public, and members frequently give speeches in which they explain their individual view of the world in real time.
+And my individual view on this question (and not necessarily the view of the other members of the MPC) is that there is one key dimension along which we
+could
+be more transparent. And further I will argue that I think we
+should
+be. That is, with regard to the future path of interest rates and where interest rates are likely to settle in the long run.
+footnote
+[1]
+A brief history of central bank communications
+Let me first go through a bit of history.
+It might sound surprising now, but one can ‘do’ monetary policy without much communication at all. The current regime of central banks speaking in public about their intentions and explaining their decisions is a relatively recent invention. I would like to point to speeches given by two of my predecessors on the Monetary Policy Committee,
+Andy Haldane (2017)
+and Jan Vlieghe (2019)
+, which already contain detailed accounts of the history of central bank communications. I am not going to go through all of it again but will note that, for a long time, central bankers did not think it worthwhile even to announce decisions or intentions to the public, much less explain them or entertain questions. The Federal Open Market Committee (FOMC), for example, did not publicly commit to a numerical inflation target until 2012 and did not introduce press conferences until 2011.
+Indeed, central bankers believed that opacity and ‘mystique’ were beneficial to the workings of monetary policy. If they were speaking publicly at all, their communications were not designed to be helpful for understanding how decisions were being made. Without wanting to single out one person, Alan Greenspan’s aphorism, “if I seem unduly clear to you, you must have misunderstood what I said”, reflects a commonly held view of what it meant to be a central banker.
+Since then, however, this view has made way for the idea that, in fact, monetary policy works best when it is well understood, and not only by insiders but by the general public, too. Part of this change, I would argue, was due to genuine scientific progress that emphasised the role of expectations in the decision-making of economic agents.
+footnote
+[2]
+But the issue of expectations management really became pertinent only in the aftermath of the Global Financial Crisis (GFC) when short-term rates fell to near-zero (or sometimes even below).
+It was in this extraordinary environment that central banks really discovered communications for the purpose of changing the stance of monetary policy—this marked the arrival of forward guidance. Even quantitative easing, the purchasing of government bonds and other financial assets from the private sector, beyond portfolio rebalancing effects, can also be understood as a way to deliver forward guidance by other means. In this view, by making policy reversal especially costly, QE reinforces the central bank’s commitment to low nominal short rates for an extended period of time. This would then weigh on bond yields and raise other asset prices in the economy through an ‘expectations channel’ (
+Vlieghe, 2018
+) that is separate from a more mechanical asset price channel that works via arbitrage and transmits an increased scarcity of bonds along the maturity spectrum.
+footnote
+[3]
+Communicating about the end point
+However, I don’t intend this speech to focus narrowly, or at all, on forward guidance as it has been envisioned in the post-GFC era. Forward guidance is an unconventional monetary policy tool deployed when short-term interest rates cannot fall but interest rates further out might still have room. In such a world, forward guidance is still intended to affect the stance of monetary policy at business-cycle frequencies in order to provide the right amount of stimulus at the effective lower bound.
+Instead, I want to advance the argument that there is value for central banks in communicating policymakers’ beliefs about the neutral interest rate whether it be some collective view or that of any individual member. This is not the same as forward guidance the way I’ve defined it because it is not intended to affect the stance of monetary policy.
+footnote
+[4]
+Instead, it is about giving an anchor to the end point, the neutral rate—the place where interest rates would come to rest after all shocks, real and nominal, have washed out. In the simplest Wicksellian formulation this is the real natural rate r* plus the inflation target.
+footnote
+[5]
+Of course, that place is never reached—shocks happen—but just like any other possibly time-varying parameter in our reaction function, it is something we should strive to convey to make that reaction function ever more clear to the outside world. Why? The neutral rate is, by definition, the intercept in our reaction function, the level reached when all other disturbances have reverted to zero. If in communicating our reaction function we think it is important to explain the slope parameters in that function, I would argue it is at least, if not more, important to also communicate the intercept parameter.
+In this sense, communicating about the end point should not be understood as a promise or a commitment of any kind. And this non-commitment should be easily and clearly conveyed. For example, it seems to me to be well understood by the outside world that the Fed’s dots, and in particular the long-run dots, are not a promise.
+Rather I think communicating about the end point is about revealing beliefs to the public that we all already hold anyway, at least implicitly, and which enter into our collective reaction function. What do I mean by implicit? For example, take our standard forecast for inflation and the output gap. To produce that forecast, a policy rule in a dynamic model maps the level of rates
+minus neutral
+into restrictiveness. If one adopts that forecast, one is implicitly adopting its choice of neutral. Of course, any given individual may not agree with that parameter, nor many other parameters, but this is just to say we can’t avoid the presence of neutral and the role it plays. We can only decide whether to employ it in this kind of implicit way, where the parameter is embedded deep inside a model or be very explicit and transparent about discussing it, the route that I personally favour.
+Naturally, since neutral is an unobservable, talking about neutral is to express a belief. And, as with most of our other communications, these beliefs can be wrong. I would argue, in fact, that they are ex post almost certainly going to be wrong most of the time. I have said before that, just as in cricket you expect to get out sooner or later, so in monetary policy you should expect to make an incorrect prediction. That should not mean that we stay in the pavilion, or only venture out in defensive mode. We should share our beliefs and be scrutinised for them, a test that we should be able to face.
+Can r* predict future interest rates?
+However, this raises another question. Even if we were to talk about neutral, would we actually have anything useful to say? As I just said, all forecasts have an error, but the empirical question is how big? And relative to what alternative? Would we add any information, and on the margin would the signal outweigh the noise?
+Our expressed beliefs can only be as credible as the method that underpins them. What methods are available? I will highlight three approaches in use.
+One method is
+analysing
+(using models and data to gather evidence); another is the method of
+outsourcing
+(for example, looking at the market curve or survey expectations to gauge other people’s assessment of neutral). Or there is the method of
+feeling
+our way to neutral (a view that we will know neutral when we see it).
+An objection to feeling our way, by trial and error, or by hiking or cutting until something breaks, is that the ensuing mistakes from under or overshooting, or from instability or other risks, could be costly. Put another way, you will only get feedback on having missed neutral once transmission is completed, which is always with a lag, and when you find yourself with a deviation from the desired target.
+An objection to outsourcing to the market is that the market can also be wrong. Often. It can spend the better part of a decade being wrong, as we saw in the 2010s.
+Chart 1
+shows the evolution of short-term interest rates in the UK and the US over the past 20 years alongside their respective market curves.
+Chart 1: UK
+(a)
+and US
+(b)
+short-term rates and instantaneous forward curves
+Percent
+Footnotes
+Sources: Bloomberg Finance L.P. and Bank calculations. Latest observation: May 2025.
+We see how it took several years for financial markets to realise that short rates would stay low, ostensibly because had fallen in the wake of the financial crisis. Yield curves were unusually steep during that time even as central banks around the world deployed unconventional tools like forward guidance and QE to flatten them.
+It is ironic that when markets were finally convinced of lower-for-longer in the UK, it was on the eve of the largest inflationary shock in a generation which caused central banks to raise rates rapidly in response. It may also be ironic that given all these misses, we at the Bank continue to rely on the market curve as a basis for our forecast.
+In my view, however, the recent unanticipated rise in rates was mostly due to the unusual combination of shocks and their severity, and not because the drivers behind the lower neutral rate suddenly went away. All of the structural issues of the post-GFC period—ageing societies, low productivity growth, and a global hunger for safe assets—are still around. Neutral rates remain under long-term secular pressures, but that is a much larger topic beyond the scope of this panel and one that I will discuss another day.
+The point for today’s discussion is that the link between these slow-moving structural drivers and neutral rates is not directly observable, so one needs models that embed at least some of these mechanisms. Thus, my preference is for the first option, above, the use of analysis.
+Now, a frequently stated objection to model-based end point communications is that the models that we have of neutral interest rates are simply too imprecise, and not good enough to be a guide in real time. That they are, if at all, useful for ex-post analysis of how we got here, not where we’re going and that, therefore, we must resort to other methods.
+Let me gently push back on that idea. In the note which will be published alongside these remarks, I show, together with Bank of England co-authors, how model-based estimates of neutral interest rates have actually been better at predicting future short rates than the bond market on average over recent decades. We carefully design an out-of-sample forecasting experiment in which we simulate the information set of a forecaster tasked with predicting the path of future policy rates given only a model-based measure of nominal neutral.
+Our setup is deliberately simple. One could of course do a great specification search but that will entail the risk of over-fitting the past and thereby worsening the true out-of-sample performance of the exercise. Instead, we take the model’s equilibrium real rate and its inflation trend and recursively estimate a time-varying intercept.
+footnote
+[6]
+We find that this intercept is important to capture the time-varying term premium that is likely embedded in our estimate of the neutral rate which is taken from a macro-finance term structure model using unadjusted government bond yields (
+Davis et al., 2024
+).
+We then compare the predictions of that forecaster’s analysis method with the bond market’s implied instantaneous forward at the three-year horizon, that is, the outsourcing method. But we can go even simpler. A possible rule-of-thumb forecast of future policy rates using these trends is simply , fixing the term premium exogenously. We can even obtain a surprisingly competitive forecast for much of the past decades just using this simple fixed-parameter model. And this finding holds both in the United Kingdom and the United States.
+To give a brief sense of these results, let me overlay the predictions from the experiment of Bank Rate three years out (
+Chart 2
+). The aqua line shows the proper recursive out-of-sample forecast, the orange line the rule-of-thumb forecast with fixed parameters. We see that, because the underlying measure of neutral depends on the entire term structure of bond yields and both nominal and real macroeconomic trends, it is able to react to turning points while still retaining smoothness.
+Chart 2: UK
+(a)
+and US
+(b)
+short-term rates and forecasts using neutral rates
+Percent
+Footnotes
+Sources: Bloomberg Finance L.P. and Bank calculations. Notes: The charts show the recursive predictions of the policy rate in three years’ time using the one-sided nominal neutral rate following
+Davis et al. (2024)
+as well as the respective rule-of-thumb fixed parameter forecasts. Latest observation: May 2025.
+The main evaluation of this exercise is shown in
+Chart 3
+. It uses the fluctuation test of
+Giacomini & Rossi (2010)
+to show for both countries a measure of out-performance of the model-based forecast of short rates three years ahead (which is why the chart ends in 2022). The test is relative to the instantaneous market forward at that horizon. When the colourful lines are above zero, this means that the model-based neutral rate was a better predictor of future interest rates than the outsourcing solution. Over the past decades, this has been the case more often than not.
+footnote
+[7]
+I hope this will assuage some of the fears that model-based estimates of are fundamentally deficient or too imprecise to be a guide in real time. They are no worse than the bond market and often better at predicting future short rates. The point is that we often seem relaxed about using the forward curve to infer the end point or in constructs such as the real rate gap, but the curve on its own seems to have less information than the models.
+Chart 3: Giacomini-Rossi fluctuation test versus 3y instantaneous forward
+Normalised relative forecast loss for UK
+(a)
+and US
+(b)
+Footnotes
+Sources: Bloomberg Finance L.P. and Bank calculations. Notes: The charts show the fluctuation test statistic of
+Giacomini & Rossi (2010)
+evaluating the forecast errors of the recursive and fixed parameter forecasts for both countries relative to forecast errors made by the respective instantaneous forward at the 3-year horizon. Latest observation: May 2025.
+Examples of end point communications
+To sum up, even if wrong some of the time, the models are often less wrong than the market, and thus they add value.
+For that reason, I would argue that model-based estimates of the neutral rate in the economy can be useful for coordinating actions and plans of economic agents in the economy in line with a common baseline. In my personal view, the key is to publish these neutral rates regularly, consistently, and transparently in our Monetary Policy Statements.
+But then, how? In reality, end-point communication can take many forms, but the most famous implementation is probably the Fed’s long-run dot plot.
+Neither the distribution of long-run dots, nor a swathe, nor some trimmed ‘central tendency’, as has recently been put forward,
+footnote
+[8]
+yield a perfect measure of the neutral nominal rate. But they all allow the public to gain at least some inference about what FOMC members think. It also allows inference about the FOMC’s assessment of the stance of monetary policy today, say, by taking the difference between the median dot and the current Fed Funds Rate.
+I think it can be hugely valuable to have a well understood tool for communicating the degree of stimulus or restrictiveness, especially in times of large and persistent shocks like the ones we have today. And without a view of the neutral rate, one cannot really have a view of restrictiveness. When we measure restrictiveness or stance, as, say, policy rate minus neutral, research shows that stance matters not only for monetary policy objectives but also for financial stability objectives (
+Grimm et al., 2023
+).
+Historically, the Monetary Policy Committee has used a different and more round-about approach to communicating stance: the forecast. By taking the market curve for interest rates as given and producing a conditional projection of output and inflation, the forecast let agents in the economy infer whether the MPC as a whole believed the market path to be too tight or too loose in order to hit the inflation target sustainably in the medium term. Because the forecast was produced in a way to reflect the so-called ‘best collective judgement’ of the committee, it was itself a communications device.
+But this is a very non-transparent and circuitous way of communicating, bound to be less effective than saying outright what we may consider to be neutral. And, in any case, the role of the forecast in the MPC’s communications offering is about to change fundamentally.
+As Governor Bailey and Deputy Governor Lombardelli have said in recent speeches, we are moving away from the forecast as the whole MPC’s ‘best collective judgement’ and towards one that a majority agrees is reasonable.
+footnote
+[9]
+I would welcome if, as part of this journey, we will de-emphasize the central projection in our deliberations and our communications where the forecast production can be more staff led. I have long thought that a macroeconomic forecast is best when it is allowed to be just that, a macroeconomic forecast and not a policy tool itself.
+Conclusion
+Finally, this of course raises the question of what comes after. If the forecast becomes more of an input and ceases to be the primary communications tool for the MPC, but the MPC still desires to communicate about its intended or expected path for policy, or wants to provide an anchor for longer-term interest rate expectations, it will need to be replaced by something else to fill the gap.
+I believe the MPC would be well-served by finding a vehicle for communicating its beliefs about future interest rates. This need not be a single preferred policy path as it is for the
+Riksbank
+. In our one-member-one-vote framework this might neither be appropriate nor feasible. It need not even be a Fed-style dot plot where each member produces a path. There are many potential ways to convey the estimates of the long-run neutral rate as judged by the various members.
+Again, the key would be to do it regularly, consistently, and transparently. And in the interest of consistency and transparency I want to leave you with an update of my illustrative rate paths, including end points, which I showed in
+my first speech as a member of the MPC
+(
+Chart 4
+). I note that compared to the cases I laid out in January, the actual Bank Rate profile in the year to date has been consistent with the path for what we then termed Case 2.
+Chart 4: Illustrative paths for Bank Rate
+Percent
+Footnotes
+Notes: These illustrative paths for Bank Rate, from
+Taylor (2025)
+, are my interpretation of the three cases used by the MPC, as set out in
+Box A of the November 2024 MPR
+.
+More interesting at this juncture, is where I think we are now on the path and where we are likely to go next.
+In May I voted to cut Bank Rate by 50 basis points, and in June I voted to reduce it further by another 25 basis points. On both occasions, the majority of the committee preferred a shallower path of interest rate cuts. But after some shocks and noise clouded my view of the economy and global developments in the first quarter, my reading of the deteriorating outlook suggested to me that we needed to be on a lower rate path, needing five cuts in 2025 rather than the market-implied quarterly pace of four.
+Previously, I had seen a UK soft landing in the cards, with some remaining upside risks to inflation from the bump in 2025. Now I see that soft landing as being at risk, and greater probability of a downside scenario in 2026 pushing us off track, as demand weakness and trade disruptions build. Shocks from energy prices remain a big unknown, but they are not the only factor in play, and aside from domestic administered prices and taxes which fade out in the new year, the underlying demand-supply balance is quickly shifting as slack opens up.
+Beyond that, and using the model I described above, I estimate the UK neutral real rate to be about 0.75 to 1 percent, putting the neutral nominal rate at around 2.75 to 3 percent, which sits somewhere above the euro area’s neutral rate and close to the United States’ neutral rate.
+Getting there, under our baseline scenario without further shocks, would take more time and a continued removal of restrictiveness in 2026 and 2027 as the economy returns to long-run real and nominal equilibrium.
+However, as always, a lot can happen between now and then.
+The views expressed in this speech are not necessarily those of the Bank of England or the Monetary Policy Committee.
+Acknowledgements
+Thanks to Lennart Brandt and Vitor Dotta for help preparing this speech, and to Andrew Bailey, Jamie Bell, Sarah Breeden, Natalie Burr, Alan Castle, Shiv Chowla, Mike Goldby, Christoph Herler, Neha Jain, Clare Lombardelli, Michael McMahon, Arif Merali, Matthew Naylor, Andrea Rosen, Vicky Saporta, Martin Seneca, Sam Smith, and Eric Tong for helpful comments.
+The Bank and the Monetary Policy Committee have, in the past, expressed views about the level of the long-run neutral rate (
+Box 6 of the August 2018 Inflation Report
+), its changes (
+Box A of the February 2025 Monetary Policy Report
+), or its distance to expected policy rates (
+Box C of the February 2024 Monetary Policy Report
+).
+See, for example,
+Woodford (2005)
+: “It is important for the public to understand the central bank’s actions, to the greatest extent possible, not only for reasons of democratic legitimacy […] but also in order for monetary policy to be most effective. For not only do expectations about policy matter, but, at least under current conditions, very little
+else
+matters.”
+See
+Busetto et al. (2022)
+for an account of the effects and transmission channels of Quantitative Easing in the UK. See
+Rostagno et al. (2021)
+and
+Rostagno et al. (2025)
+for the ECB’s experience how different unconventional policy tools interact in easing financial and monetary conditions when short-term rates are constrained.
+Also, in my view, forward guidance always carries some sort of commitment, even if to varying degrees.
+Two caveats: First, in practice this must be adjusted to apply at zero maturity, to exclude term premia that may be embedded in empirical measures of r*. Second, the Wicksellian concept is an equilibrium concept, and allows no scope for distinctions between so-called ‘short-run’ and ‘long-run’ r*.
+In order to rule out that future data may contaminate our estimates and invalidate the experiment we produce fully backward-looking estimates of and .
+We show in the note that this also holds for the
+Holston-Laubach-Williams (2017)
+estimate of the neutral rate in the US.
+See
+The Wall Street Journal, 18 June 2025, ‘The Fed’s Dot-Plot Predicament: False Precision in Uncertain Times'
+.
+There is a lot more in these two speeches but for the sake of the argument I have selected two complementary quotes to summarise. From
+Bailey (2025)
+: “We will maintain a baseline projection, based on a staff proposal, one that a majority of the MPC agrees is a reasonable baseline, rather than one that meets an elusive notion of the MPC’s ‘best collective judgement’.” And from
+Lombardelli (2025)
+: “In moving away from a best collective judgement forecast, we are recognising there is no single view of the central outlook across the Committee and creating more space for individual policymakers to debate different views before finalising their policy judgements.”
+There is a lot more in these two speeches but for the sake of the argument I have selected two complementary quotes to summarise. From
+Bailey (2025)
+: “We will maintain a baseline projection, based on a staff proposal, one that a majority of the MPC agrees is a reasonable baseline, rather than one that meets an elusive notion of the MPC’s ‘best collective judgement’.” And from
+Lombardelli (2025)
+: “In moving away from a best collective judgement forecast, we are recognising there is no single view of the central outlook across the Committee and creating more space for individual policymakers to debate different views before finalising their policy judgements.”
+Close
+See
+The Wall Street Journal, 18 June 2025, ‘The Fed’s Dot-Plot Predicament: False Precision in Uncertain Times'
+.
+Close
+We show in the note that this also holds for the
+Holston-Laubach-Williams (2017)
+estimate of the neutral rate in the US.
+Close
+In order to rule out that future data may contaminate our estimates and invalidate the experiment we produce fully backward-looking estimates of and .
+Close
+Two caveats: First, in practice this must be adjusted to apply at zero maturity, to exclude term premia that may be embedded in empirical measures of r*. Second, the Wicksellian concept is an equilibrium concept, and allows no scope for distinctions between so-called ‘short-run’ and ‘long-run’ r*.
+Close
+Also, in my view, forward guidance always carries some sort of commitment, even if to varying degrees.
+Close
+See
+Busetto et al. (2022)
+for an account of the effects and transmission channels of Quantitative Easing in the UK. See
+Rostagno et al. (2021)
+and
+Rostagno et al. (2025)
+for the ECB’s experience how different unconventional policy tools interact in easing financial and monetary conditions when short-term rates are constrained.
+Close
+See, for example,
+Woodford (2005)
+: “It is important for the public to understand the central bank’s actions, to the greatest extent possible, not only for reasons of democratic legitimacy […] but also in order for monetary policy to be most effective. For not only do expectations about policy matter, but, at least under current conditions, very little
+else
+matters.”
+Close
+The Bank and the Monetary Policy Committee have, in the past, expressed views about the level of the long-run neutral rate (
+Box 6 of the August 2018 Inflation Report
+), its changes (
+Box A of the February 2025 Monetary Policy Report
+), or its distance to expected policy rates (
+Box C of the February 2024 Monetary Policy Report
+).
+Close
+Unexpected curves − appendix to accompany remarks by Alan Taylor
+Convert this page to PDF
+Professor Alan Taylor
+External member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Strengthening economies in a stormy and fragmenting world",
+  "date_original": "2025-06-19",
+  "date_au": "19/06/2025",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250619~1cd73165da.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-06-19 - Christine Lagarde - Strengthening economies in a stormy and fragmenting world.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-06-19 - Christine Lagarde - Strengthening economies in a stormy and fragmenting world.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a768bbfbbae8da127b30e7ee2e9eaaf923babce1cea3e5564b9f425681f69ea8"
+}

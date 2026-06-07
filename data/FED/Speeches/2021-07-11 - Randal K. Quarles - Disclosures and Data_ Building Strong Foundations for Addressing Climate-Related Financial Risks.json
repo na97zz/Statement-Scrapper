@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Disclosures and Data: Building Strong Foundations for Addressing Climate-Related Financial Risks",
+  "date_original": "2021-07-11",
+  "date_au": "11/07/2021",
+  "datetime_original": "",
+  "speaker": "Randal K. Quarles",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20210711a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-07-11 - Randal K. Quarles - Disclosures and Data_ Building Strong Foundations for Addressing Climate-Related Financial Risks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-07-11 - Randal K. Quarles - Disclosures and Data_ Building Strong Foundations for Addressing Climate-Related Financial Risks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d5767e4d12b4b2e42b1189305e2ceb92bfd5fc7fc8cb3e7f7d7ad4c2763496ef"
+}

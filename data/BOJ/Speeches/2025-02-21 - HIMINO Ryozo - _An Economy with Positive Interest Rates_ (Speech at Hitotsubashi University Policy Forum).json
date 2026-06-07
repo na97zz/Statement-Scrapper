@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"An Economy with Positive Interest Rates\" (Speech at Hitotsubashi University Policy Forum)",
+  "date_original": "2025-02-21",
+  "date_au": "21/02/2025",
+  "datetime_original": "",
+  "speaker": "HIMINO Ryozo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250221a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-02-21 - HIMINO Ryozo - _An Economy with Positive Interest Rates_ (Speech at Hitotsubashi University Policy Forum).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-02-21 - HIMINO Ryozo - _An Economy with Positive Interest Rates_ (Speech at Hitotsubashi University Policy Forum).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4794c74c9b626aad420e330f1527b47891e28070a411854087fa670a0d0e5383"
+}

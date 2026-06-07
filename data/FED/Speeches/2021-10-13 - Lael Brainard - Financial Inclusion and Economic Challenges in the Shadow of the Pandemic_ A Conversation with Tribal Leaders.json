@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Inclusion and Economic Challenges in the Shadow of the Pandemic: A Conversation with Tribal Leaders",
+  "date_original": "2021-10-13",
+  "date_au": "13/10/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20211013a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-10-13 - Lael Brainard - Financial Inclusion and Economic Challenges in the Shadow of the Pandemic_ A Conversation with Tribal Leaders.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-10-13 - Lael Brainard - Financial Inclusion and Economic Challenges in the Shadow of the Pandemic_ A Conversation with Tribal Leaders.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1e558b3728ecd1b4ed36db30e66655fc4d4438d933411a05926ef8a4feb4d0b5"
+}

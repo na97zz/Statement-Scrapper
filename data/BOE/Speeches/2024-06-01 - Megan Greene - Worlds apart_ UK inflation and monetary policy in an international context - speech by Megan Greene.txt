@@ -1,0 +1,277 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Worlds apart? UK inflation and monetary policy in an international context - speech by Megan Greene
+DATE: 01/06/2024
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/february/megan-greene-fireside-chat-with-brian-coulton-chief-economist-fitch-ratings
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Worlds apart? UK inflation and monetary policy in an international context - speech by Megan Greene
+Given at Fitch HQ, London
+Published on 
+
+ 15 February 2024
+Megan Greene looks at the UK in an international context, focusing on how the drivers of inflation differ between the UK and US. She highlights evidence of greater inflation persistence in the UK and discusses how this impacts her policy stance.
+Speech
+Introduction
+I’m delighted to be at Fitch, where a lot of my former colleagues have migrated to work over the years. I’ll keep my initial remarks relatively short to save time for a fireside chat and then, most importantly, your questions.
+My speech today sets out the UK economy in an international context. I am going to focus primarily on how the drivers of inflation compare and contrast in the UK and US and how this impacts my policy stance as a member of the Monetary Policy Committee at the Bank of England.
+If you knew nothing about the UK or US economies and looked at the market-implied path for interest rates in each—shown in
+Chart 1
+—you might conclude these economies are performing fairly similarly and so is inflation. I aim to push back against this notion.
+Chart 1: Market implied pricing for policy rates
+Forward OIS curves
+Footnotes
+Source: Bloomberg Finance L.P. and author’s calculations.Notes: Latest data to 14 February 2024. UK curve adjusted for the SONIA-Bank Rate wedge.
+I’ll start by looking at the supply and demand sides of both economies to show there are stark differences, but there is a netting effect in terms of the impact on inflation. I will then examine signs of inflation persistence to argue that UK inflation is stickier than that in the US and this may not be reflected in the market pricing of rate paths.
+How has inflation evolved across different jurisdictions?
+Much of the impetus for inflation in recent years has been global in nature. But there have been key differences in the magnitude and timing of these shocks across regions. In the UK, US and euro area (EA), the initial surge in inflation was driven by the emergence of global supply bottlenecks as a result of the pandemic, which predominantly affected core goods inflation. Government stimulus measures then served to stoke demand, especially in the US where fiscal measures were particularly generous as a percentage of GDP (
+Shapiro, 2022
+). This was followed by Russia’s invasion of Ukraine in February 2022, which materially pushed up global energy and food prices. As net energy importers, the UK and EA saw inflation severely affected by this terms of trade shock (
+Dhingra, 2023
+), while the US was much less affected. At its peak in August 2022, the wholesale price of gas in Europe was the equivalent of nearly USD$600 for a barrel of oil, almost 10 times higher than in the US (
+Broadbent, 2023
+)
+footnote
+[1]
+.
+These effects are shown in
+Chart 2
+, which is a decomposition of inflation by components across all three regions. Services inflation accounted for about half of overall inflation in the US at its peak. It is clear that this was not the case for the UK or EA, where energy, food and core goods inflation played a much larger role.
+Chart 2: Contribution to headline inflation
+Per cent change on a year ago
+Footnotes
+Source: Bureau of Economic Analysis, Eurostat, LSEG, ONS and authors’ calculations.Notes: Energy includes fuel and household energy bills. Food includes alcohol and tobacco. Core goods is the difference between overall inflation and the other contributions identified on the chart. Latest data to January 2024 for UK CPI, US CPI and EA HICP (flash estimate), December 2023 for US PCE and contributions to EA HICP.
+As global supply constraints and the terms of trade shock have unwound, so too has headline inflation. But this hasn’t evolved the same way across regions either. In the US, where prices rose earliest, inflation also peaked and came off sooner.
+Inflation remains above target in all three areas largely because of the persistence of services inflation. However, the issue may be of greater concern in the UK. Although recent inflation data has surprised to the downside, UK services inflation is still around 2 percentage points higher than the US and EA, as you can see in Chart 3.
+Chart 3: Services inflation
+Per cent change on a year ago
+Footnotes
+Source: Bureau of Economic Analysis, Eurostat, LSEG, ONS and authors’ calculationsNotes: US PCE services inflation measure excludes energy services to improve comparability to euro-area and UK data. Latest data to January 2024 for UK and EA (flash estimate), December 2023 for US.
+We will return to this issue towards the end of my speech. To gain a richer understanding of inflation dynamics across advanced economies, we need to consider the supply and demand sides of these economies.
+How does UK supply compare to peers?
+One notable way the UK economy differs from that of the US is the supply side is much more constrained. The supply picture determines how strong growth can be before it’s inflationary. It is measured by potential growth, or the rate of economic growth consistent with stable inflation. Potential growth is unobservable, and so estimating it involves some uncertainty. The MPC has recently concluded its annual supply stocktake, estimating UK potential growth of around 1% this year, rising to 1.3% in 2026. In contrast, the Congressional Budget Office (CBO) estimates US potential supply growth of 2.2% over the outlook period.
+As Chart 4 shows, the UK has long lagged behind the US on this metric, but the gap has widened significantly since the pandemic. Over the forecast period, the UK looks more similar to the EA than the US.
+Chart 4: Potential GDP growth
+Average annual growth rates, selected periods
+Footnotes
+Source: Bank of England, Congressional Budget Office, European Commission and author’s calculationsNotes: Model based estimates and projections of potential GDP growth. UK estimates obtained from the
+February 2024 MPR
+. US estimates obtained from
+The Budget and Economic Outlook: 2024 to 2034
+(published February 2024). EA estimates obtained from the European Commission
+Autumn 2023 Economic Forecast
+, projections only to 2025.
+We can split potential output into two components: potential productivity and potential labour supply.
+Much has been written about the UK’s “productivity puzzle” and its unfavourable gap with international peers
+footnote
+[2]
+. As Chart 5 illustrates, UK potential productivity growth (the orange bars) averaged 0.6% from 2010-19, well below the average of 1.8% in the decade prior to the GFC. We expect potential productivity to remain subdued over the outlook period. US productivity growth also moderated after the GFC, but is much stronger than that in the UK. There was a productivity boom late last year, with realised US productivity growth reaching 3.2% in Q4. CBO estimates expect potential productivity growth to ease from there but to remain well above that of the UK over the MPC’s forecast period.
+Chart 5: Decomposition UK and US potential growth
+Average annual growth, selected periods
+Footnotes
+Source: Bank of England, Congressional Budget Office and author’s calculationsNotes: Model based estimates and projections of potential GDP growth (supply) and components. Labour supply defined as the trend number of employees. Productivity growth is the difference between potential GDP growth and labour supply growth.
+One way to boost productivity growth is through investment. The UK has seen roughly flat business investment between 2016—when the Brexit referendum was held—and 2020
+footnote
+[3]
+, though it has grown moderately since the pandemic.
+footnote
+[4]
+FDI flows into the UK dropped from a peak of 9.6% of GDP in 2016 to -2.3% in 2021 (
+Ward, 2023
+)
+footnote
+[5]
+. The stark difference in investment growth between the UK and other advanced economies since the Brexit referendum—shown in Chart 6—strongly suggests this is one piece of the productivity puzzle. The MPC has judged that Brexit will lower productivity by around 3¼% in the long run, which is in line with firm-level evidence from the Decision Maker Panel (DMP) survey
+footnote
+[6]
+.
+Looking ahead, the DMP survey suggests investment intentions in the UK are flat in the short-term. The MPC’s latest forecast estimates a fall in business investment this year, stagnation in 2025 and growth of 3¾% in 2026. In contrast, the US has led most other advanced economies in business investment since 2016 and considerably outperformed the UK. US business investment also saw a smaller fall during Covid relative to peers.
+Chart 6: Real G7 business investment
+Levels indexed to 2016
+Footnotes
+Source: ONS, Destatis, OECD, Eurostat, Bureau of Economic Analysis, Statistics Canada, Japan Cabinet Office, istat. Update of Figure 3 from
+Haskel and Martin (2023)
+with thanks to Josh Martin.Notes: Published ONS estimates for the UK. Similar readily available estimates available for the US, Germany, Canada and Japan. Estimates for France and Italy constructed by removing housing and government investment from total. Latest data: 2023Q4 for US and France; 2023Q3 for other regions.
+Now let’s turn to the other determinant of potential growth—labour supply
+footnote
+[7]
+. Here the difference between the UK and US is also stark. One of the main components of labour supply is participation. The impact of Covid on the UK and US participation rates differed significantly, as shown in Chart 7. Because of population ageing, the trend participation rate in the UK and US (orange line) was expected to remain lower than pre-pandemic levels.
+Chart 7: UK and US labour participation
+Per cent of total 16+ population
+Footnotes
+Source: Bureau of Economic Analysis, LSEG, ONS and author’s calculationsNotes: Three-month moving average of labour force participation rate. Trend estimates denote the impact of demographic changes since 2019Q4 on the actual participation rate, accounting for changing shares of population between age groups, and changes in participation rates within age groups. Latest data to December 2023 for UK, January 2024 for US.
+When the pandemic hit, there was a concerted effort in the UK to maintain a connection between employers and employees through the furlough scheme, and the participation rate fell much more moderately than in the US. Much of the fall in the UK was driven by older people leaving the workforce. Overall participation in the UK has not recovered to the pre-pandemic trend, held back by those aged 50-69 not returning to the workforce and by long-term sickness. Looking forward, the ONS has recently revised up its central assumption about long-term net migration, adding to the upside potential for labour supply in the long-term.
+While participation in the US fell sharply at the onset of the pandemic, it has recovered faster and—unlike in the UK—is now above the pre-Covid trend. This has in part been led by working-aged women (
+Bauer and Wang, 2023
+) and workers with disabilities, who have seen their participation rates rising to record highs. This may be due to increased flexible working post-Covid. The CBO’s latest forecasts for potential labour supply are driven by an expected increase in prime age workers over the next 10 years due to higher net migration.
+In summary, the UK supply side of the economy is significantly more constrained than in the US. This is driven primarily by lower productivity growth in the UK, owing partly to weak business investment, and lower potential labour supply thanks to lower participation following the pandemic. The UK therefore has a lower threshold before increases in demand are inflationary. All else equal, the UK should be facing significantly more inflationary pressures than the US.
+How has demand evolved?
+But not all else is equal. Just as the supply side of the economy in the UK is more constrained than in the US, so is the demand side. The supply and demand pictures aren’t entirely independent. According to Say’s Law, the income generated by the sale of goods and services already produced provides the source of consumption for current production. Weaker supply in the UK feeds into weaker demand, which offsets some of the inflationary impulse the UK might otherwise experience.
+GDP in the UK recovered to pre-pandemic levels only in the last quarter of 2021, later than in the US (first quarter of 2021) and the EA (third quarter of 2021). And the improvement in UK output since then has been the most sluggish of the 3 jurisdictions. This is shown in Chart 8.
+Chart 8: Real GDP
+Levels indexed to 2019 Q4
+Footnotes
+Source: Bank of England, Bureau of Economic Analysis, Eurostat, FRED, ONS and author’s calculations.Notes: Latest data to 2023Q4 for US and EA, 2023Q3 for UK. Diamond denotes
+February 2024 MPR
+projection for UK GDP in Q4.
+In our February forecast, the MPC estimated UK GDP growth of ¼% in 2023 and 2024. This year, every component of expenditure is expected to contract with the exception of net trade (forecast to be flat) and government consumption (forecast to rise). GDP growth is expected to increase to only 1½% by the end of the forecast period.
+Weak demand is not a surprise, in part thanks to the MPC’s restrictive policy stance. Higher mortgage rates are weighing on UK consumption and residential investment despite recent real income growth. Policy tightening has also dragged on business investment.
+The US stands apart from other developed economies, with GDP growth surprisingly strong through 2023 despite an aggressive tightening in monetary policy. A range of factors have been contributing to a broad-based US outperformance across expenditure components of GDP.
+US consumption has been particularly robust, rising around 10% higher than pre-Covid levels by mid-2023. This is shown by the teal line in Chart 9, a chart decomposing real consumption across the UK, US and EA. UK consumption, in contrast, has still not risen to pre-pandemic levels. This is largely because of the behaviour of savers. Households accumulated savings in all 3 regions during the pandemic, shown by the negative purple bars in 2020. The purple bars shrunk across the UK, US and EU over 2021 but only became significantly positive in the US. This means US households supported consumption by running down savings to a much greater degree than in the UK and EA (
+Klitgaard
+and Higgins, 2023
+).
+US real incomes—the orange bars in Chart 9—have also contributed more strongly to consumption, partly reflecting more generous fiscal support and a more limited terms of trade shock. Say’s Law may also be at play here: stronger US potential GDP growth supports real income growth, which in turn boosts consumer demand.
+Chart 9: Contribution of real income and savings to consumption
+Per cent change since 2019Q4
+Footnotes
+Source: Bureau of Economic Analysis, Eurostat, LSEG, ONS and author’s calculationsNotes: Real income denotes nominal household income deflated by consumption deflator. Savings given by the difference between change in real consumption and difference in real income. Latest data: 2023Q3 for UK and EA; 2023Q4 for US.
+Government spending and business investment have also contributed to the relative outperformance of US demand. Chart 10 shows that the US cyclically adjusted primary deficit as a percentage of GDP is much larger than those in the UK and EA. The Inflation Reduction Act, CHIPS and Science Act and Infrastructure Investment and Jobs Act have boosted public and private investment in green technologies, semiconductors and other strategic sectors (
+US Treasury, 2023
+). While many of these measures may boost potential supply in due course, the impact on demand will be felt more immediately. Recent strong productivity growth in the US has resulted in strong returns on capital, and so may be encouraging investment as well.
+Chart 10: Cyclically adjusted primary balance
+Per cent of potential GDP
+Footnotes
+Source: IMF Fiscal Monitor (October 2023)Notes: Cyclically adjusted balance excluding net interest payment (interest expenditure minus interest revenue).
+To summarise, shocks from Brexit and the pandemic have left the supply side of the UK economy much more constrained than in the US. But UK demand is weaker too, mitigating the implications of constrained supply on inflation. To determine the evolution of inflation in the UK vs the US, we must turn to signs of inflation persistence.
+What are the signs of inflation persistence?
+Inflation in the UK remains further above target than in the US and EA. My concern is this is because second-round effects are having a larger and more persistent impact in the UK.
+Recall that recent shocks have been global in nature but have not reverberated across economies uniformly. The impact of the Ukrainian war on energy costs was far bigger in the UK than in the US or EA. Given the lagged way in which retail utility bills were calculated in the UK (
+Chart 11
+), this impact has also been more drawn out (
+Broadbent, 2023
+).
+Chart 11: Electricity and gas consumer prices
+Indexed to December 2019
+Footnotes
+Source: Bureau of Economic Analysis, Eurostat, LSEG, ONS and authors’ calculationsNotes: Price of household energy utilities in UK’s CPI, Euro area’s HICP and US’s PCE. Latest data to January 2024 for UK, December 2023 for US and EA.
+This means that even as global shocks subside, second-round effects in the UK may take longer to abate. Second-round effects have been a factor in the US too, owing to wage catch up, or workers’ desire to recoup their spending power that has been eroded by high inflation (
+Bernanke and Blanchard, 2023
+). But the relative magnitude of shocks faced by the two economies suggest these effects have been more substantial in the UK.
+My colleague Catherine Mann has argued that inflation expectations in the UK may be more backwards-looking following the energy price spike, which amplifies the second-round effects as firms and households are more sensitive to the initial shock (
+Mann, 2023
+). Inflation expectations are a significant component of wage growth in the UK, so higher inflation expectations have translated into higher pay growth.
+This sticky wage growth is a significant component of services inflation. Chart 12 shows model-based estimates of the impact of pay growth (orange bars) and intermediate input costs (purple bars) on services inflation across jurisdictions. The model highlights that intermediate input costs have played a significant role in pushing up services inflation
+footnote
+[8]
+. These pressures are now easing as the terms of trade shock has subsided, supporting some moderation in overall services inflation, concentrated in more energy-intensive components (
+Greene, 2023
+).
+Chart 12: Contributions to services inflation
+Per cent change on a year ago
+Footnotes
+Source: Bureau of Economic Analysis, Bureau of Labour Statistics, Eurostat, LSEG, ONS and author’s calculations.Notes: Estimated contributions to services inflation, based on ARDL regression of services inflation on a metric of pay growth, manufacturing PPI inflation (to proxy for intermediate input costs). US PCE services inflation measure includes energy services, for improved model fit. Other includes constant, taxes, dummy variables and model residual. Latest data to 2023 Q4.
+But the contribution of pay growth to services inflation remains elevated across all three regions. Pay growth needs to slow further to see services inflation return sustainably to target-consistent levels. This “last mile” may prove the hardest (
+Schnabel, 2024
+).
+When it comes to pay growth, the UK stands out. There are several different metrics for wage growth across the different regions, shown in Chart 13, making it difficult to compare apples to apples. But they give us a good sense of the general pattern. Wage growth has fallen back from peaks in all three regions but remains between 6-7% in the UK, compared with around 4-5.5% in the US and EA.
+Chart 13: Wage growth metrics
+Per cent change on a year ago
+Footnotes
+Source: Bureau of Economic Analysis, Bureau of Labour Statistics, DMP Survey, ECB, Eurostat, Indeed Hiring Lab, LSEG, ONS and author’s calculations.Notes: Range of different estimates of pay growth. Latest data are to 2023Q3 (US ECI, EA compensation per employee, negotiated wages); December 2023 (UK Private sector regular AWE, UK HMRC median, UK and EA Indeed wage tracker, US Atlanta Fed wage tracker); and January 2024 (UK DMP realised, US AHE all employees).
+Monetary policy implications
+To conclude, I’d like to set out what these developments imply for my views on UK monetary policy.
+Shocks from Brexit and the pandemic have left UK supply much weaker than in the US in recent years and over the outlook period. All else equal, this would mean inflationary pressures are greater in the UK. But UK demand has been weaker than in the US as well. To determine the relative inflationary pressures in the UK vs US, we therefore need to look at second-round effects and signs of inflation persistence.
+The UK has faced the double whammy of a terms of trade shock even larger and longer lasting than in the EU alongside a tight labour market like in the US. Inflation persistence is therefore a greater threat here. This is evident in some of the indicators the MPC has laid out as exhibiting signs of persistence—namely wage growth and services inflation, both of which are particularly elevated in the UK. This might not be reflected in the market-implied rate paths for the BoE and the Fed, given they are almost in line with one another over the forecast period.
+The similarity in rate paths may be partly caused by greater than usual co-movement in global financial conditions (
+Forbes and Chinn, 2004
+). There is evidence that recent moves in UK short rates have been increasingly driven by global news. Respondents to the Markets Participants Survey (
+MaPS
+) attributed over 50% of moves in UK short rates to global developments in December and February, up from around 30% previously as shown in Chart 14. But even considering this greater co-movement, there may be mispricing in the implied rate paths.
+Chart 14: Drivers of the UK 1y1y forward swap rate
+Mean weighting (%)
+Footnotes
+Source: Bank of England Market Participants’ SurveyNotes: Participants views about the contribution of different factors to moves in UK interest rates. From March 2023 the mean weighting for the MPC reaction function has been derived from a new sub-question breaking down UK specific drivers of the 1y1y rate.
+While I believe inflation persistence is a greater threat in the UK than the US, we have learned a bit about the former in recent months—enough to shift my vote in favour of maintaining Bank Rate at 5.25% in the most recent interest rate decision.
+The overall downside news in UK wage growth over the past few months has been significant. ONS estimates of pay growth came in much weaker than we’d expected in November. The gap between AWE private sector regular pay and other metrics – which I had viewed as a potential upside risk – has now narrowed significantly. Still, our Agents’ survey points to growth in pay settlements of 5.4% this year, higher than the MPC’s most recent forecast for wage growth and representing an upside risk.
+At the same time, almost all the various different metrics for UK core services inflation—stripping out the impact of energy—now have peaked and are beginning to soften. These are shown in Chart 15. There’s only one metric for core services inflation that is still flat: core services excluding energy-intensive sectors (
+Greene, 2023
+). This is also the most exclusive metric, covering 60% of the services basket.
+Chart 15: Estimates of UK core services inflation
+Per cent change on a year ago
+Footnotes
+Source: ONS and author’s calculations.Notes: Non energy-intensive services exclude: air, road, rail and water transportation; accommodation services; recreation and sport; postal services; restaurants, cafes and canteen services; repairs of household appliances; and package holidays; accounting for approximately 40% of total services. Latest data to January 2024.
+Non-labour costs have driven recent falls in UK services inflation. I expect labour costs to contribute going forward as well. The labour market has been slowly loosening, though there is some uncertainty about how much recently owing to the low response rate in the Labour Force Survey. Inflation expectations should continue to fall as headline inflation moderates. Our Agents report that 45% of firms expect they will be unable to pass on pay increases to prices this year. But there is a risk to this: more consumer services firms expect they will be able to pass on at least half their pay increases into higher prices than the average, which is likely to keep services inflation buoyant.
+Given recent developments in demand and inflation, it’s clear that monetary policy is restrictive in the UK. But in light of the persistence of UK wage and services price pressures, which stand out in international comparisons, I think policy will need to remain restrictive for some time in order for inflation to sustainably return to target. Recent signs of persistence starting to ease are encouraging, and I judge that current policy is sufficiently restrictive to bring inflation back to target in the medium-term. I would need to see further evidence that inflation persistence is less embedded than previously feared before I would consider voting to loosen policy.
+I am grateful to Waris Panjwani and Julian Reynolds for their help preparing this speech.
+Thanks also to Andrew Bailey, Ben Broadbent, Natalie Burr, Sarah Breeden, Alan Castle, Harvey Daniell, Robert Hills, Zaar Khan, Phil Lachowycz, David Latto, Catherine Mann, Josh Martin, James McConachie, Rob Patalano, Huw Pill, Jordan Piper, Dave Ramsden, Douglas Rendle, May Rostom, Fergal Shortall, Matt Tong, Jess Verlander, Carleton Webb, Teresa Wukovits-Votsi and Jess Verlander for their insightful contributions and comments.
+Sources: Bloomberg Finance L.P. and Bank calculations. US gas is Henry Hub natural gas. European gas is Dutch TTF natural gas.
+For instance, see
+Weale (2014)
+,
+Haldane (2017)
+and
+Haskel and Goodridge (2022)
+.
+One estimate from
+Haskel and Martin (2023)
+indicates that business investment was about 10% less than it would have been absent Brexit in 2022.
+Productivity growth nevertheless increased marginally between 2010-14 and 2015-19 for the UK, in part because there are lags between when investment occurs and when it appears in the productivity data.
+UK FDI stocks have been more robust than flows recently; the value of FDI stocks into the UK increased by £100 billion between 2020 and 2021, the latest available data. Measurements of the value of FDI are reliant on estimates based on incomplete information and are impacted by company valuations and exchange rate fluctuations. They are therefore highly uncertain.
+The DMP suggests that the Brexit process reduced UK productivity by between 2%and 5% over the three years after the referendum (
+Bloom et al, 2019
+).
+It is difficult to get clear steer on UK labour market quantities due to ongoing issues with the
+LFS survey response rates
+. Though the survey has been re-weighted to match more recent population data, as of data published on 13 February, it continues to suffer from low response rates and sample sizes, so ONS has advised caution in interpreting monthly moves and has encouraged users to consider the data alongside other labour market indicators. The ONS plans to transition towards the
+transformed Labour Force Survey (TLFS)
+later in the year, based on improved methods for collecting data.
+Intermediate input costs are proxied by producer price inflation. Producer prices are an imperfect measure of non-labour input costs as they will be driven in part by developments in manufacturers’ wages. But these make up a relatively small share of manufacturing costs, and increases in raw material prices far outweigh rises in manufacturers’ wages.
+Intermediate input costs are proxied by producer price inflation. Producer prices are an imperfect measure of non-labour input costs as they will be driven in part by developments in manufacturers’ wages. But these make up a relatively small share of manufacturing costs, and increases in raw material prices far outweigh rises in manufacturers’ wages.
+Close
+It is difficult to get clear steer on UK labour market quantities due to ongoing issues with the
+LFS survey response rates
+. Though the survey has been re-weighted to match more recent population data, as of data published on 13 February, it continues to suffer from low response rates and sample sizes, so ONS has advised caution in interpreting monthly moves and has encouraged users to consider the data alongside other labour market indicators. The ONS plans to transition towards the
+transformed Labour Force Survey (TLFS)
+later in the year, based on improved methods for collecting data.
+Close
+The DMP suggests that the Brexit process reduced UK productivity by between 2%and 5% over the three years after the referendum (
+Bloom et al, 2019
+).
+Close
+UK FDI stocks have been more robust than flows recently; the value of FDI stocks into the UK increased by £100 billion between 2020 and 2021, the latest available data. Measurements of the value of FDI are reliant on estimates based on incomplete information and are impacted by company valuations and exchange rate fluctuations. They are therefore highly uncertain.
+Close
+Productivity growth nevertheless increased marginally between 2010-14 and 2015-19 for the UK, in part because there are lags between when investment occurs and when it appears in the productivity data.
+Close
+One estimate from
+Haskel and Martin (2023)
+indicates that business investment was about 10% less than it would have been absent Brexit in 2022.
+Close
+For instance, see
+Weale (2014)
+,
+Haldane (2017)
+and
+Haskel and Goodridge (2022)
+.
+Close
+Sources: Bloomberg Finance L.P. and Bank calculations. US gas is Henry Hub natural gas. European gas is Dutch TTF natural gas.
+Close
+Transcript of Megan Greene's Q&A with Brian Coulton, Chief Economist at Fitch Ratings
+Convert this page to PDF
+Megan Greene
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

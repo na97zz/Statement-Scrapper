@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Strengthening European financial markets to ensure a more resilient future",
+  "date_original": "2024-06-18",
+  "date_au": "18/06/2024",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240618~4d5f03fd1b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-06-18 - Luis de Guindos, Vice - Strengthening European financial markets to ensure a more resilient future.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-06-18 - Luis de Guindos, Vice - Strengthening European financial markets to ensure a more resilient future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0c25c68a7a04e24b0bb5f4762110f2d361ee9a0e70cde0b46912540b5a48a4d1"
+}

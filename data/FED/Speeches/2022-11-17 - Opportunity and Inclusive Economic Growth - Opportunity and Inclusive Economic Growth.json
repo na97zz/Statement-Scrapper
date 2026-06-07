@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Opportunity and Inclusive Economic Growth",
+  "date_original": "2022-11-17",
+  "date_au": "17/11/2022",
+  "datetime_original": "",
+  "speaker": "Opportunity and Inclusive Economic Growth",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20221117a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-11-17 - Opportunity and Inclusive Economic Growth - Opportunity and Inclusive Economic Growth.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-11-17 - Opportunity and Inclusive Economic Growth - Opportunity and Inclusive Economic Growth.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d19c71cb8e5c40c0b9c38fe7768ed1ad165f7db84713956060306920e1053f47"
+}

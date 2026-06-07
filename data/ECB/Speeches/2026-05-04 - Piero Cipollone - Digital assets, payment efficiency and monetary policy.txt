@@ -1,0 +1,153 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Digital assets, payment efficiency and monetary policy
+DATE: 04/05/2026
+SPEAKER: Piero Cipollone
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260504~3e75e8b138.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Digital assets, payment efficiency and monetary policy
+Speech by Piero Cipollone, Member of the Executive Board of the ECB, at a workshop on digital assets and monetary policy transmission organised by the European Central Bank, Banca d’Italia, the Euro Area Business Cycle Network and the Centre for Economic Policy Research
+Rome, 4 May 2026
+Digitalisation and tokenisation are transforming payments and finance.
+[
+1
+]
+These innovations have the potential to improve financial services and reduce costs; they also have important implications that central banks need to consider.
+Today I will therefore outline how a central bank should position itself to genuinely help enhance the economic efficiency of the financial system as promised by tokenisation, while preserving monetary policy effectiveness, financial stability and monetary sovereignty.
+The conditions for tokenisation and DLT to deliver genuine efficiency gains
+Recognising the transformative potential of tokenisation
+Let me first explain why tokenisation and distributed ledger technology (DLT) have the potential to be transformative.
+Most financial innovations have made the existing system more efficient without changing its fundamental architecture.
+Tokenisation belongs to a different class of innovation entirely, which economists call general-purpose technology. Rather than improving just one part of a system, these technologies reframe the logic of the system as a whole.
+By issuing or representing assets in the form of digital tokens that are typically recorded on DLT networks, tokenisation allows the full life cycle of a transaction – issuance, trading, settlement and custody – to take place within a single digital environment that is available 24/7.
+This has the potential to simplify access to finance, enhance financial services and reduce costs.
+A system-wide paradigm shift
+But a defining characteristic of a general-purpose technology is that the associated gains are conditional on the complementary components of a market adopting this technology simultaneously. Thus, for the promised gains of tokenisation to materialise, the various components of the financial system need to embrace its new logic.
+These complementary components create a coordination problem. No single component can transform the financial system on its own. This reduces the incentive to move to a new techno-economic paradigm before others do: whoever moves first faces certain costs and highly uncertain pay-offs.
+So while rational actors may experiment to be ready just in case, the structure of incentives discourages a unilateral move to the new technology.
+[
+2
+]
+An integrated and competitive market
+But there is a further dimension to be considered. The coordination problem is not only about
+whether
+the system moves, but
+which configuration
+it moves to.
+There are many conceivable architectures for a DLT ecosystem – a single shared network, multiple interconnected networks, or a combination of the two. Each option involves trade-offs.
+For instance, a single shared network would, by design, avoid fragmentation and bring together the full value chain of wholesale financial markets. But this would imply that there is only competition at the services level.
+By contrast, multiple interconnected networks would support competition and innovation at the infrastructure level as well, but would increase the risk of fragmenting liquidity and assets.
+Independent of the future architecture, common standards will be crucial to ensure market integration and avoid walled gardens. In addition, the network layer should provide all participants with equal and non-discriminatory access. This will eliminate the need to create proprietary infrastructure in order to compete in the market, thereby reducing barriers to entry and increasing contestability. Ultimately, the costs for issuers and investors will fall.
+[
+3
+]
+The design choices that are being made at this early stage will determine which configuration the system locks into, and whether the gains of tokenisation are broadly distributed.
+The role of the central bank
+This brings me to the role of the central bank. In my view, we can make two key contributions to reduce the lag between financial innovation and broad productivity gains.
+Central bank money and collateral eligibility
+The first contribution relates to the key role played by central banks in encouraging the financial system to scale up and speed up its embrace of tokenisation. Central banks need to do their part in two core areas: first, as the issuer of central bank money and, second, as the provider of liquidity against collateral.
+Specifically, tokenised central bank money is necessary to offer a risk-free settlement asset in tokenised markets. And tokenised assets need to be eligible as collateral that can be mobilised in monetary policy operations. This will improve the liquidity of DLT-based assets, which is critical to making digital finance more scalable and attractive.
+Without tokenised central bank money as a settlement asset, every transaction in the new ecosystem would need to be settled using an instrument that carries credit risk and does not provide the finality that only central bank money can.
+Without a trusted public settlement anchor, sellers of a tokenised security may receive payment in an asset they are not comfortable holding.
+Tokenised central bank money is necessary for the market to expand and reach a tipping point – that is, the critical mass where it becomes rational for all the complementary components to adopt the new technology, thereby creating a new sustainable tokenised finance ecosystem.
+This rationale and the lessons learned from the exploratory work conducted in 2024
+[
+4
+]
+have shaped the Eurosystem’s strategy. From September, we will offer tokenised central bank money settlement for DLT-based transactions as part of our Pontes project. This will provide a safe asset and a trusted common anchor that tokenised markets can use to grow at the speed and scale Europe needs.
+In the area of collateral eligibility, for Eurosystem credit operations we have, since the end of March, accepted marketable assets issued in central securities depositories using DLT. We are also exploring ways to expand eligibility to assets issued using DLT that are not represented in eligible securities settlement systems.
+[
+5
+]
+Catalysing the market
+The second contribution the central bank can make relates to its role as a catalyst in the market.
+We need a vision for an integrated and competitive tokenised ecosystem and further investigation into what it requires in terms of architecture and standards. Otherwise, the tokenised market risks becoming a landscape of non-interoperable networks and standards that fragment liquidity, limit competition and stifle innovation.
+This is precisely why we have developed the Appia roadmap
+[
+6
+]
+, which we published in March.
+Implication for monetary policy, financial stability and monetary sovereignty
+Before concluding, let me briefly explain why a proactive role for the central bank in enabling the digitalisation of finance also matters for monetary policy, financial stability and monetary sovereignty.
+We believe that stablecoins and tokenised deposits can be part of an ecosystem where central bank money underpins two fundamental features of a well-functioning market: the singleness of money and its scalability.
+Without tokenised central bank money, tokenised financial markets could still expand using private settlement assets. But the absence of central bank money would come at the expense of smaller scale, higher fragmentation of liquidity and ultimately lower efficiency.
+At this point in time, stablecoins are the most likely candidate to play the role of private settlement asset. However, if they were the only settlement asset available, the scale required to satisfy market needs would risk endangering monetary policy transmission, financial stability and monetary sovereignty.
+Let me start with monetary policy transmission.
+At its core, monetary policy works through its influence on financing conditions, ultimately affecting the behaviour of households and firms. This transmission relies heavily on the role of bank deposits and the broader banking system.
+If stablecoins were the only settlement asset for both retail and wholesale transactions, they would attract a significant share of bank deposits, changing bank liabilities in a profound way. Deposits would be more volatile and more concentrated, affecting banks’ capacity to provide credit to the real economy and the transmission of policy rates.
+[
+7
+]
+Next, let me turn to financial stability.
+One key concern relates to run risk. Private means of payments initially perceived as safe and liquid may be subject to sudden and large-scale redemptions if confidence weakens.
+In a digital environment, such dynamics can unfold very rapidly, compressing what used to take days into a matter of hours, forcing issuers to quickly sell their assets, potentially disrupting financial markets.
+Once again, all these risks are amplified if asset-backed tokens are the only or prevalent settlement asset in the economy.
+Lastly, let me say a few words about monetary sovereignty.
+Monetary sovereignty ultimately rests on the ability of the central bank to ensure its currency remains the unit of account, medium of exchange and store of value within the economy.
+The adoption of digital assets denominated in foreign currency – such as stablecoins – could challenge this, especially if they were widely adopted for domestic payments. In such a scenario, there is a risk of currency substitution in digital form, which could weaken the effectiveness of domestic monetary policy.
+[
+8
+]
+In other words, if households and businesses switched to foreign currency-denominated stablecoins for payments and savings, domestic monetary authorities could lose control over the money supply and interest rates.
+Conclusion
+To conclude, tokenisation has the potential to unlock efficiency gains and reshape financial intermediation. But markets based on tokenisation and DLT need central bank money in tokenised form at their core.
+Alternative configurations would reshape monetary policy transmission channels, introduce new risks and challenge established policy frameworks.
+This makes it essential for central banks to take a forward-looking and carefully balanced approach – one that supports innovation, while preserving the fundamental principles on which the monetary system is built.
+The Eurosystem has embraced this vision. We aim to preserve the balance between public and private money, which has served us well so far, and will continue to do so in the new DLT and tokenisation-based financial ecosystem.
+Thank you for your attention and let me wish you a very successful workshop.
+This speech builds on the discussions in Cipollone, P. (2026), “
+Sparking the transformation of finance: tokenisation and the role of central banks
+”, keynote address at the 24th Annual Symposium on “Building the Financial System of the 21st Century: an Agenda for Europe and the United States”, hosted by the Harvard Law School and the Program on International Financial Systems, Washington DC, 15 April. I would like to thank Carlo Altavilla for his help in preparing this speech.
+Milgrom, P. and Roberts, J. (1995), “
+Complementarities and fit – Strategy, structure, and organizational change in manufacturing
+”,
+Journal of Accounting and Economics
+, Vol. 19, Issues 2-3, March-May, pp. 179-208.
+Agur, I., Villegas-Bauer, G., Mancini-Griffoli, T. and Martinez Peria, M.S. (2025), “
+Tokenization and Financial Market Inefficiencies
+”,
+Fintech Notes
+, No 001, IMF, 29 January.
+ECB (2025), “
+The Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement
+”,
+report
+, June.
+ECB (2026), “
+ECB paves way for acceptance of DLT-based assets as eligible Eurosystem collateral
+”,
+press release
+, 27 January.
+ECB (2026),
+Appia – paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT
+.
+See Altavilla C., Boucinha M., Burlon L., Adalid R., Fortes R. and Maruhn F. (2026), “
+Stablecoins and Monetary Policy Transmission
+”, Working Paper Series
+, No 3199, ECB, Frankfurt am Main.
+Rey, H. (2025), “
+Stablecoins, Tokens, and Global Dominance
+”,
+F&D Magazine
+, International Monetary Fund, September.
+Related topics
+Distributed ledger technology (DLT)
+Crypto-assets
+Digitalisation
+Financial market infrastructures
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

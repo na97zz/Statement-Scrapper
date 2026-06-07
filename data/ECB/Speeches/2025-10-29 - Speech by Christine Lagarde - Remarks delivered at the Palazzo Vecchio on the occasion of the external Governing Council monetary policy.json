@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Remarks delivered at the Palazzo Vecchio on the occasion of the external Governing Council monetary policy meeting in Florence",
+  "date_original": "2025-10-29",
+  "date_au": "29/10/2025",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251029~f83bffe5ad.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-10-29 - Speech by Christine Lagarde - Remarks delivered at the Palazzo Vecchio on the occasion of the external Governing Council monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-10-29 - Speech by Christine Lagarde - Remarks delivered at the Palazzo Vecchio on the occasion of the external Governing Council monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d645f3565410e59c3c3acddf78848460bda69746b20fa351f4df61424f6f8057"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2025-06-18",
+  "date_au": "18/06/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20250618.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2025-06-18 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2025-06-18 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:49:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "074934b7b63d043b87fbcd547ea52a269d91722b21291c00853ff63b06d979fa"
+}

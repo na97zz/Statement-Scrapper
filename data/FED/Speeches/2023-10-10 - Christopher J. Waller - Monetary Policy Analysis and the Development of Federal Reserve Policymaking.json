@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Monetary Policy Analysis and the Development of Federal Reserve Policymaking",
+  "date_original": "2023-10-10",
+  "date_au": "10/10/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20231010a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-10 - Christopher J. Waller - Monetary Policy Analysis and the Development of Federal Reserve Policymaking.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-10 - Christopher J. Waller - Monetary Policy Analysis and the Development of Federal Reserve Policymaking.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a8eaeaf50a2af2f50a00c9ae23b35cc89c117e6d0f1ea2b8ea9f93d5a0737845"
+}

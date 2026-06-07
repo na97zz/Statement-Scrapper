@@ -1,0 +1,137 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Innovation in UK Financial Markets - shortening the settlement cycle – speech by Sasha Mills
+DATE: 01/06/2025
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/february/sasha-mills-speech-at-uk-accelerated-settlement-market-event-kpmg
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Innovation in UK Financial Markets - shortening the settlement cycle – speech by Sasha Mills
+Given at the UK T+1 Accelerated Settlement Market event, hosted by KPMG
+Published on 
+
+ 20 February 2025
+The industry Task Force has set out a roadmap to shorten the UK securities settlement cycle to T+1. In her speech, Sasha Mills explains why it is important that firms and settlement infrastructures put in place plans for sustainable change that can bring long term efficiencies, while maintaining resilient settlement processes. As part of this effort, the Bank looks forward to continuing to have dialogue with regulators in other markets which are pursuing similar changes.
+Speech
+Good afternoon.
+I'd like to thank Andrew Douglas and the Accelerated Settlement Taskforce for inviting me to speak today,
+And also to thank KPMG for hosting today’s event.
+Last year I spoke about the Bank of England’s (the Bank) aim to facilitate safe innovation in the often overlooked post-trade segment of financial markets.
+footnote
+[1]
+For those of you who read that speech, you might characterise my comments today as faster horses leading to faster settlement.
+Today I’m pleased to have an opportunity to continue the theme of post-trade innovation - with a focus on bringing innovation to the post-trade settlement process for shares and bonds, making it more efficient, resilient and shorter.
+We along with most other countries around the world - think that shorter settlement cycles - and the automation of manual processes this will incentivise - can bring a lot of benefits, for the UK as well as the market participants, domestic and international who make use of our markets.
+As I'll come on to explain in more detail in a moment, a shorter settlement cycle supports financial stability by reducing the risks faced by market participants and central counterparties, it will provide investors with quicker access to their funds, and it will free up resources for other productive uses, supporting growth.
+footnote
+[2]
+And a "by-product" of moving to T+1 is that post-trade processes will be made more resilient, faster, and more efficient.
+But in order to achieve the reduction in risks and the freeing up of resources, firms need to help make a smooth transition to T+1 happen by preparing and testing changes to their systems and procedures, well ahead of the transition. By doing this we'll help to avoid an increase in settlement fails and disruption that would undermine the benefits and confidence in UK markets.
+We want to make sure that today’s high levels of operational resilience and low levels of settlement failure are maintained.
+As I'll come on to say in a moment, for the Bank, ensuring this is largely a question of time and money:
+firms need to make use of the time available to prepare, adapt, and test systems - and they also need to provide sufficient budget to pay for these preparations.
+Bank's Stance on T+1
+Before getting into some of the specificities, I wanted to set the stage by confirming that the Bank, along with colleagues at the Financial Conduct Authority (FCA) and HMT, supports the UK's move to T+1 and notes the many benefits this move should deliver to the UK and the UK financial markets which are used by UK companies and households as well as market participants around the world:
+A shorter settlement cycle will mean that firms and central counterparties (or "CCPs") face lower counterparty risks - and I anticipate this will lead to significant amounts of margin being released by CCPs to members and their clients,
+We estimate that the amount of margin released may be on the order of £1 billion
+footnote
+[3]
+- a significant sum which could be used by market participants for other productive purposes, supporting the UK economy,
+It should reduce the costs and risks associated with the existing misalignment of settlement cycles. The UK's settlement cycle is currently misaligned with the cycles in jurisdictions (such as the US) which have already transitioned to T+1 settlement,
+The transition to T+1 should catalyse firms' investment in automation and standardisation, leading to lower settlement costs in the medium term and more efficient markets.
+Challenges
+Despite these many benefits from transitioning to T+1, there are a number of challenges which will need to be addressed:
+I'll focus on two of these challenges: adapting to multiple time zones and standardising and automating settlement instructions.
+UK financial markets serve a host of domestic investors, issuers and intermediaries.
+But they also serve market participants around the globe: international participants which are located in a multiplicity of time zones.
+In light of the international character of UK markets, the industry group tasked with leading on the T+1 transition, the Accelerated Settlement Taskforce (or "AST") - a group incorporating institutions from the sell-side, buy-side and infrastructure providers is alive to this challenge.
+The AST has laudably sought to consider the needs of both UK-based participants - as well as the needs of the many market participants based in other countries and other time zones!
+And a shortening of the UK securities settlement cycle will mean that UK financial market participants will need to make corresponding adjustments to their processes and systems.
+This cycle shortening (unless carefully planned and executed) runs the risk of creating challenges for market participants such as investors and intermediaries which are many time zones away.
+Adding to the complexity here is the fact that participants in other time-zones will often have an "FX leg" and FX settlement to organise in addition to organising the settlement of the underlying securities purchase or sale.
+Unless carefully managed, there's a risk that participants in other time zones will struggle to meet the opening hour windows for settlement instructions and related communications with settlement platforms (whether for FX or securities settlement).
+In light of this risk, we are pleased that the Accelerated Settlement Taskforce has set out an approach which should make it technically feasible for participants in other jurisdictions to accomplish the steps needed in time to permit settlement to occur within the T+1 timeframe.
+Another important area of challenge relates to the slightly "niche" topic of settlement instructions:
+Settlement instructions are an important part of the settlement process.
+Buyers and sellers submit these instructions to the CSD (or centralised securities depository) a key step in the settlement process enabling settlement to occur.
+But for many years, the industry has recognised issues with these instructions, in that settlement processes can get "snarled up" and even fail due to instruction formats not being standardised and instruction submissions not being automated, often involving manual processes.
+Given this, we applaud the efforts of the industry - and in particular, the efforts of the Financial Markets Standards Board (or FMSB):
+The FMSB's recent publication of standards and templates for settlement instructions
+footnote
+[4]
+is a very welcome step towards resolving this issue. This publication marks an important milestone in making the settlement process more efficient and operationally resilient.
+Market participants should read the FMSB report and adopt their recommendations.
+What T+1 means for Financial Market Infrastructures (FMIs)
+Having touched on the benefits and some of the challenges of a move to T+1, I'd like to turn now to the topic of today's event: namely the implementation plan published by the Accelerated Settlement Taskforce:
+A plan which effectively charts out how the UK industry can safely transition to T+1 settlement.
+The AST has set out in their plan what needs to be done by when for a smooth transition to T+1.
+For example, among the "critical actions", the report calls for Financial Market Infrastructures (FMIs) to review all existing procedures, policies, and technology to ensure that there are no barriers to T+1 settlement.
+And among the report's "highly recommended" actions is a direction for FMIs to ensure that their rulebooks are amended to accurately set out the updated T+1-compatible FMI systems and processes.
+Another highly recommended action is for the industry group and the UK CSD to define and publish a target rate for settlement efficiency.
+As the supervisor of FMIs, the Bank has an important role in making the UK's transition to T+1 a reality.
+As you will know, FMIs play a vital role in the UK's financial system. They provide the critical "plumbing" which allow for financial markets to function. And they ensure that the flow of payments and securities related to trading, issuance and other market activities occurs reliably and efficiently, managing risks and providing confidence that financial transactions will be completed safely. This confidence is an engine for growth as businesses take investment decisions and plan their futures accordingly.
+The UK's move to T+1 is aligned with the Bank's primary and secondary objectives of protecting and enhancing the stability of the financial system of the UK, and facilitating innovation in the provision of CCP and CSD services with a view to improving the quality, efficiency and economy of the services.
+The Bank as FMI Supervisor
+As FMI supervisor, the Bank expects relevant FMIs to prepare for and implement necessary changes for a move to T+1, maintaining operational resilience throughout, changing their rules and systems, and facilitating preparations by their members.
+All of these things are commensurate with the central roles FMIs play in the UK financial system.
+As the report indicates, a successful transition will be made more likely if firms (sell-side firms, buy-side firms, FMIs and others) automate their settlement processes and systems (some of which (as I mentioned earlier) are still surprisingly manual in nature!).
+In the weeks ahead, I encourage firms, their senior executives, and boards to prioritise this work and seek the necessary budget for system adaptations.
+And after these adaptations are implemented, firms must test and mitigate any issues arising from these adaptations and any new process flows well ahead of the transition date.
+I'd like now to say a word or two on the topic of "Alignment".
+As HMT, AST and others have said, it would be desirable for the UK and other jurisdictions (including, for example, the EU and Switzerland) to coordinate and align timetables on the transition to T+1.
+There are obvious benefits to alignment and we are pleased that the UK, EU and Swiss are working towards transitioning on the same date - 11 October 2027.
+We are pleased that both the UK Government and the European Commission have proposed that transition happen on 11 October 2027. This is evidence of a desire to align.
+The road ahead
+In the coming couple of years, market participants and FMIs will be executing their
+firm-specific T+1 project plans - in line with the recommendations set out in the report.
+And the Bank looks forward to continuing to actively engage with this workstream by acting as an observer on the Accelerated Settlement Taskforce and by engaging with the relevant FMIs we supervise - and having discussions about FMIs' preparations for transition.
+As a concluding comment I'd like to be clear that FMIs and market participants need to do four things:
+to carefully read the implementation plan;
+to produce their own firm-specific project plans;
+to obtain the necessary funding to execute their project plans; and lastly,
+they should implement and test the changes to their systems and procedures in accordance with the timelines set out in the report.
+The Bank is committed to supporting the UK's transition to T+1, which is an important innovation that supports financial stability and growth and ensures UK financial markets remain among the most resilient and efficient in the world.
+Thank you.
+I’d like to thank Charles Gundy, Barry King, Shane Scott, and Michael Yoganayagam for their assistance in preparing these remarks.
+Beyond faster horses: Wholesale Financial Markets in the Digital Age - speech by Sasha Mills
+A similar message is also reflected in a quote from Governor Bailey in a
+Government Press release published on 19 February
+2025.
+This estimate relates to margin posted to support UK cash equities clearing and applies the approximate margin reductions seen in another jurisdiction which has transitioned to T+1 from T+2.
+FMSB - Standard for Sharing of Standard Settlement Instructions (SSIs)
+FMSB - Standard for Sharing of Standard Settlement Instructions (SSIs)
+Close
+This estimate relates to margin posted to support UK cash equities clearing and applies the approximate margin reductions seen in another jurisdiction which has transitioned to T+1 from T+2.
+Close
+A similar message is also reflected in a quote from Governor Bailey in a
+Government Press release published on 19 February
+2025.
+Close
+Beyond faster horses: Wholesale Financial Markets in the Digital Age - speech by Sasha Mills
+Close
+Convert this page to PDF
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

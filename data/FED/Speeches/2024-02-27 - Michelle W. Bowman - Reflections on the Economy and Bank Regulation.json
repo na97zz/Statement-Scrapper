@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Reflections on the Economy and Bank Regulation",
+  "date_original": "2024-02-27",
+  "date_au": "27/02/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240227a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-27 - Michelle W. Bowman - Reflections on the Economy and Bank Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-27 - Michelle W. Bowman - Reflections on the Economy and Bank Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "75ff0e5cbfe24d774fdf35f676e8d73347a77df1f7d1321397965701d170acc7"
+}

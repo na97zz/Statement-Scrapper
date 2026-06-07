@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "U.S. Economic Outlook and Monetary Policy Transmission",
+  "date_original": "2023-10-09",
+  "date_au": "09/10/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20231009a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-09 - Philip N. Jefferson - U.S. Economic Outlook and Monetary Policy Transmission.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-09 - Philip N. Jefferson - U.S. Economic Outlook and Monetary Policy Transmission.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7ed965ab90ffbceb0b0bcb97c19b7d0a7894046b29306538477fb82a474fd9b8"
+}

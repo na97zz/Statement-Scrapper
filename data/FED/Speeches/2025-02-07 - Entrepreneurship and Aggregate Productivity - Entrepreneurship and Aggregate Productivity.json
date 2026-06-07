@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Entrepreneurship and Aggregate Productivity",
+  "date_original": "2025-02-07",
+  "date_au": "07/02/2025",
+  "datetime_original": "",
+  "speaker": "Entrepreneurship and Aggregate Productivity",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250207a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-07 - Entrepreneurship and Aggregate Productivity - Entrepreneurship and Aggregate Productivity.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-07 - Entrepreneurship and Aggregate Productivity - Entrepreneurship and Aggregate Productivity.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1ee29ae73496ee3bdf685fd46a0efe4d2d190106680feea5d347db77cc73e555"
+}

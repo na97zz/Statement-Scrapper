@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Panel Remarks",
+  "date_original": "2023-09-27",
+  "date_au": "27/09/2023",
+  "datetime_original": "",
+  "speaker": "Panel Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230927a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-09-27 - Panel Remarks - Panel Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-09-27 - Panel Remarks - Panel Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "57cc8123c2ca4a6da46ba1ae8103f444360899675a86f2e2c63c246b5d23fa29"
+}

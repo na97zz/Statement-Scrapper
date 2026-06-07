@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Responding to High Inflation, with Some Thoughts on a Soft Landing",
+  "date_original": "2022-05-30",
+  "date_au": "30/05/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220530a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-05-30 - Christopher J. Waller - Responding to High Inflation, with Some Thoughts on a Soft Landing.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-05-30 - Christopher J. Waller - Responding to High Inflation, with Some Thoughts on a Soft Landing.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "50af3995d0297d59dad555f3973a23a21e44a8ab40bfb0bc6d4605742d0049b9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Unlocking the power of ideas",
+  "date_original": "2024-04-22",
+  "date_au": "22/04/2024",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240422~0f3299e7bb.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-04-22 - Speech by Christine Lagarde - Unlocking the power of ideas.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-04-22 - Speech by Christine Lagarde - Unlocking the power of ideas.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "15d675fca4d5071b803a07f80af7ec41977436654fc022eff16eea4fe8d50242"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Entrepreneurs, Innovation, and Participation",
+  "date_original": "2024-10-10",
+  "date_au": "10/10/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20241010a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-10 - Lisa D. Cook - Entrepreneurs, Innovation, and Participation.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-10 - Lisa D. Cook - Entrepreneurs, Innovation, and Participation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b9f7f12ad4e5b9bce5907e0feb60703346d562c012093f5a167f03b7c5a1fd08"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Preparing for the Financial System of the Future",
+  "date_original": "2022-02-18",
+  "date_au": "18/02/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220218a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-02-18 - Lael Brainard - Preparing for the Financial System of the Future.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-02-18 - Lael Brainard - Preparing for the Financial System of the Future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6c0645d7ebc6ee6150c1ef35a24562956388769af56f77b809b053cfc0cfc712"
+}

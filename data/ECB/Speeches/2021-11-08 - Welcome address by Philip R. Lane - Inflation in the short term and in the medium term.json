@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Inflation in the short term and in the medium term",
+  "date_original": "2021-11-08",
+  "date_au": "08/11/2021",
+  "datetime_original": "",
+  "speaker": "Welcome address by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211108~c915d47d4c.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-11-08 - Welcome address by Philip R. Lane - Inflation in the short term and in the medium term.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-11-08 - Welcome address by Philip R. Lane - Inflation in the short term and in the medium term.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8716c92b74ac47f9c95b6b5697be26ea787ff24dc08cb48ee6e1b1b11219171"
+}

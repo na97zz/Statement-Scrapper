@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Digital euro: a common European project",
+  "date_original": "2022-11-07",
+  "date_au": "07/11/2022",
+  "datetime_original": "",
+  "speaker": "Digital euro",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221107~dcc0cd8ed9.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-07 - Digital euro - Digital euro_ a common European project.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-07 - Digital euro - Digital euro_ a common European project.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb505e09d6fe3f160c9632bdaf8ffd0a2e5d4a7b72a45a89cc317387884429a6"
+}

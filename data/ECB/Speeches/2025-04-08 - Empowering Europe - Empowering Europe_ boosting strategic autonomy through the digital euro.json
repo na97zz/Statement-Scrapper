@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Empowering Europe: boosting strategic autonomy through the digital euro",
+  "date_original": "2025-04-08",
+  "date_au": "08/04/2025",
+  "datetime_original": "",
+  "speaker": "Empowering Europe",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250408~40820747ef.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-04-08 - Empowering Europe - Empowering Europe_ boosting strategic autonomy through the digital euro.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-04-08 - Empowering Europe - Empowering Europe_ boosting strategic autonomy through the digital euro.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "088826c94e7295547eae61d83e25d3947fbde2f57ed828cd44664017c129cfd2"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Yamaguchi)",
+  "date_original": "2023-09-11",
+  "date_au": "11/09/2023",
+  "datetime_original": "",
+  "speaker": "TAKATA Hajime",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230911a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-09-11 - TAKATA Hajime - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Yamaguchi).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-09-11 - TAKATA Hajime - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Yamaguchi).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5fc7d52676b3954d82881955565224a0decc1142548d0e7b00b25c73a74dc5e9"
+}

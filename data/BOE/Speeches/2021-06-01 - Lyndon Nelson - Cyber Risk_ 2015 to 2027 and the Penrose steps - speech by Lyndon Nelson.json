@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Cyber Risk: 2015 to 2027 and the Penrose steps - speech by Lyndon Nelson",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Lyndon Nelson",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/may/lyndon-nelson-the-8th-operational-resilience-and-cyber-security-summit",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Lyndon Nelson - Cyber Risk_ 2015 to 2027 and the Penrose steps - speech by Lyndon Nelson.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Lyndon Nelson - Cyber Risk_ 2015 to 2027 and the Penrose steps - speech by Lyndon Nelson.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "665fe9af8374f4ece1ff4a51bb3743779bfb8b788cd8c617f68f83fa89d9db00"
+}

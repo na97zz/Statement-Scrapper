@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The euro area outlook and monetary policy",
+  "date_original": "2024-12-18",
+  "date_au": "18/12/2024",
+  "datetime_original": "",
+  "speaker": "Speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241218~c88acfb65f.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-12-18 - Speech by Philip R. Lane - The euro area outlook and monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-12-18 - Speech by Philip R. Lane - The euro area outlook and monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a255511a5af43537e070e5bdd51aef83e0c4ccfc60a334b2702a3da31ca6cb28"
+}

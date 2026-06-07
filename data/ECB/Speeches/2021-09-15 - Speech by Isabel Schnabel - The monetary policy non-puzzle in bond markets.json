@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The monetary policy non-puzzle in bond markets",
+  "date_original": "2021-09-15",
+  "date_au": "15/09/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210915~75de3a2dfa.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-09-15 - Speech by Isabel Schnabel - The monetary policy non-puzzle in bond markets.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-09-15 - Speech by Isabel Schnabel - The monetary policy non-puzzle in bond markets.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "49bb9e7341109255003782dd448d8ecd5206e9b576b02cc0499b67bff67ccbfa"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The euro area outlook: some analytical considerations",
+  "date_original": "2022-05-05",
+  "date_au": "05/05/2022",
+  "datetime_original": "",
+  "speaker": "The euro area outlook",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220505~dcbd30ecb6.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-05-05 - The euro area outlook - The euro area outlook_ some analytical considerations.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-05-05 - The euro area outlook - The euro area outlook_ some analytical considerations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "79d0fa628893262157376467d323fbe76a9a905ca40420d063a985e54506a5ce"
+}

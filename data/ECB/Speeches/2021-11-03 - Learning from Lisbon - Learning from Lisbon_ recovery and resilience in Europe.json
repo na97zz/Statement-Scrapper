@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Learning from Lisbon: recovery and resilience in Europe",
+  "date_original": "2021-11-03",
+  "date_au": "03/11/2021",
+  "datetime_original": "",
+  "speaker": "Learning from Lisbon",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211103~d0720ef27b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-11-03 - Learning from Lisbon - Learning from Lisbon_ recovery and resilience in Europe.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-11-03 - Learning from Lisbon - Learning from Lisbon_ recovery and resilience in Europe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7b11dd7a10770a52b6f56d314023baed81b1cca7225ca34538b42bad87e29413"
+}

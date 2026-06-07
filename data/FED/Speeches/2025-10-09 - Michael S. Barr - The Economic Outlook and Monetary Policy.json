@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and Monetary Policy",
+  "date_original": "2025-10-09",
+  "date_au": "09/10/2025",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20251009a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-09 - Michael S. Barr - The Economic Outlook and Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-09 - Michael S. Barr - The Economic Outlook and Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3768c830144f82ed266225462fff799060be5d69e265d9cf54f53eee99dd667b"
+}

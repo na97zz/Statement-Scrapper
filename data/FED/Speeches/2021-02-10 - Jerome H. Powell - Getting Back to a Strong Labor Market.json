@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Getting Back to a Strong Labor Market",
+  "date_original": "2021-02-10",
+  "date_au": "10/02/2021",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20210210a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-02-10 - Jerome H. Powell - Getting Back to a Strong Labor Market.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-02-10 - Jerome H. Powell - Getting Back to a Strong Labor Market.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cef5df07e4abbf65b6e2efbfd3e140e0a2461505e857e015f29e6629c330b69c"
+}

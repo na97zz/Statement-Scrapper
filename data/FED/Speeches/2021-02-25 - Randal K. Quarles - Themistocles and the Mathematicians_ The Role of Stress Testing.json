@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Themistocles and the Mathematicians: The Role of Stress Testing",
+  "date_original": "2021-02-25",
+  "date_au": "25/02/2021",
+  "datetime_original": "",
+  "speaker": "Randal K. Quarles",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20210225a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-02-25 - Randal K. Quarles - Themistocles and the Mathematicians_ The Role of Stress Testing.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-02-25 - Randal K. Quarles - Themistocles and the Mathematicians_ The Role of Stress Testing.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f0ca6526eb57a283fd01b8c02004225969f0c3c1dabbadccc5f4bb108bfcb79c"
+}

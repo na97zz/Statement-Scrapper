@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook",
+  "date_original": "2024-11-20",
+  "date_au": "20/11/2024",
+  "datetime_original": "",
+  "speaker": "Economic Outlook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20241120a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-11-20 - Economic Outlook - Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-11-20 - Economic Outlook - Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "98495bc57deda9daec5d40e28cf0e472f1300c2f83d371fe66ea9f0ceb458b29"
+}

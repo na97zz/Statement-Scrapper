@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"On the Recent Changes in the Bank of Japan's Monetary Policy Framework\" (Remarks at the Peterson Institute for International Economics)",
+  "date_original": "2024-05-02",
+  "date_au": "02/05/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240502a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-05-02 - UEDA Kazuo - _On the Recent Changes in the Bank of Japan's Monetary Policy Framework_ (Remarks at the Peterson Institute for Internationa.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-05-02 - UEDA Kazuo - _On the Recent Changes in the Bank of Japan's Monetary Policy Framework_ (Remarks at the Peterson Institute for Internationa.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "51cb334e3fb206c3ffb856783c79887769114a36dd62ebeddb2c279a1c669440"
+}

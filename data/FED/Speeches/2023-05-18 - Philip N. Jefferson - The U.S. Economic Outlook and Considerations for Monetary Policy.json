@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The U.S. Economic Outlook and Considerations for Monetary Policy",
+  "date_original": "2023-05-18",
+  "date_au": "18/05/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20230518a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-18 - Philip N. Jefferson - The U.S. Economic Outlook and Considerations for Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-18 - Philip N. Jefferson - The U.S. Economic Outlook and Considerations for Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "37fb46771d92e8684d1c5a9457fb54167d574ebfa1aa3bbc2a5560b13924a1f8"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Monetary Policy during and after the COVID-19 Era\" (Speech at the Yomiuri Economic Forum in Tokyo) (via webcast)",
+  "date_original": "2021-03-08",
+  "date_au": "08/03/2021",
+  "datetime_original": "",
+  "speaker": "AMAMIYA Masayoshi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210308a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-03-08 - AMAMIYA Masayoshi - _Monetary Policy during and after the COVID-19 Era_ (Speech at the Yomiuri Economic Forum in Tokyo) (via webcast).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-03-08 - AMAMIYA Masayoshi - _Monetary Policy during and after the COVID-19 Era_ (Speech at the Yomiuri Economic Forum in Tokyo) (via webcast).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ef06bf92c60759d6676c5e06dc1d1551d020c6bac4cb1638ef6c4156b6bc3cdc"
+}

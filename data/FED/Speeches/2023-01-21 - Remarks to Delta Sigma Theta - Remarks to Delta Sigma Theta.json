@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Remarks to Delta Sigma Theta",
+  "date_original": "2023-01-21",
+  "date_au": "21/01/2023",
+  "datetime_original": "",
+  "speaker": "Remarks to Delta Sigma Theta",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20230121a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-01-21 - Remarks to Delta Sigma Theta - Remarks to Delta Sigma Theta.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-01-21 - Remarks to Delta Sigma Theta - Remarks to Delta Sigma Theta.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4abf22a917bcd41bd0ddd25ad7efa464e28609d1bbd38eca606ad47fd14da8c1"
+}

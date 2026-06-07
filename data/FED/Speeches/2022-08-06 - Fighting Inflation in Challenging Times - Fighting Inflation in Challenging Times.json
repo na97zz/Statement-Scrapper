@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Fighting Inflation in Challenging Times",
+  "date_original": "2022-08-06",
+  "date_au": "06/08/2022",
+  "datetime_original": "",
+  "speaker": "Fighting Inflation in Challenging Times",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20220806a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-08-06 - Fighting Inflation in Challenging Times - Fighting Inflation in Challenging Times.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-08-06 - Fighting Inflation in Challenging Times - Fighting Inflation in Challenging Times.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "095d0887fa3e3b4c1b13b6c4719ce6125281a3fca5825f01bb4c8bab91b5cc77"
+}

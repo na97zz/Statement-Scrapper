@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Welcome address",
+  "date_original": "2023-10-04",
+  "date_au": "04/10/2023",
+  "datetime_original": "",
+  "speaker": "Welcome address by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231004~61531ca833.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-10-04 - Welcome address by Christine Lagarde - Welcome address.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-10-04 - Welcome address by Christine Lagarde - Welcome address.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "787a737579387b3901b6eec407577454b4f642ab638e6884881254e061256234"
+}

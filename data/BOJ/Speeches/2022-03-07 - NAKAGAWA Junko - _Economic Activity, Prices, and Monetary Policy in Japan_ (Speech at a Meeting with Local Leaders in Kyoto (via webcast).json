@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Kyoto (via webcast))",
+  "date_original": "2022-03-07",
+  "date_au": "07/03/2022",
+  "datetime_original": "",
+  "speaker": "NAKAGAWA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220307a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-03-07 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kyoto (via webcast).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-03-07 - NAKAGAWA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Kyoto (via webcast).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7087fd9b576b7e72af390a31c496dbba8d661053978abd9fca2826ee2ae93366"
+}

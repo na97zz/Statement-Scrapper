@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Price stability and policy transmission in the euro area",
+  "date_original": "2022-06-28",
+  "date_au": "28/06/2022",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220628~754ac25107.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-06-28 - Speech by Christine Lagarde - Price stability and policy transmission in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-06-28 - Speech by Christine Lagarde - Price stability and policy transmission in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cfae627a2c1d3cb3beab77008fcc7e5f0495509b554bc66a9ed9f8f741acb3ad"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Europe and the world economy",
+  "date_original": "2026-05-22",
+  "date_au": "22/05/2026",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260522~f0f11a5f05.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-05-22 - Keynote speech by Philip R. Lane - Europe and the world economy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-05-22 - Keynote speech by Philip R. Lane - Europe and the world economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bb7455dc6658ac847e3e5c7fe0066bcf412f407dba2221d81f1911c502b1550c"
+}

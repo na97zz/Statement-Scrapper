@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Outlooks, Outcomes, and Prospects for U.S. Monetary Policy",
+  "date_original": "2021-08-04",
+  "date_au": "04/08/2021",
+  "datetime_original": "",
+  "speaker": "Richard H. Clarida",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/clarida20210804a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-08-04 - Richard H. Clarida - Outlooks, Outcomes, and Prospects for U.S. Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-08-04 - Richard H. Clarida - Outlooks, Outcomes, and Prospects for U.S. Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8b8c98d4523a481c6c364d6a53d3b41fde7cd7ed144346ed2b89e9f8e0106eda"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Inclusion: Past, Present, and Hopes for the Future",
+  "date_original": "2024-07-09",
+  "date_au": "09/07/2024",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20240709a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-07-09 - Michael S. Barr - Financial Inclusion_ Past, Present, and Hopes for the Future.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-07-09 - Michael S. Barr - Financial Inclusion_ Past, Present, and Hopes for the Future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ba0903121a74faa39c42386f083f804f79f4572f8b44fe12fa4cca4aa0adff5f"
+}

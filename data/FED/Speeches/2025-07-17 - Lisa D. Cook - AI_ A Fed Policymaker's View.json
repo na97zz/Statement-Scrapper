@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "AI: A Fed Policymaker's View",
+  "date_original": "2025-07-17",
+  "date_au": "17/07/2025",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20250717a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-17 - Lisa D. Cook - AI_ A Fed Policymaker's View.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-17 - Lisa D. Cook - AI_ A Fed Policymaker's View.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "33a42630d2ed832ab387814b7c2a0efd862473bcc544e5c156410bf258dc3145"
+}

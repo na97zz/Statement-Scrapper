@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Explaining the consumption gap - speech by Catherine L Mann",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Catherine L Mann",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/october/catherine-l-mann-keynote-speech-at-resolution-foundation",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Catherine L Mann - Explaining the consumption gap - speech by Catherine L Mann.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Catherine L Mann - Explaining the consumption gap - speech by Catherine L Mann.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:10:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5315856dacdc82e9f97a47982d5195329688d3df899cc4528ad96e056e361650"
+}

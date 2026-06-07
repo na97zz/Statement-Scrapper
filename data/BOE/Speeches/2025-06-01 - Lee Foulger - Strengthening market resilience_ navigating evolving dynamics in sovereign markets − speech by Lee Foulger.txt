@@ -1,0 +1,183 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Strengthening market resilience: navigating evolving dynamics in sovereign markets − speech by Lee Foulger
+DATE: 01/06/2025
+SPEAKER: Lee Foulger
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/november/lee-foulger-keynote-speech-at-the-association-of-financial-market
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Strengthening market resilience: navigating evolving dynamics in sovereign markets − speech by Lee Foulger
+Given at AFME's 20th Annual European Government Bond Conference
+Published on 
+
+ 12 November 2025
+In September, the Bank of England released a discussion paper examining the effectiveness and potential impact of reforms aimed at improving the resilience of the UK gilt repo market. In today’s speech, Lee Foulger outlines key insights from industry engagement, addresses concerns about possible unintended consequences, and urges market participants to share feedback to help shape reforms that bolster resilience while preserving liquidity and market efficiency.
+Speech
+It’s a pleasure to join you at AFME’s 20th Annual European Government Bond Conference. I often read analyst reports which start by saying that ‘this is the year bond markets won’t be boring!’. I can assure you they’ve never been boring for us. As a financial stability authority our goal is to identify and monitor key risks and take a proactive approach in enhancing the resilience of systemic markets, to ensure the financial system continues to deliver essential services during times of stress. And government bond markets are crucial to the financing of the UK economy, playing a key role in determining financing conditions for households and business.
+Government bond markets are seeing both structural and cyclical changes, including shifts in the composition of investors globally. And it’s our job to keep pace with these trends. That’s why in the UK last year we undertook a System-wide Exploratory Scenario
+footnote
+[1]
+(SWES) – a first of its kind globally - to assess the resilience of core sterling markets, and we found that resilience had increased significantly over recent years. It also gave us insights on how you might strengthen their resilience further, and in particular how crucial the resilience of the gilt repo market is to financial stability in the UK. And so, as a follow up to the SWES, and to the evidence from previous stress episodes, we published a discussion paper (DP), exploring the effectiveness and impact of a range of potential reforms to enhance resilience. The consultation period is ongoing, but I wanted to take the opportunity today to update on what we are hearing from market participants.
+Changing sovereign markets underline the importance of continued focus on resilience
+But let’s start with the context. In recent years, global sovereign bond markets have undergone important structural changes
+footnote
+[2]
+. Their expansion in both scale and complexity has been accompanied by a growing presence of non-bank liquidity providers. In particular, the footprint of hedge funds and non-bank market makers has grown substantially in many sovereign markets in recent years
+footnote
+[3]
+. Shorter term investors that are reliant on the repo market to fund their activities, such as hedge funds, have an increasingly important role in government bond market activity — including cash, repo and related derivative markets. Also, the growth of electronic trading — particularly in futures and government bonds across advanced economies — has accelerated high-frequency trading and reshaped intermediation.
+As my colleague, Vicky Saporta, set out in depth last Friday
+footnote
+[4]
+, alongside these composition changes, reserves have fallen as many advanced economies have engaged in quantitative tightening, while bond issuance has increased, altering the cash-collateral balance in repo markets
+footnote
+[5]
+. This decline in reserves has also driven greater demand for sovereign bonds as high-quality liquid assets.
+Against that global backdrop, the gilt and gilt repo markets are experiencing similar dynamics. For example, as noted in the July 2025 Financial Stability Report
+footnote
+[6]
+, leveraged market participants, we have also seen the increasing presence of hedge funds in the gilt repo and cash markets, while in the UK specifically traditional longer-term investors like pension funds have been gradually reducing the rate of increase of their exposures. In light of these developments, it is important that central banks keep pace in monitoring how market participants’ changing behaviours in core markets may affect UK financial stability and consider ways to enhance the resilience of these markets.
+The way we’ve approached strengthening our monitoring is through developing our capabilities to use our data to analyse and model these changes. Our System-wide Exploratory Scenario
+footnote
+[7]
+was a first-of-its-kind exercise involving more than 50 gilt market participants. That exercise showed that gilt market resilience has increased since 2022, thanks both to actions taken by authorities and market participants. But it also gave us insights as to where we might need to improve resilience: in severe stress we might see limits on the capacity of gilt repo market dealers’ to expand the provision of liquidity to counterparties, which could lead to forced sales of gilts in the cash market to meet liquidity needs. Evidence from previous stress episodes and the SWES suggest this is primarily due to counterparty credit risk concerns.
+In addition, zero or near-zero collateral haircuts in dealer-to-client gilt repo mean that NBFIs can build up substantial levels of leverage at little cost, which could lead to large or unexpected liquidity demands from collateral or margin calls, also potentially resulting in forced sales and amplifying stress, our data suggests that more than half of the outstanding stock in the non-centrally cleared segment of the gilt repo market is conducted at zero haircuts
+footnote
+[8]
+.
+In the severe scenario we tested, repo terms tightened substantially, with many banks reducing tenors and increasing haircuts, which double over a few days, directly putting pressure on other market participants’ via increased liquidity needs, which could amplify
+stress. The way firms behave in the shock is sensitive to their own financial resilience and the positions they have taken in financial markets when the shock hits. For example, hedge funds were net cash lenders in the gilt repo market at the start of the SWES exercise in October 2023. They have since repositioned and are now significant cash borrowers in aggregate, which could materially change liquidity needs in future stresses and poses the question about how to enhance resilience of gilt repo markets and in particular capacity in stress.
+The Bank of England — working alongside UK authorities and international bodies — has already taken important steps to strengthen resilience, including
+the introduction of a resilience standard for LDI funds
+footnote
+[9]
+and the launch of the Bank’s Contingent Non-Bank Repo Facility
+footnote
+[10]
+(CNRF) as a way to get liquidity ton certain non-bank market participants, such as insurers and pension funds, in stress. As markets evolve and new risks emerge, it is important we continue to ask what further actions might be helpful to ensure the gilt repo market is resilient to a range of severe but plausible shocks.
+Our discussion paper
+footnote
+[11]
+on reforms to enhance the resilience of the gilt repo market builds on our work focusing primarily on two potential initiatives that could enhance the resilience of the gilt repo market: greater central clearing and the introduction of minimum haircuts or margin requirements in non-centrally cleared transactions. It also seeks views on a broader set of potential measures.
+The role greater central clearing could play in increasing gilt repo market resilience
+Adoption and use of central clearing in government bond repo markets varies widely across jurisdictions, reflecting differences in market structure, regulation, and trading and clearing infrastructure. While we are closely monitoring international developments — including the ongoing implementation of the SEC’s mandate
+footnote
+[12]
+for central clearing of most US Treasury cash and repo transactions — it is important that our approach is tailored to the specific structure and needs of the UK gilt and gilt repo markets. Indeed, previous studies
+footnote
+[13]
+show that greater central clearing could improve the resilience of liquidity supply
+in stress by expanding netting opportunities when demand for liquidity increases during periods of market disruption, thereby increasing dealers’ intermediation capacity, and by reducing counterparty credit risk. Previous bank analysis sought to quantify these potential benefits, finding that, during the Dash for Cash episode, the move to comprehensive central clearing would have reduced the leverage ratio impact of gilt repo by 40%, in aggregate for a sample of GEMMs.
+We have already had a number of conversations with the industry on these potential proposals, and I would like to express my thanks for the engagement we have had so far.
+A key theme that has emerged from our engagement with the market are the potential unintended consequences that could be associated with a one size-fits-all solution, such as a whole-market clearing mandate which may not fully take into account the specific risk profiles and liquidity needs of different market participants. In this context, we welcome further feedback on how our proposals could affect different participants to enable us to design policy tools that are as targeted as possible; and what alternative more targeted approaches could achieve the policy aim.
+We have heard supportive feedback from industry for expanding voluntary central clearing to improve counterparty credit risk management, settlement efficiencies and to potentially unlock additional pools of liquidity, especially at times when dealers’ balance sheets are more constrained. We would welcome constructive suggestions on whether there is a way to strike an appropriate balance here.
+Some market participants have flagged that the extent of the netting benefits that greater central clearing may deliver in stable market conditions, may not be as high as expected. This is because the current structure of the gilt repo market requires gilt repo dealers to perform maturity transformation by intermediating between overnight cash lenders, such as MMFs, and term cash borrowers, such as pension funds and LDIs. In practice, this means that there are lower netting opportunities relatively to other markets where repo maturities are more concentrated at the shorter end of the repo maturity buckets, such as, for example, in the US Treasury repo market. In addition, dealers noted that much of the potential netting benefit has likely already been realised via the progressive migration of interbank overnight trades into the cleared market.
+This is an important observation that we are keen to see evidence on in responses to the discussion paper, including how netting opportunities, and therefore liquidity provision, could evolve when flows increase during periods of market dysfunction. If these are meaningful, greater central clearing could serve market participants as an additional source of liquidity during stress, although its effectiveness as a stress tool would crucially depend on pre-established relationships and operational readiness.
+Another theme raised by market participants is around liquidity pressures arising from the procyclical nature of CCP margin calls in stress. Given the migration towards clearing in other markets since the GFC, this is not a new challenge.
+While the procyclical features of CCP margin models ensure that CCPs are prudently collateralised in the event of a member default, previous domestic and international work has highlighted how these features, alongside gaps in market participants’ understanding and preparedness to meet increases in margin calls, could exacerbate liquidity pressures in stress. This will be an important feature of our cost-benefit analysis. In this context, the FSB has published proposals on liquidity preparedness, and the Bank is consulting on new rules that include enhanced requirements on margin transparency. In addition, the UK is progressing implementation of the FSB’s recommendations on margin preparedness, reinforcing efforts to improve resilience and reduce systemic liquidity risks. Indeed, it’s the system-wide macroprudential consequences of margin behaviour in stress that underlies our and others’ supervision of CCPs
+footnote
+[14]
+.
+Finally, market participants agree the accessibility to the CCP, and the clearing models deployed are critical factors in the balance of the risks and benefits of greater central clearing. This includes for example, eligibility criteria and costs to access the CCP clearing services, as well as the allocation of the ongoing costs both for the sponsoring banks and the sponsored participants. This an area where we welcome further feedback, especially on the extent that margin costs would be met by the sponsoring bank or the client, which would impact the effectiveness of clearing in mitigating the risks from the build-up of highly leveraged concentrated positions in the non-banking sector.
+Minimum haircuts as a way to enhance resilience
+The DP also touches on how the introduction of minimum haircuts on non-centrally cleared transactions can enhance market resilience, relatively to current practices where haircuts tend to be near-zero. Setting minimum haircuts may help address vulnerabilities linked to under-collateralisation in the non-centrally cleared market by establishing a baseline degree of counterparty risk protection on firms’ gilt repo exposures. This, in turn, may bolster confidence during periods of stress and reduce the risk that concerns about counterparty credit risk and defaults crystallise into reduced liquidity supply — an outcome observed both in real life stresses and in our SWES.
+Building on this, minimum haircuts could play a role in constraining the build-up of highly leveraged, concentrated positions. While certain leveraged activities can enhance efficiency and support liquidity in financial markets, our primary objective is to mitigate risks stemming from highly leveraged, concentrated positions that pose a threat to financial stability. Minimum repo haircuts create a maximum leverage available to funds, thereby enhancing overall market resilience—particularly under stress.
+Findings from the Prudential Regulation Authority’s (PRA’s) Fixed Income Financing Review
+footnote
+[15]
+, which highlight that margining practices in the non-centrally cleared gilt repo market are often shaped more by competitive pressures and prevailing market dynamics than by prudent risk management. This has led to widespread use of near-zero haircuts, which heightens counterparty credit risk and can constrain dealer intermediation capacity during stress. That is because dealers are more likely to reduce their gilt repo lending in stress to remain within their existing credit risk appetite. Given we start at near-zero this is obviously prudent at the individual firm level but can collectively result in reduction in the provision of liquidity in stress which would otherwise be avoidable.
+In discussions with market participants, we have heard that near-zero haircuts in gilt repo markets are often the result of risk-offsetting within margining of a client portfolio. This is the case, for example, where the repo leg is usually done at a zero haircut because dealers are able to net with margins on the offsetting future. We understand this feedback and would be interested in seeing evidence as part of firms’ submissions to better understand how prudent this approach is at both portfolio level, and collectively for the market in normal times and stress.
+Finally, as noted in the case of greater central clearing, some market participants flagged potential unintended consequences of a one-size-fits-all approach in the case of minimum haircuts versus a risk-sensitive approach to calibration that is tailored to the risk profile of different market participants. In this vein, we welcome further feedback on the calibration approach that could deliver meaningful benefits to market resilience, without imposing undue costs on the market.
+We are mindful that any measure or package of measures may have impacts on trading costs and market liquidity and seek your concrete input on these to inform policy design. We are keen to weigh those costs not just against the resilience benefits, but also potential dynamic benefits: by reducing excessive leverage and concentration, reforms may increase confidence in market resilience, and, over time, attract deeper and more stable liquidity to the market. Curbing the most concentrated and leveraged positions can strengthen overall market functioning—especially in stress. In the longer term, these benefits may help increase investor confidence, lower term premia and reduce the likelihood of periods of market strain.
+In addition, we seek views on the perspectives on the broader market effects of introducing minimum haircuts on non-centrally cleared gilt repo transactions. How might such reforms influence the build-up of leveraged or concentrated trading strategies relying on the gilt repo market? Which strategies or participant types do you expect would be most affected and how firms may adapt trading strategies or operations in response, and, ultimately, affect cash gilt market liquidity and pricing.
+To conclude, I would like to reaffirm our commitment to building a resilient, fair, and well-functioning market that serves the needs of all participants. This means a market that sustains confidence in periods of stress, enables efficient intermediation in normal conditions, and adapts to structural change in ways that support stability not the opposite. Our objective is to work in close partnership with industry, drawing on international experience whilst being focused on the needs of our market to design reforms that strengthen resilience while supporting liquidity and market efficiency – and therefore financial stability and growth – in all market states.
+I would like to thank Miruna-Daniela Ivan and Annalisa Stoddart for their support in preparing these remarks. I would also like to thank Nathanaël Benjamin, Sarah Breeden, Bonnie Howard, Arif Merali, Pelagia Neocleous, Vicky Saporta, James Tulloch and Sarah Venables for their helpful input and comments.
+See
+The Bank of England's system-wide exploratory scenario exercise final report | Bank of England
+for further detail.
+Liquidity in Core Government Bond Markets - Financial Stability Board
+See Bailey (2025),
+Are we underestimating changes in financial markets? - speech by Andrew Bailey | Bank of England
+See Saporta (2025),
+The evolving liquidity landscape − speech by Victoria Saporta | Bank of England
+How has the changing cash-collateral backdrop affected repo markets? | Bank of England
+Financial Stability Report - July 2025 | Bank of England
+See
+The Bank of England's system-wide exploratory scenario exercise final report | Bank of England
+for further detail.
+Financial Stability Report - November 2024 | Bank of England
+Financial Policy Summary and Record - March 2023 | Bank of England
+Contingent Non-Bank Financial Institution Repo Facility (CNRF) | Bank of England
+Enhancing the resilience of the gilt repo market | Bank of England
+SEC.gov | SEC Adopts Rules to Improve Risk Management in Clearance and Settlement and Facilitate Additional Central Clearing for the U.S. Treasury Market
+Baranova et al (2023), “
+The potential impact of broader central clearing on dealer balance sheet capacity: a case study of UK gilt and gilt repo markets
+”, Bank of England staff working paper no. 1026.
+See Breeden (2025),
+A system-wide approach to system-wide resilience: CCPs and their users − speech by Sarah Breeden | Bank of England
+See Nathanaël (2023),
+Letter from Nathanaël Benjamin and David Bailey – Fixed income financing thematic review | Bank of England
+See Nathanaël (2023),
+Letter from Nathanaël Benjamin and David Bailey – Fixed income financing thematic review | Bank of England
+Close
+See Breeden (2025),
+A system-wide approach to system-wide resilience: CCPs and their users − speech by Sarah Breeden | Bank of England
+Close
+Baranova et al (2023), “
+The potential impact of broader central clearing on dealer balance sheet capacity: a case study of UK gilt and gilt repo markets
+”, Bank of England staff working paper no. 1026.
+Close
+SEC.gov | SEC Adopts Rules to Improve Risk Management in Clearance and Settlement and Facilitate Additional Central Clearing for the U.S. Treasury Market
+Close
+Enhancing the resilience of the gilt repo market | Bank of England
+Close
+Contingent Non-Bank Financial Institution Repo Facility (CNRF) | Bank of England
+Close
+Financial Policy Summary and Record - March 2023 | Bank of England
+Close
+Financial Stability Report - November 2024 | Bank of England
+Close
+See
+The Bank of England's system-wide exploratory scenario exercise final report | Bank of England
+for further detail.
+Close
+Financial Stability Report - July 2025 | Bank of England
+Close
+How has the changing cash-collateral backdrop affected repo markets? | Bank of England
+Close
+See Saporta (2025),
+The evolving liquidity landscape − speech by Victoria Saporta | Bank of England
+Close
+See Bailey (2025),
+Are we underestimating changes in financial markets? - speech by Andrew Bailey | Bank of England
+Close
+Liquidity in Core Government Bond Markets - Financial Stability Board
+Close
+See
+The Bank of England's system-wide exploratory scenario exercise final report | Bank of England
+for further detail.
+Close
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

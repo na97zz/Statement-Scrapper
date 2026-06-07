@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Strengthening resilience in a changing geopolitical landscape",
+  "date_original": "2023-07-17",
+  "date_au": "17/07/2023",
+  "datetime_original": "",
+  "speaker": "Welcome address by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230717~a9e0adacb8.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-07-17 - Welcome address by Christine Lagarde - Strengthening resilience in a changing geopolitical landscape.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-07-17 - Welcome address by Christine Lagarde - Strengthening resilience in a changing geopolitical landscape.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e8b08f17deb402758f37e5dd0d71d8832a436db5ff30f69b4f130e842befd997"
+}

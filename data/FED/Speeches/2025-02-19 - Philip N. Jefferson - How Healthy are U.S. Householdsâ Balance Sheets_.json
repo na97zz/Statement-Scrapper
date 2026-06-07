@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "How Healthy are U.S. Householdsâ Balance Sheets?",
+  "date_original": "2025-02-19",
+  "date_au": "19/02/2025",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250219a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-19 - Philip N. Jefferson - How Healthy are U.S. Householdsâ Balance Sheets_.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-19 - Philip N. Jefferson - How Healthy are U.S. Householdsâ Balance Sheets_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6ff6863470fb6c17de84218c14d7ae610de4de3b44bbc71822e2458ac8ecf945"
+}

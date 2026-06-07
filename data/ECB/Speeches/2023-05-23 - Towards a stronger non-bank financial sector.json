@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Towards a stronger non-bank financial sector",
+  "date_original": "2023-05-23",
+  "date_au": "23/05/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230523~22f6621da7.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-05-23 - Towards a stronger non-bank financial sector.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-05-23 - Towards a stronger non-bank financial sector.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c1533a0ff01c7ae7a9c646204692aeb11e5603f3c1e3e0ec8f6e7ea279e68c59"
+}

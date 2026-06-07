@@ -1,0 +1,139 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A data revolution: Built together, for everyone - speech by James Benford
+DATE: 01/06/2024
+SPEAKER: James Benford
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/july/speech-given-by-james-benford-at-the-fca-data-innovation-for-future-of-regulation
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+A data revolution: Built together, for everyone - speech by James Benford
+Given at the FCA Data innovation for Future of Regulation (DiFoR) conference
+Published on 
+
+ 08 July 2024
+James sets out the Bank’s new data and analytics strategy, including our goals, recent successes and the plan ahead. A new cloud enterprise data platform will be built and launched over the coming year. The success of the strategy is about people with strong partnerships and broad-based training to make it work for everyone.
+Speech
+It’s a pleasure to speak to you all today about the new data and analytics strategy at the Bank of England.
+Like many, we are on a long journey in our use of data, as we adapt our approach to benefit from changing technologies. Opportunities like this one, for central banks and regulators to share progress and lessons learnt along the way, are critical for our collective success. I would like to congratulate the Financial Conduct Authority for running the second event in this series. I hope by sharing our progress and ambitions, we can help to keep this conversation going.
+Last year, the Bank’s Independent Evaluation Office (IEO) conducted a review of how we use data to support our decisions. The IEO is an independent unit that supports Court (the Bank’s Board) in reviewing our performance. It completed a thorough assessment of where the Bank is on its transformation of data and analytics. This review gave us 10 recommendations under three themes, which were around creating an ambitious vision, removing technological and cultural barriers to change, and supporting
+all
+our colleagues to work with data.
+Our new data and analytics strategy calls for us to match the technological changes we are seeing with a revolution in our approach to data and analytics at the Bank of England. By embracing best practice and innovation, we can work more efficiently, make better decisions, and so better serve the people of the United Kingdom.
+People are at the heart of the change we are working towards. There needs to be a strong partnership between the centre and all areas of the business, to make sure change is both driven by business needs and coherent as a whole. To exploit opportunities fully we need to support everyone in their use of data, not just the minority in analytical roles.
+It won’t happen overnight, but it will be collaborative and inclusive. A data revolution, built together, for everyone.
+What is our data revolution?
+Our Bank-wide Data & Analytics strategy
+[1]
+is organised around three components: strategic objectives that describe the outcomes we are working towards; three missions describing the capabilities that we need to build to get there; and two supporting foundations. We are using these to engage with our colleagues and help to tell the story of our strategic implementation, to form milestones, to track progress and celebrate success.
+Figure 1: The Bank’s data and analytics strategy
+Outcomes from improved use of data
+We are working to ensure that:
+decision makers have direct access to the data products that meet their requirements and continually improve;
+all staff have access to data and analytical tools they need;
+processes involving data and analytics are efficient, in line with our policies and risk tolerance;
+we have a strong data culture that supports data sharing and collaboration;
+our data collections effectively meet user needs and is efficient for all involved.
+We are developing measures of progress against these outcomes that can be tracked regularly.
+Foundation up front: Cloud for data
+Our data and technology areas are working to establish an enterprise data platform on the cloud as a foundation delivered up front. We have begun to pilot some of our current data & analytics services on a tactical cloud solution and have now selected a partner to build our strategic solution. They are committed to working with us to build a minimum viable product by the autumn and to take the platform live by end of our financial year.
+The build is being informed by experience from the pilots as well as the requirements of our major programmes.
+In parallel to the build, we are designing our target operating model for the platform. Given our ‘cloud first’ approach, the operating model around the platform will effectively form the basis for data and analytics in the Bank going forward. We will be looking to embed a federated model for data governance, with data owned and managed by the relevant experts in the business. Under that model, local teams will build and continuously improve data products that serve not only their needs, but also the organisation’s as a whole, designed to common standards to keep the system safe, effective coherent. And, we are also working to make sure the costs of working with data on the cloud are transparently managed and allocated.
+Mission 1: make it easy or people in the Bank to work with and analyse our data
+The new cloud environment will support our first mission to make it easy for our colleagues to work with and analyse our data.
+We are currently rolling out refreshed policies to improve how our most important uses of data documented, learning from experience to registering our core data sets and analytical processes to date. That will help guide our migration of data to the cloud and build and enhance our data catalogue.
+We continue to invest in our analytical toolkit. One in five people in the Bank are already using R and Python to do their work and we recently stood up a new service to help them share dashboards at scale that will work with data on premise or on the cloud. And we have recently allowed our existing on premise platform for managing our largest datasets, such as trade repository data on derivatives and securities financing, to call on compute capacity in the cloud.
+Over time we expect most of our analytical processes and datasets to move to a cloud-native environment. We are working in partnership with local areas to migrate use cases that are straight-forward and/or have large business benefits first and expect to make the new cloud enterprise data platform our core analytical platform within three years.
+Mission 2: bridge the data gaps to increase the value of the data we collect and share
+Our second mission ensures we bring the right data into the organisation, we do so efficiently, and we maximise the value of what we have by sharing it externally where appropriate. Core to this is how we manage our data collections.
+We are aiming to move production of some 300,000 published statistical series to the cloud by the end of the next financial year, to give us a smoother, more efficient and shorter production cycle.
+We are working with our own Prudential Regulation Authority, as well as our hosts here today at the Financial Conduct Authority to fundamentally reform our approach to regulatory data collections, to make sure they meet our needs at the lowest possible cost. With some 200 regular collections and very large ad hoc exercises such as stress testing, this is a complex, multi-year endeavour and we are working to engage industry on the full business case for the programme of work over the next year. Critical to the endeavour is embedding data standards that are used by firms internally into our reporting instructions and I’m delighted that we have a new Industry Data Standards Committee to help guide us here, including by developing new data standards where they are missing.
+We will engage with UK and international organisations to explore where we can share more data and we will actively contribute to the development of updated international statistical standards for compiling macroeconomic statistics. We are looking forward to kicking off a cross-Whitehall workshop on Flow of Funds later this month, where the ONS and Bank will agree a workplan to share data effectively to enhance the UK’s financial accounts with particular focus on non-bank financial intermediaries. And we will look to innovate how we publish our statistics externally include by exploring how we can best make our data available programmatically via an Application Programming Interface (API).
+Mission 3: enable safe and effective innovation, including artificial intelligence.
+Our third mission is to enable safe and effective innovation, including Artificial Intelligence. Our goal is to encourage responsible experimentation and the use of new technology, whilst holding ourselves to the highest ethical and transparency standards.
+We are currently piloting off-the-shelf ‘copilot’ tools with around 300 users around the Bank. These tools are already helping them to summarise meetings and documents efficiently and generating time savings on coding work.
+The Prudential Regulation Authority has been pioneering for some time the application of machine learning and large language model tools to categorise, extract and so allow reliable querying of the large quantity of unstructured information they receive regularly from firms’ management information, board packs and disclosures. They are finding that a sequence of small, specifically-configured models used to effect a workflow, can be more reliable and transparent than running one large, general-purpose model.
+We are drawing on this work to explore how AI can support the Bank’s regional agents, whose job it is to take a read on economic conditions in different parts of the country, and who write up some 4,000 company visits per year. This will allow them, for example, to produce faster, more effective and more efficient analysis to support the MPC make critical decisions for our economy.
+We are also looking at broader applications like the use of internal chatbots to query corporate policies and internal knowledge repositories, such as our intranet site and team wiki pages.
+We have established an interim AI policy to ensure our approach to piloting is safe and effective and are working towards the formation and publication of a fuller AI strategy by the autumn. We will be learning constantly as we go.
+Ongoing foundation: business change, skills and culture
+Realising the full potential of these new capabilities relies upon effective management of the business change involved, broad-based skills and a strong culture. That is our ongoing foundation, critical to all the missions.
+We are working with our People area to establish data as a formal profession at the Bank and are building a broader data and AI curriculum for all roles. We made a start on that this year with three days of induction on data and AI as part of our new graduate induction programme and will look to broaden that in the coming year for all new joiners.
+We have set up a new platform for colleagues to browse and follow self-directed learning and are using it to broaden access to content developed across the business. The PRA’s Digital Skills programme is now available to all staff and we are looking at how we can extend their programme of coaching to senior leaders across the whole organisation.
+We will be looking to target the build and roll-out of new material as new capabilities are built and to have the curriculum in place with resources to support it over the next three years.
+How are we building our data revolution together?
+We have agreed three sets of principles to guide how we build our data revolution:
+We take a Bank-wide approach, we work from shared systems, common data and collaborate on analysis;
+We start with business outcomes and enable experts in the business to build accessible tools for users to interrogate data;
+We manage our data consistently, securely, transparently and ethically, promoting trust, extensive sharing and safe innovation.
+We have put in place a team of Data & Analytics partners that is working across the business to articulate their local strategy and define business needs. The team will be critical to capturing strategic demand from the business, finding ways to meet it, and making sure we are all working together towards our shared goals.
+To manage the larger pieces of change we have set up a portfolio of data programmes and projects. Our data sub-portfolio is unusual in that that it cuts across the whole organisation, rather than being confined to one part of it.
+Figure 2: Our data sub-portfolio
+By working collaboratively across the whole organisation, we can have an approach that is both coherent whole and that is tailored to specific business needs.
+We have prioritised work to modernise management of macroeconomic data and forecasting in support of monetary policy, a key part of the response to the Dr Bernanke’s review, to modernise statistical production and to transform the approach to regulatory data collections. The requirements of these three programmes will inform the build of the cloud platform. And as their move to the cloud is worked through they will give us practical worked-examples of how the Bank’s federation will work in practice, providing a blueprint for how the centre and the business will operate going forward.
+We are already preparing for a next wave of business projects. I am particularly excited about the new People Insights Dashboard that will be used in every part of the organisation and will also give us a model for how we integrate data in our corporate systems through to the new cloud platform.
+We are formalising the relationship with these programmes through a monthly data portfolio board, which will drive overall delivery and manage risks and interdependencies.
+How are we making it work for everyone?
+Our data revolution will allow everyone in the Bank to participate and benefit.
+A key part of this is broadening our focus on skills. We will look at the way all our colleagues, not just the data specialists, work with and interpret data.
+We will roll out a skills curriculum to promote AI and data literacy for everyone, for all job roles at all levels in the organisation. This will go beyond technical training and includes, for example, story-telling with data and decision-making.
+This will help us to create a supportive D&A culture, with colleagues solving problems and learning together. We encourage our colleagues to share their analyses where appropriate, and have set up a platform to enable them to do this, and to search for work that others have done. One in four at the Bank are already a member of our data community and I was delighted to see a collaboration with the LGBTQ+ network to produce showcase how our tools can help visualise data from the latest census on sexuality orientation and gender identity. We’ll be publishing the winning entries in a Bank Underground piece shortly.
+Large language models, and generative AI, are game changers when it comes to making sure everyone has access to the rich insights from data.
+Everyone can interact with chatbots. With the right controls in place,
+everyone
+can reliably chat with an organisation’s documents, quickly assimilating the information that is relevant to the task or decision at hand. With the right meta-data in place,
+everyone
+can reliably query an organisation’s data, asking to see a chart of a bank’s capital ratio and an account of the latest movement. In time,
+everyone
+will be able to chat with models too, querying and interrogating their outputs.
+The direction here, the theme of this year’s Gartner conference, is collective intelligence: the unlocking of the full potential of an organisation by allowing all minds to work with its accumulated knowledge, data and modelling.
+Though the potential is great, it is not without risk. It relies on the right controls and structure behind the scenes, and it relies on strong collective understanding of the data and models involved, their strengths and, above all, their limitations. We will need to consider carefully how we stress test the systems we are building, to understand how they will behave across a variety of conditions.
+As a public institution, we will continue to be open and transparent about our data strategy, our progress and achievements, and how we are using data. By sharing accurate and timely data, we can support informed decision-making by policymakers, researchers, and financial institutions outside of the Bank. And if stakeholders understand the basis for the Bank's decisions, it can lead to greater confidence in our policies and actions.
+Conclusion
+In conclusion, our data strategy focuses on how we best support our people to make decisions in support of our mission, to maintain monetary and financial stability.
+We have made great progress against our data agenda, working towards Bank-wide use of innovative new tools, but we do need to be aware of the risks and limitations.
+Today, technology has given us ever more complex and powerful predictive models for every task. Trained on the past, they seek to predict how we will answer a question, respond to a command, draw a picture or even compose and sing a song. The models are so complex, we struggle to articulate clearly how they work.
+Amidst all that power and complexity, it is important that we remain grounded in learnings from the past. As a British statistician said almost fifty years ago, ‘all models are wrong, but some are useful’. An older, Arab proverb puts it more bluntly, ‘he who foretells the future lies, even if he tells the truth’.
+The truth is the future is never predicted.
+The future is shaped, it is driven, it is built by the decisions that
+we
+collectively make. Models
+can
+help to better guide, but humans decide.
+By being open on our strategy, by engaging with and learning from all of you, I hope we at the Bank can make our contribution to decisions that will make for a brighter future. Thank you for listening.
+Acknowledgements
+I would like to thank Noor Rassam for helping me to prepare these remarks and Martine Clark, Peter Eckley, Perry Francis, Beth Hall, Chris Kelly, Leslie Lambert, Jason Middleton, Paul Robinson, Mohini Subhedar and Lewis Webber for feeding in various facts.
+Details on the PRA’s work on improving data-related capabilities to support supervision has progressed can be found in the PRA’s recent Business Plans and Annual Reports. Change is being driven via a hub-and-spokes framework, led by RegTech, Data and Innovation Division run by Lewis Webber, and within which key aspects of the work are managed by Carmen Barandela, Marvin Tewarrie, and Viji Viyakesparan.
+A big focus of work in recent months have focused on mobilising the ‘Cloud for Data’ team to build our Cloud Enterprise Data Platform and design the operating model around it. The team is led by Paul Robinson in Data and Analytics Transformation (DAT) and Eugenia Planas in Technology and special mention goes also to Barry Willis, Jatin Mandalia and Ben Dingley for excellent work at pace to mobilise this critical foundation up front. Special thanks goes also to Rebecca Braidwood, Jamie Greig and Mike Wolstenholme for their efforts to set up the new data sub-portfolio and establish ‘Cloud for Data’ as a new programme.
+The
+data strategy and accompanying three-year plan
+is now published on the Bank’s external website. The work to finalise it was led by the DAT Leadership Team, of Martine Clarke, Peter Eckley and Paul Robinson, with Mohini Subhedar leading on skills, working with Natasha Oakley in People on the new professions model and with Viji in the PRA to take their digital skills and coaching agenda Bank-wide. Special thanks going to Ollie Edwards for heroic efforts, working with David Learmonth, Jas Lally and Arti Patel, to draw all the pieces together. In terms of where we are building from, the Bank is indebted to Peter Eckley’s leadership over many years, which has given us an excellent on premise data platform and master & reference data service, a strong data and analytics community, with one in five at the Bank coding to do their work and seven in ten accessing our dashboards, and many teams around the Bank benefiting from a long back-catalogue of 30 projects to improve analytical processes in different parts of the business.
+Thank you also to Andrew Bailey, Nat Benjamin, Papiya Chatterjee, Rebecca Jackson, Clare Lombardelli, Niamh Reynolds, Paul Robinson, Ben Stimson and Seb Walsh for comments.
+For more details around how this refresh was conducted, please refer to
+A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford | Bank of England
+↑
+Convert this page to PDF
+James Benford
+Former Executive Director for Data and Analytics Transformation and Chief Data Officer from 2023 to 2025
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

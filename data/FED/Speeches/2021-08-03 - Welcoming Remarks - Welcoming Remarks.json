@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2021-08-03",
+  "date_au": "03/08/2021",
+  "datetime_original": "",
+  "speaker": "Welcoming Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20210803a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-08-03 - Welcoming Remarks - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-08-03 - Welcoming Remarks - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "361e573a45b0a21589ba90d27d1d1c8e7be23d67308ceedfe5c1b75a31f2867f"
+}

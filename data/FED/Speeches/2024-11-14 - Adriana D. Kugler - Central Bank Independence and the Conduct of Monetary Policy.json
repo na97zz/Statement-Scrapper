@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Central Bank Independence and the Conduct of Monetary Policy",
+  "date_original": "2024-11-14",
+  "date_au": "14/11/2024",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20241114a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-11-14 - Adriana D. Kugler - Central Bank Independence and the Conduct of Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-11-14 - Adriana D. Kugler - Central Bank Independence and the Conduct of Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1c31ff8ea3dfa983bb200eda988b4a1897c8ac9532f6226b5ec1787ba7536220"
+}

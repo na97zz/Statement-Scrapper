@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Envisioning the Future of Payment Systems in the Digital Society\" (Opening Remarks at the Ninth Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency)",
+  "date_original": "2025-06-13",
+  "date_au": "13/06/2025",
+  "datetime_original": "",
+  "speaker": "KAMIYAMA Kazushige",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko250613a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-06-13 - KAMIYAMA Kazushige - _Envisioning the Future of Payment Systems in the Digital Society_ (Opening Remarks at the Ninth Meeting of the Liai.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-06-13 - KAMIYAMA Kazushige - _Envisioning the Future of Payment Systems in the Digital Society_ (Opening Remarks at the Ninth Meeting of the Liai.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4e7a688f7bc1a5451820395f13bef91547a170227dcb9ade9def34d52a438fa3"
+}

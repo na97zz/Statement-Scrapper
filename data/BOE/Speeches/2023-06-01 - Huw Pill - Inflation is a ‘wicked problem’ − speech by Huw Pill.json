@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Inflation is a ‘wicked problem’ − speech by Huw Pill",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Huw Pill",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/february/huw-pill-fireside-chat-at-the-warwick-think-tank-on-the-uk-economy",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Huw Pill - Inflation is a ‘wicked problem’ − speech by Huw Pill.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Huw Pill - Inflation is a ‘wicked problem’ − speech by Huw Pill.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "019c5eb47e5785e4775541c53b7d08e74bcb5b454255819189e9294cf7d5d1b4"
+}

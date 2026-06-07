@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Financial stability in uncertain times",
+  "date_original": "2025-04-03",
+  "date_au": "03/04/2025",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250403~64e41daf3f.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-04-03 - Luis de Guindos, Vice - Financial stability in uncertain times.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-04-03 - Luis de Guindos, Vice - Financial stability in uncertain times.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4bfa1832a50629b61d79681f38d5986308c8f4faaca9eef94f7d114af85a4486"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Is monetary policy dominated by fiscal policy?",
+  "date_original": "2024-06-07",
+  "date_au": "07/06/2024",
+  "datetime_original": "",
+  "speaker": "fiscal policy?",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240607~c6ae070dc0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-06-07 - fiscal policy_ - Is monetary policy dominated by fiscal policy_.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-06-07 - fiscal policy_ - Is monetary policy dominated by fiscal policy_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4c8cb70a2427a86a27defd5bde658cb61548417f80cc5fb573b9560c15e3c0ad"
+}

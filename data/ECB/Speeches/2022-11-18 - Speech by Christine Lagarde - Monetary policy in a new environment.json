@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy in a new environment",
+  "date_original": "2022-11-18",
+  "date_au": "18/11/2022",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221118~639420cee0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-18 - Speech by Christine Lagarde - Monetary policy in a new environment.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-18 - Speech by Christine Lagarde - Monetary policy in a new environment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e052671cb6e1b3ae5a1f1217f02dc031f6eaddcf6f138e243144d4df4295e63e"
+}

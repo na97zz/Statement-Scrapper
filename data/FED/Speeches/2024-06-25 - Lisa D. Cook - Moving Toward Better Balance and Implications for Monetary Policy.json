@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Moving Toward Better Balance and Implications for Monetary Policy",
+  "date_original": "2024-06-25",
+  "date_au": "25/06/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20240625a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-06-25 - Lisa D. Cook - Moving Toward Better Balance and Implications for Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-06-25 - Lisa D. Cook - Moving Toward Better Balance and Implications for Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1f27a763eee96f8f1cac655ec409058cd1bb46320313c94ea562c6e67efd221a"
+}

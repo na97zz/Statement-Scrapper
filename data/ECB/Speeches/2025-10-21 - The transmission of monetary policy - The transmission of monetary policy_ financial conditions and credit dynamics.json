@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The transmission of monetary policy: financial conditions and credit dynamics",
+  "date_original": "2025-10-21",
+  "date_au": "21/10/2025",
+  "datetime_original": "",
+  "speaker": "The transmission of monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251021~a757abf975.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-10-21 - The transmission of monetary policy - The transmission of monetary policy_ financial conditions and credit dynamics.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-10-21 - The transmission of monetary policy - The transmission of monetary policy_ financial conditions and credit dynamics.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "215110485bf4ac3b0b548c16bb1b240a4defb1cee52857903480c1291c2c80c6"
+}

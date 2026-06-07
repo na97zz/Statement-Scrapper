@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2023-06-22",
+  "date_au": "22/06/2023",
+  "datetime_original": "",
+  "speaker": "Welcoming Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230622a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-06-22 - Welcoming Remarks - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-06-22 - Welcoming Remarks - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "29195828f372bcc06fe898e37c4bb83f7c2ad37f2d72c94fb27b8489c013ea9d"
+}

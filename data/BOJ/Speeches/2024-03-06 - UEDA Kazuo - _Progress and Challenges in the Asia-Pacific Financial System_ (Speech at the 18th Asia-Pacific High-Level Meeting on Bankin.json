@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Progress and Challenges in the Asia-Pacific Financial System\" (Speech at the 18th Asia-Pacific High-Level Meeting on Banking Supervision)",
+  "date_original": "2024-03-06",
+  "date_au": "06/03/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240306b.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-03-06 - UEDA Kazuo - _Progress and Challenges in the Asia-Pacific Financial System_ (Speech at the 18th Asia-Pacific High-Level Meeting on Bankin.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-03-06 - UEDA Kazuo - _Progress and Challenges in the Asia-Pacific Financial System_ (Speech at the 18th Asia-Pacific High-Level Meeting on Bankin.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d54609ee9bcae30af015e355c804ae44f91ae1dfe98318cc742e2390887732d1"
+}

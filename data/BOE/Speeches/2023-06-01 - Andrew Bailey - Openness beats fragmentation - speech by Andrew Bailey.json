@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Openness beats fragmentation - speech by Andrew Bailey",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/november/andrew-bailey-keynote-address-at-the-central-bank-of-ireland",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Bailey - Openness beats fragmentation - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Bailey - Openness beats fragmentation - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c4602292703521e4a17ab76c40e21770a26223da0a84a5f82eacdc4830553282"
+}

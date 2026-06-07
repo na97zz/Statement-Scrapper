@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2023-11-01",
+  "date_au": "01/11/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20231101.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2023-11-01 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2023-11-01 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:50:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fcf5f66ad55fd7470dd8af44961370538d52ed2b6ecbf8cf0d3cf313f9ad658e"
+}

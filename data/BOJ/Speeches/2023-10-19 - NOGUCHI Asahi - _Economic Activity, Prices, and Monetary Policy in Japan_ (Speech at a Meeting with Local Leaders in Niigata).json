@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Niigata)",
+  "date_original": "2023-10-19",
+  "date_au": "19/10/2023",
+  "datetime_original": "",
+  "speaker": "NOGUCHI Asahi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko231019a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-10-19 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Niigata).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-10-19 - NOGUCHI Asahi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Niigata).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "26aa88c760420163c1a5639c68113ec91e66abac6ed76f196474b3f50a0f6a9c"
+}

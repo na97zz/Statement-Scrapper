@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Europe as a common shield: protecting the euro area economy from global shocks",
+  "date_original": "2022-07-01",
+  "date_au": "01/07/2022",
+  "datetime_original": "",
+  "speaker": "Europe as a common shield",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220701~254252d76e.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-07-01 - Europe as a common shield - Europe as a common shield_ protecting the euro area economy from global shocks.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-07-01 - Europe as a common shield - Europe as a common shield_ protecting the euro area economy from global shocks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f30f58b2439c28ba30b6d1f078aa3ee581f99cb858389530ca46f19b7bd16045"
+}

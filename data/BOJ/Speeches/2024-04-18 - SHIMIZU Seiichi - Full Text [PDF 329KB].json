@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "Full Text [PDF 329KB]",
+  "date_original": "2024-04-18",
+  "date_au": "18/04/2024",
+  "datetime_original": "",
+  "speaker": "SHIMIZU Seiichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/data/ko240418b.pdf",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-04-18 - SHIMIZU Seiichi - Full Text [PDF 329KB].pdf",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-04-18 - SHIMIZU Seiichi - Full Text [PDF 329KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9cae0c4f5f8f66f9be38771b732d35745e871c9c86fe45bfc05d649f1ae27301"
+}

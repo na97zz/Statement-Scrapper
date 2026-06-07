@@ -1,0 +1,94 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Building trust and supporting innovation in the multi-moneyverse − speech by Sarah Breeden
+DATE: 01/06/2025
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/september/sarah-breeden-keynote-speech-at-the-boe-and-warwick-business-school
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Building trust and supporting innovation in the multi-moneyverse − speech by Sarah Breeden
+Given at the Bank of England and Warwick Business School Innovation in Money and Payments Conference
+Published on 
+
+ 03 September 2025
+Innovation in money and payments is happening at pace. In this speech, Sarah sets out her vision for a “multi-money” system where different forms of money including traditional and tokenised commercial bank deposits, stablecoins and central bank money are freely exchangeable – delivering the benefits of innovation to UK households and businesses, whilst safeguarding trust in money itself.
+Speech
+Introduction
+It’s a hugely exciting time to be following innovation in money and payments. Just as the introduction of electronic transfers, the development of the ATM, and the launch of instant retail payment systems unlocked fundamentally new ways of transferring money in increasingly cheaper, more convenient and faster ways, today new technology is heralding new ways of making payments. As our lives become more interconnected, and more technology-driven – whether that’s through the ubiquity of the internet, or the increased adoption of AI – money and payments need to keep up.
+I wanted to use my time this morning to set out the UK context for this innovation and change, setting out how our work across the authorities and industry fits together into a vision for an innovative, vibrant, “multi-money” system. That means a system characterised by choice across different forms of money and payment; with technology driving faster, cheaper, and more innovative payments for the benefit of business, households, and users of financial markets; and – critically – with the whole system underpinned by trust in money itself.
+As central bankers, we can do three things to deliver this vision.
+First, we provide the necessary underlying infrastructure. That is vital given the important role of central bank money for settling the most critical payments in the economy.
+Second, we provide regulatory frameworks and supervise both financial market infrastructures, like payment systems, and banks as issuers of private money.
+And third, we can set an overall strategy to help enable the innovation which drives better outcomes for users of payments, greater efficiencies, new functionalities, and ultimately economic growth; whilst also ensuring that these benefits don’t come at the cost of our wider public policy goals, such as monetary and financial stability.
+Different jurisdictions are adopting different approaches as they respond to these innovations. Today I’ll explain the UK’s approach.
+Providing infrastructure
+To start with infrastructure, in April of this year, the Bank of England launched its new Real Time Gross Settlement service – RT2. As the most liquid, risk-free asset available, central bank money is the most appropriate settlement asset for the most systemic transactions in the financial system. And so, as the financial system evolves, and new technologies drive innovation in trading and settlement, our payments infrastructure must keep pace to preserve the role of central bank money at the heart of the financial system – including in a tokenised world.
+My colleague, Victoria Cleland,
+has spoken
+about RT2’s capabilities, so I won’t cover in detail. But suffice to say, RT2 is a state-of-the-art, world-leading wholesale payments system which gives the UK the platform to build the next generation of market infrastructure.
+Already today, RT2 has functionality which can enable settlement in central bank money for assets traded and settled in other systems, including those traded ‘on-chain’ in programmable and distributed ledgers (DLT). And next year we will launch our synchronisation lab that will allow central bank settlement to be fully integrated with transactions happening on other ledgers – again including programmable and distributed ones. I cannot emphasise enough how critically important this infrastructure is in supporting the next generation of trading and settlement in wholesale financial markets.
+The design phase of our Digital Pound project has allowed us to explore the potential for central bank provision of retail infrastructure, by developing a blueprint for how a digital pound could work – considering, for example, how to make sure digital money can be used even where connectivity isn’t available. This blueprint, due to be published next year, will set out the key design elements necessary to support the Bank and HM Treasury in assessing the policy case for a digital pound.
+Importantly, all this is not just theoretical work. The
+Digital Pound Lab
+, launched last month, enables industry to work with us in some hands-on experimentation to test the capabilities of a digital pound and digital money more broadly. Whilst these aren’t live transactions, the lab allows us to explore the role of central bank provided infrastructure in supporting private sector innovation and gives the private sector a place to innovate and experiment.
+And finally in the wholesale space, along with the BIS Innovation Hub, our
+DLT innovation challenge
+is looking at whether wholesale central bank money can be transacted and settled on an external programmable ledger outside of the control of the central bank – furthering our understanding of the functionality and role of a wholesale central bank digital currency.
+Designing regulatory frameworks
+Central banks and regulators also have a role in regulating both issuers of money and the financial market infrastructure (FMIs) which provide the means for moving money and assets around the financial system.
+Having the right regulatory frameworks in place is vital for innovation to thrive. Appropriate management of risk, and avoiding costly failures, will support broader adoption of new innovations. But designing those regulatory regimes in a world as fast-moving as the one we’re currently in is challenging – we have to be, and we are, open to ‘learning as we go’.
+One practical way we are doing that is the Digital Securities Sandbox, an initiative launched with our colleagues at the FCA.
+The Digital Securities Sandbox is a regulated live environment, where we can learn from how tokenisation and DLT-based transactions take place in the real world. By initially limiting the scale of transactions we can do that learning safely, without putting financial stability at risk. This approach ensures that our regulatory regimes keep pace with innovation, and the risks posed, taking a forward-looking approach to maintaining financial stability, whilst also allowing meaningful activity to take place now.
+Tokenisation isn’t just happening in securities. We need tokenisation of money too if we are to exploit the full benefits of ‘on chain’ settlement. Broadly that tokenised money could take three forms: a central bank issued digital currency (or an ‘on chain’ representation of central bank money); a tokenised commercial bank deposit; or a stablecoin.
+The UK set out the necessary legislation for a regulatory regime for stablecoins in 2023. In parallel, the Bank and the FCA have been engaging with industry to develop the more detailed rules of that regime.
+For our part, we’ve been engaging closely with industry and listening attentively to feedback on our 2023 proposals for a regulatory regime for systemic stablecoins. We’ll be setting out some revised proposals for consultation later this year, including revised proposals that would allow systemic stablecoins to hold a portion of their backing assets in a subset of high quality liquid assets (HQLA) such as short-dated government securities.
+This change addresses feedback that our initial approach would not support the predominant business model amongst stablecoin issuers, which relies on income from backing assets, whilst continuing to ensure that stablecoins that are widely used as money are safe. It also helps to smooth the ‘cliff-edge’ between the FCA’s rules and the additional requirements we would place on systemic issuers. We look forward to engaging further with industry through the consultation process before finalising our regime.
+It’s not just business models that have developed since we first put out proposals for a regulatory framework for stablecoins. Whilst we initially focused on stablecoins being used for retail payments, new use cases are emerging as financial markets move on-chain.
+My view is that central bank money must remain the settlement asset for systemically important markets to ensure we don’t introduce unnecessary financial stability risks. After all, even well-regulated, fully-backed private money has a degree of risk which is not the case for central bank money. That’s why the launch of RT2 is so critically important to supporting safe innovation.
+But central bank money isn’t needed for all settlement now and it won’t be needed for all settlement in the future. That’s why there will be an important role in the financial system for privately issued money: both tokenised deposits and stablecoins.
+Tokenised deposits could deliver the benefits of programmability and instantaneous settlement, using a product with which customers are already familiar, whilst also being packaged up with credit provision as per the traditional banking model. A steady and reliable supply of credit to the real economy is a key enabler of economic growth and is an area we will remain focused on as innovation in money progresses.
+In the meantime, stablecoins, for a long time the preserve of crypto markets, are beginning to go ‘mainstream’. Given they are an existing form of ‘digitally native’ money, their safe adoption could unlock faster, cheaper settlement for cross border transactions as well as supporting trading of tokenised securities. We want to explore these wholesale financial market use cases further in our Digital Securities Sandbox by exploring how stablecoins, as well as tokenised deposits, can be used as the ‘cash leg’ for settling securities issued in the sandbox.
+Regardless of the exact form of digital money, our job as a central bank and prudential regulator is to make sure that the regulatory regimes for these new forms of private money ensure that businesses and households are able to enjoy the benefits of innovation whilst being able to continue to trust the money they use, at all times. That way we can innovate sustainably, without compromising financial stability.
+Setting strategy: a vision for the UK payments landscape
+With so much change going on across infrastructure and regulation, it is crucial that public authorities, including central banks, set clear strategy to guide investment and innovation.
+In July 2025, the UK’s Payments Vision Delivery Committee (PVDC), set up under HM Treasury’s National Payments Vision,
+announced
+a new model to deliver the next generation of UK retail payments infrastructure.
+This model embeds a more proactive role for the UK authorities in setting joint strategy in retail payments. It creates the new Retail Payments Infrastructure Board (RPIB), chaired by the Bank of England in its capacity as a systems operator, to translate that strategy into the next level of design. Industry will chair a delivery company, responsible for procuring and funding the next generation infrastructure. Pay.UK, the Payment System Operator, will continue, as today, to do their vital job of running the systemically important interbank payment schemes through this period of change.
+At the same time, HM Treasury also published its
+Wholesale Financial Digital Markets Strategy
+, setting out how digitalisation and developments in DLT as well as other technology such as AI and quantum computing present an opportunity to optimise, and ultimately transform financial markets. Across its infrastructure provision and regulatory roles, the Bank will have a key role to play in supporting this strategy, for example through the issuance of the UK’s Digital Gilt – DIGIT – using a platform in the Digital Securities Sandbox.
+Later this year PVDC will publish its strategy and a Payments Forward Plan. It is not my intention to front-run those publications, but perhaps I can set out my own view on what all of these developments mean for payments and money in the UK.
+My vision for the UK payments landscape is one of a “multi-money” mixed ecosystem, where different forms of money play their own roles, maximising utility for UK businesses and households. But to maximise benefits as well as safeguard financial stability and trust in all forms of money, this system must be underpinned by interoperability. That means that both the hard, technical infrastructure and the ‘soft’ infrastructure such as regulatory standards will need to be harmonised – or at least compatible – across different forms of money allowing them to be freely and frictionlessly exchanged at par.
+This payments ecosystem would be resilient – as households and businesses could easily switch between different forms of money and payment, whether that’s bank notes, traditional or tokenised commercial bank money, stablecoins, or a digital pound. It would allow innovation to thrive in a competitive environment; avoiding the pitfalls of allowing “walled gardens” to emerge, where the network effects which are inherent to successful payment systems over time deliver suboptimal outcomes for users such as high fees or a need to maintain multiple accounts, apps, or wallets. And, as I
+discussed earlier this year
+, interoperability and harmonisation could lay the necessary groundwork for much needed improvements in cross-border payments.
+Conclusion
+I hope these remarks have helped to set the scene for the fascinating discussions that will take place at this conference. As the central bank, it is not our job to ‘pick winners’ when it comes to innovation. Rather, we need to support a thriving, dynamic, and competitive landscape with interoperability at its core. That interoperability underpins what central bankers describe as ‘singleness’ of money and therefore trust in money itself. Trust in money is our core concern – and we will be laser focused on ensuring that it is preserved, whilst also ensuring new technologies and innovations drive economic growth and better outcomes for the businesses and consumers who use payments every day.
+I would like to thank Francine Robb for her assistance in drafting these remarks. I would also like to thank Andrew Bailey, David Bailey, Victoria Cleland, Dayo Forster and Nimra Mahmood for their helpful input and comments.
+Sarah Breeden
+Deputy Governor, Financial Stability
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

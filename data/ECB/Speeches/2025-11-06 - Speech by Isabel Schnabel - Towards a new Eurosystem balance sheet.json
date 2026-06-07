@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Towards a new Eurosystem balance sheet",
+  "date_original": "2025-11-06",
+  "date_au": "06/11/2025",
+  "datetime_original": "",
+  "speaker": "Speech by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251106~1133f93311.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-11-06 - Speech by Isabel Schnabel - Towards a new Eurosystem balance sheet.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-11-06 - Speech by Isabel Schnabel - Towards a new Eurosystem balance sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "961de8a7663d5c53903ee0ce2aeb7e6043d1f8639c04c7f3da79417520273169"
+}

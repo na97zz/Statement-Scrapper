@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Dynamic regions at the heart of a strong Europe",
+  "date_original": "2021-10-05",
+  "date_au": "05/10/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211005~3419fc667f.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-10-05 - Speech by Christine Lagarde - Dynamic regions at the heart of a strong Europe.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-10-05 - Speech by Christine Lagarde - Dynamic regions at the heart of a strong Europe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bf881a6d77b06e77bc8424061006b29380ba906ed20604b0c6331d43fa4db473"
+}

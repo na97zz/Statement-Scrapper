@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Nonmonetary Forces and Appropriate Monetary Policy",
+  "date_original": "2025-09-22",
+  "date_au": "22/09/2025",
+  "datetime_original": "",
+  "speaker": "Stephen I. Miran",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/miran20250922a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-09-22 - Stephen I. Miran - Nonmonetary Forces and Appropriate Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-09-22 - Stephen I. Miran - Nonmonetary Forces and Appropriate Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d060437675d446b9312cff248fca159156892eafffb1e3b30ed1149e824b3ecc"
+}

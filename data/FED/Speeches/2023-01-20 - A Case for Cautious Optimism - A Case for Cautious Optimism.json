@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Case for Cautious Optimism",
+  "date_original": "2023-01-20",
+  "date_au": "20/01/2023",
+  "datetime_original": "",
+  "speaker": "A Case for Cautious Optimism",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230120a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-01-20 - A Case for Cautious Optimism - A Case for Cautious Optimism.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-01-20 - A Case for Cautious Optimism - A Case for Cautious Optimism.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "56c075109afddd427a549576a9b82f2becd8daa4dbf372770bf0c32189fa7f12"
+}

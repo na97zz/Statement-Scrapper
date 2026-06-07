@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Household indebtedness and financial stability − speech by Colette Bowe",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Colette Bowe",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/september/colette-bowe-speech-at-the-2nd-research-workshop",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Colette Bowe - Household indebtedness and financial stability − speech by Colette Bowe.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Colette Bowe - Household indebtedness and financial stability − speech by Colette Bowe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:18:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f4c9174b85fa8c331b91f6e57dd58f0046febe37d155437ef989f4e42287a5c6"
+}

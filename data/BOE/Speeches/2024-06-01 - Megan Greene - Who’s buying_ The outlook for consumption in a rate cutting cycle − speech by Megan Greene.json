@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Who’s buying? The outlook for consumption in a rate cutting cycle − speech by Megan Greene",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Megan Greene",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2024/september/whos-buying-speech-by-megan-greene.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2024-06-01 - Megan Greene - Who’s buying_ The outlook for consumption in a rate cutting cycle − speech by Megan Greene.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2024-06-01 - Megan Greene - Who’s buying_ The outlook for consumption in a rate cutting cycle − speech by Megan Greene.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:14:33",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2024/september/megan-greene-speech-on-consumption-hosted-by-the-chambers-of-commerce-newcastle",
+  "content_sha256": "69c58e07475913641cb2657929b87c436a5db4754da83bd5c6bd726532c3d290"
+}

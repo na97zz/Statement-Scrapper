@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Welcoming Remarks",
+  "date_original": "2025-10-09",
+  "date_au": "09/10/2025",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20251009a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-09 - Jerome H. Powell - Welcoming Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-09 - Jerome H. Powell - Welcoming Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b2b4850269c0f0a7cfb2d23611c1eb0c34115e972784ac6a28361a4dde9d55a0"
+}

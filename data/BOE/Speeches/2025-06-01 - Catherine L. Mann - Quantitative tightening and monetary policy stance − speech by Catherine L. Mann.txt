@@ -1,0 +1,533 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Quantitative tightening and monetary policy stance − speech by Catherine L. Mann
+DATE: 01/06/2025
+SPEAKER: Catherine L. Mann
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/june/catherine-l-mann-fireside-chat-at-the-federal-reserve-board-of-governors
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Quantitative tightening and monetary policy stance − speech by Catherine L. Mann
+Prepared for the IF 75th anniversary conference in Washington DC
+Published on 
+
+ 02 June 2025
+Catherine L. Mann highlights how the Bank of England’s balance sheet is important for monetary policy purposes. She discusses the implications of reducing the stock of gilts for her interest rate decisions.
+Speech
+Introduction
+Central banks in advanced economies are addressing three tasks at once: (1) The pace and potential end point of the rate cutting cycle, (2) the extent and strategy of normalization of the balance sheet, and (3) the implementation of new institutional designs of reserves management and policy rate control. Across countries, as appropriate for their domestic situation, central banks are moving at different speeds on (1) and (2) and are implementing different arrangements for (2) and (3).
+I have discussed (1) in several recent speeches.
+footnote
+[1]
+Today I will focus on how (2) and (3) – the normalization of the balance sheet and institutional design being implemented at the Bank of England – impact my monetary policy decision-making. That is, how these might interact with (1).
+I will start with a review of the monetary policy perspective on the central bank balance sheet. Then I will outline the new approach being undertaken by the Bank of England, and finally, I will pose some questions on how the new institutional design and transitioning to it might affect monetary policy making. By posing questions I hope to encourage further research to inform the policy-making process and outcomes.
+A monetary policy perspective on the balance sheet and monetary policy transmission
+Both monetary policy and financial stability considerations are guiding the thinking on the optimal balance sheet in steady state.
+footnote
+[2]
+To be more specific in the context of the Bank of England and the Monetary Policy Committee (MPC), and as set out in the
+Principles of Engagement
+on the governance of the Bank of England’s balance sheet, the MPC has “decision making authority at the margin, in respect of the deployment of instruments and facilities that are varied over time with the primary intention of affecting overall monetary conditions in order to maintain price stability. […] The MPC will also approve the selection of schemes and structures designed to achieve the price stability objective”.
+footnote
+[3]
+The MPC’s main monetary policy tool in normal times is Bank Rate, the interest rate on reserves. Bank Rate determines the sterling overnight index average (SONIA), which in turn anchors the short end of the risk-free yield curve, as an important reference rate for transactions. That rate then underpins most forms of money in the economy, such as deposits and interbank lending – which is transmitted through financial markets to affect the entire term structure of risk-free rates, rates on credit, and other asset prices. Since Bank Rate is the anchor for overall financial conditions, monetary policy implementation (frameworks) must ensure that short-term market interest rates remain close to Bank Rate to maintain the appropriate degree of interest rate control.
+Prior to the global financial crisis (GFC), short-term money markets played an important role in the distribution and intermediation of Bank Rate from the balance sheet to financial conditions. They facilitated short-term lending and borrowing between banks and other financial institutions to meet liquidity needs. During the GFC, these markets froze as banks became increasingly reluctant to lend to each other due to increased counterparty risks and liquidity hoarding, which in turn made it difficult for them to access liquidity.
+footnote
+[4]
+Quantitative Easing (QE)
+footnote
+[5]
+was introduced to complement Bank Rate as another way for monetary policymakers to use the central bank balance sheet to ease monetary conditions and stimulate the economy in response to the GFC.
+footnote
+[6]
+The focus of the Bank’s QE strategy was on reducing longer-term yields, for which it primarily purchased long-dated government bonds.
+footnote
+[7]
+With short-term yields at the effective lower bound, and Bank Rate not being able to fall further, this strategy allowed to ease monetary conditions by flattening the yield curve. Research shows that medium to long-term gilt yields fell by about 100 basis points in response to the first £200 billion QE program (
+Joyce et al., 2011
+).
+footnote
+[8]
+There is evidence that the impact on the yield curve of subsequent QE program announcements was less.
+footnote
+[9]
+Chart 1
+shows the outcome of this strategy, and where we are now in terms of yield curve steepness. Historically, yield curves were quite flat – within a range of -1 and 1 percentage point difference between short and long-term yields. The GFC saw a large steepening in the yield curve as short-term interest rates collapsed to zero, but long-term yields were sticky. The decade following the GFC was characterized by a steady flattening in the yield curve, reflecting the effects of QE as well as other factors, including international spillovers. More recently, say over the past two years, the yield curve has again steepened, especially at the very long end (see the orange line). This is unusually steep in historical context, especially given that short-term rates are well above the lower bound.
+Chart 1: Slope of the UK yield curve
+Differences between long-term and short-term nominal government bond yields
+(
+a
+)
+Footnotes
+Source: Bloomberg Finance L.P. and Bank calculations
+(a) Latest data: 27th May 2025. The QT period highlighted in gold includes passive unwind. Gaps in the orange line occur when no data for the 30-year yield is available.
+A consequence of the sequential use of QE (over five rounds between 2009 and 2021), with the purchase of some £875 billion of UK government bonds, was a very large central bank balance sheet.
+footnote
+[10]
+Active or passive balance sheet run-off
+footnote
+[11]
+reduces the risk of a ratchet upwards in the size of the balance sheet over time, and thus increases the headroom and flexibility available for the MPC to use the balance sheet in the future if needed.
+footnote
+[12]
+In 2022, the new global shock of Russia’s invasion of Ukraine caused inflation to surge. Along with an environment that supported increased Bank Rate, in September 2022, the MPC voted to reduce the stock of gilts through a combination of passive run-off and active sales according to a pre-set plan.
+Balance Sheet and New Institutional Design: Fundamentals
+The large asset side of the Bank of England’s balance sheet as a result of a large-scale purchase of government bonds during QE required a large expansion of reserves, which were created to finance QE. This large balance sheet expansion means we have been in an abundant (or ‘supply-driven’) reserves system. Because of the surplus of reserves, in excess of demand, financial market participants have no need to pay above Bank Rate to borrow reserves for liquidity or other purposes. And, with reserves remunerated at Bank Rate, financial institutions had little incentive to lend excess reserves at below Bank Rate.
+footnote
+[13]
+Competition in the market, to borrow funds and place them on account at the Bank of England, ensures that rates on overnight deposits trade close to the remuneration rate paid on reserves, i.e. Bank Rate.
+What do such reserves supply regime shifts look like in theory and in the data?
+Theory
+First the theory, contrasting a scarce and abundant reserves supply regime. I will use simple demand and supply diagrams from
+Vlieghe (2020)
+. I will characterize the different approaches as scarce and abundant. While the scarce supply of reserves regime I picture below is not necessarily an accurate representation of any past BoE reserves management regime, it is a useful theoretical base case for comparison. To see how those work, first take the left-hand panel of
+Chart 2
+as a representation of a scarce reserves framework, but with interest on reserves. Under this framework, short-term interest rates are determined by banks trading off their liquidity needs and the cost of holding reserves versus investing them in short-term money markets. This requires an active management of the supply of reserves to match demand, which can be operationally costly for a central bank and it may be difficult to maintain interest rate control.
+Chart 2: Stylized representation of the demand and supply for reserves
+Scarce (LHS) and abundant (RHS) supply of reserves
+Footnotes
+Source: Adapted from
+Vlieghe (2020)
+.
+The price of reserves is elastic with respect to the aggregate quantity of reserves supplied by the central bank. Thus, shocks to reserves demand shift the aqua line left and right in the short-run (as indicated by the dashed line), causing interest rates to move around. However, there is a kink in the demand curve, beyond which banks no longer compete for reserves.
+footnote
+[14]
+In this case, on the right panel of
+Chart 2,
+demand shocks move neither prices nor quantities because they happen so far off the intersection of flat demand and fixed supply that they cannot change aggregate outcomes. With QE in the aftermath of the GFC, reserves expanded past this point, so money market rates fell close to, but below, Bank Rate and became insensitive to changes in reserves supply.
+Now, let’s introduce quantitative tightening (QT). As we progress with QT, there would eventually come a time where the supply of reserves moves from ‘abundant’ to at least some scarcity at least sometimes. This is the kink point in the aggregate demand curve. As my colleague Victoria Saporta laid out
+in a recent speech
+, as we move to a demand-driven reserves system, there will come a time when we reach the kink. What happens when the supply of reserves passes this kink point?
+In this new institutional framework, interest rate control is achieved through on-demand availability of liquidity through the repo facilities that have been set up to manage the fluctuating demand for reserves.
+The short-term repo facility (STR) is intended as our regular market-wide sterling operation aimed at maintaining control of short-term market interest rates – allowing (some) participants to borrow central bank reserves once a week against high quality, highly liquid asset collateral. The facility is priced at Bank Rate and is in unlimited supply.
+footnote
+[15]
+This effectively sets a ceiling for money market rates at 7-day maturity. The indexed long-term repo facility (ILTR) allows market participants to borrow central bank reserves for a
+six-month period in exchange for a wider range of collateral.
+footnote
+[16]
+The rate is indexed to Bank Rate and applies a spread depending on the type of collateral provided and the demand seen in the auction.
+What does this new institutional framework look like in the stylized demand and supply framework? Focusing only on the STR for simplicity, this new facility can be represented as a flat supply curve somewhat above the interest on reserves.
+footnote
+[17]
+It is somewhat above the interest on reserves due to haircuts applied based on collateral provided, and it is flat due to the nature of providing an unlimited supply at that price. Under abundant reserves (as in the QE period), nothing changes (left panel of
+Chart 3
+) and we should expect little take-up of these facilities. However, once the quantity of reserves supplied inelastically (e.g. through QE) has fallen by enough, commercial banks should begin to access the facilities to satisfy their need for liquidity.
+Chart 3: Stylized representation of the demand and supply for reserves
+Abundant (LHS) and demand-driven (RHS) framework for reserves with STR
+Footnotes
+Source: Adapted from
+Vlieghe (2020)
+.
+This is the case on the right-hand panel of
+Chart 4
+. But it can also be seen that, with the new facilities, prices (i.e. the interest rate) will continue to be unaffected by shocks to reserve demand. In other words, the new facilities are designed to prevent short-lived shocks to reserves demand from causing spikes in money market rates, so that the MPC maintains interest rate control as we run off the APF.
+However, this framework also implies that, instead of through price variation, liquidity demand shocks will be reflected in quantities. While this is good news for interest rate control, Goodhart’s law applies: if we have (essentially) fixed the rate in the market underlying the OIS rate, then that market will no longer be informative about stress and liquidity shortages. Instead, these stresses will now be priced by markets largely outside the control of the central bank, for instance in private repo markets. These spreads could be informative regarding the transmission of monetary policy, as well as of financial stability.
+In this theoretical set-up there is only one repo facility. But as discussed earlier, there are two: the STR and the ILTR. In principle, the ILTR is intended to supply the majority of reserves in steady state (
+Saporta, 2024
+). The design of the ILTR auction is to be responsive to demand. If demand for liquidity in an operation is large, this would result in an increase in the total auction size (across the different sets of eligible collateral) and an increase in the proportion of liquidity allocated to less liquid collateral. In my theoretical diagrams this would be represented as an upward-sloping supply curve. Since the ILTR is designed to have both variable quantities and variable prices, one of its advantages is that it conveys price signals in times of stress. However, one of the uncertainties during the period of transition to the new steady-state balance sheet is the relative uptake across the STR and ILTR. This can determine the degree to which money market rates and other spreads across financial intermediaries could provide a useful signal to monetary policymakers in the future. As these facilities mature, it will be important to consider which data might help identify which theoretical diagram best reflects the transitionary environment as we proceed to normalize the balance sheet.
+Data and empirical work
+In practice, it will be hard for us to know in real-time on what part of the demand curve for reserves we are. Survey estimates present a wide range. The estimated range for minimum demand for reserves lies between £385 billion and £530 billion. The uncertainty around the demand for reserves might be challenging as we move away from an abundant supply of reserves system and as market participants sort out the secondary dissemination of liquidity from those with access to the repo facilities to those who do not. And the demand for reserves will never be static.
+One indicator for the balance between demand and supply of reserves in the system is the difference between SONIA and Bank Rate.
+footnote
+[18]
+SONIA reflects the average of the interest rates that banks pay to borrow sterling overnight (
+Bank of England, 2024
+).
+Chart 4
+plots SONIA and Bank Rate in levels on the top panel, showing that post-GFC, sterling overnight rates have traded close to Bank Rate – suggesting tight interest rate control.
+Chart 4: Short-term UK interest rates
+Sterling Overnight Index Average (SONIA) and Bank Rate
+(
+a
+)
+Footnotes
+Source: Bank of England and Bank calculations.
+(a) Latest observation: 27
+th
+May 2025
+The gap between money market rates and Bank Rate could represent fundamental trends in the underlying macroeconomic environment or could represent institution-specific credit issues. The former signals are important to inform the monetary policy decision-maker. The latter, however, would create an issue for the implementation of monetary policy by creating stress and illiquidity in the market – causing the prevailing overnight rate to float above Bank Rate, and spike (as for instance experienced in the US in 2019, see
+Anbil et al., 2020
+).
+In theory, in a frictionless world, SONIA would be slightly above, or at Bank Rate. In recent history, SONIA has tended to trade a few basis points below Bank Rate (bottom panel of
+Chart 4
+, see footnote 13). As reserves become less abundant, greater competition for borrowing could result in lenders seeking higher returns on their deposits. This would push SONIA higher relative to Bank Rate. The recent upward drift in SONIA relative to Bank Rate may reflect such a reduction in reserves from the system.
+footnote
+[19]
+Research suggests that such a decline in the difference between banks’ unsecured funding costs and the intended stance of the monetary policymaker, reflected by the wedge between SONIA and Bank Rate in the UK, can help improve the transmission of monetary policy.
+footnote
+[20]
+Let us consider another measure of the excess demand for reserves in the system. Bank researchers have, over recent months, built upon work by
+Lopez-Salido and Vissing-Jorgensen (2023)
+and
+Afonso et al. (2025)
+to provide a framework for understanding the demand for reserves. They develop a time-varying version of this framework for the UK, explicitly capturing low-frequency shifts in the curve and the flattening predicted under an abundant reserves regime.
+footnote
+[21]
+Chart 5
+shows the time-varying posterior density of the slope parameter derived from this exercise, i.e. the estimated slope of the reserves demand curve. Consistent with the findings of
+Afonso et al. (2025)
+for the US, short-term money market rates in the UK were elastic with respect to the supply of reserves in the early part of the sample. Beginning in 2014, however, as reserves supply expanded beyond 16% of UK nominal GDP, the slope coefficient in this model started to no longer be distinguishable from zero. However, in the most recent data, this has changed. The model now detects a mildly negative slope of the demand curve, consistent with being ‘near the kink’.
+Chart 5: Time-varying slope of the BoE reserves demand curve
+Elasticity of SONIA to changes in deposit-adjusted reserves
+(
+a
+)
+Footnotes
+Source: Brandt, Davies, Mukherjee, Sanders (mimeo).
+(a) The chart shows the posterior median of the long-run slope parameter in a VAR with time-varying parameters and stochastic volatility. The swathe shows the 90% posterior credibility region. The model is estimated on ten lags of the spread between untrimmed SONIA and Bank Rate (
+McLafferty et al., 2024
+) as well as the quantity of aggregate reserves adjusted by total deposits. Latest observation: 5
+th
+March 2025.
+This should not come as a surprise – as reserves have drained from the system over the past year, SONIA has been inching closer to Bank Rate. Meanwhile, take-up of the repo facilities has increased steadily. This behavior is all working as one might expect and consistent with the system working well. But it is also consistent with the inelastic part of reserves supply (the vertical curve in Charts 2 and 3) being to the left of the point of abundance. This is exactly what our theory would predict to happen. Therefore, we expect there to be more volatility in the quantity of reserves demanded – and indeed the quantity demanded will be endogenous to the terms we supply (and also to the degree of volatility around Bank Rate (
+Saporta, 2024
+)).
+While there is consensus that balance sheet sizes should be reduced, there is no obvious answer to the right pace at which this should be reduced, or to what end point. After more than a decade of ‘abundant’ reserves, and with changes in banking regulation and other institutional features following the GFC, the signal of the underlying demand for reserves is distorted, and therefore the optimal size of the balance sheet – though we know it is very likely larger than pre-GFC levels.
+footnote
+[22]
+So, on balance sheet normalization, unlike with policy rates, central banks are in uncharted territory. In conjunction with the theoretical derivation and empirical evidence, this has important monetary policy implications as we head into the September decision on next year’s balance sheet run-off, given the indication that we have been moving away from the flat part of the demand curve.
+With these fundamentals of institutional designs moving forward, what issues might affect monetary policy transmission or stance?
+New Institutional Design and Monetary Policy Questions
+Does the strategy of balance sheet normalization create a tension with the desire to ease monetary policy in the current period, via reductions in the primary tool of the MPC, that is, Bank Rate? I will answer this question in the next section.
+For me, this new design raises a few additional questions relating directly to the conduct of monetary policy. I put out these questions mainly for transparency because I am actively considering them, but also because they are interesting fields of inquiry for academic research.
+(1) As more financial institutions use the various repo facilities, how will the signals they provide via usage and spreads influence the monetary policy transmission mechanism and therefore MPC decision-making?
+footnote
+[23]
+(2) Does balance sheet normalization affect the restrictiveness of monetary policy by affecting the neutral rate of interest through its effect on convenience yields?
+footnote
+[24]
+(3) Do alternative institutional designs for balance sheet normalization across borders create financial market spillovers that matter for monetary policy, or undesired arbitrage opportunities?
+footnote
+[25]
+Quantitative tension?
+As set out in the
+August 2021 Monetary Policy Report
+, the MPC’s preference is to use Bank Rate as its active instrument.
+footnote
+[26]
+QT is often called ‘QE in reverse’ – because it requires the running down of these purchased assets, and a destruction of reserves in the process. However, it is not QE in reverse – the use of asset purchases as a monetary policy tool is asymmetric.
+footnote
+[27]
+Unlike Bank Rate, which is used to ease and tighten the monetary stance, the MPC did use QE to ease monetary conditions. But QT is not intended as a tool to tighten monetary conditions, for various reasons, including the fact that the sales are designed to be gradual and predictable, in the background, and, unlike QE, are conducted during calm times rather than times of markets or economic stress.
+footnote
+[28]
+Critically, QT is not supposed to reveal anything about plans for future policy or our reaction function.
+footnote
+[29]
+But even then, it is not far-fetched that the QT strategy still might affect monetary and financial conditions.
+In practice, in the UK context under current arrangements, QE and QT boil down to decisions made by the MPC on controlling the amount and maturity structure of gilts held in the APF. Growing or shrinking the APF has a direct effect on the size of the Bank’s balance sheet.
+footnote
+[30]
+There is an element of the stock (the size of the APF) and the flow (purchases and sales of gilts held in the APF).
+The Bank holds, on average, and in international comparison, a portfolio of more long-dated government bonds, which is in line with the UK government debt overall having a longer maturity structure in international comparison. This is why the Bank, more specifically the MPC, has been undertaking a mix of passive balance sheet run-off as bonds mature, and active sales – aimed at reducing the size of the APF.
+footnote
+[31]
+QE works by lowering longer-term yields through the purchase of longer-term bonds, that pushes prices up, and yields down, with duration removed from the market. What about QT when we sell gilts and add back duration?
+Ramsden (2023)
+noted that the impact of QT on monetary conditions had been very small to date, by comparing yield curve movements on date of QT auctions with non-auction days.
+footnote
+[32]
+Joyce and Lengyel (2024)
+show empirically that, subject to market conditions, a fully unanticipated increase in duration supply to the private sector, mimicking the Bank’s first annual QT program of £80 billion, could raise 10-year yields by some 20 basis points. In a world where we are gradually reducing the restrictiveness of monetary policy – so far at a pace of 25 basis points each quarter, this could be significant. Especially since the total envelope has since grown to £280 billion by September 2025.
+footnote
+[33]
+Taking these magnitudes as given, could I just offset the QT-implied tightening with an extra Bank Rate cut over the course of a year? It is unlikely that there is such an easy equivalence, as illustrated in
+Chart 6
+. The left panel shows, in a stylized way, that QE reduces long-term yields when Bank Rate is at the effective lower bound (ELB). On the right panel, I show the effects of QT. Assume our starting point is a yield curve (purple color) with Bank Rate away from the ELB and therefore pinning down the short end of the yield curve. Now also assume that QT raises long-term yields which steepens the curve (moving from the purple to the gold line). A monetary policymaker may seek to offset that tightening with a cut in Bank Rate, leading to the shift from the gold to the pink line. Comparing the purple and pink lines, is this equivalent from the perspective of the monetary stance?
+Chart 6: Illustrative moves in the yield curve under QE and QT
+QE (LHS) and QT (RHS)
+Because the monetary policymaker can only really control the short end (through Bank Rate and changes in interest rate expectations), tightening from QT and loosening from Bank Rate acts differently on different parts of the yield curve. The shape and steepness of the yield curve matters for different parts of the monetary policy transmission mechanism – therefore I would argue that this is an imperfect substitution and may have effects on the transmission of monetary policy that need to be further explored.
+Odendahl et al. (2024)
+for instance find, for the euro area, that how the term structure of interest rates changes in response to both conventional and unconventional monetary policy announcements matters for macroeconomic outcomes.
+Specifically, the authors find that the shape of monetary policy surprises change the inflation and output response to a given monetary policy shock. Using a counterfactual analysis where they simulate several policy instruments available to the monetary policymaker that affect different parts of the yield curve, the authors can separate macroeconomic effects of a level shift in the yield curve, versus a change in the slope. They find that macroeconomic variables are most influenced by changes at the longer end of the yield curve. More specifically, a surprise with the same cumulative change in the term structure, but with different signs at the short and long ends of the yield curve (deep cuts at the short end that are offset by increases in the longer end) have larger tightening effects on inflation and output.
+Bank researchers have conducted a similar exercise for the UK using the monetary policy shocks database of
+Braun et al. (2025)
+and find that a shock that steepens the yield curve (short rates falling more than long rates) is contractionary rather than expansionary for the economy – with inflation falling, in line with the euro area results.
+In light of this evidence, it is important for a monetary policymaker to consider the interactions of QT and policy rate decisions, especially at a time where these two tools are acting in different directions. Since potential tightening effects of QT cannot be perfectly offset by cuts in Bank Rate, because they generate a different set of monetary and financial conditions, the combination of tools and their macroeconomic effects must be carefully considered.
+Turning back to the MPC’s strategy for the mix of monetary policy instruments (see Box A of the
+August 2021 Monetary Policy Report
+) – some might argue that the short and long-run yield curve effects of QT and Bank Rate I outline are an expected consequence of choosing, collectively as the MPC, that Bank Rate is the active tool and QT is in the background. I agree. However, this was outlined in the context of policy tightening – when QT and Bank Rate were working in the same direction. Now that the MPC is reducing restrictiveness, I believe that we need to consider the differing effects of our policies (whether in the fore- or background) on different parts of the yield curve and their effects on monetary policy transmission as a more salient issue. That being said, taking movements in the yield curve as given, we can always set policy to achieve our inflation target using our active tool, Bank Rate.
+Conclusion
+With the next QT decision in September 2025 not far off, the median respondent in
+the most recent Market Participants Survey
+expects the MPC to reduce the amount of gilt holdings by £75 billion. How much does this reduction in the balance sheet over the next 12 months move us towards the downward-sloping part of the demand curve for reserves, with an associated further uptake in our repo facilities?
+In principle, the size of the balance sheet would be whatever is needed to supply sufficient reserves to the banking system (determined by a multitude of factors such as the attractiveness of our facilities, the level of reserves required to hold for financial stability or precautionary reasons, and the level of interest rates).
+Therefore, the question for a monetary policymaker is less about the size of the balance sheet than its strategy of normalization, with both remaining stock and flow of assets, and the associated effects on monetary conditions. As discussed above, asset run-off and asset sales can influence monetary transmission by affecting different parts of the yield curve. If large enough, this needs to be incorporated into my future interest rate decisions. Just as I have noted in other speeches that other types of spillovers into UK financial conditions have affected my decisions on the appropriate level of Bank Rate.
+In this specific example of QT, I showed that trying to offset increases in long rates by cutting short rates by more than otherwise is not equivalent. First, because a Bank Rate cut cannot perfectly compensate for tightening at the long-end of the yield curve and second, because an additional cut in this cycle of Bank Rate reduction, so as to try to compensate for tightening at the long end, could run counter to the need to maintain restrictiveness for long enough to purge the structural rigidities in labor and product markets that I have often noted are key to my Bank Rate decisions.
+No doubt many of these issues will be part of the MPC considerations in the run-up to the next decision on QT in September, for 2025-26.
+The views expressed in this speech are not necessarily those of the Bank of England or the Monetary Policy Committee.
+Acknowledgments
+I would like to thank, in particular Lennart Brandt, Natalie Burr and Christoph Herler for their help in the preparation of this speech, as well as Andrew Bailey, Daniel Beale, Shiv Chowla, Rand Fakhoury, Mike Joyce, Rafael Kinston, Andras Lengyel, Clare Lombardelli, Michael McLeay, Kirstine McMillan, Finn Meinecke, Arif Merali, Abhik Mukherjee, William Pagel, Waris Panjwani, Alba Patozi, Huw Pill, Aniruddha Rajan, Nades Raviraj, Matt Roberts-Sklar, Victoria Saporta, Martin Seneca, Jack Worlidge and Ashley Young for their comments and help with data and analysis.
+See the following speeches: ‘
+The February 2025 Monetary Policy Report – and my vote
+’, ‘
+Holding the anchor in turbulent waters
+’ and ‘
+The neutral rate of interest – and its relevance for monetary policy
+’.
+The key principles guiding our operating framework include delivering the Bank’s core statutory objectives of monetary policy and financial stability, minimising risk to the Bank’s balance sheet; minimising market distortions; and supporting transparency and accountability (see Section 1.2 of the Discussion Paper ‘
+Transitioning to a repo-led operating framework
+’).
+In the words of the
+Principles of engagement on the governance of the Bank of England's balance sheet
+, “The MPC has an interest as it must have sufficient control at the margin, of sufficient instruments capable of affecting overall monetary conditions – defined broadly as the quantity of inside money and the general level of market interest rates – in order to maintain price stability as set out in the Government’s remit letter for the MPC”. Inside money refers to a money-like medium of exchange originating from inside private credit markets (in contrast to outside money, which is supplied from outside the private sector, i.e. the central bank).
+See for instance Chart 2.14 in the
+June 2009 Financial Stability Report
+for the UK. See
+Afonso et al. (2011)
+for an assessment of the US overnight interbank market during the 2008 financial crisis and
+ECB (2009)
+for the euro area.
+See
+Busetto et al. (2022)
+for a staff view and technical summary of evidence on QE so far.
+In practice, large scale asset purchases may have many different purposes and channels – the distinction of which may be difficult to make in practice (see for instance
+Tucker and Cecchetti, 2021
+).
+Purchases occurred in buckets across various maturities of the yield curve. In
+March 2020
+for instance, these buckets were defined as short (with residual maturity of 3-7 years), medium (with residual maturity of 7-20 years), and long (with residual maturity of over 20 years). While operationally the Bank considers anything above 20 years of maturity as long-term, from a monetary policy perspective I would consider anything above 5 years as ‘long’.
+Results reference the response of gilt yields to six QE announcements over a 2-day window. They average across 5 to 25-year yields and sum the responses of the QE news events. The responses range between 55 and 120 basis points across the 5 to 25-year segment of the yield curve.
+This may be for several reasons. For instance,
+Vlieghe (2021)
+and
+Tenreyro (2023)
+argue that QE has minimal impact outside of periods of market stress (such as March 2009 and March 2020), highlighting its state-dependency.
+Bernanke (2020)
+argues that QE was more anticipated in later phases, and therefore the signalling channel was weakened.
+Technically speaking, the gilts are not held directly on the Bank of England’s balance sheet. Instead, featured on the asset side of the balance sheet is a loan to the Asset Purchase Facility (APF) that holds the purchased gilts.
+Passive quantitative tightening (QT) refers to reducing the size of the balance sheet by no longer reinvesting assets that are maturing, and active QT involves outright gilt sales.
+One caveat to this characterisation of ‘headroom’ has been made by my MPC predecessor, Jan Vlieghe: headroom need not be measured by the £ billions of gilts that could potentially be bought in a future round of QE. Instead, it should be measured in basis points (i.e. the amount by which the yield curve can possibly be flattened (see
+Vlieghe, 2021
+)).
+In reality, SONIA has been slightly below Bank Rate (see Chart 4). For reasons, see for example
+McLafferty et al. (2024)
+. For simplification, I abstract from concepts such as the ‘leaky floor’ (
+Schnabel, 2024
+).
+For illustrative purposes, I have portrayed the demand curve as kinked. In reality it is likely to be a smoothly transitioning function from flat to steep. The region of this upward slope is, in Bank terminology, the Preferred Minimum Range of Reserves (PMRR) (
+Hauser, 2019
+). It is a range of reserves that is, on average, enough to fulfil liquidity needs of commercial banks such that rate volatility is not too high so as to affect the transmission of the monetary policy stance through the financial system. For a discussion on interest rate volatility, see
+Osborne (2016)
+, who highlights that money market volatility may disrupt the transmission of monetary policy and increases uncertainty.
+See the
+Market Operations Guide
+for more detail. Eligible collateral is Level A collateral, auctions are held weekly on a Thursday, and the term of the central bank reserves offered is one week.
+See the
+Market Operations Guide
+for more detail.
+The design of the ILTR auction is to be responsive to demand conditions – where market conditions are closely monitored. In particular, bid spreads rising, or bid spreads against less liquid collateral rising would result in an increase in the total auction size and an increase in the proportion of liquidity allocated to less liquid collateral, respectively. Eligible collateral is Level A, B and C collateral, auctions are held weekly on a Tuesday, and the term of the central bank reserves offered is six months.
+Technically speaking, the reserves supply curve is flat only on the days with repo facility activity (Thursdays for the STR). On other days, i.e. between operations supply, reserves supply is vertical at a fixed number. For simplification, this is not pictured on the stylised diagrams. I abstract from the ILTR and focus on the STR as a ‘limit case’, as is the case of scarce reserves.
+Though this is likely to be an asymmetric measure. When reserves are scarce, SONIA can be quite far above Bank Rate (see for instance in 2008). But if reserves are abundant, SONIA will be below but still close to Bank Rate.
+See
+McLafferty et al. (2024)
+.
+See
+Blattner and Swarbrick (2018)
+.
+They use state-of-the-art time series methods (
+Chan, 2023
+) which allow for both time-varying parameters and stochastic volatility (to prevent short-lived dislocations in money markets from contaminating parameter estimates). Estimated using data at a daily frequency, their methodology enables monitoring of demand conditions in money markets almost in real time.
+See for instance the Governor’s speech on ‘
+The importance of central bank reserves
+’ and Isabel Schnabel’s on ‘
+Back to normal? Balance sheet size and interest rate control
+’.
+For existing Bank of England staff work answering this question, see Box B in the ‘
+Transitioning to a
+repo-led operating framework
+’ discussion paper, and
+Turko and Ashworth (2024)
+.
+See for instance a discussion in the US context by
+Szoke et al. (2024)
+and for the euro area by
+Schnabel (2025)
+.
+As with differences in interest rate policies, differing balance sheet policies (run-off and steady state) can have cross-border spillover implications – for instance through an exchange rate, international capital flows and global financial conditions channel (see
+Brainard, 2017
+). Ultimately all major central banks (the Fed and ECB for instance) intend to operate a form of an ample reserves regime in steady state. They differ slightly in how far along in the process to steady state they are, and operational details.
+Also in the August 2021 Monetary Policy Report (pages 12-13), “the MPC judges that, when conducted in a gradual and predictable manner and when markets are functioning normally, it [the impact of reducing the stock of purchased assets on monetary conditions] is likely to be smaller than that of asset purchases.
+Cantore and Meichtry (2023)
+find in a theoretical model that the asymmetry between QE and QT is driven by state dependency arising from the presence of an occasionally binding effective lower bound.
+Harrison (2024)
+, for instance, shows in a theoretical model that optimal balance sheet reduction is more gradual than balance sheet expansion during quantitative easing.
+While there is no signalling value – there might well be effects on interest rate expectations, as a gradual and predictable pace still needs to be priced into financial markets.
+Vlieghe (2018)
+argues that the signalling channel of QE is typically narrowly interpreted as providing information about the future path for interest rates, whereas an “expectations channel” would more broadly incorporate not only information about the future path of interest rates, but also about the central bank reaction function to news.
+On the Bank of England’s balance sheet, the asset is not the gilts themselves, but the loan to the APF, and the liability are the reserves.
+At the MPC’s most recent QT-related policy decision
+in September 2024
+, the MPC voted unanimously to reduce the stock of UK government bonds held for monetary policy purposes by £100 billion over the 12-month period from October 2024 to September 2025. This comprises a mix of maturing gilts (£87 billion) and sales (£13 billion). It reduces the stock of gilts held in the APF to £558 billion.
+From the
+August 2024 Monetary Policy Report
+: “Modelling work by Bank staff that attempts to isolate the impact of QT-related announcements and auctions suggests that APF reduction accounts for only around 10–20 basis points of the total rise in the term premium. Bank staff judge 10 basis points to be the central case estimate, while 20 basis points is considered to be a conservative upper bound.”
+While the Joyce and Lengyel (2024) results focus on ‘unanticipated’ QT, like with monetary policy surprises, this is for the purpose of causal identification. Working with an anticipated component would leave the cause-effect relationship unclear. These results are applicable also to anticipated QT announcements. See Footnote 24 in
+Burr and Willems (2024)
+for a detailed explanation of the distinction between anticipated and unanticipated effects for the purpose of identification.
+While the Joyce and Lengyel (2024) results focus on ‘unanticipated’ QT, like with monetary policy surprises, this is for the purpose of causal identification. Working with an anticipated component would leave the cause-effect relationship unclear. These results are applicable also to anticipated QT announcements. See Footnote 24 in
+Burr and Willems (2024)
+for a detailed explanation of the distinction between anticipated and unanticipated effects for the purpose of identification.
+Close
+From the
+August 2024 Monetary Policy Report
+: “Modelling work by Bank staff that attempts to isolate the impact of QT-related announcements and auctions suggests that APF reduction accounts for only around 10–20 basis points of the total rise in the term premium. Bank staff judge 10 basis points to be the central case estimate, while 20 basis points is considered to be a conservative upper bound.”
+Close
+At the MPC’s most recent QT-related policy decision
+in September 2024
+, the MPC voted unanimously to reduce the stock of UK government bonds held for monetary policy purposes by £100 billion over the 12-month period from October 2024 to September 2025. This comprises a mix of maturing gilts (£87 billion) and sales (£13 billion). It reduces the stock of gilts held in the APF to £558 billion.
+Close
+On the Bank of England’s balance sheet, the asset is not the gilts themselves, but the loan to the APF, and the liability are the reserves.
+Close
+While there is no signalling value – there might well be effects on interest rate expectations, as a gradual and predictable pace still needs to be priced into financial markets.
+Vlieghe (2018)
+argues that the signalling channel of QE is typically narrowly interpreted as providing information about the future path for interest rates, whereas an “expectations channel” would more broadly incorporate not only information about the future path of interest rates, but also about the central bank reaction function to news.
+Close
+Harrison (2024)
+, for instance, shows in a theoretical model that optimal balance sheet reduction is more gradual than balance sheet expansion during quantitative easing.
+Close
+Cantore and Meichtry (2023)
+find in a theoretical model that the asymmetry between QE and QT is driven by state dependency arising from the presence of an occasionally binding effective lower bound.
+Close
+Also in the August 2021 Monetary Policy Report (pages 12-13), “the MPC judges that, when conducted in a gradual and predictable manner and when markets are functioning normally, it [the impact of reducing the stock of purchased assets on monetary conditions] is likely to be smaller than that of asset purchases.
+Close
+As with differences in interest rate policies, differing balance sheet policies (run-off and steady state) can have cross-border spillover implications – for instance through an exchange rate, international capital flows and global financial conditions channel (see
+Brainard, 2017
+). Ultimately all major central banks (the Fed and ECB for instance) intend to operate a form of an ample reserves regime in steady state. They differ slightly in how far along in the process to steady state they are, and operational details.
+Close
+See for instance a discussion in the US context by
+Szoke et al. (2024)
+and for the euro area by
+Schnabel (2025)
+.
+Close
+For existing Bank of England staff work answering this question, see Box B in the ‘
+Transitioning to a
+repo-led operating framework
+’ discussion paper, and
+Turko and Ashworth (2024)
+.
+Close
+See for instance the Governor’s speech on ‘
+The importance of central bank reserves
+’ and Isabel Schnabel’s on ‘
+Back to normal? Balance sheet size and interest rate control
+’.
+Close
+They use state-of-the-art time series methods (
+Chan, 2023
+) which allow for both time-varying parameters and stochastic volatility (to prevent short-lived dislocations in money markets from contaminating parameter estimates). Estimated using data at a daily frequency, their methodology enables monitoring of demand conditions in money markets almost in real time.
+Close
+See
+Blattner and Swarbrick (2018)
+.
+Close
+See
+McLafferty et al. (2024)
+.
+Close
+Though this is likely to be an asymmetric measure. When reserves are scarce, SONIA can be quite far above Bank Rate (see for instance in 2008). But if reserves are abundant, SONIA will be below but still close to Bank Rate.
+Close
+Technically speaking, the reserves supply curve is flat only on the days with repo facility activity (Thursdays for the STR). On other days, i.e. between operations supply, reserves supply is vertical at a fixed number. For simplification, this is not pictured on the stylised diagrams. I abstract from the ILTR and focus on the STR as a ‘limit case’, as is the case of scarce reserves.
+Close
+See the
+Market Operations Guide
+for more detail.
+The design of the ILTR auction is to be responsive to demand conditions – where market conditions are closely monitored. In particular, bid spreads rising, or bid spreads against less liquid collateral rising would result in an increase in the total auction size and an increase in the proportion of liquidity allocated to less liquid collateral, respectively. Eligible collateral is Level A, B and C collateral, auctions are held weekly on a Tuesday, and the term of the central bank reserves offered is six months.
+Close
+See the
+Market Operations Guide
+for more detail. Eligible collateral is Level A collateral, auctions are held weekly on a Thursday, and the term of the central bank reserves offered is one week.
+Close
+For illustrative purposes, I have portrayed the demand curve as kinked. In reality it is likely to be a smoothly transitioning function from flat to steep. The region of this upward slope is, in Bank terminology, the Preferred Minimum Range of Reserves (PMRR) (
+Hauser, 2019
+). It is a range of reserves that is, on average, enough to fulfil liquidity needs of commercial banks such that rate volatility is not too high so as to affect the transmission of the monetary policy stance through the financial system. For a discussion on interest rate volatility, see
+Osborne (2016)
+, who highlights that money market volatility may disrupt the transmission of monetary policy and increases uncertainty.
+Close
+In reality, SONIA has been slightly below Bank Rate (see Chart 4). For reasons, see for example
+McLafferty et al. (2024)
+. For simplification, I abstract from concepts such as the ‘leaky floor’ (
+Schnabel, 2024
+).
+Close
+One caveat to this characterisation of ‘headroom’ has been made by my MPC predecessor, Jan Vlieghe: headroom need not be measured by the £ billions of gilts that could potentially be bought in a future round of QE. Instead, it should be measured in basis points (i.e. the amount by which the yield curve can possibly be flattened (see
+Vlieghe, 2021
+)).
+Close
+Passive quantitative tightening (QT) refers to reducing the size of the balance sheet by no longer reinvesting assets that are maturing, and active QT involves outright gilt sales.
+Close
+Technically speaking, the gilts are not held directly on the Bank of England’s balance sheet. Instead, featured on the asset side of the balance sheet is a loan to the Asset Purchase Facility (APF) that holds the purchased gilts.
+Close
+This may be for several reasons. For instance,
+Vlieghe (2021)
+and
+Tenreyro (2023)
+argue that QE has minimal impact outside of periods of market stress (such as March 2009 and March 2020), highlighting its state-dependency.
+Bernanke (2020)
+argues that QE was more anticipated in later phases, and therefore the signalling channel was weakened.
+Close
+Results reference the response of gilt yields to six QE announcements over a 2-day window. They average across 5 to 25-year yields and sum the responses of the QE news events. The responses range between 55 and 120 basis points across the 5 to 25-year segment of the yield curve.
+Close
+Purchases occurred in buckets across various maturities of the yield curve. In
+March 2020
+for instance, these buckets were defined as short (with residual maturity of 3-7 years), medium (with residual maturity of 7-20 years), and long (with residual maturity of over 20 years). While operationally the Bank considers anything above 20 years of maturity as long-term, from a monetary policy perspective I would consider anything above 5 years as ‘long’.
+Close
+In practice, large scale asset purchases may have many different purposes and channels – the distinction of which may be difficult to make in practice (see for instance
+Tucker and Cecchetti, 2021
+).
+Close
+See
+Busetto et al. (2022)
+for a staff view and technical summary of evidence on QE so far.
+Close
+See for instance Chart 2.14 in the
+June 2009 Financial Stability Report
+for the UK. See
+Afonso et al. (2011)
+for an assessment of the US overnight interbank market during the 2008 financial crisis and
+ECB (2009)
+for the euro area.
+Close
+In the words of the
+Principles of engagement on the governance of the Bank of England's balance sheet
+, “The MPC has an interest as it must have sufficient control at the margin, of sufficient instruments capable of affecting overall monetary conditions – defined broadly as the quantity of inside money and the general level of market interest rates – in order to maintain price stability as set out in the Government’s remit letter for the MPC”. Inside money refers to a money-like medium of exchange originating from inside private credit markets (in contrast to outside money, which is supplied from outside the private sector, i.e. the central bank).
+Close
+The key principles guiding our operating framework include delivering the Bank’s core statutory objectives of monetary policy and financial stability, minimising risk to the Bank’s balance sheet; minimising market distortions; and supporting transparency and accountability (see Section 1.2 of the Discussion Paper ‘
+Transitioning to a repo-led operating framework
+’).
+Close
+See the following speeches: ‘
+The February 2025 Monetary Policy Report – and my vote
+’, ‘
+Holding the anchor in turbulent waters
+’ and ‘
+The neutral rate of interest – and its relevance for monetary policy
+’.
+Close
+Convert this page to PDF
+Catherine L. Mann
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

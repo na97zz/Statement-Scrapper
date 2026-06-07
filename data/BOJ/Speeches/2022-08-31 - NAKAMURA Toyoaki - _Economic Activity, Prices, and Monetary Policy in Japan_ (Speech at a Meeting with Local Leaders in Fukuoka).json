@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Fukuoka)",
+  "date_original": "2022-08-31",
+  "date_au": "31/08/2022",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220831a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-08-31 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Fukuoka).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-08-31 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Fukuoka).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fde536fe62738b3976bb252d52262b1d6a84b503af6c3a34a247fa834b993ff9"
+}

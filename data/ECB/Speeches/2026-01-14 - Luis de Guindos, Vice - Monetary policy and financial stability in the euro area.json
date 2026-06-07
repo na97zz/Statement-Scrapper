@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy and financial stability in the euro area",
+  "date_original": "2026-01-14",
+  "date_au": "14/01/2026",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260114~21e6c577a8.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-01-14 - Luis de Guindos, Vice - Monetary policy and financial stability in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-01-14 - Luis de Guindos, Vice - Monetary policy and financial stability in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d8b29d90a0408f2131b0c1f3b4a25120916c06162dfda814ba053f5c9c1928a9"
+}

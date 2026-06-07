@@ -1,0 +1,484 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Late call − speech by Nathanaël Benjamin
+DATE: 01/06/2024
+SPEAKER: Nathanaël Benjamin
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/july/nathanael-benjamin-speech-followed-by-panel-preparing-for-liquidity-stresses
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Late call − speech by Nathanaël Benjamin
+Given at Linklaters, hosted by the International Swaps and Derivatives Association
+Published on 
+
+ 18 July 2024
+Exchanging collateral as security has become the norm between financial market counterparties. That has made the system much safer. But counterparties need to be prepared for the potential liquidity need from sharp margin calls in stress. And enough collateral has to be collected during good times, via initial margin or haircuts, otherwise that can allow the build-up of excessive leverage, which can unravel and destabilise the system in bad times.
+Speech
+Good morning, all. I am delighted to be here today to discuss a very important topic:
+collateral management
+.
+But first allow me to take a step back to set out the broader context. Since the global financial crisis, we have seen a large shift in direct risk-taking from banks to non-banks, driving material growth in market-based finance
+footnote
+[1]
+. Today, half of the funding for UK businesses comes directly from financial markets and non-bank financial institutions (NBFIs), rather than traditional bank loans
+footnote
+[2]
+. This shift has increased banks’ exposures to the non-bank sector as they intermediate, and provide leverage, for this funding. And counterparties across the financial ecosystem have become increasingly interconnected.
+And that’s where we come to
+collateral
+. To limit counterparty risk, credit relationships in the financial system have become more collateralised – whereby those who owe money pledge assets as security with those to whom they owe the money. That has made the system safer. Now counterparty risk certainly hasn’t gone away – far from it – and I’ve spoken about that on a number of occasions before
+footnote
+[3]
+. But measures such as central clearing or improvements in some bilateral margining practices have helped. And the resulting increase in collateralisation has brought significant benefits.
+But it has also introduced new challenges.
+One challenge is the increased liquidity demands that can result from sharp rises in margin requirements in times of stress. Counterparties have sometimes had to find cash or high-quality collateral at short notice to meet margin calls. This can result in fire-sales of assets when margin calls were sudden or unexpected. In that sense counterparty risk for banks has to some extent transformed into liquidity risk for their clients.
+Another challenge is the potential interaction between initial margin requirements and leverage. Bilateral initial margin requirements in some derivatives markets, and haircuts in some repo markets, are sometimes insufficient in good times. This means some counterparties are allowed to take positions that are insufficiently self-funded to protect the other side against the underlying risks. And that may facilitate excessive leverage. When market volatility increases during a stress, initial margin often increases and if holders of over-leveraged positions cannot source enough collateral to meet those margin calls, they will be forced to de-leverage by selling assets. This can lead to a pro-cyclical reduction in leverage in stress, triggering a fire-sale.
+These issues relate directly to the typical systemic vulnerabilities in market-based finance identified by the Bank of England’s Financial Policy Committee (FPC)
+footnote
+[4]
+. These include liquidity mismatches, excessive leverage, and lack of operational readiness, at the level of individual financial institutions. And jumps to illiquidity at the system-wide level, which is exacerbated by concentrated or correlated positions, and interconnectedness. During stress, these vulnerabilities can disrupt financial stability by impacting systemic markets, systemic institutions, and the provision of vital services such as funding to the real economy.
+The good news? A lot of work is happening – internationally and domestically – to ensure the financial system evolves in a safe and sustainable way. This includes efforts to address low haircuts, particularly in sovereign debt repo markets. And to ensure market participants are prepared for inevitable margin calls and the liquidity need they will generate. Getting this right is particularly important for many vulnerabilities in the financial system.
+Let’s go into all this now.
+Background
+This month 17 years ago, two Bear Stearns’ hedge funds investing in securities backed by US subprime mortgages filed for bankruptcy. These were the first dominos to fall in a cascade leading to the near implosion of the global financial system and the most severe global economic downturn since the Great Depression. How did a relatively small part of the global securities market have such devastating consequences?
+One factor was the high leverage associated with these securities, especially for higher-rated securities. Initially perceived safe, these securities offered only modest spreads, and getting some leverage was the only way to make the expected returns palatable. That leverage was typically achieved through sale-and-repurchase agreements, or “repos,” which are essentially collateralised loans. A key feature of a repo is the haircut applied by the cash lender to the securities taken as collateral. The smaller the haircut, the more the cash borrower can leverage its equity.
+footnote
+[5]
+As the perceived risk of subprime-related securities increased during the crisis, haircuts escalated, triggering a spiral of funding difficulties and asset sales. Average haircuts across nine types of securities at the core of the crisis rose from less than 1% in mid-2007 to almost 50% a year later.
+footnote
+[6]
+This reduced the debt financing available to investors, often forcing them to sell some of their securities to obtain liquidity. That put additional pressures on prices, generating mark-to-market losses, and eroding investors’ equity. So it became even harder to fund security holdings, and further sales and losses followed. This severe ‘deleveraging’ was partly due to haircuts that were too low before the crisis, allowing high levels of leverage to build up. And when reversed, that triggered a destabilising spiral of fire sales, losses, and rising haircuts.
+Exposures to securities linked to subprime mortgages were often complicated by credit default swaps (CDS)
+footnote
+[7]
+. The CDS network was large, complex, and opaque. In addition, counterparty exposures to the providers of those CDSs, and from other over the counter (OTC) derivatives, were often uncollateralised. That meant losses or defaults could easily spread between counterparties. So lenders became very cautious. Eventually, wholesale lending markets froze, including interbank markets at the heart of the financial system.
+We know how the story ended. Several dominos toppled and with the financial system imploding, authorities around the world supported financial institutions on an unprecedented scale.
+Never again!
+Market participants and global authorities took several steps to enhance the resilience of individual firms and that of the financial system. In particular
+, the system became increasingly collateralised
+. In wholesale funding markets, transactions shifted away from unsecured loans and more towards secured repos. In the OTC derivatives market, regulatory measures targeted the nodes of the network, the edges linking those nodes, and the overall shape of the network.
+Key nodes were the large systemically important banks, which linked to many other institutions, and supported the real economy. The Basel III capital and liquidity standards were developed. And banks were also discouraged, or even prevented in some jurisdictions, from taking directional positions in securities and derivatives markets that expose them to market risk. More of these speculative positions are now taken by NBFIs.
+The edges, making one node vulnerable to another, were uncollateralised derivatives exposures. These have since been collateralised through margin requirements. For new trades in bilateral, OTC, markets, this includes mandatory variation margin, and for the largest participants or portfolios, mandatory initial margin. ISDA’s Standard Initial Margin Model (SIMM) has been widely adopted to calculate initial margins for bilateral OTC derivative portfolios, including most types of OTC derivatives across multiple asset classes: interest rate, foreign exchange, credit, equity, and commodities. As the period of greatest historical stress is always included in this model, initial margin requirements are generally quite stable. However, it may not react sufficiently quickly when periods of greater stress occur.
+For a subset of trades including most interest rate swaps and credit default swaps, mandatory central clearing has been introduced and central counterparty clearing houses (CCPs) secure their counterparty exposures against collateral. On derivatives transactions, CCPs collect variation margin and initial margin. CCPs typically require variation margin to be settled in cash. For initial margin, they may also accept high-quality and liquid securities, such as government bonds.
+Through this central clearing, the overall shape of the network has been simplified from “spaghetti” to a smaller, less complex, and more transparent one. On top of margining requirements, central clearing supports financial stability thanks to multi-lateral netting, which reduces aggregate counterparty exposures. And, for counterparties facing CCPs, their credit risk is reduced because CCPs are designed to be more robust, with no market risk.
+footnote
+[8]
+Repo markets have both centrally cleared and (non-cleared) bilateral segments. In the bilateral segment, haircuts are set by lenders using their own schedules or internal models, as there is no standard industry model. Some government bond repos are cleared, but the majority remain in the bilateral segment. For instance, around one-third of gilt repos are centrally cleared.
+footnote
+[9]
+Repo markets are routinely used by firms to manage their day-to-day liquidity. So they are core to the functioning of the financial system. And the Bank of England too offers regular repo facilities to banks as part of delivering on our monetary policy and financial stability objectives. And we expect a significant increase in our regular repo operations as we look ahead to the future, as Andrew Bailey outlined in a recent speech.
+footnote
+[10]
+So overall, developments in collateralisation have been positive for financial stability, but there are challenges:
+Variation margin supports financial stability by preventing the build-up of current exposures. Regular collection of variation margin, bringing current exposures back to zero as the market value of the underlying positions evolves, limits counterparty risk and supports confidence in the system. But when market prices move sharply in a stress, variation margin requirements reflect those moves, and therefore counterparties who are out of the money may face large margin calls. At the same time as changes in the financial cycle bring other stresses. These calls for additional variation margin can lead to liquidity strains and amplify a stress, depending on the size of the call, the timing and the readiness of the one who receives it. This has been particularly notable for NBFIs as many of them held directional or mismatched positions, naturally generating larger margin calls during market volatility. Whereas banks, partly reflecting previous reforms, had relatively flat positions, larger liquidity buffers, and access to central bank liquidity facilities.
+Initial margin and haircuts ensure counterparties are collateralised against potential future losses. This further reduces counterparty risk by providing a buffer against such losses in case the counterparty gets in trouble and positions need to be unwound or novated to someone else during what is called the “margin period of risk”. But its calibration is very important. If initial margin is set too low in good times it can contribute to excessive leverage in the system, and result in sharp increases in margin requirements in bad times. Whereas if it is too high, financial markets could become too expensive, restricting firms’ ability to hedge their business risks. In particular,
+we have seen initial margins in some bilateral derivative markets set too low in good times. Same with bilateral repo haircuts, which are often zero. Securities financing transaction data
+footnote
+[11]
+show that gilt repo haircuts are generally near-zero, meanwhile haircuts on repo transactions backed by US Treasury securities are typically at or below 0.5%.
+footnote
+[12]
+This is sometimes explained by the trades being part of a broader portfolio of transactions. But that’s not always the case. Government bond repo markets represent a core systemic market underpinning financial stability given they are crucial for short-term financing and liquidity management, and support a range of important financial services. So the terms on which leverage is provided are of utmost importance.
+Additionally, the interconnected two-tier structure of cleared markets can sometimes allow a stress to spread quickly through the system. Clearing members, often dealer-banks, face CCPs directly and clear trades with the CCP on behalf of their clients. CCPs collect variation and initial margin from the clearing members against these trades. The clearing members typically pass on similar demands to the clients whom they face bilaterally. However, they sometimes request higher initial margin, applying an ‘add-on’ or ‘multiplier,’ reflecting concerns about credit quality or concentration of the clients’ positions. And those multipliers have at times been applied at a late stage, after the onset of stress. So liquidity demands can be amplified during a stress, as they spread outwards from CCPs. More generally margining practices can vary across the two tiers. And in good times we have seen terms on the bilateral side sometimes determined by commercial pressure to attract business, rather than sound risk management.
+So now I will turn to examples of some recent stresses to illustrate some of these challenges.
+Recent episodes of turbulence
+Jumps to illiquidity
+At the outbreak of Covid-19, large and sudden asset price moves caused an intense ‘dash for cash’, leading to large and sudden variation margin calls and an increase in initial margin requirements. This contributed to liquidity strains on market participants. Due to the large price moves, variation margin calls demanded by CCPs globally surged from a daily average of $25 billion to a single-day peak of $140 billion. Initial margin requirements rose by about $300 billion between end-February and mid-March 2020, an increase by around 40%.
+footnote
+[13]
+Variation margin calls also surged in non-centrally cleared markets, and initial margin requirements increased, though to a lesser extent than in cleared markets due to the less-reactive design of the SIMM.
+footnote
+[14]
+In the UK, over a two-week period, NBFIs scrambled to meet net variation margin payments of around £15 billion and to top up initial margin requirements.
+footnote
+[15]
+Insurance companies and pension funds sold gilts to obtain cash at short notice, adding to downward pressures on gilt prices
+footnote
+[16]
+. Around one quarter of euro-area investment funds had insufficient cash to meet variation margin calls, and Dutch pension funds faced variation margin calls exceeding their cash buffers.
+footnote
+[17]
+,
+footnote
+[18]
+To help meet margin calls, some firms redeemed shares in money market funds,
+footnote
+[19]
+which came close to suspending redemptions due to a lack of available liquidity. With an imbalance between liquidity demand and supply, authorities intervened. For instance, the Federal Reserve created a facility providing short-term funding to support private sector purchases of money market funds assets, avoiding the need to fire-sell them.
+Hidden and excessive leverage, alongside concentrated positions
+A year later, Archegos Capital Management – who had established concentrated positions and “hidden leverage” – defaulted on margin calls from several prime brokers. Archegos held large positions in a handful of entertainment stocks and internet retailers through leveraged shareholdings and total return swaps (TRS) spreading the latter across several prime brokers, none of which fully understood the full size of Archegos’ positions.
+But the share prices of two companies it invested in fell sharply, generating large losses and margin calls. Struggling to meet these calls – being unprepared from a liquidity perspective – Archegos started selling its share holdings. The resulting large trade volumes in markets with limited liquidity caused prices to move further down, generating more margin calls and losses. Eventually, it could not meet its margin calls. Its prime brokers seized and sold remaining shares posted as collateral and liquidated shares held as hedges against TRS positions with Archegos, pushing prices further down. In the end, Archegos failed, having incurred losses of about $20 billion, with prime brokers sharing losses of about $10 billion.
+Jumps to illiquidity, again
+Less than a year later, Russia invaded Ukraine, leading to unprecedented increases in certain energy prices. The Title Transfer Facility (TTF) price of natural gas, the main European benchmark, surged to levels ten times higher than the previous decade’s average. Margin calls on TTF futures contracts increased correspondingly. Average daily variation margin calls increased more than 16-fold in the first half of 2022 compared with the relatively calm period of 2019-2020.
+footnote
+[20]
+Initial margin requirements increased sharply at the two major European exchanges, constraining leverage from more than five times in September 2021, to less than two times in March 2022. Some CCP clearing members demanded clients post not only the initial margin of the CCP, but an extra amount determined by a margin “multiplier” or “add-on,” reflecting concerns about credit quality and concentrated positions.
+Commodity traders, who had taken short positions in futures contracts to hedge positions in physical gas not yet sold to energy suppliers, faced intense liquidity strains due to margin calls, due within a day. They eventually had to cut hedges to meet these margin calls.
+footnote
+[21]
+Reflecting that, open interest in TTF contracts on the major European exchanges fell by around 20%. With their ability to hedge compromised, commodity traders could not bear the financial risk associated with their current activity levels and were inclined to scale back. The UK authorities introduced a loan guarantee scheme to facilitate commercial bank loans to certain approved energy firms that were unable to meet extraordinary margin calls due to large moves in energy prices.
+footnote
+[22]
+Alongside wider measures from outside the UK,
+footnote
+[23]
+confidence in lending to energy firms was supported, and the scheme was not drawn upon.
+Insufficient margins or haircuts
+Half-a-year later, in September 2022, the UK’s Liability Driven Investment (LDI) funds came under significant stress from margin and collateral calls following a spike in gilt yields.
+footnote
+[24]
+LDI funds held gilts, funded through the repo market. They also had receive-fixed positions in interest rate swaps, many of which were cleared with CCPs. Both positions were vulnerable to losses and variation margin and collateral calls when interest rates rose. Moreover, LDI funds had particularly high leverage, facilitated through repo financing, provided by banks, often at very low haircuts. Average gilt repo haircuts for LDI funds were only around 25 basis points in the first three quarters of 2022.
+footnote
+[25]
+As gilt yields increased sharply, LDI funds had to meet variation margin calls on their swaps and top up the collateral backing their repo loans. In the four days to 28 September, 30-year gilt yields rose more than twice as much as the largest 4-day move since 2000 – an already very large move, witnessed during the ‘dash for cash’.
+footnote
+[26]
+With limited cash on their balance sheets, LDI funds had to sell assets to meet the resulting collateral calls. In addition, the funds’ net asset values declined, leaving them with less equity capital to fund initial margins and haircuts for their outstanding positions. Hence, they liquidated some of their positions, moving prices further against themselves. Overall, the fire sale caused by LDI funds reduced gilt prices by around 7 percentage points, which compared to a total fall of about twice that amount.
+footnote
+[27]
+Pension funds, whose solvency improved as LDI funds’ solvency fell, had the financial capacity to recapitalise their LDI funds interests. However, selling assets and transferring liquidity to the LDI funds took time, which contributed to LDI funds being forced to sell assets. There was a lack of operational preparedness. To restore financial stability, the Bank of England launched a temporary and targeted asset purchase programme.
+Reflections
+Looking back, these episodes of market turbulence highlight the two key challenges I noted in my introduction. First, margin calls were sharp and sometimes larger than anticipated. The liquidity demands created by these margin calls caused pressure on some participants to source collateral at short notice, affecting systemic financial markets that are core to the economy. Second, in some markets, participants were able to build up excessive leverage. Had margins and haircuts been higher in good times, market participants may have maintained a more robust buffer against contagion risks in the market, acting as a first line of defence against the risk they chose to take on.
+Looking forward, the Bank of England’s System-Wide Exploratory Scenario (SWES) is testing how shocks propagate throughout the financial system and potentially affect core markets. Margin calls and the procyclicality of repo financing are important features of the exercise.
+footnote
+[28]
+In the scenario, substantial liquidity needs are generated. 80% stemming from variation margin calls and a further 10% from rising initial margin requirements. They fall mostly on NBFIs, who often have to top up collateral on their repo transactions, rather than on banks. The Bank’s 2023 CCP Supervisory Stress Test also highlights the relative vulnerability of NBFIs to margin calls.
+footnote
+[29]
+Policy measures
+The good news is that a lot of work is underway to enhance margin and haircut practices and improve liquidity preparedness, while also addressing the build-up of excessive NBFI leverage.
+Insufficient preparedness to meet collateral calls during high volatility
+After the dash for cash, an international group on margin, coordinated via BCBS, CPMI, and IOSCO, undertook a comprehensive review of margining
+footnote
+[30]
+to assess the extent to which initial and variation margin requirements in centrally and non-centrally cleared derivatives markets contributed to liquidity pressures, particularly of NBFIs during the dash for cash. The review suggested a number of areas for further international policy consideration, generally to better prepare market participants for margin calls. It suggested further work to increase transparency of initial margin in centrally cleared markets,
+footnote
+[31]
+and to streamline variation margin processes in centrally and non-centrally cleared markets. It also suggested further work to enhance the liquidity preparedness of market participants.
+Accordingly, a set of international groups took this work forward and recently published a range of consultation papers containing policy recommendations. Those include, amongst other things, a recommendation that CCPs develop better margin simulators, and disclose a standardised measure of margin responsiveness. And that market participants be better prepared for margin calls to reduce procyclical behaviour during times of market-wide stress.
+footnote
+[32]
+These recommendations can support the development of common standards across non-bank market participants. They are all about robust liquidity risk management, stress testing, collateral management, and operational readiness for when that margin call arrives in times of stress. And we strongly support this international work.
+And in non-centrally cleared derivative markets, firms should consider creating flexibility in the type of assets deliverable as collateral for variation margin. This can mitigate the risk of correlated forced asset sales during periods of high volatility. A range of eligible asset types can be negotiated through bilateral agreements with counterparties, or “dirty Collateral Support Annexes.” This approach allows NBFIs to use securities they already hold to meet margin calls – particularly relevant for NBFIs such as insurers and pension funds, who typically hold large amounts of liquid securities but not large cash buffers. Equally important is addressing legal and operational issues causing frictions and delays in completing variation margin payments, particularly under stress. Standardising intra-day variation processes across markets and automating margin processes will also help with operational readiness. The move to T+1 settlement of securities recently proposed in the UK can further free up liquidity tied up in the system when collateral is sold.
+Alongside this, banks, who are the main providers of leverage, should take appropriate steps to understand their counterparties’ liquidity profile and to consider how that might change in a stress – that should form a key part of credit due diligence.
+Insufficient haircuts or margins
+In addition to thinking about the liquidity impacts caused by sudden changes in margin requirements, we also need to be mindful of the absolute level of margins in good times as well as in bad times, ensuring initial margin or haircuts provide adequate coverage.
+The Bank of England’s Prudential Regulation Authority (PRA) called out risks from banks’ margining practices, which often fall short of supervisory expectations. Regulators have emphasised the need for banks’ margin and haircut practices to better reflect exposure profiles, liquidity, wrong-way risk and concentration of client portfolios and related markets, and how that contributes to tail risk losses from counterparty default.
+The PRA expressed concerns that banks often offered initial margin terms in some OTC derivatives markets, or haircuts in repo markets, based on commercial incentives (e.g., competitive pressure to grow business) rather than risk considerations. For example, the PRA’s fixed income financing review
+footnote
+[33]
+therefore noted that governance practices should be strengthened, and that second-line risk management in banks should own the haircut setting process.
+In non-centrally cleared derivatives markets, the PRA also reviewed
+footnote
+[34]
+the implementation of models used to set initial margin levels,
+footnote
+[35]
+of which the ISDA SIMM is a key component. The review identified governance shortcomings that could lead to systematic under-margining for certain portfolios. In response, the PRA asked banks to align margining practices to the supervisory expectations set out in UK legislation covering margin regulations in OTC markets. And as part of the wider international margin work, a set of proposals have been consulted on, which would see initial margin requirements in non-centrally cleared derivatives markets respond more quickly to stress.
+footnote
+[36]
+This includes increasing the calibration frequency of the ISDA SIMM to ensure appropriate risk coverage, as well as predictable and efficient updates to the model. Supervisors will monitor the effectiveness of these changes in reducing margin shortfalls without introducing undue procyclicality or liquidity strains in the system. That said, firms remain responsible for the SIMMs implementation, including conducting comprehensive and frequent backtesting and addressing bilateral collateral shortfalls as appropriate.
+In the US, the SEC’s clearing rule – effective in 2026 – mandates central clearing for most US Treasury bond repo transactions. By requiring widespread use of central clearing, it will improve transparency and mitigate financial stability risks through centralised default management processes.
+Correlated and concentrated positions
+Concentration add-ons or adjustments to margin need to consider market-wide factors. Firms need to have controls in place to be able to identify and monitor concentrated exposures that could become illiquid in stress, including one-way or crowded strategies, and adjust ex-ante – in good times – for example, their associated margin period of risk to reflect the longer liquidation period and correlation risks.
+Addressing the risks from NBFI leverage and “hidden leverage”
+Ensuring bilateral margins and haircuts are appropriately set in good times to capture risks of correlated and concentrated positions, including tail risks from stressed liquidations, can constrain the build-up of excessive leverage. This, in turn, can limit or dampen sudden increases in liquidity demands during stress, which typically amplify shocks.
+The Financial Stability Board’s wider work currently underway on NBFI leverage, which the Bank of England actively supports, is also crucial. This work aims to enhance authorities’ ability to identify and monitor financial stability risks from NBFI leverage and build appropriate resilience where systemic impacts could arise. It touches on issues seen in past crises: excessive leverage facilitated by the presence of low margins or haircuts (LDI), large concentrations by single entities in specific markets (Archegos) and correlation between positions of various participants (commodities markets stress, and LDI). While recent international reforms since the March 2020 “dash for cash” have addressed some NBFI risks, such as in liquidity mismatch of money market funds,
+footnote
+[37]
+excessive NBFI leverage still poses financial stability risks. Especially when funding positions are concentrated in particular segments of core markets (such as government bond markets). And especially when these positions are used in common strategies across multiple NBFIs or are highly concentrated among a small number of NBFIs.
+At the same time, enhancing transparency around “hidden” leverage through improved disclosures by NBFIs to their counterparties and regulators can help identify concentrations and correlations in key markets, allowing risks to be addressed. The PRA’s post-Archegos ‘Dear CEO’ letter and Fixed Income Financing ‘Dear CRO’ letter set expectations that the quality of counterparty disclosures should directly link through to the setting of risk appetite. The BCBS is consulting on proposals to improve banks’ counterparty risk management, including firms adjusting their risk appetite for counterparties that refuse to provide adequate risk disclosures.
+footnote
+[38]
+The SWES that we are running is also a powerful tool to understand how transparency can affect macro-prudential risks related to margin dynamics.
+Conclusion
+So let me sum up. Greater collateralisation has been positive for financial stability, offsetting counterparty risk, making systemic firms more resilient and supporting market activity in stress. Initial margin and haircuts can also constrain the level of leverage in the system, ensuring counterparties contribute adequate cover against their exposures, acting as the first line of defence, and not building up excessive leverage.
+But getting margin and haircut levels and practices right is crucial for financial stability.
+As variation and initial margins go up in stress, firms need to be prepared for the liquidity need that will arise. Enhancing market participants’ liquidity preparedness to meet their collateral requests would go a long way towards reducing procyclical behaviours in response to large margin calls and preventing the liquidity crises that have amplified past financial shocks. This requires a high degree of transparency, effective stress testing, and improvements to operational processes.
+And initial margin in some bilateral derivatives markets and haircuts in repo markets need to be sufficiently high in normal times. Excessively high margins can unnecessarily tie up resources that could be used more productively elsewhere. But setting initial margin or haircuts too low can undermine financial stability as counterparty risk is not adequately captured, and it means they have to rise more sharply in stress. To mitigate this risk, UK CCPs are required to implement anti-procyclicality measures in their initial margin models.
+footnote
+[39]
+Financial institutions must also continue to improve their own risk management frameworks so that they adequately consider the exposures of their clients and counterparties.
+On the public sector side, the Bank of England is also developing a new contingent repo lending facility, enabling us to provide liquidity directly to NBFIs at times of severe liquidity stress in core UK markets, as a backstop
+footnote
+[40]
+.
+But the steps I have mentioned today are key to ensure market participants manage and take responsibility for the risks to which they choose to expose themselves. So that the level of risk in the system is properly priced. And so that market participants play their part in ensuring exposures are adequately covered, and that they act as an effective first line of defence. And so that central banks can be the last resort, not the first resort. The international policy work currently underway is key to address these issues, and harmonised guidance and standards will also prevent risks of regulatory arbitrage or a race to the bottom.
+Getting these things sorted is essential and will go a considerable way towards addressing some of the main current vulnerabilities in the system of market-based finance.
+Thank you.
+I’d like to thank Niamh Reynolds, Nicholas Vause, Pelagia Neocleous, Edward Kent, Simon Stockwell, Bonnie Howard, Lee Foulger, Daniel Walker, Michael Yoganayagam, Rob Patalano and Matt Roberts-Sklar for their assistance in preparing these remarks. The views expressed here are not necessarily those of the Financial Policy Committee (FPC).
+Market based finance is made up of markets (e.g., equity, debt, and derivatives markets) and different kinds of investment funds, insurers, intermediaries like broker-dealers, and market infrastructure like central counterparties.
+Bank of England (2023), “
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+”, 10 October 2023.
+Bank of England (2022), “
+New Tides – speech by Nathanaël Benjamin
+”, 20 July 2022.
+Bank of England (2023), “
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+”, 10 October 2023.
+For example, one counterparty in a repo might sell a security to the other counterparty today for £100 and buy it back from them in a year’s time for £102. That is like paying 2% interest on a £100 loan collateralised by the securities transferred to the cash lender for the term of the agreement. If the cash lender applied a haircut of 5%, it would buy the securities – still worth £100 – for £95, selling them back for £96.90, which is 2% more than £95. Thus, an investor could buy £100 of securities and immediately repo them for £95 of funding, leaving only £5 to be funded by its own equity. The smaller the haircut, the less own equity required.
+Gorton, G. and Metrick, A. (2012), “
+Securitized banking and the run on repo
+”, Journal of Financial Economics.
+CDS are derivatives traded “over the counter” between bilateral counterparties, which are essentially insurance contracts as they transfer potential losses on securities from protection buyers to sellers.
+This reflects that CCPs maintain matched books containing equal long and short positions.
+Baranova et al (2023), “
+The potential impact of broader central clearing on dealer balance sheet capacity: a case study of UK gilt and gilt repo markets
+”, Bank of England staff working paper no. 1026. See Section 2.
+Bank of England (2024) “
+The importance of central bank reserves by Andrew Bailey
+”, 21 May 2024.
+Under the Securities Financing Transactions Regulation (SFTR) (introduced in 2019), the Bank of England receives transaction-level data on securities financing transactions from all UK-based participants. See
+Trade Repository (TR) Data Collections
+.
+Ivan, Lillis, Maqui and Salazar (2024), “
+No one length fits all’ – haircuts in the repo market
+”, Bank Underground.
+BCBS, CPMI and IOSCO (2022), “
+Review of Margining Practices
+”
+BCBS, CPMI and IOSCO (2022), “
+Review of Margining Practices
+”. See Sections 2.1 and 2.2.
+Bank of England (2021), “
+The role of non-bank financial intermediaries in the ‘dash for cash’ in sterling markets
+”, Financial Stability Paper no. 47. See Section 4.1.
+Czech R. et al (2021), “
+An unintended consequence of holding dollar assets
+”, Bank of England Staff Working Paper no. 953.
+European Central Bank (May 2020), “
+Financial Stability Review”.
+See Special Feature A. November 2020 (Box 8).
+European Central Bank (November 2020), “
+Financial Stability Review
+”. See Box 8.
+Ghio, M. et al (2023), “
+Derivative margin calls: a new driver of MMF flows
+”, European Central Bank Working Paper no. 2800.
+Avalos, F. et al (2023), “
+Margins and liquidity in European energy markets in 2022
+”, Bank for International Settlements Bulletin no. 77.
+Ferrara, G. et al (2023), “
+There is all the difference in the world between paying and being paid: margin calls and liquidity demand in volatile commodity markets
+”, Bank Underground, 5 January.
+Bank of England (2022), “
+Energy Markets Financing Scheme opens today
+”, News release, 17 October.
+Such as measures to increase gas storage and reduce demand, thereby reducing the risk of further price rises.
+These funds helped defined-benefit pension funds equalise the sensitivity of their assets and liabilities to changes in interest rates.
+Ivan, Lillis, Maqui and Salazar (2024), “
+No one length fits all’ – haircuts in the repo market
+”, Bank Underground.
+Letter from Sir Jon Cunliffe to Rt Hon Mel Stride MP
+, 5 October 2022.
+Pinter, G. et al (2024), “
+Fire sales of safe assets
+”, Working paper.
+Bank of England (2024), “
+Financial Stability Report – June 2024
+”
+Bank of England (2023), “
+2023 CCP Supervisory Stress test: results report
+”
+BCBS, CPMI and IOSCO (2022), “
+Review of Margining Practices
+”
+Basel Committee on Banking Supervision, the BIS Committee on Payments and Market Infrastructures and the International Organization of Securities Commissions, “
+Transparency and responsiveness of initial margin in centrally cleared markets: review and policy proposals
+”
+Financial Stability Board (2024), “
+FSB proposes measures to enhance the liquidity preparedness of non-bank market participants for margin and collateral calls during times of market-wide stress
+”, 17 April 2024.
+Bank of England (2023), “
+Letter from Nathanaël Benjamin and David Bailey – Fixed income financing thematic review
+”
+Bank of England (2023), “
+PRA’s review of the use of the SIMM model: Conclusions”
+For initial margin, regulatory minimum standards for these models are set out in the BCBS-IOSCO standard for margining requirements, known as the “margin framework”, adopted by major jurisdictions, including the UK.
+Basel Committee on Banking Supervision and Board of the International Organization of Securities Commissions (2024), “
+Streamlining VM processes and IM responsiveness of margin models in non-centrally cleared markets
+”, 17 January 2024.
+Financial Stability Board (2021), “
+Policy proposals to enhance money market fund resilience: Final report
+”, 11 October 2021.
+Basel Committee on Banking Supervision (2024), “
+Guidelines for counterparty credit risk management
+”, 30
+April 2024.
+European Securities and Market Authority (2019), “
+Guidelines on EMIR Anti-Procyclicality Margin Measures for Central Counterparties
+”, 15 April 2019.
+Bank of England, “
+Market resilience, non-bank financial institutions and the central bank toolkit – practical next steps – speech by Nick Butt
+”, 12 March 2024.
+Bank of England, “
+Market resilience, non-bank financial institutions and the central bank toolkit – practical next steps – speech by Nick Butt
+”, 12 March 2024.
+Close
+European Securities and Market Authority (2019), “
+Guidelines on EMIR Anti-Procyclicality Margin Measures for Central Counterparties
+”, 15 April 2019.
+Close
+Basel Committee on Banking Supervision (2024), “
+Guidelines for counterparty credit risk management
+”, 30
+April 2024.
+Close
+Financial Stability Board (2021), “
+Policy proposals to enhance money market fund resilience: Final report
+”, 11 October 2021.
+Close
+Basel Committee on Banking Supervision and Board of the International Organization of Securities Commissions (2024), “
+Streamlining VM processes and IM responsiveness of margin models in non-centrally cleared markets
+”, 17 January 2024.
+Close
+For initial margin, regulatory minimum standards for these models are set out in the BCBS-IOSCO standard for margining requirements, known as the “margin framework”, adopted by major jurisdictions, including the UK.
+Close
+Bank of England (2023), “
+PRA’s review of the use of the SIMM model: Conclusions”
+Close
+Bank of England (2023), “
+Letter from Nathanaël Benjamin and David Bailey – Fixed income financing thematic review
+”
+Close
+Financial Stability Board (2024), “
+FSB proposes measures to enhance the liquidity preparedness of non-bank market participants for margin and collateral calls during times of market-wide stress
+”, 17 April 2024.
+Close
+Basel Committee on Banking Supervision, the BIS Committee on Payments and Market Infrastructures and the International Organization of Securities Commissions, “
+Transparency and responsiveness of initial margin in centrally cleared markets: review and policy proposals
+”
+Close
+BCBS, CPMI and IOSCO (2022), “
+Review of Margining Practices
+”
+Close
+Bank of England (2023), “
+2023 CCP Supervisory Stress test: results report
+”
+Close
+Bank of England (2024), “
+Financial Stability Report – June 2024
+”
+Close
+Pinter, G. et al (2024), “
+Fire sales of safe assets
+”, Working paper.
+Close
+Letter from Sir Jon Cunliffe to Rt Hon Mel Stride MP
+, 5 October 2022.
+Close
+Ivan, Lillis, Maqui and Salazar (2024), “
+No one length fits all’ – haircuts in the repo market
+”, Bank Underground.
+Close
+These funds helped defined-benefit pension funds equalise the sensitivity of their assets and liabilities to changes in interest rates.
+Close
+Such as measures to increase gas storage and reduce demand, thereby reducing the risk of further price rises.
+Close
+Bank of England (2022), “
+Energy Markets Financing Scheme opens today
+”, News release, 17 October.
+Close
+Ferrara, G. et al (2023), “
+There is all the difference in the world between paying and being paid: margin calls and liquidity demand in volatile commodity markets
+”, Bank Underground, 5 January.
+Close
+Avalos, F. et al (2023), “
+Margins and liquidity in European energy markets in 2022
+”, Bank for International Settlements Bulletin no. 77.
+Close
+Ghio, M. et al (2023), “
+Derivative margin calls: a new driver of MMF flows
+”, European Central Bank Working Paper no. 2800.
+Close
+European Central Bank (November 2020), “
+Financial Stability Review
+”. See Box 8.
+Close
+European Central Bank (May 2020), “
+Financial Stability Review”.
+See Special Feature A. November 2020 (Box 8).
+Close
+Czech R. et al (2021), “
+An unintended consequence of holding dollar assets
+”, Bank of England Staff Working Paper no. 953.
+Close
+Bank of England (2021), “
+The role of non-bank financial intermediaries in the ‘dash for cash’ in sterling markets
+”, Financial Stability Paper no. 47. See Section 4.1.
+Close
+BCBS, CPMI and IOSCO (2022), “
+Review of Margining Practices
+”. See Sections 2.1 and 2.2.
+Close
+BCBS, CPMI and IOSCO (2022), “
+Review of Margining Practices
+”
+Close
+Ivan, Lillis, Maqui and Salazar (2024), “
+No one length fits all’ – haircuts in the repo market
+”, Bank Underground.
+Close
+Under the Securities Financing Transactions Regulation (SFTR) (introduced in 2019), the Bank of England receives transaction-level data on securities financing transactions from all UK-based participants. See
+Trade Repository (TR) Data Collections
+.
+Close
+Bank of England (2024) “
+The importance of central bank reserves by Andrew Bailey
+”, 21 May 2024.
+Close
+Baranova et al (2023), “
+The potential impact of broader central clearing on dealer balance sheet capacity: a case study of UK gilt and gilt repo markets
+”, Bank of England staff working paper no. 1026. See Section 2.
+Close
+This reflects that CCPs maintain matched books containing equal long and short positions.
+Close
+CDS are derivatives traded “over the counter” between bilateral counterparties, which are essentially insurance contracts as they transfer potential losses on securities from protection buyers to sellers.
+Close
+Gorton, G. and Metrick, A. (2012), “
+Securitized banking and the run on repo
+”, Journal of Financial Economics.
+Close
+For example, one counterparty in a repo might sell a security to the other counterparty today for £100 and buy it back from them in a year’s time for £102. That is like paying 2% interest on a £100 loan collateralised by the securities transferred to the cash lender for the term of the agreement. If the cash lender applied a haircut of 5%, it would buy the securities – still worth £100 – for £95, selling them back for £96.90, which is 2% more than £95. Thus, an investor could buy £100 of securities and immediately repo them for £95 of funding, leaving only £5 to be funded by its own equity. The smaller the haircut, the less own equity required.
+Close
+Bank of England (2023), “
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+”, 10 October 2023.
+Close
+Bank of England (2022), “
+New Tides – speech by Nathanaël Benjamin
+”, 20 July 2022.
+Close
+Bank of England (2023), “
+Financial Stability in Focus: The FPC’s approach to assessing risks in market-based finance
+”, 10 October 2023.
+Close
+Market based finance is made up of markets (e.g., equity, debt, and derivatives markets) and different kinds of investment funds, insurers, intermediaries like broker-dealers, and market infrastructure like central counterparties.
+Close
+Convert this page to PDF
+Nathanaël Benjamin
+Executive Director, Financial Stability Strategy and Risk
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

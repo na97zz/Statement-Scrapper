@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Comments on \"Some Benefits and Risks of a Hot Economy\"",
+  "date_original": "2022-02-18",
+  "date_au": "18/02/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220218a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-02-18 - Christopher J. Waller - Comments on _Some Benefits and Risks of a Hot Economy_.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-02-18 - Christopher J. Waller - Comments on _Some Benefits and Risks of a Hot Economy_.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e812882afb2b89034da31fdad158039dbae073b3c3732172a37da3499f06bc30"
+}

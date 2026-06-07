@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Financial literacy and monetary policy transmission",
+  "date_original": "2025-03-27",
+  "date_au": "27/03/2025",
+  "datetime_original": "",
+  "speaker": "Speech by Isabel Schnabel",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250327~4f9c298d91.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-03-27 - Speech by Isabel Schnabel - Financial literacy and monetary policy transmission.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-03-27 - Speech by Isabel Schnabel - Financial literacy and monetary policy transmission.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3f9062bcfbb428984afaa66051c10996540c83d6b6f1944cec05c46961376505"
+}

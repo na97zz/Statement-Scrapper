@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook and Appropriate Monetary Policy",
+  "date_original": "2025-06-05",
+  "date_au": "05/06/2025",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250605a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-06-05 - Adriana D. Kugler - The Economic Outlook and Appropriate Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-06-05 - Adriana D. Kugler - The Economic Outlook and Appropriate Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ad9743eda607db7c14394ddbb7e2faa49e8dd16c84264da2420a09c73a9259ff"
+}

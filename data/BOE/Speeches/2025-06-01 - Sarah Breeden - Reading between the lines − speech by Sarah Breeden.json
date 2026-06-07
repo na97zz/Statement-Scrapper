@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Reading between the lines − speech by Sarah Breeden",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Sarah Breeden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/january/sarah-breeden-speech-at-the-university-of-edinburgh",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Sarah Breeden - Reading between the lines − speech by Sarah Breeden.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Sarah Breeden - Reading between the lines − speech by Sarah Breeden.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:13:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "018357b6d342d5134d171ca9d854f8af213cc790f0fc94cef34cbfe686a308c2"
+}

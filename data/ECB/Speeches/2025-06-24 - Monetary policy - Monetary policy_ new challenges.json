@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy: new challenges",
+  "date_original": "2025-06-24",
+  "date_au": "24/06/2025",
+  "datetime_original": "",
+  "speaker": "Monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250624~6bc6bae5ac.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-06-24 - Monetary policy - Monetary policy_ new challenges.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-06-24 - Monetary policy - Monetary policy_ new challenges.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ded425d1fc96b1de03bfc43402b1e24b1f7c4ab703fe4dd890b5aa3d15754a7a"
+}

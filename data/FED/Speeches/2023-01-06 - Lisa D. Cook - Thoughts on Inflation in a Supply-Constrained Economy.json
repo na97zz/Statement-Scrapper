@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Thoughts on Inflation in a Supply-Constrained Economy",
+  "date_original": "2023-01-06",
+  "date_au": "06/01/2023",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20230106a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-01-06 - Lisa D. Cook - Thoughts on Inflation in a Supply-Constrained Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-01-06 - Lisa D. Cook - Thoughts on Inflation in a Supply-Constrained Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cc94828cd19d765a03f96dc95c1fdba7aa6cb4314120de8972bee8dd72ac0fac"
+}

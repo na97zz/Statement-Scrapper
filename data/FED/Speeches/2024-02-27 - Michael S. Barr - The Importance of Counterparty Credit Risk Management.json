@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Importance of Counterparty Credit Risk Management",
+  "date_original": "2024-02-27",
+  "date_au": "27/02/2024",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20240227a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-27 - Michael S. Barr - The Importance of Counterparty Credit Risk Management.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-27 - Michael S. Barr - The Importance of Counterparty Credit Risk Management.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "044b27a5cf209e8c95cfba3e3801c92173fdbbd006371674283413bdafa69b83"
+}

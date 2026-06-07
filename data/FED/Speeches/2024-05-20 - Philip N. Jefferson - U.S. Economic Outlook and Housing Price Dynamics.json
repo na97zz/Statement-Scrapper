@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "U.S. Economic Outlook and Housing Price Dynamics",
+  "date_original": "2024-05-20",
+  "date_au": "20/05/2024",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20240520a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-20 - Philip N. Jefferson - U.S. Economic Outlook and Housing Price Dynamics.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-20 - Philip N. Jefferson - U.S. Economic Outlook and Housing Price Dynamics.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5490752d7955694336e779cd46279b32eb6784dc5ac5237ce5752dd4135ca55c"
+}

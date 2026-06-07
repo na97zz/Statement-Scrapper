@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The ECB’s balance sheet reduction: an interim assessment",
+  "date_original": "2024-11-07",
+  "date_au": "07/11/2024",
+  "datetime_original": "",
+  "speaker": "The ECB’s balance sheet reduction",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp241107~7d53987569.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-11-07 - The ECB’s balance sheet reduction - The ECB’s balance sheet reduction_ an interim assessment.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-11-07 - The ECB’s balance sheet reduction - The ECB’s balance sheet reduction_ an interim assessment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5f0fdee4be5f93d6fb1d3f7f9ecf23e4117373220e3e71b56b546bfe3fa8b448"
+}

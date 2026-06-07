@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The end of the road − speech by Alan Taylor",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Alan Taylor",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2025/july/the-end-of-the-road-speech-by-alan-taylor.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Alan Taylor - The end of the road − speech by Alan Taylor.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Alan Taylor - The end of the road − speech by Alan Taylor.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:11:33",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2025/july/alan-taylor-speech-at-the-london-school-of-economics-and-political-science-public-lecture",
+  "content_sha256": "9314087324a0f3850ad967f550087885958b7829098c53916d9cf811d05dfbfb"
+}

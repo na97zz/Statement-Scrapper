@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The conduct of monetary policy",
+  "date_original": "2025-10-06",
+  "date_au": "06/10/2025",
+  "datetime_original": "",
+  "speaker": "Keynote speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251006~0adce2b3d4.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-10-06 - Keynote speech by Philip R. Lane - The conduct of monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-10-06 - Keynote speech by Philip R. Lane - The conduct of monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5d39d2708dc6c8f062b6574f629d01e0d7c79eba87995fe54776a14e6dfaf421"
+}

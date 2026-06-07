@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Europe and monetary sovereignty",
+  "date_original": "2026-02-12",
+  "date_au": "12/02/2026",
+  "datetime_original": "",
+  "speaker": "Speech by Piero Cipollone",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260212~9fabe9baaa.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-02-12 - Speech by Piero Cipollone - Europe and monetary sovereignty.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-02-12 - Speech by Piero Cipollone - Europe and monetary sovereignty.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "953aba8b16db6620297c2e6e9d63e3939cbcefa87ba75be5d4a648c54f693a64"
+}

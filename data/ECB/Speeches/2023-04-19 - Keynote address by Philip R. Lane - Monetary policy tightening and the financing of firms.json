@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy tightening and the financing of firms",
+  "date_original": "2023-04-19",
+  "date_au": "19/04/2023",
+  "datetime_original": "",
+  "speaker": "Keynote address by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230419~09fe9b3295.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-04-19 - Keynote address by Philip R. Lane - Monetary policy tightening and the financing of firms.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-04-19 - Keynote address by Philip R. Lane - Monetary policy tightening and the financing of firms.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5f5e027d3af366fcab31e8c7e26e26e3018b402419e0cf99cf800ce93ef5210d"
+}

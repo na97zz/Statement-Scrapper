@@ -1,0 +1,291 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Central Bank Digital Currency: An update on the Bank of England’s work - speech by Tom Mutton
+DATE: 01/06/2021
+SPEAKER: Tom Mutton
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2021/june/tom-mutton-pre-recorded-keynote-speech-the-future-of-fintech-digital-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Central Bank Digital Currency: An update on the Bank of England’s work - speech by Tom Mutton
+Given at FS tech: The Future of FinTech Conference
+Published on 
+
+ 17 June 2021
+Tom Mutton shares our latest thinking on central bank digital currencies (CBDCs). He looks into what we’ve learned so far, and how we are setting up our work for the future. He explains some of the principles that are guiding our work, and how we’re approaching some of the big debates on CBDC.
+Speech
+Thank you for inviting me to speak to you. It is a pleasure to be here.
+Today I want to share our latest thinking on Central Bank Digital Currency (CBDC). I’ll look into what we’ve learned so far, and how we are setting up our work for the future. I’ll explain some of the principles that are guiding our explorations, and how we’re approaching some of the big debates on CBDC.
+When talking about CBDC I always make two points clear upfront. First, CBDC is of great interest to the Bank of England, but we have not yet made a decision on whether or not one is needed. Second, cash is very important to a lot of people, and it will remain available for as long as they wish to use it.
+In today’s discussion I will focus on a ‘retail’ CBDC for use in everyday transactions in the UK, but there are also ‘wholesale’ versions of CBDC proposed for transactions between financial institutions. And whilst I’m focusing on domestic use today, CBDC could also have applications in cross border payments.
+CBDC - A new form of money:
+For most of you, CBDC probably needs little introduction. But as a refresher; CBDC, if launched, would be a new form of digital money, issued by the Bank of England, for households and businesses to use.
+As a liability of the Bank of England, CBDC would be the safest type of money available. At the moment, such ‘central bank money’ is only available in the form of physical banknotes, or for certain types of financial institutions, ‘reserves’. So CBDC would make central bank money, available to the public, in digital form, for the first time. Crucially, if introduced, CBDC would complement – rather than replace - cash and bank deposits.
+Why are we interested in CBDC?
+I am often asked whether we really need CBDC.
+After all, digital payments are already the most popular way to pay
+footnote
+[1]
+. Those digital payments, mainly made via debit card, are effective, convenient, and usually free for the consumer. And proposed developments such as stablecoins, a type of privately issued digital asset, which look to address the volatility and scalability challenges encountered by cryptocurrencies, could further broaden our choice of payment options.
+So why bother with yet another digital means of payment? And what can the central bank bring that the private sector can’t?
+To kick-start a debate on those questions, in 2020 we published our first discussion paper on CBDC
+footnote
+[2]
+. And on 7 June, we set out the feedback received
+footnote
+[3]
+, alongside a second discussion paper seeking views on important policy questions related to new forms of digital money
+footnote
+[4]
+.
+The 2020 discussion paper set out a range of possible ‘use cases’ for CBDC. Deliberately, those use cases were high-level, we did not prioritise or weight them, nor did we seek to evaluate whether they presented sufficient ‘net benefits’ to justify the introduction of a CBDC. Those use cases range from supporting future payment needs in a more digital economy, through to acting a possible building block for better cross border payments.
+CBDC ‘Use cases’ proposed in our 2020 CBDC discussion paper:
+Figure 1: Use cases
+Supporting a resilient payments landscape
+Avoiding the risks of new forms of private money creation
+Supporting competition, efficiency and innovation in payments
+Meeting future payment needs in a digital economy
+Improving the availability and usability of central bank money
+Addressing the consequences of a decline in cash
+As a building block for better cross-border payments
+We recognised that a number of the use cases identified were not exclusive to CBDC; and they could, in principle, be delivered by private payments innovations, or through other policy interventions.
+As an example, the future payments needs of a more digital economy could well be delivered through private sector innovation supported by enhancements to existing payments infrastructure, such as the renewal of the Bank of England’s Real Time Gross Settlement Service
+footnote
+[5]
+, and the implementation of the New Payments Architecture
+footnote
+[6]
+. Equally, the wide set of measures targeted in the G20 roadmap to enhance cross border payments may well achieve the desired impact on improving the cost, speed and transparency of international transfers without a need for a CBDC.
+This of course begs the question, ‘what is so special about CBDC?’ Well as central bank money, CBDC has unique properties and our Discussion Paper identified some ‘use cases’ which might best be fulfilled by CBDC.
+Core to these ‘use cases’ is the fact that CBDC would be issued by a public institution – the central bank – and would be the safest form of money available. These considerations are set out comprehensively in a recent speeches by Andrew Bailey
+footnote
+[7]
+and Jon Cunliffe
+footnote
+[8]
+, so I will only cover them briefly here.
+First, confidence in money and payments is fundamental to financial stability. And the ability to convert, on demand, ‘private’ money – such as a bank deposit, into ‘public’ money, issued by the central bank, in the form of cash, is a foundation of that confidence. It also promotes the understanding that different types of money are uniform and makes them substitutable. More generally, the ability to access central bank money acts as an anchor, and reference point, for value, given cash is a universally available and accepted ‘safe asset’.
+Second, access to central bank money in the form of CBDC could support wider public policy objectives. These range from the possible benefits for competition and diversity in payments, through to opportunities to promote financial inclusion and safeguard privacy. Public trust is a particularly important consideration. A recent survey from OMFIF
+footnote
+[9]
+suggested that both as a ‘money services provider’ generally, and for digital currency specifically, central banks (i.e. CBDC) were most trusted, followed by payment services providers and commercial banks. Major technology companies were least trusted.
+Clearly central bank money plays an important role; and even as transactional use of cash has declined, the public report that they still value their access to it. Therefore it is only right that we consider the case for providing central bank money, to the general public in digital, as well as physical form.
+The ‘platform model’:
+For those more interested in technology than policy; we also set out in our 2020 paper some ‘design principles’ for CBDC, based around the concepts of ‘resilience and security’, ‘speed and efficiency’ and ‘innovation and competition’. We also set out a range of important functional considerations, particularly around payments opportunities, such as programmability
+footnote
+[10]
+, micropayments and offline transactions.
+To deepen the debate, we also proposed an illustrative architecture for CBDC. We referred to this model as a ‘platform model’, given that the basic components would be privately provided payments interfaces, or ‘wallets’, who would own the relationship with the customer and provide them with value add payment services. The central bank would provide the core ledger, and an API would provide connectivity between the layers.
+Platform model for CBDC:
+Figure 2: Platform model
+Central bank core ledger
+: A fast, highly secure and resilient platform that provides relatively simple payments functionality (the ‘core ledger’).
+API access
+: Allows private sector Payment Interface Providers to connect to the core ledger. Blocks unauthorised access – only regulated entities can connect.
+Payment Interface Providers
+: Authorised and regulated firms providing user-friendly interfaces between the user and the ledger. Many also provide additional payment services that are not built into the core ledger as overlay services.
+Users
+: Register with Payment Interface Provider(s) to access CBDC.
+What we’ve learned so far:
+We received a strong response to our 2020 discussion paper. And, as mentioned earlier, our summary of the feedback received was published on 7 June. The technology and fintech sector were a particularly rich source of feedback.
+Respondents to the 2020 CBDC discussion paper by group:
+Technology and fintech firms
+39%
+Private individuals
+21%
+Payment firms
+6%
+Consultancies
+6%
+Academics
+11%
+Law firms
+3%
+Financial institutions
+5%
+Trade bodies and thinktanks
+6%
+Consumer interest groups
+2%
+N.b includes respondents who offered a response to at least one question raised in the discussion paper.
+Amidst the wide range of views, one message came across loud and clear. Whatever a respondent’s position on whether or not a CBDC might be needed, there was near universal agreement that the pros and cons needed to be studied in depth, broad engagement was needed as the evidence was assembled, and open consultation essential before reaching any conclusions.
+Looking into the responses in more detail, some important themes emerged:
+The ‘use case’ for CBDC needs to be further developed and better articulated.
+Feedback suggested the Bank should narrow the range of ‘use cases’ specified, develop them in greater detail and more clearly differentiate CBDC from other payment options.
+A number of responses pointed to the need for CBDC to be zero, or very low cost for users, and that more information on costs and function would be needed to precisely evaluate the level of demand for, and most likely uses of, any CBDC. In general respondents were positive about the idea of the public and private sectors collaborating in a CBDC system, and considered the involvement of a diverse group of private sector participants would best support innovation.
+The need for CBDC to support financial inclusion and protect privacy was called out.
+Feedback underscored that if CBDC is to succeed it should be universally accessible and give users a high degree of assurance on how their information will be used, and their privacy safeguarded. Respondents also reported that these were areas where a CBDC could positively differentiate itself from other means of payment.
+On financial inclusion, finding means to include those with limited documentation and who encounter difficulty identifying themselves was the most commonly raised point of feedback. The possible combination of CBDC with digital identity systems was highlighted as an opportunity to ease some of those challenges. Another point, often raised, was the importance of CBDC being accessible to those without access to a smartphone, and to those with limited digital skills, with respondents setting out a range of their own solutions from SMS payments to basic CBDC payment devices or ‘smartcards’.
+That privacy is paramount met with strong agreement from respondents. But what privacy meant in practice generated a wide range of views. With a handful of exceptions, respondents were generally of the view that anonymity was not desirable, nor particularly realistic in digital payments, given their electronic nature, as well as the importance of reducing financial crime. Some raised concern about the central bank being able to access information on their payments through a CBDC system.
+Our design principles were seen as comprehensive; but challenging to deliver.
+Feedback noted that there would be tensions and trade-offs between our design principles. Extensibility
+footnote
+[11]
+and flexibility in CBDC architecture was widely emphasised as a feature that could help the Bank navigate these challenges.
+The feedback gets to the heart of the issue – designing a CBDC will need us to strike a well-judged balance in areas where our objectives or design principles might be in conflict. And this will be a major challenge given there is very little room for compromise on issues like cyber resilience. Ultimately success will depend on optimising the CBDC system design for these challenges and making the most of the opportunities of new technology.
+I’d like to look in more depth at a specific trade-off, related to privacy.
+A recurring theme in the feedback we received, was acknowledgement that a CBDC system could enable greater transparency, which in turn could help reduce financial crime. But there was concern this might also involve a degree of loss of users’ privacy.
+However I’m optimistic these two objectives, preserving privacy and reducing financial crime, can – in fact - both be accommodated successfully in a CBDC system. The reasons for this are threefold.
+First, the Bank of England has no commercial incentive to gather users’ data. Indeed we see strong standards of privacy and data protection as a hallmark of any UK CBDC. And in general it is important that, if we were to launch a CBDC, the central bank should only collect the very minimum set of information needed to operate the system and meet our legal and compliance obligations. And ideally the central bank might not have access to personal information in a CBDC system at all.
+Second, all electronic payments – by definition, involve the exchange of information. And to reduce financial crime some of that information will need to be used to identify and prevent illicit activity. But choices on CBDC system design can help maintain privacy and protect data.
+In particular a CBDC architecture could ensure that data is restricted to only specified actors in the system. And to the extent there is concern about information being shared with the central bank, there could be exploration of whether there are architectures where the identity of the user would be known to the provider of (say) the digital wallet, who would be responsible for financial crime compliance, but their personal identity not routinely known to the central bank.
+Third, privacy enhancing technologies, such as zero knowledge proofs, and digital identity frameworks, could offer opportunities to both enhance transparency and increase security and privacy.
+Some functional capabilities were considered to be very important.
+These included the ability to make ‘offline’ payments in areas with limited internet connectivity, the importance of ‘programmable’ money and the synergies to be gained by deploying any eventual UK digital ID framework within a CBDC.
+Energy and environment:
+One important topic which, surprisingly, didn’t feature significantly in the responses we received was energy and environment.
+Bitcoin’s energy consumption dominates these discussions. I won’t get into that debate today, because Bitcoin, given its performance shortcomings and energy inefficiency, is in no way a relevant comparison for the sort of technology we might use in a central bank digital currency. And it is important to remember that the energy consumption of bitcoin is not typical of all blockchain and distributed ledger based approaches. In fact, some of these technologies, including those developed to support some forms of private digital money, are potentially in the order of tens of thousands of times more efficient per transaction
+footnote
+[12]
+. So let’s not throw the blockchain baby out with the Bitcoin bathwater.
+Rather, we should focus our on identifying how CBDC might play its part in the transition to a net zero economy.
+On this I note three points. First, G7 Finance Ministers & Central Bank Governors emphasised earlier this month that energy efficiency should be a core consideration for CBDC design
+footnote
+[13]
+. Second, CBDC, and payments innovations more widely, might use new technologies that are able to process payments more efficiently and at lower energy intensity. And third, CBDC may offer enhanced data and analytics which allow us greater insights into how the system is operating and how we can optimise for the most energy efficient configuration possible.
+Setting ourselves up for the future:
+We will take forward our exploration of CBDC with pace and purpose. But at the same time the issues involved are complex, and delicate, and given the need for confidence in money and payments, there is no room for error. So our work on CBDC will be a multi-year effort, working in close partnership with our colleagues across the UK authorities.
+To ensure a comprehensive, strategic and joined up approach to CBDC, the Chancellor announced during Fintech week
+footnote
+[14]
+:
+A joint
+Taskforce
+between the Bank and HM Treasury to coordinate exploration of CBDC by the UK authorities.
+A
+CBDC Engagement Forum
+for senior stakeholders on the practical challenges of designing, implementing and operating a CBDC. This will include stakeholders across industry, academia and civil society.
+A
+CBDC Technology Forum
+to gather input on all technology aspects of CBDC from technical specialists.
+We are looking forward to announcing the members, and sharing more information on the forums’ areas of focus, shortly.
+A question which frequently crops up is how the UK approach compares to other countries. Given CBDC pilots underway in the Caribbean and China, I’m also sometimes asked whether the UK is at risk of ‘falling behind’.
+My response is to explain that the UK is thought leader on CBDC, but it is essential that we also learn from, likeminded countries. Ultimately whether or not a CBDC is needed, and what the precise design might be, will be a national choice, reflecting our own circumstances, needs and preferences. But there are serious gains to be had from working closely with international partners. To give two examples, first G7 Finance Ministers and Governors, under the leadership of the UK Presidency, have asked a group of experts to take forward exploration of the broad public policy issues related to CBDC and to publish our conclusions later this year
+footnote
+[15]
+. And second, the UK centre of the BIS Innovation Hub opened on 11 June, and we hope that international collaboration on CBDC technology will be an important part of its work
+footnote
+[16]
+.
+Principles for how we will approach further exploration
+Reflecting on what we learned from the responses to our discussion paper, and our ongoing research and engagement, we have published five principles which will guide our CBDC work for the future. They are:
+Financial inclusion should be a prominent consideration in CBDC design.
+A competitive CBDC ecosystem with diverse participants will support innovation.
+Due recognition should be given to other payments innovations and their ability to support the outcomes the Bank seeks.
+CBDC should seek to protect users’ privacy.
+While CBDC should ‘do no harm’ to the Bank of England’s ability to deliver monetary and financial stability, opportunities to better meet our policy objectives should also be considered in CBDC exploration.
+Conclusion:
+Supporting payments innovation is a priority. So we will explore the case for CBDC with pace and purpose, but also with an open mind on whether one is needed. Those explorations will be guided by the principles I outlined, and we’ll continue to engage with a diverse group of stakeholders to gain their insights as we think about the very important question of CBDC.
+I would like to thank Victoria Cleland, Laurie Roberts, Matthew Osborne, Will Lovell, Ben Dovey, Rachel Greener, Simon Scorer and Shiv Chowla for their comments and advice on this speech.
+UK Finance:
+UK payments market summary
+, June 2020.
+Bank of England:
+Central Bank Digital Currency: opportunities, challenges and design
+, March 2020.
+Bank of England:
+Summary of responses to the discussion paper ‘Central Bank Digital Currency: opportunities, challenges and design’
+, June 2021.
+Bank of England:
+Discussion paper: New forms of digital money
+, June 2021.
+Bank of England:
+RTGS renewal programme
+.
+Pay.UK -
+New Payments Architecture programme
+.
+‘Innovation to serve the public interest’ Speech by Andrew Bailey
+.
+‘Do we need public money?’ Speech by Sir Jon Cunliffe
+.
+Official Monetary and Financial Institutions Forum (OMFIF):
+Digital currencies: A question of trust
+.
+Where transactions occur automatically according to certain conditions, rules or events.
+The quality of being designed to allow the addition of new capabilities or functionality.
+Deutsche Bank research. Bank calculations.
+G7 Finance Ministers, June 2020 Communique:
+https://www.gov.uk/government/publications/g7-finance-ministers-meeting-june-2021-communique
+Bank of England statement on Central Bank Digital Currency
+, April 2021.
+G7 Finance Ministers, June 2020 Communique
+.
+‘Bank for International Settlements and Bank of England launch Innovation Hub London centre’
+.
+‘Bank for International Settlements and Bank of England launch Innovation Hub London centre’
+.
+Close
+G7 Finance Ministers, June 2020 Communique
+.
+Close
+Bank of England statement on Central Bank Digital Currency
+, April 2021.
+Close
+G7 Finance Ministers, June 2020 Communique:
+https://www.gov.uk/government/publications/g7-finance-ministers-meeting-june-2021-communique
+Close
+Deutsche Bank research. Bank calculations.
+Close
+The quality of being designed to allow the addition of new capabilities or functionality.
+Close
+Where transactions occur automatically according to certain conditions, rules or events.
+Close
+Official Monetary and Financial Institutions Forum (OMFIF):
+Digital currencies: A question of trust
+.
+Close
+‘Do we need public money?’ Speech by Sir Jon Cunliffe
+.
+Close
+‘Innovation to serve the public interest’ Speech by Andrew Bailey
+.
+Close
+Pay.UK -
+New Payments Architecture programme
+.
+Close
+Bank of England:
+RTGS renewal programme
+.
+Close
+Bank of England:
+Discussion paper: New forms of digital money
+, June 2021.
+Close
+Bank of England:
+Summary of responses to the discussion paper ‘Central Bank Digital Currency: opportunities, challenges and design’
+, June 2021.
+Close
+Bank of England:
+Central Bank Digital Currency: opportunities, challenges and design
+, March 2020.
+Close
+UK Finance:
+UK payments market summary
+, June 2020.
+Close
+Convert this page to PDF
+Sign up for latest updates
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

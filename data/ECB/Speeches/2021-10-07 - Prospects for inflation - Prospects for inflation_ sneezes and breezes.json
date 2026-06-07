@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Prospects for inflation: sneezes and breezes",
+  "date_original": "2021-10-07",
+  "date_au": "07/10/2021",
+  "datetime_original": "",
+  "speaker": "Prospects for inflation",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211007~ab617e7d60.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-10-07 - Prospects for inflation - Prospects for inflation_ sneezes and breezes.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-10-07 - Prospects for inflation - Prospects for inflation_ sneezes and breezes.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7aaf962f9933c1c2c9bdc7a5ad3513a50464e38a5e0b6b09de4aaa642ad024c9"
+}

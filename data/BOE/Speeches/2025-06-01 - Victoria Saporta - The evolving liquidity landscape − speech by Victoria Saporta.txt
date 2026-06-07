@@ -1,0 +1,502 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The evolving liquidity landscape − speech by Victoria Saporta
+DATE: 01/06/2025
+SPEAKER: Victoria Saporta
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/november/victoria-saporta-panellist-at-the-european-central-bank-conference-on-money-markets
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The evolving liquidity landscape − speech by Victoria Saporta
+Elaborates on points made at the market panel of the ECB Conference on Money Markets 2025
+Published on 
+
+ 07 November 2025
+In this speech, Vicky looks at how central bank balance sheet transition, higher global government bond issuance and an expanding footprint of NBFIs interact to shape a new liquidity environment. She discusses what this means for the Bank’s monetary control and financial stability objectives.
+Speech
+The sessions in this year’s
+ECB Money Market Conference
+have offered a rich set of insights on the current liquidity backdrop – ranging from evolving central bank balance sheets, the functioning of collateralised markets, through to the expanding footprint of non-bank financial institutions (NBFIs). These are not isolated threads. They are deeply interwoven.
+In what follows I will elaborate on points I am making today on the conference policy panel. I will reflect on how these individual threads weave together a new financial fabric, one that is very different to the one we had pre-Global Financial Crisis (GFC), as my colleague Isabel has also discussed at this conference.
+footnote
+[1]
+Whilst many of these themes are not new, it is the context of central bank balance sheet normalisation that intertwines them. I will step through how lower central bank reserves, increased government debt issuance globally, and a growing presence of non-banks in government bond markets have coalesced to increase demand for funding through government bond repo markets – putting upward pressure on money market rates.
+In this new environment, the Bank of England’s operating framework that supplies reserves elastically is an essential tool to achieve our monetary and financial stability objectives by anchoring key short-term market interest rates to Bank Rate. However, while the operating framework is a necessary condition for a stable sterling money market, it alone cannot be sufficient. We need both an effective operating framework and robust market-based finance to ensure market resilience as we travel to the next destination in the new liquidity landscape.
+Central bank balance sheet normalisation is well underway
+Central bank reserves represent the first element of this new landscape. These are the deposits that commercial banks hold at the central bank and serve as the ultimate means of settlement for transactions in the economy.
+Evolving central bank balance sheets are changing the supply of reserves. Most advanced economies’ central banks expanded their balance sheets through Quantitative Easing (QE) and funding programmes undertaken first in response to the 2008 GFC, and more recently to the Covid-19 pandemic (
+Chart 1
+).
+Chart 1: Central bank assets as a share of national/regional GDP (%)
+(a)
+Footnotes
+Source: Bloomberg Finance L.P. and Bank calculations
+As I discussed in my speech “Learning by Doing”
+footnote
+[2]
+, prior to this balance sheet expansion, the Bank of England’s incumbent operating framework was one of scarce reserves
+footnote
+[3]
+. Although it achieved monetary control, it proved not to be resilient to sudden shifts in aggregate reserves demand, since the system’s flexibility to rapidly scale up reserves supply was limited in practice. In other words, this scarce framework was not robust to financial stability shocks. QE addressed this but of course went deliberately further, supplying reserves for monetary policy reasons. To walk back this additional distance, the Bank of England and other central banks globally started unwinding their QE programmes in recent years. To date, the pace of balance sheet normalisation has been similar across the three major central banks shown in
+Chart 1
+.
+And while the precise target end-states differ for each central bank, most are aiming for a new equilibrium level of reserves somewhere between the pre-GFC and peak-QE levels.
+As balance sheets have fallen from their peaks across jurisdictions, we have shifted from years of plentiful reserves to the present period of falling, though still ample, reserves supply.
+To recap where we are in the Bank of England’s normalisation
+footnote
+[4]
+, we started unwinding our balance sheet in February 2022. In September of that year, we put in place a Short-Term Repo (STR) facility which allows firms to source unlimited reserves against the highest quality collateral (Level A), such as gilts, at Bank Rate.
+footnote
+[5]
+We also started extensive engagement with the market to ensure readiness to use the full range of our market-wide repo facilities, emphasising that we are open for business. As part of ensuring readiness, earlier this year we reviewed the pricing of our Indexed Long-Term Repo facility (ILTR) which supplies reserves on a weekly basis for six months against broad collateral.
+footnote
+[6]
+As trailed in June and announced today
+footnote
+[7]
+, we will be increasing the minimum spread for Level A collateral in the ILTR from 0 to 3 basis points later this month to balance incentives for participants between the STR and ILTR facilities.
+Since balance sheet unwind began, sterling reserves have decreased by c.£322bn as a result of Quantitative Tightening (QT) and Term Funding Scheme (TFSME) repayments (
+Chart 2
+). As Chart 2 shows, reserves would have been much lower if our facilities had not been broadly used. Together, the STR and ILTR currently supply £152bn of reserves
+footnote
+[8]
+to a broad range of market participants. This compares to around just £12bn in January 2024, shortly before I started in my current role.
+At some point Bank of England reserves will reach an equilibrium range; that is, the total stock of reserves will be consistent with the aggregate demand for transactional and precautionary balances. This is known as the Preferred Minimum Range of Reserves (PMRR).
+Chart 2: Estimates for the forward path of Bank of England reserves
+(a), (b), (c)
+Reserves projections under multiple scenarios
+Footnotes
+Source: Bank of England, and Bank calculations
+(a) Scenario where repo facility usage increases is estimated by assuming reserves are replaced by STR and ILTR drawings at the growth rate observed over the previous 3 months;
+(b) £32bn active QT is the average of annual MPC sales for Quantitative Tightening so far; active QT refers to gilt sales that occur in addition to gilt maturities
+(c) all QT figures are quoted in purchase proceeds terms.
+Reserves levels have not reached the PMRR yet and we cannot know ex ante with any certainty when they will do so.
+footnote
+[9]
+And since we are operating a system whereby the size of reserves is determined by our counterparties’ demand – a so-called demand-driven repo-led system – we do not need to determine how much to supply. That said, for planning and operational readiness purposes, it’s useful to have an estimate of when reserves are likely to settle. One such estimate is provided by regular surveys of our counterparties – the latest survey suggests the PMRR is between £375-540bn. Assuming no further growth in our facilities, we will reach the upper range of this PMRR estimate towards the end of next year. But if use of our facilities continues to grow, as we expect, the PMRR will not be reached until later.
+In the meantime, we may see some bumps along the road as transition towards the PMRR continues. Structural frictions in the repo market mean that there is the potential for temporary spikes in repo rates. Last week we experienced one such bump, when overnight General Collateral gilt repo rates
+footnote
+[10]
+rose to over 30 basis points above Bank Rate. This was anticipated as a large set of TFSME repayments coincided with October month-end, Canadian year-end and spillovers from tight US repo markets. But our operational framework operated in line with its purpose and design. We saw increased take up across both our STR and ILTR facilities which reduced pressure on the repo market. Overnight General Collateral gilt repo rates fell back to below 5 basis points above Bank Rate following usage of these facilities. As long as spikes in repo rates do not threaten monetary or financial stability, we see these as a natural consequence of the financial system adjusting to the evolving liquidity landscape. With this in mind, banks should take an active role in managing their liquidity, whether that be through use of their liquidity buffers, through private markets and/or our facilities – which we welcome.
+To that point, we also have two on-demand bilateral standing facilities that can be tapped on any day of the week, should participants demand them: the Operational Standing Facility (OSF) which lends reserves at 25 basis points above Bank Rate against high-quality liquid collateral (Level A) and the Discount Window facility (DWF) which allows firms to borrow highly liquid assets (gilts and reserves) on demand against the full range of eligible collateral.
+footnote
+[11]
+Provision of reserves through these on-demand facilities can help firms in responding to liquidity needs that arise between our regular market-wide operations and will also help to limit volatility in short-term market interest rates, thereby supporting short-term rate stability. As we progress further along the transition towards the Bank of England’s steady state balance sheet, we are reviewing the calibration of these facilities and assessing how they fit alongside our weekly operations.
+The way we supply reserves affects liquidity conditions, but reserves are not the only liquid asset
+Reserves are the ultimate liquid asset for the settlement of transactions and therefore key to the new liquidity landscape. But reserves are not the only high-quality liquid asset (HQLA). The landscape is also shaped by developments in other liquid assets, such as government bonds and collateral received through repo. These assets can contribute to liquidity requirements
+footnote
+[12]
+, earn a return, and can be monetised by banks to meet outflows in financial markets or through central bank facilities.
+Banks’ preferred composition of HQLA holdings between reserves and non-reserves assets will be determined by their anticipated payment and liquidity needs, interest rate risk considerations, and the relative returns between assets. In what follows, I will step through how developments in central bank provision of reserves interact with developments in government bond issuance, using a simple demand-supply framework. I will make some hypotheses on how these developments might be affecting money market rates, which I will then confront with some data.
+A conceptual look at how transition ‘should’ be playing out in the banking system
+Figure A
+shows an illustrative demand curve for reserves. At the moment, our operating framework is still supply driven, in the sense that the reserves we supplied through QE via our Asset Purchase Facility (APF) and through Covid-era TFSME loans are still more abundant than banks’ demand for them. Since 2022, firms have been repaying their TFSME drawings and the Monetary Policy Committee has been gradually unwinding the APF. This represents a leftward move of the supply curve along the demand curve (a move from Supply 1 to Supply 2 in Figure A). This move has been modestly dampened by increased use of our repo facilities but overall has increased our proximity to the PMRR. That move leftward along the demand curve should in theory push up slightly on key short-term market rates, including government bond repo rates.
+Figure A: stylised reserves demand curve as reserves supply decreases
+At the same time that reserves have been drained, the supply of government bonds has increased (
+Chart 3
+). This is not unique to the UK. Many advanced economies have increased their government debt issuance in recent years. QT is also contributing to the increase of government bonds being held privately, albeit to a significantly lesser extent.
+Chart 3: Government bond free float has grown across major economies
+Total amount of government debt held privately indexed to 2014
+(a)
+Footnotes
+Source: European Central Bank, Federal Reserve Bank of Dallas, Federal Reserve Bank of St Louis, Bank of England, Bloomberg Finance L.P. and Bank calculations(a) Government debt is quoted at face value; UK debt excludes T-bills; Euro-area debt excludes < 1 year maturities.
+Now, if markets were perfectly efficient
+footnote
+[13]
+, government bond prices would only reflect market participants’ expectations of future cash flows and the discount rates associated to them, irrespective of these supply developments. However, as anyone who has real contact with markets knows, this is not how things work in practice. One strand of the literature seeks to explain this through regulatory frictions and investor segmentation frictions that lead to constraints in arbitrage (e.g. Vayanos and Vila (2021) and Greenwood and Vayanos (2023)).
+footnote
+[14]
+Another strand suggests that asset demand is systematically inelastic because of how capital is allocated to institutions with rigid mandates (e.g. Koijen and Yogo (2019) and Koijen and Gabaix (2022)
+footnote
+[15]
+). The upshot is that the demand for government bonds is unlikely to be perfectly elastic and government bond prices are affected by changes in supply. Put simply, all other factors being equal, the abundance of government bond collateral should have pushed up on gilt yields and in particular, relative to equivalent maturity swaps (
+Figure B
+below - shift along Demand 1).
+Indeed,
+Chart 4
+shows that spreads between swap rates have risen by less than gilt yields since QT began, which in part is likely to be driven by the abundance of government bond collateral.
+footnote
+[16]
+This is a phenomenon that we also observe in other jurisdictions (as noted in the Annex).
+footnote
+[17]
+Chart 4: OIS - gilt swap spreads show that gilt yields have risen relative to swaps
+Footnotes
+Source: Bloomberg Finance L.P and Bank calculations.
+What does this mean for banks’ preferences between reserves and other liquid assets? Banks demand reserves to settle payments and to hold them as assets to meet their HQLA needs. As gilt prices fall, and their yields rise relative to the equivalent maturity swap
+footnote
+[18]
+, the relative return of gilts improves versus reserves.
+footnote
+[19]
+Assuming that banks do not wish to let their HQLA levels fall, this should, all else being equal, cause banks to move HQLA holdings from reserves to gilts, offering some support for gilt prices
+footnote
+[20]
+(
+Figure B
+– shift from Demand 1 to Demand 2). This effect also benefits from the fall in reserves supply. Put differently, the abundance of gilt collateral relative to reserves should have caused banks to substitute reserves with gilts.
+Figure B: stylised demand curve for gilts, as banks shift HQLA holdingsfrom reserves into gilts
+This seems to be what banks have done.
+Chart 5
+shows how banks have increased the share of gilts in their HQLA buffers as gilts have become relatively more attractive.
+footnote
+[21]
+Chart 5: The stock of reserves (LHS) and bank gilt holdings (RHS)
+Change in £ billions in the stock of Bank of England reserves and banks’ giltholdings since the start of QT
+(a)
+Footnotes
+Source: PRA regulatory returns, Bank of England and Bank calculations (a) Gilt holdings aggregated from monthly PRA110 data for all PRA regulated firms, for large firms that submit weekly returns this is calculated as the median value for a given month.
+In principle, as banks opt to hold gilts over reserves, that should in turn reduce their demand for reserves as an asset to hold. All else being equal, this would reduce the amount of reserves drawn from our facilities and put downward pressure on repo rates. But all else is not equal.
+This is because banks do not only demand reserves to meet their own payments needs and for precautionary liquidity purposes, but also to distribute liquidity to non-banks who have become an increasingly prominent part of the financial system post-GFC.
+footnote
+[22]
+This is an important function to ensure policy rates transmit to the rest of the financial system but also to maintain stable and liquid markets. Now it turns out that the abundance of government bond collateral has combined with the current environment of high interest rates to increase the demand of non-banks to borrow cash in gilt repo markets. This then increases the demand for reserves from banks for funding and instead puts upward pressure on gilt repo rates. This gives rise to the question of which of these two effects dominate.
+Before I attempt to answer this question, I need to take brief trip back to the 2000s to show how NBFIs’ footprint in government bond markets has changed since the last era of less abundant reserves.
+Non-banks now have a larger role in government bond markets
+Government bond market structure in the UK and many other advanced economies has fundamentally changed since the GFC. Previously, dealer banks warehoused inventories of bonds and traded on a large scale on their own behalf through the build-up of leverage. This included taking advantage of price mismatches (i.e. arbitrage) across rates markets through their trading desks. Post-GFC banking reforms have discouraged banks from these activities. To be clear, the post-GFC reforms have built resilience in banks, including dealer banks who are much more robust from a liquidity and capital perspective. But in the UK, and globally, these reforms come with a trade-off. It has been widely recognised that the new regulations reduce the capacity and/or willingness of dealers to intermediate markets, including collateral markets.
+footnote
+[23]
+In short, the cost of market-making and arbitrage has increased. As a result, the nature of banks’ participation in cash government bond markets has changed, and dealers now act more on an agency basis, matching buyers and sellers, and providing balance sheet through prime brokerage services.
+footnote
+[24]
+Increased collateral supply only exacerbates this trend.
+Chart 6
+proxies the constraints on dealers in the UK, their assets, and shows that their balance sheets have not kept up with issuance. Darrell Duffie has also shown that this theme is common internationally, with a similar pattern evident in the US.
+footnote
+[25]
+Chart 6: Dealer balance sheets have not grown in line with gilt issuance
+Total amount of government debt held privately and estimated dealer banks’balance sheets
+(a)
+Footnotes
+Source: Bloomberg Finance L.P., PRA regulatory returns and Bank calculations(a) Gilt-edged market makers’ total assets are based on quarterly averages available from 2008 at market value. It excludes assets of banking entities that are authorised to operate in the UK through branches. Government debt outstanding is calculated at face value.
+This is an example of a regulatory constraint on a set of market participants that can make demand for government bonds more responsive to supply surprises (less elastic), unless other participants step into the gap (consistent with the literature I cited earlier).
+As it happens, some NBFIs, most recently hedge funds, have stepped into that gap.
+footnote
+[26]
+They have become large players in relative value (RV) trading strategies that seek to profit from the price difference between two or more related financial instruments, aided by increasing electronification of markets which benefit systematic strategies. Other hedge funds have become larger players in directional trades seeking to profit from cyclical “macro” opportunities in interest rates and volatility (
+Chart 7 & 8
+).
+footnote
+[27]
+footnote
+[28]
+Chart 7: US Hedge fund activity in government bonds versus other asset classes has risen
+SEC regulated hedge funds’ aggregate portfolio turnover in sovereign andmunicipal bonds as a share of total aggregate portfolio turnover
+(a)
+Footnotes
+Source: Securities and Exchange Commission (SEC) Private Funds Statistics, and Bank calculations
+Chart 8: The share of hedge fund turnover in gilts has also increased
+(a)
+Footnotes
+Source: Financial Conduct Authority Mifid II Data, and Bank calculations(a) Share of gilt volumes calculated as 6-month rolling average of weekly gross volumes. This calculation seeks to exclude dealer-dealer and interdealer trades from the total gilt market gross trading (i.e. denominator). This is to isolate trades involving at least one client counterparty. Data starts from 2018 when Mifid II data collection began.
+The combination of higher government bond supply and higher interest rates have opened up structural arbitrage and cyclical opportunities for hedge funds. Two such opportunities are in the cash-future basis trade and in swap spreads. The Annex of this speech sets out more details on these trades. For our purposes, the important thing to take away is that the pursuit of these opportunities has led to an increased demand for funding from non-banks to finance trades which involve them being long on government bond collateral
+(Chart 9).
+As one important source of funding for this activity in sterling is the repo market, that has likely put upward pressure on repo rates.
+Chart 9: Net repo borrowing by hedge funds has increased globally suggesting hedge funds are net long gilts
+Net gilt repo and US Treasury repo positioning of hedge funds normalised by their respective government bond free float
+(a)
+Footnotes
+Source: Sterling Money Markets Data (SMMD), Office of Financial Research and Bank calculations
+(a) With respect to gilt repo borrowing, SMMD data and the sector classification are reviewed on an ongoing basis in order to continuously improve the quality and coverage of the data set.
+(b) US Treasury repo positioning data are aggregated responses to SEC Form PF. Latest data as of 30 June 2025.
+How these developments are currently impacting repo markets
+That leaves us with two possible competing forces on repo rates in the UK. On the one hand, banks’ increased demand for gilts relative to reserves for their HQLA buffers should, in principle, have pushed down on short-term market rates. On the other, a combination of the shifting cash-collateral balance (
+Figure A)
+and non-bank players’ related increased demand for funding in gilt repo markets should have pushed the other way (
+Chart 9
+).
+So which of these two forces is currently stronger? In repo markets, period-end moves can give us insights on whether pressures are to the upside or downside and therefore provide a clue on which effects may be stronger. This is because, at period ends, balance sheet management activity typically exacerbates dynamics of the gilt repo market.
+footnote
+[29]
+In the past 18 months, sterling overnight repo rates have shifted from spiking downwards to upwards on these dates.
+footnote
+[30]
+So, it looks that the balance has landed on upwards pressures to gilt repo rates overall. That said, this analysis is necessarily indicative – we would need a counterfactual and methods to identify demand shifts, which we cannot observe to be certain of the drivers and the judgements. This is an area we will continue to monitor and research.
+Bringing it all together – implications for monetary and financial stability
+What does all this mean for the Bank’s objectives of monetary control and financial stability?
+Let’s start with our monetary policy control objective. A key aim of a central bank’s operating framework is to keep key short-term market rates relatively stable around the policy rate to achieve interest rate control.
+Putting together lower central bank reserves, increased government debt issuance globally, and a growing presence of non-banks in government bond markets, I have argued that the abundance of collateral relative to reserves has been putting upwards pressure on money market rates, most notably gilt repo. In the absence of our operating framework, that should have had knock on impacts for other short-term rates such as SONIA – the unsecured overnight risk-free rate benchmark in the UK – through arbitrage. However, upward pressure on gilt repo should be constrained via our operating framework, as it supplies reserves elastically by allowing participants to borrow unlimited reserves at Bank Rate (the fully elastic part of the supply curve in
+Figure A
+).
+Chart 10
+shows a time series of the spread to Bank Rate of SONIA and Overnight General Collateral (GC) repo rates. In line with the dynamics I have gone through today, you can see from the aqua line (a moving average to highlight the trend) that repo rates have gradually drifted upwards since 2022 but spreads have settled in the range of 5-10 basis points which is where we estimate the average all-in cost for using our STR facility to be.
+footnote
+[31]
+In line with this, in unsecured markets, the spread between SONIA and Bank Rate has been narrowing as depositors in overnight unsecured markets have been able to demand a higher rate of return on their deposits with banks due to those rises in repo rates
+footnote
+[32]
+; but the spread currently remains negative.
+Chart 10: Money market interest rates since 2020
+Shown as a spread to Bank Rate
+(a)
+Footnotes
+Source: Sterling Money Markets Data (SMMD), and Bank calculations(a) General Collateral (GC) Repo rate in this chart represents cleared DBV gilt repo rates
+Despite the upside pressures demonstrated in money market rates at period-ends, there is evidence that the STR facility is playing its role in preventing more persistent rises in repo rates as I alluded to earlier. Repo rates have consistently returned within historic ranges following short-term spikes as illustrated by the events of last week. This is a good news story and shows our facilities are working as they should be.
+What about the Bank’s financial stability objectives?
+I wish to be conscious of outcomes that result from incentives we are creating through the terms of the operating framework. As we move forward, we will continue to monitor how our operating framework interacts with the wider market and to ensure it delivers its aims as set out by Andrew Bailey
+footnote
+[33]
+: a. our core monetary policy and financial stability mandates, and subject to that; b. minimises risk to our balance sheet; c. minimises market distortions, and; d. is transparent and accountable.
+Relative stability in repo rates is a pre-requisite for repo markets to function well, a point my counterpart at the New York Federal Reserve, Roberto Perli, set out powerfully earlier this year.
+footnote
+[34]
+We saw this stability contributing positively in the US and the UK repo markets, during the tariff-related market volatility we observed in wider financial markets in April. Put differently, achieving monetary control also supports financial stability in funding markets.
+Our operating framework also aims to support stability in times of stress by providing sufficient elasticity in reserves provision. This is important when there are unexpected reserves flows between banks (for example, prompted by initial margin calls during high volatility episodes). Pre-positioning collateral with us is an important way for banks to ensure they can draw from us quickly when they need to, and we continue to work with them to make sure they have sufficient levels of pre-positioning in pace and to minimise frictions in utilising it.
+Therefore, the availability of our operating framework to lend reserves to our
+Sterling Monetary Framework
+(SMF) participants both to hold on balance sheet and to lend onwards to other market participants is an essential tool to achieve financial stability in money markets.
+However, while necessary to achieve financial stability, our operating framework is not sufficient
+I argued earlier that non-banks, such as, hedge funds, have stepped into the gap left by dealer banks to take on positions in government bond markets funded by growing leverage. These participants are by nature one step removed from our operating framework. There are benefits to the increased activity of these non-bank players, including in keeping the government bond demand curve more elastic to unanticipated increases in supply than it would have otherwise been. And as the Bank’s Financial Policy Committee (FPC) set out in its report in July
+footnote
+[35]
+, leverage capacity supports the depth of markets and can be a good thing for market liquidity. At the same time, when combined with other vulnerabilities such as market concentration, crowded positions and opacity, leverage can increase the risk of a disorderly unwind of positions and a sudden jump to illiquidity in stress. In particular, when we have seen repo spikes in the past, this has coincided with NBFIs rapidly de-levering
+footnote
+[36]
+, with knock-on effects to wider financial markets. Research
+footnote
+[37]
+suggests that hedge fund participation in strategies, such as, the basis trade, is relatively inelastic to short-term spikes in repo rates because the rates involved tend to move together. However, in a system-wide stress, of the type explored by the Bank of England last year
+footnote
+[38]
+, banks become more sensitive to counterparty credit risk concerns, and they become less willing to extend additional repo financing to their counterparties with financial stability implications. Adverse financial stability impacts could also occur if there were a sudden reversal of the underlying arbitrage opportunity.
+Therefore, all market participants - including NBFIs - should be alert to how they fit into the evolving landscape, particularly those with leveraged positions in sterling rates. The nature and scale of risks will vary across strategies, which can all be vulnerable to sudden shifts in market sentiment, financing conditions or market correlations.
+As my colleague Nat Benjamin has noted, a financial stability priority of the Bank is to enhance the resilience of liquidity in core markets, including gilt repo. This is why in September we published a discussion paper on measures to enhance gilt market resilience.
+footnote
+[39]
+These include greater central clearing and introducing minimum haircuts or margins on non-centrally cleared gilt repo. We encourage market participants to respond ahead of our 28 November deadline for feedback. This builds on the findings of a range of international workstreams, such as the recent Financial Stability Board policy recommendations on leverage in the NBFI sector. And it sits alongside other initiatives we have already put in place at the Bank, such as, the introduction of a Contingent NBFI Repo Facility (CNRF) – which we encourage eligible insurance companies and pension funds to sign up to.
+footnote
+[40]
+Summary
+To sum up, the evidence so far is that our central bank balance sheet transition is going as expected. We are not at the PMRR yet, but we are “learning by doing” to ensure our operating framework is effective when we do get there.
+Meanwhile, the liquidity landscape has fundamentally changed compared to the last time reserves were less abundant. Higher government bond supply and a related increase in demand for NBFI funding through the gilt repo market have both likely put upwards pressure on repo rates. There have been, and will continue to be, bumps in the road. This accentuates the need to keep short-term market interest rates linked to Bank Rate through well-functioning central bank facilities, from both a monetary control and financial stability perspective. But elastic central bank reserves supply is not a panacea. As NBFIs take on a larger role in government bond markets, the liquidity landscape is becoming more complex. An elastic and well-designed central bank operating framework is a necessary and sufficient condition for monetary control, but not so for financial stability. Financial stability relies on the combination of resilient banks and on resilient market-based finance.
+Just as the Bank takes a holistic approach to achieving monetary control and financial stability, so too must all participants in financial markets, banks and non-banks alike, remain attuned to the evolving liquidity landscape. That means recognising the interdependencies across funding markets, both domestically and internationally, and ensuring that their own liquidity management practices are fit for purpose in a world where the sources and channels of liquidity are deeply interwoven and evolving.
+I would like to thank Grace Greer, Grainne McGread, Waris Panjwani, Oscar Pedreira-Sanchez, and Olga Turko for drafting these remarks jointly with me, and Daniel Beale, Geoff Coppins, Colleen Faherty, Rand Fakhoury, Iryna Kaminska, Lloyd Mason, Amina Sagna, Matt Roberts-Sklar, Jack Worlidge for their helpful input. I would also like to thank Andrew Bailey, David Bailey, Sarah Breeden, Shiv Chowla, Matthew Dove, Phil Evans, Charlotte Gerken, Raf Kinston, Grellan McGrath, Arif Merali, Huw Pill, Andrea Rosen, and Doina Sova for their helpful comments.
+Annex – Popular relative value trades in the current liquidity environment
+This annex sets out two popular trading strategies that have opened up in the new liquidity environment: the basis trade and swap spreads.
+The cash-futures basis trade has gained popularity in the gilt and other government bond markets in recent years.
+This is because the combination of higher government bond supply in the UK and elsewhere and higher policy rates expectations have pushed up government bond yields. As a result, in the UK, gilts have become more attractive to buy-and-hold investors such as asset managers versus other instruments.
+To gain exposure to gilts, asset managers have preferred to buy the gilt future (i.e. gain synthetic exposure) rather than the cash gilt. This preference is driven by liquidity and capital benefits of the future
+footnote
+[41]
+. This opened up a structural RV opportunity in the form of a spread (or basis) between the cash and futures instrument. Hedge funds have been taking the other side, selling the gilt future and buying the cash gilt and pushing the spread down
+footnote
+[42]
+. This in turn incentivised asset managers to increasingly opt for the future, further supporting this basis opportunity. We can see in government bond repo and futures data that hedge fund exposure to the basis has increased both in the UK and internationally
+footnote
+[43]
+.
+Another RV opportunity arises from swap spread pricing directly. For certain maturities, the spread between OIS interest rate swaps and equivalent maturity cash government bonds has turned negative (or increasingly negative) in many advanced economies (
+Chart A
+). As I have already alluded to, this is at least in part driven by market perceptions around government bond supply. That negative spread provides arbitrage opportunities for hedge funds to step in and earn a positive carry by buying the gilt and paying the fixed leg of an equivalent maturity OIS swap.
+Chart A: Global 10-year swap spreads since the GFC
+OIS – government bond yield swap spreads (in basis points)
+Footnotes
+Source: Bloomberg Finance L.P.
+Towards a new Eurosystem balance sheet – speech by Isabel Schnabel
+Learning by doing − speech by Victoria Saporta | Bank of England
+Reserves at the Bank of England are broadly representative of asset moves shown in Chart 1
+Let’s get ready to repo! - speech by Victoria Saporta | Bank of England
+Explanatory Note: Managing the operational implications of APF unwind for asset sales, control of short-term market interest rates and balance sheet | Bank of England
+As set out in
+Transitioning to a repo-led operating framework – discussion paper feedback statement | Bank of England
+and
+Recalibration of the Indexed Long-Term Repo Operation – Market Notice 11 June 2025 | Bank of England
+Update to Level A pricing in the Indexed Long-Term Repo Operation - Market Notice 7 November 2025 | Bank of England
+Bank of England Weekly Report 5 November 2025 | Bank of England
+The PMRR is endogenous to the terms of supply, regulatory liquidity requirements and banks’ risk appetite.
+Rate quoted for cleared Delivery By Value (DBV) at close. Intraday highs in GC repo rates surpassed this figure.
+The OSF supports firms in managing liquidity demand shocks, such as payment frictions, by allowing participants to borrow reserves against Level A collateral, or deposit reserves, at a fixed spread to Bank Rate. As with all SMF facilities, the OSFs are ‘open for business’ and should be used by SMF participants for the purposes of liquidity management.
+The PRA rulebook requires firms to hold a minimum of 60% of total HQLA as Level 1 assets.
+Eugene F. (1970), Efficient Capital Markets: A Review of Theory and Empirical Work. Journal of Finance, 25(2), 383–417.
+Vayanos & Vila (2021)
+,
+Greenwood, Hanson, and Vayanos (2023)
+, and
+Corradin & Rodriguez-Moreno (2016)
+Gabaix and Koijen (2022)
+,
+Gabaix and Koijen (2024)
+Understanding and modelling swap spreads | Bank of England
+Between February 2022 to end of October 2025, the 10-year OIS-Treasury spread has cheapened by around 30 basis points, the 10-year OIS-gilt spread has cheapened by around 42 basis points and the 10-year OIS-bund spread has cheapened by 44 basis points.
+Banks tend to buy gilts on asset swap to mitigate interest rate risk. Hence the difference in yield between swaps and gilts (known as the swap spread) is relevant for investment decisions.
+Assuming the substitution effect overrides convenience yield effects relating to reserves being the ultimate liquid asset.
+In practice, the different regulatory treatments of reserves and gilts under the UK Leverage Ratio may play a role in decision making between HQLA holdings.
+If they opted to maintain LCRs at similar levels versus recent history. Banks can choose to adjust either HQLA buffers (i.e. LCR numerator) and/or net cash outflows over the next 30 calendar days (i.e. LCR denominator) to maintain LCRs. In addition to increasing the share of gilts in their HQLA buffers, we anticipate that banks will also increase their holdings of other eligible forms of HQLA.
+Speech given by Jon Cunliffe at the Managed Funds Association Global Summit 2020
+,
+Non-bank financial institutions and the functioning of government bond markets
+and
+Getting the balance right – speech by Dave Ramsden.
+Bank-Intermediated Arbitrage | Federal Reserve Bank of New York
+;
+Duffie, D (2023), Resilience Redux in the U.S. Treasury Market
+;
+Dealers’ costs of intermediation in fixed income markets: Empirical results for the euro area | The European Money and Finance Forum
+;
+Dealer intermediation, market liquidity and the impact of regulatory reform | Bank of England
+;
+Prime brokerage - speech by Rebecca Jackson | Bank of England
+Still the world’s safe haven? Redesigning the U.S. Treasury market after the COVID-19 crisis | Brookings
+There are other notable market structure changes since the GFC that this speech is not focussed on. One important parallel development is banks also face much more competition in their market making business by non-bank Principal Trading Firms.
+Getting liquidity where it is needed − speech by Nathanaël Benjamin | Bank of England
+Hedge funds: good or bad for market functioning?
+We also see a similar dynamic play out in international repo markets, including the US and Europe.
+As evidenced in
+How has the changing cash-collateral backdrop affected repo markets? | Bank of England
+and shown by the purple line in Chart 10 of this speech.
+Taking into account haircuts on collaterals positioned with Bank of England repo facilities
+Straight and narrow: recent changes in SONIA and why we care | Bank of England
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Recent Developments in Treasury Market Liquidity and Funding Conditions – speech by Roberto Perli
+Financial Stability Report - July 2025 | Bank of England
+Such as, the 2020 ‘Dash for Cash’
+The role of non-bank financial intermediaries in the dash for cash in sterling markets | Bank of England
+How sensitive is the Treasury cash-futures basis trade to funding condition shifts? | Federal Reserve Bank of Dallas
+The Bank of England's system-wide exploratory scenario exercise final report | Bank of England
+Enhancing the resilience of the gilt repo market | Bank of England
+Contingent Non-Bank Financial Institution Repo Facility (CNRF) | Bank of England
+Futures are exchange traded, which can increase the ease of getting in and out of positions. They also allow asset managers to gain a larger notional exposure while posting a small initial margin, thereby requiring less capital to fund the trade.
+Hedge Funds and the Treasury Cash-Futures Disconnect | Office of Financial Research
+How big is cash-futures basis trading in Canada’s government bond market? - Bank of Canada
+;
+The Fed - Quantifying Treasury Cash-Futures Basis Trades
+;
+Financial Stability Report - July 2025 | Bank of England
+How big is cash-futures basis trading in Canada’s government bond market? - Bank of Canada
+;
+The Fed - Quantifying Treasury Cash-Futures Basis Trades
+;
+Financial Stability Report - July 2025 | Bank of England
+Close
+Hedge Funds and the Treasury Cash-Futures Disconnect | Office of Financial Research
+Close
+Futures are exchange traded, which can increase the ease of getting in and out of positions. They also allow asset managers to gain a larger notional exposure while posting a small initial margin, thereby requiring less capital to fund the trade.
+Close
+Contingent Non-Bank Financial Institution Repo Facility (CNRF) | Bank of England
+Close
+Enhancing the resilience of the gilt repo market | Bank of England
+Close
+The Bank of England's system-wide exploratory scenario exercise final report | Bank of England
+Close
+How sensitive is the Treasury cash-futures basis trade to funding condition shifts? | Federal Reserve Bank of Dallas
+Close
+Such as, the 2020 ‘Dash for Cash’
+The role of non-bank financial intermediaries in the dash for cash in sterling markets | Bank of England
+Close
+Financial Stability Report - July 2025 | Bank of England
+Close
+Recent Developments in Treasury Market Liquidity and Funding Conditions – speech by Roberto Perli
+Close
+The importance of central bank reserves - lecture by Andrew Bailey | Bank of England
+Close
+Straight and narrow: recent changes in SONIA and why we care | Bank of England
+Close
+Taking into account haircuts on collaterals positioned with Bank of England repo facilities
+Close
+As evidenced in
+How has the changing cash-collateral backdrop affected repo markets? | Bank of England
+and shown by the purple line in Chart 10 of this speech.
+Close
+We also see a similar dynamic play out in international repo markets, including the US and Europe.
+Close
+Hedge funds: good or bad for market functioning?
+Close
+Getting liquidity where it is needed − speech by Nathanaël Benjamin | Bank of England
+Close
+There are other notable market structure changes since the GFC that this speech is not focussed on. One important parallel development is banks also face much more competition in their market making business by non-bank Principal Trading Firms.
+Close
+Still the world’s safe haven? Redesigning the U.S. Treasury market after the COVID-19 crisis | Brookings
+Close
+Prime brokerage - speech by Rebecca Jackson | Bank of England
+Close
+Bank-Intermediated Arbitrage | Federal Reserve Bank of New York
+;
+Duffie, D (2023), Resilience Redux in the U.S. Treasury Market
+;
+Dealers’ costs of intermediation in fixed income markets: Empirical results for the euro area | The European Money and Finance Forum
+;
+Dealer intermediation, market liquidity and the impact of regulatory reform | Bank of England
+;
+Close
+Speech given by Jon Cunliffe at the Managed Funds Association Global Summit 2020
+,
+Non-bank financial institutions and the functioning of government bond markets
+and
+Getting the balance right – speech by Dave Ramsden.
+Close
+If they opted to maintain LCRs at similar levels versus recent history. Banks can choose to adjust either HQLA buffers (i.e. LCR numerator) and/or net cash outflows over the next 30 calendar days (i.e. LCR denominator) to maintain LCRs. In addition to increasing the share of gilts in their HQLA buffers, we anticipate that banks will also increase their holdings of other eligible forms of HQLA.
+Close
+In practice, the different regulatory treatments of reserves and gilts under the UK Leverage Ratio may play a role in decision making between HQLA holdings.
+Close
+Assuming the substitution effect overrides convenience yield effects relating to reserves being the ultimate liquid asset.
+Close
+Banks tend to buy gilts on asset swap to mitigate interest rate risk. Hence the difference in yield between swaps and gilts (known as the swap spread) is relevant for investment decisions.
+Close
+Between February 2022 to end of October 2025, the 10-year OIS-Treasury spread has cheapened by around 30 basis points, the 10-year OIS-gilt spread has cheapened by around 42 basis points and the 10-year OIS-bund spread has cheapened by 44 basis points.
+Close
+Understanding and modelling swap spreads | Bank of England
+Close
+Gabaix and Koijen (2022)
+,
+Gabaix and Koijen (2024)
+Close
+Vayanos & Vila (2021)
+,
+Greenwood, Hanson, and Vayanos (2023)
+, and
+Corradin & Rodriguez-Moreno (2016)
+Close
+Eugene F. (1970), Efficient Capital Markets: A Review of Theory and Empirical Work. Journal of Finance, 25(2), 383–417.
+Close
+The PRA rulebook requires firms to hold a minimum of 60% of total HQLA as Level 1 assets.
+Close
+The OSF supports firms in managing liquidity demand shocks, such as payment frictions, by allowing participants to borrow reserves against Level A collateral, or deposit reserves, at a fixed spread to Bank Rate. As with all SMF facilities, the OSFs are ‘open for business’ and should be used by SMF participants for the purposes of liquidity management.
+Close
+Rate quoted for cleared Delivery By Value (DBV) at close. Intraday highs in GC repo rates surpassed this figure.
+Close
+The PMRR is endogenous to the terms of supply, regulatory liquidity requirements and banks’ risk appetite.
+Close
+Bank of England Weekly Report 5 November 2025 | Bank of England
+Close
+Update to Level A pricing in the Indexed Long-Term Repo Operation - Market Notice 7 November 2025 | Bank of England
+Close
+As set out in
+Transitioning to a repo-led operating framework – discussion paper feedback statement | Bank of England
+and
+Recalibration of the Indexed Long-Term Repo Operation – Market Notice 11 June 2025 | Bank of England
+Close
+Explanatory Note: Managing the operational implications of APF unwind for asset sales, control of short-term market interest rates and balance sheet | Bank of England
+Close
+Let’s get ready to repo! - speech by Victoria Saporta | Bank of England
+Close
+Reserves at the Bank of England are broadly representative of asset moves shown in Chart 1
+Close
+Learning by doing − speech by Victoria Saporta | Bank of England
+Close
+Towards a new Eurosystem balance sheet – speech by Isabel Schnabel
+Close
+Convert this page to PDF
+Victoria Saporta
+Executive Director, Markets
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "A middle path for ECB monetary policy",
+  "date_original": "2025-02-05",
+  "date_au": "05/02/2025",
+  "datetime_original": "",
+  "speaker": "Speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250205~94958ee099.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-02-05 - Speech by Philip R. Lane - A middle path for ECB monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-02-05 - Speech by Philip R. Lane - A middle path for ECB monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:15:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f251d7a9c19a15d5c71fbe4141d9b9dc8752fd00c60683a4434038bb59777b71"
+}

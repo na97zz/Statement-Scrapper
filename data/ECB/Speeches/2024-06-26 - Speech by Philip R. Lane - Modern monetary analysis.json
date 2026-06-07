@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Modern monetary analysis",
+  "date_original": "2024-06-26",
+  "date_au": "26/06/2024",
+  "datetime_original": "",
+  "speaker": "Speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240626~0cdeaedbb1.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2024-06-26 - Speech by Philip R. Lane - Modern monetary analysis.html",
+  "text_file_path": "data\\ECB\\Speeches\\2024-06-26 - Speech by Philip R. Lane - Modern monetary analysis.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:16:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "01e097648465c335a4abaa1cff5ba850068d82eac61700fdc0e5aceb008bfe2c"
+}

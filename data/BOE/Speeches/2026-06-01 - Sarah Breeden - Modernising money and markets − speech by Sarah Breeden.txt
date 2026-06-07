@@ -1,0 +1,279 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Modernising money and markets − speech by Sarah Breeden
+DATE: 01/06/2026
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2026/may/sarah-breeden-speech-at-city-week-the-future-of-money-in-a-digital-world
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Modernising money and markets − speech by Sarah Breeden
+Given at City Week 2026, London
+Published on 
+
+ 19 May 2026
+As technology evolves, Sarah sets out the Bank’s vision for UK finance: a robust, multi-money retail payments system that promotes greater competition and innovation, and a multi-asset, multi-currency approach to tokenising the markets of our global financial centre. We have built the foundations, and together, authorities and industry must now deliver enduring change.
+Speech
+It’s great to be here at City Week.
+Today I want to set out how the responsible adoption of tokenisation in the UK can enhance financial stability and support sustainable growth – not only in retail payments but also, especially given this audience, in financial markets and the services they provide to the UK and global economies. The Bank, working with the Financial Conduct Authority (FCA), Government and industry, has already done a huge amount to modernise infrastructure and rules in support of that innovation. Our approach compares favourably internationally, and yesterday, with the FCA, we made further commitments.
+footnote
+[1]
+Modernising the money and markets of the world’s fifth-largest economy, and the largest net exporter of financial services, takes time. It should not be a botch job. But we are on the right path.
+The task now is for authorities, government and industry to build on the UK’s strong foundations – to put some ‘runs on the board’ and show that we are deepening our tokenised finance ecosystem.
+No single firm can build that ecosystem alone. So I am thrilled that Chris Woolard has been appointed the Government’s Wholesale Digital Markets Champion to help convene industry alongside the authorities. We look forward to working with him in that critical role.
+If we work together in earnest over the coming months, we can prioritise the most valuable use cases across the buy side and sell side, work through any obstacles, and enable firms to invest in and scale new offerings and infrastructure. That is how finance will continue to play its vital role in supporting sustainable growth.
+New technologies and the Bank’s objectives
+This work supports our financial stability objective. A regulated financial system that does not deliver outcomes for the real economy at the technological frontier is vulnerable to new players and activities growing quickly outside the regulatory perimeter, or offshore. Those players can reach systemic scale fast, creating risks that are hard to address after the fact – a pattern we have seen as technological change has transformed other sectors.
+This work also matters for innovation and growth – our secondary objectives. Our best contribution to sustainable growth is financial stability, so that the system continues to provide its vital services even when shocks hit.
+footnote
+[2]
+But we also support growth by enabling the responsible adoption of new technologies in finance, lowering costs and improving functionality for users.
+We do not forecast with perfect foresight, least of all on technology. Some benefits expected today will not materialise; other use cases and technologies will emerge. But by acting now to enable responsible adoption, we can give the benefits of new technologies the best chance to be realised, and in doing so support sustainable growth.
+Our vision for retail payments and wholesale finance in a more tokenised system
+Tokenisation has real potential to improve retail payments and wholesale finance.
+Shared ledgers, updated near-simultaneously across all parties to a transaction, could make payments and settlement faster and cheaper, with fewer intermediaries, less operational risk, lower cost, and shorter settlement windows.
+Smart contracts allow greater customisation, conditionality and automation – offering additional functionality to today’s standing orders and direct debits in retail payments, or often still-manual post-trade services for collateral, coupon and dividend payments – again improving efficiency and reducing cost.
+And atomic swaps can extend delivery-versus-payment (DvP) and payment-versus-payment (PvP) settlement – already common in equities, bonds and FX, so money and asset move at the same time – to a wider range of retail and wholesale use cases, enabling a broader range of assets to be monetised easily, even intraday.
+Against that technological backdrop, our vision for UK retail payments and financial markets is clear and distinctive, reflecting our position as one of the world’s largest economies and a global financial centre.
+In retail payments, we want a multi-money system that promotes competition and choice between robust forms of money.
+Alongside traditional bank deposits, people should be able to pay with tokenised bank deposits, regulated stablecoins and, potentially, a retail central bank digital currency. More competition, from a wider range of technologies and business models, should lower costs and improve functionality for users. And by ensuring, through infrastructure and regulation, that all forms of money are equally robust and readily exchangeable – so that a pound is a pound, whoever issues it – we can strengthen monetary and financial stability, and support competition and innovation, more effectively than a model of walled gardens, in which only the largest firms can innovate successfully.
+In wholesale financial services, we want tokenisation to deliver lower costs and greater functionality in a multi-asset and multi-currency ecosystem, as has long underpinned the UK’s role as a global financial centre.
+Our focus is on dynamic, resilient markets in tokenised real-world assets – equities, bonds, funds, private assets and more – that can move more efficiently across the trade lifecycle, improving issuance, trading, clearing, settlement and collateral use. And given the UK’s global role, we want to remain open to multi-currency wholesale activity, based on international standards, deference to home authorities where overseas rules deliver similar outcomes, and continued high-quality cooperation between UK and overseas regulators.
+What might that vision mean for users once realised?
+In retail payments, people will have another option alongside cards when paying in store or online.
+footnote
+[3]
+Traditional and tokenised money will be exchanged seamlessly. So, for example, when shopping online, a payment I make with a regulated systemic stablecoin could instantly credit the retailer’s bank account, but only once I confirm the parcel has been delivered.
+footnote
+[4]
+And UK retail payments infrastructure will be able more seamlessly to interact with systems overseas, so I can send an online banking payment to a friend abroad more quickly and cheaply than is the average today.
+In wholesale payments, a UK supplier to an overseas corporate could be paid automatically once delivery is confirmed, helping to tackle the late-payment challenge for small businesses. A mid-sized corporate treasury could invest excess cash overnight in tokenised securities for a fraction of a day, then sell them with near real-time settlement the next morning, widening cash management options. And global corporates hedging in derivatives markets could meet margin calls more easily using tokenised collateral, with 24/7 cross-currency transfers to the subsidiary receiving the call, settled in near real time.
+I haven’t mentioned AI yet. That is a speech in its own right. For now, let me simply say that we are also doing a great deal to support its responsible adoption.
+footnote
+[5]
+That includes agentic payments and commerce – where AI firms and payment companies are developing the technology and standards that would let me ask an AI agent to ‘book my holiday’, ‘refill my fridge’ or ‘refresh my wardrobe’; and agentic trading in financial markets — where we are working with international counterparts on simulation methods to understand how AI agents could interact in ways that amplify stress, and how that could be mitigated.
+What the Bank has done, and will do, to make this vision a reality, working with authorities, government and industry
+Retail payments
+In retail payments, the Government and UK authorities announced last summer a new public-private partnership to deliver the UK’s next-generation infrastructure, modernising the systems we use today for online banking, salary payments and much more.
+footnote
+[6]
+HM Treasury, the Bank, the FCA and the Payment Systems Regulator have set the strategy for UK retail payments.
+footnote
+[7]
+The Bank has also taken on a new role leading work with industry, through our chairing of the new
+Retail Payments Infrastructure Board
+, to turn that strategy into a design for the new infrastructure. A private-sector Delivery Company will then be responsible for build. We will consult on that design shortly.
+That new infrastructure will enable the seamless exchange between traditional and tokenised money that I have described. And alongside it, we are giving banks and systemic stablecoin issuers the regulatory clarity they need to innovate with confidence.
+For systemic stablecoins, the Bank will publish draft rules next month and finalise them by year-end, in line with the US timeline. As part of that, we are considering carefully the feedback to our November consultation on addressing risks to credit provision from rapid stablecoin adoption through transitional limits on individuals’ and businesses’ holdings.
+footnote
+[8]
+In that consultation, we made clear that we were open to other mechanisms to achieve the same objective. One option, also set out in the consultation, would be temporary guardrails on the total amount of a coin that could be issued. Reviewed regularly, that approach could achieve the same aim at lower cost to the sector and allow a wider range of high-value payment use cases, including for corporates.
+We also want to encourage banks to adopt these new technologies in the money they issue. The Bank’s Prudential Regulation Authority (PRA) yesterday reaffirmed its regulatory expectations around retail use.
+footnote
+[9]
+We continue to expect banks to innovate in tokenised deposits, and our work on next-generation retail infrastructure will ensure those deposits can be used for payments between banks, not just among customers of the same bank.
+At the same time, we are clear that banking groups can issue stablecoins, provided they do so from a non-deposit-taking, insolvency-remote group entity, similar to requirements in the US. We also expect those stablecoins to carry branding distinct from the group’s deposits, and yesterday’s Dear CEO letter clarifies how that can be achieved while still allowing reference to the parent brand. That is to reduce confusion, and the risk of contagion to bank deposits, if holders of the group’s stablecoins – which will not be covered by deposit insurance – incur losses.
+Finally, on a retail central bank digital currency –
+a digital pound
+– we will set out, with HM Treasury, the conclusions of our design phase later this year.
+Financial markets
+Working with other authorities, Government and industry, the Bank has already done a huge amount to begin delivering our vision for wholesale payments and digital markets.
+This is a complex, wide-ranging programme across both the asset and cash legs of wholesale transactions.
+We are enabling live trading venues and settlement systems for the supply of tokenised assets, including for the Government’s pilot issuance of a digital gilt instrument. We are ensuring no unwarranted frictions to demand for tokenised assets through their prudential treatment and collateral eligibility. We are providing infrastructure for the cash leg to settle in central bank money, in our widely praised modernisation of the Bank’s own payments infrastructure. And we are also providing for a role for robust, privately issued money as the cash leg in wholesale transactions too.
+It can be hard even for committed aficionados to keep track of all that is going on. So, yesterday, with the FCA, we published a Call for Input setting out the full programme of work, including significant new commitments that make both our vision and our ambition clear.
+Industry and authorities, with Chris as our Wholesale Digital Markets Champion, now need to build on these foundations and move from pilots to production. Responses to the Call for Input will help shape that work and feed into a roadmap across authorities, industry and the Champion by year-end.
+Trading and settlement of tokenised assets
+A central part of our work on tokenised assets is the Bank-FCA
+Digital Securities Sandbox
+(DSS), which launched in 2024 and runs until January 2029. It lets firms establish live UK trading venues and settlement systems for tokenised securities.
+Consistent with our multi-asset, multi-currency vision, it can support sterling and
+foreign-currency activity across asset classes including equities, corporate and government bonds, and investment funds. Sixteen firms are preparing to launch from later this year, with a route to permanent operation, including Euroclear, HSBC and the London Stock Exchange Group, alongside newer entrants.
+The term ‘sandbox’ understates the point: this is live activity. Here, ‘sandbox’ means firms operate under a modified legislative and regulatory framework for trading and settlement, designed transparently to remove legal barriers that might otherwise hinder the use of new technologies. The DSS also includes issuance limits for key digital securities markets, set high enough to allow meaningful activity while safeguarding financial stability.
+footnote
+[10]
+We think the DSS offers greater certainty, competition and innovation than narrower alternatives that grant targeted, temporary legal relief to individual firms for specific initiatives. By creating a transparent framework with a common set of rules, it can support a broader range of business models and use cases. It also gives firms and authorities a way to learn how best to enable the responsible adoption of distributed ledger technology (DLT) in financial markets and embed those lessons in permanent operations and regulation.
+We will work with firms to ensure the DSS supports innovation and ensure there is a clear pathway for firms inside it to move out into permanent authorisation. And we will consider, with the government, how the wider settlement framework supports innovation.
+Prudential treatment and collateral eligibility of tokenised assets
+Alongside facilitating the supply of tokenised assets through the DSS, the Bank is also working to ensure there are no unwarranted frictions to demand, either in regulation or in the design of the Bank’s market operations.
+In regulation, the PRA clarified yesterday that, as a general rule, and in line with international standards, the prudential treatment of UK banks’ exposures to tokenised assets will be the same as for their non-tokenised equivalents where the legal rights are identical and the underlying risks are comparable.
+footnote
+[11]
+For collateral eligible at central counterparties, our aim is likewise to support eligibility of tokenised versions of assets already accepted as collateral. We will engage with industry on the detail through a discussion paper later this year.
+And in the Bank’s own lending operations, we will consider whether tokenised assets should be eligible as collateral in the Sterling Monetary Framework (SMF), which would backstop the ability to monetise them in private markets. In parallel, we are upgrading our internal systems in 2027 so we can connect directly to tokenised asset ledgers.
+Digital Gilt instrument
+Across this work, we are committed to supporting the Government’s pilot issuance of a digital gilt instrument (DIGIT) – the first tokenised sovereign issuance by a G7 country – designed both to enable the Government to explore how this technology can be applied to UK government debt and to catalyse the development of UK-based DLT infrastructure and, in turn, adoption across UK financial markets. DIGIT will be issued on a platform in the Bank-FCA Digital Securities Sandbox, and the Bank is prioritising work to assess its eligibility as collateral in the SMF.
+Central bank money settlement
+Market participants and international standards have long recognised the liquidity and financial stability benefits of wholesale transactions settling across accounts held at central banks.
+footnote
+[12]
+Accordingly, as we see greater tokenisation of wholesale market activity, we have a low risk appetite for a significant shift away from settlement in central bank money.
+footnote
+[13]
+We have therefore been doing a huge amount to enable tokenised wholesale transactions to settle in central bank money: both by developing new functionality in our newly upgraded Real-Time Gross Settlement (RTGS) infrastructure, RT2, and through a staged programme, consulted on yesterday, to extend settlement hours towards near-24/7 operation.
+RT2 has now been live for a year, following an upgrade programme rightly praised by the National Audit Office and Public Accounts Committee – bodies not known for easy praise!
+footnote
+[14]
+And since even before that, a payment system using RTGS’ omnibus account functionality to settle the sterling cash leg of tokenised transactions with a tokenised representation of central bank money has been live in the UK since 2023.
+footnote
+[15]
+I often describe RT2 as a ‘parked Ferrari’ when it comes to tokenisation. It makes it possible to settle tokenised transactions directly in sterling central bank money. And yesterday, we confirmed our commitment to live delivery of this functionality, targeted for 2028. This will be our ‘synchronisation service’, enabling the conditional movement of a wider set of assets and transaction types, including on DLT, against movements in central bank money held in RTGS accounts. We are testing this with 18 firms in our
+Synchronisation Lab
+, which went live earlier this month, across use cases including settlement of house purchases, tokenised securities and FX. So that Ferrari is out on a test drive now, and will be racing round the City very soon.
+This builds on earlier experimentation before RT2 launched. In Project Meridian, with the BIS Innovation Hub and HM Land Registry in 2023, we showed how synchronisation could improve house purchases: funds in RTGS could move automatically at the same time as ownership is recorded on a digitised title deed, reducing the need for costly and risky chains of intermediaries – and the nervous wait while the removal van idles outside.
+footnote
+[16]
+Synchronisation also supports our multi-asset, multi-currency vision. Our follow-up projects last year - Meridian Securities, and Meridian FX with the ECB – showed how it could enable atomic settlement against sterling central bank money of tokenised securities and tokenised central bank money in other currencies.
+footnote
+[17]
+We are now exploring the technology with the Bank of Thailand – for whose currency synchronisation can offer a PvP settlement option not currently available in existing market infrastructure – as well as with the Monetary Authority of Singapore.
+footnote
+[18]
+RT2 also lets us work with other central banks and the private sector on how tokenisation could deepen the UK’s multi-currency role in global finance. In the BIS’s Project Agora, with six other major central banks and more than 40 private-sector firms, we are exploring how tokenised deposits and central bank money can support cross-border payments, particularly for financial institutions and corporates engaged in international trade.
+footnote
+[19]
+A report later this month will showcase the prototype and set out next steps.
+Finally, we have just launched a consultation on how to extend RTGS settlement hours towards near-24/7 operation over the coming years.
+footnote
+[20]
+That would support settlement in central bank money against tokenised asset ledgers that could themselves run 24/7. It would also improve cross-border payments by increasing RTGS’ overlap with other national payment systems.
+We are already on track next year to extend RTGS settlement hours from 12 to 16½ hours each working day. We are now seeking feedback on moving after that to Sunday and some bank-holiday settlement, and to 22 hours a day, by early next decade. We are also seeking views on going further in the longer term, to 22x7 or near-continuous 23.5x7 operation. We are keen to hear from industry about the most valuable use cases so we can chart the right course.
+Private settlement assets
+Central bank money is not needed for all settlement today, and it will not be needed for all settlement in future. That is why robust, privately issued money – both tokenised deposits and regulated stablecoins – will likely play an ongoing role in tokenised markets.
+We are therefore working to expand the range of settlement assets in the Digital Securities Sandbox to include not only tokenised deposits, as today, but also regulated stablecoins in sterling and foreign currencies. We will soon publish our approach to the stablecoins permitted for use in the DSS, shortly after publication of our draft rules for systemic sterling stablecoins.
+The PRA guidance published yesterday on banks’ issuance of tokenised deposits and stablecoins also clarifies that UK banks can issue stablecoins for wholesale use, including in the DSS, where the risk of confusion between the protections for deposits and for stablecoins is less acute than it is for retail customers.
+footnote
+[21]
+Ledger design
+Finally, we are doing detailed practical work on how distributed ledgers should be designed to support payments and settlement.
+In financial markets, DLTs must deliver settlement finality – legal certainty that a transaction is irrevocable and unconditional, so the outcome can be trusted. They must be sufficiently scalable to handle high volumes with low latency. Their operational and economic design must be resilient to manipulation by malicious actors. And they must interoperate with other DLTs and non-DLT systems: consistent with our multi-asset,
+multi-currency vision, we do not want tokenised markets to emerge in ways that are incompatible with one another, impeding cross-border and cross-asset trading, and fragmenting liquidity.
+This technology is evolving quickly, and so are the trade-offs involved in meeting those requirements with decentralised ledgers.
+To inform our regulatory approach, and any use of these technologies by the Bank itself, we ran a DLT Innovation Challenge last year with financial institutions, technology firms and academics, and published a report on that work last week.
+footnote
+[22]
+A deep practical understanding of these technologies and their implications will remain central to our work.
+We are also closely engaged in the work of the
+Transatlantic Taskforce for Markets of the Future
+– and with the Monetary Authority of Singapore and other authorities on the so-called ‘
+Global Layer 1
+’ initiative, which is exploring common standards for DLT platforms.
+Conclusion and next steps
+As I have set out, the Bank – working with the FCA, Government and industry – has done, and will continue to do, a huge amount to support the responsible adoption of tokenisation in finance.
+In that way, as technology evolves, we will deliver our vision of both a robust, multi-money retail payments system – offering trust in money, competition, choice and innovation – and a multi-asset, multi-currency wholesale ecosystem that builds on the UK’s long-standing strengths as a global financial centre.
+The crucial next step is for authorities, government and industry – with our new Digital Markets Champion – to build on these strong foundations and, in doing so, ensure UK finance can best serve households and businesses here and around the world.
+I would like to thank Michael Yoganayagam for assistance in drafting these remarks. I would also like to thank Andrew Bailey, David Bailey, Julia Black, Emma Butterworth, Victoria Cleland, Charlotte Gerken, John Jackson, Nick Mclaren, Mike Jones, Clair Mills, Sasha Mills, Simon Morley, Gwyneth Nurse, David Rule, Vicky Saporta, David Soanes, Nina Turnbull and Chris Woolard for their comments.
+Call for input: The future of tokenisation – a joint vision from the authorities for UK wholesale markets | FCA
+I spoke last month about the work we are doing, in an uncertain and unpredictable world at present, to address vulnerabilities in the financial system:
+This time is different? Speech by Sarah Breeden | Bank of England
+I spoke more about this work in February:
+Talking ’bout next generation − speech by Sarah Breeden | Bank of England
+We demonstrated this and other retail payment use cases for tokenised money in tech experimentation we conducted with the Bank for International Settlements’ Innovation Hub in 2023:
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC
+.
+Response to TSC report on AI in financial services
+, 1 April 2026
+Payments Vision Delivery Committee Update | Bank of England
+Strategy for future retail payments infrastructure - GOV.UK
+Bank of England launches consultation on regulating systemic stablecoins | Bank of England
+Letter from David Bailey, Charlotte Gerken and Rebecca Jackson | Bank of England
+For example, £8-13.1 billion for gilts and £17-28 billion for sterling corporate bonds. Table D,
+Guidance on the operation of the Digital Securities Sandbox | Bank of England.
+Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on the prudential treatment of tokenised assets, stablecoins, and other cryptoasset exposures | Bank of England
+. The PRA’s implementation of the Basel Committee on Banking Supervision’s standard for the prudential treatment of cryptoassets will follow the completion of the
+current targeted review
+, with which the PRA is closely engaged.
+Principle 9,
+Principles for Financial Market Infrastructures (PFMI)
+The Bank of England’s approach to innovation in money and payments | Bank of England
+Bank of England successfully navigates complex modernisation of UK’s critical payment system - NAO press release
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Project Meridian: innovating transactions with synchronisation
+Project Meridian Securities | Bank of England,
+Project Meridian FX: exploring synchronised settlement in FX
+Bank of England, Monetary Authority of Singapore, and Bank of Thailand to explore synchronised FX settlement across borders | Bank of England
+, November 2025. The Thai Baht does not settle in the global PvP market infrastructure, CLS.
+Project Agora: exploring tokenisation of cross-border payments
+Extending RTGS and CHAPS settlement hours – next steps towards near 24x7 settlement | Bank of England
+Letter from David Bailey, Charlotte Gerken and Rebecca Jackson | Bank of England
+DLT Innovation Challenge 2025: Final Report | Bank of England
+DLT Innovation Challenge 2025: Final Report | Bank of England
+Close
+Letter from David Bailey, Charlotte Gerken and Rebecca Jackson | Bank of England
+Close
+Extending RTGS and CHAPS settlement hours – next steps towards near 24x7 settlement | Bank of England
+Close
+Project Agora: exploring tokenisation of cross-border payments
+Close
+Bank of England, Monetary Authority of Singapore, and Bank of Thailand to explore synchronised FX settlement across borders | Bank of England
+, November 2025. The Thai Baht does not settle in the global PvP market infrastructure, CLS.
+Close
+Project Meridian Securities | Bank of England,
+Project Meridian FX: exploring synchronised settlement in FX
+Close
+Project Meridian: innovating transactions with synchronisation
+Close
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Close
+Bank of England successfully navigates complex modernisation of UK’s critical payment system - NAO press release
+Close
+The Bank of England’s approach to innovation in money and payments | Bank of England
+Close
+Principle 9,
+Principles for Financial Market Infrastructures (PFMI)
+Close
+Letter from David Bailey, Charlotte Gerken and Rebecca Jackson on the prudential treatment of tokenised assets, stablecoins, and other cryptoasset exposures | Bank of England
+. The PRA’s implementation of the Basel Committee on Banking Supervision’s standard for the prudential treatment of cryptoassets will follow the completion of the
+current targeted review
+, with which the PRA is closely engaged.
+Close
+For example, £8-13.1 billion for gilts and £17-28 billion for sterling corporate bonds. Table D,
+Guidance on the operation of the Digital Securities Sandbox | Bank of England.
+Close
+Letter from David Bailey, Charlotte Gerken and Rebecca Jackson | Bank of England
+Close
+Bank of England launches consultation on regulating systemic stablecoins | Bank of England
+Close
+Strategy for future retail payments infrastructure - GOV.UK
+Close
+Payments Vision Delivery Committee Update | Bank of England
+Close
+Response to TSC report on AI in financial services
+, 1 April 2026
+Close
+We demonstrated this and other retail payment use cases for tokenised money in tech experimentation we conducted with the Bank for International Settlements’ Innovation Hub in 2023:
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC
+.
+Close
+I spoke more about this work in February:
+Talking ’bout next generation − speech by Sarah Breeden | Bank of England
+Close
+I spoke last month about the work we are doing, in an uncertain and unpredictable world at present, to address vulnerabilities in the financial system:
+This time is different? Speech by Sarah Breeden | Bank of England
+Close
+Call for input: The future of tokenisation – a joint vision from the authorities for UK wholesale markets | FCA
+Close
+Convert this page to PDF
+Sarah Breeden
+Deputy Governor, Financial Stability
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

@@ -1,0 +1,192 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Joining the dots - speech by Nathanaël Benjamin
+DATE: 01/06/2025
+SPEAKER: Nathanaël Benjamin
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/january/nathanael-benjamin-speech-at-the-city-uk-the-future-of-stress-testing
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Joining the dots - speech by Nathanaël Benjamin
+Given at The City UK
+Published on 
+
+ 15 January 2025
+Nat outlines the Bank of England's new approach to stress testing banks, and developments in stress tests of other parts of the financial sector. He sets out his aspirations for the future, including the importance of joining the dots between exercises to understand system-wide dynamics further.
+Speech
+Hi everyone, thank you for the opportunity to be with you today, and thanks to The City UK for hosting us. Let’s talk about stress testing.
+Last November, the Bank of England released a number of stress testing publications alongside the Financial Stability Report (FSR). We published our 2024 desk-based stress test results, the results of our system-wide exploratory scenario (the “SWES”), and we also published our new approach to stress testing the UK banking system. This replaces the previous framework set out in 2015 and is a significant step forward for us.
+Today I want to outline the features of our new approach to stress testing banks, and set it in context of the history of stress tests as well as the other stress testing work that the we do. Looking ahead, I will set out some of our aspirations for the future, including the need to ‘join the dots’ between stress tests.
+I’ll talk about the importance of: stress testing in good times so that we’re prepared for bad times; focusing on how the system as a whole supports households and businesses; being nimble and proportionate; and understanding behaviours.
+History
+Our approach to stress testing is rooted in the 2008 global financial crisis. Although there have been stresses since then, we should not forget the sheer impact of that crisis worldwide, the far-reaching consequences for households and businesses, and the considerable loss of economic growth that ensued in many economies, including here in the UK.
+Stress testing was used by supervisors and firms for some time before the crisis.
+footnote
+[1]
+But as we noted at the time, the results from these early exercises could be somewhat ‘preliminary and partial’. And focused on specific risks rather than a detailed analysis of a scenario at both the individual and banking system-wide levels.
+footnote
+[2]
+When the crisis struck, stress testing took on a different dynamic, becoming a powerful tool used by authorities internationally to stem it. Regulators could evaluate how bad things were, how much banks stood to lose, how much more capital they needed. And then recapitalised them accordingly.
+During the height of the financial crisis, the Financial Services Authority (FSA) undertook sequential firm-by-firm stress tests. And EU-wide stress tests were carried out in 2009 and 2010. I will never forget my own participation – during my time at the Federal Reserve over that period – in what was to become the first public concurrent stress tests of banks. It was a pioneering exercise, which achieved its ultimate goal of stemming the crisis, by providing evidence and taking action to increase capital so that regulators, firms and commentators felt able to call its bottom.
+Stress tests proved to be a useful tool for understanding, quantifying and communicating financial resilience. Regulators globally developed ongoing stress testing programmes. In the UK, that allowed the FSA, and then the Bank, to enhance their analysis of banks’ balance sheets under stress. Many UK banks are global in nature, and stress testing enabled us to understand how the impact of both UK and international stresses impacted their resilience. After the acute period of the crisis was over, stress tests by regulators continued to support the strengthening of banks’ capital and the improvement in their internal stress testing and broader risk management. They were part of a wider package of measures – such as Basel III, the UK leverage ratio, and closer supervision – to enhance the resilience of the banking system to shocks. And crucially its ability to support the real economy through bad times, rather than causing and amplifying stresses, as in 2008.
+When the Financial Policy Committee (FPC) was first established, one of its first priorities was to complete the capital build post-crisis. Stress testing was key to achieving that. In 2014, the Bank of England launched its first public, concurrent stress test of the UK banking system. It assessed simultaneously the performance of major UK banks’ capital positions under the same scenario – and their ability to recover while still lending to the real economy. It compared results across banks, and assessed the broader impact on financial stability. The test used our approach of combining submissions from participating banks with our own modelling and judgements to derive and publish firm-specific results.
+Then in 2015, we set out our approach to concurrent stress testing, which had two components. The first was financial resilience stress tests, called the annual cyclical scenario, which enabled us to assess banks’ capital positions against a severe but plausible adverse scenario. The scenarios in these exercises were countercyclical. And we set them so they could be used to inform the setting of capital buffers. Our latest annual cyclical scenario results were published in 2023.
+The second component was the biennial exploratory scenario (BES) which is used to test risks not neatly linked to the financial cycle. For example, in 2022 we published the results of our test of the risks from climate change.
+On a micro-prudential level – the level of individual firms, relevant to the Prudential Regulation Committee – the objective was to promote the safety and soundness of UK banks by assessing their capital adequacy in the face of a range of adverse shocks. This helped identify necessary improvements in risk and capital management practices within firms. And it has informed the setting of firm-specific capital buffers. On a macroprudential level – the level of the banking system, relevant to the FPC – the tests helped us form a view on the resilience of the banking system as a whole. As a result, we used them to inform decisions that apply to the whole sector, such as setting the countercyclical capital buffer.
+So stress tests have supported the significant and much-needed build-up of capital in the UK banking system. Over time, as banks became better capitalised they got to and stayed where we would expect them to be in the scenario: above the test’s hurdle rate. As a result, the role of the annual cyclical scenario has become less about obtaining specific point estimates of capital and more about understanding how different stresses can impact banks in different ways, and wider learnings.
+As well as this role in the capital build, stress testing strengthened our approach to supervising banks and ensuring financial stability in a number of ways. It helped identify risks on banks’ balance sheets, and supported a continued improvement in banks’ own risk management and capital planning capabilities. It has proved to be one of the best tools we have to benchmark across banks and compare their activities. Our stress tests also revealed issues about banks’ performance in stress which informed policy developments, for example to address pro-cyclicality in mortgage risk weights. And crucially, they served a key role externally as an accountability device and a way to enhance public confidence in banks and the financial system. Quite simply, it is one of the most effective tools we have to demonstrate that major UK banks are safe and sound, and can support households and businesses in bad times, rather than make things worse. We’ve seen the benefits of that in the recent challenging years in the wake of the pandemic, where for example banks could afford to give many households more time to repay their mortgages.
+Developments since our previous approach
+Alongside this gradual shift in what we learn from stress tests, the major macroeconomic and global shocks we have faced in recent years have led to change. They have required us to take a more adaptable and nimble approach, more informed by prevailing economic conditions. The Covid pandemic in particular had a big impact on our approach to stress testing: in the face of such a major shock hitting the UK economy, we had to adapt, reflecting that this was the first time we had to do a stress test during an actual stress since the global financial crisis.
+In 2020, we ran an internal desktop exercise that gave us rapid insights into the potential impacts of the pandemic, instead of the usual lengthier test with firm submissions. Doing this also allowed banks to divert resources to where they were most needed at the time.
+We also ran a ‘reverse stress test’ in 2020, to analyse the unfolding macroeconomic conditions and how bad things could get. Specifically we tested how much worse the economic outcome would need to get to deplete banks’ capital by as much as in the 2019 annual cyclical scenario.
+In 2021, we returned to a test involving firm submissions, but instead of the usual severe but plausible scenario, we tested to a more extreme adverse scenario to gain insights into the potential impact of a worsening of the pandemic.
+Through these episodes we learned the value of being adaptable, and being able to carry out different exercises, using different scenarios, and at varying levels of granularity and speed. These different types of tests are useful in telling us what we need to know at the time. They provide a reliable assessment of a particular scenario we want to explore – without undue burden on us or firms – which we can trust to inform our decisions even in times of great uncertainty. Rather than having to speculate or rely overly on subjective judgments.
+Most recently in 2024, we ran a desk-based stress test. By being desk-based we were able to test the resilience of the banking system to two alternate scenarios (as opposed to just one scenario in the full tests involving firm submissions). We tested an aggregate demand shock where growth collapses and interest rates fall rapidly, and an aggregate supply shock where inflation and interest rates go up. The test was based on our own modelling and judgements rather than requiring firm submissions.
+As well as testing the banking system, the Bank has also developed its wider toolkit for stress testing to cover different parts of the financial sector. Since 2015 we have been undertaking insurance stress tests assessing the financial resilience of the general insurance sector and since 2019 of the life insurance sector, too. Those exercises give us valuable insights into the sector and its firms, beyond what can be obtained from a firm’s own solvency and risk management reports. They also help the Prudential Regulatory Authority (PRA) be better prepared to respond to potential shocks affecting the insurance sector.
+In 2025, the PRA’s stress testing framework for the life insurance sector will be enhanced by the intent to publish individual firm results.
+footnote
+[3]
+This will provide market participants with additional transparent and independent measures of an insurer’s resilience, and facilitate market education and self-discipline. And actually the next life insurance stress test will be launched tomorrow, so keep an eye out for that!
+Since 2022, the Bank has also conducted annual stress tests of UK Central Counterparties (CCPs), which are used to assess CCPs’ financial resilience, and to promote transparency and confidence in the UK’s clearing system. They include “reverse” stress testing, subjecting CCPs to different combinations of increasingly severe scenarios, numbers of defaulters, and costs of liquidating concentrated positions. CCP exercises have also included more agile desk-based stress testing, which can shed light on dark corners by exploring the impact of a wider range of scenarios. CCP stress tests consider the impact on liquidity needs of their clearing members as part of the test, highlighting the system-wide analysis we do and need to do more of, which I will come onto later.
+And most recently, we undertook a new and first-of-its-kind system-wide exercise, the SWES. The SWES aimed to test the resilience of UK markets that are core to our country’s economy. By improving our understanding of the behaviours under stressed conditions of banks and non-bank financial institutions (NBFIs) participating in those markets. And most importantly how those behaviours might interact to amplify shocks and cascade from one market to another. We published the results of it at the end of 2024, and my colleague Lee Foulger discussed these in a recent speech.
+footnote
+[4]
+We and the participants learned a lot from this exercise – it proved incredibly insightful.
+The updated approach to stress-testing the banks
+Taking stock of these changes since our original approach to bank stress testing in 2015, we have reflected on the need to be adaptable, the shift in the context of our stress tests more broadly, and how we have been using them in practice.
+Our updated approach combines the predictability of regular stress testing for cyclical risks with the adaptability the Bank has used in recent years to explore different risks. It also benefitted from engagement with participating banks, academics, and other stakeholders.
+It has three key components:
+First, we will continue to run a financial resilience test of risks related to the financial cycle, involving submissions from participating banks, but it will be every other year. It will otherwise be akin to the previous annual cyclical scenario test and, will inform capital buffer setting. Going forward we are calling this biennial exercise simply the Bank Capital Stress Test. Because it does what it says on the tin.
+Second, in the intervening years we will supplement our assessment of the resilience of the banking system using stress testing when appropriate, but in a way that is much less burdensome for banks than our full Bank Capital Stress Tests. For example, through desk-based exercises.
+Third, the Bank will continue to use exploratory exercises involving participation from banks, akin to the BES of the previous framework, but not strictly biennially. These tests will be a means of assessing other risks, including structural and emerging risks that are not closely linked to the financial cycle.
+Reducing the frequency of big firm submission tests represents a considerable efficiency gain, without compromising our assessment of financial stability. It ensures the burden placed on participating banks is proportionate, and supports the UK banking sector’s competitiveness and growth. This change creates space for banks, and for us, to assess and address a wider set of risks facing the banking sector and will provide better insights in an evolving risk environment.
+It will also give participating banks greater capacity to invest in improvements in data (particularly crucial if they want to make the most of artificial intelligence, by the way), modelling, and risk management. In turn that will further enhance the ability of stress tests to deliver insights over the medium- to long-term.
+The new approach does not represent a reduction in the importance and value we place on stress testing, quite the opposite. But it reflects an evolution of how we use it.
+A key reason why we are comfortable reducing the frequency of the full cyclical tests involving bank submissions is because banks are now much better capitalised. The last time we asked a participating bank to submit a capital plan to increase its level of capital as a result of a stress test was 2016. The tests have become increasingly about wider insights. So while we will still be keeping an eye on capital adequacy as a matter of routine, we no longer feel it needs to be done via a big set-piece every year. Especially given the cost of doing so and the benefits of exploring a wider range of risks.
+Now while we value adaptability and the ability to use a range of tests to be more nimble, we also know the importance of predictability for participants to plan ahead. We intend for the Bank Capital Stress Test to be carried out every other year. And for other exercises involving firm submissions, as we have done in recent exploratory exercises, we’ll engage with participants well in advance so they have time to prepare, and we’ll endeavour to ensure submissions are proportionate. And when considering the timing of a future exercise, we will watch carefully the sequencing with other exercises.
+The new approach will also allow scope for synergies between the various bank stress tests, as well as between those and stress tests of other parts of the financial sector. For example, a desk-based stress test might allow initial exploration of a risk which could subsequently be incorporated into the scenario for a Bank Capital Stress Test. Alternatively, a Bank Capital Stress Test may reveal a vulnerability that could become the focus of an exploratory stress test or targeted exercise.
+The new approach is more adaptable and risk responsive. It represents a pivot away from looking at point estimate capital positions, to instead look at wider learnings about vulnerabilities and pockets of risk. It provides space to explore scenarios and the sources of potential future crises, but without losing the indispensable regular checks on financial resilience.
+Now while we love stress tests – as you can tell! – we need to remember that they can’t give us all the answers. Credit Suisse was a perfect example of this. It is not a lack of capital that caused their failure, and indeed they passed many stress tests. Some answers have to come from elsewhere – although this is not the topic of today.
+Joining the dots
+We are excited about this updated approach. We feel it reflects the changes to the sector since the inception of the framework and draws out what we have found useful in practice over the first decade of concurrent stress testing. I believe it gives us the flexibility we need without losing the rigour of the previous approach.
+Looking ahead, the next challenge we face is what I call ‘joining the dots’. We have been running relatively separate tests of different sectors – those of banks, insurers, CCPs and system-wide – expanding our understanding with each successive exercise. In the future, I would like to use our approach to draw together even better our broader toolkit of exercises across sectors to enhance our understanding of system-wide dynamics.
+Risk-taking has shifted across the financial sector since the early days of stress tests, and we must use our toolkit to widen our understanding of the financial system and gain an increasingly comprehensive view of the risks affecting it. By joining the dots between exercises and findings, we can take an increasingly “macro” view of risks and vulnerabilities across the system. This will allow us to focus on testing the provision of vital services, and this requires a better understanding of the dynamics of the system not just a focus on individual institutions, as Sarah Breeden recently spoke to.
+footnote
+[5]
+Lending and market-making is increasingly shifting away from banks to NBFIs. The figures are striking. NBFIs now account for around half of total UK financial assets. Over the last two decades, NBFIs has accounted for the entirety of the cumulated increase in new UK corporate lending in the UK, and for example, NBFIs now account for 50% of the stock of corporate lending. However, importantly, banks remain exposed to these risks through providing repo, leverage, and other forms of wholesale finance to non-banks – so banks remain very much involved, but in a different way. There has also been a recent increase in Significant Risk Transfer transactions, which can help banks achieve capital relief on the risk transferred to investors, through securitisation. That trend provides further evidence of interconnectedness between banks and the rest of the financial sector, and how risks can be distributed from banks to different corners of the financial system. The consequences of this need to be understood.
+We are also seeing risks transferred from banks to insurers, or shared between them. For example, we need to continue to explore the links between banks’ mortgage lending and insurance policies against flooding, and the impact of climate change on both sectors. As highlighted in our latest FSR, we have been looking at the vulnerabilities emerging at the intersection of life insurance and private equity.
+footnote
+[6]
+Life insurance and reinsurance premiums are increasingly used as funding for lending activities in private credit via private-equity-backed insurers and reinsurers. In this regard, and with respect to UK insurers’ use of funded reinsurance, the 2025 life insurance stress test will provide useful insights into potential channels of disruptions. This highlights that some risks are very difficult to understand without taking a cross-sectoral view.
+These examples underscore the need to ‘join the dots’ and take in the broader picture, where a ‘sum of the parts’ approach may not give the right view.
+The idea is of course to continue our sectoral stress tests, but ensuring we are increasingly linking the findings from them, and using one exercise to inform another. In practice, this could start with exploring scenario consistency and coherence between tests. We might consider where common scenarios could be used and the results of one stress test can inform another. One example of joining up our findings might be if market-focussed exercises reveal behaviours under stress that are relevant for the way we test resilience within specific sectors of firms.
+Over time, we could seek a deeper understanding of interconnections, combined effects, and amplifications. I think we should aim for that. My aspiration is towards future stress tests that capture interlinkages and feedback loops between sectors. That could help us spot risks that are truly system-wide and not otherwise identifiable in isolation.
+This is clearly part of a journey, and we won’t have all the answers immediately about how best to do this. But it is our direction of travel. We will learn by doing, gradually, and together with market participants themselves. This important work will allow us to provide a fuller picture of whether the financial sector, as a whole, is able to do its job of supporting households and businesses in both good and bad times. Which is our ultimate goal.
+The recent SWES has represented a big leap towards this goal. It proved to be an effective tool for understanding vulnerabilities that would not be apparent from sector-specific analysis alone. By including firms from a range of sectors and running it in two rounds we could explore how the collective actions of firms in markets can amplify a shock (such as through forced sales), and understand system-level liquidity flows (such as how a shock at one fund causes them to redeem from another or how initial margin is recycled in the system). We can better understand how the actions of one firm can impact its investors or counterparties and the system-level consequences (such as whether repo will be rolled and the consequences if not). We are committed to continuing to invest in our capabilities in this area, to be able to carry out system-wide exercises in a more desk-based way, allowing us to monitor risks and understand how different shocks could play out, leading to more informed policy-making. And there will certainly be other system-wide dynamics or ecosystems that would benefit from future SWES-style exercises.
+And as part of this increasingly holistic view of stress tests, we continue to consider their interaction with those we run on our own central bank balance sheet.
+The need for this more joined-up approach is greater than ever, because the shape of risks to financial stability are evolving fast and with increasing interconnectedness. To stay on top of things we need to consider the broader macro picture at the level of the whole financial sector. Otherwise, we would risk engaging in a ‘whack-a-mole game’ that would be difficult to win.
+For example, increasing digitalisation over recent years has changed the risk environment – firms are more vulnerable, for instance, to rapid liquidity outflows. Cyber risks are another consequence of this changing risk landscape, and the Bank will increasingly need to focus on such non-financial stresses to support our wider understanding. The Bank has been undertaking stress tests of cyber resilience since 2019 and continues to do so. As we outlined in our last FSR, cyber-attacks are one channel of increased risks that come with elevated geopolitical tensions. My FPC colleague Carolyn Wilkins will be speaking soon on this subject, and the increasing importance of how we capture geopolitical risks.
+The value of stress testing for understanding systemic risks
+Indeed, the need to join the dots is set against a broader context of a transition away from the last decade into a new era marked by a tighter monetary environment, digitalisation, and climate change, against a broader backdrop of increased geopolitical tensions. As outlined in our most recent FSR, “uncertainty around, and risks to, the central outlook have increased and global risks associated with geopolitical tensions, global fragmentation and pressures on sovereign debt levels remain material”.
+footnote
+[7]
+The world is an unpredictable place. The collapse of Silicon Valley Bank in 2023 also served as a sharp reminder of how quickly risks can crystalise and how losses of confidence can impact a bank or cohort of banks.
+In this uncertainty lies a key strength of our approach to stress testing: the scenarios we test are not predictions of macroeconomic and financial conditions in the UK or abroad. Instead, they are hypothetical scenarios that we believe are useful to explore because they help spot the right risks and vulnerabilities in the system. They allow us, and just as importantly, firms themselves, to take steps to prepare for a range of plausible outcomes. And to emphasise, this is a great strength of stress testing in an uncertain world: it helps ensure the financial system is able to support the economy under a range of circumstances, at a time when it’s difficult to work out which ones are most likely.
+On the topic of helping firms prepare themselves for plausible scenarios, it is clear that a valuable aspect of our stress tests is the disclosure of the results. That supports market discipline and enables the financial sector to be the first line of defence and take necessary action to manage risks. Publishing the results enables us to convey key messages about risks and vulnerabilities in a constructive manner. The more we do so in benign times, the more we enable the industry to fix the roof while the sun is shining, ahead of real stresses.
+Moreover, in a test involving firms, we can also provide private bilateral feedback on participants’ modelling or judgements, and explore where their approach departs from peers. This can help speak to the lack of perfect information for individual participants in a system, allowing us to play out the reactions of many actors. For example, the SWES highlighted mismatches in firms’ expectations of how each other will act in a stress – and that led us to recommend that market participants consider taking steps to prepare for the risk that they cannot access additional repo during market stresses. By shining a light on how scenarios might unfold, our stress tests allow us and market participants to mitigate risks pre-emptively. We have received a positive response on the usefulness of the information we shared from the SWES results, including for firms own internal risk management.
+That’s important because market participants need to be able to deal with severe but plausible scenarios themselves, without expecting authorities to intervene and put taxpayer money at risk, as in 2008. Having said that, some scenarios are so severe and extreme that they can’t reasonably be mitigated in advance. Indeed if we tried to eradicate all possible risks, this would lead to the ‘stability of the graveyard’ and stunt growth. So we do not expect firms to have ex ante resilience for each and every shock. We are not seeking through stress testing to remove all risk-taking from the system. And like other companies, financial institutions can and should be able to fail in an orderly way.
+What we as policymakers care about is the resilience of the system as a whole, and its ability to continue supporting the real economy in severe but plausible scenarios without the need for intervention by public authorities.
+Even then, some shocks may be so large, and the cost of the whole sector insuring itself against them would be so great, that trying to do so would hamper the provision of vital financial services in normal times.
+So as well as ensuring firms are prepared for risks, it is also important we at the Bank of England have tools in our toolkit to step in when financial stability comes under threat. For example, in recognition of the increased importance of NBFIs, which I mentioned earlier, the Bank has been working to develop tools to lend to them directly in times of severe dysfunction in core UK financial markets when financial stability is under threat, as Dave Ramsden spoke about in December.
+footnote
+[8]
+This is the latest addition to our toolbox. Not all resilience can be built in ex ante. Some resilience has to come from having the right tools to manage the stresses that threaten stability as they arise.
+Conclusion
+We need to be selective and deliberate. Financial stability is indispensable for sustained economic growth – as the considerable loss of growth caused by the 2008 crisis starkly reminds us. The focus of our stress tests has to be guided by the ultimate aim of financial stability, which is the provision – by the financial sector as a whole – of vital services to the real economy, such as lending, saving, insurance, payments, etc. in both good and bad times. Stress tests help us be focussed and selective, and therefore enable us to be proportionate.
+That means future Bank Capital Stress Tests will continue to test banks’ ability to keep lending through a stress – maintaining sufficient capital to absorb losses as they occur whilst continuing to support UK households and businesses, rather than closing shop to protect themselves. But our approach is also pivoting towards identifying vulnerabilities and pockets of risk, in step with a changing world. Directing resources where needed, being increasingly nimble, and ensuring the burden on firms is reasonable.
+And importantly, it allows us to continue joining the dots between various stress tests across the financial sector. By better linking insights and the design of our tests, we can gradually build a comprehensive, holistic, view of the interaction between the financial sector and the economy. In doing so, we can respond to the changing risk environment and uncertainty of today’s world. We can reflect the shift or sharing of risk between sectors. And we can do so in a way that is proportionate and selective, and provides the stability needed to support growth.
+Finally, I encourage firms across the industry to adopt a similar mindset of joining the dots. The financial system is increasingly interconnected, and participants having open lines of communication with their financial counterparties to understand each other’s reaction function in a stress is very helpful for the resilience of the system as a whole. It’s part of being the first line of defence.
+Stress tests have a bright future. I am proud of how far we have come, and excited about how much more we can get out of them.
+Thank you.
+I’d like to thank Philip Anderson, Eleanor Connolly, Neha Bora, Robert Edwards, Kishore Kamath, Grellan McGrath, Lee Foulger, Charlotte Gerken, Martin Arrowsmith, Simon Dixon, David Curry, Nick Butt, Olga Filipenko, Phil Evans, Monzir Osman and Sarah Breeden for their assistance in preparing these remarks. The views expressed here are not necessarily those of the Financial Policy Committee (FPC).
+Kieran Dent, Miguel Segoviano, Ben Westwood (2016), Bank of England Quarterly Bulletin 2016 Q3,
+Stress testing of banks: an introduction
+.
+Bank of England (2006),
+Financial Stability Report, July 2006
+.
+Bank of England (2024),
+Life Insurance Stress Test (LIST) 2025
+.
+Bank of England,
+System-wide exploratory scenario
+.
+Sarah Breeden (2024),
+Financial stability at your service
+.
+Bank of England (2024),
+Financial Stability Report November 2024
+, ‘Chapter 8: In focus – Emerging vulnerabilities at the intersection of the private equity and the life insurance sectors’.
+Bank of England (2024),
+Financial Stability Report - November 2024
+.
+Dave Ramsden (2024),
+Getting the balance right: ensuring the Bank’s balance sheet can support financial stability
+, given at the Official Monetary and Financial Institutions Forum, London.
+Dave Ramsden (2024),
+Getting the balance right: ensuring the Bank’s balance sheet can support financial stability
+, given at the Official Monetary and Financial Institutions Forum, London.
+Close
+Bank of England (2024),
+Financial Stability Report - November 2024
+.
+Close
+Bank of England (2024),
+Financial Stability Report November 2024
+, ‘Chapter 8: In focus – Emerging vulnerabilities at the intersection of the private equity and the life insurance sectors’.
+Close
+Sarah Breeden (2024),
+Financial stability at your service
+.
+Close
+Bank of England,
+System-wide exploratory scenario
+.
+Close
+Bank of England (2024),
+Life Insurance Stress Test (LIST) 2025
+.
+Close
+Bank of England (2006),
+Financial Stability Report, July 2006
+.
+Close
+Kieran Dent, Miguel Segoviano, Ben Westwood (2016), Bank of England Quarterly Bulletin 2016 Q3,
+Stress testing of banks: an introduction
+.
+Close
+Nathanaël Benjamin
+Executive Director, Financial Stability Strategy and Risk
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

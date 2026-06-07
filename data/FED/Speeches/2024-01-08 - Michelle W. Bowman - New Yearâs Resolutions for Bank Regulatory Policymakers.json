@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "New Yearâs Resolutions for Bank Regulatory Policymakers",
+  "date_original": "2024-01-08",
+  "date_au": "08/01/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240108a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-01-08 - Michelle W. Bowman - New Yearâs Resolutions for Bank Regulatory Policymakers.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-01-08 - Michelle W. Bowman - New Yearâs Resolutions for Bank Regulatory Policymakers.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b6ebe0032b30b13f8f21289495a55b053499264fbfe97569bcc4e603bd1f29fa"
+}

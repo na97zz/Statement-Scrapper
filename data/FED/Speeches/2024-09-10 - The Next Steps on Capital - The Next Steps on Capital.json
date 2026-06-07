@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Next Steps on Capital",
+  "date_original": "2024-09-10",
+  "date_au": "10/09/2024",
+  "datetime_original": "",
+  "speaker": "The Next Steps on Capital",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20240910a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-09-10 - The Next Steps on Capital - The Next Steps on Capital.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-09-10 - The Next Steps on Capital - The Next Steps on Capital.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "441898af4773feab604ee00073c6f00aca49e9e1542befb5fc63528035e5bbad"
+}

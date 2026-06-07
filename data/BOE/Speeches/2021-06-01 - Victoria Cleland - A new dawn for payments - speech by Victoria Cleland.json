@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "A new dawn for payments - speech by Victoria Cleland",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Victoria Cleland",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/june/a-new-dawn-for-payments-annex.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Victoria Cleland - A new dawn for payments - speech by Victoria Cleland.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Victoria Cleland - A new dawn for payments - speech by Victoria Cleland.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:16",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/june/victoria-cleland-keynote-address-at-the-city-week-2021-a-new-dawn-for-payments",
+  "content_sha256": "937a1b31b6582c4a1c5dd309a5992f8b60147a7be432028ecbf431674799febc"
+}

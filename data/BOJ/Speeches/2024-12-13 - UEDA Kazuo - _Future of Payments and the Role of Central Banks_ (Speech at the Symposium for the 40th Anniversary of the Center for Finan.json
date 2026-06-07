@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Future of Payments and the Role of Central Banks\" (Speech at the Symposium for the 40th Anniversary of the Center for Financial Industry Information Systems)",
+  "date_original": "2024-12-13",
+  "date_au": "13/12/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko241213a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-12-13 - UEDA Kazuo - _Future of Payments and the Role of Central Banks_ (Speech at the Symposium for the 40th Anniversary of the Center for Finan.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-12-13 - UEDA Kazuo - _Future of Payments and the Role of Central Banks_ (Speech at the Symposium for the 40th Anniversary of the Center for Finan.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b59f40c34bc1957fcd3b1e71b0c09b69180452d0b05eaacce8f4a02b310b7a4c"
+}

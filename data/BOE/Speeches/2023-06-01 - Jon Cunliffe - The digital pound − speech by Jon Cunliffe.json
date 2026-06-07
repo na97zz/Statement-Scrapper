@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The digital pound − speech by Jon Cunliffe",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Jon Cunliffe",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/february/jon-cunliffe-speech-at-uk-finance-update-on-central-bank-digital-currency",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Jon Cunliffe - The digital pound − speech by Jon Cunliffe.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Jon Cunliffe - The digital pound − speech by Jon Cunliffe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:17:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ba0644afb0dd20236cc0840dd58cccd908bdfd03a86e3cb2ecd32019b3e6290e"
+}

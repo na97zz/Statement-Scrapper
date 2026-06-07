@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The euro area economy and our monetary policy stance",
+  "date_original": "2023-10-30",
+  "date_au": "30/10/2023",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231030~134add5861.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-10-30 - Luis de Guindos, Vice - The euro area economy and our monetary policy stance.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-10-30 - Luis de Guindos, Vice - The euro area economy and our monetary policy stance.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb27380ac76d87fa4c2d65eb4ba779747cf938b7a5e32b72e77304f5ae170d46"
+}

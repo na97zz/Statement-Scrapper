@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Tokushima)",
+  "date_original": "2021-12-08",
+  "date_au": "08/12/2021",
+  "datetime_original": "",
+  "speaker": "AMAMIYA Masayoshi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko211208a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-12-08 - AMAMIYA Masayoshi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Tokushima).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-12-08 - AMAMIYA Masayoshi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Tokushima).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e7920cbf7b80596e363cab29ef805a9b8cce99fcd68b76c825624d00f20067e1"
+}

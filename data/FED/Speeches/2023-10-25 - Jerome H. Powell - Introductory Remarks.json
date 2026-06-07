@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Introductory Remarks",
+  "date_original": "2023-10-25",
+  "date_au": "25/10/2023",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20231025a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-25 - Jerome H. Powell - Introductory Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-25 - Jerome H. Powell - Introductory Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7845c0b5f92c4958869116c24436dbffedd164873f5163fdae464573a1889cf4"
+}

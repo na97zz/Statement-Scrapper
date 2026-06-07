@@ -1,0 +1,202 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Sparking the transformation of finance: tokenisation and the role of central banks
+DATE: 15/04/2026
+SPEAKER: Sparking the transformation of finance
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Sparking the transformation of finance: tokenisation and the role of central banks
+Keynote address by Piero Cipollone, Member of the Executive Board of the ECB, at the 24th Annual Symposium on “Building the Financial System of the 21st Century: an Agenda for Europe and the United States”, hosted by the Harvard Law School and the Program on International Financial Systems
+Washington DC, 15 April 2026
+Today I will discuss the role of technology in the future of finance.
+[
+1
+]
+I will seek to outline the conditions needed for technological innovations to genuinely enhance the economic efficiency of the financial system, focusing on tokenisation and distributed ledger technology (DLT) as a case in point.
+Financial innovation should help capital find its most productive use and risk find its best owner at the lowest possible cost. These efficiency criteria have been used to justify and judge every major wave of innovation in modern finance, from the development of derivatives markets to electronic trading and dematerialisation. The distributional effects of innovation also need to be taken into account – that is, whether the gains from innovation are passed on to borrowers and savers or absorbed along the way.
+The historical record on this is striking and should make us pause for thought.
+Since the late 19th century, the financial sector has expanded enormously and technology has made markets more efficient. Yet the cost of connecting a borrower to a saver has barely moved at the aggregate level. The unit cost of financial intermediation in the United States has remained roughly constant, at around 2% of intermediated assets.
+[
+2
+]
+These estimates also broadly hold for European countries such as Germany, France and the United Kingdom.
+[
+3
+]
+So the question I would like to address today is whether tokenisation can break with the historical pattern, allowing technical efficiency gains to reach borrowers and savers. I will argue that this is possible because, with tokenisation, we now have a technology that is genuinely different from what came before. It is possible but by no means certain. I will therefore outline the conditions that are necessary to achieve such a positive outcome, including the role that central banks can play in enabling this transformation.
+The conditions for tokenisation and DLT to deliver genuine efficiency gains
+Recognising the transformative potential of tokenisation
+Let me first explain why tokenisation and DLT have the potential to be transformative.
+Most financial innovations made the existing system more efficient without changing its fundamental architecture. The shift from paper-based to electronic messaging, trading and settlement over the past half-century is the clearest example. Swift transformed cross-border communication between banks by cutting transaction times. Electronic order books replaced trading floors, while settlement cycles were reduced from weeks to days. Each of these innovations made the existing system faster and more reliable. But the underlying architecture – in which trading, clearing, custody and settlement were separated into distinct institutional layers, each with their own infrastructure and intermediaries – remained intact. Even as financial markets have become increasingly sophisticated, the fundamental practice of bookkeeping across ledgers has remained largely unchanged. At each stage of the securities life cycle, banks, brokers, information providers and other market participants continue to play an essential role in intermediation.
+[
+4
+]
+Tokenisation belongs to a different class of innovation entirely, which economists call general-purpose technology. Rather than improving just one part of a system, these technologies reframe the logic of the system as a whole. By issuing or representing assets in the form of digital tokens
+[
+5
+]
+that are typically recorded on DLT networks, tokenisation allows the full life cycle of a transaction – issuance, trading, settlement and custody – to take place within a single digital environment that is available 24/7. Tokenisation can provide a single, shared source of truth, avoiding the need to reconcile multiple proprietary ledgers. And it enables processes such as coupon payments to be automated through smart contracts. This has the potential to simplify access to finance, enhance financial services and reduce costs.
+A system-wide paradigm shift
+But a defining characteristic of a general-purpose technology is that the associated gains are conditional on the complementary components of a market adopting this technology simultaneously.
+Electricity is the clearest historical example. It was a transformative technology, but it required an extensive restructuring of production to unlock broad-based productivity increases. As Paul David showed in his seminal analysis of historical technological transitions, factories initially replaced steam engines with dynamos while keeping the existing centralised mechanical power system unchanged.
+[
+6
+]
+Productivity gains only materialised once factories redesigned their entire workflows and floor plans around the logic of the new technology, adopting individual motors for each piece of equipment and building lighter and modular single-storey plants.
+Tokenisation could be similarly transformative thanks to its potential to rewire finance. But for the promised gains to materialise, the various components of the financial system need to embrace its new logic.
+The government bond market illustrates how much the different components complement each other – and why they need to move together. A liquid sovereign bond market requires a secondary market to provide tradability, which requires repo markets so that dealers can manage their inventories
+[
+7
+]
+. And it requires derivatives so that investors can hedge rate exposure. Finally, all of these components require an adaptive legal framework, central bank liquidity and specialised courts. It is this complex, interlocking system, built up over centuries, that has improved conditions for both borrowers and savers in this market and the efficiency with which they are connected.
+These complementary components also create a coordination problem.
+No single component can transform the financial system on its own. This reduces the incentive to move to a new techno-economic paradigm before others do: whoever moves first faces certain costs and highly uncertain pay-offs. So while rational actors may experiment to be ready just in case, the structure of incentives discourages a unilateral move to the new technology.
+[
+8
+]
+That is why factories continued to add electric dynamos to existing production systems designed for steam power, rather than redesigning these systems entirely. The challenge facing tokenisation is similar.
+Moreover, some intermediaries have a business model centred on addressing frictions in the system. When intermediation niches are structured in an oligopolistic way, incumbents can extract rents. These rents in turn reduce the incentive to invest in removing frictions.
+An integrated and competitive market
+But there is an additional dimension that the history of electricity shines a light on. The coordination problem is not only about
+whether
+the system moves, but
+which configuration
+it moves to.
+The US electrical industry of the 1880s was a landscape of incompatible local providers, competing on standards for electrical currents, and fragmented infrastructure that could not interconnect. The war of the currents between Edison’s DC and Westinghouse’s AC was resolved not by the market alone but by standardisation pressure and ultimately regulatory settlement. In the United States, industry associations such as the Institute of Electrical Engineers and the National Electric Light Association played a key role in standardising electrical machinery.
+[
+9
+]
+In France, Japan and the United Kingdom, governments and public institutions led the electrification drive through a deliberate and organised effort.
+[
+10
+]
+Institutional settlement preceded the productivity boom of the 1920s and shaped who controlled the infrastructure, on what terms, and who could ultimately capture its gains.
+With tokenised finance, we face the same pressing issues.
+There are many conceivable architectures for a DLT ecosystem – a single shared network, multiple interconnected networks, or a combination of the two. Each option involves trade-offs. For instance, a single shared network would, by design, avoid fragmentation and bring together the full value chain of wholesale financial markets. But this would imply that there is only competition at the services level. By contrast, multiple interconnected networks would support competition and innovation at the infrastructure level as well, but would increase the risk of fragmenting liquidity and assets.
+Independent of the future architecture, common standards will be crucial to ensure market integration and avoid walled gardens. In addition, the network layer should provide all participants with equal and non-discriminatory access. This will eliminate the need to create proprietary infrastructure in order to compete in the market, thereby reducing barriers to entry and increasing contestability. Ultimately, the costs for issuers and investors will fall.
+[
+11
+]
+The design choices that are being made at this early stage will determine which configuration the system locks into, and whether the gains of tokenisation are broadly distributed.
+The role of the central bank
+This brings me to the role of the central bank. In my view, we can make two key contributions to reduce the lag between financial innovation and broad productivity gains.
+Central bank money and collateral eligibility
+The first contribution relates to the key role played by central banks in encouraging the financial system to scale up and speed up its embrace of tokenisation.
+Central banks need to do their part in two core areas: first, as the issuer of central bank money and, second, as the provider of liquidity against collateral. Specifically, tokenised central bank money is necessary to offer a risk-free settlement asset in tokenised markets. And tokenised assets need to be eligible as collateral that can be mobilised in monetary policy operations. This will improve the liquidity of DLT-based assets, which is critical to making digital finance more scalable and attractive.
+Without tokenised central bank money as a settlement asset, every transaction in the new ecosystem would need to be settled using an instrument that (i) carries credit risk and (ii) does not provide the finality that only central bank money can.
+The private sector has sounded this warning: without a trusted public settlement anchor, sellers of a tokenised security may receive payment in an asset they are not comfortable holding. Tokenised central bank money is necessary for the market to expand and reach a tipping point – that is, the critical mass where it becomes rational for all the complementary components to adopt the new technology, thereby creating a new sustainable tokenised finance ecosystem.
+In 2024 the Eurosystem conducted exploratory work involving 50 trials across nine jurisdictions, with participants conducting transactions worth roughly €1.6 billion. It showed that central bank money could be used to settle DLT-based transactions and compared possible technical solutions.
+[
+12
+]
+The lessons learned have shaped the Eurosystem’s strategy. From September, we will offer tokenised central bank money settlement for DLT-based transactions as part of our Pontes project. This will provide a safe asset and a trusted common anchor that tokenised markets can use to grow at the speed and scale Europe needs.
+By offering a tokenised settlement asset in euro and issued by the central bank, we will also safeguard our monetary sovereignty, thereby reducing the risk that tokenisation leads to a growing dependency on non-European settlement assets.
+[
+13
+]
+In the area of collateral eligibility, for Eurosystem credit operations we have, since the end of March, accepted marketable assets issued in central securities depositories using DLT. These assets will be mobilised as collateral in line with the Eurosystem’s existing collateral management practices, like any other marketable asset. We are also exploring ways to expand eligibility to assets that are issued using DLT and not represented in eligible securities settlement systems.
+[
+14
+]
+The central bank as a catalyst
+The second contribution the central bank can make relates to its role as a catalyst in the market – a role similar to that of the electricity regulators that standardised equipment and set the terms under which the grid would be open.
+Without a vision for an integrated and competitive tokenised ecosystem and further investigation into what it requires in terms of architecture and standards, the tokenised market risks becoming a landscape of non-interoperable networks and standards that fragment liquidity, limit competition and stifle innovation.
+This is precisely why we have developed the Appia roadmap
+[
+15
+]
+, which we published in March. Appia sets out the longer-term vision for a European tokenised financial ecosystem. Through a combination of analytical and practical work, it aims to deliver a blueprint by 2028 in cooperation with all relevant private and public stakeholders.
+The topics we will tackle with Appia are structured around six building blocks ranging from technical standards and interoperability to monetary policy implementation, cross-border connectivity and the legal and regulatory foundations.
+Appia will use our policy objectives to assess whether a single European shared ledger, multiple interconnected networks, or a combination of both is the best solution for the network layer
+[
+16
+]
+. It will also consider whether the Eurosystem would provide its core services on a network it operates directly or on other networks where governance is shared with other parties.
+Appia will help shape enhancements of Pontes, while at the same time benefiting from the operational lessons learned from Pontes. Taken together, Pontes and Appia could be seen as the institutional equivalent of the solution to the electrification coordination problem: a trusted common infrastructure that no single participant controls and that is organised based on terms that enable the surrounding system to move together in a configuration that distributes economic gains broadly.
+Conclusion
+Let me conclude.
+It’s clear that tokenisation and DLT represent a different type of financial innovation – one that has the potential to deliver efficiency gains unmatched by previous waves of technological change. What’s less clear, however, is how long it will take for tokenisation and DLT to be widely adopted and whether the resulting market structure will foster integration and competition.
+That question is, at its core, an institutional one. Whether tokenisation will create a financial system that reduces the gap between savers and borrowers depends on the policy choices we make, just like how the electrical industry was shaped by the regulatory and standardisation choices made in the early 20th century.
+We have a window of opportunity to ensure the foundational architecture of tokenised finance encourages an integrated and competitive ecosystem – anchored in central bank money – that truly improves the way in which the economy is financed. This will determine whether tokenisation will spark a transformation that genuinely reduces the cost of finance.
+Thank you.
+I would like to thank Antoine Lallour, Cyril Max Neumann and Jean-Francois Jamet for their help in preparing this speech, as well as Alexander Duering and Thomas Vlassopoulos for their comments.
+See Philippon, T. (2015), “
+Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation
+”,
+American Economic Review
+, Vol. 105, No 4, pp. 1408-1438, April, and Philippon, T. (2016),
+Finance, productivity, and distribution
+, Brookings, 1 October. To estimate the unit cost, the income of the finance industry is divided by the quantity of intermediated assets. The connection of borrowers and savers will be more efficient for some subsectors or specific markets and instruments than for others.
+Bazot, G. (2018), “
+Financial Consumption and the Cost of Finance: Measuring Financial Efficiency in Europe (1950-2007)
+”,
+Journal of the European Economic Association
+, Vol. 16, No 1, pp. 123-160, February.
+Cipollone, P. (2024), “
+Towards a digital capital markets union
+”, keynote speech at the Bundesbank Symposium on the Future of Payments, Frankfurt am Main, 7 October.
+Digital tokens are entries in a database that are recorded digitally and can contain information and functionality within the tokens themselves. See Bank for International Settlements (2024),
+Tokenisation in the context of money and other assets: concepts and implications for central banks
+, Joint report by the Bank for International Settlements and Committee on Payments and Market Infrastructures, October.
+David, P.A. (1990), “The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox”,
+The American Economic Review
+, Vol. 80, No 2, May, pp. 355-361.
+In a repo transaction, one party sells securities to another party with an agreement to buy them back at an agreed-upon price. Repo markets allow some market participants to source required short-term funding or collateral and others to undertake short-term, low-risk investment of cash. See Financial Stability Board (2026),
+Vulnerabilities in Government Bond-backed Repo Markets
+, 4 February.
+Milgrom, P. and Roberts, J. (1995), “
+Complementarities and fit – Strategy, structure, and organizational change in manufacturing
+”,
+Journal of Accounting and Economics
+, Vol. 19, No 2-3, March-May, pp. 179-208.
+Bradley, Jr., R.L. (1996), “
+The Origins of Political Electricity: Market Failure or Political Opportunism?
+”,
+Energy Law Journal
+, Vol. 17, No 1, pp. 59-102.
+That said, the Great East Japan Earthquake in March 2011 highlighted a critical structural weakness in Japan’s power infrastructure: the East-West electrical divide. This divide dates back to when Japan first electrified. Tokyo imported 50 Hz generators from Germany while Osaka imported 60 Hz generators from General Electric, resulting in incompatibilities which persist to the present day.
+Agur, I., Villegas-Bauer, G., Mancini-Griffoli, T. and Martinez Peria, M.S. (2025), “
+Tokenization and Financial Market Inefficiencies
+”,
+Fintech Notes
+, No 2025/001, IMF, 29 January.
+ECB (2025),
+Bridging innovation and stability: the Eurosystem’s exploratory work on new technologies for wholesale central bank money settlement
+, June.
+Rey, H. (2025), “
+Stablecoins, Tokens, and Global Dominance
+”,
+F&D Magazine
+, September.
+ECB (2026), “
+ECB paves way for acceptance of DLT-based assets as eligible Eurosystem collateral
+”,
+press release
+, 27 January.
+ECB (2026),
+Appia – paving the way for a future-ready, integrated financial ecosystem leveraging tokenisation and DLT
+.
+With Appia, the Eurosystem is seeking to leverage DLT to achieve the following objectives: (i) ensure the effectiveness of monetary policy and financial stability and the smooth functioning of payment systems by maintaining central bank money as the anchor of a two-tier monetary system; (ii) foster a more integrated, competitive and innovative payments and securities ecosystem through efficient infrastructures for financial markets; (iii) support strategic autonomy and increased resilience; and (iv) ensure the relevance of the euro as an international currency.
+Related topics
+Payment systems
+Financial markets
+Distributed ledger technology (DLT)
+Digitalisation
+Innovation
+Central banking
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

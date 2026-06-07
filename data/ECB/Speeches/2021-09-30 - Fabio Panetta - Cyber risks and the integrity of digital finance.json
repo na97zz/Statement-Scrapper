@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Cyber risks and the integrity of digital finance",
+  "date_original": "2021-09-30",
+  "date_au": "30/09/2021",
+  "datetime_original": "",
+  "speaker": "Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210930~e58b5eed9b.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-09-30 - Fabio Panetta - Cyber risks and the integrity of digital finance.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-09-30 - Fabio Panetta - Cyber risks and the integrity of digital finance.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "50074d37a197b7aea6ee1fe39fde5def5088d48bc35e9d2b4a91424ff46b678a"
+}

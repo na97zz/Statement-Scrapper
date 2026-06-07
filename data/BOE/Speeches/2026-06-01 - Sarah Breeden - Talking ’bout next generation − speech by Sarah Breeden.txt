@@ -1,0 +1,269 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Talking ’bout next generation − speech by Sarah Breeden
+DATE: 01/06/2026
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2026/february/sarah-breeden-keynote-speech-at-the-city-financial-annual-payments-regulation-and-innovation-summit
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Talking ’bout next generation − speech by Sarah Breeden
+Given at City & Financial Payments Regulation and Innovation Summit 2026
+Published on 
+
+ 02 February 2026
+Sarah Breeden sets out how the Bank of England is leading, through a ground-breaking partnership with industry, the design of the UK’s next‑generation retail payments infrastructure, while also supporting private sector innovation in the interim. Together, these efforts aim to boost competition, enable new digital forms of money, and deliver faster, cheaper, more resilient ways for people and businesses to pay in an increasingly digital world.
+Speech
+It’s a pleasure to be here to talk about the UK’s work to renew our retail payments infrastructure, and the significant role the Bank of England is playing in that.
+After all, money and payments are at the heart of the Bank’s monetary and financial stability role. This is core central banking – using our own infrastructure and balance sheet, and our convening power at the heart of the financial system, to ensure trust in money and drive responsible innovation in payments in support of long-term economic growth.
+The advancing frontier for retail payments - internationally and technologically
+Retail payments in the UK have no doubt improved in recent decades. We were among the first in the world to launch, through Faster Payments (FPS) in 2008, a 24/7 system for instant, interbank retail payments. And today, many people have a quick and seamless payments experience - with near ubiquitous contactless card payments and mobile wallets like Apple Pay and Google Pay.
+But the frontier of innovation in money and payments has not stopped there.
+We only have to look abroad to see examples of interbank retail payment systems that offer options and functionality not available to people in the UK. That is perhaps not a surprise given the UK was a first mover internationally. Nonetheless, it remains the case that UPI in India, Pix in Brazil and Swish in Sweden are used alongside cards for retail payments in a way that doesn’t yet happen in the UK. Individuals can
+pay retailers in-store or online out of their bank accounts without going via cards – offering savings particularly for small businesses. And people increasingly make payments between different banks using only the recipient’s mobile phone number or a QR code.
+Not only is the frontier moving internationally, it’s also moving technologically. Tokenisation and distributed ledger technology bring opportunities to enhance the functionality of real-world retail payments – including through greater customisability, conditionality and automation in payments, compared to the standing orders and direct debits of today. Such features will be essential to support an increasingly digitalised economy.
+A new institutional model for the UK to deliver next-generation retail payments infrastructure
+This international and technological context is part of why the Government and UK authorities announced at Mansion House in July a new model to deliver the next generation of UK retail payments infrastructure.
+footnote
+[1]
+In this model, the UK authorities set the strategy for UK retail payments, reflecting their public policy objectives, through the Payments Vision Delivery Committee on which I sit alongside my counterparts from HM Treasury, the Financial Conduct Authority (FCA) and the Payment Systems Regulator (PSR).
+The Bank of England has taken on a new role leading the translation of that strategy into a design for the new infrastructure, working with the industry and a wide range of stakeholders in the payments ecosystem. To do that, my colleague Victoria Cleland is chairing a new
+Retail Payments Infrastructure Board
+(RPIB), with a membership comprised of banks and building societies, merchants and fintechs, as well as Pay.UK as the existing retail payment system operator and alongside PSR colleagues.
+Finally, RPIB will oversee the delivery of that design by a new industry-led Delivery Company, which will procure and fund the build of the infrastructure, and which is in the process of being established with involvement from across the industry, under chair designate Vim Maru (CEO of Barclays UK) and with support from UK Finance.
+While the next-generation infrastructure is designed and built, Pay.UK retains its crucial role operating the scheme for our current interbank payment systems – including working with industry to take forward critical short-term enhancements to those systems to ensure their resilience and near-term functionality, under the supervision of the Bank and the PSR.
+What will be different about next-generation UK retail payments?
+Our next generation infrastructure needs to adapt to the changing demands of a dynamic and increasingly digital real economy. To do this, it will need to support new types of payment - for example paying digitally in areas of low and no connectivity, or as AI agents make payments on our behalf.
+footnote
+[2]
+.
+Understanding and meeting these requirements requires engagement far outside the core infrastructure. So, we will engage widely across the payment ecosystem, beyond the RPIB membership, to gather input and expertise from the wider financial and fintech sectors, as well as end-users and merchants. We’ve set out today the mechanisms for how we will do that.
+footnote
+[3]
+As a first step, the UK authorities set out in November the outcomes we want to see the new infrastructure deliver.
+footnote
+[4]
+Our shared goal is for a resilient, fair, trusted, competitive payment system that supports a multi-money ecosystem (where different forms of money play their own roles and are freely and frictionlessly exchanged at par) - all to serve the real economy.
+To serve new and unknown needs, the next generation infrastructure must be built on principles of extensibility, modularity and flexibility. RPIB is now working at pace on what that infrastructure might look like, as well as the scheme design required to support it. We will publish consultations on these issues in the Spring.
+To make all this real, I would pick out three key enhancements to user experience that UK authorities want next-generation retail payments in the UK to deliver compared to what we have today.
+1. An account-to-account payment option in-store and online
+First, we want UK consumers to have the option to pay retailers in-store or online directly out of their bank accounts as a complement to doing so via card schemes.
+Such an option would provide valuable competition, improving functionality and potentially reducing the costs faced by merchants to accept payments (and which are otherwise passed on to consumers, at least in part, in the form of higher prices). The average cost to UK merchants of accepting card payments today is around 0.6% of transaction value.
+footnote
+[5]
+Moreover, the smallest merchants pay over four times more on average than very large ones.
+footnote
+[6]
+Competition from an extra payment option could bring these costs down. And in the context of a challenging and changing cyber and operational risk environment, it could provide a degree of extra resilience in the UK payments landscape, as an additional payment rail on the rare occasion of operational disruption to existing rails.
+While updated, operationally resilient payment infrastructure will help enable these outcomes, it won’t alone be sufficient. Scheme rules, a viable commercial model and appropriate standards of consumer protection are all needed to incentivise the industry to offer and promote this ‘account-to-account’ payment option at point-of-sale. The new institutional model for retail payments that I described earlier will convene industry and authorities to support the UK’s public policy objectives here.
+2. The seamless exchange of traditional and tokenised money
+The second way that we want the new retail infrastructure to improve on the payments experience of today is to enable the seamless exchange of not just traditional but also tokenised money.
+I’ve spoken before about how we want payments innovation in the UK to take place in a ‘multi-money’ system.
+footnote
+[7]
+Today, we make digital payments in the UK primarily using our bank deposits. In future, we want people to have a greater choice, between:
+traditional bank deposits;
+tokenised versions of those bank deposits;
+digital money issued by non-banks (that is, systemic stablecoins, where we will finalise a regulatory regime this year to ensure they have the robustness of money when used in real-world payments);
+footnote
+[8]
+and
+potentially, a digital version of banknotes to complement physical cash (that is, a retail central bank digital currency, where we’ll set out with HM Treasury the conclusions of our design phase for a
+digital pound
+later this year).
+Greater competition from a wider variety of technology and business models should drive lower costs and greater functionality for users.
+The new infrastructure will be critical to delivering this in a way that maintains monetary and financial stability – where money regardless of the institution which issues it can be exchanged seamlessly and settled safely in central bank money. Just as today I can use online banking to make an instant payment from an account in one bank to an account in another, in future the retail payments infrastructure should enable the same ‘interoperability’ - not just between traditional deposits, but also with and between tokenised bank deposits and systemic stablecoins, and always with the assurance that £1 of one money equals £1 of other forms of money.
+That would mean, for example, that when shopping online, the payment I make with my regulated systemic stablecoin, triggered automatically once I confirm my parcel has been delivered
+footnote
+[9]
+, would then instantly credit the retailer’s bank account – with the payment ultimately settling, safely and with finality, across the books of the Bank of England through the accounts that both my stablecoin issuer and the retailer’s bank hold with us in our Real Time Gross Settlement (RTGS) service.
+Ensuring that it is as easy and safe for customers of two different banks (or stablecoin issuers) to pay each other, as it is for customers of the same money issuer to do so, is also vital to ensure competition and innovation in a world of digital money. Otherwise, we risk a coordination problem where no one bank or systemic stablecoin issuer can innovate sufficiently in tokenised money unless they have the scale to pursue their own walled garden. And it must be underpinned by shared standards and common addressability.
+footnote
+[10]
+3. Improved cross-border retail payments
+The last objective for future UK retail payments that I’ll highlight today is cheaper and faster cross-border payments.
+Enhancing these has been a priority for G20 countries for several years now, since the G20 set out its Cross-border Payments Roadmap in 2020.
+In the UK - as in the wider G20
+footnote
+[11]
+- we’ve made some progress, but there is still more we can do to improve the cost and speed of cross-border retail payments. The average cost of sending a $200 remittance payment abroad from the UK was 5.2% in Q1 2025, the third lowest in the G20, having fallen 1 percentage point since Q2 2021.
+footnote
+[12]
+But in general progress has remained slow and uneven across major economies.
+By ensuring our next-generation infrastructure improves on the current system by implementing international messaging standards (ISO 20022), processing of payments messages can be automated to a greater degree, with fewer payments needing costly and slow manual investigation.
+And it could enable the UK to explore interlinking our retail payments system with those of other countries, which could further lower transaction costs by reducing the number of intermediaries and exchange rate conversions needed to settle payments.
+footnote
+[13]
+A word on wholesale payments
+I’ve talked up to now about retail payments – high-volume, low-value payments between households and businesses. I wanted briefly to touch on wholesale payments and settlements – low-volume, high-value payments and financial market transactions between financial institutions and large corporates. The Bank and other UK authorities are also doing a lot here to drive responsible innovation.
+Greater tokenisation of assets and money could bring cost and functionality benefits for wholesale transactions in financial markets – including fewer intermediates, greater automation, and greater liquidity for a wider range of financial assets.
+footnote
+[14]
+The Bank and FCA’s Digital Securities Sandbox (DSS) enables the private sector to set up real-world trading venues and settlement systems in the UK for such tokenised securities, both in sterling and foreign currencies, and we have 16 firms preparing with us to launch these starting later this year.
+The greater conditionality, customisability and automation that tokenisation brings to retail payments can also apply in large wholesale corporate payments, including cross-border. For example, tokenised deposits could enable a corporate to trigger a payment to a large supplier automatically upon delivery of a shipment being confirmed. We’re exploring how such a system could work with six other major central banks and over 40 private sector financial firms in the Bank for International Settlements’ Project Agora.
+footnote
+[15]
+It has long been recognised by market participants and international standards that there are benefits for market liquidity and financial stability of wholesale transactions settling across the accounts that banks and other financial institutions hold with central banks.
+footnote
+[16]
+Accordingly, we’re doing a lot to enable tokenised wholesale transactions to settle in central bank money.
+The modernised RTGS service provides a platform for innovation. For example, a payment system using RTGS functionality to settle the sterling cash leg of tokenised transactions using a tokenised representation of central bank money is already live in the UK.
+footnote
+[17]
+We’re testing full integration of RTGS with tokenised transactions this year before fully deploying the functionality.
+footnote
+[18]
+And we are experimenting with going further, and tokenising central bank money itself on a separate, distributed ledger – so-called wholesale central bank digital currency (CBDC).
+footnote
+[19]
+Finally, as tokenised asset markets emerge in different jurisdictions, we want to avoid them operating in a such a way that they are incompatible with each other - or indeed with existing technology. That would impede cross-border and cross-asset trading and so fragment market liquidity. Interoperability and regulatory cooperation including across borders will therefore be essential. We are closely engaged in the work of the
+Transatlantic Taskforce for Markets of the Future
+, as well as with the Monetary Authority of Singapore and other authorities on the so-called ‘
+Global Layer 1
+’ initiative, which is exploring common standards for DLT platforms.
+Supporting retail payments innovation in the interim
+The institutional model I described earlier is a groundbreaking public-private partnership. It aligns the interests of industry and authorities and allows us to work together at pace to deliver the next-generation retail infrastructure.
+But given the timescales involved, we are keen also to encourage wider private sector innovations in retail payments that could deliver some of the desired outcomes in the nearer term, including in tokenised deposits and regulated stablecoins.
+We and other authorities are engaging closely with such initiatives. PVDC made clear in November that such initiatives should advance the outcomes it set out in its Strategy, not distract industry and authorities from design and delivery of the next-generation infrastructure, and be designed to integrate with the new infrastructure as appropriate.
+footnote
+[20]
+Success here rests on this same partnership and high-quality dialogue and engagement which the RPIB has been set up to achieve.
+For our part, we are taking steps actively to encourage such innovations.
+First, our technology experimentation platforms – the
+Digital Pound Lab
+and the
+Synchronisation Lab
+– allow us to work with firms on understanding the benefits, risks and practicalities of new payments use cases.
+In Phase 1 of our Digital Pound Lab, which launched in August (with Phase 2 now open for applications), firms have been testing new use cases for retail payments – for example, making payments at point-of-sale using phone numbers or QR codes.
+And our RTGS Synchronisation Lab allows firms to test how to integrate the movement of money or assets, both traditional and tokenised, on external ledgers with movement of money across financial institutions’ accounts at the Bank of England. We’ve had very strong interest from firms in participating – with 18 firms due to start work with us in the Spring.
+The practical insights gained from these labs help industry refine their ideas and systems. They help us to design supporting infrastructure (including both the next generation retail payments infrastructure and our own RTGS service). And they help inform our regulatory approach as particular payments use cases proceed to real-world activity.
+In July we set out a proportionate
+approach
+to supervising Financial Market Infrastructures (FMIs), including payment systems. After recognition, a new payment system could enter a ‘mobilisation’ and then a ‘scaling’ stage where we would tailor our supervisory expectations according to size and risk profile. Limits on activity would start low and increase gradually, until it is ready safely to launch as a fully operational FMI and able to meet the supervisory expectations of an established firm.
+footnote
+[21]
+Taken together these initiatives enable us to encourage innovation now while the new retail payments infrastructure is being designed and built – and to take a proportionate approach to mitigating any risks to our public policy objectives.
+Conclusion
+With that, I should conclude.
+The international and technological frontier for retail payments is advancing. In support, the Government has set out a new institutional model for UK retail payments, with the Bank taking on a new role leading, with industry, the design of the UK’s next-generation retail payments infrastructure.
+The UK authorities have set out the outcomes they are seeking from this new infrastructure – including (i) an option for people to pay retailers in-store or online out of their bank accounts without going via cards, (ii) seamless exchange of traditional deposits, tokenised deposits and systemic stablecoins, and (iii) enhanced cross-border retail payments. Authorities and industry will work at pace to design and deliver this, and the new Retail Payments Infrastructure Board, chaired by the Bank, will consult on the design in the Spring.
+But given the timescales inherent in such a project, we are keen to encourage private sector payments innovation in the interim. And both the Bank’s technology experimentation platforms and our proportionate regulatory approach to new FMIs will enable us to do just that. I look forward to industry joining us on that journey.
+I would like to thank Michael Yoganayagam and Chris Ford for their assistance in drafting these remarks. I would also like to thank Andrew Bailey, Emma Butterworth, David Geale, John Jackson, Mike Jones, Harsh Mehta, Sasha Mills, Ali Moussavi, Tom Mutton and Dave Ramsden for their comments.
+Payments Vision Delivery Committee Update - GOV.UK
+Agentic commerce: How agents are ushering in a new era | McKinsey
+https://www.bankofengland.co.uk/payment-and-settlement/the-national-payments-vision/the-banks-engagement-on-retail-payments
+Strategy for future retail payments infrastructure - GOV.UK
+See Figure 11 of the PSR’s final report from its market review into the supply of card-acquiring services, based on data provided by the five largest card acquirer firms, which enable merchants to accept card payments, and which pass on some of the fees they charge to the card scheme (Visa/Mastercard) and to the payer’s bank.
+MR18/1.8 Market review into the supply of card-acquiring services: Final report | Payment Systems Regulator
+Latest PSR data is from 2018 – but more recent data from the British Retail Consortium suggest, for a smaller sample of merchants, that the cost of accepting card payments in
+2024
+is similar to that in
+2018
+.
+Figure 10,
+MR18/1.8 Market review into the supply of card-acquiring services: Final report | Payment Systems Regulator
+. Comparing the merchant services charges paid by merchants with less than £380,000 in annual card turnover and those paid by merchants with over £50mn in annual card turnover.
+Building trust and supporting innovation in the multi-moneyverse − speech by Sarah Breeden | Bank of England
+Bank of England launches consultation on regulating systemic stablecoins | Bank of England
+We demonstrated this and other use cases for tokenised money in tech experimentation we conducted with the Bank for International Settlements’ Innovation Hub in 2023:
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC
+.
+Common addressability refers to the ability uniquely to identify and transact with payment users outside a closed network. A globally consistent approach could facilitate the free exchange of different forms of money, reducing transactional frictions and broadening use cases for innovative payment products
+“While the majority of the Roadmap actions have been completed, these efforts have not yet translated into tangible improvements for end-users at the global level. It is unlikely that satisfactory improvements at the global level will be achieved in line with the 2027 Roadmap timetable. The Key Performance Indicators (KPIs) for 2025 show only a slight improvement at the global level since the KPIs were first calculated in 2023.”
+G20 Roadmap for Cross-border Payments: Consolidated progress report for 2025 - Financial Stability Board
+World Bank Remittance Prices Worldwide Quarterly
+In the latest monitoring report by the Bank for International Settlements’ Committee on Payments and Market Infrastructure, more than half of the 45 fast payment systems (FPS) surveyed were exploring or planning interlinking arrangements in 2024.
+Moving on up: results of the 2024 cross-border payments monitoring survey
+Not just token gestures − speech by Sarah Breeden | Bank of England
+Project Agora: exploring tokenisation of cross-border payments
+Principles for Financial Market Infrastructures (PFMI)
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Synchronisation Lab | Bank of England
+The Bank of England’s approach to innovation in money and payments | Bank of England
+Para 3.10,
+PVDC_Strategy.pdf
+This is also the logic, albeit in a wholesale financial markets rather than retail payments context, of the Bank-FCA
+Digital Securities Sandbox
+for firms seeking to launch real-world trading venues and settlement systems for tokenised assets. We have 16 firms preparing with regulators to launch these, starting later this year.
+This is also the logic, albeit in a wholesale financial markets rather than retail payments context, of the Bank-FCA
+Digital Securities Sandbox
+for firms seeking to launch real-world trading venues and settlement systems for tokenised assets. We have 16 firms preparing with regulators to launch these, starting later this year.
+Close
+Para 3.10,
+PVDC_Strategy.pdf
+Close
+The Bank of England’s approach to innovation in money and payments | Bank of England
+Close
+Synchronisation Lab | Bank of England
+Close
+Bank of England publishes policy for omnibus accounts in RTGS | Bank of England
+Close
+Principles for Financial Market Infrastructures (PFMI)
+Close
+Project Agora: exploring tokenisation of cross-border payments
+Close
+Not just token gestures − speech by Sarah Breeden | Bank of England
+Close
+In the latest monitoring report by the Bank for International Settlements’ Committee on Payments and Market Infrastructure, more than half of the 45 fast payment systems (FPS) surveyed were exploring or planning interlinking arrangements in 2024.
+Moving on up: results of the 2024 cross-border payments monitoring survey
+Close
+World Bank Remittance Prices Worldwide Quarterly
+Close
+“While the majority of the Roadmap actions have been completed, these efforts have not yet translated into tangible improvements for end-users at the global level. It is unlikely that satisfactory improvements at the global level will be achieved in line with the 2027 Roadmap timetable. The Key Performance Indicators (KPIs) for 2025 show only a slight improvement at the global level since the KPIs were first calculated in 2023.”
+G20 Roadmap for Cross-border Payments: Consolidated progress report for 2025 - Financial Stability Board
+Close
+Common addressability refers to the ability uniquely to identify and transact with payment users outside a closed network. A globally consistent approach could facilitate the free exchange of different forms of money, reducing transactional frictions and broadening use cases for innovative payment products
+Close
+We demonstrated this and other use cases for tokenised money in tech experimentation we conducted with the Bank for International Settlements’ Innovation Hub in 2023:
+Project Rosalind: developing prototypes for an application programming interface to distribute retail CBDC
+.
+Close
+Bank of England launches consultation on regulating systemic stablecoins | Bank of England
+Close
+Building trust and supporting innovation in the multi-moneyverse − speech by Sarah Breeden | Bank of England
+Close
+Figure 10,
+MR18/1.8 Market review into the supply of card-acquiring services: Final report | Payment Systems Regulator
+. Comparing the merchant services charges paid by merchants with less than £380,000 in annual card turnover and those paid by merchants with over £50mn in annual card turnover.
+Close
+See Figure 11 of the PSR’s final report from its market review into the supply of card-acquiring services, based on data provided by the five largest card acquirer firms, which enable merchants to accept card payments, and which pass on some of the fees they charge to the card scheme (Visa/Mastercard) and to the payer’s bank.
+MR18/1.8 Market review into the supply of card-acquiring services: Final report | Payment Systems Regulator
+Latest PSR data is from 2018 – but more recent data from the British Retail Consortium suggest, for a smaller sample of merchants, that the cost of accepting card payments in
+2024
+is similar to that in
+2018
+.
+Close
+Strategy for future retail payments infrastructure - GOV.UK
+Close
+https://www.bankofengland.co.uk/payment-and-settlement/the-national-payments-vision/the-banks-engagement-on-retail-payments
+Close
+Agentic commerce: How agents are ushering in a new era | McKinsey
+Close
+Payments Vision Delivery Committee Update - GOV.UK
+Close
+Sarah Breeden
+Deputy Governor, Financial Stability
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

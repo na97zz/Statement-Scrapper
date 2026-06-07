@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Innovation and the Evolving Financial Landscape",
+  "date_original": "2024-05-15",
+  "date_au": "15/05/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240515a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-15 - Michelle W. Bowman - Innovation and the Evolving Financial Landscape.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-15 - Michelle W. Bowman - Innovation and the Evolving Financial Landscape.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "62b1d42323dfcbbdc4e95cefffe21b416e208f23930043009db140d4857c6686"
+}

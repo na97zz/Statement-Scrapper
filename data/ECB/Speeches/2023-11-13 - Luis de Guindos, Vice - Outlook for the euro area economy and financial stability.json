@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Outlook for the euro area economy and financial stability",
+  "date_original": "2023-11-13",
+  "date_au": "13/11/2023",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231113~c3716415a6.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-11-13 - Luis de Guindos, Vice - Outlook for the euro area economy and financial stability.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-11-13 - Luis de Guindos, Vice - Outlook for the euro area economy and financial stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b3f9d40e17e6ed6a911b047a8bb8d5a40c2d2b35758de56770d123d4fe115786"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Important Questions for Economic Research",
+  "date_original": "2023-04-21",
+  "date_au": "21/04/2023",
+  "datetime_original": "",
+  "speaker": "Important Questions for Economic Research",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20230421a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-04-21 - Important Questions for Economic Research - Important Questions for Economic Research.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-04-21 - Important Questions for Economic Research - Important Questions for Economic Research.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "285f29fe9d070fca2fe9acff64142068efa13ddaf8d4ce1d3cab4b92171087f4"
+}

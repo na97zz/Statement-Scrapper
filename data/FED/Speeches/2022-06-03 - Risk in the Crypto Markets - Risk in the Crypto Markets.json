@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Risk in the Crypto Markets",
+  "date_original": "2022-06-03",
+  "date_au": "03/06/2022",
+  "datetime_original": "",
+  "speaker": "Risk in the Crypto Markets",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20220603a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-06-03 - Risk in the Crypto Markets - Risk in the Crypto Markets.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-06-03 - Risk in the Crypto Markets - Risk in the Crypto Markets.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b279005175a2c9f1c2b764393316d9db24f601eb213492af17ae6e6a6ccd96d1"
+}

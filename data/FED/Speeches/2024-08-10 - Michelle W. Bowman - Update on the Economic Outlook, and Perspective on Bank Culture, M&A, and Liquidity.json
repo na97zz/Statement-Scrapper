@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Update on the Economic Outlook, and Perspective on Bank Culture, M&A, and Liquidity",
+  "date_original": "2024-08-10",
+  "date_au": "10/08/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240810a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-08-10 - Michelle W. Bowman - Update on the Economic Outlook, and Perspective on Bank Culture, M&A, and Liquidity.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-08-10 - Michelle W. Bowman - Update on the Economic Outlook, and Perspective on Bank Culture, M&A, and Liquidity.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "610014e00df0dafc8356c9e5b159fecb1f601a6c3d900b925d064badc22a7bb3"
+}

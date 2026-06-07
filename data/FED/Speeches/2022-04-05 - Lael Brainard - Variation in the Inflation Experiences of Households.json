@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Variation in the Inflation Experiences of Households",
+  "date_original": "2022-04-05",
+  "date_au": "05/04/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220405a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-04-05 - Lael Brainard - Variation in the Inflation Experiences of Households.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-04-05 - Lael Brainard - Variation in the Inflation Experiences of Households.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "24a97b209a07ab7485280683d41db3841d4e026bf8bf841167113f5130857c0c"
+}

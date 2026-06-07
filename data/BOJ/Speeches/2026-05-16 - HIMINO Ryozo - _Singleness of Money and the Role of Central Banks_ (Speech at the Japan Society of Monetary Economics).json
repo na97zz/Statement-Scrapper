@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Singleness of Money and the Role of Central Banks\" (Speech at the Japan Society of Monetary Economics)",
+  "date_original": "2026-05-16",
+  "date_au": "16/05/2026",
+  "datetime_original": "",
+  "speaker": "HIMINO Ryozo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260516a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-05-16 - HIMINO Ryozo - _Singleness of Money and the Role of Central Banks_ (Speech at the Japan Society of Monetary Economics).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-05-16 - HIMINO Ryozo - _Singleness of Money and the Role of Central Banks_ (Speech at the Japan Society of Monetary Economics).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "18cf800c9964bfdf454bb162195ff01a9f5bcd82b33abe671f2a5175ab338f1f"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Latinos, Entrepreneurs, and the U.S. Economy",
+  "date_original": "2025-03-25",
+  "date_au": "25/03/2025",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250325a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-03-25 - Adriana D. Kugler - Latinos, Entrepreneurs, and the U.S. Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-03-25 - Adriana D. Kugler - Latinos, Entrepreneurs, and the U.S. Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3b382852ae52fee40deb1cf14693718d4006e66bd129456d92b4bcfccfcc0c46"
+}

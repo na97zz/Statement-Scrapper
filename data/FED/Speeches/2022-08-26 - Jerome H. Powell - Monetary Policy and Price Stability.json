@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Monetary Policy and Price Stability",
+  "date_original": "2022-08-26",
+  "date_au": "26/08/2022",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-08-26 - Jerome H. Powell - Monetary Policy and Price Stability.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-08-26 - Jerome H. Powell - Monetary Policy and Price Stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "35612d81a5e238f2e68c5a46ac1e8f67d553bb2c89c63f2601ac6cb423c2c4ed"
+}

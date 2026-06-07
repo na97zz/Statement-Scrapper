@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Some reflections on Monetary Policy past, present and future − speech by Michael Saunders",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Michael Saunders",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/july/michael-saunders-speech-at-the-resolution-foundation",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Michael Saunders - Some reflections on Monetary Policy past, present and future − speech by Michael Saunders.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Michael Saunders - Some reflections on Monetary Policy past, present and future − speech by Michael Saunders.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:18:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8970955a08cc67efd33007338c01bbc38fe2c31325184c4582cc9522e749cbe5"
+}

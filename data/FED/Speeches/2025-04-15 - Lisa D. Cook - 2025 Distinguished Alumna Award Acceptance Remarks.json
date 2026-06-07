@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "2025 Distinguished Alumna Award Acceptance Remarks",
+  "date_original": "2025-04-15",
+  "date_au": "15/04/2025",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20250415a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-04-15 - Lisa D. Cook - 2025 Distinguished Alumna Award Acceptance Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-04-15 - Lisa D. Cook - 2025 Distinguished Alumna Award Acceptance Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:55:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7f2b1bd66953f7c003048d78efa25a8022dad635b6498a2abd231e7eced81593"
+}

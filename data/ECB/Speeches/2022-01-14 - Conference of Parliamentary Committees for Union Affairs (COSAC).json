@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Conference of Parliamentary Committees for Union Affairs (COSAC)",
+  "date_original": "2022-01-14",
+  "date_au": "14/01/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220114~fe1e70ec1a.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-01-14 - Conference of Parliamentary Committees for Union Affairs (COSAC).html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-01-14 - Conference of Parliamentary Committees for Union Affairs (COSAC).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bb1990ece7fa56bc70133c6c81f8dac2d83f53953aafdc9f94a645d9c77818ed"
+}

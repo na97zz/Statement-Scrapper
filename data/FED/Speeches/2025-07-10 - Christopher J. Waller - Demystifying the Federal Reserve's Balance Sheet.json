@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Demystifying the Federal Reserve's Balance Sheet",
+  "date_original": "2025-07-10",
+  "date_au": "10/07/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250710a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-10 - Christopher J. Waller - Demystifying the Federal Reserve's Balance Sheet.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-10 - Christopher J. Waller - Demystifying the Federal Reserve's Balance Sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "53e44d800602c7e71be3106fcf64d347979770704691351a714c7ac6f98d2424"
+}

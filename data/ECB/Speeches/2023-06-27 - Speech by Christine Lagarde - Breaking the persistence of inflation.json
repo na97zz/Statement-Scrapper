@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Breaking the persistence of inflation",
+  "date_original": "2023-06-27",
+  "date_au": "27/06/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230627~b8694e47c8.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-06-27 - Speech by Christine Lagarde - Breaking the persistence of inflation.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-06-27 - Speech by Christine Lagarde - Breaking the persistence of inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5915620cb87ae7b471b9b798b57b499823bccbf0139d9af8dab689fb189a993f"
+}

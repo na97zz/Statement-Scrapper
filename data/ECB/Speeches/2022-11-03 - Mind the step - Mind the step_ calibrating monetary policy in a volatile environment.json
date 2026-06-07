@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Mind the step: calibrating monetary policy in a volatile environment",
+  "date_original": "2022-11-03",
+  "date_au": "03/11/2022",
+  "datetime_original": "",
+  "speaker": "Mind the step",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp221103~881bc2c186.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-11-03 - Mind the step - Mind the step_ calibrating monetary policy in a volatile environment.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-11-03 - Mind the step - Mind the step_ calibrating monetary policy in a volatile environment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ee651bf74271090e02e89f9c63a5a06ff3d7283626ff9fd4386862cfc03b7adb"
+}

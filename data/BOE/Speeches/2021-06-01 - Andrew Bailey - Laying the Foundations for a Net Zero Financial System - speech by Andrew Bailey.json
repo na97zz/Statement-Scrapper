@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Laying the Foundations for a Net Zero Financial System - speech by Andrew Bailey",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/november/andrew-bailey-speech-at-cop26-laying-the-foundations-for-a-net-zero-financial-system",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - Laying the Foundations for a Net Zero Financial System - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - Laying the Foundations for a Net Zero Financial System - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "43826fd9988dd730872c087ddac084ab40abf722107ee3fd890b6b07cfce592f"
+}

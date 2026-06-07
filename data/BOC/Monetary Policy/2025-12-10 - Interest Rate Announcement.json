@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Interest Rate Announcement",
+  "date_original": "2025-12-10",
+  "date_au": "10/12/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2025/12/interest-rate-announcement-december-10-2025/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2025-12-10 - Interest Rate Announcement.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2025-12-10 - Interest Rate Announcement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a41fd2a858cb55e487cfcdc70a2933ed7ffad07c2d1388f1bf95b8c6d2f32bbf"
+}

@@ -1,0 +1,145 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: A system-wide approach to system-wide resilience: CCPs and their users − speech by Sarah Breeden
+DATE: 01/06/2025
+SPEAKER: Sarah Breeden
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/may/sarah-breeden-keynote-address-at-the-international-swaps-and-derivatives-association
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+A system-wide approach to system-wide resilience: CCPs and their users − speech by Sarah Breeden
+Given at ISDA Annual General Meeting, Amsterdam
+Published on 
+
+ 14 May 2025
+In this speech Sarah sets out the critical role of central counterparties and the importance of a system-wide approach to regulating them to ensure their actions, whilst prudent from a micro-prudential perspective, do not amplify shocks in times of stress. She discusses the role that CCP users play in reducing financial stability risks, including by being prepared, and the importance of measures to improve resilience in core markets.
+Speech
+I wanted to start by saying what a pleasure it is to be here with you today. ISDA has been instrumental in setting global standards and promoting best practices in the derivatives industry. Your tireless efforts in advocating for robust risk management frameworks and transparent market practices have significantly contributed to the stability and resilience of the financial system.
+In many markets, central clearing, including of derivatives, plays a hugely important role in managing risks and maintaining resilience. Day in, day out, CCPs (central counterparties) clear trillions of pounds worth of contracts, bringing profound benefits to the stability and efficiency of the financial system. One of their key benefits, both from a safety and an efficiency perspective, is their ability to simplify the web of connections between market participants through multilateral netting. Through their margining practices, CCPs also help to set a common baseline of risk management for all market participants. And CCPs enhance the transparency of default management. If a member defaults, the CCP is entrusted to manage the default and minimise costs for all: a cost it may then share among the members if not covered by the initial margin (IM). If this is all done predictably – in line with their rulebooks – then the CCP removes uncertainty from markets in times of stress. Let’s not forget – Lehman’s cleared exposures were managed without loss after its default.
+Given the critical role they play, ensuring the resilience of CCPs is central to our work at the central bank.
+footnote
+[1]
+But ensuring the stability of individual CCPs, while necessary, is not sufficient for financial stability. As central nodes in the financial system, CCPs’ actions can affect confidence and risk behaviour across the financial system, affecting the ability of others to provide vital services. It is important, therefore, that in our regulation of CCPs we take a macro-prudential approach, considering risks to financial stability in the UK and globally and this is what I want to focus on in my remarks today.
+The Margining Trilemma and the Role of Procyclicality
+Margining practices are a key example where actions of one firm, although prudent from an individual, micro-prudential, firm perspective, have the potential to contribute to macro-prudential financial stability risks.
+Margins play a vital role in managing counterparty credit risk. They are likely to vary as the market environment changes to better reflect counterparty credit risk. However, whilst calling higher margin in stressed markets will increase protection for the CCP and its members if a counterparty defaults, it may also increase liquidity demand at a time when liquidity is likely to be scarce leading to a procyclical response. If market participants are not adequately prepared, this could lead to counterparty default or a liquidation of positions if firms cannot maintain their risk exposures. Such asset liquidations can then exacerbate price moves, potentially generating a self-reinforcing spiral.
+These dynamics contributed to stress during the dash for cash episode in 2020.
+footnote
+[2]
+They were also evident in the commodity crisis of early 2022 and were seen in bilateral markets in the gilt market dysfunction in autumn 2022
+footnote
+[3]
+.
+We should expect CCPs to raise margins in these events. But we also expect CCPs to hold enough margin when markets are calm that the increases are not unmanageable for participants. (Of course, we should also expect participants to be prepared – as I’ll come on to later).
+Indeed, we can think of margin practices as a trade-off, or trilemma, between different risks. The models CCPs use to calculate their initial margin can be scored along three different dimensions: (i) coverage: how well does the margin cover the poster’s risk; (ii) cost: how expensive is the margin requirement over time; and (iii) reactivity: how jumpy is it in times of market volatility/stress. And if the model doesn’t score well in any of these dimensions, there may be an emerging risk to financial stability. We might imagine there is a “family” of risk models (and therefore margin levels) inside a “safe zone” where all three dimensions score well: enough coverage, not too reactive, and not too expensive.
+Whilst current regulatory requirements do set some constraints – e.g. risk coverage must always be met, and models shouldn’t be too reactive – there is a reasonable amount of discretion available to CCPs. Indeed, what could be deemed as “too jumpy” for one market with smaller end users might be “just fine” for another market with large banks.
+It is something we expect the CCPs to think very carefully about when calibrating their models. Indeed, it is part of their duty to be aware of the impact of their margin calls on their membership, and to take seriously the feedback from their members, for example who sit on their risk committees. This is something we explore in our supervisory reviews, as well as when looking at models. Given inevitable pressures to lower margins in the good times, it is essential for us all to maintain a focus on what might happen in bad times.
+Transparency and Margin Preparedness
+Transparency and predictability in margin practices is also critical. In our System Wide Exploratory Scenario (SWES), we found there were material differences between clearing members’ and CCP’s projections for initial margin calls. While in the SWES we found an overestimation by clearing members, in other contexts we could see an underestimation – if, for example, stress follows an extended period of low volatility, as seen in the dash for cash and commodity stresses.
+So, what is being done? Since 2022, the Bank has been an active contributor to the international work streams that build on the BCBS-CPMI-IOSCO review of margining practices published in September 2022.
+footnote
+[4]
+The key policy outcomes of these work streams have culminated in a set of proposals which aim to increase the resilience of the centrally and non-centrally cleared market ecosystem in times of stress. Among these you will find:
+Proposals to improve centrally cleared market participants’ understanding of potential future margin requirements, as a result of more transparent CCP margin models and governance arrangements that seek input from participants when designing or changing the frameworks used for assessing margin.
+Recommendations to enhance the liquidity preparedness of non-bank market participants for margin and collateral calls, in centrally and non-centrally cleared derivatives and securities markets.
+And importantly the recommendations highlighted the need for all market participants to conduct liquidity stress tests for margin and collateral calls – including to ensure reliable sources of liquidity.
+This year, we will start to implement the recommendations domestically and continue working with international standard setting bodies to embed the proposals into the existing frameworks of international standards for Financial Market Infrastructures
+footnote
+[5]
+.
+Part of the benefit of taking a macro-prudential approach is that we recognise that not all of the responsibility for addressing financial stability risks sits solely with CCPs. Indeed, the better prepared market participants are for bad times, the more resilient the system can be to shocks.
+On that theme, I wanted to highlight the FSB work on NBFI leverage. We and the FSB are grateful for the feedback we have received on the consultation paper – including from ISDA – and we are taking this seriously as we look to finalise its recommendations. We remain committed to addressing financial stability risks arising from leverage in NBFIs through improved risk identification and monitoring, a combination of policy measures and enhanced cross-border collaboration.
+In a similar vein, our experience in September 2022 and our SWES have underscored vulnerabilities in the gilt repo market and the potential for dysfunction to threaten financial stability and the real economy. In November 2024 the Financial Policy Committee (the UK’s macroprudential authority) welcomed further work to consider how to improve resilience in gilt repo markets.
+footnote
+[6]
+And so, we will start a conversation with industry via a Discussion Paper (DP) later this year on possible reforms to market structure to enhance gilt repo market resilience. The DP will be exploratory and will aim to gather views from market participants on potential options to help mitigate vulnerabilities, including greater central clearing of gilt repo and minimum haircuts on non-centrally cleared repos. We will share more information on our planned engagement in due course and look forward to market participants’ input and views on these issues.
+Portfolio Margining
+Another area where participant behaviour might be sensible from an individual firm perspective but potentially create risks at a system-wide level is portfolio margining. For example, participants (including CCPs) liquidate a defaulting counterparty’s position as a portfolio, not contract by contract, and so portfolio margining allows them to account for reductions in risk that come from hedged or diversified portfolios.
+footnote
+[7]
+Not accounting for this risk reduction would result in margin being set to cover more extreme market moves than margin is designed for.
+Whilst this portfolio approach makes sense at a micro-prudential level for an individual firm, it may have the side effect of facilitating increased leverage in the system as a whole. Take for example the cash-futures basis trade,
+footnote
+[8]
+where the amount of leverage a participant can take depends on both the repo haircut and the initial margin rate of the future. The repo leg is usually done at zero or near-zero haircuts, given competitive pressures and as dealers are able to net potential counterparty credit risk on repo with margins paid on the offsetting future.
+How this works in practice for CCPs depends on the local market structure. The CCP that clears the repo is often different to the CCP that clears the future, so if the trader is clearing both legs of the basis trade, they could be paying two sets of initial margin. But in the case of cross-CCP margining, margin is based on the net risk position across multiple CCPs, on the assumption that the CCPs will cooperate to manage the position as a single portfolio in the event of default. Should that link between CCPs break down, for whatever reason, including for operational reasons, unexpected extra margin could be significant. Such arrangements put a premium on ensuring CCP resilience, including in stress.
+Cross-margining arrangements like these which utilise off-setting positions rely in general on assumptions about correlation. Events from a few weeks ago demonstrated how correlations can break down in stress. We saw key breaks in US swap spreads and a de-correlation of US equity prices and interest rates. It is essential, therefore, that participants, including CCPs, apply conservative assumptions around correlation breaks and unexpected shocks to prepare for scenarios where relationships between correlated products become less predictable or unreliable – including where moves may be amplified by market concentration or illiquidity.
+Of course, portfolio margining also occurs in non-centrally cleared markets, in which case it is the dealer offering portfolio margining rather than the CCP. According to a 2023 report from the Office of Financial Research, over 70% of bilateral US Treasury repo is conducted at zero haircut.
+footnote
+[9]
+Even where official netting agreements do not exist, balance sheet allocations may be set up in a way that assumes certain correlations will hold. For example, prime brokers may be incentivised to lend very cheaply to clients they conduct equity business with. Sudden changes in correlations or sharp movements in market prices may result in sharp corrections in balance sheet allocation. In turn this may lead to contraction in funding and liquidity in core markets. And that may quickly have real economy impacts.
+The Importance of Operational Resilience
+I wanted to finish by noting that robust margining practices, whilst providing numerous benefits as I set out up front, often rely on quite complex operational process. The ability for CCPs to fulfil their central role in the financial system hinges on them remaining operationally resilient. As we face a landscape characterised by rapid technological change and heightened geopolitical tensions, our expectations of their operational resilience, including to cyber risk, have to evolve. We know incidents happen, but identifying the greatest financial stability risks, transmission channels, and ensuring there are robust recovery capabilities is crucial to limiting wider disruption of financial markets. CCPs must navigate these dynamics to mitigate risks and avoid amplifying threats to the broader financial system.
+footnote
+[10]
+Conclusion
+Let me conclude. A macro-prudential approach to the supervision of CCPs is essential given their central role in the financial system. Our supervisory approach needs to ensure their actions, whilst prudent from a micro-prudential perspective, do not amplify shocks in times of stress. In doing so, we should work with our international partners to ensure margining practices, in centrally and non-centrally cleared markets, are robust and do not lead to excessive pro-cyclicality or facilitate excessive leverage in the system. And we should minimise the chances of operational incidents leading to financial stability risks. But taking a macro-prudential approach also means considering how broader developments will impact the derivatives markets. Broader reforms to address the risks from NBFI leverage and
+improve resilience in core markets are a necessary part of ensuring financial stability too.
+I would like to thank Max English, Gerardo Ferrara, Amy Middleton, Francine Robb, Nicola Shadbolt, Sadi-Mae Wilson and Michael Wood for their assistance in preparing this speech. I would also like to thank Andrew Bailey, Jon Hall, Barry King, Harsh Mehta, Sasha Mills, David Rule for their advice and comments.
+The Bank of England is responsible for regulating and supervising CCPs in the UK. Our approach is underpinned by four principles: our supervision is judgement based; forward looking; focused on key risks; and proportionate.
+Bank of England Financial Stability Paper No. 47
+Financial Stability Report - December 2022 | Bank of England
+and
+Financial Stability Report - July 2022 | Bank of England
+CPMI-IOSCO Review of Margining Practices, September 2022
+.
+CPMI-IOSCO’s Further Guidance on the Principles for Financial Market Infrastructure (i.e. international guidance for financial market infrastructures) and other relevant CPMI-IOSCO documents.
+Financial Policy Committee Record – November 2024 | Bank of England
+For example, if the member has offsetting positions in two highly correlated products then the cost of liquidating the positions together will be lower than the sum of the two individual exposures. Alternatively, if the member has a diversified portfolio then this could also carry lower risks, as the probability of all exposures within the portfolio simultaneously facing a very extreme shock is lower.
+Government bonds often trade cheaper than their futures because your outlay is higher to buy a bond. This can make it profitable – at zero market risk – to buy a bond and sell the future. And you can leverage this trade with repo: if you lend the bond, and buy another with the cash you receive you can sell a second future and double your position. This serves an economic function by providing liquidity to futures markets, but creates a risk explained further down in the main body.
+Key Finding on Non-centrally Cleared Repo | Office of Financial Research
+Our
+Operational Resilience Policy
+sets out our expectations on actions FMIs should undertake to achieve a level of operational resilience which the Bank finds sufficient, to ensure minimisation of the likelihood of operational disruptions and mitigating and recovering from a disruption. In March 2024 the FPC also set out its approach to operational resilience from a macroprudential perspective -
+Financial Stability in Focus: The FPC’s macroprudential approach to operational resilience | Bank of England
+Our
+Operational Resilience Policy
+sets out our expectations on actions FMIs should undertake to achieve a level of operational resilience which the Bank finds sufficient, to ensure minimisation of the likelihood of operational disruptions and mitigating and recovering from a disruption. In March 2024 the FPC also set out its approach to operational resilience from a macroprudential perspective -
+Financial Stability in Focus: The FPC’s macroprudential approach to operational resilience | Bank of England
+Close
+Key Finding on Non-centrally Cleared Repo | Office of Financial Research
+Close
+Government bonds often trade cheaper than their futures because your outlay is higher to buy a bond. This can make it profitable – at zero market risk – to buy a bond and sell the future. And you can leverage this trade with repo: if you lend the bond, and buy another with the cash you receive you can sell a second future and double your position. This serves an economic function by providing liquidity to futures markets, but creates a risk explained further down in the main body.
+Close
+For example, if the member has offsetting positions in two highly correlated products then the cost of liquidating the positions together will be lower than the sum of the two individual exposures. Alternatively, if the member has a diversified portfolio then this could also carry lower risks, as the probability of all exposures within the portfolio simultaneously facing a very extreme shock is lower.
+Close
+Financial Policy Committee Record – November 2024 | Bank of England
+Close
+CPMI-IOSCO’s Further Guidance on the Principles for Financial Market Infrastructure (i.e. international guidance for financial market infrastructures) and other relevant CPMI-IOSCO documents.
+Close
+CPMI-IOSCO Review of Margining Practices, September 2022
+.
+Close
+Financial Stability Report - December 2022 | Bank of England
+and
+Financial Stability Report - July 2022 | Bank of England
+Close
+Bank of England Financial Stability Paper No. 47
+Close
+The Bank of England is responsible for regulating and supervising CCPs in the UK. Our approach is underpinned by four principles: our supervision is judgement based; forward looking; focused on key risks; and proportionate.
+Close
+Convert this page to PDF
+Sarah Breeden
+Deputy Governor, Financial Stability
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

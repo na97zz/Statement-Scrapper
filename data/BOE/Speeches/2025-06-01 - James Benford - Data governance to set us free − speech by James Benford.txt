@@ -1,0 +1,328 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Data governance to set us free − speech by James Benford
+DATE: 01/06/2025
+SPEAKER: James Benford
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/may/james-benford-speaking-at-the-gartner-data-and-analytics-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Data governance to set us free − speech by James Benford
+Given at the Gartner Data & Analytics Summit
+Published on 
+
+ 13 May 2025
+Data governance helps organisations protect and maximise the value of data. It helps solve collective problems, especially in complex institutions. James speaks about three areas: a data strategy to align around priorities; coherent management of data and information; and enabling innovation with AI. He talks through how the Bank of England does this, and how a collaborative and inclusive culture and a deliberate yet humble approach play a part in doing it well.
+Speech
+Introduction
+Good afternoon.
+It’s a pleasure to be here today to talk about data governance.
+Governance helps tackle collective challenges - that no individual person or team can solve alone.
+One of the biggest challenges is alignment. When teams are aligned around common priorities, progress is rapid. When they are not, progress stalls.
+Consider investment decisions - data platforms, the care spent organising data, structured training. These are all public goods. And like any public good, they are vulnerable to underinvestment and the tragedy of the commons.
+Governance is critical to managing change. Data come with legal and ethical obligations. But how do we meet those standards while remaining open to innovation?
+Governance challenges go back centuries. But with vast data networks, distributed decisions, and powerful tools like AI, the stakes have never been higher.
+footnote
+[1]
+The Bank of England is no stranger to them. Like many organisations, we are still on a journey to make the best possible use of data.
+footnote
+[2]
+footnote
+[3]
+Today, I would like to explore the contribution that data governance can make across three dimensions.
+Aligning around a cohesive strategy
+.
+Guiding consistency in how data are managed
+.
+Enabling innovation, in particular the expanding use of artificial intelligence (AI)
+.
+We have by no means cracked it at the Bank. But by being open about our challenges and evolving approach, I hope our experience can help others.
+Together, they show what governance makes possible: alignment so that we can deliver; investment to build strong foundations; confidence to innovate and grow.
+Data governance to set us free.
+The Bank's mission, its people, and the value of data
+Before I get into the challenges, I need to tell you a bit about the Bank.
+We ensure monetary stability by setting interest rates to meet our inflation target of 2%. We ensure financial stability by regulating UK banks, building societies, insurers and large investment firms to make sure they are being run in a safe way. We manage risks to stability in the financial system and take action when necessary. We produce and circulate banknotes and oversee the smooth running of payment systems. When necessary, we support the financial system by lending to it. When firms face difficulties, we stand ready to resolve them whilst protecting depositors, taxpayers and the wider economy.
+footnote
+[4]
+footnote
+[5]
+We rely on high-quality data to underpin the decisions we make.
+The Bank is unusual due to the enormous breadth of data we need, to gain granular insights into what is happening in the economy, and wider financial system.
+We generate some of this data through our own operations – running the country’s payments system, managing the collateral of loan books that banks bring to us and distributing bank notes. Like all organisations, management information on our people and finances are critical for decision making.
+But the majority of the data that we rely on comes from outside the Bank.
+We collate and publish over 35,000 monetary and financial statistics, including critical benchmarks like SONIA
+footnote
+[6]
+– the average interest rate in sterling unsecured money markets. We do that through a system of around 30 data collections from over 2,000 reporters. The business of regulation is very data heavy, with the volume of regulatory data collections around an order of magnitude larger. Our largest dataset, from trade repositories, amounts to 100 million rows of new data every day. We also acquire large volumes of data commercially, or through agreements with the Office for National Statistics (ONS) and government departments.
+Our work with data is distributed right across the organisation. We are a range of highly analytical, data-driven people at the Bank. Each of our teams rely on accurate, timely and trustworthy information to make critical decisions.
+footnote
+[7]
+Before ten years ago, we had no central data team. Teams across the Bank looked after their data using largely local systems. Our central data area was set up in 2015 to bring more order to things.
+A data & analytics strategy that is built together, for everyone
+Our first big challenge is how to keep these disparate functions cohesive and coherent in their use of data.
+How do we align everyone around a shared goal – making the best use of data to fulfil the Bank’s mission?
+An internal review in 2023, concluded that though we were making good progress in some areas, we needed a new approach. It set out three key areas for action:
+Agreeing a clear, shared strategy for data and analytics.
+Breaking down institutional, cultural, and technological barriers to connect siloes across the organisation.
+Broadening and deepening our investments in people.
+In response, we set up a Data and Analytics Board at Executive level, with a representative from each area of the Bank, including our enabling functions. It is chaired jointly between our data and technology areas. We worked together to publish a new strategy and 3-year roadmap in July last year.
+The strategic objectives we are working towards drive three key benefits for the organisation: efficiency, effectiveness and risk reduction. We measure things quantitatively – the value of time saved – and qualitatively – drawing on surveys of user experience and risk reporting.
+We have three missions framing the capabilities that we needed to build to get there: making it easy to work with and analyse data; bridge data gaps to increase the value of data we collect and share; enable safe and effective innovation, including AI
+And those missions are underpinned by two foundations: a new data platform on the cloud, and data fluency training for all.
+Our motto is change that is “built together, for everyone”.
+footnote
+[8]
+We agreed principles
+footnote
+[9]
+to guide a common approach, with colleagues in technology drawing up a consistent target data and technology architecture. We set up a dedicated data portfolio bringing together our major programmes of change into a new Data Transformation Programmes division.
+Business-facing programmes are led by local needs but build capabilities the whole organisation can use on a common foundation, our new enterprise data platform on the cloud.
+A dedicated data design authority keeps us aligned. We have established a team of data business partners to work with business areas to understand their priorities, and identify challenges and opportunities.
+A little under a year on, what have we achieved?
+Cloud for data:
+We have set up a new, secure environment to safely work with data on the cloud. Development areas have been provisioned for our priority programmes and exemplar use cases.
+Skills and culture:
+We have designed and launched new data fluency foundation training, aimed at all roles, integrating within graduate and experienced hire inductions, and put in place more in-depth apprenticeship programmes from school leaver to Master’s level.
+Making it easy to work with data:
+We have taken steps to simplify our governance policies and mapped all our data. That mapping is being used to organise the Bank into domains, which will take ownership of the data they are expert in and make it available to meet the needs of the organisation as a whole. We have an agreed design now for one of our priority applications on our data platform – an environment for economists to work in, supporting monetary policy. The build of that environment is about to start. It will go live in the middle of next year, and we expect to have migrated key processes - including production of forecasts - by Spring 2027. Broader priorities are being met, with new products ranging from a people insights dashboard to a supervisory dashboard emerging.
+Closing data gaps, including how we share data externally:
+We have moved our statistical data onto the cloud and have built a new application to interrogate it. It is already improving the quality of our data. In time it will allow us to realise efficiencies and improve how we make the data available publicly. Our Transforming Data Collection team won an award for work last year to make life easier for reporters by improving the information we make available to them. We are now agreeing with industry how we can best streamline regulatory data collections from banks. More broadly, we have moved to an enterprise model for our commercial acquisitions, unlocking over £1 million of value for us annually, and begun to broaden our connections to administrative data in government.
+Enabling safe and effective innovation, including AI:
+We have trialled the use of AI assistants, and had our first roll out with over 1,000 colleagues using general assistants and around 300 using coding assistants. We have also assembled a portfolio of bespoke AI applications, a number of which are now going into production. This work is helping to shape requirements for how we manage unstructured data.
+We have an agreed model to measure the efficiency benefits on our data programmes and will soon launch a new annual Data & Analytics survey to assess whether the strategy is working for everyone.
+More importantly, what have we learned?
+For me, the single most important factor for success on any given dimension has been strong alignment around clear, resourced priorities. An inclusive and collaborative culture is completely critical for that. Bringing together our big pieces of change into a common portfolio, having the right multi-disciplinary teams and a strong partnership between technology and data have all been critical for cohesion. Building broader partnerships based on mutual trust is being greatly helped by our data business partners. The team has catalysed the setting out of local data strategies in a common language and run vital Data and AI ‘Connect’ sessions to promote a shared understanding of how these fit with plans in the centre.
+Inevitably, no plan survives the test of time. The landscape can change and priorities shift. This is normal and, when it happens, initiatives must stay aligned to strategic outcomes. Managing programmes as a portfolio and being clear on dependencies helps keep decisions coherent, particularly for foundational components. More broadly a clear focus on business outcomes is critical. Yes, there is a need to improve data fluency across organisations, but business fluency in the data teams is just as important.
+Governing data management: Maturing from giving instructions to defining a central service
+Our journey to the cloud is giving us the chance to revisit our approach to data management. It is complex to get right in a federated set up, but core to our first mission to make it easy for everyone to work with data.
+Four central teams – an analytics enablement hub, a data management hub, a data collection hub, and a skills and culture hub – are critical to the cohesive system we are trying to build.
+Analytics Enablement
+Our Analytics Enablement Hub acts as a one-stop shop for consultancy and advice relating to analytics and visualisation tools in the Bank. It has now partnered on 40 projects with over 30 different teams. These range from automating manual Excel processes to developing new tools using Language Models. It also helps areas understand the analytical underpinning of their core business processes. The hub has also supported teams to set up big data projects on our on-premise data platform. That includes, for example, transaction level data on derivatives and securities financing, loan-level data on mortgage lending, and company-level data on balance sheets and profitability.
+As well as maturing our analytical work, the hub itself has improved the quality of the documentation and meta-data around the datasets involved.
+Data Management
+Our Data Management Hub leads the Bank in making our data easy to find and use, by defining what needs to be done, who is responsible, and providing services to support them. The hub also engages with owners of datasets across the Bank, to ensure they are properly documented. Over 2,000 datasets are now registered. This has proved harder to get right, and I will come onto the lessons there in a moment.
+It runs the Bank’s Reference and Master Data Management (MDM) service, ensuring oversight of our most critical and widely used datasets. The initial customer was our markets and banking area, ensuring we had a single trusted source of the truth on our counterparties, and on data like exchange rates and bond prices - critical for valuing our positions. But since it was set up, we have broadened the service to capture needs across the organisation, further enriching counterparty information and geospatial data, such as enhancing analysis on the impact of flooding on UK firms.
+footnote
+[10]
+The team has automated the daily process to measure the value of Sterling relative to our trading partners. We now cover 2.2 million parties with Legal Entity Identifiers (LEIs)
+footnote
+[11]
+, including around 400 Firm Reference Numbers and 70,000 Company Registration Numbers. Next month, we will enhance our published authoritative list of the firms the Bank has authorised with LEIs.
+Looking further ahead, we plan to include all 1,300 PRA-regulated firms and an additional 5 million parties from Companies House. We are also working closely with the ONS to improve access to their business register. Doing so would reduce our costs, improve the quality of - and enhance our understanding of - monetary and economic statistics, thus improving decisions supporting monetary and financial stability.
+The hub also engages with owners of datasets across the Bank, to ensure they are properly documented. Over 2,000 datasets are now registered. This has proved harder to get right, and I will come onto the lessons there in a moment.
+Data collection
+Our Data Collection Hub
+helps teams follow the right processes for acquiring data from outside the Bank or generating it through a new collection. Its purpose is to make sure we bring in data once and well, then make it available strategically to maximise its value to the organisation. When we design a new data collection, we do so with reference to what we have already, seeking to make use of common standards and to avoid duplication across collections. We extended this service last year to the acquisition of commercial data sets. A stronger, enterprise-wide approach here has already generated over £1 million of value annually and we expect that to increase further.
+Skill and culture
+Our
+Skills and Culture Hub’s
+data fluency initiative empowers everyone to speak a common language when working with data, supporting colleagues to work confidently with data across its lifecycle. It curates a set of self-led online training courses available to all, including a data and AI fluency foundation that is recommended for all. It runs instructor-led sessions in more technical areas like coding. We delivered 1500 training places through our community of data scientists over the past year. Looking ahead, we are looking to build stronger career pathways for those in data roles and build a stronger profession.
+The challenge of managing data collectively
+Overall, the various central functions we have set up are working well. They are maturing in depth and breadth. In some areas - including how we bring data into the building; master and reference data; and curating learning resources - greater central control is demonstrably driving more value. Our central analytics hub has been great at driving value and building skills by spreading best practice.
+But there are two areas where we have struggled and have further to go.
+The first is
+achieving sufficient consistency in the management of datasets
+across the Bank, including those that are not managed centrally. It is a classic collective action problem. It benefits everyone to have datasets that are easy to find, understand and relate to each other. But where responsibilities are distributed, that outcome can be harder to achieve.
+A second area is managing our data collections across the financial sector. In some ways, that creates a similar collective problem at a different scale. High quality statistics and regulatory data rely on consistent flows of data from over 2,000 reporters in the financial system. Many hands and many machines are involved in that supply chain. The costs involved are substantial.
+Across both the core challenge is:
+How best to manage data collectively to maximise its value?
+Defining data management as a federated service
+Internally, an important lesson has been to view data management as a federated service.
+This entails a shift from data management being a ‘governance’ activity – something people did because we pushed them to do it – to a service-driven activity – something people do because they want to.
+We worked with our User-Centred Service Design team to agree an underpinning set of principles to get buy-in across the organisation on the purpose of, and facets to, good data management.
+The overarching principle is that data are valuable, shared assets. We can maximise value by making data widely available, easy to use and understand, whilst ensuring data are protected and not misused.
+Bringing the service to life means getting four things right:
+First
+, a proportionate vision for service maturity. All data need to have basic information registered. But where data are widely used or feed into critical processes, it becomes instrumental to dedicate resources to supporting ease of access, use and quality for our users. We are increasingly tending toward managing these assets centrally.
+Second
+, the assignment of clear responsibilities across the federation. We are working through which datasets will be managed centrally and which will be managed by teams across the Bank that are expert in them. Importantly, even where data is managed locally, it still needs to take into account the broader needs for it across the Bank.
+Third,
+establish and mature support functions in the centre. Federated teams managing their own data draw on the data management hubs ‘registration’ service to publish their data. Those looking for data draw on its ‘find’ service.
+Fourth
+, establish priorities. We have already identified priorities through our cloud journey and so are focusing on re-defining how our federation works for those customers first. We are also looking at how we tag our documents as we move them to the cloud, with an eye to our AI use cases.
+Resetting our approach to data collections
+Externally, an important feature to our approach is to establish a strong collaboration with industry and partner regulators. We have a joint transformation programme with the Financial Conduct Authority, to exploit synergies and enable a consistent approach. We have an advisory board from industry to oversee what we do, and an Industry Data Standards Committee to make recommendations on reporting standards. Engagement with industry has been critical to our well-received work to improve instructions on statistical returns.
+The overall scale of the task is substantial.
+A survey we ran last year suggested reporting cost the UK banking system is £1.5-2.0 billion per annum. Our work to reduce those costs is an important contribution to the PRA’s secondary competitiveness and growth objective. We will secure quick wins this year by deleting a first swathe of redundant regulatory collections and introducing a new portal to facilitate firms’ interactions with the PRA, starting with the authorisations process. We will see if there are redundancies in our statistical collections too. At the same time, we will be building a joint vision with the firms that we collect from on how to take further costs out. Alongside dropping collections, this will likely entail work to make instructions clear through integrated data standards and steps to streamline the processes. We are consulting firms, starting with a meeting of Chief Financial Officers next week, on the interventions that will be most impactful for them.
+Governing Artificial Intelligence
+The opportunities and challenges with the latest wave of AI advancements.
+My last area is Artificial Intelligence.
+With the latest wave of advancements, particularly in Generative AI, we’re seeing
+four fundamental shifts
+that signal not just progress, but a revolution in how we harness data and build solutions. This time it is different.
+First, there’s the enormous step change in the power and complexity.
+The Bank’s core central macroeconomic forecasting model contains 175 parameters. In contrast, the largest AI models count over 405 billion parameters.
+These models can adapt to an incredibly broad range of new tasks and power complex applications.
+footnote
+[12]
+But it can be very difficult to understand and explain their inner workings. They risk becoming the ultimate ‘black boxes’.
+Second, all data are now in scope.
+AI models can process numbers, text, video, sound, and images, often all at once.
+Data from our interactions with AI systems can help to shape their future behaviours – creating an increasingly dynamic, but also increasingly complex, interaction between humans and machines.
+This raises issues around acceptable use: whose data are we using and does the use meet legal requirements and ethical standards?
+Third everyone can use them.
+AI solutions now supply the capability of interacting in natural language. Everyone can use them. It’s why our Governor, Andrew Bailey, described it as having the hallmarks of a general-purpose technology – the kind of technology that reshapes how we work.
+footnote
+[13]
+Wider access brings opportunity – but also risk. Without clear standards, guidance, or the right skills in place, we risk creating blind spots and unintended consequences.
+Fourth, everyone can be a builder of AI solutions.
+People are now also able to use AI to build their own solutions, or agents, tailored to suit their own workflows.
+This could change the productivity of transformation work itself: accelerating change, quickly unlocking the automation of workflows. Where we allow agents to take actions on our behalf, we are at least changing the position of humans in the loop. Care is needed to understand the broad systems we are building and ensure we are able to manage them at both an individual and an organisational level.
+What AI is already enabling
+I will touch briefly on how our use of AI is changing. We have found from our roll out of AI assistants, that time savings for the general users are 5-10%. For those who do a lot of work in code, or manage a lot of correspondence, they can be substantially larger.
+Writing code with the help of AI is
+accelerating our transformation efforts
+. The code that powers our 35,000 statistics has built up over two and a half decades. Each aggregate is a complex system of equations. Moving that onto our new cloud platform would have taken several months of work by hand. With AI generating modern code and testing it has been cut down to days.
+We have built quite a few variants of
+chatbots
+. We’ve fed query correspondence history into AI tools to curate FAQ documents that can then guide suggested answers. And we’ve built a tool that will allow everyone in the Bank to query our many corporate policies, lifting the load on our compliance team.
+Our most involved and complex applications are trying to put more shape around how we
+capture, process and store information from unstructured sources
+.
+One application is the conversations we have with firms to monitor the economy, where we are building an application that allows a summary of key themes, and the drilling into what has been said about particular issues, whilst protecting sensitive information.
+A second relates to the vast amounts of unstructured data on the firms that we supervise – their disclosures, analyst reports, their internal board and risk packs – with a structured workflow using AI to extract summary reports, highlighting areas for deeper investigation.
+We are now looking at how we scale innovation with AI to take full advantages of the latest tools on offer.
+Which leads us to our third and final challenge:
+How do we adapt our governance approach to AI, to enable safe and effective innovation?
+Emphasising a TRUSTED approach to building AI solutions
+We started by describing seven the principles underpinning our use of AI, to support decision-making at scale – what it means for AI systems to be TRUSTED:
+footnote
+[14]
+T
+argeted. We must focus tightly defined use cases, tied to our strategy and mission, and generating measurable value.
+R
+eliable. We aim for reliable AI systems that perform to a high standard and are grounded in high-quality data. For load bearing applications, we seek to constrain or at least reference model outputs to high quality data that we trust. In some cases, this means using smaller models to do the work.
+U
+nderstood. AI systems, and the data that underlie them, need to be transparent and comprehensible. Training is critical.
+S
+ecure. We proactively address potential threats, through clear terms of use, robust security measures, and privacy controls.
+T
+ested. We conducting robust testing, discuss and document risks, and put mitigants in place.
+E
+thical. Now that there are so many more possibilities for leveraging data, the question of what is the right and ethical thing to do is all the more important. Clear frameworks are required here.
+D
+urable. We focus on creating sustainable AI systems, where the benefits exceed the costs.
+We are now putting those TRUSTED principles into practice.
+First, we have put in place an
+Artificial Intelligence Policy
+to make clear how to use AI responsibly, what to do and who to reach out to for advice. It is there to enable teams to make their own decisions on the use of AI tools, rather than to draw all decisions to a bottleneck in the centre.
+Second, we have also drawn up a
+Data, Analytics and AI Ethics Framework
+to outline the foundational principles, incorporating ethics, that we have regard to when we work and innovate with data and analytics, including AI. It includes a tool to allow a self-assessment of a use case and guide to escalation.
+Third, we are developing an
+Artificial Intelligence Strategy
+to guide prioritisation of central support to scale. Our approach prioritises quick routes to efficiency gains and favours blended teams across data, technology and business areas.
+Fourth, we have established an
+Artificial Intelligence and Data Ethics Committee
+, to govern once and well. This committee meets once a month so we can make progress rapidly. Again, it is jointly between data and technology.
+Fifth, we recently launched a Bank-wide
+Data Fluency Foundation
+, which includes AI. We are building on this with a curated library of training on AI, a lot of which is freely available, and are setting up knowledge-sharing channels. As we further roll out AI assistants, we are looking at what of our AI training to make mandatory.
+Our AI policy comprises of five elements.
+There is a list of approved tools
+with prescribed uses
+There are certain tools that are prohibited
+and certain business activities where we do not use AI.
+We do not use AI to make decisions
+.
+The use of AI in the Bank is guarded by our AI Policy
+and other existing policies. We also have an
+AI Ethics Framework
+which staff can use to judge whether that they are seeking to do is safe. We use this Framework to test out riskier use cases of AI, e.g. when using AI on sensitive data. Innovation through AI needs to be:
+Beneficial and scientifically rigorous
+Fair and inclusive
+Transparent and secure
+Compliant and accountable
+To help colleagues apply these principles, we are giving them a self-assessment tool, to review it from an ethics standpoint.
+We need to accommodate change
+… because AI is moving quickly. Tools are coming online now to enable the whole organisation to get involved in the development of AI tools. We are looking at what is sensible here but are taking our time. Scaling citizen development safely and effectively requires clear guardrails, the right operating model between technology, data and the business, as well as a strong focus on training.
+That may sound like a lot of governance. But this is governance to enable and be deliberate about change. Our experience showed that, without clear direction and guardrails, uncertainty on what is allowed and how to get decisions can stifle innovation.
+Conclusion
+To other organisations navigating their data governance journey, I offer three final thoughts:
+First, success in any strategy rests as much in
+culture
+as it does in content.
+Particularly for data, the best chance of success comes through collaboration and inclusion: a
+data strategy that is built together for everyone
+. Inclusive decision-making, business partner teams to connect, and an approach that empowers by equipping teams in the business with the access, tools and skills they need are critical ingredients.
+I would also advocate for
+humility
+. Each of the challenges we've faced on our journey to make the best possible use of data has required us to pause, reframe, and design with the end-user in mind. And whilst we have made meaningful progress, we are still very much on that journey. We won't solve everything in one go. But by staying
+transparent, engaged externally and open to learning
+– we can better prepare for the future, not just react to it.
+Finally, I’d encourage you to see governance as the
+lever through which we exercise agency over our collective future
+. Done right, it holds us together so that we can deliver. It ensures we build systems that serve everyone. It gives us the confidence—and the courage—to innovate, to adapt, and to grow. It means the future is not something we await. It’s not something that the models have predicted for us. It’s something we shape.
+And that’s why, done right, data governance doesn’t hold us back.
+It sets us free.
+Thank you for listening.
+Acknowledgements
+I am grateful to Nivedita Prasad, Vanisa Pankhania and Miranda Hewkin Smith for their extensive work to prepare this speech.
+Thank you also to Andrew Bailey, Jelena Bjelanovic, David Bradnum, Scott Brind, Jane Cathrall, Matt Corder, Ben Crampton, Jem Davis, Lawrence Dimery, Nikhil D’Souza, Oliver Edwards, Adriana Fernandes, Lawrence Kay, Georgios Kyriakopoulos, Leslie Lambert, David Learmonth, Thinlay Lhamo, Angus Moir, Mileshree Naidu, Louisa Okikiolu, Pooja Prem, Phoebe Pryor-Hilliard, Will Parry, Luisa Pires, Arshadur Rahman, Noor Rassam, Jonathan Rez, Paul Robinson, Henry Tanner, Arthur Turrell, Coreena Tyler-Hussain, Stuart Watson, Dane Whittleston, Barry Willis and Emma Young for their support and contributions.
+Data management and use: Governance in the 21st century – A joint report by the British Academy and the Royal Society
+IEO evaluation of the Bank of England's use of data to support its policy objectives | Bank of England
+The Bank’s data and analytics strategy: a three-year roadmap | Bank of England
+A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford | Bank of England
+Enhancing our national asset: Maximising the value of data collections across the financial sector − speech by James Benford | Bank of England
+SONIA interest rate benchmark | Bank of England
+A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford | Bank of England
+A data revolution: Built together, for everyone - speech by James Benford | Bank of England
+We take a Bank-wide approach, work from shared systems, common data and collaborate on analysis. We start with business outcomes and enable experts in the business to build accessible tools for users to interrogate data; We manage our data consistently, securely, transparently, and ethically, promoting trust, extensive sharing, and safe innovation.
+Staying afloat: the impact of flooding on UK firms – Bank Underground
+The Legal Entity Identifier (LEI) is a 20-character, alpha-numeric code based on the ISO 17442 standard developed by the International Organization for Standardization (ISO), used to identify legal entities or structures including companies, charities, and trusts.
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford | Bank of England
+Growth: What does it take in today’s world? - Lecture by Andrew Bailey | Bank of England
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford | Bank of England
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford | Bank of England
+Close
+Growth: What does it take in today’s world? - Lecture by Andrew Bailey | Bank of England
+Close
+TRUSTED AI: Ethical, safe, and effective application of artificial intelligence at the Bank of England − speech by James Benford | Bank of England
+Close
+The Legal Entity Identifier (LEI) is a 20-character, alpha-numeric code based on the ISO 17442 standard developed by the International Organization for Standardization (ISO), used to identify legal entities or structures including companies, charities, and trusts.
+Close
+Staying afloat: the impact of flooding on UK firms – Bank Underground
+Close
+We take a Bank-wide approach, work from shared systems, common data and collaborate on analysis. We start with business outcomes and enable experts in the business to build accessible tools for users to interrogate data; We manage our data consistently, securely, transparently, and ethically, promoting trust, extensive sharing, and safe innovation.
+Close
+A data revolution: Built together, for everyone - speech by James Benford | Bank of England
+Close
+A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford | Bank of England
+Close
+SONIA interest rate benchmark | Bank of England
+Close
+Enhancing our national asset: Maximising the value of data collections across the financial sector − speech by James Benford | Bank of England
+Close
+A weathervane for a changing world: refreshing our data and analytics strategy − speech by James Benford | Bank of England
+Close
+The Bank’s data and analytics strategy: a three-year roadmap | Bank of England
+Close
+IEO evaluation of the Bank of England's use of data to support its policy objectives | Bank of England
+Close
+Data management and use: Governance in the 21st century – A joint report by the British Academy and the Royal Society
+Close
+James Benford
+Former Executive Director for Data and Analytics Transformation and Chief Data Officer from 2023 to 2025
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

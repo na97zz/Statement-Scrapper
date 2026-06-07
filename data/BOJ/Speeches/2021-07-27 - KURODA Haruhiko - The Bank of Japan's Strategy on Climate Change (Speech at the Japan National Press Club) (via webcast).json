@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "The Bank of Japan's Strategy on Climate Change (Speech at the Japan National Press Club) (via webcast)",
+  "date_original": "2021-07-27",
+  "date_au": "27/07/2021",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210727a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-07-27 - KURODA Haruhiko - The Bank of Japan's Strategy on Climate Change (Speech at the Japan National Press Club) (via webcast).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-07-27 - KURODA Haruhiko - The Bank of Japan's Strategy on Climate Change (Speech at the Japan National Press Club) (via webcast).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f6753804e898529283a148af36a7a7194f86648a1c6d73a79ceae0597058d49"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Wages and Prices: Past, Present, and Future\" (Speech at the Meeting of Councillors of Keidanren (Japan Business Federation) in Tokyo)",
+  "date_original": "2023-12-25",
+  "date_au": "25/12/2023",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko231225a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-12-25 - UEDA Kazuo - _Wages and Prices_ Past, Present, and Future_ (Speech at the Meeting of Councillors of Keidanren (Japan Business Federation).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-12-25 - UEDA Kazuo - _Wages and Prices_ Past, Present, and Future_ (Speech at the Meeting of Councillors of Keidanren (Japan Business Federation).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0fc7d151e26df85aff96bda54b49c8e9b5322039ab4bd83863da83432beccc28"
+}

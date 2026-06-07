@@ -1,0 +1,723 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Explaining the consumption gap - speech by Catherine L Mann
+DATE: 01/06/2025
+SPEAKER: Catherine L Mann
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/october/catherine-l-mann-keynote-speech-at-resolution-foundation
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Explaining the consumption gap - speech by Catherine L Mann
+Given at the Resolution Foundation
+Published on 
+
+ 09 October 2025
+Catherine L Mann highlights the gap in UK real consumption growth relative to its past trend. She explores four reasons: scarring, price level shifts, monetary policy, and uncertainty. Catherine discusses how these factors shape her outlook and inform her future monetary policy decisions.
+Speech
+Introduction
+The risks to the outlook for the UK economy are two-fold. Inflation remains persistently persistent and the outlook for growth remains modest. As a monetary policymaker I face a trade-off: leaning against upside inflation with tight(er) policy versus supporting economic growth with loose(r) policy. In
+my most recent speech
+, I laid out the research that supports my view that the upside inflation scenario from the
+May 2025 Monetary Policy Report
+is playing out; and I argued that policy needed to remain restrictive for longer both to squeeze out inflation persistence, but also to rein in expectations drift observed in the data.
+footnote
+[1]
+However, I also presented evidence of downside risks to GDP outcomes that warranted further examination to evaluate the probability that those risks would materialize.
+So today, I would like to focus on the weakness in demand, zeroing in on consumption. First, because consumption accounts for nearly two thirds of total GDP.
+footnote
+[2]
+Secondly, and importantly, judgements on the trajectories for consumption and the saving ratio have played a central role in the overall forecast on which I make monetary policy decisions. Risks to these judgements warrant research attention.
+footnote
+[3]
+In the following remarks, I will outline some of this research using aggregate, and importantly, disaggregated data that inform my outlook for consumption.
+Where we start is sobering: aggregate real household consumption in the UK is far from its pre-Covid trend, and the household saving ratio has risen to nearly 12% in recent quarters.
+footnote
+[4]
+By evaluating macro- and microdata and research I can evaluate the underpinnings of this consumption weakness, and what this means for the outlook for consumption growth over the monetary policy horizon and for the monetary policy stance.
+Aggregate economic activity
+In my last speech (
+Mann, 2025b
+), I introduced a new model produced by Bank staff using a quantile MIDAS regression approach that incorporates different types of activity data to quantify the likelihood of different GDP outcomes, to understand the distribution of risks around GDP growth (
+Mantoan and Verlander, 2025
+). Before turning to consumption, I show an update of the model-based forecast of the entire distribution of future GDP outcomes in
+Chart 1
+, which allows me to assess and quantify the downside risks to growth that concern me. I show the updated GDP nowcast distribution for September in aqua. Compared to earlier nowcasts this year, the distribution of possible GDP outcomes is wider and flatter – indicating a significant degree of uncertainty about future GDP growth.
+Chart 1: Distributions of GDP nowcasts from the Quantile MIDAS model
+Density plots of GDP nowcasts
+Footnotes
+Source:
+Mantoan and Verlander (2025)
+.
+Notes: Methodology using non-parametric distributions based on
+Mitchell et al. (2024)
+. One-quarter-ahead probability distributions for quarter-on-quarter GDP growth fitted from Quantile-MIDAS outputs to a non-parametric distribution. Monthly labels refer to the nowcast of the respective quarter of the year that the month falls in. For example, December 2024 represents quarter-on-quarter GDP growth for Q4 2024 based on data until December 2024.
+A significant mass of the distribution is in the left tail, and in negative growth territory. This indicates that downside risks to demand growth have increased and could materialize to varying degrees. Could this be driven by downside risks to consumption?
+To understand if consumption is a source of GDP weakness, we need to understand what drives it. I will therefore only focus on the consumption component of GDP. How much households can spend, save, and borrow is influenced by current economic conditions (including fiscal and monetary policy), their own financial situation (income, wealth, including through housing, and borrowing), and their expectations of the future. These expectations can include their view of the macroeconomy, inflation, interest rates, and job prospects.
+How has consumption fared so far? As the left panel of
+Chart 2
+shows, there was a clear upward trend in nominal and real consumption between 2011 and 2019. Since the pandemic and the energy shock caused by Russia’s invasion of Ukraine, even though nominal spending has returned to its historical trend, real consumption has flatlined. What explains this consumption gap – the persistent deviation of real consumption volumes from trend growth?
+Chart 2: Household nominal and real (disposable) income and consumption relative to trend
+Levels, 2019 Q4 = 100
+Footnotes
+Source: ONS and Bank calculations.
+Notes: Nominal household consumption is total household domestic expenditure excluding imputed rentals and financial intermediation services indirectly measured (FISIM). Real consumption is the nominal consumption measure deflated by the ONS cash basis household expenditure implied deflator. Nominal household income includes labor income, property income, interest receipts, and government transfers. Disposable income corresponds to nominal income minus taxes (including National Insurance contributions), interest payments on loans, and other transfers, and also corresponds to the ONS cash basis household disposable income measure. Real disposable income is disposable income deflated by the ONS cash basis household expenditure implied deflator. Dotted lines show a log-linear trend estimated over a 2011-2019 sample period. Latest data: Q2 2025.
+A key question about the gap is that real incomes (shown in the gold line on the right panel of
+Chart 2
+) – the most fundamental driver of consumption – have recently grown at rates similar to, or even slightly above the pre-Covid average again, albeit having shifted to a below-trend growth path. However, the wedge between the rise in nominal incomes (in pink) and real incomes (in gold) illustrates how much worse-off households are in real terms following the recent inflationary episode. The picture becomes even starker when looking at real disposable incomes (in purple), which have shifted even further below trend than real incomes. Partly responsible for this are frozen tax brackets, which (particularly in light of higher inflation) have dragged on households’ real disposable incomes, and consequently, their ability to spend, but higher interest payable has contributed to the downward shift in real incomes, too.
+footnote
+[5]
+In fact, around 65% of the difference between real incomes and real disposable incomes is accounted for by taxes and 13% by employee national insurance contributions in Q2 2025.
+footnote
+[6]
+The UK’s consumption gap is an outlier relative to its closest international peers.
+Chart 3
+shows that real consumption in the US and the euro area has returned to its trend growth rate, albeit having recovered from a smaller Covid drop, and to a slightly shallower trend than previously observed in the UK.
+Chart 3: International comparison of nominal and real consumption
+Levels, 2019 Q4 = 100
+Footnotes
+Source: Bureau of Economic Analysis, Eurostat, ONS and Bank calculations, update of Chart 5 in
+Mann (2024b)
+.
+Notes: The measures of UK household consumption (nominal and real) displayed in the left panel of Chart 3 differ from the measures used in Chart 2. In this chart, nominal household consumption includes individual consumption expenditure of households and non-profit institutions serving households, and real consumption is obtained by deflating nominal consumption with the consumption deflator. The measures used here allow us to make an international comparison for illustrative purposes, but with similar trends. Dotted lines show a log-linear trend estimated over a 2011-2019 sample period. Latest data: Q2 2025.
+Like other components of GDP and national accounts data, consumption data is revised annually in the ONS’s Blue Book revision, with the latest revision published only last month. The left panel of
+Chart 4
+shows the consumption trajectory before the Blue Book 2025 revisions in aqua – this is the information that fed into my August monetary policy decision. The revisions (in orange) not only change our picture on where consumption growth is now – they also revise our understanding of the past. Revising national accounts data, of course, is necessary and important, as more complete data are incorporated. However, this creates uncertainty from the monetary policymaker’s point of view on both past consumption and, consequently, our view of the future consumption path.
+Chart 4: Real consumption growth across Blue Book vintages
+Changes since 2019 Q4
+Footnotes
+Source: ONS and Bank calculations.
+Notes: The measures of UK household consumption displayed in Chart 4 differ from the measures used in Chart 2. In the left panel of Chart 4, real consumption is obtained by deflating nominal consumption (which includes individual consumption expenditure of households and non-profit institutions serving households) with the consumption deflator. This is to show the impact of data revisions and the consumption data used in the MPC’s forecast. In the right panel of Chart 4, investment includes business investment and gross fixed capital formation (GFCF), and statistical discrepancy and other includes stocks. Latest data: Q2 2025.
+The right panel of
+Chart 4
+confirms that consumption is the main drag on otherwise positive GDP revisions.
+Consumption and the saving ratio are two sides of the same coin – revisions to consumption also imply a revised understanding of households’ saving behavior in the economy. The household saving ratio is a particular area where I feel we have been making key judgement calls as part of the monetary policy decision-making process. Can we assess the magnitude and implications of those calls?
+Evaluating forecast errors of the saving ratio is challenging for various reasons. Annual Blue Book revisions mean we cannot make time-consistent evaluations of our forecasting ability beyond one year ahead. Once a new Blue Book comes out, we cannot evaluate the performance of a forecast from one year before on this new, revised information because it was not available to the forecaster at the time of the forecast.
+Chart 5
+therefore outlines our forecasts of the household saving ratio, split by Blue Book iterations, so as to only compare forecasts that were based on the same understanding of past outturns. On the left, I show the four forecasts following the Blue Book 2023 revisions. Comparing the pink line to the evolution of the forecasts shows that we tended to underestimate the saving ratio. On the right-hand side, I show the four forecasts following the Blue Book 2024 revisions, which show a better track record.
+Chart 5: Households’ saving ratios across Blue Book and forecast vintages
+Percent
+Footnotes
+Source: ONS and Bank calculations.
+Notes: Solid lines show households’ saving ratio outturns and Blue Book revisions from 2023, 2024, and 2025. Dashed lines show saving ratios from the MPC’s respective forecasts.
+This is not a true forecast evaluation. While I do control for Blue Book revisions, I omit news to the profile from changes in the conditioning assumptions of the forecast, and thus these charts are an incomplete exploration of true forecast errors. But, this is not my intention. The point is: should households engage in more precautionary saving behavior than projected, there would be a downside risk to consumption. This judgement call – this risk – is one that I am paying particular attention to and looking for evidence to understand. In other words, we have persistently projected the saving ratio to fall, but we are yet to see this play out in a sustained way in the data outturns. That is why it is such a large judgement call for me.
+To summarize this section: at the aggregate level, downside risks to near-term GDP growth have risen, but are more dispersed. Real consumption is weak, and recent Blue Book revisions have revised down consumption growth over the past, potentially changing our view on the outlook for future consumption as well. Volatility in the paths for the saving ratio creates uncertainty about the risks to consumption. This highlights the importance of looking at more disaggregated data to better understand the source of consumption underperformance relative to its historical trend. For the purpose of this speech, I will focus on exploring how (1) the recent inflationary episode, (2) the impact of higher interest rates, and (3) uncertainty and volatility in prices have affected household consumption and may explain consumption weakness, and hence this gap.
+The recent inflation episode and the price level shift
+How has the recent inflation episode affected household perceptions and experience of inflation? Between the global financial crisis and the pandemic, prices rose by just under our 2% target per year, on average. So, price level shifts and inflation were both modest.
+Chart 6
+shows that if that trajectory (in purple) had continued, prices would now be around 10% higher than at the end of 2019. But following the inflation surge in 2021-22, prices are now 30% higher – a three-fold increase in the price level relative to their pre-Covid trajectory. This means that UK households have experienced 12 years of inflation in a little over 2 years. This importantly has contributed to the stark wedge between nominal and real disposable incomes that I showed in the right panel of
+Chart 2
+.
+Chart 6: Consumer Price Index, with pre- and post-energy shock trends
+Levels, 2019 Q4 = 100
+Footnotes
+Source: ONS and Bank Calculations.
+Notes: Dotted lines show a log-linear trend estimated over 2011-2019 (in purple) and 2023-2025 (in orange). Latest data: August 2025.
+Even as
+inflation
+has returned closer to our 2% target since its peak, we should remind ourselves of the fact that the cumulative increase in the price level does not just “wash out” of the consumer psyche when inflation returns to target.
+First, the price level per se will not fall – and when households talk about the “cost of living”, it is the jump in the price level that they often refer to, not necessarily the inflation rate. In the latest Bank of England/Ipsos Inflation Attitudes Survey, when asking respondents what was influencing their inflation expectations, 33% of respondents cited past price changes ‘over the longer term’, double the share of respondents in 2019. This suggests that not only do a significant share of households form their expectations of future inflation in a backward-looking way, but an increasing share of respondents forms their inflation expectations today based on how prices have evolved in comparison to an earlier period some years ago, likely relative to the pre-Covid period I show in
+Chart 6
+.
+Second, research shows that consumers who have experienced difficult economic times learn from these episodes – they become more pessimistic about their personal finances and continue to spend less for many more years.
+footnote
+[7]
+Some areas of research have highlighted the impact of pandemics on consumer behavior and find a higher desire to save due to precautionary motives (
+Jordà et al., 2022
+). Others, using US data, suggest that people’s personal inflation experiences are important for their expectations and decision-making (
+Malmendier
+and Nagel, 2016
+), including the decisions of monetary policymakers (
+Malmendier
+et al., 2021
+). Research, using a panel of countries including the US and the euro area, finds that households are also more attentive to inflation in an environment where inflation is already high (
+Weber et al., 2025
+).
+In addition to different perceptions about the inflation rate versus the cumulative change in the price level, households’ experience of inflation can differ based on the types of goods and services they consume, which in turn can also influence their inflation expectations and consumption decisions. The consumer price index, the measure we use for our 2% inflation target, is constructed using a representative basket of goods and services that the typical household in the UK consumes. As a
+representative
+index, it does not consider heterogeneity across households.
+When forming their inflation expectations, households might not consider CPI as their reference index, and instead form expectations based on their own experienced inflation rate.
+footnote
+[8]
+In
+Chart 7
+, I plot Household Cost Indices (HCIs), which show how different groups of households – specifically across different deciles of the income distribution – have experienced changes in prices over the past years, based on what they consume. HCIs weight goods and services consumed by specific household groups to construct their experienced inflation rates, which differ based on the relative importance of specific items in these households’ consumption baskets. The indices also include owner occupiers’ housing costs and the cost of interest payments on debt, such as mortgages.
+Chart 7: Household Cost Indices across income deciles
+Percentage point contributions from (non-)discretionary items to household costs
+Footnotes
+Source: ONS and Bank calculations.
+Notes: Chart shows Household Cost Indices since January 2022 for the 2
+nd
+, 5
+th
+, and 9
+th
+disposable income decile. Non-discretionary items include food and non-alcoholic beverages, housing, water, electricity, gas and fuels (COICOP codes 01 and 04), and discretionary items include all remaining COICOP categories of expenditure at division level.
+The first point I would like to make is that household costs (the aqua line) did not rise equally across income deciles – they rose more at the lower end of the income distribution over 2022-23 (left panel of
+Chart 7
+). This largely reflects the higher share of spending on essentials (orange bars) relative to discretionary items (purple bars) compared to higher-income households. It also implies that lower-income households had less scope to cut spending compared to their higher-income counterparts, whose cost increases were relatively more impacted by discretionary items.
+footnote
+[9]
+We can break down the costs of essential items into further subcategories to explore specific drivers of consumers’ personal inflation rates.
+Chart 8
+plots the same HCIs, splitting the essential (non-discretionary) category into individual components. Food and non-alcoholic beverages (in orange) and energy prices (in gold) contributed to a majority of the increase in low- and middle-income households’ cost of living throughout 2022 and 2023.
+footnote
+[10]
+The impact of these two categories on households’ experienced inflation rates is particularly relevant due to their salience in households’ expectation formation.
+Anesti et al. (2025)
+show that households’ inflation perceptions and expectations are particularly sensitive (and persistent) to their experienced food price-driven inflation, indicating that these items have a lot of weight in households’ expectations and decisions.
+Finally, housing costs were also an important contributor to households’ cost of living, although to different extents. As
+Chart 8
+shows, lower-income households were particularly affected by higher rents (in blue), especially throughout 2024, while households at the upper end of the income distribution were more affected by mortgage interest payments (in pink). This reflects that low-income households are predominantly renters, while a majority of high-income households either have a mortgage or own their property outright. That affects the strength of the cash-flow channel of monetary policy transmission through mortgage rates, which I discuss in more detail in my section on the impact of monetary policy on consumption.
+Chart 8: Household Cost Indices across income deciles
+Percentage point contributions from (non-)discretionary items to household costs
+Footnotes
+Source: ONS and Bank calculations.
+Notes: Chart shows Household Cost Indices since January 2022 for the 2
+nd
+, 5
+th
+, and 9
+th
+disposable income decile. Discretionary items include all COICOP categories of expenditure except codes 01 and 04.
+To summarize this section: the large cumulative shift in the price level has affected households’ real incomes and likely continues to affect consumer behavior even as the inflation rate has moderated. Further, consumers do not just pay attention to CPI inflation, but also to their experienced inflation rates, which differ in overall level and composition across income deciles. For the next section, I will therefore use a combination of survey evidence and estimated consumption elasticities to hypothesize on potential scarring effects on consumers from this inflationary episode.
+Has the series of adverse shocks scarred consumers?
+To answer the question on whether the inflation shock since 2021 is a possible explanation for the UK consumption gap, we can use empirical work to link the impacts of past inflationary supply shocks to consumption volumes. Negative supply shocks, such as a surge in energy prices, can generate scarring effects that may reinforce and prolong the inflationary impact of supply disruptions
+(Fornaro and Wolf, 2023)
+. The resulting drop in wealth induced by these negative supply shocks (mainly through the fall in firm investment that reduces the economy’s future productive capacity) depresses consumers’ demand, and hysteresis may amplify and prolong the rise in inflation triggered by these shocks.
+Chart 9
+shows the impulse response functions of the consumer price index on the left, and the associated real consumption responses on the right-hand side, split by goods and services, to a supply-side shock normalized to increase the consumer price index by 1 percent at peak. Real goods consumption falls by more than 1.5% following the shock, whereas real services consumption falls only by around a third of that, and not always statistically significantly so. The effect on consumption remains negative throughout our forecast horizon. So, consumer responses in terms of real consumption volumes could be expected more in goods than in services. Goods consumption reflects around 50% of total consumption.
+footnote
+[11]
+Chart 9: Impulse response functions to an inflationary supply shock
+Consumer Price Index (LHS), real goods and services consumption (RHS)
+Footnotes
+Source: ONS,
+Känzig (2021)
+and Bank calculations.
+Notes: The impulse response functions are derived from a structural VAR model estimated from 1997 to 2019. The solid line shows the median response, and shaded areas denote the 68% credibility intervals. The impulse response functions are scaled to increase the consumer price index by 1 percent at peak. The supply shock is proxied using a high frequency identified instrument by
+Känzig (2021)
+.
+In addition to looking at the aggregate consumption response to an inflationary shock, we can turn to evidence from household surveys to see how the different inflation experiences I presented in
+Charts 7 and 8
+earlier have influenced people’s consumption behavior. The left panel of
+Chart 10
+shows a snapshot of responses to a question about changes in spending behavior across income quintiles in response to the increased cost of living, taken at the peak of the cost-of-living crisis in Q3 2022, from the Bank of England/NMG Survey of Household Finances. It shows that different experiences of the cost of certain items and their relevance in households’ consumption baskets have shaped households’ consumption behavior during the inflationary period.
+Chart 10: Share of respondents changing expenditure in response to cost of living (LHS) and inflation expectations (RHS)
+Q3 2022 (LHS), 2018-2025 (RHS)
+Footnotes
+Source: Bank of England/NMG Survey of Household Finances, Bank of England/Ipsos Inflation Attitudes Survey and Bank calculations.
+Notes: The left chart shows the share of respondents in the Bank of England/NMG Survey of Household Finances responding to how their total spending has changed due to the increase in the cost of living over the past six months at the time of the survey. Asked to respondents who said that the cost of everything they would normally buy has increased compared to six months ago. Survey conducted between 30 August and 17 September 2022. The right chart shows the share of respondents in the Bank of England/Ipsos Inflation Attitudes Survey responding to which actions (if any) they are taking, or planning to take, in light of their expectations of price changes over the next twelve months. Surveys conducted between February 2018 and August 2025.
+Lower-income households sought to limit the rise in their costs by reducing the quantity of goods and services they bought or by substituting towards cheaper products to cut spending in real terms (orange bars). This is consistent with findings in the literature, which show that inflation inequality during the cost of living crisis was driven by systematically higher price growth for lower-quality goods, which are disproportionately consumed by lower-income households (
+Chen et al., 2025
+). On average, higher-income households have continued to consume similar goods and services as before and have therefore spent more overall (shown in the purple bars), indicating that they smoothed through the cost-of-living shock (
+Herler and Tasker, 2022
+).
+These results reflect consumer behavior at the height of the cost-of-living crisis. Have these changes in consumption behavior persisted? Data from the Bank of England/Ipsos Inflation Attitudes Survey suggests yes. The data, shown in the right-hand panel of
+Chart 10
+, shows the self-reported actions of survey respondents in light of their expected price changes over the coming year. An increasing share of households wants to buy better value goods and services (in purple), and more than half of respondents are still cutting back spending and trying to save more (orange line), up from 30% in mid-2019. This is consistent with the continued lack of strong real consumption growth observed in
+Chart 2
+. The survey evidence suggests that households’ experiences during the inflation surge have affected their consumption behavior even after inflation has moderated.
+The large cumulative price level shift and scarring from it could continue to affect consumption in the future. The survey evidence suggests that consumers have become more sensitive to price changes overall, and adjust their consumption as a result. To test this empirically, Brandt and Panjwani (2025) estimate consumers’ demand elasticities of different goods and services.
+Chart 11
+shows how demand elasticities of five expenditure categories have evolved relative to 2019. As demand curves slope downwards, more negative values represent more price-elastic demand, meaning that consumption quantities adjust more to a given change in prices. The sensitivity to price changes for most categories rose following the pandemic and energy shocks, indicating that demand became more sensitive to price changes as consumer trends shifted. Even as the inflationary effects of these shocks have attenuated, the price sensitivity has remained elevated in more discretionary (restaurants and hotels), and more energy-intensive (transport) sectors.
+Chart 11: Demand elasticities of different consumption categories over time
+Elasticity (LHS) and elasticity indexed to 2019 = -1 (RHS)
+Footnotes
+Source: Brandt and Panjwani (2025).
+Notes: The charts show weighted elasticities constructed from structural VARs of prices and quantities at granular consumption category level. The models are identified using sign restrictions and estimated on a rolling window basis. The price elasticity of demand within each consumption category is defined as the ratio of the response of quantities to the response of prices to a supply shock on impact.
+Finally, we know from CPI microdata that I have presented
+before
+that the share of prices changing month-on-month rose over the high-inflationary period (
+Brandt et al., 2024
+). Together with the evidence on higher price elasticities (and volatility, a topic I will return to later), these patterns represent an incentive for consumers to postpone consumption.
+Household responses to higher interest rates
+As a monetary policymaker I acknowledge that higher interest rates have a role to play in consumption weakness. Indeed, households are key to the monetary policy transmission mechanism. As inflation rose significantly above our 2% target in 2021-22, monetary policy had to respond aggressively to avoid inflation becoming embedded
+footnote
+[12]
+and to bring inflation back to target sustainably in the medium term. But consumption would be affected directly, too.
+Raising real and nominal interest rates can reduce consumption through various channels – (i) by making interest payments on debt, particularly mortgages, more expensive, thereby dragging on disposable income and consumption (cash-flow channel), (ii) by higher interest payments on deposits and loans, which makes saving more, and borrowing less attractive (intertemporal substitution), (iii) by lowering aggregate demand in the economy, which reduces the demand for labor and raises the likelihood of unemployment, thereby dragging on wage growth, and (iv) wealth effects (such as lower house prices), which households may look to replace by increasing their savings (
+Burr and Willems, 2024
+). In terms of explaining the consumption gap, this section will review research and empirical evidence on a subset of these channels.
+Empirical estimates of the impact on aggregate consumption
+How much of the current consumption weakness is attributable to tight monetary policy over the last few years? It is hard to exactly quantify this, especially in a time where various shocks are affecting consumption. We can, however, analyze how monetary policy has transmitted to aggregate consumption over the past, using local projections to evaluate the strength and speed of transmission across different types of goods and services. Analysis by Bank staff shows that a monetary policy shock that increases Bank Rate by 100 basis points can reduce domestic expenditure by up to 2% at its peak impact, and the effect persists over several years. The initial decline in consumption happens fairly quickly, with a reduction in expenditure observable after around two quarters. Monetary policy lags are therefore shorter than sometimes asserted.
+When breaking down expenditure into goods and services, the analysis finds that goods consumption falls by more than services in response to a monetary policy shock (see the left panel of
+Chart 12
+). If we split goods consumption further into durables and non-durables, we find that the difference is predominantly driven by durables, as the right panel of
+Chart 12
+shows. Durable goods are relatively expensive compared to non-durables, which means that if consumers buy them when interest rates are higher, they either forego higher returns on their savings, or face higher costs when purchasing them with credit. This means that the opportunity cost of buying them is higher, and hence their consumption is more sensitive to interest rates.
+Chart 12: Impulse response functions of consumption to a contractionary monetary policy shock
+Real goods and services consumption (LHS), real durable and non-durable goods consumption (RHS)
+Footnotes
+Source: ONS and Bank calculations.
+Notes: The impulse response functions are derived from a local projection model estimated over the period 1997–2019. The solid lines represent the median responses, while the shaded areas indicate 68% confidence intervals. The responses are scaled to reflect a 1 percentage point monetary policy shock to the target factor, identified using
+Braun et al.'s (2025)
+high-frequency shock series.
+Goods consumption represents around 50% of total consumption. Within goods consumption, durables are under 10% of total consumption, and non-durables 22%. So, on balance, while the impact of monetary policy on durables consumption is notable, this effect is not particularly significant in explaining the overall consumption gap.
+In addition to influencing realized aggregate consumption, monetary policy also influences households’ expectations (for instance of inflation, interest rates, or the state of the economy). When households are forward-looking, monetary policy can affect their consumption decisions much sooner than the results I showed in
+Chart 12
+suggest.
+I have
+previously
+highlighted the importance of new types of data and methodologies to inform my decision-making. To show an example of that, using high-frequency card-level spending data from the UK and Google search data, Brandt et al. (2025) find that in response to a monetary policy shock that increases the one-year gilt yield by 100 basis points, aggregate consumer spending declines by nearly 0.4% within a few days of the shock, shown in
+Chart 13
+. This consumption response is predominantly driven by a decline in discretionary spending, which I highlighted earlier as an important margin of adjustment for higher-income households, who account for a large proportion of aggregate consumption in the economy.
+footnote
+[13]
+Their findings also show that web searches for terms related to unemployment rise contemporaneously, indicating that this result is driven by a deterioration of expectations about households’ economic prospects. Unemployment risk is a key driver of precautionary saving, too.
+footnote
+[14]
+Chart 13: Impulse response functions to a contractionary monetary policy shock
+Consumption response (LHS), unemployment web search response (RHS)
+Footnotes
+Source: Brandt et al. (2025).
+Notes: The impulse response functions show the reaction of endogenous variables to a monetary policy shock which increases short-term interest rates by 1 percentage point. They are derived from a Bayesian proxy-SVAR in daily frequency identified by the path factor of
+Braun et al. (2025)
+. Shaded areas show 68% and 95% credibility bands. The model includes real spending on credit and debit cards in the UK, the first principal component of Google searches related to unemployment, online vacancies postings, one-year gilt yields, corporate bond spreads, and a measure of consumer prices.
+This impact is driven via households’ knee-jerk behavioral response rather than the direct monetary policy transmission channels outlined above. But, this could still matter to explain consumption weakness through expectations.
+Buda et al. (2023)
+corroborate these findings using data from Spain, observing a substantial decline in consumption five days following a monetary policy shock. When aggregating the daily data to quarterly frequency, these effects disappear. Quarterly data could mask important dynamics which are captured by higher-frequency data, including a fast response of households via changes in their expectations. Further work needs to be done to better understand this high frequency, behavioral channel of monetary policy.
+Evidence on the cash-flow channel
+Let me now turn to the effect of rising interest rates across different groups of households. As I discussed earlier, with around a third of UK households holding a mortgage, the monetary policy effects on mortgage interest rates represent a large part of monetary policy transmission to consumption. Bank staff estimate that the net interest rate channel (which includes the cash-flow and intertemporal substitution channels) accounts for around one third of the transmission of higher interest rates to household consumption.
+Taking a look at this channel more closely, using transaction-level data combined with administrative data on residential mortgages,
+Bracke et al. (2024)
+analyze how households’ consumption patterns depend on the flexibility of their mortgage. The authors compare households whose fixed rate mortgage expired during the tightening cycle to households whose fixed rate ended prior to December 2021 to identify the effect of higher mortgage rates on households’ consumption behavior.
+Chart 14
+plots the total monthly spending split by households who modified their mortgage when refinancing (in purple) and those that did not (in orange). A majority of observed households (around 70%) refinanced without modifying their mortgage and reduced non-housing spending persistently by around 3% following the refinancing event. By contrast, nearly one third of observed households used mortgage flexibility – such as borrowing against the value of their property (home equity extraction) or extending their mortgage term – to temporarily raise their non-housing expenditure by around 5% in the month of refinancing and to reduce their unsecured debts. The authors also observe a decline in aggregate non-housing spending by 2.5% across all households who refinanced during the tightening cycle, but the effect is short-lived. While the overall effect of higher mortgages rates is to lower consumption, households who modify their terms in fact consume more. These households could also be in higher-income deciles.
+Chart 14: Heterogeneous consumption responses at mortgage refinancing
+Percentage change in total non-housing spending in months around refinancing
+Footnotes
+Source:
+Bracke et al. (2024)
+Notes: Authors use a difference-in-differences model with heterogeneous treatment and two-way fixed effects estimated over January 2021 and December 2023. Monthly dummies capture the months pre-/post-refinancing event interacted with a treatment indicator indicating whether a household refinanced during the tightening cycle. Changes in non-housing spending are indexed to the month prior to the refinancing event. Shaded areas represent 95% confidence bands.
+Let me put these results into the context of current mortgage rates. While quoted rates on new mortgages have fallen since the MPC began cutting interest rates in August 2024, the effective rate on the stock of mortgages has not fallen yet.
+footnote
+[15]
+The higher share of fixed-rate mortgages compared to pre-financial crisis means the transmission of changes in mortgage rates to consumption via the cash-flow channel is slower. This means that the cash-flow channel is still weighing on consumption and is therefore an important explanation for consumption not having returned to its pre-Covid trend.
+More generally, borrowers tend to adjust their consumption expenditure by more than savers, who are less likely to spend gains in interest income (
+Panigrahi et al., 2018
+). As a consequence of that, higher interest rates redistribute income from borrowers to savers, and reduce aggregate consumption (
+Auclert
+, 2019
+;
+Floden et al., 2021
+). This leads me to the next channel through which monetary policy drags on spending.
+Evidence on the intertemporal substitution channel
+By offering better returns on savings and raising the cost of borrowing, higher interest rates increase the opportunity cost of spending and encourage households to save more and borrow less. This affects the timing of consumption via so-called ‘intertemporal substitution’, which tends to be stronger among higher-income households, who have more capacity to maintain their level of spending by saving less from their monthly income. The literature finds this channel to be relatively small in the UK (
+Havranek et al., 2015
+;
+Best et al., 2020
+). Moreover, recent survey evidence suggests that the impact of higher interest rates as a reason for saving more may have passed its peak, as
+Chart 15
+shows (comparing the latest survey in green, to the peak in orange/purple).
+Chart 15: Share of survey respondents saving more than usual due to higher interest rates
+Percent of respondents
+Footnotes
+Source: Bank of England/NMG Survey of Household Finances and Bank calculations.
+Notes: Chart shows share of respondents who have reported that they had saved more than usual over the last 12 months due to higher interest rates on savings. Excludes households that responded “Don’t know” or “Prefer not to state”. Survey data from March 2023 to March 2025.
+I showed earlier that the consumption-savings assumption has underestimated the saving ratio in the context of the MPC’s forecast. Going forward, Bank Rate cuts might make deposit saving less attractive – and there is qualitative evidence from the Bank of England/NMG Survey of Household Finances in this regard. But households rebuilding savings as a precautionary buffer against emergencies, particularly in light of higher uncertainty and volatility, has become one of the dominant reasons for saving more in recent survey waves.
+Impact of uncertainty on consumption
+So far, I have discussed the impact of the inflationary episode and the resulting rapid rise in the price level yielding lasting changes in consumer behavior, and monetary policy through various channels as possible explanations for the consumption gap.
+As highlighted in
+my speech
+about the Great Moderation, these shocks have also contributed to a more volatile and uncertain economic environment, which makes it more difficult for economic agents to make financial decisions. Alongside weaker consumer confidence, heightened uncertainty can encourage households to become more precautionary and build higher saving buffers, which drags on consumption. Research shows that higher macroeconomic uncertainty, in particular uncertainty about future GDP growth, leads households to persistently reduce their overall spending, including on durable goods (
+Coibion
+et al., 2024
+).
+Chart 16
+shows empirical evidence that certain shocks increase both the first and second moments, i.e. the level and volatility, of prices. Specifically, I show the impulse response functions of the consumer price index (in aqua) and its volatility (in orange) in response to the same inflationary supply shock I showed in
+Chart 9
+. This evidence suggests that inflation volatility rises and remains elevated for around four quarters following the initial shock.
+Chart 16: Impulse response functions to an inflationary supply shock
+Consumer Price Index and inflation volatility
+Footnotes
+Source: ONS,
+Känzig (2021)
+and Bank calculations.
+Notes: The impulse response functions are derived from a structural VAR model estimated from 1997 to 2019. The solid line shows the median response, and shaded areas denote the 68% credibility intervals. The impulse response functions are scaled to increase the consumer price index by 1 percentage point at peak. The supply shock is proxied using a high frequency identified instrument by
+Känzig (2021)
+. Volatility is measured as the standard deviation of the inflation rate across the past 4 quarters.
+Why does increased inflation volatility matter?
+Fischer et al. (2025)
+use a UK household survey to implement a randomized controlled trial with information about inflation forecasts to study the effects of changes in households’ uncertainty about future inflation on their consumption and savings behavior. Their findings show that households who are more uncertain about future inflation become more uncertain about their future incomes (see left panel in
+Chart 17
+), and reduce their income expectations. The information about inflation uncertainty also lowers respondents’ expected consumption by around 2.6 percent. The results suggest the presence of a precautionary saving channel – households want to insure themselves against volatility in their purchasing power by building a savings buffer.
+Importantly, however, the authors show that the effect on expected spending is driven by households with high incomes and liquid assets, which underlines the fact that these households can adjust their spending relatively more to the uncertainty about (or volatility in) their purchasing power. As the top half of the disposable income distribution accounted for two-thirds of total household expenditure in the latest data (
+ONS, 2025b
+), their consumption share is particularly important for aggregate consumption and possibly the weakness thereof.
+Chart 17: Uncertainty about inflation causes lower expected spending
+Households’ inflation and income uncertainty, and expected income and spending
+Footnotes
+Source:
+Fischer et al. (2025)
+.
+Notes: Binned scatterplot in the left-hand panel shows households’ posterior uncertainty about inflation and their uncertainty about their expected income. Binned scatterplot in the right-hand panel shows households’ posterior uncertainty about inflation and their expected annual household income (in aqua), and their expected annual spending (in orange), both adjusted for household size. Dotted lines show quadratic fitted trendlines.
+My outlook for consumption and monetary policy strategy
+The main purpose of this speech is to share the disaggregated data and research that helps to explain the consumption gap, which provides a key perspective on downside risks to consumption growth, and by extension, economic activity. This assessment of risks to consumption is set against a background of persistently high inflation, and drifting household inflation expectations. Neither are target-consistent.
+If the consumption gap was my only concern, reducing the restrictiveness of monetary policy would be appropriate. However, in light of elevated inflation and expectations, maintaining restrictiveness for longer would be appropriate. In determining the balance between the downside risks to consumption and the clear upside evidence on inflation, the key issue is whether high inflation itself plays a role in the consumption gap.
+In my introduction, I justified my focus on consumption and savings by arguing that I have had to make important judgement calls regarding their trajectories in the outlook. Over the past few years, real incomes rose, as did real disposable incomes, albeit by less. These should have supported stronger consumption growth, and a saving ratio closer to the pre-Covid trend. Instead, however, a gap between real incomes and consumption has opened up and widened, and the saving ratio has not fallen back to trend.
+In the most recent forecast, the assumption of a declining saving ratio to support more consumption again plays a key role (along with the assumption of modest improvements in productivity growth). It is challenging to measure the saving ratio and consumption – particularly as our understanding of the past gets revised, and the data are published with a lag. To improve my judgements on the future path of consumption (and savings) I have turned to forward-looking survey-based data, analysis of disaggregated historical data, and a wide range of research.
+I summarize the survey data and research analysis on the consumption gap in two themes: (1) inflation and consumer scarring, and (2) channels of monetary policy and consumption.
+For the first theme, inflation and consumer scarring, the research shows that the rapid increase in the price level has scarred consumers, even as inflation has moderated and real income growth resumed. The legacy of the inflation surge and price attentiveness continue to weigh on consumption and saving decisions, with a higher saving ratio via precautionary motives being one explanation for the consumption gap.
+Further, high inflation is associated with more volatile inflation, which makes consumption-savings decisions by households more difficult. The research shows that households who are more uncertain about future inflation become more uncertain about their future incomes, which reduces their expected consumption. This behavior is more pronounced for those with higher incomes and greater scope for reducing discretionary spending.
+In sum, high inflation itself is behind scarring, income uncertainty, and weak consumption growth. Therefore, monetary policy needs to continue to focus on reducing inflation to achieve the environment of price stability. Then, households can return to their normal consumption-savings behavior which is conducive to stronger consumer demand.
+The second theme – monetary policy and consumption – argues that restrictive monetary policy to date has reduced consumption, especially for mortgage holders who did not change their terms upon refinancing, and for savers taking advantage of higher rates on their deposits. If the monetary policy response was the key source of the consumption gap, then it would be appropriate to dial back the restrictiveness of monetary policy. But, monetary policy has indeed loosened, and staff estimate its impact on consumption to have peaked. Importantly, despite the role of monetary policy in sluggish consumption growth, inflation and inflation volatility and heightened savings have persisted.
+In considering these themes to explain the consumption gap, the role for high and volatile inflation to scar consumers, raise savings, and lower consumption growth dominates and continues to be in the empirical evidence, which calls into question the assumption in the forecast that the saving ratio will fall.
+It is perhaps counterintuitive that in order to create an environment conducive to growth, monetary policy must remain restrictive for longer. But this is necessary to bring inflation sustainably back to our 2% target in the medium term. My former boss Alan Greenspan (I started my career at the Federal Reserve Board) said it succinctly: "We will be at price stability when households and businesses need not factor expectations of changes in the average level of prices into their decisions.” The evidence from consumer behavior is that we are not there yet.
+Acknowledgements
+I would like to thank Natalie Burr and Christoph Herler for their help in the preparation of this speech.
+I would also like to thank Andrew Bailey, Lennart Brandt, Sarah Breeden, Ambrogio Cesa-Bianchi, Angus Foulis, Harriet Jeanes, Phil Lachowycz, Giulia Mantoan, Josh Martin, Matthew McKernan, João Oliveira, Waris Panjwani, Nades Raviraj, Nicola Shadbolt, Fergal Shortall, Andrea Sisko, James Tasker, Belinda Tracey, Alexandra Varadi, Carlo Varriale and Jessica Verlander for their comments and help with data and analysis.
+References
+Anesti, N., Esady, V. and Naylor, M. (2025). ‘
+Food prices matter most: sensitive household inflation expectations
+’, Bank of England Staff Working Paper No. 1,125.
+Auclert, A. (2019). ‘
+Monetary Policy and the Redistribution Channel
+’,
+American Economic Review
+, 109 (6), pp. 2333-2367.
+Bank of England (2022). ‘
+Monetary Policy Report – May 2022
+’.
+Bank of England (2025). ‘
+Monetary Policy Report – May 2025
+’.
+Bank of England (n.d.). ‘
+Effective interest rates
+’.
+Benito, A. (2006). ‘
+Does job insecurity affect household consumption?
+’,
+Oxford Economic Papers
+, 58 (1), pp. 157-181.
+Best, M.C., Cloyne, J.S., Ilzetzki, E. and Kleven, H.J. (2020) ‘
+Estimating the Elasticity of Intertemporal Substitution Using Mortgage Notches
+’,
+The Review of Economic Studies
+, 87(2), pp. 656–690.
+Bonciani, D. and Oh, J. (2021). ‘
+Unemployment risk, liquidity traps and monetary policy
+’, Bank of England Staff Working Paper No. 920.
+Bracke, P., Everitt, M., Fazio, M. And Varadi, A. (2024). ‘
+When refinancing meets monetary tightening: heterogeneous impacts on spending and debt via mortgage modifications
+’, Bank of England Staff Working Paper No. 1,105.
+Brandt, L. and Panjwani, W. (2025). ‘How do consumers adapt to price increases? Heterogeneous consumption elasticities after Covid’, mimeo.
+Brandt, L., Burr, N. and Gado, K. (2024). ‘
+Beyond the average: patterns in UK price data at the micro level
+’, Bank Underground.
+Brandt, L., Fischer, J. J., Horn, C.-W., Miranda-Agrippino, S. and Pallotti, F. (2025). ‘
+The Short-Term Effects of Monetary Policy
+’, mimeo.
+Braun, R., Miranda-Agrippino, S. and Saha, S. (2025). ‘
+Measuring monetary policy in the UK: The UK monetary policy event-study database
+’,
+Journal of Monetary Economics
+, 149 (103645).
+Buda, G., Carvalho, V., Corsetti, G., Duarte, J. B., Hansen, S., Moura, A. S., Ortiz, A., Rodrigo, T., Rodríguez Mora, J. V., Silva, G. A. (2023). ‘
+Short and Variable Lags
+’, Janeway Institute Working Paper No. 2308.
+Burr, N. and Willems, T. (2024). ‘
+About a rate of (general) interest: how monetary policy transmit
+’, Bank of England Quarterly Bulletin.
+Chen, T., Levell, P. and O’Connell, M. (2025). ‘
+Measuring cost of living inequality during an inflation surge
+’, Institute for Fiscal Studies Working Paper 25/21.
+Coibion, O., Georgarakos, D., Gorodnichenko, Y., Kenny, G. and Weber, M. (2024). ‘
+The Effect of Macroeconomic Uncertainty on Household Spending
+’,
+American Economic Review
+, 114(3), pp. 645–677.
+Fischer, J. J., Herler, C. and Schnattinger, P. (2025). ‘
+When the fog clears: the effect of reduced inflation uncertainty on households’ financial behaviour
+’. Bank of England Staff Working Paper No. 1,133.
+Flodén, M., Kilström, M., Sigurdsson, J. and Vestman, R. (2020). ‘
+Household debt and monetary policy: revealing the cash-flow channel
+’,
+The Economic Journal
+, 131 (636), pp. 1742-1771.
+Fornaro, L. and Wolf, M. (2023). ‘
+The scars of supply shocks: Implications for monetary policy
+’,
+Journal of Monetary Economics
+, 140, pp. S18-S36.
+Greene, M. (2024). ‘
+Who’s buying? The outlook for consumption in a rate cutting cycle
+’, speech given at the North East Chambers of Commerce, Newcastle, 25
+th
+September.
+Greenspan, A. (1994) ‘
+Semiannual Monetary Policy Report to the Congress: Testimony before the Subcommittee on Economic Growth and Credit Formation of the Committee on Banking, Finance and Urban Affairs
+’
+,
+U.S. House of Representatives, February 22
+.
+Board of Governors of the Federal Reserve System.
+Havranek, T., Horvath, R., Irsova, Z. and Rusnak, M. (2015). ‘
+Cross-country heterogeneity in intertemporal substitution
+’,
+Journal of International Economics
+, 96 (1), pp. 100-118.
+Herler, C. and Tasker, J. (2022). ‘
+How has the increase in the cost of living affected UK households and what does that mean for the economy?
+’, Bank Overground.
+Jordà, Ò., Singh, S. R. and Taylor, A. M. (2022). ‘
+Longer-Run Economic Consequences of Pandemics
+’,
+The Review of Economics and Statistics
+, 104 (1), pp. 166-175.
+Känzig, D. R. (2021). ‘
+The Macroeconomic Effects of Oil Supply News: Evidence from OPEC Announcements
+’,
+American Economic Review
+, 111 (4), pp. 1092-1125.
+Malmendier, U. and Nagel, S. (2016). ‘
+Learning from Inflation Experiences
+’,
+The Quarterly Journal of Economics
+, 131 (1), pp. 53-87.
+Malmendier, U. and Sheng Shen, L. (2024). ‘
+Scarred Consumption
+’,
+American Economic Journal: Macroeconomics
+, 16 (1), pp. 322-355.
+Malmendier, U., Nagel, S. and Yan, Z. (2021). ‘
+The making of hawks and doves
+’,
+Journal of Monetary Economics
+, 117, pp. 19-42.
+Mann, C. L. (2022a). ‘
+On returning inflation back to target
+’, speech given at the Official Monetary and financial Institutions Forum, 21
+st
+January.
+Mann, C. L. (2022b). ‘
+A monetary policymaker faces uncertainty
+’, speech given at a Bank of England webinar, 21
+st
+April.
+Mann, C. L. (2022c). ‘
+UK monetary policy in the context of global spillovers
+’, speech given at a Market News International Connect event, 20
+th
+June.
+Mann, C. L. (2022d). ‘
+Inflation expectations, inflation persistence, and monetary policy strategy
+’, speech given at the 53
+rd
+Annual Conference of the Money Macro and Finance Society, University of Kent, 5
+th
+September.
+Mann, C. L. (2023a). ‘
+Expectations, lags, and the transmission of monetary policy
+’, speech given at the Resolution Foundation, London, 23
+rd
+February.
+Mann, C. L. (2023b). ‘
+Inflation models and research: distilling dynamics for monetary policy decision-making
+’, speech given at the Canadian Association for Business Economics, 11
+th
+September.
+Mann, C. L. (2024a). ‘
+Mind the gap(s): Inflation data and prospects
+’, speech given at the Official Monetary and Financial Institutions Forum, 8
+th
+February.
+Mann, C. L. (2024b). ‘
+Policy spillovers when external shocks persist and domestic activity diverges
+’, speech given at the Central Bank Research Association, National Bank of Poland and Bank of Lithuania 5th biennial conference ‘Macroeconomic adjustments after large global shocks’ in Vilnius, Lithuania, 20
+th
+September.
+Mann, C. L. (2024c). ‘
+The Great Moderation 20 years on
+’, speech given at the Annual Conference of the Society of Professional Economists, London, 14
+th
+November.
+Mann, C. L. (2025a). ‘
+Holding the anchor in turbulent waters
+’, speech given at the conference on ‘35 years of flexible inflation targeting: Opportunities and challenges’ at the Reserve Bank of New Zealand, 6
+th
+March.
+Mann, C. L. (2025b). ‘
+Five ‘C’s for Central Bank Research
+’, speech given at The Future of Central Banking conference on the occasion of the 100th Anniversary, Banco de México, 26
+th
+August.
+Mantoan, G. and Verlander, J. (2025). ‘
+Beyond point estimates: quantifying risk around the near-term UK GDP forecast using a new quantile-MIDAS model
+’, Bank Overground.
+Mitchell, J., Poon, A., and Zhu, D. (2024). ‘
+Constructing density forecasts from quantile regressions: Multimodality in macrofinancial dynamics.
+’
+Journal of Applied Econometrics,
+39 (5), pp. 790-812.
+Office for Budget Responsibility (2024). ‘
+Economic and fiscal outlook – March 2024
+’.
+Office for National Statistics (2025a). ‘
+Experimental alternative measure of Households (S.14): Saving ratio
+’.
+Office for National Statistics (2025b). ‘
+Family spending workbook 2: expenditure by income
+’.
+Office for National Statistics (2025c). ‘
+GDP expenditure components – real-time database
+’.
+Office for National Statistics (2025d). ‘
+Households (S.14): Households’ saving ratio
+’.
+Panigrahi, L., Rigg, H. and Rockall, E. (2018). ‘
+The financial position of British households: evidence from the 2018 NMG Consulting survey
+’, Quarterly Bulletin 2018 Q1.
+Weber, M., Candia, B., Afrouzi, H., Ropele, T., Lluberas, R., Frache, S., Meyer, B., Kumar, S., Gorodnichenko, Y., Georgarakos, D., Coibion, O., Kenny, G., and Ponce, J. (2025). ‘
+Tell Me Something I Don’t Already Know: Learning in Low- and High-Inflation Settings
+’,
+Econometrica
+, 93 (1), pp. 229-264.
+See also
+Mann (2025a)
+for a discussion of risks around drifting inflation expectations.
+Since 2000, on average, household final consumption expenditure (including non-profit institutions serving households expenditure) has accounted for around 63% of total GDP, government spending for 20%, and gross capital formation (investments) for 17% (
+ONS, 2025c
+).
+Assessing the strength of consumption in the UK and risks around it is not a new topic for MPC members and has been discussed in previous speeches. See, for example,
+Greene (2024)
+.
+See
+ONS (2025d)
+for the household saving ratio. The cash-based saving ratio is slightly lower (9.1% in Q2 2025), though the trajectory is similar (
+ONS, 2025a
+).
+In their
+Economic and fiscal outlook from March 2024
+, the Office for Budget Responsibility estimated that by 2028-29, there would be 3.7 million more people brought into income tax, 2.7 million more brought into the higher-rate band, and 600,000 more additional-rate taxpayers than if allowances and thresholds had been indexed to CPI inflation, and the additional rate kept at £150,000. Higher inflation has increased the difference between the frozen thresholds and the rates to which they would have risen without these measures.
+The remaining differences are accounted for by interest payments on loans and other transfers.
+Malmendier and Sheng Shen (2024)
+find that periods of high unemployment or recessions “scar” consumers – they are more pessimistic about their expected financial situation and spend less for many years after this experience.
+Anesti et al. (2025)
+calculate experienced inflation rates across households.
+Survey results from the Bank of England/NMG Survey of Household Finances show that in response to higher costs of living, households who have spent more have predominantly saved less to fund these extra costs, while only a small share of respondents has increased borrowing (
+Herler and Tasker, 2022
+).
+According to the
+May 2022 Monetary Policy Report
+, between April 2019 and March 2020 (prior to the surge in energy prices), households in the bottom income decile spent around 10% of their total household expenditure on energy, compared to around 6% in the highest income decile.
+This excludes FISIM and imputed rentals in services consumption to better match CPI coverage.
+See Mann (
+2022a
+,
+2022b
+,
+2022c
+,
+2022d
+,
+2023a
+,
+2023b
+and
+2024a
+) for a discussion of appropriate monetary policy strategy in a high inflation period.
+In the ONS’s latest family expenditure data from the financial year ending 2024 (based on data from the Living Costs and Food Survey), the top half of the disposable income distribution accounted for approximately 66% of total expenditure, and the top 20% for around 33%, respectively. Compared to the financial year ending 2020, 68% of total expenditure was accounted for by the top half of the disposable income distribution, and 35% by the top 20% (
+ONS, 2025b
+).
+See for instance
+Benito (2006)
+and
+Bonciani and Oh (2021)
+for UK evidence.
+See the
+effective interest rate statistics
+on our website.
+See the
+effective interest rate statistics
+on our website.
+Close
+See for instance
+Benito (2006)
+and
+Bonciani and Oh (2021)
+for UK evidence.
+Close
+In the ONS’s latest family expenditure data from the financial year ending 2024 (based on data from the Living Costs and Food Survey), the top half of the disposable income distribution accounted for approximately 66% of total expenditure, and the top 20% for around 33%, respectively. Compared to the financial year ending 2020, 68% of total expenditure was accounted for by the top half of the disposable income distribution, and 35% by the top 20% (
+ONS, 2025b
+).
+Close
+See Mann (
+2022a
+,
+2022b
+,
+2022c
+,
+2022d
+,
+2023a
+,
+2023b
+and
+2024a
+) for a discussion of appropriate monetary policy strategy in a high inflation period.
+Close
+This excludes FISIM and imputed rentals in services consumption to better match CPI coverage.
+Close
+According to the
+May 2022 Monetary Policy Report
+, between April 2019 and March 2020 (prior to the surge in energy prices), households in the bottom income decile spent around 10% of their total household expenditure on energy, compared to around 6% in the highest income decile.
+Close
+Survey results from the Bank of England/NMG Survey of Household Finances show that in response to higher costs of living, households who have spent more have predominantly saved less to fund these extra costs, while only a small share of respondents has increased borrowing (
+Herler and Tasker, 2022
+).
+Close
+Anesti et al. (2025)
+calculate experienced inflation rates across households.
+Close
+Malmendier and Sheng Shen (2024)
+find that periods of high unemployment or recessions “scar” consumers – they are more pessimistic about their expected financial situation and spend less for many years after this experience.
+Close
+The remaining differences are accounted for by interest payments on loans and other transfers.
+Close
+In their
+Economic and fiscal outlook from March 2024
+, the Office for Budget Responsibility estimated that by 2028-29, there would be 3.7 million more people brought into income tax, 2.7 million more brought into the higher-rate band, and 600,000 more additional-rate taxpayers than if allowances and thresholds had been indexed to CPI inflation, and the additional rate kept at £150,000. Higher inflation has increased the difference between the frozen thresholds and the rates to which they would have risen without these measures.
+Close
+See
+ONS (2025d)
+for the household saving ratio. The cash-based saving ratio is slightly lower (9.1% in Q2 2025), though the trajectory is similar (
+ONS, 2025a
+).
+Close
+Assessing the strength of consumption in the UK and risks around it is not a new topic for MPC members and has been discussed in previous speeches. See, for example,
+Greene (2024)
+.
+Close
+Since 2000, on average, household final consumption expenditure (including non-profit institutions serving households expenditure) has accounted for around 63% of total GDP, government spending for 20%, and gross capital formation (investments) for 17% (
+ONS, 2025c
+).
+Close
+See also
+Mann (2025a)
+for a discussion of risks around drifting inflation expectations.
+Close
+Catherine L. Mann
+Member of the Monetary Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

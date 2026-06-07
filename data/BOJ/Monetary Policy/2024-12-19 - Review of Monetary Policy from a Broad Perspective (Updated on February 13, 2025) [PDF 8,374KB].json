@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "Review of Monetary Policy from a Broad Perspective (Updated on February 13, 2025) [PDF 8,374KB]",
+  "date_original": "2024-12-19",
+  "date_au": "19/12/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k241219b.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2024-12-19 - Review of Monetary Policy from a Broad Perspective (Updated on February 13, 2025) [PDF 8,374KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2024-12-19 - Review of Monetary Policy from a Broad Perspective (Updated on February 13, 2025) [PDF 8,374KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "17bcf918f5ff16975c56e4bb13ee4eb035a5d648dbc900fd1456222707126d53"
+}

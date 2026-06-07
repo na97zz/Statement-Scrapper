@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Risks and Uncertainty in Monetary Policy: Current and Past Considerations",
+  "date_original": "2024-04-05",
+  "date_au": "05/04/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240405a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-04-05 - Michelle W. Bowman - Risks and Uncertainty in Monetary Policy_ Current and Past Considerations.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-04-05 - Michelle W. Bowman - Risks and Uncertainty in Monetary Policy_ Current and Past Considerations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:59:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "da83bccdfc98673ea9f880f1799d5f7b06bfa278ed62b3f3c751ca67aa424e97"
+}

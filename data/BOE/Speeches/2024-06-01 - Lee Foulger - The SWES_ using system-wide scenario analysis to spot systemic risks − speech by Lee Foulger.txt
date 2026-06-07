@@ -1,0 +1,163 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The SWES: using system-wide scenario analysis to spot systemic risks − speech by Lee Foulger
+DATE: 01/06/2024
+SPEAKER: Lee Foulger
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/december/lee-foulger-speech-at-bloomberg-uk-policy-series
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The SWES: using system-wide scenario analysis to spot systemic risks − speech by Lee Foulger
+Given at Bloomberg
+Published on 
+
+ 02 December 2024
+In November 2024, the Bank of England published its final report documenting findings from its System-Wide Exploratory Scenario (SWES) exercise. In this speech, Lee Foulger sets out some of the key conclusions from the SWES about the resilience of core UK markets – and how the behaviour of market participants, though rational individually, can combine in ways that pose risk. He concludes with the importance of taking a system-wide lens when assessing risks to financial stability, in order to spot potential vulnerabilities that sector-specific exercises alone cannot identify.
+Speech
+Macroprudential policymakers have the primary objective of pursuing financial stability. We aim to identify and monitor the key risks to that objective, and take actions in advance of those risks crystallising to reduce their likelihood and potential impact. By ensuring that the financial system will continue to provide vital services even when shocks occur, we are also acting in support of sustainable long-term economic growth.
+Since the introduction of these macroprudential responsibilities following the financial crisis, the shape of the financial system has changed significantly – with a shift towards non-bank finance, including market-based finance. This has led to a significant expansion of the landscape of systemic risk relevant to our objectives.
+And in recent years, events in a number of global financial markets
+footnote
+[1]
+have brought to light vulnerabilities arising from market-based finance – vulnerabilities that can contribute to market dysfunction, transmit risk to banks and core markets, and have implications for real economy financing.
+In many of these examples authorities intervened, and the real economy was largely shielded from lasting impacts of the sort we saw following the financial crisis. But the fact that interventions were necessary to avoid impacts on the real economy demonstrates the need for increased resilience within the system of market-based finance and a better approach to identifying and assessing risks.
+As Governor Andrew Bailey and Deputy Governor Sarah Breeden set out in recent speeches
+footnote
+[2]
+, to do this we need to take a system-wide perspective. The leverage and liquidity risks of an individual firm may not in themselves be an issue, until they combine with concentrations or correlated behaviour in markets. And so, looking at the resilience of individual firms is necessary but not sufficient: it risks glossing over important issue of how interconnected leveraged and concentrated positions interact in system wide stress.
+That is why, last year we launched the SWES - a system-wide exploratory scenario exercise, and the first-of-its-kind in the world. Our aims were twofold. First, to improve our understanding of risks to and from non-bank financial institutions and their behaviour in stress, including what drives those behaviours. Second, to investigate how those behaviours and market dynamics can combine and cascade, amplifying shocks in markets and posing risks to UK financial stability.
+How we did it
+Stress testing approaches around the world, including here in the UK, have tended to focus on assessing the resilience of individual firms to hypothetical shocks.
+And while more system-wide stress testing approaches do also exist, they are largely model-based. They combine balance sheet data for financial entities, where it is available, with stylised behavioural assumptions about how those entities would respond to a stress, including any constraints they face. And they generate system-wide dynamics resulting from the actions of, and the financial linkages between, firms in the sample.
+But these approaches have limitations for the purposes of policy-making. First, their coverage and granularity is limited to available regulatory and public data. Second, and importantly, they assume firm behaviour and interactions – they do not test them.
+The SWES takes a new approach to tackle these issues head on – let me highlight three novel features of the way we designed this exercise:
+The first, is that while we take a system-wide perspective, we incorporate complex firm behaviours and interactions through the active engagement of around 50 different financial firms involved in core UK sterling markets. These span banks, central counterparties (CCPs), insurers, open-ended funds, LDI funds, money market funds, hedge funds and pension schemes. We are therefore able to observe – not assume – their behaviours in stress, and what drives them. Our sample covered more than half of gilt market activity, around three quarters of the gilt repo market and almost all of the leveraged LDI market.
+The second, is that we worked with our participants and other regulators to ensure an effective exercise that would meet our objectives. We were able to be more open and collaborative than traditional stress tests because it was not a test of the resilience of individual participants.
+Their support in designing proportionate data templates tailored to their specific business models was extremely valuable. So too was the expertise from our regulatory colleagues at the Financial Conduct Authority (FCA) and The Pension Regulator (tPR), with whom we worked closely. We also engaged and had the support of overseas regulators.
+Finally, to test behaviours and interactions, we designed the scenario to play out daily over two weeks, and the SWES itself to run over two rounds. This ‘stress test meets war game’ approach allowed us to see two sides of trades, add up the market flows and see whether the actions of market participants amplified or absorbed the original shock – in other words whether the overall effect was bigger than the sum of its parts.
+Chart 1: Key risk transmission channels under investigation in the SWES
+This approach allows us to investigate the system-wide vulnerabilities other exercises cannot. For example, are firms’ expectations of how a stress will unfold, and how others will respond, realistic? Can we trace through from the motives of individual firms’ behaviours to aggregate outcomes in markets used by many? We set out to explore three key transmission channels in the SWES: (i) drivers of firms’ liquidity needs under the market stress, (ii) firms’ actions in UK markets in response to those liquidity needs, and (iii) additional actions taken either to deleverage, reduce risk exposures, and rebalance portfolios, or to increase risk and provide liquidity (
+Chart 1
+).
+While we wanted to set our gaze at the system-wide level, we needed to be pragmatic about how much we, and our participants, could cover. To make the exercise tractable, and to ensure we were concentrated on what matters most in this novel exercise, we designed a global shock, but focused the analysis on the markets core to UK financial stability: gilts, gilt repo and sterling corporate bonds. We developed a scenario designed to stress those markets with an immediate shock that was faster, wider-ranging and more persistent than any shock seen in at least the past 20 years (
+Chart 2
+).
+Chart 2: The SWES hypothetical scenario combines shocks to rates and risky asset prices
+Comparison of 10-day moves in selected SWES variables against the largest observed since 2001, and those observed during the 2020 dash for cash and 2022 gilt market stress episodes
+(
+a
+)
+Footnotes
+See sources and footnotes on Chart 1 in The Bank of England’s system-wide exploratory scenario exercise final report.
+What we learned
+In the hypothetical scenario, sharp increases in risk-free rates and credit spreads, combined with falling asset prices cause significant losses for many SWES participants. This triggers a spike in variation margin calls. Increased volatility causes initial margin required by CCPs to increase. Some funds experience redemptions. Taken together, margin calls, redemptions, drawdowns on financing and asset sales result in very large cash and collateral moves around the UK financial system (
+Chart 3
+).
+Chart 3: NBFIs met the liquidity need mostly by pledging assets, with the remainder taking action to generate immediate cash. Some subsequently sold assets to restore collateral buffers or acquire additional liquidity
+NBFIs' liquidity demand in the SWES and immediate actions taken in response
+(
+b
+)
+Footnotes
+See sources and footnotes on Chart 2 in The Bank of England’s system-wide exploratory scenario exercise final report.
+What do these dynamics mean for core UK markets? The exercise found that, in the scenario, sellers of gilts can typically find market participants willing to buy them. But the stress leads to tighter conditions in gilt repo markets. And the sterling corporate bond market faces severe pressure, reflecting rapid selling from sellers who are often insensitive to deteriorating prices.
+There are too many findings from
+the report
+to do justice to in a short speech, so I will focus on the four key financial stability findings, plus some of the additional insights that can only be gleaned from exercises of this kind.
+Conclusion 1: financial participants’ collective actions amplify the initial shock
+The SWES demonstrates the ways in which market participants can amplify shocks. Individually, these actions may be prudent. But, collectively, they can result in procyclical outcomes.
+The SWES scenario had a significant impact on participating sectors. The nature of the shock created particular stress for LDI portfolios and for their pension scheme investors, as well as for certain types of hedge fund. Some firms – acting to manage their business to risk appetite or investment mandates – rapidly sell assets, recapitalise or limit their intermediation activity. We see that non-banks often seek to rebuild buffers, including headroom over regulatory requirements, quickly. This leads them to act in ways that can drain liquidity and cause the initial shock to cascade to other parts of the system: amplifying the effect of macroeconomic shocks.
+Conclusion 2: actions taken by authorities and market participants have improved gilt market resilience
+The gilt market is an important and fundamental source of liquidity in the UK financial system, and underpins the pricing of a wide range of financial products such as mortgages and corporate borrowing.
+Following the SWES shock, reported gilt sales are broadly balanced by purchases, suggesting that gilt market resilience has increased since 2022, when unprecedented increases in long dated gilt yields triggered forced selling of gilts by LDI funds and fire-sale dynamics, and the Bank of England intervened in a temporary and targeted way to maintain financial stability.
+This improvement is primarily due to a number of sectors having increased levels of resilience compared with the past. Recent reforms for LDI funds, following the FPC’s Recommendation, have significantly reduced their liquidity risk and leverage – and so increased their capacity to manage a gilt market stress. Higher levels of liquidity held by money market funds mean they are more easily able to meet redemption demands. And insurers are increasingly able to use a wider range of non-cash collateral – including corporate bonds – to meet margin calls, reducing their need to sell assets to raise cash.
+Taken together, these higher levels of resilience mean that the gilt market does not come under severe stress in the SWES scenario. But, in many cases, these higher levels of resilience are not due to regulatory requirements and may therefore be cyclical rather than permanent.
+If this resilience wanes over time in the face of competitive pressure, or as recent stresses become more distant, and less of a focus for modelling and risk management, it would result in a greater demand for liquidity under stress. There would likely be greater derisking actions due to risk or leverage constraints biting. This would increase the risk to financial stability.
+These first two conclusions highlight both the importance of continued monitoring of market resilience as it evolves, and the range of policy initiatives seeking to embed and maintain appropriate resilience across market-based finance. These include the proposed
+introduction of a PRA liquidity reporting regime for insurers
+,
+work by UK authorities on money market funds
+, and the
+Financial Stability Board’s work on non-bank leverage
+.
+Conclusion 3: repo market resilience is central to supporting core UK markets
+The SWES demonstrated the centrality of the gilt repo market in helping to absorb the impact of the shock, but that its capacity in stress is limited.
+Many firms in the SWES rely on repo to manage liquidity or monetise assets. In the exercise, banks have the capacity to meet borrowing requests. But, due to their assessment of counterparty credit risk, most banks will generally not provide additional repo financing at the onset of the shock. In some cases, they may even be unwilling to roll maturing repo, for example, for clients they judge to be particularly impacted by the shock or if banks were under pressure themselves.
+Further policy work to increase repo market resilience and capacity in stress would therefore be beneficial. There may be merit in exploring market structure reforms to increase dealer balance sheet efficiencies and reduce counterparty credit risk during periods of market stress. In addition, the Bank is developing a
+contingent non-bank repo facility (CNRF)
+which will be open to eligible pension funds, insurers and LDI funds as a backstop to support gilt market functioning in the event a stress poses risks to UK financial stability. This would be activated at the Bank’s discretion.
+Conclusion 4: the sterling corporate bond market comes under severe pressure in the SWES
+Corporate bonds are sold in a correlated and relatively price insensitive way in the scenario. The speed of selling in the sterling corporate bond market exceeds purchasing capacity. The market is expected to become temporarily illiquid absent further price falls and other purchasers stepping in, which will likely take time. This is primarily driven by pension funds seeking to recapitalise their LDI funds. Since 2022, LDI funds are much more resilient, holding liquidity well above the minimum levels required. As a result, recapitalisation calls on pension schemes are smaller than estimates of those seen in 2022 during the LDI episode, but still need to be met rapidly in the scenario.
+This dynamic in the sterling corporate bond market could impair its effectiveness as a source of liquidity for financial institutions and, if it were to persist, financing for the real economy.
+As a result, authorities are planning to take actions to better understand and mitigate some of these risks. The Pensions Regulator intends to take forward follow-up work to explore potential improvements to existing data collections to provide insights to support risk management among pension schemes.
+What we also learned about market participants’ behaviours in stress
+The richness and depth of the exercise provided a host of fascinating findings underneath these headline conclusions. I encourage market participants to read through
+the report
+– there will be much of value for their own risk management and stress testing. We would also be interested in reactions from market participants as to whether the findings resonate with their own experiences, and how they might change the way they think about risks as a result.
+But there are two categories of findings I’d like to draw out briefly today, both of which were only possible because of the design of this particular exercise and are of wide relevance. The first is that we have been able to use our system-wide lens to map out relationships and interactions between different financial sectors and between those sectors and the markets. And the second is that we have found, despite a sample of sophisticated firms, that there were places that they could not anticipate the behaviour of counterparties, investors, or markets under severe market stress.
+Starting with the first – looking beyond the individual firm or sector in isolation has helped us see how interactions between and within sectors are crucial to market outcomes. For example:
+The resilience of open-ended funds and money market funds are heavily dependent on the resilience of their end-investors.
+Money market funds are critical vehicles for other market participants to meet their immediate liquidity needs, and open-ended funds can be an additional source of liquidity. Redemptions from such funds are heavily dependent on the resilience of their investor base. In the SWES, for example, we see that smaller pension schemes responding to LDI recapitalisation requests have less scope for discretionary decision-making, and therefore redeem from open-ended funds despite the rapid deterioration in prices;
+The terms that banks set for repo financing in stress can apply further pressure on participants’ liquidity needs.
+Repo terms tighten substantially in the SWES, with many banks reducing tenors and increasing haircuts, which double over a few days, directly putting pressure on other market participants. In response, some may have a greater liquidity need than anticipated, or may opt to reduce repo borrowing altogether;
+The increased prevalence of non-cash collateral to meet liquidity calls averts selling pressures but poses other risks.
+The greater use of non-cash collateral to meet needs reduces the need for short-term liquidity, and so reduces fire-sale dynamics in the SWES. But it also potentially increases valuation and operational risks for firms who receive and then need to manage this collateral; and
+We also see that
+hedge funds are particularly sensitive to conditions in the US Treasury repo market.
+A sudden increase in haircuts or contraction in repo availability would have a significant impact on a number of hedge funds. Their response to a shift in repo financing conditions would not necessarily be contained to US Treasuries, and could impact upon other markets
+The second set of findings concerns the way that firms are often not able to anticipate how their counterparties, investors, or the markets they operate in behave under severe market stress. This could leave them underprepared in a real stress. Three notable examples, all detailed more thoroughly in the report are:
+there was a fundamental difference between the expectation of many non-banks that new repo financing would be available, and the very limited willingness of banks to provide this.
+For example, more than half of fund managers considered additional repo an available option, but over a third of these would not have been granted additional repo by any SWES bank for one or more of their funds, had they requested it in the scenario. This mismatch between expectations and reality means there is a risk that even large, sophisticated market participants have less access to finance in a stress than they expect;
+firms found it very challenging to estimate increases in CCP initial margin
+– in the SWES, banks and non-banks generally overestimated changes in CCP initial margin. Their median projections were 9 times higher than the equivalent CCP projection. In other contexts – for example if historic stresses were to fall out of look-back periods – we could see underestimation; and
+fund managers did not always accurately predict stressed redemptions
+, finding it difficult to predict the degree to which redemptions would be driven by liquidity needs of fund investors.
+Many of these issues and dynamics were known as potential risks, but the SWES has given a sense of their magnitude, provided the ability to see how they interact with each other, and revealed how key sensitives could drive very different results.
+Where do we go from here?
+The SWES provided a wealth of findings, a number of which merit follow-up. We are factoring these into our work programme. And, as with all stress tests, we need to include a dose of humility: real stresses never play out the way the way an exercise predicts. That said, in the SWES, we sought to test as many sensitivities as possible, and the two-round nature of the exercise allowed us to challenge the level of realism in firms’ responses.
+Core UK sterling markets are large and complex, and can change quickly. These changes will shift market dynamics in a stress. For example, the SWES was carried out based on balance sheets and risk positions as at end-October 2023. At that time, hedge funds were net cash lenders in the gilt repo market, whereas now they are significant cash borrowers. They could potentially amplify stress to a greater degree, if it were to happen today.
+And different stress scenarios will generate different outcomes. The SWES scenario was designed to test a sharp liquidity shock and the interactions between financial market participants over a two-week period. It did not, therefore, stress bank balance sheets via credit losses on loans, which would generally only materialise over a longer period. Banks were therefore able to play a supporting role as market makers and via rolling clients’ maturing repo.
+Therefore, for core UK sterling markets, which are critical to UK financial stability, we will invest in our capability to continue to be able to model system-wide dynamics. To do this effectively we will continue to engage collaboratively with market participants to ensure our understanding of dynamics remains current. With some investment, and periodic engagement with firms, we believe we can do this in a significantly lighter-touch, desk based, way, and more quickly, than the exercise we have just concluded. We would then be better able to monitor risks to markets and financial stability and understand how different shocks could play out, leading to more informed policy-making.
+System-wide exercises have proved to be an effective tool for understanding system-level vulnerabilities that would not be apparent from sector-specific analysis alone. So, alongside the FCA, we will continue to invest in our capability in this area. There may be other markets and financial stability risks that would benefit from future SWES-style exercises.
+Other authorities may wish to conduct similar exercises in the future as part of their surveillance of the financial system, given how much they have to offer. While the design of similar exercises will naturally vary, the three design features I mentioned earlier were critical to our success and I would encourage others to consider them: (i) take into account complex firm behaviours, by actively engaging firms; (ii) be collaborative – participants have a lot of expertise to offer; and (iii) capture dynamic interactions, via the number of rounds or other features, and through feedback to participants about situations where their expectations may not be met.
+We are very grateful to all the firms who contributed to the SWES, either as participants, or as sources of insight and market intelligence. We are grateful too, to our regulatory colleagues at the FCA and tPR, whose expertise was invaluable. We look forward to continuing our system-wide journey, and we will engage firms in our deliberations about what comes next, continuing the active dialogue about system-level risks.
+I would like to thank Victoria Monro and colleagues across the SWES project for their support in preparing these remarks. I would also like to thank Martin Arrowsmith, Andrew Bailey, Nathanaël Benjamin, Colette Bowe, Sarah Breeden, Martin Davies, Rosie Dickinson, Jonathan Hall, Harsh Mehta and Dave Ramsden for their helpful input and comments.
+See Foulger (2023),
+Financial stability risks from the non-bank sector: thinking system wide − speech by Lee Foulger | Bank of England
+See Bailey (2024),
+Today’s challenges in Financial Stability: the new and the not so new - speech by Andrew Bailey | Bank of England
+and Breeden (2024),
+Financial stability at your service − speech by Sarah Breeden | Bank of England
+.
+See Bailey (2024),
+Today’s challenges in Financial Stability: the new and the not so new - speech by Andrew Bailey | Bank of England
+and Breeden (2024),
+Financial stability at your service − speech by Sarah Breeden | Bank of England
+.
+Close
+See Foulger (2023),
+Financial stability risks from the non-bank sector: thinking system wide − speech by Lee Foulger | Bank of England
+Close
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

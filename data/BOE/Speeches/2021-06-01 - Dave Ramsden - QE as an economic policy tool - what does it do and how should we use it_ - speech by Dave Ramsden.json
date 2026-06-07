@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "QE as an economic policy tool - what does it do and how should we use it? - speech by Dave Ramsden",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Dave Ramsden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2021/february/qe-as-an-economic-policy-tool-what-does-it-do-and-how-should-we-use-it-speech-by-dave-ramsden.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Dave Ramsden - QE as an economic policy tool - what does it do and how should we use it_ - speech by Dave Ramsden.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Dave Ramsden - QE as an economic policy tool - what does it do and how should we use it_ - speech by Dave Ramsden.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:31",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2021/february/dave-ramsden-peter-sinclair-town-hall-lecture-series",
+  "content_sha256": "2e364eefb83f2a9969fc1d1a564bf44648b9672842f0589c4450ed2535f94b52"
+}

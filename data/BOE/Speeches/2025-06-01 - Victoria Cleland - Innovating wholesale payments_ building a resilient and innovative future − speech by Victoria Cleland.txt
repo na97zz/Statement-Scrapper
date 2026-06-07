@@ -1,0 +1,135 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Innovating wholesale payments: building a resilient and innovative future − speech by Victoria Cleland
+DATE: 01/06/2025
+SPEAKER: Victoria Cleland
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/march/victoria-cleland-speech-at-pay360
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Innovating wholesale payments: building a resilient and innovative future − speech by Victoria Cleland
+Given at Pay 360
+Published on 
+
+ 25 March 2025
+Speech given by Victoria Cleland at Pay 360 highlighting the Bank of England's involvement in innovation in wholesale payments. She discusses the importance of modernising infrastructure, expanding access to the Real Time Gross Settlement service, benefitting from adopting ISO 20022 enhanced data, and engaging in experimentation. Working closely with industry, these initiatives can enhance efficiency, resilience, and inclusivity in the payments landscape.
+Speech
+Introduction
+Over the last quarter of a century, the payments landscape has changed significantly, playing a crucial role in enabling commerce, supporting financial inclusion, and driving economic growth. To meet society's evolving needs, it is imperative we innovate to enhance our payment systems. Our core infrastructure must keep pace with new demands, meet modern requirements, and remain resilient against evolving threats. Payments are central to many fintech developments, with technologies such as blockchain, cloud computing, artificial intelligence, tokenisation, and atomic settlement enabling transformation. When delivered safely, innovation in both legacy systems and new platforms offers opportunities to create tangible impacts for end-users, enhancing ease of use, expanding consumer choice, and making payments quicker and more efficient domestically and cross border. Given the crucial role of payments in the modern economy, these enhancements can reduce transactional frictions and directly contribute to economic growth.
+Our role in payment innovation
+The Bank of England wears multiple hats in shaping the payments landscape: operator, supervisor, policy maker, and innovator. Our focus is on financial and monetary stability. And within that context we have a role in supporting and encouraging competition and innovation in payments. Our recent
+'Digital money
+' and
+'Approach to innovation in money and payments
+' discussion papers highlight our wide interests in this area and underpin the importance of central bank money.
+I lead the area of the Bank of England that operates our Real-Time Gross Settlement (RTGS) service and CHAPS, the UK’s high value payment system. We play a pivotal role in supporting and encouraging innovation in payments. Our goal is to ensure that innovation develops in a way that supports continued resilience and broader financial stability. And we are continually exploring how our core infrastructure can enable and facilitate innovative new players that want to settle in central bank money and bring benefits to end-users.
+An important step is our multi-year transformation programme to renew this core infrastructure. We have been working closely with industry to design a renewed RTGS service that will provide a more resilient, flexible, scalable infrastructure, and an open platform to help drive innovation across the financial sector. It has resilience at its core. But crucially it will also enable the development of new financial products and services, enhance operational efficiency, and support the evolving needs of the payments industry.
+The first step in this journey was moving CHAPS to the ISO 20022 global messaging standard in 2023. Next is the new core ledger and settlement engine, which will provide increased resilience, capacity and a platform for further enhancements. In addition to creating a modern platform we want to enable more users to access it and to reap the benefits.
+Expanding access to RTGS
+In 2024, we published a discussion paper
+reviewing access to RTGS accounts for settlement
+seeking views on our policies for access to settlement in RTGS.
+Expanding access to RTGS is a key enabler for promoting innovation and resilience in the payments landscape. By enabling more, and a broader range of, institutions to access RTGS, we can enhance competition, leading to more innovative payment solutions and improved services for end-users. As new players bring fresh ideas and solutions to the market it should help to drive efficiency and reduce costs. Expanding access to RTGS services globally is one of the key building blocks of the
+G20 roadmap to enhance cross-border payments
+. It is an important step towards creating a more efficient and interconnected global payments system: and the more countries that expand access the greater the benefits.
+The inclusion of non-bank payment service providers (NBPSPs) and other types of financial market infrastructures (FMIs) in our RTGS services is a significant, which demonstrates us leading the way in innovative payment solutions catering to the evolving needs of consumers and businesses. In 2017, we became the first G7 central bank to offer settlement accounts to NBPSPs. And since 2021 we have offered Omnibus Accounts to regulated payment system operators allowing them to pool participant funds in RTGS to back transactions in their own system and operate even when RTGS is closed.
+Expanding access to RTGS also enhances the resilience of the payments system. By diversifying the number and range of institutions that can access central bank money settlement, we reduce tiering and concentration in the payments ecosystem. This in turn can increase the overall stability of the financial system.
+Reflecting on feedback from our February 2024 discussion paper (DP) on reviewing access, we have continued to enhance access to RTGS. Before Easter we will publish a summary of the key feedback received, an update on work so far and our forward-looking policy work. In our DP we asked questions about enhancing access to RTGS. Today, I would like to provide a preview of our progress on each of four priority areas flagged in the DP. These changes are accompanied by tangible developments in the renewed RTGS to increase capacity for and the ease of onboarding new participants.
+Enhancing the Bank/Financial Conduct Authority (FCA) process for consideration of NBPSPs seeking access to RTGS
+As set out in our DP, we cooperate closely with the FCA to assess applications from NBPSPs to open an RTGS settlement account. To enhance the assessment process, the Bank and the FCA have made
+three changes to the cooperation framework
+:
+requiring a firm to undertake regulated activities for at least nine months before a full assessment, recognising that very newly authorised firms are unlikely to have gathered necessary evidence to achieve a positive outcome from the supervisory assessment process;
+undertaking a s166 assessment prior to the FCA providing an objection or
+non-objection
+footnote
+[1]
+and;
+setting an expectation that fast-growing firms will be subject to enhanced supervision when granted RTGS access.
+These improvements are intended to provide a more focused and efficient process by ensuring compliance with regulatory requirements from the outset, helping to identify key risks at an earlier stage and enabling smoother on-boarding processes and management, especially during periods of growth. By streamlining these processes, we can support institutions in scaling their operations effectively and sustainably.
+To enhance clarity, we are about to publish
+an updated version of a guide for NBPSP access to UK payment systems
+. This provides comprehensive information on how NBPSPs can access UK payment systems, outlining the requirements and processes involved.
+Understanding demand of foreign banks for access to RTGS to support payment system settlement
+We already provide RTGS access to foreign banks (i.e. UK subsidiaries or branches of banks incorporated outside the UK). Responses to our DP did not highlight the need for policy changes but did suggest more clarity is needed on the costs, benefits, and process for accessing RTGS directly. The content on the Bank’s website will be updated shortly to make information about access to RTGS easier to navigate for industry stakeholders, including foreign banks. It will provide key information and include more detail on the benefits, costs, and processes involved. This aims to raise awareness among foreign banks and encourage their participation in the UK payments system.
+Clarifying requirements for FMIs
+We have published a
+revised access policy
+that introduces a live-proving and mobilisation stage for new and small FMIs allowing firms seeking access to RTGS, to test their access to RTGS and grow their business in a controlled way subject to restrictions to mitigate risk. This approach supports innovation and competition, while maintaining equivalent protection against risks to our objectives. It ensures that new services have been rigorously tested and sufficient controls are in place. The revised policy articulates the services we offer, how to access them, why we offer them, and how they work. We have also published new “
+RTGS rules
+” setting out our expectations for RTGS participants, including FMIs, in simple language.
+CHAPS value threshold
+The degree of tiering in a payment system may impact the smooth functioning of the payment system and of financial markets by increasing risk between the direct and the indirect participants. Reducing tiering in CHAPS participation could therefore mitigate financial stability risks by decreasing concentration, operational and credit risks in CHAPS.
+This year we will further engage with industry to better understand the benefits and costs to, and assess any financial stability implications of further policy intervention to revise the CHAPS direct participation threshold, the level of CHAPS activity at which we have a presumption, absence mitigating factors, that an indirect participant should move to direct access. The phased approach and lessons from industry engagement will inform our further work in this area.
+Further access enhancements
+In light of the potential benefits of offering safeguarding facilities directly to NBPSPs, we are exploring whether and on what terms we could provide these facilities. These accounts with safeguarding functionality could provide NBPSPs with a secure means of holding funds overnight, enhancing their ability to manage liquidity and meet their payment obligations. This initiative would aim to make direct access to RTGS for NBPSPs more attractive, further levelling the payments playing field between bank and non-bank payment service providers while also reducing risk. By doing so, we can foster a more inclusive and competitive payments landscape, improving the end-user experience.
+We are also supporting efforts to reform the regulatory regime for NBPSPs to identify opportunities to enhance their access to RTGS as well as mitigate risks they could pose to financial stability. This includes working with HMT and FCA to identify and address any barriers to access and developing policies that support the participation of NBPSPs in the payments system.
+I encourage you to review our upcoming response and participate in our engagement, creating the next chapter in the evolution of access to RTGS.
+ISO 20022
+The ISO 20022 global messaging standard is another exciting key area which can bring benefits to the payments industry and to end users.
+The adoption of the ISO 20022 global messaging standard marks a significant milestone in enhancing the quality of payment information. This standard provides a structured and data-rich common language that enhances the interoperability of financial messages across different systems and networks. The benefits of richer ISO 20022 data are wide ranging and include:
+Enhanced data richness:
+ISO 20022 enables the inclusion of more detailed information in payment messages, which can improve transparency and provide valuable insights for financial institutions and end-users.
+Improved efficiency:
+By supporting real-time payment processing and reducing the need for manual intervention, ISO 20022 facilitates straight-through processing, which enhances the overall efficiency of financial transactions.
+Better customer experience:
+The richness of data and improved processing capabilities can lead to a more seamless and satisfying experience for customers, with faster and more accurate payments.
+Enhanced analytics:
+The structured data provided by ISO 20022 allows for better analytics and reporting, which can help financial institutions make more informed decisions and improve their services.
+Fraud prevention and compliance:
+Standardised information about the purpose of payments and the use of Legal Entity Identifiers (LEIs) can aid in fraud prevention, sanctions screening, and compliance with regulatory requirements.
+Let me try to bring it to life with a couple of potential use cases for ISO 20022 data:
+Reference information
+: Historically, retail payments have been limited by outdated communication standards, allowing only a small free text field for payment instructions. In the future, when you pay your hotel bill for a work trip, the payment could seamlessly link with the hotel's internal processes, including its address in a structured format and referencing the relevant invoice. If it is your employer picking up the tab, the purpose of your visit could be instantly populated into your employer's systems, including relevant tax information ready for your employer to share with UK tax authorities. Additionally, your employer could confirm your identity within the payment, allowing the hotel to cross-check your identity upon arrival, mitigating the risk of mistaken identity.
+Payment prioritisation
+: We are establishing a framework to prioritise property transactions and Financial Institution to Financial Institution (FI-to-FI) payments for the rollout of richer ISO 20022 enhanced data in CHAPS. A rich, high-quality
+real-time source of payment purpose data will boost the resilience of the CHAPS ecosystem. Banks could use these to prioritise certain CHAPS payments during outages, such as house completions where the real economy impact of disruption could be the most severe.
+To unlock these benefits, and more, it is vital that the entire industry works together. Collaboration across market infrastructures, financial institutions, and technology providers is essential to fully realise the potential of ISO 20022. For instance, the Committee on Payments and Market Infrastructures (CPMI) and Payment Market Practice Group (PMPG)
+joint task force on harmonising the use of ISO 20022 messaging in cross-border payments
+has brought together public and private sector expertise to ensure a harmonised global adoption of the richer ISO 20022 data to address payment system misalignment and work towards a shared vision for the future of payment data.
+To promote the use of enhanced data within the UK payments sector, we will mandate the use of ISO 20022 enhanced data for certain CHAPS payments from 1 May 2025. This includes purpose codes for payments between financial institutions and property transactions, as well as the inclusion of LEIs for payments between financial institutions. Consistent and wide usage of the LEI has numerous potential benefits, including supporting improved resolution planning, increased financial crime detection and customer due diligence, and innovation in products and services. In the build up to the 1 May deadline, we are already seeing an increase in the usage of enhanced data within CHAPS payment messages, with an 80% increase in messages containing an LEI or Purpose Code over the last six months.
+The industry's role in implementing ISO 20022 is crucial. Financial institutions need to integrate enhanced data into their systems and processes, and actively encourage their customers to do the same. By using the data, financial institutions can drive efficiency, improve customer experiences, and enhance the overall resilience and transparency of the financial system. It is through collective effort and collaboration that we can achieve the full benefits of ISO 20022 and pave the way for a more efficient and secure payments landscape.
+The adoption of ISO 20022 can also drive innovation by enabling the development of new payment products and services. The rich data can be used to create more personalised and targeted financial products, enhancing the customer experience and driving growth in the payments industry. Innovation enabled by an abundance of richer data in areas, such as artificial intelligence and machine learning is globally at the forefront of technological progress. In the payments sector, the enhanced data opportunities of the ISO 20022 messaging standard provide a golden opportunity for the sector to leverage this incredibly valuable data resource to deliver more efficient and effective payment solutions for all payment users.
+Innovation and experimentation
+As part of the Bank’s future roadmap for RTGS, we are driving strategic changes that enhance system resiliency and support industry innovation. We are, for example, exploring tokenisation, and the role it could play in enhancing transactions in wholesale markets. It could enable greater efficiency in transactions and post-trade processes, as well as enabling new functionality such as smart contracts. This technology is increasingly being adopted by industry and we are considering it through the lens of benefits and risks.
+A current priority is developing our synchronisation capability to seamlessly connect RTGS with diverse ledgers, both domestically and internationally, through dedicated synchronisation operators. This advancement has the potential to significantly reduce settlement risks and liquidity costs, ensuring transactions are executed with certainty and efficiency.
+In order to assess such innovations, we have been working internally and with partners to undertake various experiments, focusing on addressing real-world challenges. Project Meridian, conducted with the BIS Innovation Hub’s London centre in 2023, demonstrated synchronised settlement between an RTGS system and a digital asset ledger in a UK housing context, yielding valuable insights. It showcased how synchronisation could be applied to house purchases using a digital housing deed.
+Building on that success, Meridian FX is now exploring multi-currency settlement, showcasing the adaptability of synchronisation across various asset classes and technologies. Currently, we are working with the Eurosystem to explore the synchronisation of foreign exchange between sterling and euro. This involves connecting to the three solutions being explored as part of the Eurosystem’s work on wholesale settlement, including linking an RTGS system with a DLT-based settlement system. This exploration aims to enable interoperability between existing and new technologies, potentially benefiting cross-border payments with lower liquidity costs and reduced settlement risk. We look forward to reporting our findings in collaboration with the BIS Innovation Hub in the near future.
+In order to help inform future policy and design choices, we will undertake further use experiments to achieve insights, enhance our understanding and gain empirical evidence on the role that new technologies can play. In July, we set out our ambition to launch a
+programme of wholesale experiments
+. These experiments will explore the use cases, functionalities, and prospective designs of wholesale CBDC and synchronisation, and their relative merits. This is an exciting programme of work, which will benefit from strong collaboration with industry: we will provide an update soon.
+Conclusion
+The payments landscape is evolving rapidly, and the Bank of England is at the forefront of this transformation. As providers of core infrastructure, regulators, policymakers, and innovators, we are dedicated to fostering a supportive environment for innovation while maintaining financial system resilience. Collaboration with all stakeholders across the payments ecosystem is an important ingredient of success.
+By working together and embracing changes such as ISO 20022, access to RTGS and exploring new models such as synchronisation, we can create a payments landscape that enhances efficiency, security, and develops new products and services, ultimately benefiting society as a whole. Let us shape the future of payments and enable the benefits of innovation to be realised by all.
+Acknowledgements
+I would like to thank Joseph Sadio, Mark Streather, Nefeli Fotopoulou and Nina Turnbull for their help in preparing these remarks.
+A Section 166 (s166) assessment, under the Financial Services and Markets Act 2000 in the UK, is a regulatory tool used by the Financial Conduct Authority. It involves appointing a skilled person to conduct an independent review of certain aspects of a firm's activities, compliance, or controls.
+A s166 assessment is valuable because it provides an independent and thorough evaluation of a firm's operations, helping to identify and address potential risks and compliance issues, thereby enhancing overall regulatory compliance and protecting consumers.
+A Section 166 (s166) assessment, under the Financial Services and Markets Act 2000 in the UK, is a regulatory tool used by the Financial Conduct Authority. It involves appointing a skilled person to conduct an independent review of certain aspects of a firm's activities, compliance, or controls.
+A s166 assessment is valuable because it provides an independent and thorough evaluation of a firm's operations, helping to identify and address potential risks and compliance issues, thereby enhancing overall regulatory compliance and protecting consumers.
+Close
+Convert this page to PDF
+Victoria Cleland
+Executive Director, Payments
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Getting the right directions − speech by Alan Taylor",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Alan Taylor",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2026/march/speech-by-alan-taylor-getting-the-right-directions",
+  "raw_file_path": "data\\BOE\\Speeches\\2026-06-01 - Alan Taylor - Getting the right directions − speech by Alan Taylor.html",
+  "text_file_path": "data\\BOE\\Speeches\\2026-06-01 - Alan Taylor - Getting the right directions − speech by Alan Taylor.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:09:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bed683697a3d4e50a638cc6ca267f8b63ebeac58c750a138316ff9709ea30172"
+}

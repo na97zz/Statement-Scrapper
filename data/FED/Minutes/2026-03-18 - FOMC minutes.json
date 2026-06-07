@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2026-03-18",
+  "date_au": "18/03/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260318.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2026-03-18 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2026-03-18 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:49:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f8ec691071910a6f167ef95b8e2577f9f9a4ea465fc82184b435e62308b40f8f"
+}

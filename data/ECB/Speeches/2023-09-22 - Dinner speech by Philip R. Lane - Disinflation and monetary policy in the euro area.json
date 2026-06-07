@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Disinflation and monetary policy in the euro area",
+  "date_original": "2023-09-22",
+  "date_au": "22/09/2023",
+  "datetime_original": "",
+  "speaker": "Dinner speech by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230922~3104733830.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-09-22 - Dinner speech by Philip R. Lane - Disinflation and monetary policy in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-09-22 - Dinner speech by Philip R. Lane - Disinflation and monetary policy in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8a51d937687dbe8e99bdd0a7a641fb9098a9deb56c6faa8269b0fddbfc0ae136"
+}

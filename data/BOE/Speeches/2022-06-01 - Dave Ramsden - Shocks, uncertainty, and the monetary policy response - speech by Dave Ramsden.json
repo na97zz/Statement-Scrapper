@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Shocks, uncertainty, and the monetary policy response - speech by Dave Ramsden",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Dave Ramsden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/february/dave-ramsden-speech-at-the-national-farmers-union-conference-2022",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Dave Ramsden - Shocks, uncertainty, and the monetary policy response - speech by Dave Ramsden.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Dave Ramsden - Shocks, uncertainty, and the monetary policy response - speech by Dave Ramsden.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "05c75eec6e3fe492723f8f6ceb67d6195026a38da943aea4d34ee47fe75b9059"
+}

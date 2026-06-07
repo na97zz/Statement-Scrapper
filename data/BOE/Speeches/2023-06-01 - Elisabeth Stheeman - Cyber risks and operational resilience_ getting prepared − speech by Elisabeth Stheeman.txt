@@ -1,0 +1,164 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Cyber risks and operational resilience: getting prepared − speech by Elisabeth Stheeman
+DATE: 01/06/2023
+SPEAKER: Elisabeth Stheeman
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/october/elisabeth-stheeman-speech-at-the-london-school-of-economics-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Cyber risks and operational resilience: getting prepared − speech by Elisabeth Stheeman
+Given at the London School of Economics
+Published on 
+
+ 18 October 2023
+Elisabeth Stheeman discusses how the threat of cyber-attacks has become an increasingly important consideration for maintaining financial stability in the UK. She describes how the Bank’s Financial Policy Committee is working with other authorities and the private sector to improve and test the financial system’s resilience to cyber risks, and how it will be continuing to improve macroprudential oversight of operational resilience as a medium-term priority.
+Speech
+Introduction
+I would like to start by saying thank you to the London School of Economics for having me here tonight and for hosting this event. It is a pleasure for me to speak at the LSE, in particular because I studied here after moving to the UK in my early twenties. I became a member of the LSE Court in 2011, of the LSE Council in 2016, and I was a member of the Finance and Estates committee from 2016 until August this year.
+In addition to these roles at the LSE, I hold positions at the Bank of England as an external member of the Financial Market Infrastructure Board, and of the Financial Policy Committee, known as the FPC. The FPC is responsible for identifying, monitoring, and taking action to remove or reduce systemic risks with a view to protecting and enhancing the resilience of the UK financial system.
+footnote
+[1]
+Often we, as a committee, think about this in terms of financial risks and tests of financial resilience. Happily, the UK financial system has passed a number of tests to its resilience in recent years.
+In early 2020, the Covid-19 pandemic and the so-called ‘dash for cash’ liquidity shock disrupted the functioning of a range of important markets and required central banks—including the Bank of England—to step in on a large scale, returning order to financial markets. Then just over a year ago, in response to rapid sales of UK government bonds by liability-driven investment (LDI) funds, the Bank of England undertook a temporary and targeted programme of purchases to restore market functioning. Earlier this year, some parts of the overseas banking sector came under stress following the failure of three US banks and Credit Suisse. The UK financial system was able to absorb rather than amplify these shocks and continue to provide services to households and businesses.
+We won’t always be able to predict events like these that test the system. But we routinely do our own stress tests of the financial system to make sure it is prepared to withstand the macroeconomic shocks that events like these might trigger, and which might then disrupt the provision of financial services. In July of this year, we published the results of our 2022/23 annual cyclical scenario—or, ACS—which showed that, faced with a set of severe economic conditions, the major UK banks would be financially resilient, and would be able to continue to lend to households and businesses. In addition to the ACS, we have worked with major banks and insurance companies to explore their exposures to climate-related financial risks. Finally, we recently launched our first system-wide exploratory scenario exercise (SWES) to improve our understanding of the behaviours of banks and non-bank financial institutions in stressed financial market conditions.
+The FPC’s job of protecting and enhancing financial stability involves looking for and monitoring risks that could disrupt the supply of vital financial services to UK households and businesses, and aiming to ensure the UK financial system has sufficient resilience to be able to maintain the provision of vital services. This means that as well as looking at financial risks, we also focus on risks that could lead to systemic operational disruption.
+The focus of this speech is operational risk; the type of risk that affects systems and processes. Operational risk can be broken down into natural and man-made hazards. Examples of natural hazards are characterised in the Government’s National Risk Register as ‘non-malicious risks’ such as fire, floods, severe weather and pandemic.
+footnote
+[2]
+Man-made threats, or ‘malicious risks’, could be physical and cyber attacks, IT system outages and third-party supplier failure. This can come from human errors and management failures, and from external events and external actors.
+Good operational risk management helps a company to detect and prevent risks that could lead to operational disruption, and so will reduce the number of instances in which disruption will occur. In 2021 the Prudential Regulation Authority (PRA) set out its expectations for the operational resilience of firms’ important business services, noting that disruptions can affect firms’ safety and soundness, undermine policyholder protection, and, in some cases, affect UK financial stability.
+footnote
+[3]
+Indeed, as financial firms have become more digitised and interconnected at an operational level, the associated risks have become greater threats to the wider financial system. If business operations are disrupted at a system-wide level, there might be consequences for financial stability, and so the focus of work to improve operational resilience has broadened. Resilience to operational risk now not only includes business continuity and disaster recovery, but the ability of firms and the financial sector to be able to continue to supply vital financial services through disruption, and periods of elevated activity.
+Cyber risks
+Since the inception of the FPC in 2013, the risk from cyber-attacks has been high on the committee’s agenda.
+footnote
+[4]
+It is the most prominent operational risk the FPC has been monitoring.
+Cyber risks have also been at the forefront of UK businesses’ minds. The Bank of England carries out a Systemic Risk Survey to get a sense of what worries UK banks and other financial institutions. Cyber risk is frequently cited as a key source of risk to UK financial stability. The risk of a cyber-attack is the most cited risk in the latest survey for the second half of 2023, with 80% of firms mentioning it. This is the highest proportion of respondents citing cyber risk ever recorded in the survey.
+footnote
+[5]
+Earlier this year, geopolitical risks were at the top of the list, but three-quarters of firms still worried about a cyber-attack.
+footnote
+[6]
+These issues are not unrelated; the National Cyber Security Centre, or NCSC, has noted Russia’s use of cyber capabilities to maximise its operational impact in Ukraine, calling this the most significant development in the cyber security threat internationally. The NCSC has also said that China’s technical development and evolution is likely to be the single biggest factor affecting the UK’s cyber security in the years to come.
+footnote
+[7]
+Ransomware remains one of the most acute cyber-related threats faced by UK businesses, but less sophisticated cyber crime also remains a challenge.
+footnote
+[8]
+Left unchecked, a cyber-attack could impact financial stability directly if it leads to a material disruption of the provision of vital services by financial institutions, markets and financial market infrastructure. I like to call the infrastructure that provides vital services, “the plumbing”. It is largely invisible to us until it no longer works, and in the 2008 financial crisis it was only when the pipes of global finance were under threat and financial stability at risk that market participants, policymakers, and the public realised how vital it was, and to never take it for granted.
+footnote
+[9]
+A cyber-attack could also impact financial stability indirectly if there is financial contagion through liquidity stress, financial losses, and significant price moves that could disrupt market functioning, or through a loss of confidence in financial institutions or payment systems.
+This is why the Bank—alongside HM Treasury, and the Financial Conduct Authority, or FCA—has been working to improve and test the financial system’s operational resilience to cyber-attacks.
+The Bank and PRA already use a range of tools to assess the cyber resilience of individual firms’ important business services. The ‘CBEST’ tests the ability of firms and financial market infrastructures to prevent and detect cyber-attacks. Cyber stress testing looks at individual firm responses to an attack. The Bank also works collectively with industry through the cross-market operational resilience group to build collective resilience to cyber and other risks. This includes ‘SIMEX’ and the wider sector exercise programme for collective response and recovery capabilities.
+The FPC has set out the elements of the framework of regulation to strengthen the resilience of the UK financial system as a whole to cyber risk.
+footnote
+[10]
+One is that there needs to be clear baseline expectations for firms’ resilience that reflect the importance of their services to the financial system. Another is that there should be regular testing by firms and supervisors to ensure that resilience keeps pace with the evolving nature of the risk. For its baseline expectation, the FPC has expressed a tolerance for how quickly financial companies must be able to complete critical payments following a severe but plausible cyber incident. Cyber stress testing has been used to test firms’ ability to meet this expectation.
+From our perspective, this is an important component of the ‘resilience’ I have been talking about. Resilience in this context means both the ability to withstand cyber incidents, and the ability to restore functioning after one.
+Last year, the FPC ran a cyber stress test to better understand the ability of firms to restore vital financial services after a hypothetical cyber incident. I’ll now talk in more detail about this stress test and how it has helped us do our job.
+2022 cyber stress test
+The 2022 cyber stress test focused on disruption to retail payments—a critical function of the financial system, particularly in view of trend away from cash payments in recent years. In 2007, just over 60% of all payments were made in cash. Accelerated by payment trends during the Covid pandemic, this figure dropped to 14% in 2022, with a majority of payments being made by debit card and credit card.
+footnote
+[11]
+The cyber stress test was based on a hypothetical incident whereby a threat actor, aided by a malicious insider, sought to redirect payments by amending payee data concurrently at two distinct firms. The hypothetical attack was detected and confirmed out of business hours. The test assumed that data integrity was compromised and that disruption to retail payments had occurred, affecting everyday transactions made by households and businesses.
+There were two main objectives to running the test. First, to explore firms’ ability to quickly identify the nature of the disruption they faced following the attack. Second, to gather evidence on the potential impacts to financial stability in cases where firms were not able to restore vital financial services quickly enough to prevent disruption that would cause material economic harm.
+As I mentioned earlier, the FPC expressed baseline expectations for the ability of firms to restore services before there are material economic impacts. This is called its ‘impact tolerance’. An impact tolerance is sometimes described as the maximum tolerable level of disruption to an important business service.
+footnote
+[12]
+For the FPC and our objectives, this is the point at which UK financial stability is affected. The impact tolerance was established such that the financial system should be able to make critical payments on the date they are due, or the ‘value date’.
+footnote
+[13]
+This was a voluntary, exploratory test. A number of systemic firms and financial market infrastructures were invited to participate, reflecting that their contribution to the operation of the UK financial system’s vital functions was significant. But smaller firms were also invited, to help us explore the channels through which disruption might become larger. Firms were expected to report back on whether they could continue to make critical payments on the date they were due. This was not a formal pass-fail assessment but participating firms were expected to share their findings and any remedial plans with supervisors.
+Key lessons
+There were a number of lessons from this test, including the need to consider contingencies, prepare suitable mitigating actions, co-ordinate with other firms and financial market infrastructures, and communicate throughout the incident. Let me say a bit more about each one of these.
+footnote
+[14]
+It is important for firms to explore what contingencies are already available to them and consider how different contingencies could work together in an incident. In the case of our hypothetical scenario, this meant considering the options that firms have to reroute payments via alternative systems. The availability of clean data to use to reconcile and reroute payments is a pre-requisite for this. Therefore, it is important for firms to develop and test suitable tools and/or scripts to help automate data reconciliation in advance of an incident. Planning and investment to ensure this could be done at scale and in an automated fashion to make it an effective contingency is also important. We also urged firms to identify and prioritise critical payments that are the most important for managing the impact on financial stability. More generally, appropriate planning, preparation, and testing will further strengthen individual firm capabilities and support the industry’s ability to respond and recover. All of these efforts could help to lessen the impact of an incident.
+Where contingencies might fall short, we noted that preparing suitable mitigating actions could also limit the risk of an incident causing financial instability if they were to help minimise confusion for consumers and maintain public confidence in the financial system. This could be achieved by making emergency cash available or extending overdrafts in the case of retail payments, so that despite payments not being made, customers can continue to pay for essential services.
+Another lesson was that timely and co-ordinated decision-making and action across the industry is critical in limiting the impact of an incident. Firms should make decisions taking into account the potential consequences of their actions on others and understand the actions that others might take to contain the risk of contagion. This is particularly relevant where firms provide services to one another, for example the financial market infrastructure I mentioned before. To support this, it is essential that response actions, including any potential rerouting of payments via alternative payment systems, and public communications, are co-ordinated effectively across the industry. The existing Sector Response Framework (developed by the sector’s Cross Market Operational Resilience Group, CMORG) plays an important role in this co-ordination. This framework sets out how organisations across the sector and government are connected. It also explains how they may respond to incidents individually and together when the impacts of an incident become broader than a single firm or financial market infrastructure, and require a degree of coordination, information sharing or collective action.
+There should be consistent, effective, and timely communications throughout an incident. We know that communications are an important tool for maintaining public confidence in the financial system in times of extreme stress, because they can reduce the potential for contagion. Firms should communicate with a wide range of stakeholders, for example, customers, the public, regulators, the media, and other participants in the payments system. This should occur across a number of channels, including via the Sector Response Framework, social media channels, and traditional media.
+These lessons underscore the need for firms to prepare for a potential cyber incident. Where data is corrupted, or where a third-party is operationally unavailable, the ability to make critical payments by the end of value date might not always be possible and might lead to adverse impacts on financial stability. However, the ability of firms to take suitable mitigating actions could limit the impact of financial and operational contagion, as well as the impact of the scenario on public confidence. A fellow member of the FPC, current Deputy Governor for Financial Stability and Chair of the Bank’s Financial Market Infrastructure (FMI) Board, Sir Jon Cunliffe, has noted that ‘operational resilience is not a technical issue, especially for the infrastructure firms that need to act as ‘systemic risk managers’. It must begin in the boardroom.’
+footnote
+[15]
+As has been recognised by the FPC previously, the 2022 cyber stress test highlighted that it might not always be possible for firms to make critical payments by the end of the value date, and that doing so might lead to adverse impacts on financial stability. In these cases, alternative mitigating actions might be appropriate, and firms should test for such situations and invest in responses that could effectively mitigate the impact on financial stability until services are restored; the FPC’s impact tolerance accounts for both these situations. We also set our impact tolerance with regard to all operational disruptions to critical payments, whether they arise from a cyber incident or otherwise.
+Operational resilience
+I have talked mostly about cyber risks because they are prominent, and it is important that we continue to build resilience in this area. However, I would like to emphasise that we are also doing an increasing amount of thinking about broader operational issues.
+Firms are making greater use of third parties, including cloud service providers, who offer services such as shared virtual data storage and processing capabilities. This has the potential to make firms more resilient to operational risks than using only on-site IT infrastructure. However, because the provision of these services is often concentrated in a small number of third parties, the more important these services become, the greater the threat to UK financial stability if they were to face disruption. This makes the case for greater direct regulatory oversight of the services they provide.
+Last year, the Bank, PRA and FCA published a discussion paper setting out their initial thinking on how they may exercise their new statutory powers over critical third parties, targeted to their services to the UK financial sector. The regulators will follow up this discussion paper with a consultation paper with draft rules and guidance for critical third parties in the coming months.
+Alongside this work on critical third parties and our cyber stress testing, the FPC continues to identify and monitor the channels through which operational risks could affect financial stability. This includes those arising through technological developments such as Artificial Intelligence and the use of blockchain.
+Conclusion
+Operational resilience is a medium-term priority for the FPC. We are reflecting the key lessons I have set out today into our future cyber stress tests and continuing to improve our macroprudential oversight of operational resilience, in light of its growing importance to financial stability. I mentioned earlier how businesses have become more digitised and interconnected at an operational level, and how this increases the potential for disruption at one firm, to lead to disruption at a system-wide level. Because of this, we are undertaking further work to advance and develop our understanding of how financial stability can be threatened by operational risks, and how resilience can be strengthened at the system level. In short, we want to get prepared.
+I am grateful to Danielle Haralambous and Niamh Reynolds for their assistance in drafting these remarks. I would also like to thank Rachel Adeney, Andrew Bailey, Jo Bibby-Scullion, Sarah Breeden, Claire Cheung, Geoff Coppins, Orlando Fernandez Ruiz, Elizabeth Gilbert, Simon Hall, Andrew Huddart, Andrew John, Amy Lee, Duncan MacKinnon, Grellan McGrath, Harsh Mehta, Andrew Nye, Sean Plumb, Michael Price, Jon Sepanksi and Henry Tanner for their comments and assistance in helping me to prepare these remarks.
+The Bank’s Financial Stability Strategy | Bank of England
+2023_NATIONAL_RISK_REGISTER_NRR.pdf (publishing.service.gov.uk)
+SS1/21 ‘Operational resilience: Impact tolerances for important business services’ (bankofengland.co.uk)
+Record of the Financial Policy Committee meeting - 18 June 2013 (bankofengland.co.uk)
+Systemic Risk Survey Results - 2023 H2 | Bank of England
+Systemic Risk Survey Results - 2023 H1 | Bank of England
+State threats - NCSC.GOV.UK
+Annual Review 2022 launch - NCSC.GOV.UK
+The financial “plumbing” committee - from plumbing to policy - speech by Elisabeth Stheeman | Bank of England
+Financial Stability Report June 2017 | Issue No. 41 (bankofengland.co.uk)
+UK Finance Payment Markets Report 2023 Summary.pdf
+Operational resilience in financial services | National Preparedness Commission
+Financial Policy Summary and Record - March 2021 (bankofengland.co.uk)
+Thematic findings from the 2022 cyber stress test (bankofengland.co.uk)
+Global pipes – challenges for systemic financial infrastructure (bankofengland.co.uk)
+Global pipes – challenges for systemic financial infrastructure (bankofengland.co.uk)
+Close
+Thematic findings from the 2022 cyber stress test (bankofengland.co.uk)
+Close
+Financial Policy Summary and Record - March 2021 (bankofengland.co.uk)
+Close
+Operational resilience in financial services | National Preparedness Commission
+Close
+UK Finance Payment Markets Report 2023 Summary.pdf
+Close
+Financial Stability Report June 2017 | Issue No. 41 (bankofengland.co.uk)
+Close
+The financial “plumbing” committee - from plumbing to policy - speech by Elisabeth Stheeman | Bank of England
+Close
+Annual Review 2022 launch - NCSC.GOV.UK
+Close
+State threats - NCSC.GOV.UK
+Close
+Systemic Risk Survey Results - 2023 H1 | Bank of England
+Close
+Systemic Risk Survey Results - 2023 H2 | Bank of England
+Close
+Record of the Financial Policy Committee meeting - 18 June 2013 (bankofengland.co.uk)
+Close
+SS1/21 ‘Operational resilience: Impact tolerances for important business services’ (bankofengland.co.uk)
+Close
+2023_NATIONAL_RISK_REGISTER_NRR.pdf (publishing.service.gov.uk)
+Close
+The Bank’s Financial Stability Strategy | Bank of England
+Close
+Elisabeth Stheeman
+External member of the Financial Policy Committee from 12 February 2018 to 11 February 2024
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

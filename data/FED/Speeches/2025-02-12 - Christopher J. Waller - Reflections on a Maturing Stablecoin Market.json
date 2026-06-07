@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Reflections on a Maturing Stablecoin Market",
+  "date_original": "2025-02-12",
+  "date_au": "12/02/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250212a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-02-12 - Christopher J. Waller - Reflections on a Maturing Stablecoin Market.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-02-12 - Christopher J. Waller - Reflections on a Maturing Stablecoin Market.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5f3e1ca5aaeb5e6bc20f2a95d818ad2aba4aa6dc08378be6dcf9b375a22449db"
+}

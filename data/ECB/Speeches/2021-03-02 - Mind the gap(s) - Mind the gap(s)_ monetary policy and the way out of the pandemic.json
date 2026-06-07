@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Mind the gap(s): monetary policy and the way out of the pandemic",
+  "date_original": "2021-03-02",
+  "date_au": "02/03/2021",
+  "datetime_original": "",
+  "speaker": "Mind the gap(s)",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210302~b618d33987.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-03-02 - Mind the gap(s) - Mind the gap(s)_ monetary policy and the way out of the pandemic.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-03-02 - Mind the gap(s) - Mind the gap(s)_ monetary policy and the way out of the pandemic.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f7c85723a4efde6a62187551cbb1a601fb611b9c502800afb0c1de129d131bc8"
+}

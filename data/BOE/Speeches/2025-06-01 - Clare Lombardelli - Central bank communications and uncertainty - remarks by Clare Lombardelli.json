@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Central bank communications and uncertainty - remarks by Clare Lombardelli",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Clare Lombardelli",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2025/may/central-bank-communications-and-uncertainty-remarks-by-clare-lombardelli",
+  "raw_file_path": "data\\BOE\\Speeches\\2025-06-01 - Clare Lombardelli - Central bank communications and uncertainty - remarks by Clare Lombardelli.html",
+  "text_file_path": "data\\BOE\\Speeches\\2025-06-01 - Clare Lombardelli - Central bank communications and uncertainty - remarks by Clare Lombardelli.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:12:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "24600b4739df34daaf52e9b3e8cb304486966caff4a5f90dffa4e296dd4b2fe4"
+}

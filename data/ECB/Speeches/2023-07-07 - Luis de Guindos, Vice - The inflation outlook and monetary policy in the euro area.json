@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The inflation outlook and monetary policy in the euro area",
+  "date_original": "2023-07-07",
+  "date_au": "07/07/2023",
+  "datetime_original": "",
+  "speaker": "Luis de Guindos, Vice",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230707~8f8f9debc6.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-07-07 - Luis de Guindos, Vice - The inflation outlook and monetary policy in the euro area.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-07-07 - Luis de Guindos, Vice - The inflation outlook and monetary policy in the euro area.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5e598d806f52074f38816adaeb9560a3b25e41d2670c8b981f9e51bfe7cc281c"
+}

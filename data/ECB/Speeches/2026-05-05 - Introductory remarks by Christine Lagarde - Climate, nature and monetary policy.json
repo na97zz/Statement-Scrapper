@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Climate, nature and monetary policy",
+  "date_original": "2026-05-05",
+  "date_au": "05/05/2026",
+  "datetime_original": "",
+  "speaker": "Introductory remarks by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260505~936c9c11b5.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-05-05 - Introductory remarks by Christine Lagarde - Climate, nature and monetary policy.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-05-05 - Introductory remarks by Christine Lagarde - Climate, nature and monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1c0cf01c476019cf38db82b68218ad4db30f3bbb8474311edf9784dbd42f4a1b"
+}

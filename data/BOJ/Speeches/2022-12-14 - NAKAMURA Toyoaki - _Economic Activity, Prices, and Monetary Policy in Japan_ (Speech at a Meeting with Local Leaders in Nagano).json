@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Nagano)",
+  "date_original": "2022-12-14",
+  "date_au": "14/12/2022",
+  "datetime_original": "",
+  "speaker": "NAKAMURA Toyoaki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko221214a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-12-14 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Nagano).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-12-14 - NAKAMURA Toyoaki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Nagano).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6b83866675eae55fa305069cc2e71711f527583b863783b129e193e4bdb058dc"
+}

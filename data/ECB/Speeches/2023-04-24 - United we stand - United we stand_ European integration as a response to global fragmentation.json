@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "United we stand: European integration as a response to global fragmentation",
+  "date_original": "2023-04-24",
+  "date_au": "24/04/2023",
+  "datetime_original": "",
+  "speaker": "United we stand",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230424~67a4af298c.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-04-24 - United we stand - United we stand_ European integration as a response to global fragmentation.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-04-24 - United we stand - United we stand_ European integration as a response to global fragmentation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ab6d33d144584e5dd5289c3161fd14c5d0c8e2f05d172ff103c1b5252cb83848"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Underlying inflation",
+  "date_original": "2023-03-06",
+  "date_au": "06/03/2023",
+  "datetime_original": "",
+  "speaker": "Lecture by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230306~57f17143da.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-03-06 - Lecture by Philip R. Lane - Underlying inflation.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-03-06 - Lecture by Philip R. Lane - Underlying inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a0c2a1cae74b4f8f84e169de6213fbef09e6dad83e1709f6229fa517ac92f3d4"
+}

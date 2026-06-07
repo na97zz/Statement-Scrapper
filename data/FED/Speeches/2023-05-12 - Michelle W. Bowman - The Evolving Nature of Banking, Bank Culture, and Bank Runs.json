@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Evolving Nature of Banking, Bank Culture, and Bank Runs",
+  "date_original": "2023-05-12",
+  "date_au": "12/05/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20230512a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-12 - Michelle W. Bowman - The Evolving Nature of Banking, Bank Culture, and Bank Runs.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-12 - Michelle W. Bowman - The Evolving Nature of Banking, Bank Culture, and Bank Runs.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2e54e6d1f0c8941818e25d30b95de7dc3dacb7275a6b49a829a58aa0aabd54d3"
+}

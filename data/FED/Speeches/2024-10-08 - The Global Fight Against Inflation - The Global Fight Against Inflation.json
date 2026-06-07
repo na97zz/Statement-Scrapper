@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Global Fight Against Inflation",
+  "date_original": "2024-10-08",
+  "date_au": "08/10/2024",
+  "datetime_original": "",
+  "speaker": "The Global Fight Against Inflation",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20241008a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-08 - The Global Fight Against Inflation - The Global Fight Against Inflation.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-08 - The Global Fight Against Inflation - The Global Fight Against Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a4322611db5815d2bd4733309f131036c1baaa5afeb6e70253ed012e4e502d3b"
+}

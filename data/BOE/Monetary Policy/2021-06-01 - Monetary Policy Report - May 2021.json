@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report - May 2021",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2021/may/monetary-policy-report-may-2021.pdf",
+  "raw_file_path": "data\\BOE\\Monetary Policy\\2021-06-01 - Monetary Policy Report - May 2021.pdf",
+  "text_file_path": "data\\BOE\\Monetary Policy\\2021-06-01 - Monetary Policy Report - May 2021.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:55:45",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/monetary-policy-report/2021/may-2021",
+  "content_sha256": "6e10415d72288285dc8d1e3bc810117772b0e6c1fe1e5ae96c3e2647057d6e01"
+}

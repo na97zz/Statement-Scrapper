@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Basic Thinking on Monetary Policy and the Outlook for Economic Activity and Prices\" (Speech at a Meeting Held by the Naigai Josei Chosa Kai (Research Institute of Japan))",
+  "date_original": "2023-05-19",
+  "date_au": "19/05/2023",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230519a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-05-19 - UEDA Kazuo - _Basic Thinking on Monetary Policy and the Outlook for Economic Activity and Prices_ (Speech at a Meeting Held by the Naigai.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-05-19 - UEDA Kazuo - _Basic Thinking on Monetary Policy and the Outlook for Economic Activity and Prices_ (Speech at a Meeting Held by the Naigai.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "94ff1273ab0f4f3163b367a664c11042df6f7e75031688835912ebdd66a5f622"
+}

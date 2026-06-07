@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "European Parliament plenary debate on the ECB Annual Report",
+  "date_original": "2023-02-15",
+  "date_au": "15/02/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230215~a512d68d9f.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-02-15 - Speech by Christine Lagarde - European Parliament plenary debate on the ECB Annual Report.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-02-15 - Speech by Christine Lagarde - European Parliament plenary debate on the ECB Annual Report.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4e84fce5bf9098037312e31a022ad27907bca2c1b69f9aa837862fea5b628895"
+}

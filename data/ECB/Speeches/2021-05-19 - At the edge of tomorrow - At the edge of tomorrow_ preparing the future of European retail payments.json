@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "At the edge of tomorrow: preparing the future of European retail payments",
+  "date_original": "2021-05-19",
+  "date_au": "19/05/2021",
+  "datetime_original": "",
+  "speaker": "At the edge of tomorrow",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210519~6a4523d953.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-05-19 - At the edge of tomorrow - At the edge of tomorrow_ preparing the future of European retail payments.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-05-19 - At the edge of tomorrow - At the edge of tomorrow_ preparing the future of European retail payments.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:23:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1a85d78f8a7bc77010909cfe8c211abcdef8891d7b6e7822ee818cde1c243595"
+}

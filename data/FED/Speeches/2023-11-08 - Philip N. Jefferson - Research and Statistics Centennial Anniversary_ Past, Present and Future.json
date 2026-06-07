@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Research and Statistics Centennial Anniversary: Past, Present and Future",
+  "date_original": "2023-11-08",
+  "date_au": "08/11/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20231108a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-11-08 - Philip N. Jefferson - Research and Statistics Centennial Anniversary_ Past, Present and Future.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-11-08 - Philip N. Jefferson - Research and Statistics Centennial Anniversary_ Past, Present and Future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "72804cc84dea26e28d85e9fdb05512c80a22d8a7de0f18da0b578a0c96c8521d"
+}

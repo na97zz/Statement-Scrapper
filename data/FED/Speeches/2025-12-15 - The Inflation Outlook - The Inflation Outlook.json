@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Inflation Outlook",
+  "date_original": "2025-12-15",
+  "date_au": "15/12/2025",
+  "datetime_original": "",
+  "speaker": "The Inflation Outlook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/miran20251215a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-12-15 - The Inflation Outlook - The Inflation Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-12-15 - The Inflation Outlook - The Inflation Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4a5018c8a2ffea46d823bdef01a3ce65004f0e7e3bb7fa660012b20e383c055c"
+}

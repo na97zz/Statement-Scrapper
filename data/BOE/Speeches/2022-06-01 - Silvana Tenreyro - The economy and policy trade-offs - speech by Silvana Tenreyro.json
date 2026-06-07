@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The economy and policy trade-offs - speech by Silvana Tenreyro",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Silvana Tenreyro",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2022/the-economy-and-policy-trade-offs-speech-by-silvana-tenreyro.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Silvana Tenreyro - The economy and policy trade-offs - speech by Silvana Tenreyro.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Silvana Tenreyro - The economy and policy trade-offs - speech by Silvana Tenreyro.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:19:57",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2022/february/silvana-tenreyro-speech-at-the-niesr-institutes-2022-dow-lecture-the-economy-and-policy-trade-offs",
+  "content_sha256": "14b1ee9662eb7e809bbe1f20ecdef3e47477a4806c3178464e26dacef6cd3d08"
+}

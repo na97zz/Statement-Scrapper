@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Getting disinflation right",
+  "date_original": "2023-08-03",
+  "date_au": "03/08/2023",
+  "datetime_original": "",
+  "speaker": "Speech by Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230803~30bdb2c935.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-08-03 - Speech by Fabio Panetta - Getting disinflation right.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-08-03 - Speech by Fabio Panetta - Getting disinflation right.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:18:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5bbd5a6ec742c55aa3c77259e0d1890fd56f6ec8dce2c8553671ab13910b139"
+}

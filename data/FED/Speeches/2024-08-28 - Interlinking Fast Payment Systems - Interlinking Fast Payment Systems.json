@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Interlinking Fast Payment Systems",
+  "date_original": "2024-08-28",
+  "date_au": "28/08/2024",
+  "datetime_original": "",
+  "speaker": "Interlinking Fast Payment Systems",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20240828a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-08-28 - Interlinking Fast Payment Systems - Interlinking Fast Payment Systems.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-08-28 - Interlinking Fast Payment Systems - Interlinking Fast Payment Systems.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5fb36bf5786e091d48f3cb740d82865a7544a821d8855a8fdad7ee223088b5ea"
+}

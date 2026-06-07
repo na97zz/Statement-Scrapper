@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stabilization and Macroeconomic Stabilization: Two Tools for Two Problems",
+  "date_original": "2023-04-14",
+  "date_au": "14/04/2023",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230414a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-04-14 - Christopher J. Waller - Financial Stabilization and Macroeconomic Stabilization_ Two Tools for Two Problems.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-04-14 - Christopher J. Waller - Financial Stabilization and Macroeconomic Stabilization_ Two Tools for Two Problems.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "85180789e080f3f642ea21ac3176aa2547581172aeb75bb8ab58691de419aa62"
+}

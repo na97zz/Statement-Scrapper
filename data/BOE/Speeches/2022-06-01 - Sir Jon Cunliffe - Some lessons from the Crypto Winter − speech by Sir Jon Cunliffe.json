@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Some lessons from the Crypto Winter − speech by Sir Jon Cunliffe",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Sir Jon Cunliffe",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/july/jon-cunliffe-speech-on-crypto-market-developments-at-the-british-high-commission-singapore",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Sir Jon Cunliffe - Some lessons from the Crypto Winter − speech by Sir Jon Cunliffe.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Sir Jon Cunliffe - Some lessons from the Crypto Winter − speech by Sir Jon Cunliffe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:18:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ae9a65150b33ffd56199331d82998b3f2c28581568bb971fde5d86779bb9a038"
+}

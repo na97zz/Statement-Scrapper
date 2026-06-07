@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting Held by the Kagoshima Keizai Doyukai)",
+  "date_original": "2026-05-14",
+  "date_au": "14/05/2026",
+  "datetime_original": "",
+  "speaker": "the Kagoshima Keizai Doyukai)",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2026/ko260514a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2026-05-14 - the Kagoshima Keizai Doyukai) - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting Held by the Kagoshima Keiz.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2026-05-14 - the Kagoshima Keizai Doyukai) - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting Held by the Kagoshima Keiz.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:44:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5fad000a6cde5d6862806f4df513368f4e7b6286b34b4da890fa53e59750b4f3"
+}

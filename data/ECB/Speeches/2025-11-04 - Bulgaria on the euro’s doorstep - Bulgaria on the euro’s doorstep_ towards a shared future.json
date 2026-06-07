@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Bulgaria on the euro’s doorstep: towards a shared future",
+  "date_original": "2025-11-04",
+  "date_au": "04/11/2025",
+  "datetime_original": "",
+  "speaker": "Bulgaria on the euro’s doorstep",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp251104~37e3eb95c0.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-11-04 - Bulgaria on the euro’s doorstep - Bulgaria on the euro’s doorstep_ towards a shared future.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-11-04 - Bulgaria on the euro’s doorstep - Bulgaria on the euro’s doorstep_ towards a shared future.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:13:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "959c747079b45b574630518f75b9c2a00d31beb1cc4fe5ada8b40892bcc4fbcf"
+}

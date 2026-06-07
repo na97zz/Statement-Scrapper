@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Supervision with Speed, Force, and Agility",
+  "date_original": "2024-02-16",
+  "date_au": "16/02/2024",
+  "datetime_original": "",
+  "speaker": "Review of Silicon Valley Bank",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20240216a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-02-16 - Review of Silicon Valley Bank - Supervision with Speed, Force, and Agility.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-02-16 - Review of Silicon Valley Bank - Supervision with Speed, Force, and Agility.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:00:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4f634dab89b982bd39d16d4beb47db1dfda2031b671bf297471a76df0ec849ae"
+}

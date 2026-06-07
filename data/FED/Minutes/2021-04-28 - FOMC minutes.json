@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2021-04-28",
+  "date_au": "28/04/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20210428.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2021-04-28 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2021-04-28 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:50:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "add812bd68ec1834ac426964ab74a0fd5d55ec258ffc63698c9019d28badc666"
+}

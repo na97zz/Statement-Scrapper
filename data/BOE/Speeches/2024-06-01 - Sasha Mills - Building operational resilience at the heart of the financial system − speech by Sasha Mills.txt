@@ -1,0 +1,124 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Building operational resilience at the heart of the financial system − speech by Sasha Mills
+DATE: 01/06/2024
+SPEAKER: Sasha Mills
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/april/sasha-mills-speech-at-london-institute-of-banking-and-finance-securing-financial-stability
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Building operational resilience at the heart of the financial system − speech by Sasha Mills
+Given at the London Institute of Banking and Finance
+Published on 
+
+ 30 April 2024
+The operational resilience of Financial Market Infrastructures (FMIs) is crucial to UK financial stability. In this speech, Executive Director Sasha Mills outlines some key expectations for FMIs – ahead of the March 2025 deadline for these FMIs to meet the Bank of England’s policy in this area.
+Speech
+Good morning. And many thanks to the LIBF for inviting me to speak to you today. I’m going to take a risk and talk about something recently described in the press as a dull and tedious topic – likely to be of interest only to serious financial market anoraks! I am talking about financial market plumbing.
+To help bring the topic to life, lets run through a hypothetical scenario together. It’s 7am in the morning and my phone’s just rung. It’s the CEO of a payment system operator letting me know their critical technology systems are down. As a result, they are unable to authorise or settle any new payments.
+They don’t yet know what has caused the issue – it could be a cyber attack, extreme weather damaging a datacentre, a critical systems failure while implementing an IT change programme, anything. What they do know is that all around the country customers are standing at tills unable to pay for their morning coffee, many businesses can’t buy the materials they need to work today, and it’s all over social media. And it is only 7am.
+My priority, as supervisor of the payments firm, is that the crucial services the firm provides can be recovered as soon as possible. Firstly, that means diagnosing the problem – so I am looking for the CEO to tell me, “I know which services are affected, and what the critical components of providing those services are”. Secondly, that means having contingency plans in place. Say they find out it’s a cyber issue, I want the CEO to tell me “We (the FMI) have prepared for this scenario, we can contain the cyber threat and know how to respond and recover. The services will be back online before there is a major threat to the payments ecosystem”.
+The scenario I have outlined provides a clear demonstration of the outcome we are seeking to achieve by March 2025 with the
+Bank’s Operational Resilience Policy
+– that crucial bits of financial market infrastructure are able to respond to and recover from an extreme but plausible disruption scenario before the market or payments ecosystem it serves is destabilised. And today I would like to talk in a bit more detail about where the focus of such market infrastructure providers should be in terms of building this resilience.
+The importance of financial market infrastructure
+The scenario above referred to a payment system – which is a type of ‘Financial Market Infrastructure’ or ‘FMI’. FMIs provide the “pipes” and infrastructure which interconnect and underpin modern financial markets and the real economy.
+We all benefit from these services daily – when was the last time you tapped your phone, made a card payment in a shop, or paid a bill with a direct debit? You will likely be more familiar with these sorts of services provided by payments systems, but post-trade clearing and settlement services provided by central counterparties and securities depositories are also critical to the smooth functioning of the economy – they ensure trades are settled, and seek to mitigate counterparty credit risk in financial markets.
+Confidence in FMI services is critical to having a vibrant and prosperous economy. Households and businesses want to be confident that payments are going through, transactions are being settled, and (in the financial markets) that post-trade activities are completed. And they should be able to have this confidence. But when the underlying infrastructure provided by an FMI fails, this confidence can be damaged, and this puts financial stability and growth at risk – and that’s why the Bank of England (Bank) supervises key FMIs in the UK.
+A major focus of our supervisory activity is in maintaining confidence in FMIs through ensuring they are operationally resilient. In other words, we want to be sure that FMIs can continue to provide the vital payments, clearing and settlement services they’re meant to deliver even when they are beset by operational disruption.
+When we talk about firms being “operationally resilient”, we mean firms can prevent, respond to, recover from, and learn from these disruptions. Disruptions could come from a variety of places. Cyber-attacks are one of the most frequently cited risks to UK financial stability we see in our industry engagement, but we are also concerned about events like natural disasters or operational errors.
+Over recent years, the Bank has put in place policies on Operational Resilience, and
+outsourcing and third party risk management
+. We are about to finalise a third plank of these policies later this year with the publication of rules for
+firms that provide critical services to the financial sector
+. But first, I’m going to talk through the key principles of the Operational Resilience Policy for FMIs, the work that the Bank and FMIs have carried out so far, and the key outstanding areas FMIs need to focus and improve on ahead of the policy deadline.
+How does the Bank define Operational Resilience?
+Coming up with a standard for Operational Resilience is more complex than simply asking firms to always run flawlessly, across all business areas. Firstly, it is impossible to prevent every disruption or disruptions of every conceivable kind. And secondly, some operations are more important than others.
+The first component of our Operational Resilience policy asks FMIs to identify which business services are important to financial stability – or put another way, services which, if disrupted, could threaten financial stability. Then, we ask firms to say what level of disruption those important business services could experience before risking financial stability, and we call this an “impact tolerance”. While expressing impact tolerances in terms of time is necessary to plan for continuity of an important business service, FMIs should consider if there are other metrics that could play a useful role.
+FMI’s also need to consider how data integrity (or lack of) may impact time to recover – any recovered data that will be used in critical processes, once restored, needs to be checked to be accurate, complete, valid, and reliable. Obviously as supervisors we will probe how FMIs are thinking about these questions – this is not ‘one size fits all’.
+Having identified the important business services and impact tolerances, we expect FMIs to show they can meet those impact tolerances – that is to recover their services within tolerance – under a variety of extreme but plausible disruption scenarios. Now, having processes and operations which meet this bar doesn’t happen overnight, so we have given FMIs several years and a deadline of March 2025 to meet this required standard of resilience.
+Before talking about what FMIs have left to do, I wanted to emphasise two points about our expectations: firstly, we assume that some operational disruptions will happen (even though we expect FMIs to have excellent incident prevention mechanisms, there will always be some incidents that are very difficult (or even impossible) to avoid and FMIs need to prepare for that). Second, we focus on financial stability outcomes, and so don’t prescribe which technological solutions or operating models FMIs should use. Resilience is about bouncing back safely when bad things happen as well as minimising the likelihood of an operational disruption occurring in the first place.
+Priorities for FMI Operational Resilience ahead of March 2025
+Less than a year out from the March 2025 deadline, there is still a lot of work for FMIs and us as regulators to do. Over the past few years, the Bank has been engaging with FMIs to understand their progress towards meeting this regulatory deadline. We are encouraged by some progress that has been made, however there is still considerable work to be done for many FMIs.
+When thinking about how FMIs implement the Operational Resilience policy, we consider the wider business model and company structure they operate within. The FMIs that the Bank regulates are often subsidiaries of large groups – sometimes internationally active groups. In these cases, the Bank supervises the subsidiary that provides FMI services that are systemic to the UK financial sector, such as clearing and settlement. While the FMI subsidiary may produce only a fraction of the group revenues, the FMI’s services are systemically important to the UK’s financial sector, so the continuity and stability of these FMI’s services are vital to the UK’s markets and financial stability. FMIs and their parent companies need to ensure that appropriate investment and resources are being directed, within the group, to the UK ‘FMI’ subsidiary, so that the UK ‘FMI’ subsidiary can meet our expectations for Operational Resilience.
+Whilst the March 2025 deadline represents a significant milestone, it is also not the end of the story and should not be seen as a ‘one off’ event – after the deadline, FMIs will need to continue to monitor and improve their operational resilience as risks and technologies evolve. Cyber threat actors who seek to harm the financial system will not stop developing their techniques, so FMIs need to remain vigilant to the changing threats they are exposed to.
+FMIs need to make sure that they are both addressing known vulnerabilities and taking into account changing or increasing risks, for example from increasing digitalisation and the emergence of new technologies – such as Cloud services, Artificial Intelligence (AI), or Distributed Ledger Technology (DLT). Whilst these emerging technologies can bring efficiencies and improved risk management, FMIs also need to be aware of and manage the risks when these technologies are introduced to their ecosystem– risks from either adoption of these technologies within their businesses or use by customers and suppliers. Some technologies may also heighten threats from malicious actors – such as AI or quantum computing being leveraged to make cyber-attacks more powerful.
+What we expect to see over the next year from FMIs
+Over the next year, as we approach the March 2025 deadline, we expect to see FMIs accelerating their efforts to ensure that they have calibrated their tolerance for negative impacts on their important business services, and mapped the key people, processes, technology, facilities, and information needed to deliver these services. FMIs should then be fully testing their ability to remain within impact tolerances for ‘extreme but plausible’ scenarios –
+ensuring that response plans and capabilities are robust, and where not, that strategic investment is being made.
+This is a key requirement.
+For the calibration of impact tolerances, we expect to see greater engagement than we have seen thus far between FMIs, their participants, and the wider market
+. When designing impact tolerances, FMIs should ensure they are considering the impact of disruption to their services on the market they serve – recognising that, where an incident is not contained within a short period of time, this could cause contagion and additional risks to crystallise.
+Another area that still requires significant work is the approach and method FMIs use to test disruption to important business services
+. How FMIs design the scenarios used to test their ability to respond to and recover from an incident, is critical to ensuring FMI’s capabilities are adequate. For example, FMIs should be asking themselves the following questions: Are the scenarios extreme enough? How many scenarios are sufficient to ensure the risk has been looked at from several angles? Do the scenarios ‘think the unthinkable’? We need to see FMIs prevent incidents where they can, but we also need to know they know what to do when things do go wrong and ‘the worst’ – so to speak – does indeed happen.
+Mature scenario testing requires depth and consistency of approach across scenarios and the design needs to be really clear: the cause of the disruption (for instance is it a cyber-attack or an internal system issue?), the scale of the disruption (how many important business services, participants or transactions are impacted and for how long) and the key risk factors and vulnerabilities that are being tested are clearly set out.
+We also expect to see FMIs working to ensure that the ‘extreme but plausible’ scenarios they have planned for directly link to the risks and vulnerabilities they face and have mapped
+. This is not an off the shelf set of scenarios.
+It’s important that the scenarios chosen are indeed of an ‘extreme but plausible’ scale. What could these be? Well, loss of an important third party provider, or a severe cyber-attack impacting multiple data centres at once could be a couple of examples.
+Testing for these kinds of scenarios helps ensure FMIs are thoroughly testing their response and recovery capabilities. It also means FMIs are challenging assumptions they may be making about the suitability of their response and recovery plans, especially over what will happen over longer timeframes or within heightened impact scenarios.
+FMIs need to do further work to improve on the sophistication of their testing approaches
+, looking for testing methods in addition to tabletop and desktop exercises. Testing types and methods should be as realistic and sophisticated as possible, covering recovery of all critical systems, services, and data – whilst also of course ensuring the testing itself does not introduce any additional risk. Operational resilience testing should also consider the impact of disruption on the wider eco-system that the FMIs operate in, and FMIs should increase their efforts to involve critical third parties and their participants within their testing. This could be through industry wide tests such as
+Sector Simulation Exercise (‘SIMEX’)
+, as well as tests designed and tailored by the FMI, to test impact and recovery actions, both for themselves and their participants and wider ecosystem.
+The Bank expects FMIs to prioritise their efforts on scenario testing over the next year so that they can identify vulnerabilities sufficiently early to remediate them before March 2025. We’ll be continuing to look over the coming year for robust remediation plans from FMIs, with appropriate funding and resources dedicated to address weaknesses found during testing. The speed at which vulnerabilities are remediated should reflect the potential impact to the financial sector that disruption, associated with that vulnerability, would cause.
+The broader Operational Resilience picture
+I’ve spoken at length about our expectations of UK FMIs, and as supervisor for these entities this is obviously a key focus for the Bank. But the broader Operational Resilience picture does not stop at UK FMIs –
+similar existing policies also cover their participants like banks and insurers
+, with the PRA supervising these firms. And we are increasingly also looking at key elements of the supply chain, the UK financial system as a whole, and building international standards.
+The
+Financial Policy Committee (FPC) has set an impact tolerance at the system level for payments
+recognising how important payments are to the economy and to trust in the financial system. FMIs that provide payments services should consider the FPC’s impact tolerance when formulating their own impact tolerances for payments.
+The FPC has also recently published its
+macroprudential approach to operational resilience
+, which emphasises the vital foundation for system-wide resilience of firm-level resilience and, in support of that, that firms and FMIs should be considering their own roles in the wider system and the effects that their actions can have on financial stability. This is particularly important when firms and FMIs are identifying their important business services and designing their response and recovery plans.
+Also, the UK authorities were recently granted powers under the latest Financial Services and Markets Act to create a regime for direct oversight of critical third parties (CTP) following the FPC’s view that increasing reliance on a small number of third parties that provide vital services ‘could increase financial stability risks’, especially given the complex, interconnected financial sector in the UK.
+Technology services such as cloud computing and data analytics can bring benefits – enabling digital transformation, catalysing innovation, and potentially providing greater resilience than firms’ and FMIs’ own technology infrastructure. We want to ensure FMIs have access to these benefits in a safe way – so the CTP regime will provide the authorities with direct oversight of the third parties that pose the greatest potential risk to the financial system, so we can better ensure system-wide operational resilience.
+While we consider this direct oversight to be an important part of our Operational Resilience toolkit – and a recognition that no single firm or FMI can adequately monitor or manage the systemic risks that certain third parties pose to financial stability – it is crucial to stress that FMIs are still responsible for their own operational resilience. The critical third parties regime in no way detracts from those responsibilities.
+Operational threats can come from anywhere in the world and are not limited to jurisdictional boundaries, so we are also working closely with international regulators to share best practice and develop common approaches. Most recently, the Bank has been closely engaged with the CPMI-IOSCO Operational Resilience Group, which is looking to bolster international understanding of third-party risks facing FMIs, to promote and facilitate the use of existing guidance on cyber resilience and identify emerging risks.
+For cyber, the Bank of England has also recently published the results of its most recent
+CBEST Thematic Test for 2023
+. CBEST is a targeted cyber-threat intelligence-led assessment, carried out by focused penetration testing on firm and FMI technology infrastructures. It allows regulators and firms to better understand weaknesses and vulnerabilities to cyber resilience and take remedial actions.
+The FPC also carries out a programme of system-wide cyber stress testing to build an understanding of the financial system’s ability to absorb a significant operational (cyber) incident. The
+2022 system-wide cyber test explored a hypothetical data integrity scenario affecting retail payments
+. The FPC will start the next cyber stress test in Spring 2024, with the findings expected to be published in the first half of 2025.
+All these developments are important building blocks of operational resilience of the financial system. But ultimately, this operational resilience starts and ends with systemically important actors in the financial system understanding their responsibilities and ensuring they are prepared for the worst. And that’s why I have focused on the operational resilience of FMIs today.
+Concluding Remarks
+So, to wrap things up, I’d like to leave you with five key messages.
+First, FMIs are important to financial stability
+. Firms providing infrastructure for the UK’s financial markets and payments are critical to the resilience and safe functioning of those financial markets and the real economy – and so vital to the UK economic vibrance and growth.
+Second, operational disruption will happen
+. It’s very important to the financial stability of the UK’s financial system and economy that FMIs are operationally resilient – while we expect FMIs to have processes in place to prevent their occurrence, bad events will inevitably occur so firms need to be able to respond to and recover from these incidents.
+Third, deep and collaborative thinking is required
+. In their work preventing and preparing to recover from incidents, FMIs need to really think deeply about (and test) their business’ impact on both their participants and on the wider financial system. Testing of scenarios should involve FMI participants and critical third parties.
+Fourth, detail is important
+. FMIs must ensure their testing of scenarios is sufficiently mature, incorporating granular and consistent testing approaches. Testing must provide precision around (a) the cause and scale of the incident, and (b) the key risk factors and vulnerabilities.
+Fifth, test the unlikely
+. Think the unthinkable. Yesterday’s ‘unlikely’ may be tomorrow’s reality – and FMIs need to consider this when deciding what scenarios are extreme but plausible.
+FMIs which do these things will meet our expectations and more importantly will help ensure that the UK financial system functions well in good times and bad – and that individuals’ and businesses’ confidence in the financial system is maintained.
+Thank you very much for giving me the opportunity to deliver these important messages to you and that I hope I have recruited a few more anoraks.
+I’d like to thank Roisin Brennan, Anthony Avis, Charles Gundy, Shane Scott, Simon Morley, Clare Ashton, Amandeep Rehlon, Justin Jacobs, Emma Butterworth, Sarah Breeden, Andrew Bailey, Charlotte Gerken, Andrew Carey, Sean Plumb, Duncan Mackinnon, Adrian Hitchens, Wai Keong Lock, Orlando Fernandez Ruiz, Philippa Cohen, Kiyan Mody and Jon Sepanski for their assistance in preparing these remarks.
+Sasha Mills
+Executive Director, Financial Market Infrastructure
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

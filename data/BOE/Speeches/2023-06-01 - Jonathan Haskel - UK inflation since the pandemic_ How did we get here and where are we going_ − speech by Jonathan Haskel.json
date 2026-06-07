@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "UK inflation since the pandemic: How did we get here and where are we going? − speech by Jonathan Haskel",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Jonathan Haskel",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/november/uk-inflation-since-the-pandemic-how-did-we-get-here-and-where-are-we-going-speech-by-jonathan-haskel.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Jonathan Haskel - UK inflation since the pandemic_ How did we get here and where are we going_ − speech by Jonathan Haskel.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Jonathan Haskel - UK inflation since the pandemic_ How did we get here and where are we going_ − speech by Jonathan Haskel.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:01",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2023/november/jonathan-haskel-speech-at-warwick-university",
+  "content_sha256": "e8356ee8f531ee5bb7edc35b7c158c1b0c0c3d48393f897ff5dfe290286912ec"
+}

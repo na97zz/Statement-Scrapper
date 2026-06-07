@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Monetary policy as engineering? − speech by Sarah Breeden",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Sarah Breeden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/december/monetary-policy-as-engineering-speech-by-sarah-breeden.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Sarah Breeden - Monetary policy as engineering_ − speech by Sarah Breeden.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Sarah Breeden - Monetary policy as engineering_ − speech by Sarah Breeden.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:47",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2023/december/sarah-breeden-speech-at-the-iff-talking-policy-series",
+  "content_sha256": "1e81986227971f12dff667241313dc7b568646d2876ab573ce2311d7cda17f77"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The future of international insurance in the UK − speech by Alan Sheppard",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Alan Sheppard",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/april/alan-sheppard-speaker-at-the-westminster-business-forum",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Alan Sheppard - The future of international insurance in the UK − speech by Alan Sheppard.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Alan Sheppard - The future of international insurance in the UK − speech by Alan Sheppard.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:19:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "814191eb5f3b64b40b4ddbdf2b7fc7669cfa2243231a1fd18eb237b386a6874c"
+}

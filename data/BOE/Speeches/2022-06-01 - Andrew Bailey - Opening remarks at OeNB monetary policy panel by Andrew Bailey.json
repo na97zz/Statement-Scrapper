@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Opening remarks at OeNB monetary policy panel by Andrew Bailey",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/may/andrew-bailey-panellist-at-the-oesterreichische-national-bank-annual-economic-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Andrew Bailey - Opening remarks at OeNB monetary policy panel by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Andrew Bailey - Opening remarks at OeNB monetary policy panel by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:19:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6e235c543382502a847526e7c5b27b59eb433cef9c6f58dc773e30247e7dfccc"
+}

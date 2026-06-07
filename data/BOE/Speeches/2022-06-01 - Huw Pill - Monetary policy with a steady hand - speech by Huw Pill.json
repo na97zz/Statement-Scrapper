@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Monetary policy with a steady hand - speech by Huw Pill",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Huw Pill",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/speech/2022/monetary-policy-with-a-steady-hand-annex.pdf",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Huw Pill - Monetary policy with a steady hand - speech by Huw Pill.pdf",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Huw Pill - Monetary policy with a steady hand - speech by Huw Pill.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:20:03",
+  "status": "success",
+  "notes": "HTML source page: https://www.bankofengland.co.uk/speech/2022/february/huw-pill-speech-at-the-society-of-professional-economists-annual-conference",
+  "content_sha256": "e79f16eef86a2104ba39cd5d1e4616aac4eafc2c5c394a450ec9d662993bac39"
+}

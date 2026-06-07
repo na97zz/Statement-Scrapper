@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Staying the Course to Bring Inflation Down",
+  "date_original": "2023-01-19",
+  "date_au": "19/01/2023",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20230119a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-01-19 - Lael Brainard - Staying the Course to Bring Inflation Down.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-01-19 - Lael Brainard - Staying the Course to Bring Inflation Down.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2bbb18d25355f50a0081ded09eae60756fed454b0c8c628daa87bbdc9500751c"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Climate Change and Finance\"(Speech at the Japan Society of Monetary Economics)",
+  "date_original": "2022-11-27",
+  "date_au": "27/11/2022",
+  "datetime_original": "",
+  "speaker": "AMAMIYA Masayoshi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko221127a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-11-27 - AMAMIYA Masayoshi - _Climate Change and Finance_(Speech at the Japan Society of Monetary Economics).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-11-27 - AMAMIYA Masayoshi - _Climate Change and Finance_(Speech at the Japan Society of Monetary Economics).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cb174bb0d682cc004dbc99f46548bc6ddd118043e16919c043ff7fa2d0983f1b"
+}

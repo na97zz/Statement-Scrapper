@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Full Employment in the New Monetary Policy Framework",
+  "date_original": "2021-01-13",
+  "date_au": "13/01/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210113a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-01-13 - Lael Brainard - Full Employment in the New Monetary Policy Framework.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-01-13 - Lael Brainard - Full Employment in the New Monetary Policy Framework.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8edfcd855af58e029f5cc00e2dbf753e7710894c290a3226160a81200855bb64"
+}

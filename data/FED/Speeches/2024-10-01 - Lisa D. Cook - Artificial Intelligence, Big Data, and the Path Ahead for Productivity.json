@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Artificial Intelligence, Big Data, and the Path Ahead for Productivity",
+  "date_original": "2024-10-01",
+  "date_au": "01/10/2024",
+  "datetime_original": "",
+  "speaker": "Lisa D. Cook",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20241001a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-10-01 - Lisa D. Cook - Artificial Intelligence, Big Data, and the Path Ahead for Productivity.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-10-01 - Lisa D. Cook - Artificial Intelligence, Big Data, and the Path Ahead for Productivity.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:57:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "df7088b618c9629fdae65ff56c1afc1f6793b02af582d6b56b14a4bb75b5593e"
+}

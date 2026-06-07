@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Some Preliminary Financial Stability Lessons from the COVID-19 Shock",
+  "date_original": "2021-03-01",
+  "date_au": "01/03/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210301a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-01 - Lael Brainard - Some Preliminary Financial Stability Lessons from the COVID-19 Shock.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-01 - Lael Brainard - Some Preliminary Financial Stability Lessons from the COVID-19 Shock.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e100324a35ef2fbf56b30a99d7993ebc87ff25707760e2d99dd98410581d5d67"
+}

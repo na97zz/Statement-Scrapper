@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy during the pandemic: the role of the PEPP",
+  "date_original": "2022-03-31",
+  "date_au": "31/03/2022",
+  "datetime_original": "",
+  "speaker": "Monetary policy during the pandemic",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220331~b11d74f249.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-03-31 - Monetary policy during the pandemic - Monetary policy during the pandemic_ the role of the PEPP.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-03-31 - Monetary policy during the pandemic - Monetary policy during the pandemic_ the role of the PEPP.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d9e08e296f584da8ab3c22adbe57071ad1a7c17cd94172f06b62f7bfe6dee280"
+}

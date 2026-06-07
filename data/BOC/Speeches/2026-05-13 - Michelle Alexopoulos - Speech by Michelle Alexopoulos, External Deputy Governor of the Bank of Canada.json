@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Michelle Alexopoulos, External Deputy Governor of the Bank of Canada",
+  "date_original": "2026-05-13",
+  "date_au": "13/05/2026",
+  "datetime_original": "",
+  "speaker": "Michelle Alexopoulos",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2026/05/speech-michelle-alexopoulos-2026-05-13/",
+  "raw_file_path": "data\\BOC\\Speeches\\2026-05-13 - Michelle Alexopoulos - Speech by Michelle Alexopoulos, External Deputy Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2026-05-13 - Michelle Alexopoulos - Speech by Michelle Alexopoulos, External Deputy Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:57:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5d898f3ed7729b163270c44a6ba8eec98232e81fc32ed0de4bbab03812aeafd8"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy and the money market",
+  "date_original": "2022-09-14",
+  "date_au": "14/09/2022",
+  "datetime_original": "",
+  "speaker": "Opening remarks by Philip R. Lane",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2022/html/ecb.sp220914~79c898d157.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2022-09-14 - Opening remarks by Philip R. Lane - Monetary policy and the money market.html",
+  "text_file_path": "data\\ECB\\Speeches\\2022-09-14 - Opening remarks by Philip R. Lane - Monetary policy and the money market.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:20:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ecc732da9b6e3f8c4aefd3bb53d7f8e52afa7b3f9da7fb0c69aa68f96ca5f8e5"
+}

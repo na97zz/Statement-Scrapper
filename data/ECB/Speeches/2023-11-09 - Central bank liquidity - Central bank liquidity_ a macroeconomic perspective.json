@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Central bank liquidity: a macroeconomic perspective",
+  "date_original": "2023-11-09",
+  "date_au": "09/11/2023",
+  "datetime_original": "",
+  "speaker": "Central bank liquidity",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp231109~fd9153a89f.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-11-09 - Central bank liquidity - Central bank liquidity_ a macroeconomic perspective.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-11-09 - Central bank liquidity - Central bank liquidity_ a macroeconomic perspective.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:17:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d242ef0656ee172890582ed47f9d76ea0854fcaa6e67e82065d9f3766abf4b88"
+}

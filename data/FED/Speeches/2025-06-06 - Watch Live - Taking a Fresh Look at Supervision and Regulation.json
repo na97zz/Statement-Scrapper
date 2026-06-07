@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Taking a Fresh Look at Supervision and Regulation",
+  "date_original": "2025-06-06",
+  "date_au": "06/06/2025",
+  "datetime_original": "",
+  "speaker": "Watch Live",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250606a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-06-06 - Watch Live - Taking a Fresh Look at Supervision and Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-06-06 - Watch Live - Taking a Fresh Look at Supervision and Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a3c736cc6c46a14a35c293fc78f5c7aa942ccfeb5944c6a1af75ac6fdd83ada2"
+}

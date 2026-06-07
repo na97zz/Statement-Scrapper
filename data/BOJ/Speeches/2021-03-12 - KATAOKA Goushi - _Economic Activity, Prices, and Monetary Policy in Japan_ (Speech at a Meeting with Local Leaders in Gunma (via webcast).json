@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Gunma (via webcast))",
+  "date_original": "2021-03-12",
+  "date_au": "12/03/2021",
+  "datetime_original": "",
+  "speaker": "KATAOKA Goushi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2021/ko210312a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2021-03-12 - KATAOKA Goushi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Gunma (via webcast).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2021-03-12 - KATAOKA Goushi - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Gunma (via webcast).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:49:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d7bbdeab58e8b3edf9485cc790df3bdd893b379595c742bf90e3ff1b34b695bc"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Flexible Average Inflation Targeting and Prospects for U.S. Monetary Policy",
+  "date_original": "2021-11-08",
+  "date_au": "08/11/2021",
+  "datetime_original": "",
+  "speaker": "Richard H. Clarida",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/clarida20211108a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-11-08 - Richard H. Clarida - Flexible Average Inflation Targeting and Prospects for U.S. Monetary Policy.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-11-08 - Richard H. Clarida - Flexible Average Inflation Targeting and Prospects for U.S. Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "39bd3748d704572ad94a63ac8ed89197dd60467fa79e2b4308357bdf85b2e9d6"
+}

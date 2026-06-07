@@ -1,0 +1,395 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Governance of “Decentralised” Finance: Get up, Stand up! − speech by Carolyn Wilkins
+DATE: 01/06/2022
+SPEAKER: Carolyn Wilkins
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2022/october/carolyn-wilkins-speech-at-ucl-centre-for-blockchain-technologies
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Governance of “Decentralised” Finance: Get up, Stand up! − speech by Carolyn Wilkins
+Given at UCL Centre for Blockchain Technologies
+Published on 
+
+ 19 October 2022
+Carolyn Wilkins talks about ways in which the crypto ecosystem can help reimagine governance. However, the models we see today may not be as decentralised as they might appear. To build trust, she encourages the crypto industry to build best practices in governance, codes of conduct, and set high expectations for transparency.
+Speech
+“You can fool some people sometimes,
+But you can’t fool all the people all the time.”
+Bob Marley and the Wailers
+Introduction
+It is a rare day when the media have not reported on a fascinating development in the crypto-sphere. Sometimes we read about success, such as the transition of Ethereum to proof of stake (PoS) from proof of work (PoW); Other times we read about failure, such as the collapse of the “stablecoin”, Terra, and the subsequent meltdown of many crypto assets and centralised crypto entities.
+There are undoubtedly many factors that underpin the success and failure of business endeavours, from the quality of the business plan to the acumen of the leadership team. Sound governance underpins these factors, and sustained business success cannot be achieved without it. Given the importance of risk management for financial resilience, sound governance is also critical for financial stability.
+That makes governance of crypto and decentralised finance relevant to my role as an external member of the Bank of England’s Financial Policy Committee (FPC), and is what motivates my talk today. It is particularly exciting to give this talk here because of the excellent work of the UCL Centre for Blockchain Technologies. Thank you for the invitation.
+The history books are full of instances when faulty governance in traditional finance led to both failure of a particular financial institution, and financial instability. Just look back to the global financial crisis (GFC) when generalised weakness in risk management frameworks led to limited understanding and control of balance sheets. Remember Bear Stearns, where the concentration of mortgage securities had been increasing for several years and was beyond their internal risk limits?
+footnote
+[1]
+Lehman Brothers, of course, is another example.
+When it comes to the crypto ecosystem, technology alone cannot get around the fact that decisions must be taken, and how well these decisions are governed is central to trust in the system and its ultimate success.
+I hope it will become clear in the first part of my remarks that decentralised structures for providing financial services do offer the opportunity to reimagine governance. I will also talk about why so called “DeFi” structures are presently far from being as “democratic” or “decentralised” as some would have you believe, and why there are limits to just how decentralised governance in the crypto ecosystem can actually become.
+In the second part of my talk I will suggest ways that the crypto industry could strengthen governance. The underpinnings for public trust need to be built on best practice in governance, shared codes of conduct, and high expectations for transparency.
+It is not all about the industry, however, so I will also talk about how the official sector should support sustainable innovation by building the right legal and regulatory infrastructure.
+What’s at stake?
+Let me start with what I mean by governance. Every organisation needs to establish decision rights: what decisions need to be made, who is responsible for making them, how and to whom they are communicated. They involve processes to ensure accountability, transparency, and empowerment. Governance matters because it establishes rules of engagement and controls that produce organisational effectiveness and efficiency.
+There are two aspects of crypto governance that create opportunity.
+The first is the possibility of organisational structures based on a greater degree of decentralised decision making than in traditional finance. Given this, some crypto proponents aim to challenge traditional economic institutions of capitalism – firms, markets, and potentially governments.
+footnote
+[2]
+While mutualisation of organisations is not a new phenomenon, this new form is made possible by blockchain technology and smart contracts; which allows financial services to occur at scale, with less recourse to an intermediary than in traditional finance. Of course, there is nothing stopping more traditional organisational structures with more centralised governance structures from adopting similar technology.
+The second opportunity is that the governance itself can spur growth by framing decision making as a game or an activity in which participants have something at (or to) stake.
+footnote
+[3]
+The successful completion of Ethereum’s project – called “the Merge” – is a recent example of what can be achieved under the right circumstances. It has reportedly reduced the use of electricity of the Ethereum ecosystem by over 99%.
+footnote
+[4]
+This is an important milestone because Ethereum is presently the backbone of the crypto ecosystem. Bitcoin may have the largest share in terms of market capitalisation, but most of the action is happening on the Ethereum blockchain. Ethereum has over 4 times the number of transactions per day as Bitcoin and hosts nearly 1,000 unbacked crypto asset tokens, all the major stablecoins and over 100,000 Non-Fungible Token (NFT) projects.
+Governance of this project looks quite familiar in a couple of ways:
+It was fairly centralised. The project was coordinated by the Ethereum foundation that oversaw a core development team, rather than a fully decentralised community. Given the complexity of the project, this centralisation was a necessary mechanism to accelerate the project.
+footnote
+[5]
+Vitalik Buterin – one of Ethereum’s key founders was understandably quite influential, although he did not have unilateral decision-making power.
+There were parallel runs and extensive testing. Almost two years ago, Ethereum developers created a new network called the “Beacon Chain” that uses the PoS validation mechanism. It ran in parallel to the PoW-based Ethereum network. They also conducted trial runs over a number of years, prudently delaying the project on a number of occasions given outstanding issues and the amount of money at risk. Their checklist of “readiness” milestones ahead of the Merge
+footnote
+[6]
+, shows efforts to be transparent about the project.
+The project did, nonetheless, move the dial on governance in a couple of ways. First, the ultimate decision to move to the Beacon chain was a pre-programmed, automated event without any human intervention. This is in stark contrast to traditional operational programmes that may be heavily scripted, but also have checkpoints where teams will coordinate on progress and take decisions.
+Second, the Merge would not have succeeded if a critical mass of ETH holders had not staked their ETH to the Beacon Chain, either directly or via staking pools like Lido and Coinbase. Put another way, if enough Ethereum token holders and developers had instead opted to move their assets and projects to an alternative PoW blockchain, the PoS network would have been too vulnerable to attacks to be viable.
+This accomplishment hopefully foreshadows further success as Ethereum works on upgrades to lower transactions times and costs, and will inspire other platforms to learn from this experience.
+footnote
+[7]
+Some DeFi supporters might use this experience as evidence that the governance worries of the Fear, Uncertainty and Doubt (FUD) crowd are overblown. They may also question whether traditional notions of governance are even needed in a world of smart contracts and the ability of token holders to vote with their feet.
+Let me say that, as a mentor for the Blockchain stream of the Creative Destruction Lab (CDL) at University of Toronto Rotman School of Management, I have been fortunate to meet many entrepreneurs who have promising business models and an impressive drive to make the world of finance a better place.
+Still, there are a number of serious deficiencies in governance in the crypto ecosystem that need more attention than they are getting today. I am not claiming governance in traditional finance is perfect. But what’s at stake for crypto and DeFi is the ability to make meaningful inroads into providing services to households and businesses in the real economy.
+Limits to decentralised governance in practice
+I said earlier that technology alone cannot get around the fact that decisions must be taken in the crypto ecosystem. At a minimum, someone is making decisions regarding the system code, and influencing whether it will deliver what it says it will.
+There are important concentrations of power in “decentralised” finance.
+In theory, those decisions could be taken in a completely decentralised manner. In practice, however, the governance of critical decisions is not completely decentralised even in a permissionless blockchain such as Bitcoin. In fact, the consensus mechanism and other governance protocols can lead to undesirable concentrations of power.
+For instance, a few individuals who have accumulated significant voting rights can dominate; by that I mean individuals who hold the lion’s share of a particular crypto token. There are data to support this; a recent study shows that, among the top 10 proof of stake platforms by market capitalisation, the top ten validators held between 23% and 88% of the stakes, while the top 50 held between 47% and 100% of the stakes.
+footnote
+[8]
+Incredible.
+There are also issues regarding transparency. For instance, in 2018, a small number of Bitcoin software developers were made aware of a bug that could open the door to a denial of service attack and allow the creation of bitcoins in excess of the cap of 21 million. The time log of events shows that a decision of relatively few was made to disclose the DoS aspect of the bug, but to withhold the more damaging information regarding potential breach of cap and implications for inflation until after the patch was completed 3 days later.
+footnote
+[9]
+This raises questions about who is accountable for decisions and outcomes. There is a rich debate in the United States regarding whether the core protocol developers should be held accountable as fiduciaries.
+footnote
+[10]
+And the CFTC’s recent enforcement action against token holders of Ooki DAO is a live case study of the extent to which governance token holders can be held liable.
+footnote
+[11]
+Concentrations of power can also be achieved “on chain” through governance attacks, where an attacker gains enough voting rights to dominate decisions or influence enough token holders to vote in a biased manner. In April, an attacker used a flash loan to obtain a majority of governance tokens in Beanstalk, a decentralised, credit-based stablecoin protocol. They got away with around $77 million by passing their own malicious proposal and quickly implementing it.
+footnote
+[12]
+The month after that, Terra blockchain halted operations to avoid potential governance attacks following the collapse of its Luna token.
+footnote
+[13]
+The hard lesson here is that, when tokens are transferable, special care is needed to ensure that their supply, distribution and price accurately represents the community members who are invested in the project. Some protocols such as Compound employ fail-safes against this kind of governance attack, such as a mandatory waiting period before enacting the vote result.
+footnote
+[14]
+Another idea getting attention at the moment is the idea of
+soulbound (i.e. non-transferrable) tokens
+, linked to an individual’s identity.
+footnote
+[15]
+My final example of concentration of power relates to miners in PoW systems and validators in PoS systems. They determine which transactions are executed and when, which affects market prices. This opens the door to front-running and other forms of market manipulation, where the resulting profit has even earned its own term “maximal extractable value” (MEV).
+footnote
+[16]
+Whether this activity is illegal or not is an important question. Equally important is whether market participants should put up with miners potentially taking some unspecified pound of flesh in a system that purports to be “trustless”.
+If the miner and validator communities were truly distributed, I imagine this “extractable value” would be easier to accept. Unfortunately, the facts show that these communities are quite concentrated. One study found that fewer than 50 miners control half of the mining capacity for Bitcoin, since the incentives are to pool computing power in order to win the race in terms of getting paid for validating transactions.
+footnote
+[17]
+There are limits to how decentralised governance can become
+There are some good ideas on how to improve the governance of decentralised decision making. For instance, some have suggested the idea of quadratic voting to mitigate the issue of concentration in decision-making. Under this mechanism, 1 vote would cost 1 token, 2 votes would cost 4 tokens, 3 votes would cost 9 tokens and so on.
+footnote
+[18]
+Even though owning more tokens would still mean enhanced voting rights, the ability of large token holders to dominate would be reduced.
+Nonetheless, I think there are hard limits to how decentralised a system can become in practice.
+One reason is that knowledge is power. Fixes like quadratic voting would not change the fact that only the insiders who are heavy-duty coders have the expertise to propose and engage with protocol updates on “off chain” governance forums. That is because most people have little idea of how the protocol works, or what impact proposed updates will have. Full transparency in the face of such serious asymmetry of understanding has its limits in terms of ensuring truly distributed governance. Moreover, only a small number of core developers are entrusted with “commit keys” that allow them to make changes to the code that have been agreed upon.
+footnote
+[19]
+Another reason is that we live in an inherently uncertain world. That means there can never be a set of smart contracts for every situation, and centralised decision making will always be needed when the unexpected happens.
+This is really just a practical point. Even in organisations with traditional governance set ups, governance mechanisms can be a problem in a crisis because they take too long. The on-chain voting process on the blockchain platform Tezos is currently divided into five governance cycles (each lasting roughly two weeks): a proposal period, a testing-vote period, a testing period, a promotion-vote period, and an adoption period.
+footnote
+[20]
+In platforms like this, any event that requires urgent action is unlikely to be resolved promptly through the usual governance process.
+That’s why many DeFi protocol teams retain emergency powers to unilaterally step in when they see fit. Polkadot, an open source blockchain platform and cryptocurrency, allows for emergency referenda to be initiated by an assigned technical committee.
+footnote
+[21]
+Others, such as MakerDAO, can implement an emergency shutdown functionality whereby a smart contact can suspend its normal operation and return the invested assets to their owners.
+footnote
+[22]
+The idea of emergency powers is not universally embraced in the crypto community, as Solend found out the hard way last summer. Solend, which supports tokens such as Solana and USDC, made plans in June to use emergency powers to gain control of the platform’s largest account or “whale account” to avoid a crisis that would have made the protocol unviable. It gave its governance token holders only one day to vote, and the community reacted very negatively about the “seat of the pants” governance.
+footnote
+[23]
+Ultimately the emergency powers were reversed.
+Aside from the need to deal with emergencies, some crypto-based systems are explicitly designed with various nodes of centralisation to make it easier to use; think centralised exchanges, wallet-providers and various aspects of governance. For example, Binance recently mitigated the cost of a significant bridge hack on its Binance Smart Chain by quickly coordinating just 20 of the validators on its network.
+footnote
+[24]
+Standing up for market participant rights and financial stability
+As with traditional finance, these issues, and the financial losses that inevitably accompany them, are bound to eventually lead to a punishing loss of trust in this new ecosystem. Many people have already lost savings through fraud, scams and outright theft. Growth in the number of crypto scams in the UK has spiked so much in recent years that they are now the most common type of scam reported to the Financial Conduct Authority (FCA).
+footnote
+[25]
+In the US, over $1bn in crypto related scams had been reported since 2021, affecting more than 46,000 people.
+footnote
+[26]
+Institutional investors in DeFi are focused on reputational risk, not just financial risk, and will expect to see better governance and outcomes on this front. While many people who are long crypto today may still have faith in their bet, those who want to finance their first home or save to send their kid to school typically need more than faith; they need trust. I cannot help but think of the well-known Bob Marley lyrics that say “You can fool some people sometimes, but you can’t fool all the people all the time.”
+The window for the crypto industry to improve its approach to governance is narrowing: regulated firms in traditional finance are increasingly applying the underlying blockchain technology to traditional capital markets.
+footnote
+[27]
+They will be in a better position to capture this market if the crypto industry does not get its house in order, if only because they have more familiar and battle-tested governance. There are a number of examples out there, such as Onyx Digital Assets – JPMorgan’s blockchain-based network for digital assets trading, and the HQLAᵡ DLT platform for securities finance and repo.
+A good place to start for DeFi is with industry-led mechanisms that develop codes of conduct and best practices. For instance, institutional investors may ultimately want to see high standards around disclosures in financial statements, sources and uses of funds, conflicts of interest and related parties, regardless of whether the activity is subject to regulatory requirements or not. These expectations could include regular audits of the code, and disclosure of how rights to change the code are determined and who holds the “commit keys.”
+The industry should be proactive here in order to build safe bridges to the real economy, rather than wait for regulators. It is good that UCL’s Blockchain Centre research program includes the elaboration of best practice standards, and that groups like the “Crypto Market Integrity Coalition” are working on a market surveillance code of conduct.
+footnote
+[28]
+The official sector must also support this process by providing the necessary legal and regulatory infrastructure. This work is underway: crypto asset firms operating in the UK are already subject to Anti Money Laundering rules since 2020, and pending legislative changes the FCA will regulate how qualifying crypto financial promotions are offered in line with other high-risk investments. Legislation bringing stablecoins used for payments into regulation is currently going through the UK Parliament; and a consultation on the wider regime for crypto assets is expected to follow.
+Separately, some important issues remain, particularly related to the legal framework. Addressing this in a timely manner is critical because consumers and businesses in the DeFi sector should have the same protection of the law as those who are spending, investing or banking in traditional finance.
+There are many elements to building legal certainty. One that the Law Commission of England and Wales has recently investigated relates to whether crypto assets are regarded as property under national law.
+footnote
+[29]
+Another element relates to dispute resolution processes, which are needed for transactions that take place on-chain using digital payment mechanisms, including those that are cross border.
+footnote
+[30]
+Crypto is global, which means that international harmonisation is critical. Progress has been made in some areas, such as guidance clarifying that a systemically important stablecoin arrangement primarily used for making payments would be expected to observe the Principles for Financial Market Infrastructures set out by the CPMI and IOSCO committees.
+footnote
+[31]
+One clear expectation of systemic stablecoin arrangements is that governance should allow for “timely human intervention as and when needed.” Another expectation is that systemic stablecoin arrangements will be owned and operated by identifiable legal entities that are ‘ultimately controlled by natural persons’ (real human beings).
+Much more needs to be achieved, particularly in the coordination of regulation of the crypto ecosystem beyond the traditional financial sector.
+footnote
+[32]
+The Financial Stability Board’s latest recommendations on regulatory and supervisory approaches to stablecoins and other crypto-assets, published last week, are helpful in this respect.
+footnote
+[33]
+So will be IOSCO’s work on crypto-asset market integrity and investor protection issues.
+Conclusions
+Let me conclude by saying that now is the perfect time to build good governance into the system, even if it still feels like early days for decentralised financial services. Concentrations of power in PoW and PoS systems, and other flaws in governance of crypto and DeFi, have already contributed to all-too familiar issues; top of the list are business failures, illegal activity and financial losses for investors. If left unchecked, this state of affairs will erode trust among investors in crypto-based financial services and their customers, and could lead to financial stress more broadly.
+Governments and regulators still have work to do to build supporting legal and regulatory infrastructure. Finance is global but regulation is local, so coordination across borders is essential.
+It is in the interest of the private sector to be proactive. Major investors must “get up, stand up” to demand change. It is critical that industry adopt best practices and codes of conduct to reinforce trustworthy behaviour and culture. We need to face the practical limits to decentralisation that come from asymmetrical understanding of the system and the inability to plan for every eventuality in an uncertain world. Given the promise of innovation in financial services, I think this effort is worth it.
+I would like to thank the following for their input to and helpful comments on these remarks: Stephane Amoyel, Andrew Bailey, Sarah Breeden, David Geen, Bernat Gual-Ricart, Amy Lee, Maighread McCloskey, Grellan McGrath, Irina Mnohoghitnei, Ali Moussavi, Raakhi Odedra, Magda Rutkowska, Greg Stump, Cormac Sullivan, Henry Tanner, Andy Walters, as well as colleagues at the FCA and HMT.
+For more on governance issues and lessons from the GFC see “The Corporate Governance Lessons from the Financial Crisis” OECD (2009).
+See Davidson, De Filippi, and Potts (2016). “Disrupting Governance: The New Institutional Economics of Distributed Ledger Technology”.
+See
+"How Web3 is Changing Commerce and Governance (with Not Boring’s Packy McCormick
+)”, Azeem Azhar’s Exponential View, Harvard Business Review Podcasts.
+See
+Ethereum's energy usage will soon decrease by ~99.95% | Ethereum Foundation Blog
+and
+Ethereum Energy Consumption Index - Digiconomist
+.
+Normally anyone can propose an amendment to the Ethereum protocol, which is refined with a core development team in a public forum – this can be a long process. For more information see
+Ethereum Governance
+.
+See
+The Merge Mainnet Readiness Checklist
+.
+In particular, the Merge will allow ‘
+sharding
+’ which will partition the Ethereum chain into smaller, faster ones, which can be periodically reconciled.
+Makarov and Schoar (April 2022). “Cryptocurrencies and decentralized finance”, NBER.
+There are also incidents where core developers for Ethereum held meetings to discuss potential upgrades to the system that were invitation only and were not livestreamed. See Walch (2019), Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems, in Crypto Assets: Legal and Monetary Perspectives (ed. Chris Brummer).
+See
+Blockchain Development and Fiduciary Duty
+and
+In Code(rs) We Trust: Software Developers as Fiduciaries
+, for opposing viewpoints on whether protocol developers should be held accountable as fiduciaries.
+CFTC’s Ooki DAO Action Shatters Illusion of Regulator-Proof Protocol.
+See
+Beanstalk blog
+.
+See
+Terra Blockchain Halted To ‘Prevent Attacks’ After Luna Token Crashes Nearly 100% Overnight
+, Forbes.
+See Kiayias and Lazos (2022)
+SoK: Blockchain Governance
+, Annex A.4.
+For background, see Coinbase article on
+soulbound tokens
+.
+From
+Miners as intermediaries: extractable value and market manipulation in crypto and DeFi
+.
+Cong et al. (2020) “Decentralized Mining in Centralized Pools”, The Review of Financial Studies, and Makarov and Schoar (2022) “Cryptocurrencies and decentralized finance (DEFI)”, NBER.
+See
+"Here Is How to Improve DeFi Governance Using Ideas from Computational Voting Theory"
+and “
+Moving beyond coin voting governance
+.”
+For more on decentralization limits see A Walch (2019), Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems, in Crypto Assets: Legal and Monetary Perspectives (ed. Chris Brummer).
+See
+SoK: Blockchain Governance
+.
+See
+Governance
+.
+See
+Maker Protocol Emergency Shutdown - Maker Protocol Technical Docs
+.
+See
+Solend’s Whale Liquidation Crisis Prompts Second Vote to Reverse ‘Emergency Powers’
+.
+See
+What It Takes to Halt a 'Decentralized' Blockchain Like Binance
+.
+Last year (2021), the FCA received 6,383 reports of cryptoasset related scams to its Supervision Hub.
+Reported crypto scam losses since 2021 top $1 billion, says FTC Data Spotlight | Federal Trade Commission.
+See
+Innovation in post trade services - opportunities, risks and the role for the public sector − speech by Sir Jon Cunliffe | Bank of England
+.
+Crypto Market Integrity Coalition (CMIC).
+The Law Commission has published a
+consultation paper
+which contains provisional law reform proposals to ensure that the law recognises and protects digital assets (including crypto-tokens and cryptoassets) in a digitised world.
+See
+Speech by the Master of the Rolls: The economic value of English law in relation to DLT and digital assets - Courts and Tribunals Judiciary
+.
+Application of the Principles for Financial Market Infrastructures to stablecoin arrangements.
+For example, see FSB paper on
+FS risks from crypto assets
+(February 2022) and FSB
+Statement
+on International Regulation and Supervision of Crypto-asset Activities (July 2022).
+See
+FSB proposes framework for the international regulation of crypto-asset activities - Financial Stability Board
+.
+See
+FSB proposes framework for the international regulation of crypto-asset activities - Financial Stability Board
+.
+Close
+For example, see FSB paper on
+FS risks from crypto assets
+(February 2022) and FSB
+Statement
+on International Regulation and Supervision of Crypto-asset Activities (July 2022).
+Close
+Application of the Principles for Financial Market Infrastructures to stablecoin arrangements.
+Close
+See
+Speech by the Master of the Rolls: The economic value of English law in relation to DLT and digital assets - Courts and Tribunals Judiciary
+.
+Close
+The Law Commission has published a
+consultation paper
+which contains provisional law reform proposals to ensure that the law recognises and protects digital assets (including crypto-tokens and cryptoassets) in a digitised world.
+Close
+Crypto Market Integrity Coalition (CMIC).
+Close
+See
+Innovation in post trade services - opportunities, risks and the role for the public sector − speech by Sir Jon Cunliffe | Bank of England
+.
+Close
+Reported crypto scam losses since 2021 top $1 billion, says FTC Data Spotlight | Federal Trade Commission.
+Close
+Last year (2021), the FCA received 6,383 reports of cryptoasset related scams to its Supervision Hub.
+Close
+See
+What It Takes to Halt a 'Decentralized' Blockchain Like Binance
+.
+Close
+See
+Solend’s Whale Liquidation Crisis Prompts Second Vote to Reverse ‘Emergency Powers’
+.
+Close
+See
+Maker Protocol Emergency Shutdown - Maker Protocol Technical Docs
+.
+Close
+See
+Governance
+.
+Close
+See
+SoK: Blockchain Governance
+.
+Close
+For more on decentralization limits see A Walch (2019), Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems, in Crypto Assets: Legal and Monetary Perspectives (ed. Chris Brummer).
+Close
+See
+"Here Is How to Improve DeFi Governance Using Ideas from Computational Voting Theory"
+and “
+Moving beyond coin voting governance
+.”
+Close
+Cong et al. (2020) “Decentralized Mining in Centralized Pools”, The Review of Financial Studies, and Makarov and Schoar (2022) “Cryptocurrencies and decentralized finance (DEFI)”, NBER.
+Close
+From
+Miners as intermediaries: extractable value and market manipulation in crypto and DeFi
+.
+Close
+For background, see Coinbase article on
+soulbound tokens
+.
+Close
+See Kiayias and Lazos (2022)
+SoK: Blockchain Governance
+, Annex A.4.
+Close
+See
+Terra Blockchain Halted To ‘Prevent Attacks’ After Luna Token Crashes Nearly 100% Overnight
+, Forbes.
+Close
+See
+Beanstalk blog
+.
+Close
+CFTC’s Ooki DAO Action Shatters Illusion of Regulator-Proof Protocol.
+Close
+See
+Blockchain Development and Fiduciary Duty
+and
+In Code(rs) We Trust: Software Developers as Fiduciaries
+, for opposing viewpoints on whether protocol developers should be held accountable as fiduciaries.
+Close
+There are also incidents where core developers for Ethereum held meetings to discuss potential upgrades to the system that were invitation only and were not livestreamed. See Walch (2019), Deconstructing ‘Decentralization’: Exploring the Core Claim of Crypto Systems, in Crypto Assets: Legal and Monetary Perspectives (ed. Chris Brummer).
+Close
+Makarov and Schoar (April 2022). “Cryptocurrencies and decentralized finance”, NBER.
+Close
+In particular, the Merge will allow ‘
+sharding
+’ which will partition the Ethereum chain into smaller, faster ones, which can be periodically reconciled.
+Close
+See
+The Merge Mainnet Readiness Checklist
+.
+Close
+Normally anyone can propose an amendment to the Ethereum protocol, which is refined with a core development team in a public forum – this can be a long process. For more information see
+Ethereum Governance
+.
+Close
+See
+Ethereum's energy usage will soon decrease by ~99.95% | Ethereum Foundation Blog
+and
+Ethereum Energy Consumption Index - Digiconomist
+.
+Close
+See
+"How Web3 is Changing Commerce and Governance (with Not Boring’s Packy McCormick
+)”, Azeem Azhar’s Exponential View, Harvard Business Review Podcasts.
+Close
+See Davidson, De Filippi, and Potts (2016). “Disrupting Governance: The New Institutional Economics of Distributed Ledger Technology”.
+Close
+For more on governance issues and lessons from the GFC see “The Corporate Governance Lessons from the Financial Crisis” OECD (2009).
+Close
+Convert this page to PDF
+Carolyn A. Wilkins
+External member of the Financial Policy Committee
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

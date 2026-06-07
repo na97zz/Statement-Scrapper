@@ -1,0 +1,436 @@
+BANK: ECB
+CATEGORY: Speeches
+TITLE: Monetary sovereignty in the digital age: the case for a digital euro
+DATE: 27/09/2024
+SPEAKER: Monetary sovereignty in the digital age
+SPEAKER ROLE: 
+SOURCE URL: https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240927~11ed8493a4.en.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+SPEECH
+Monetary sovereignty in the digital age: the case for a digital euro
+Keynote speech by Piero Cipollone, Member of the Executive Board of the ECB, at the Economics of Payments XIII Conference organised by the Oesterreichische Nationalbank
+Vienna, 27 September 2024
+Money plays a fundamental role in society, driving economic activity and enabling daily transactions.
+[
+1
+]
+Money in physical form, cash, remains the most frequently used means of payment in stores, especially for lower value transactions. But more and more people are using money in digital form. An average of 379 million retail transactions are made digitally in the euro area every day.
+[
+2
+]
+Given money’s importance for our material and social well-being, the regulation of money has long been considered a cornerstone of state sovereignty. As the influential French jurist and political philosopher Jean Bodin observed in the 16th century, "only he who has the power to make law can regulate the coinage."
+[
+3
+]
+Today, legislators continue to regulate the use of money and they have entrusted central banks with issuing public money and maintaining confidence in the monetary system.
+At the European Central Bank (ECB), we issue money that can be used to settle wholesale and retail transactions throughout the euro area, thereby guaranteeing the singleness of money across the monetary union. And we ensure that the euro remains a safe, stable and effective medium of exchange and store of value. This provides an essential anchor for the economy and the financial system.
+The Eurosystem has made significant progress in integrating wholesale transactions, largely thanks to the robust payment infrastructure it provides. The Eurosystem’s real-time gross settlement system T2, for instance, processes a value close to the entire euro area GDP on a weekly basis, and it has established itself as a leading global payment system.
+In parallel, euro banknotes are accepted for retail payments across the euro area. They have become a symbol of European integration and freedom
+[
+4
+]
+, uniting us and strengthening our collective identity as Europeans.
+But while central banks have long offered digital settlement in central bank money for wholesale transactions, we do not yet have a digital form of cash.
+This is becoming increasingly problematic because the use and acceptance of cash are declining. In the euro area, cash transactions have fallen below card transactions in value.
+[
+5
+]
+And the share of companies reporting that they do not accept cash has tripled in the last three years to 12%.
+[
+6
+]
+The European Commission has therefore put forward a legislative proposal to ensure the acceptance of cash
+[
+7
+]
+and the ECB is committed to keeping euro cash widely available and accessible.
+[
+8
+]
+Still, the trend towards less use of banknotes for daily transactions is likely to continue, reflecting the digitalisation of economic activity and mirroring patterns observed in many advanced economies.
+Moreover, digital payments in the euro area remain fragmented, both along national lines and in terms of use cases. Current European digital payment solutions mainly cater to national markets and specific use cases. To pay across European countries, consumers have to rely on a few non-European providers, which now dominate most of these transactions. And even those providers’ payment solutions are not accepted everywhere and do not cover all key use cases (payments in shops, from person to person and online).
+So a key objective of central bank money – to offer the public a means of payment backed by the sovereign authority that can be used for retail transactions across the jurisdiction – is not being fulfilled in the euro area’s digital space. This is all the more awkward given that some euro area countries have made it mandatory to accept digital means of payment, for instance in a bid to combat tax evasion.
+In addition, European payments have become a prime example of the situation that Enrico Letta and Mario Draghi have described in their recent reports.
+[
+9
+]
+The fragmentation of the market, the lack of European payment solutions available on a European scale and the difficulty faced by European payment service providers in keeping pace with technological advances
+[
+10
+]
+means that Europe is not competitive within its own market, let alone on a global scale.
+Moreover, in an unstable geopolitical environment, we are being left to rely on companies based in other countries. Today’s dependency on US companies could in future develop into reliance on companies from countries other than the United States. Platforms like Ant Group’s Alipay have demonstrated their ability to bridge geographical gaps: during major events like UEFA EURO 2024 they were able to boost their payment app usage among customers in Europe.
+[
+11
+]
+We must move swiftly to address the risks stemming from Europe’s current inability to secure the integration and autonomy of its retail payment system. This is a key motivation behind the digital euro project: bringing central bank money into the digital age would provide a digital equivalent to banknotes and strengthen our monetary sovereignty.
+Today, I will outline the policy challenges we face as digitalisation reinforces the two-sided nature of the payments market. I will then discuss how the introduction of a digital euro could make a significant difference. By designing the digital euro to meet the diverse needs of consumers, merchants and payment service providers, we can ensure its widespread adoption. This, in turn, will empower us to pursue strategic goals such as innovation, integration and independence, ultimately enhancing our economic efficiency, resilience and sovereignty.
+The retail payments market: a two-sided marketplace
+To fully appreciate why we have been failing to overcome fragmentation and why the digital euro would be a game changer, we must first understand the structure of the retail payments market as a two-sided marketplace.
+Retail payment systems act as vital intermediaries connecting two key participants – merchants and consumers – whose transactions are facilitated by payment service providers.
+[
+12
+]
+The defining feature of this marketplace is that interactions between participants generate network effects, where the value for each group increases as more participants join the other side. Consider the telephone system: its utility grows with each new user. However, on the downside, this also creates a challenging chicken-and-egg dilemma. Platforms need a critical mass of users to attract additional participants, but they struggle to achieve scale without that initial user base.
+That is why platforms with existing large user bases have an advantage in entering such markets. Indeed, the strength of network effects is amplified when platforms expand their range of activities, thereby broadening their user base.
+Technological innovation and the rise of digital platforms managed by major tech companies are expected to further exacerbate these dynamics. Big techs conduct business in finance in a unique way, drawing on three mutually reinforcing components: data analytics, network effects and interconnected activities.
+[
+13
+]
+Network effects help big techs gather more data, which enhances their analytics. Better analytics improve services and attract more users, allowing them to offer more services and gather even more data.
+As a result, payment apps provided by big techs have become especially popular in emerging markets and developing economies.
+[
+14
+]
+Take China, for example. Its financial system has largely disintermediated banks from payment transactions. Instead, big techs have leveraged the widespread use of mobile apps, integrating social interactions and shopping experiences to offer users seamless digital payment methods.
+[
+15
+]
+What is even more problematic is that these companies operate closed-loop payment systems, in contrast to international card schemes’ open-loop systems. In a closed-loop system, consumers load money onto their Alipay account, for example, and pay by scanning the merchant’s Alipay QR code. As a result, funds are transferred directly from the consumer to the merchant, bypassing the traditional system of banks and network processors. Only the owner of the closed-loop system has access to the payment data. This challenges the traditional banking model, which relies on customer data and relationships to function effectively, and also has an impact on how credit is extended to the economy.
+[
+16
+]
+There is a risk that the closed-loop systems developed by successful online platforms and big tech companies could, in future, create a parallel economy with their own currencies and distinct units of account.
+At global level, big techs such as PayPal and Apple have developed highly successful ecosystems based on the closed-loop financial services model. By encouraging people to use their payment apps, these ecosystems effectively oblige them to use their payment rails. In parallel, payment platforms have tried to become more integrated in social media giants like WhatsApp and Meta
+[
+17
+]
+. Platforms like X (formerly Twitter) are considering offering payment functions.
+[
+18
+]
+And Amazon is now venturing into the credit card and payment app business too. These examples illustrate how these firms can exploit customer networks to create cross-subsidised links between various services.
+[
+19
+]
+However, while network effects can foster a virtuous cycle of economic growth, they also pose significant risks.
+In particular, walled gardens or lack of interoperability between various solutions can result in market fragmentation. Technology can be used to exclude competitors – for example, by preferencing a platform’s own products or restricting competing services – and so can skew the competitive landscape in favour of a dominant player. And these dynamics could further raise the barriers to enter and grow in the two-sided payments market, stifling competition and making it even more difficult for European payment solutions to emerge on a pan-European scale.
+There is thus a risk that the current dynamics, where big tech companies seek to exploit the power of their platforms to expand in payments, could exacerbate the challenges facing the European retail payments market in terms of integration and the ability of European solutions to compete and innovate at scale.
+Addressing market failures through European policy actions
+Since the creation of the monetary union, European policymakers have taken significant steps to foster the development of private European payment initiatives that span the euro area. The hope was that these initiatives could enhance competition within the European payments landscape, providing consumers and businesses with more choice and better services.
+From the launch of the Single Euro Payments Area to the recent adoption of the Instant Payments Regulation, the European Commission
+[
+20
+]
+and ECB
+[
+21
+]
+have worked with the private sector to support integration, innovation and the creation of a pan-European retail payment solution.
+Yet, despite these efforts, more than 30 years since the inception of the Single Market and 25 years since the launch of the single currency, most European retail payment solutions remain national in scope, addressing only limited use cases. Moreover, 13 out of 20 euro area countries rely entirely on non-European solutions in the absence of their own domestic payment scheme.
+As a result, people who live, work, travel or shop online in other euro area countries find themselves effectively dependent on two international card schemes, which enjoy strong market power. This situation discourages small businesses from expanding across borders or even into their national online markets, ultimately hindering the deepening of the Single Market.
+[
+22
+]
+And paradoxically, the benefits from the efforts we make to lower the barriers to trade in European product markets may not fully reach consumers, as they are absorbed in the form of higher profits by the few international players that currently enable payments in stores and online across Europe.
+Rather than joining forces and sharing resources to develop successful pan-European solutions, national communities have often preferred to preserve the legacy of investments made in the past.
+[
+23
+]
+This reluctance has allowed a few major global players not only to dominate cross-border European payment transactions, but also to steadily capture an even larger share of domestic transactions. The result is that international payment schemes operated by non-European operators today facilitate 64% of all electronically initiated transactions with cards issued in the euro area.
+[
+24
+]
+Merchants – and consumers, to whom costs are eventually passed on – are left to deal with the consequences of the international card schemes’ market dominance.
+For instance, the average net merchant service charges in the EU nearly doubled from 0.27% in 2018 to 0.44% in 2022.
+[
+25
+]
+This increase occurred despite regulatory efforts to contain it
+[
+26
+]
+, as international card schemes exploited their strong negotiating position to raise the non-regulated components of the merchant service charge, such as scheme fees.
+[
+27
+]
+As a result, every year, European merchants collectively transfer large amounts to international card networks.
+[
+28
+]
+The cost falls disproportionately on smaller retailers, who face charges that are three to four times higher than those paid by their larger counterparts.
+[
+29
+]
+This situation has raised concerns among European businesses of all sizes.
+[
+30
+]
+While the EU competition authorities can take effective action, they usually do so after dominance has been established. Moreover, they have to deal with the complexities of regulating payment networks.
+[
+31
+]
+This trend highlights broader competitiveness issues that have emerged across various markets. In Canada, class action lawsuits alleging collusion to set higher interchange fees have been filed against certain banks as well as Visa and Mastercard.
+[
+32
+]
+In the United Kingdom, the Payment Systems Regulator has provisionally concluded that there is insufficient competition in the card payments market. This lack of competition allows the two largest schemes to raise fees.
+[
+33
+]
+Similarly, the United States Justice Department filed a civil antitrust lawsuit earlier this week against Visa, claiming that Visa’s exclusionary and anticompetitive conduct undermines choice and innovation in payments and imposes enormous costs on consumers, merchants and the American economy.
+[
+34
+]
+It emphasised that Visa extracts fees that far exceed what it could charge in a competitive market and amount to a hidden toll adding up to billions of dollars imposed annually on American consumers and businesses. And because merchants and banks pass on those costs to consumers, Visa’s conduct affects not just the price of one thing, but the price of nearly everything.
+[
+35
+]
+The fact that these issues are not unique to Europe offers little comfort, particularly when considering that, unlike in the United States, this situation poses a risk to our monetary sovereignty.
+The excessive dependence on foreign entities in the European payments sector threatens the autonomy and resilience of European payment services. Without decisive public action, this dependence is likely to worsen. New foreign players – including from China
+[
+36
+]
+, Brazil
+[
+37
+]
+and India
+[
+38
+]
+– are seeking to enter, or increase their footprint in, the European market.
+While foreign competition is welcome, we cannot be satisfied that Europeans do not have their own digital payments solution allowing them to pay throughout the euro area. And we need to be careful that foreign central bank digital currencies (CBDCs) do not end up eroding the international role of the euro, especially as some jurisdictions are thinking about allowing their CBDCs to be used abroad.
+[
+39
+]
+European policymakers – and particularly the ECB – have recognised this challenge. In response, we have initiated the digital euro project, which is currently in the preparation phase.
+[
+40
+]
+Digital euro: addressing fragmentation and delivering tangible benefits
+The digital euro project is a crucial step towards enhancing Europe’s payments landscape and safeguarding our monetary sovereignty.
+By ensuring everyone across the euro area would have access to central bank money in digital form, the project aims to provide tangible benefits to consumers, merchants and payment service providers alike.
+Benefits for consumers and merchants
+Complementing banknotes, the digital euro would offer all European citizens and firms the freedom to make and receive digital payments seamlessly.
+During my recent hearing before the European Parliament
+[
+41
+]
+, I extensively discussed the benefits of the digital euro for consumers, particularly in terms of the convenience it would offer.
+The digital euro would provide a single, easy, secure and universally accepted public solution for digital payments in stores, online and from person to person. It would be available both online and offline. And it would be free for basic use.
+At the hearing, I also highlighted how the digital euro would provide merchants with seamless access to Europe's consumer base. Moreover, it would offer an alternative that would increase competition, thereby lowering transaction costs in a more direct way than regulations and competition authorities can.
+[
+42
+]
+Fostering competition and innovation in a unified payments ecosystem
+The digital euro would also generate broader benefits for the euro area economy by fostering competition and innovation.
+European payment service providers are finding it increasingly difficult to compete with international card schemes and e-payment solutions. For example, Apple Pay has significantly expanded its reach in Europe, capturing a portion of interchange fees, which represents a “significant expense”
+[
+43
+]
+for issuing banks. As a result, banks risk missing out on not only interchange fees but also client relationships and user data.
+By contrast, the digital euro would ensure that distribution would remain with payment service providers, allowing them to maintain customer relationships and be compensated for their services, as is currently the case.
+[
+44
+]
+It would also offer an alternative to co-branding with international card schemes for cross-border payments in – and potentially beyond – the euro area, thus promoting competition.
+The digital euro would also expand opportunities for payment service providers while reducing the cost of rolling out solutions on a European scale. In addition, it would cultivate an environment conducive to the widespread adoption of payment innovations throughout Europe.
+Currently, several innovations aimed at simplifying payments are emerging within specific national markets or across a few countries, driven by European payment service providers. Although these innovations are highly commendable and would enhance people’s lives, existing structural barriers mean they would encounter considerable obstacles in trying to achieve pan-European scale. This fragmentation along national lines further impedes private participants’ ability to achieve the scale required in a two-sided market like the payments market.
+What is the end result? By failing to implement large-scale innovations accessible to everyone in the euro area, these companies are unable to achieve the optimal scale needed for continuous investment in new technology. This limits their ability to compete effectively with the large international players who can fully leverage economies of scale, even on a global level.
+According to the European Commission’s legislative proposal
+[
+45
+]
+, the digital euro’s legal tender status – which would require merchants to accept the digital euro for electronic payments – and mandatory distribution would help overcome the challenges of achieving sufficient scale in a two-sided marketplace by ensuring widespread accessibility and acceptance across the euro area. This legal tender status, combined with the digital euro rulebook, would establish common standards, which are not in place today.
+Let me use an example to explain this in simpler terms. At the moment, in-store payment terminals often use technology known as the “kernel”
+[
+46
+]
+, provided by Mastercard and Visa, to enable contactless (near field communication) transactions. Although domestic card schemes can currently access this technology for free, multi-country European card schemes cannot. Moreover, this free-of-charge policy could change at any time.
+In the future, all stores would be required to accept the digital euro, meaning payment terminals would need to support its standard. According to the draft regulation, the standard would have to be made available for reuse by private parties, who could use it to develop their services. This would mean that all payment terminals in Europe that support digital euro transactions would be equipped with a scheme-agnostic kernel. This open system would be accessible to both regional and domestic European payment schemes, thereby allowing customers to make contactless payments throughout the euro area.
+This would advance a more integrated European payments market. As private providers expand their geographical footprint and diversify their product portfolios, they will benefit from cost efficiencies and be better positioned to compete internationally.
+In essence, the network effects generated by a digital euro would function as a public good, benefiting both public and private initiatives. This approach is akin to creating a unified European railway network or European energy grid, where various companies could competitively operate their own services and deliver added value to customers.
+Instead of requiring significant investment to expand existing services across the euro area, the open digital euro standards would facilitate cost-effective standardisation, making it possible for private retail payment solution providers to launch new products and functionalities on a broader scale.
+Ultimately, whether through the digital euro or private solutions, this standardised framework would unlock innovation, create new business opportunities and improve consumer access to a diverse range of goods and services.
+Making this vision a shared reality
+The design of the digital euro, as well as the key provision in the Regulation proposed by the European Commission, contains all the key elements required to make this vision a reality.
+Over the past years, we have extensively engaged with a multitude of market stakeholders, including through the Rulebook Development Group
+[
+47
+]
+and the Euro Retail Payments Board, to shape the digital euro value proposition and prepare its implementation. We have collected and discussed the input of the payments ecosystem at large, including from representatives of consumers, merchants, banks and other payment service providers.
+In the coming months we will expand our cooperation with the private sector, focusing on three main themes: how to create a more competitive environment to encourage innovation and offer consumers more choice, how to best identify and leverage synergies to enhance efficiency and create mutually beneficial opportunities across the payments ecosystem, and how to strengthen the business models of all stakeholders, ensuring they can adapt and thrive in a rapidly evolving landscape.
+Each of these value drivers will be discussed in depth, taking into account the different roles in the payment chain, including those of issuing banks and third-party providers. By adopting this inclusive approach, we can ensure that everyone’s needs and perspectives are addressed, paving the way for a more robust and dynamic payments system.
+Conclusion
+Let me conclude. Money is key to sovereignty, a reality that resonates more than ever in the digital age.
+Some 63 countries are now operating, piloting, developing or exploring retail CBDCs.
+[
+48
+]
+Meanwhile, major private payment solutions are expanding globally and some nations may even seek to leverage crypto-assets, with figures such as US presidential candidate Donald Trump promising to make the United States a “Bitcoin superpower”.
+[
+49
+]
+In this fast-moving environment, Europe cannot stand still. And the role of the ECB in issuing money that is accepted throughout the euro area is particularly crucial in a monetary union where payments markets remain fragmented along national lines.
+We are committed to ensuring that people in Europe can continue to use cash.
+[
+50
+]
+However, we cannot stand by and watch as individuals are unable to use central bank money for their daily digital transactions.
+Bringing central bank money into a digitalised world through the digital euro would safeguard our monetary sovereignty in the digital age. It would overcome fragmentation by offering money that can be used for any digital payments in the euro area, foster competition and innovation by facilitating the development of pan-European payments services and strengthen our autonomy and resilience by helping us avoid becoming over-reliant on foreign payment solutions.
+Thank you for your attention.
+I would like to thank Alessandro Giovannini, Jean-Francois Jamet and Cyril Max Neumann for their help in preparing this speech, as well as Henk Esselink, Patrick Papsdorf, Benjamin Sahel, Doris Schneeberger, Erik Tak and Evelien Witlox for their comments.
+Source: ECB Payments Statistics. The data are for non-cash payment transactions in 2023. This excludes cash withdrawals and includes credit transfers, direct debits, card payments with cards issued by resident payment service providers, e-money payment transactions with e-money issued by resident payment service providers, cheques, money remittances and other payment services.
+Six Books of the Commonwealth
+(originally published in French in 1576 as
+Les Six livres de la République
+).
+Most Europeans want to have the option to pay in cash and many view it as essential to their freedom: cash is easy to obtain, inclusive, universally accepted across the euro area and offers the highest level of privacy. See Cipollone, P. (2024), “
+Maintaining the freedom to choose how we pay
+”,
+The ECB Blog
+, 25 June.
+In terms of value of payments, cards (46%) accounted for a higher share of transactions than cash payments (42%) in 2022. This contrasts with 2016 and 2019, when the share of cash transactions in value (54% in 2016 and 47% in 2019) was higher than the share of card transactions. See ECB (2022), “
+Study on the payment attitudes of consumers in the euro area
+”, 22 December.
+The share of companies not accepting cash has increased from 4% in 2021 to 12% in 2024 in the euro area. See ECB (2024), “
+Use of cash by companies in the euro area in 2024
+”, 18 September.
+In June 2023, the European Commission tabled a legislative proposal on the legal tender of euro cash to safeguard the role of cash and ensure it is widely accepted as a means of payment and remains easily accessible for people and businesses across the euro area. See European Commission (2023), “
+Single Currency Package: new proposals to support the use of cash and to propose a framework for a digital euro
+”, press release, 28 June.
+The
+Eurosystem cash strategy
+aims to ensure that euro cash remains widely available, accessible and accepted as both a means of payment and a store of value.
+Letta, E. (2024),
+Much more than a market
+, April; Draghi, M (2024),
+The future of European competitiveness
+, September.
+For instance, according to Capgemini Financial Services, only 13% of European banks can claim a strong technology foundation for instant payments. See Capgemini (2024), “
+Velocity, meet value
+”,
+World Report Series 2025
+, September.
+Alipay saw a 67% increase in transactions in Germany during the opening week of UEFA EURO 2024, with a 40% increase in merchants accepting these payments.
+See Rochet, J-C. and Tirole, J. (2023), "Platform competition in two sided markets",
+Journal of the European Economic Association
+, June, pp. 990-1029; Rochet, J-C. and Tirole, J. (2002), "Cooperation among competitors: the economics of payment card associations",
+RAND Journal of Economics
+, Vol. 33, No 4, pp. 1-22; Rysman, M. (2009), "The economics of two-sided markets",
+Journal of Economic Perspectives
+, Vol. 23, No 3, pp.125-43.
+Bank for International Settlements (2019), “
+Big tech in finance: opportunities and risks
+”,
+BIS
+Annual Economic Report
+, 23 June.
+Doerr, S., Frost, J., Gambacorta, L. and Shreeti, V. (2023), “
+Big techs in finance
+”,
+BIS Working Papers
+, No WP1129, October.
+Alipay running through Alibaba (China’s version of Amazon) and WeChat Pay running through Tencent (China’s version of Facebook).
+Beck, T., Gambacorta, L., Huang, Y., Li, Z. and Qiu, H. (2022), “
+Big techs, QR code payments and financial inclusion
+”,
+BIS Working Papers
+, No 1011, 4 May.
+WhatsApp Pay is an in-app payment feature that allows businesses to receive payments directly through WhatsApp. Launched in India in November 2020, it now operates also in the United States (using Novi, a digital wallet from Meta) and Brazil (operating via Facebook Pay, also known as Meta Pay).
+Finextra (2024), “
+X working on ‘payments’ button
+”, 7 August.
+TechCrunch (2024), “
+Amazon considers moving Amazon Pay into a standalone app in India
+”, 19 August.
+European Commission (2020),
+Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions on a Retail Payments Strategy for the EU
+,
+24 September.
+Cipollone, P. (2024), “
+Innovation, integration and independence: taking the Single Euro Payments Area to the next level
+”, speech at the ECB conference on “An innovative and integrated European retail payments market”, 24 April.
+Letta, E., op. cit.
+The Eurosystem supports market-led initiatives to develop privately operated, European-governed, pan-European payment solutions at the point of interaction. The European Payments Initiative, which is backed by 16 European banks and financial services companies, aims to develop a payment solution for consumers and merchants across Europe, based on a digital wallet. In parallel, new initiatives based on the principle of interoperability have been announced. However, these initiatives do not yet cover the entire area.
+This is the volume share of international card schemes in total electronically initiated card payments with cards issued in the euro area and transactions acquired worldwide for the first half of 2023. It is based on data collected under Regulation (EU) No 1409/2013 of the European Central Bank on payments statistics (ECB/2013/43).
+European Commission (2024),
+Study on new developments in card-based payment markets, including as regards relevant aspects of the application of the Interchange Fee Regulation - Final Report
+, February.
+In recent years, legislators have taken several initiatives to promote higher competition in the retail payments landscape, such as the Interchange Fee Regulation (IFR), Commitments on interregional card transactions, Payment Services Directive and Regulation (PSD2/PSR) and Instant Payments Regulation (IPR).
+EuroCommerce (2024), “
+EU businesses’ competitiveness impacted by current cards payments landscape – a call for urgent action
+”, Position paper – Payments, 8 July.
+See Cipollone, P. (2024), “
+From dependency to autonomy: the role of a digital euro in the European payment landscape
+”, Introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament, 23 September.
+EHI,
+Zahlungssysteme im Einzelhandel 2023
+; European Commission (2024), op. cit.
+EuroCommerce (2024), op. cit.
+European Commission (2024), op. cit.
+See apnews’s article on Canadian credit card class actions entitled “
+Visa, Mastercard settle long-running anti-trust suit over swipe fees with merchants
+”, 26 March 2024.
+Payment Systems Regulator (2024), “
+PSR provisionally finds that the card schemes do not face effective competition in the supply of scheme and processing services to acquirers
+”, 21 May.
+US Department of Justice (2024), “
+Justice Department Sues Visa for Monopolizing Debit Markets
+”, 24 September.
+See “
+Attorney General Merrick B. Garland Delivers Remarks on the Justice Department's Lawsuit Against Visa for Monopolizing Debit Markets
+”, 24 September.
+As of June 2024, over 400,000 European merchants accept mobile payments through Alipay+ from 14 international e-wallets and banking apps. Additionally, users of more than 370 banks in Germany and Austria can pay digitally through a partnership between Alipay+ and Bluecode. In France, Alipay+ has teamed up with Crédit Mutuel to enable acceptance at various retailers, hotels and restaurants. In Spain, Alipay+ is available at the Boqueria Market in Barcelona and department store El Corte Ingles, offering special discounts. In Italy, Alipay+ expanded its partnership with Worldline Italia to upgrade all Android POS terminals, benefiting Asian tourists across thousands of locations. Business Wire (2024), “
+Alipay+ Expands Global Merchants Coverage for Partner E-Wallets in UEFA EURO 2024
+TM
+Summer Craze
+”, 12 June.
+It was recently announced that Wipay, a Spanish payment technology company, has partnered with PagBrasil to introduce Brazil's Pix Instant Payment System to Europe. PagBrasil also announced plans to test the instant payment system Pix at various points of sale in Spain, Portugal and the Netherlands.
+As of February 2024, tickets for the Eiffel Tower can be purchased via the Indian payment solution UPI. France was the first European country to accept UPI after the National Payments Corporation of India (NPCI) partnered with Lyra, a French e-commerce and proximity company. See Lyra (2024), “
+Lyra Network revolutionizes global payments with UPI transactions in France
+”, 2 February.
+Panetta F. (2022), “
+‘Hic sunt leones’ – open research questions on the international dimension of central bank digital currencies
+”, speech at the ECB-CEBRA conference on international aspects of digital currencies and fintech, 19 October.
+The preparation phase follows the investigation phase of the project, which discussed key design and distribution choices for the digital euro. ECB (2024),
+Progress on the preparation phase of a digital euro
+, 24 June.
+See Cipollone, P. (2024), “
+From dependency to autonomy: the role of a digital euro in the European payment landscape
+”, Introductory statement at the Committee on Economic and Monetary Affairs of the European Parliament, 23 September.
+Usher, A., Reshidi, E., Rivadeneyra, F. and Hendry, S. (2021), “
+The Positive Case for a CBDC
+”,
+Staff Discussion Paper
+, Bank of Canada, 20 July; and Liu, Y., Reshidi, E. and Rivadeneyra, F. (2023), “
+CBDC and Payment Platform Competition
+”, Bank of Canada, 17 May.
+See Payments Dive (2024), “
+DOJ calls Apple card fees ‘significant expense’ for banks
+”, 26 March.
+The draft legislation envisages a compensation model with fair economic incentives for all involved (e.g. consumers, merchants and banks) in line with the following principles: i) as a public good, a digital euro would be free of charge for basic use; ii) payment service providers would charge merchants fees for providing digital euro-related services to offset the operational costs of distributing a digital euro, as is the case today for other digital means of payment. Payment service providers would also be able to develop additional digital euro services for their customers, on top of those required for basic use; iii) the fees that merchants pay payment service providers for digital euro services would be subject to a cap to provide adequate safeguards against excessive charges, as outlined by the European Commission in its legislative proposal on a digital euro; iv) as for the production of banknotes, the Eurosystem would bear the issuance costs.
+See European Commission (2023), op. cit..
+A kernel is a core piece of software embedded in payment terminals that handles the processing of payment transactions. It ensures that the terminal can read and authenticate card or digital wallet data and communicate with the bank or payment network to approve or decline the transaction. Essentially, it manages the steps required to complete a secure payment.
+See European Central Bank (2024), “
+Update on the work of the digital euro scheme’s Rulebook Development Group
+”, 5 September.
+According to the
+Atlantic Council CBDC tracker
+, three countries have launched a retail CBDC, 35 are running pilots, 13 are in the development phase and 12 are conducting research.
+See New York Times (2024), “
+Trump, Appealing to Bitcoin Fans, Vows U.S. Will Be ‘Crypto Capital of the Planet’
+”, 27 July.
+The
+Eurosystem cash strategy
+aims to ensure that cash remains widely available and accepted as both a means of payment and a store of value. See also ECB (2023), “
+ECB selects “European culture” and “Rivers and birds” as possible themes for future euro banknotes
+”, press release, 30 November.
+Related topics
+Digital euro
+Central bank digital currencies (CBDC)
+Disclaimer
+Please note that related topic tags are currently available for selected content only.
+CONTACT
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20
+60314 Frankfurt am Main, Germany
++49 69 1344 7455
+media@ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.
+Media contacts

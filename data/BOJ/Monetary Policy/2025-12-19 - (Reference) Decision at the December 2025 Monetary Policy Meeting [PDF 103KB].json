@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Monetary Policy",
+  "title": "(Reference) Decision at the December 2025 Monetary Policy Meeting [PDF 103KB]",
+  "date_original": "2025-12-19",
+  "date_au": "19/12/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k251219b.pdf",
+  "raw_file_path": "data\\BOJ\\Monetary Policy\\2025-12-19 - (Reference) Decision at the December 2025 Monetary Policy Meeting [PDF 103KB].pdf",
+  "text_file_path": "data\\BOJ\\Monetary Policy\\2025-12-19 - (Reference) Decision at the December 2025 Monetary Policy Meeting [PDF 103KB].txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c1090fef014d6c5ec65e7333db5bee6cd7698a8edf01f943e1f037d36917c094"
+}

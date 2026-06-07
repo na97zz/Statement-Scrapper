@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Liquidity, Supervision, and Regulatory Reform",
+  "date_original": "2024-07-18",
+  "date_au": "18/07/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240718a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-07-18 - Michelle W. Bowman - Liquidity, Supervision, and Regulatory Reform.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-07-18 - Michelle W. Bowman - Liquidity, Supervision, and Regulatory Reform.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e519a244ea56c26f04e19016b6ec05d3491250150782bb8f1d4e3dbfa84c1f73"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Innovation at the Speed of AI",
+  "date_original": "2025-10-15",
+  "date_au": "15/10/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20251015a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-15 - Christopher J. Waller - Innovation at the Speed of AI.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-15 - Christopher J. Waller - Innovation at the Speed of AI.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "19bfa1de1cc5e4d4daa7dcd0933d116b289de66b26f5cd2e0bda20cbcb6db11c"
+}

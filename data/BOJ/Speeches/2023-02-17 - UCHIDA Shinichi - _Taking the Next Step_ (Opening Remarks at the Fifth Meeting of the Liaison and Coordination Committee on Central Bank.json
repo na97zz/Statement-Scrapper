@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Taking the Next Step\" (Opening Remarks at the Fifth Meeting of the Liaison and Coordination Committee on Central Bank Digital Currency)",
+  "date_original": "2023-02-17",
+  "date_au": "17/02/2023",
+  "datetime_original": "",
+  "speaker": "UCHIDA Shinichi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230217a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-02-17 - UCHIDA Shinichi - _Taking the Next Step_ (Opening Remarks at the Fifth Meeting of the Liaison and Coordination Committee on Central Bank.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-02-17 - UCHIDA Shinichi - _Taking the Next Step_ (Opening Remarks at the Fifth Meeting of the Liaison and Coordination Committee on Central Bank.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "875f4521bff429468333d89f2ed2f069587d4fb5d657b619aa8a2073562c57de"
+}

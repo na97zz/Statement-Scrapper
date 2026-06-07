@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Niigata)",
+  "date_original": "2025-11-20",
+  "date_au": "20/11/2025",
+  "datetime_original": "",
+  "speaker": "KOEDA Junko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko251120a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-11-20 - KOEDA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Niigata).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-11-20 - KOEDA Junko - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Niigata).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ebe2ff9b895c5b95d5ba4b6fbb9ff9e3d6680db75e7ececd86c8b045ec5c0131"
+}

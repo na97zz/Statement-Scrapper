@@ -1,0 +1,274 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: The importance of central bank reserves - lecture by Andrew Bailey
+DATE: 01/06/2024
+SPEAKER: Andrew Bailey
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2024/may/andrew-bailey-lecture-london-school-of-economics-charles-goodhart
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+The importance of central bank reserves - lecture by Andrew Bailey
+Lecture in honour of Charles Goodhart, London School of Economics
+Published on 
+
+ 21 May 2024
+Central bank reserves play a key role in delivering the Bank of England’s core mandates of financial stability and monetary policy. In this lecture, the Governor discusses implications for the future of the Bank’s balance sheet.
+Lecture
+It is a great pleasure to be here at this event, hosted by the LSE’s Financial Markets Group in honour of Charles Goodhart.
+This evening, I am going to talk about central bank balance sheets and in particular the Bank of England’s balance sheet. An esoteric topic perhaps, but an important one, now more than ever. And it is a topic on which Charles has written extensively.
+Charles worked at the Bank for nearly two decades, of course, before his distinguished career as a professor here at the London School of Economics. His article “The importance of money”, published in the Bank’s Quarterly Bulletin in 1970 and available on the Bank of England’s website, was a milestone in the study of the predictability of money demand.
+footnote
+[1]
+At the time this was an important issue in debates over monetary control mechanisms and the relative merits of monetary ‘rules’ and policy ‘discretion’, a debate he masterfully summarised in his 1975 book on “Money, Information and Uncertainty”.
+In this and later work, Charles brought his deep understanding of the nature of financial markets, of banking and of monetary assets to bear, the historical perspective always present. In his 1988 book “On the Evolution of Central Banks” he discussed “how the role and functions of Central Banks have evolved naturally over time, and play a necessary part within the banking system”. Fast forward two more decades – across a long list of significant contributions covering the full spectrum of monetary economics – it was with more foresight than most that he turned to “A Central Bank’s Optimal Balance Sheet Size?” in 2017, discussing principles for ‘monetary policy renormalisation’ after a decade of central bank balance sheet expansion.
+footnote
+[2]
+I should not fail to mention that Charles was a policymaker too. He served as an inaugural external member of the Monetary Policy Committee, from June 1997 to May 2000. When he left Bank Rate was at 6.0%. It is tempting to bring up r* at this point. But I will resist and conclude instead that the Bank of England’s balance sheet seems a fitting topic for a lecture in Charles’s honour this evening.
+It may not be a topic for dinner table conversations, but the central bank balance sheet plays a crucial role in everyday economic life. Its main liabilities – central bank reserves, the deposits that commercial banks hold at the central bank – serve as the ultimate means of settlement for transactions in the economy. Central bank reserves, in other words, are the most liquid and ultimate form of money. They underpin nearly all other forms of money such as the deposits individuals or businesses hold at commercial banks. The Bank issues physical bank notes directly to the public too, of course, but they are a smaller part of overall money stock.
+Some transactions can happen simply by moving money from one account to another at the same commercial bank. In that case, the central bank need not be involved. But whenever money has to be transferred from an account at one commercial bank to an account at another commercial bank, that transaction has to be settled between them. That is where the central bank’s balance sheet comes in. Commercial banks hold reserves at the central bank. So transactions can be settled by moving these reserves – claims on the central bank – across the central bank balance sheet by debiting one commercial bank’s reserve account and crediting another’s. It is the confidence that payments can be settled in this way that ultimately gives commercial bank money its value.
+footnote
+[3]
+It ensures the singleness of money, that people can be confident that money is fungible at equal value – that the money they hold in their account is as good as any other.
+In practice, transactions are processed through our Real-Time Gross Settlement (RTGS) service. This delivers final and risk-free settlement of transactions across the financial system with central bank reserves at its centre. Incidentally, this means that central bank reserves exist predominantly in digital form. So the road to a ‘digital pound’ is not as long as you might suspect. One way to think about wholesale Central Bank Digital Currency is as just another form of digital central bank reserves. Meanwhile, a new and improved RTGS is nearing completion. This will deliver an enhanced settlement service, supporting innovation in payment services. This is an exciting and important work programme, but not the subject for today.
+Instead, I want to talk about the key role that central bank reserves play in delivering our core mandates of maintaining financial stability and implementing monetary policy, and what those roles imply for the future of the Bank of England’s balance sheet.
+Starting with financial stability, central bank reserves are the safest and most liquid of financial assets, the ultimate means of settlement. This makes them an essential anchor for the stability of commercial banks and the wider financial system. Commercial banks can create money simply by extending loans to their customers. It is worth pausing at that sentence. It is the answer to one of the simplest but most teasing questions I get asked, particularly when I visit schools: “how is money created?” The majority of money is created when banks make loans to their customers.
+footnote
+[4]
+But banks need to hold sufficient reserves, or ‘liquidity’, to meet the potential outflows of money from their customers’ accounts. So by ensuring that all transactions can proceed smoothly, central bank reserves play an important role in maintaining financial stability.
+This of course comes with a package of macro-prudential policy and micro-prudential regulation. Macro-prudential policy works to ensure that the whole financial system is robust and that people can have confidence that their money is safe. And micro-prudential regulation, among other things, incentivises banks to take relatively more stable term deposits and to ensure that they hold an adequate amount of high-quality liquid assets, so-called HQLA which includes central bank reserves, to meet their payment obligations at all times. This regulation underpins the important singleness of money.
+This does not imply that banks need to hold reserves for all eventualities. They can borrow liquidity from each other in the so-called money market, for example, to smooth out demands. And central banks stand ready to provide additional liquidity, in the form of central bank reserves, as needed for the system to operate smoothly. Effectively, banks can borrow the reserves they need from the central bank, by pledging other assets as collateral for the loan. As Charles put it in a paper he published in 2011: “the essence of central banking lies in its power to create liquidity, by manipulating its balance sheet” in this way.
+footnote
+[5]
+I will have more to say about this later.
+But first to the second important role that central bank reserves play in today’s monetary system: central bank reserves are remunerated at the official policy rate and as such they provide an essential anchor for the implementation of monetary policy. The Bank’s Monetary Policy Committee sets the level of Bank Rate to meet its 2% inflation target. The Bank puts these monetary policy decisions into effect through the remuneration of reserves at that rate. By pinning down the near-end of the interest rate curve, this is the first step in the transmission of monetary policy through financial markets to the real economy and thus influencing inflation.
+There are other ways of affecting short-term interest rates for monetary policy purposes, but all involve the use of central bank reserves in some way or another. Before the global financial crisis, most central banks operated with a much lower level of reserves than today and an interest-rate ‘corridor’ between official rates on a borrowing and a deposit facility. The approach involved managing the ‘scarcity’ of reserves such that the money market rate was in the middle of the corridor. The Bank of England operated a variant of this approach that required firms to specify the quantity of reserves they wanted to hold on average each month and then incentivised them to manage their holdings to this target by paying Bank Rate only on this target.
+In the system we have today, the much larger supply of reserves drives money market rates close to the ‘floor’ determined by Bank Rate. If money market rates were to fall much below Bank Rate, banks would have an opportunity to profit by borrowing reserves from other banks, for example, and earning Bank Rate on their reserve accounts. This ‘floor’ system has been successful in keeping money market rates very close to Bank Rate.
+While in principle we could implement monetary policy with a much smaller level of reserves than we have today, I will argue this evening that financial stability considerations point towards an increased reserve demand since the financial crisis, one that the central bank has very good reason to meet. But how many reserves do we need in the system to secure financial stability as well as to implement monetary policy effectively – what is the optimal level? And given that level, we are faced with another question: which assets should the Bank hold to back it? These two questions are the topic of today.
+Decisions on how we supply reserves will affect where it intersects demand. We need to account for potential market distortions from our choices, and what they imply for the balance between liquidity provision directly through the Bank’s facilities and indirectly via the money market, both in normal times and in stress. And we need to consider where interest rate risk sits within the system and what the implications are of that. These are important questions. How we answer them will shape the Bank of England’s balance sheet for years to come.
+It is useful to start with some history.
+By the time the Bank of England was founded in 1694, goldsmiths in London were carrying out banking business and issuing notes. Members of the public could go to their local goldsmith and deposit their gold and silver coins in exchange for a bank note that was easier and safer to carry around. Goldsmith bankers also created money by issuing further notes against their specie deposits to borrowers. The goldsmith bankers accepted each other’s notes, cashing them in only every few days and settling only the difference in gold and silver coin.
+footnote
+[6]
+This was formalised in the London Banker’s Clearing House. By 1774, London bankers had switched from settling transactions in specie to settling in Bank of England notes. As a ‘Great Engine of State’, the Bank of England’s notes had special status, though that is a story for another day.
+Suffice to say that when the Bank entered the clearing system in 1864, banks had already started to settle with each other using their accounts at the Bank of England directly. These accounts were known as ‘bankers’ balances’ – and later as ‘central bank reserve accounts’. Bankers’ balances quickly grew in importance and became the fulcrum of the Bank’s operations with the money market by the late 19th century. Settling large transactions with a few entries in the Bank’s ledgers was certainly much more convenient – and much safer – than carrying heavy bags of gold and silver coin across town.
+In his 1972 book on “The Business of Banking” of this time, Charles showed that banks held more in the form of bankers’ balances than they needed purely for settlement purposes. Banker’s balances were unremunerated and would remain so until 2006. That does suggest some precautionary liquidity motive. But Charles also found evidence that banks held a certain level of balances to keep good relations with the Bank should they need additional liquidity, and that some banks pre-positioned collateral for that purpose. I will come back to both these points later in a modern context.
+As
+Chart 1
+shows, at the turn of the 20th century, on top of bankers’ balances (in orange), banks also held safe investment assets in the form of government securities (in blue) and a frontline reserve of cash in their tills to meet immediate customer demands (in green).
+footnote
+[7]
+This provided an adequate safety buffer given the nature of banking at the time. Banks largely provided working capital finance to firms. Their private assets were bills, short-term loans and overdrafts. They would not enter the mortgage market until the 1980s. So the banking system was relatively safe with little risk from maturity transformation.
+Chart 1: At the turn of the 20
+th
+century, banks held adequate safety buffers
+Government debt and central bank reserves held by banks as a ratio of deposits
+Footnotes
+Sources: Bank of England, Thomas and Dimsdale (2017), Sheppard (1971), Capie and Webber (1985) and Bank calculations.
+Both World Wars would see a major increase in the amount of government securities held by the banks, reflecting the banking system’s role in funding the Government’s deficit. As
+Chart 2
+shows, at the end of World War 2 around three quarters of the banking system’s sterling assets were in the form of direct or indirect holdings of government debt instruments (in blue). The 1950s and 1960s saw the composition of bank assets move firmly back towards private sector lending (in green). But in this period, frequent balance of payments crises under the Bretton Woods system led to attempts to control bank lending. Pressure was applied to banks’ liquid asset ratios to reduce their illiquid
+private-sector loan assets, and the Government applied direct controls on credit provision. In other words, credit provision to the economy was actively discouraged.
+Chart 2: The composition of bank assets changed in the 1950s and 1960s
+Sterling bank lending to the public and private sector credit as ratio of GDP
+Footnotes
+Sources: Bank of England, Thomas and Dimsdale (2017), Sheppard (1971), Capie and Webber (1985) and Bank calculations.
+Then during the 1970s and 1980s, financial liberalisation and the removal of controls on the banks and building societies led to a significant decline in the public sector liquid assets ratio.
+Chart 3
+illustrates how the clearing banks had entered the mortgage market and maturity transformation increased. Banks increasingly became liability managers and competed for funds in wholesale markets. Restrictions on building societies were also removed in the early 1980s and they were allowed both to access wholesale funding and offer many of the services of banks. By the early 2000s only the bare minimum of reserves required for day-to-day settlement were held – and very few public sector liquid assets, which could be used as collateral to obtain more reserves from the Bank when required. That left banks dependent on the availability of wholesale funding markets. As it turned out, this was not a good situation.
+As the global financial crisis unfolded later in the decade, wholesale funding markets dried up and it became increasingly difficult for banks to sell securities backed by mortgages or other assets, or to use them as collateral to borrow cash. Banks were now left with an ‘overhang’ of illiquid assets on their balance sheets. The Bank had to widen the collateral it was prepared to accept in its money market operations, and it introduced schemes to allow banks to swap what had become illiquid private securities for UK Treasury bills.
+Chart 3: Maturity transformation increased with financial liberalisation
+Private sector assets held by banks and building societies as ratio to GDP
+Footnotes
+Sources: Bank of England, Thomas and Dimsdale (2017), Sheppard (1971), Capie and Webber (1985) and Bank calculations.
+The other leg of the policy response, of course, was the introduction of Quantitative Easing, or QE. As Chart 4 illustrates, QE has been the dominant driver of reserves creation and the significant increase in the level of reserves over the past two decades, including in response to the Covid-pandemic. But further reserves were added to the stock with term funding schemes, including the launch, in March 2020, of the Term Funding Scheme with additional incentives for Small and Medium-sized Enterprises, or TFSME for short. Until it closed for new loans in April 2021, the scheme offered multi-year funding at close to Bank Rate for banks that increased lending, especially to SMEs, in order to avoid that their lending rates would edge up.
+As
+Chart 4
+also shows, the process of reserve expansion has now gone into reverse. Asset purchases are being unwound through Quantitative Tightening, or QT, while TFSME loans are maturing.
+footnote
+[8]
+It is this reversal that gives rise to the question of what the level of reserves should be in the future.
+As we look to the future and answer that question, we need to make an important distinction between the monetary policy and financial stability purposes for reserve creation.
+Chart 4: Quantitative easing has been the main driver of reserves creation
+Bank of England reserves supply and backing assets
+Footnotes
+Source: Bank of England.
+The primary purpose of QE was to stimulate the economy by pushing down longer-term interest rates through the purchase of mainly government bonds, financed by the issuance of renumerated central bank reserves – or, if you like, to create money directly as
+Chart 5
+illustrates (in the red bars), to avoid a drop in the money supply resulting from banks repairing their balance sheets through both a contraction in bank lending and issuing non-monetary liabilities such as debt and equity (the blue and purple bars). But viewed from today, this direct money creation also served the secondary purpose of re-building the level of reserves and safe public sector liquid assets from what had proven to be an inadequate level during the global financial crisis. What was a monetary policy intervention had a necessary and positive financial stability effect in this way. As
+Chart 1
+also showed, public sector liquid assets as a ratio of the sterling deposits of households and companies are now at similar levels as they were in the 1960s.
+The distinction is important for two reasons. First, we should see the process of QT as having two parts, consistent with phases where each of the two purposes of money creation comes to the fore. I will explain this later. Second, the distinction opens the question of what assets the Bank should hold on its balance sheet in the future. I will come back to that too.
+But, returning to the first question, where does this history leave us on the reserve level we should aim for today?
+Amongst those who take an interest in these matters, there is a lively debate. I have the pleasure of going to the Bank for International Settlements in Basel several times a year to meet and discuss with other central bankers.
+Chart 5: Quantitative easing created money directly
+Counterparts to broad money growth
+Footnotes
+Source: Bank of England.
+Some continue to emphasise the case for a return to a small balance sheet. The case for ‘renormalisation’ puts great weight on the benefit of putting liquidity management squarely in the hands of private institutions and markets. And it points to the risk that banking system behaviours may change in undesirable ways over time the longer the central bank balance sheet remains large, for example if the level of runnable deposits in the banking system were to increase. Indeed, Raghuram Rajan made similar points when the Financial Markets Group hosted him for this event last year. At the BIS, Claudio Borio has made the case particularly forcefully, setting out the principle that the central bank balance sheet should start out as small as possible, flexing up only in times of stress.
+footnote
+[9]
+Others see benefits of the central bank supplying reserves relatively freely, sometimes referring to a ‘new normal’. Jeremy Stein, for example, has argued that a larger central bank balance sheet can improve financial stability by ‘crowding out’ excessive risk taking in the private sector.
+footnote
+[10]
+Such thinking is not new per se – Milton Friedman’s essays on “The Optimal Quantity of Money” come to mind. What is relatively new, perhaps, is for such thinking to be adopted on a broad basis amongst the central bank community. It is part of a debate with many nuances.
+footnote
+[11]
+As the Federal Reserve’s Annette Vissing-Jørgensen has pointed out, how reserves are supplied will matter for the cost and benefits of larger central bank balance sheets.
+footnote
+[12]
+What I think is emerging as a mainstream view amongst central bankers is that we need to thread this middle path. Before the financial crisis, monetary policy was implemented with a much lower level of reserves than we have today. That worked well enough for monetary policy. But as we discovered to our cost, the level of liquid assets in the system, including central bank reserves, was too low for financial stability purposes, and this contributed to the scale of the financial crisis.
+And much has changed in the world since the financial crisis. The demand for reserves is much larger than it was. Both the deposit base and regulatory requirements have grown, increasing demand for liquidity. The recent fate of Silicon Valley Bank has demonstrated that the size and speed of potential outflows has increased over time, not least because of technological developments with bank runs accelerated by social media and online platforms. There are limits to the capacity of private markets and contingent facilities to convert banks’ assets into reserves to meet their payment obligations, and these limits need to be reflected in the standing stock of reserves.
+Equally, at some point the costs of an increase in reserve supply are likely to outweigh the benefits. Generally speaking, as reserves levels grow, the incentives for the banking sector to manage its own liquidity falls. And to the extent that reserve supply crowds out healthy market intermediation in normal market conditions, a large part of the financial system’s ability to manage its liquidity will be affected. Mindful of these costs, we do not seek a larger balance sheet than is strictly necessary.
+I will not speak for Charles in this debate. But as he has pointed out in his work, the decision should be based on a clear set of principles. At its highest levels, we are looking to set up an operating framework that: a. delivers on our core monetary policy and financial stability mandates, and subject to that; b. minimises risk to our balance sheet; c. minimises market distortions, and; d. is transparent and accountable.
+But where does this leave us in terms of the actual level of reserves? It is time to introduce you to a Bank of England neologism: the Preferred Minimum Range of Reserves (PMRR), coined by our former Executive Director for Markets, Andrew Hauser, now Deputy Governor at the Reserve Bank of Australia.
+footnote
+[13]
+Illustrated in
+Chart 6
+, the PMRR is an estimated range for the minimum level of reserves that satisfies commercial banks’ aggregate demand, both to settle their everyday transactions and to hold cash as a precaution against potential outflows in times of stress. In a nutshell, this is the level consistent with treading a middle path.
+footnote
+[14]
+When reserves supply exceeds the PMRR, reserves are ‘ample’. In this case, banks’ demand behaviour is determined by the rate of return relative to other liquid assets so that money market rates are effectively determined by Bank Rate through arbitrage (some falling only slightly below owing to the cost of trading). If reserves supply were to fall below the PMRR, however, reserves would become ‘scarce’. In this case, banks would be likely to respond by seeking to borrow reserves in money markets, bidding up the price in the process and thereby causing short-term interest rates to rise relative to Bank Rate. Our incentive as a central bank is to ensure that we have liquidity provision facilities to prevent this from happening and maintain effective control of short-term money market rates.
+Chart 6: The Preferred Minimum Range of Reserves is the point of scarcity
+Monetary control under a 'floor' system
+Footnotes
+Source: Bank of England.
+Quantifying the PMRR is easier said than done. It cannot be objectively observed, it is likely to evolve over time, and it will be affected by our decisions. It will depend on banks’ business models and choices over the mix of their liquid assets as well as any future developments in liquidity regulation. It will also be affected by our choices in how we supply reserves. This includes not least the price terms of our facilities, but also the assets we choose to hold to back them, and other non-price terms like tenor and eligible collateral. In making these decisions, we need to align the private interests in terms of the reserve demand of individual banks with the public good of maintaining a sufficient aggregate stock of reserves for financial stability purposes – as I will come back to in a moment.
+A starting point is simply to ask the banks what they think the reserves level in aggregate should be – as we do in biannual surveys. We do have to recognise the uncertainty around any answer we get, and check against our own assessment of the liquidity risk banks face. But the answers clearly point to a significantly larger balance sheet than we had before the financial crisis, with the latest assessments falling in the range of £345bn-£490bn.
+The current level of reserves of around £760bn is still comfortably above this range. But the continuing processes of unwinding the stock of QE assets and the TFSME mean that the level of reserves is falling.
+Chart 7: The Preferred Minimum Range of Reserves could be reached in 2025
+Illustrative future paths of reserves supply backing QT and TFSME
+Footnotes
+Source: Bank of England.
+So when will we get there? That will depend not least on how quickly these unwind processes progress.
+Chart 7
+shows scenarios based on contractual TFSME maturities and two alternative assumptions on the future pace of QT. These are strictly illustrative, based on the past MPC’s decisions on the pace of QT. But they do suggest that we may reach the PMRR as soon as the second half of next year.
+While reserves remain in ‘ample’ supply, the current ‘floor’ system will continue to operate smoothly. But as we approach the minimum level of reserves demanded by banks, things get a little more complicated. We cannot be sure exactly where it is, and as we approach it, we may face a few bumps in the road with temporary frictions in money markets as firms adjusts to the falling supply of central bank reserves.
+To maintain full monetary control throughout this process, and pick up any emerging reserves scarcity, the Bank introduced a new weekly Short-Term Repo facility back in 2022, complementing our other reserve supply operations – including our Indexed Long-Term Repo, or ILTR, which supplies reserves for six-months at a price related to demand, against wide a range of collateral. The STR allows banks to borrow unlimited amounts of reserves, against gilt collateral, at Bank Rate. In combination, these facilities will allow the unwind of QE and the TFSME to continue without the risk of any loss of monetary control on the way to the PMRR.
+The supply-driven ‘floor’ system will gradually become a ‘demand-driven’ one, where the level of reserves is driven not, on the margin, by the supply of reserves for monetary policy purposes, but by the demand for reserves for prudential purposes. This allows us to reduce both the risk of supplying too few reserves and the risk of providing too many, given the system’s true financial stability needs.
+In recent months, we have seen an uptick in the usage of the STR. As the cost of liquidity in the money market edged-up temporarily relative to Bank Rate, more banks turned to the facility to borrow reserves from the Bank. This is encouraging. The Bank is open for business and our facilities should be used as a way for counterparties to access reserves as necessary. It does not mean that we have reached the PMRR just yet, however. Temporary factors were at play, particularly in the gilt repo section of the money market. But is does illustrate the benefits of a having tried and tested liquidity facilities as we get closer to the PMRR.
+That is not the end of the story, however. Once we get to the PMRR, we face an open question about the assets we should hold to back the stock of reserves we need to provide to support financial stability, while maintaining monetary control. We have some important choices to make, and we are actively working on the options while we approach the PMRR.
+Chart 8
+provides a simple illustration of how this could play out. QE assets are held in a special vehicle on the Bank’s balance sheet, the Asset Purchase Facility (APF). Given these assets were purchased for monetary policy purposes, decisions over them are taken by the MPC according to a set of principles, including a commitment to make the process gradual and predictable, and to use Bank Rate as the active monetary policy tool. The MPC has also noted the benefit of building headroom should QE be needed in the future. As this QT process progresses, the gilts held in the APF may eventually fall below the PMRR. Lending through the STR in the first instance, and eventually alongside our other facilities, will start to pick up the shortfall in reserves supply, to meet prudential needs for reserves and maintain monetary control through the setting of Bank Rate. The QT process enters a new phase. QT now changes the mix of assets that back central bank reverses as the APF unwinds, but not the level of reserves itself.
+Chart 8: The APF and TFSME can unwind without loss of monetary control
+Stylised illustration of the Bank of England's balance sheet
+Footnotes
+Source: Bank of England.
+We face a choice at that point between providing central bank reserves above the level of the APF through repos – that is lending reserves against collateral – and outright purchases of safe assets such as gilts, or some combination of the two.
+For much of the Bank’s history we have lent on a secured basis, primarily against government securities and trade bills. Perhaps it is time to return to such an approach.
+A key consideration is how much interest rate risk – the exposure to swings in the value of assets as interest rates change – should reside on the central bank balance sheet. QE involved an increase of long-term assets, long-dated gilts, on the Bank’s balance sheet and an increase in short-term liabilities, reserve liabilities remunerated at Bank Rate. This removed interest rate risk from the private sector and transferred it to the central bank balance sheet. QT is now reversing this process and unwinding the interest rate risk held by the central bank. And while we will meet the demand for reserves, it does not mean that we should retain the interest rate risk. So hand in hand with the discussion of the assets held by the central bank, comes a discussion of how interest rate risk is managed across the financial system.
+While outright asset purchases bring interest rate risk on to the central bank, a portfolio of repos – effectively loans against a wide range of collateral – does not. There is still some risk associated with repos – the contingent risk that the borrower will default on the loan. But this risk can be mitigated with conservative ‘hair cuts’ to the collateral provided to ensure that it is sufficient to recover any losses. So the absence of interest rate risk substantially mitigates the financial risk on the central bank balance sheet (principle b. above).
+And in line with the fundamental principle of minimising market distortions from central bank operations (principle c.), financial risk is best managed and distributed by the financial sector unless there is a strong policy case for the public sector to take on the risk (as was the case with QE). So from this perspective, providing central bank reserves through repo-operations has much appeal.
+In fact, repos score very well against all of our principles. Notably on a. on delivering our core mandate, and d. on transparency and accountability, repos provide a lot of flexibility around monetary control choices. Say if Bank Rate were ever to return to its effective lower bound, a repo portfolio could quickly be displaced by asset purchases, or a funding scheme, for monetary policy purposes. By contrast, outright gilt holding are less straightforward to unwind.
+In addition, a repo portfolio can offer a reliable and flexible source of additional high-quality liquid assets for the financial system. That is because our repo facilitates liquidity upgrade transactions, where firms gain the most liquid asset, central bank reserves, when undertaken against illiquid collateral.
+We should recognise, however, that a move from a supply-driven system where reserves are created through outright asset purchases to a demand-driven one where reserves are created in repo operations would amount to a substantial change in how we and commercial banks operate and interact. Not only would financial firms be able to source liquidity directly from the Bank at a much greater scale, they would also need to do so as part of their business-as-usual liquidity management. We at the Bank of England have much work ahead of us too, in deciding on the appropriate assets as we go forward, in reviewing our facilities to enable this, and in ensuring that both we and firms are ready for them.
+And even if we do eventually settle on an approach based on repos, there are important issues to consider when determining the terms on which liquidity is provided, related to the endogeneity of reserves demand. Should we, for example, incentivise firms to hold higher levels of reserves in normal time through generous terms of supply – or should we incentivise more active liquidity managements by firms and greater ‘recycling’ of a smaller overall level of reserves in money markets? The former increases the Bank’s footprint in markets. The latter places greater reliance on the active use of our facilities in stress to allow reserves to expand rapidly and at scale.
+Expanding the pre-positioning of collateral at the Bank is one way in which we can ensure that the system can expand rapidly and at scale when it needs to through secured lending, allowing for a lower level of reserves in ‘normal’ times.
+Admittedly, lending this way leaves banks with a higher level of encumbered assets – assets that are effectively set aside to allow banks to access reserves through repos. And if reserves are provided entirely through repos, that level may end up uncomfortably high. It is not clear what level of asset encumbrance is sensible or feasible, especially to allow for sufficient emergency liquidity support. Silicon Valley Bank and the speed and scale of the run on its deposits is again a case in point. Yes, this is an issue we need to review, but I am so far not convinced that encumbrance from reserves provision would be large as a share of commercial bank balance sheets.
+So there is more work to be done before we can draw firm conclusions. While the STR is in place to pick up any emerging scarcity of reserves, we are not on a fast track to an entirely repo-based approach to providing central bank reserves. We still have a substantial portfolio of gilts on the asset side of the Bank’s balance sheet through the APF, and that will take time to unwind.
+Indeed, once we reach the PMRR, the distinction between the different purposes for providing central bank reserves – and the need to maintain control over money market rates in a world with a higher demand for them – becomes important. QT will enter a new phase where it changes the mix of assets on the central bank balance sheet but not the level of central bank reserves. There will be headroom should we need to use the central bank balance sheet for monetary policy purposes again. And we maintain full monetary control through the setting of Bank Rate. So in my view, it makes sense at that point to consider our approach afresh including the pace with which we move from gilts to repos.
+The Bank of England is not alone in facing these choices. Central banks around the world are grappling with similar questions as crisis era asset purchase programmes and funding schemes are withdrawn. But before I conclude, I would like to point out some differences between the Bank and other central banks.
+There is a lot of focus at the moment on the cash flows associated with QE and QT. This is understandable given that numbers run into billions. But it is important to note that these cashflows do not measure the overall fiscal let alone economic costs and benefits associated with asset purchase programmes aimed at meeting the inflation target – programmes that reduce borrowing costs, supported the economy through hard times and helped stem deflationary pressures at various points over the past 15 years.
+Let me explain. Central bank reserves are part of the public sector’s total debt. They are private sector claims on the state through the central bank. From the perspective of the wider public sector therefore, QE works as a swap of fixed-rate liabilities in the form of government bonds, for variable-rate liabilities in the form of central bank reserves. QT works in reverse to swap variable-rate reserves back to fixed-rate bonds held directly by the public. These points apply for all central banks. But the way the implications of this liability swap is accounted for in public sector accounts differs across jurisdictions.
+In the United Kingdom, assets purchased for monetary policy purposes are held in the APF, financed by a loan from the Bank, in turn financed by the Bank by issuing remunerated central bank reserves, and indemnified by HM Treasury. Any so-called ‘profit’ or ‘loss’ generated within the APF is continuously off-set with HM Treasury under the indemnity and a 2012 agreement between the then Governor of the Bank and Chancellor of the Exchequer to transfer positive cash balances to the Exchequer as they accumulate. These arrangements lead to continuous cashflows in and out of the APF. These cashflow reflect the difference between the interest paid on reserves (through the loan from the Bank to the APF) and the interest received from the Treasury on holdings of gilts in the Facility – as well as changes in the valuation of gilts between the time of purchase and redemption or sale.
+Between 2009 and 2022, when Bank Rate was lower than the average interest rate paid on gilts holdings in the APF, QE generated cumulative cashflows of £124bn from the APF to HM Treasury. As was always anticipated, as Bank Rate has risen and the unwind of the APF is under way, these cashflows have now reversed. So, at the latest count (new numbers are out later this week), the accumulated positive net transfer from the APF to HM Treasury stood at about £74bn. Incidentally, different unwind strategies might affect the timing of the cashflows, but they will not necessarily change the lifetime amount accumulated in the APF. Active sales, for example, incur upfront costs but they also reduce lifetime net interest costs from carrying gilts on the APF’s portfolio when Bank Rate is higher than coupons payments.
+Other central banks account for effects of this liability swap in different ways. Some have booked negative cashflows associated with QT as a ‘deferred asset’ on their balance sheet, effectively deferring the cost to be recovered over the future. To do so requires a steady income source. Most commonly, this is so-called seigniorage income earned on the issue of physical bank notes as income on the assets that back them accumulate. This option is not available to us here in the United Kingdom.
+Courtesy of the 1844 Bank Charter Act, and following the Currency and Banknotes Act of 1928, all seigniorage income generated by the Bank’s Issue Department is paid directly to HM Treasury. At the current rate, this is around £4bn per year. So neither have we retained the positive cash balances in the APF as they accumulated when Bank Rate was low, nor do we have access to a future income stream, against which we could off-set negative cashflows in the future in the way that other central banks are approaching it.
+But at the end of the day, this about accounting, not economic value. The approaches may look different, and the implications of swapping from fixed to variable rates – and back again – on a part of our national debt for monetary policy purposes are certainly clearly visible under our system. But the overall consequences for the wider public finances are ultimately the same.
+I will make a final point. The current practice for central banks is to implement monetary policy by remunerating reserves. Some have maintained historical minimum reserve requirements, requiring commercial banks to hold a certain amount of central bank reserves. This is usually a legacy from the time when central banks were implementing monetary policy by keeping reserves ‘scarce’ deliberately. Today, some central banks have used these reserve requirements to tier remuneration and pay a lower interest on the minimum element. At the Bank of England, as a matter of history, we do not have such minimum reserve requirements.
+Let me conclude.
+We are at an important point in time for central bank balance sheets. A lot of work still needs to be done to establish future arrangements – and we are continuing that work.
+On a few things we can be clear. As we withdraw reserves through QT and the unwind of the TFSME, a latent demand for a standing stock of reserves will eventually be revealed. So for financial stability reasons, we think the central bank balance sheet will remain larger than before the financial crisis though not as large as today. A range of £345-490bn is not a bad starting point. But choices on the structure of operations will affect the size of the PMRR, and it is likely to change over time. Everything here is endogenous.
+At the PMRR we will have headroom should we need to use the balance sheet again, and we can maintain monetary control through the use of Bank Rate. That leaves us with a choice of how to back central bank reserves, choices on the assets to be held and the pace of the move to a new steady state.
+A repo portfolio can offer a reliable and flexible source of reserves as largely additional high-quality liquid assets to the system. It scores well on key principles, but some open challenges remain. We are currently reviewing whether those are best addressed via the terms of our facilities alone – such as the calibration of price, term and frequency – or whether those challenges support the case for some gilt holdings in the new steady state. In any case, we would expect a significant increase in our repo operations as we look ahead to the future, and the market should continue to ready itself for this.
+This stuff really is the heart of central banking. It is complicated and I am grateful for your attention this evening. I am not sure how large a room would need to be to fit in all the people who really understands the Bank’s balance sheet. But – to be very clear – Charles would be the guest of honour.
+I am grateful to Nick Butt, Karen Jude, Rafael Kinston, Martin Seneca, Ryland Thomas and Jack Worlidge for their assistance in preparing this lecture, and for comments and suggestions to Nathanaël Benjamin, Sarah Breeden, Fabrizio Cadamagnani, Victoria Cleland, Jonathan Haskel, Harsh Mehta, Arif Merali, Ben Norman, Huw Pill, Dave Ramsden, David Rule, Andrea Rosen, Vicky Saporta, Fergal Shortall and James Talbot.
+The importance of money | Bank of England
+A Central Bank’s optimal balance sheet size? | LSE Research Online
+Understanding the central bank balance sheet | Bank of England
+Money creation in the modern economy | Bank of England
+The changing role of central banks | Financial History Review | Cambridge Core
+The history of interbank settlement arrangements | Bank of England
+Sources
+: Thomas, R and Dimsdale, N (2017) "A Millennium of UK Data", Bank of England OBRA dataset; Capie, F and Webber, A (1985), A Monetary History of the United Kingdom, 1870-1982, Volume 1, Routledge; Sheppard, D (1971), The growth and role of UK financial institutions, 1880-1966, Methuen and Co. Ltd, London.
+Bond trading, innovation and evolution: a Bank of England Perspective − speech by Dave Ramsden | Bank of England
+Getting up from the floor | BIS
+The Federal Reserve's Balance Sheet as a Financial-Stability Tool | Harvard University
+To mention but a few contributions:
+Ample reserves and the Friedman rule | Dallas Fed
+;
+Back to normal? | ECB
+;
+Central bank liquidity | ECB
+;
+"Quantitative Tightening around the Globe" | Federal Reserve Board
+;
+Going back to normal | Bank of Canada
+.
+Balance sheet policy above the ELB | ECB
+Waiting for the exit: QT and the Bank of England’s long-term balance sheet - speech by Andrew Hauser | Bank of England
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser | Bank of England
+‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser | Bank of England
+Close
+Waiting for the exit: QT and the Bank of England’s long-term balance sheet - speech by Andrew Hauser | Bank of England
+Close
+Balance sheet policy above the ELB | ECB
+Close
+To mention but a few contributions:
+Ample reserves and the Friedman rule | Dallas Fed
+;
+Back to normal? | ECB
+;
+Central bank liquidity | ECB
+;
+"Quantitative Tightening around the Globe" | Federal Reserve Board
+;
+Going back to normal | Bank of Canada
+.
+Close
+The Federal Reserve's Balance Sheet as a Financial-Stability Tool | Harvard University
+Close
+Getting up from the floor | BIS
+Close
+Bond trading, innovation and evolution: a Bank of England Perspective − speech by Dave Ramsden | Bank of England
+Close
+Sources
+: Thomas, R and Dimsdale, N (2017) "A Millennium of UK Data", Bank of England OBRA dataset; Capie, F and Webber, A (1985), A Monetary History of the United Kingdom, 1870-1982, Volume 1, Routledge; Sheppard, D (1971), The growth and role of UK financial institutions, 1880-1966, Methuen and Co. Ltd, London.
+Close
+The history of interbank settlement arrangements | Bank of England
+Close
+The changing role of central banks | Financial History Review | Cambridge Core
+Close
+Money creation in the modern economy | Bank of England
+Close
+Understanding the central bank balance sheet | Bank of England
+Close
+A Central Bank’s optimal balance sheet size? | LSE Research Online
+Close
+The importance of money | Bank of England
+Close
+Convert this page to PDF
+Andrew Bailey
+Governor, Bank of England
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

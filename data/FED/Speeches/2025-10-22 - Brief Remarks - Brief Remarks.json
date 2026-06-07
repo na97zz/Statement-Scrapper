@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks",
+  "date_original": "2025-10-22",
+  "date_au": "22/10/2025",
+  "datetime_original": "",
+  "speaker": "Brief Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20251022a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-10-22 - Brief Remarks - Brief Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-10-22 - Brief Remarks - Brief Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a5806d5448433bb8ca747bb9431bebab135e3cd32ee7eb410d392c7311a0b069"
+}

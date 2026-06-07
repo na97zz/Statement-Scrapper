@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "The economic situation and monetary policy − speech by Huw Pill",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Huw Pill",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2022/may/huw-pill-speech-during-an-agency-visit-to-wales-hosted-by-acca-cymru-wales",
+  "raw_file_path": "data\\BOE\\Speeches\\2022-06-01 - Huw Pill - The economic situation and monetary policy − speech by Huw Pill.html",
+  "text_file_path": "data\\BOE\\Speeches\\2022-06-01 - Huw Pill - The economic situation and monetary policy − speech by Huw Pill.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:19:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1faf9b30fe20a3545ff7d18be5f0e2e3058b5349400e9b64617d0d39099ee700"
+}

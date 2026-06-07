@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Multiple Scenarios in Stress Testing",
+  "date_original": "2023-10-19",
+  "date_au": "19/10/2023",
+  "datetime_original": "",
+  "speaker": "Multiple Scenarios in Stress Testing",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20231019a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-19 - Multiple Scenarios in Stress Testing - Multiple Scenarios in Stress Testing.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-19 - Multiple Scenarios in Stress Testing - Multiple Scenarios in Stress Testing.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4113b7cef866eff10a6e64e4af43e174dc8569e18b857217f7257d2462313f3d"
+}

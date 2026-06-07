@@ -1,0 +1,157 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Are we there yet? A journey into monetary policy and medium-term factors − speech by Megan Greene
+DATE: 01/06/2023
+SPEAKER: Megan Greene
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/november/megan-greene-speech-at-leeds-university
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Are we there yet? A journey into monetary policy and medium-term factors − speech by Megan Greene
+Given at Leeds University Business School
+Published on 
+
+ 30 November 2023
+In her first speech as an MPC member, Megan sets out her approach to interest rate decisions. She weighs the risks of inflation persistence, in particular services inflation and wage growth, with weakening activity. Megan then considers how the UK’s medium-term outlook may have shifted and what this could mean for monetary policy.
+Speech
+I’m delighted to be speaking at Leeds Business School, and to be visiting Leeds for the first time. I’ll keep my initial remarks short to save time for a fireside chat and then, most importantly, your questions. I’d like to explain how I approach interest rate decisions, how the UK’s medium-term outlook may have shifted over the past year and what this all means for monetary policy.
+Interest rate considerations
+The task for the MPC is to return inflation to our 2% target in the medium-term. This can be tricky in the face of supply shocks like a pandemic and jump in energy prices. These shocks can cause a trade-off between bringing inflation down and avoiding a significant slowdown in growth and jump in unemployment.
+Monetary policy feeds through into the economy with a lag, so I have to make interest rate decisions based on where I expect the economy to be in the medium-term. Conditioned on a series of assumptions, the MPC’s
+November
+modal forecast predicts a soft landing: inflation returns to 2% in 2025, growth stagnates for the next year and a half and unemployment rises to just over 5% by the end of 2025. Because I come from the Dismal Science, I’d like to discuss my main concerns for how this might go wrong.
+One risk is that inflation is more persistent than expected. I’m looking at a number of indicators to gauge this. One is services inflation, which is driven largely by sticky wages. Services inflation has fallen since the beginning of the year. But if we strip out energy-intensive services to remove the impact of lower energy costs, inflation in the remaining services has been broadly flat since April 2023. This is shown in Chart 1.
+Chart 1: Services CPI indices four-quarter growth
+(a)
+Footnotes
+Sources: ONS and Bank calculations.
+(a) Energy intensity for each of the 85 COICOP categories is estimated using ONS Input-Output tables. Energy-intensive services include: air, road, rail and water transportation; accommodation services; recreation and sport; postal services; restaurants, cafes and canteen services; repairs of household appliances; and package holidays; accounting for approximately 40% of total services. The latest data are for October 2023.
+The labour market also shows signs of inflation persistence. Vacancies have dropped and unemployment has ticked up, but the labour market is still tight. As you can see in Chart 2, private sector average weekly earnings growth, or AWE, is high at just below 8%, while other measures of wage growth are just under 7%. Considering productivity growth of around 1% in the UK, these are all well above levels consistent with 2% inflation.
+Chart 2: Measures of annual private sector wage growth
+(a)
+Footnotes
+Sources: DMP Survey, Indeed Hiring Lab, ONS and Bank calculations.
+(a) The adjusted HMRC Real Time Information (RTI) measure strips out pay in sectors with a high share of public workers, such as public administration and defence, social security, education, health and social work, to proxy private sector wage developments. In contrast to the AWE measure of private sector regular pay, RTI data include bonus payments. The latest data are for September 2023 (ONS private sector regular pay) and October 2023 (HMRC RTI, Bank DMP and Indeed Wage Tracker) respectively.
+Inflation persistence is a concern, but so is weaker than expected activity. There are indications the economy is slowing, though the data is mixed. Retail sales have been surprisingly weak recently and the ONS’ UK
+House Price Index
+fell in September (year-on-year). But consumer confidence has been broadly flat over the past six months, smoothing out recent volatility. And the latest PMI output surveys show manufacturing in contraction but services expanding.
+Monetary policy is weighing on activity as you’d expect.
+As policymakers we must balance the risks of inflation persistence with those of exacerbating the weakness in activity we’re already seeing. This is more finely balanced now than when I joined the MPC in July. The data on activity remains mixed though, so I continue to worry more about the risk of inflation persistence.
+Medium-term outlook
+For the remainder of my remarks, I’d like to look at two factors that could influence the appropriate setting of policy now. I will focus on the medium-term equilibrium unemployment rate (called u*) and interest rate (called r*).
+Why are these variables important? The difference between unemployment and u* tells us how tight the labour market is, which impacts wage growth and inflation. The difference between real rates and r* tells us how restrictive policy is. I’m focused on medium-term u* and r* because that is the time horizon over which I’m making policy decisions. There are also longer-term estimates for these variables, which I hope we’ll discuss in the Q&A.
+We can’t observe u* or r* in real-time; we can only use a variety of different approaches to estimate them with a high degree of uncertainty. With humility, I think there’s reason to believe both have risen recently.
+I’ll start with unemployment. u*, also called NAIRU, is the level of unemployment you get when inflation is at 2% and growth is at potential. It’s a medium-term concept and can fluctuate over the course of a business cycle.
+Chart 3 plots the UK unemployment rate (the blue line) against a range of Bank staff estimates of u* (the grey swathe).
+Chart 3: UK unemployment and u*
+(a)
+Footnotes
+Sources: ONS and Bank calculations.
+(a) Estimates to 2023Q3. Swathe includes three model-based estimates of NAIRU (non-inflation accelerating rate of unemployment), also referred to as u*. The first is based on a model including an estimate of the long-run equilibrium rate of unemployment, the share of medium and long-term unemployed workers in total unemployment, and a residual component. The second and third estimates are obtained by applying statistical filtering techniques (Kalman filter) to estimate a path for equilibrium unemployment that best explains the observed behaviour of prices and wages respectively, based on the Phillips Curve (
+Berry et at, 2015
+). The estimated equilibrium unemployment rate is allowed to vary over time in these models in order to capture persistent changes in the equilibrium, but only smoothly so as to avoid being buffeted around by short-term data volatility.
+After falling following the global financial crisis, the swathe for u* has risen since the pandemic and has been higher than headline unemployment since 2021Q3. A higher u* is consistent with continued high wage growth despite a loosening labour market. The MPC’s best collective judgement is that u* has risen by around half a percentage point relative to pre-pandemic levels, to 4.5%.
+But the models don’t explain why u* has risen. One explanation is lower matching efficiency--the effectiveness with which job openings are matched to people seeking work (
+Key, 2023
+). Lower matching efficiency reduces the rate at which unemployed workers find a job, which tends to increase u* (
+Haskel
+, 2023
+). Matching efficiency may have fallen as workers have become more specialised and are less able to switch sectors (
+Carrilo-Tudela et al, 2022
+).
+Real wage rigidities could be pushing u* up as well. As the cost of living has risen, driven largely by a rise in imported energy and food costs (
+Martin and Reynolds, 2023
+), workers have demanded higher wages to mitigate any fall in living standards. To the extent this represents a labour supply shock, it implies u* is higher (
+Broadbent, 2023
+). These dynamics may diminish as the cost-of-living crisis subsides and inflation expectations fall. But real wage resistance could also be reinforced by any additional terms of trade or energy shocks.
+I believe the medium-term real neutral interest rate, r*, may have risen as well. r* is the real interest rate that would neither stimulate nor contract the economy. It fluctuates with the business cycle.
+r* helps us determine how restrictive monetary policy is. If r* has risen, then—all else equal—monetary policy is not as restrictive as we’d thought. Given how difficult it is to estimate r*, we’ve used a number of different approaches.
+One is a single-equation model focused on the relationship between savings and investment in the economy. Estimates for r* are shown in Chart 4 in the blue swathe. It is a wide band, but the swathe has moved upwards since late 2022. It’s worth highlighting that the estimates during Covid are difficult to explain and should be taken with a grain of salt
+footnote
+[1]
+. This serves as a reminder that there are huge bands of uncertainty around all r* estimates.
+Chart 4: Model-implied estimates of r*
+(a)
+Footnotes
+Source: Bank calculations.
+(a) Estimates to 2023Q4. Estimates of r* based on a simple mapping between the output gap and real-interest rate gaps (the difference between the real interest rate and r*). Estimates use the Kalman filter to extract signals about r* based on observed variation in the output gap, inflation expectations, and nominal interest rates, conditional on specified parameters regarding the relationship between the output gap and the real rate gap. The width of the swathe reflects model-uncertainty around: estimates of the output gap; metrics of inflation expectations; and maturities of nominal interest rates.
+We can also estimate r* through the lens of financial markets. We use models to split market forward interest rates into two components: market expectations of longer-term policy rates–a proxy for expectations of r*–and risk premia, the additional compensation investors demand to hold longer maturity bonds. The grey swathe in Chart 5 shows this proxy for market expectations of r*.
+We can also simply ask investors where they think r* is. The median response from our
+Market Participants’ Survey (MaPS)
+is the aqua line in Chart 5.
+Chart 5: Market-implied estimates of r*
+Financial market estimates of expected short-term real interest rates ten years ahead
+(a)
+and median MaPS expectations of the neutral rate
+(b)
+Footnotes
+Sources: Bloomberg Finance L.P, HMT, TradeWeb, Consensus Economics, ONS, Bank of England Market Participants’ Survey and Bank calculations.
+(a) End-month data to September 2023. The swathe shows estimates from four models. Three of the models estimate the nominal policy rate, and are adjusted for inflation expectations; one model jointly estimates nominal and real interest rates using RPI inflation. Nominal interest rates are zero-coupon ten-year forward rates derived from UK government bond prices. Inflation expectations estimates are for inflation five to ten years ahead from the half-yearly Consensus survey, and are assumed constant in the intervening months. They are based on RPI inflation until 2005 and CPI inflation thereafter; prior to 2005, the estimates are adjusted by the difference between RPI and CPI inflation. Expected policy rates are derived by stripping out term premia estimated using the models outlined by:
+Malik and Meldrum (2014)
+;
+Vlieghe (2016)
+;
+Meldrum and Roberts-Sklar (2015)
+; and
+Abrahams et al (2016)
+.
+(b) End-month data to November 2023. Median responses to the level of the nominal neutral rate are deflated by MaPS respondents’ furthest median CPI inflation expectations at the time to calculate a real rate.
+There is significant uncertainty around all these estimates for r*, but they consistently suggest medium-term real neutral rates have risen recently.
+Why might this be? First, government debt levels in the UK—as elsewhere--have increased since the start of the pandemic. Government debt-to-GDP has risen from 84% in 2019 to 98% in 2023. This reduces the supply of national savings available for productive investments, which could increase r*
+footnote
+[2]
+.
+Second, investment has recently risen above pre-Covid levels, possibly driven by the green transition and automation. This may have modestly whittled down the glut of UK savings over investment, pushing up r*. So far, this investment has yet to boost productivity growth, but future productivity gains could also have a material impact on r*.
+Conclusion
+In conclusion, in order to return inflation sustainably to the target, the MPC must balance the risk of doing too little with that of doing too much. These risks are more finely balanced since earlier this summer in part as activity has weakened. But the data on output remains mixed, and I continue to worry more about inflation persistence.
+These risks should be considered in the context of the medium-term outlook, which is contingent on u* and r*. We must have humility when it comes to estimating these variables, but multiple methodological approaches suggest they have risen recently. u* may have been pushed up by lower matching efficiency and higher real wage rigidity. Higher u* suggests the labour market could remain tight even as unemployment rises. r* may have drifted upwards thanks to higher government debt and a modest uptick in investment. For a given level of interest rates, this would indicate policy is less restrictive than we’d thought. These shifts in the star variables suggest policy may have to be restrictive for an extended period of time in order return inflation to 2% over the medium-term.
+I am grateful to Waris Panjwani and Julian Reynolds for their help preparing this speech.
+Thanks also to Andrew Bailey, Natalie Burr, Fabrizio Cadamagnani, Alan Castle, Ambrogio Cesa-Bianchi, Harvey Daniell, Chris Duffy, Gosia Goralczyk, Richard Harrison, Jonathan Haskel, Lydia Henning, Tom Jennings, Tomas Key, Neil Kisserli, Simon Lloyd, Olga Maizels, Josh Martin, Jack Page, Huw Pill, Kate Reinold, Lindsey Rice-Jones, Rana Sajedi, Martin Seneca, Fergal Shortall, Bradley Speigner and Carleton Webb for their insightful contributions and comments.
+This is not unique to the UK, the Federal Reserve Bank of New York stopped producing estimates for r* in the United States, Canada, the Euro Area and the UK during this period given the volatility in the data as stated in
+Williams (2023)
+.
+A range of sources (
+Cesa-Bianchi et al., 2022
+,
+IMF, 2023
+;
+Rachel and Summers, 2019
+) find that higher government debt pushes up on R*.
+A range of sources (
+Cesa-Bianchi et al., 2022
+,
+IMF, 2023
+;
+Rachel and Summers, 2019
+) find that higher government debt pushes up on R*.
+Close
+This is not unique to the UK, the Federal Reserve Bank of New York stopped producing estimates for r* in the United States, Canada, the Euro Area and the UK during this period given the volatility in the data as stated in
+Williams (2023)
+.
+Close
+Q & A transcript
+Megan Greene
+Member of the Monetary Policy Committee
+Convert this page to PDF
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

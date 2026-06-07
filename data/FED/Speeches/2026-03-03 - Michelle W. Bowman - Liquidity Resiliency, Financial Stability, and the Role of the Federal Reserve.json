@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve",
+  "date_original": "2026-03-03",
+  "date_au": "03/03/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260303a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-03 - Michelle W. Bowman - Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-03 - Michelle W. Bowman - Liquidity Resiliency, Financial Stability, and the Role of the Federal Reserve.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4a36bfd3078676aacc9bb76c9db406083246238de7c37a3ad51e14439bedce7c"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Commencement Remarks",
+  "date_original": "2022-05-25",
+  "date_au": "25/05/2022",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20220525a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-05-25 - Lael Brainard - Commencement Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-05-25 - Lael Brainard - Commencement Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:05:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1b8eae10dd699917518b12b86e6ea56d06901e3e3a644cf21eeb6cf028b15e8e"
+}

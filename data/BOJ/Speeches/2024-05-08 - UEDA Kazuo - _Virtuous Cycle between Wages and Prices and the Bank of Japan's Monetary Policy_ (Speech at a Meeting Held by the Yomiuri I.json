@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Virtuous Cycle between Wages and Prices and the Bank of Japan's Monetary Policy\" (Speech at a Meeting Held by the Yomiuri International Economic Society in Tokyo)",
+  "date_original": "2024-05-08",
+  "date_au": "08/05/2024",
+  "datetime_original": "",
+  "speaker": "UEDA Kazuo",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2024/ko240508a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2024-05-08 - UEDA Kazuo - _Virtuous Cycle between Wages and Prices and the Bank of Japan's Monetary Policy_ (Speech at a Meeting Held by the Yomiuri I.html",
+  "text_file_path": "data\\BOJ\\Speeches\\2024-05-08 - UEDA Kazuo - _Virtuous Cycle between Wages and Prices and the Bank of Japan's Monetary Policy_ (Speech at a Meeting Held by the Yomiuri I.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:46:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cce20cdd673cc9b100affcaf896637baf866df708475eabb670d449fb38cf28e"
+}

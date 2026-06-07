@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "This time is different? Speech by Sarah Breeden",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Sarah Breeden",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2026/april/sarah-breeden-at-the-program-on-international-financial-systems-and-harvard-law-school",
+  "raw_file_path": "data\\BOE\\Speeches\\2026-06-01 - Sarah Breeden - This time is different_ Speech by Sarah Breeden.html",
+  "text_file_path": "data\\BOE\\Speeches\\2026-06-01 - Sarah Breeden - This time is different_ Speech by Sarah Breeden.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:08:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "98bfe7541661293ef8332771dcc445bd3f6e420d6453ee62b6879113be079cf1"
+}

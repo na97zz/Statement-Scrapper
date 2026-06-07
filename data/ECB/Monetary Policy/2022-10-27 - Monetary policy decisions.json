@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy decisions",
+  "date_original": "2022-10-27",
+  "date_au": "27/10/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.mp221027~df1d778b84.en.html",
+  "raw_file_path": "data\\ECB\\Monetary Policy\\2022-10-27 - Monetary policy decisions.html",
+  "text_file_path": "data\\ECB\\Monetary Policy\\2022-10-27 - Monetary policy decisions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:09:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "79c0d5a282954849d88678830175413e5400e3b83abcf97490fddcf92a25c2af"
+}

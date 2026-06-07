@@ -1,0 +1,204 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Innovation in post trade services - opportunities, risks and the role for the public sector − speech by Sir Jon Cunliffe
+DATE: 01/06/2022
+SPEAKER: Sir Jon Cunliffe
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2022/september/jon-cunliffe-keynote-speech-at-the-afme-operations-post-trade-technology-innovation-conference
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Innovation in post trade services - opportunities, risks and the role for the public sector − speech by Sir Jon Cunliffe
+Given at AFME Conference, London
+Published on 
+
+ 28 September 2022
+Speech
+In recent years, regulators and central banks have become increasingly focussed on ‘crypto’. No meeting of the international regulatory or central banking community takes place without a discussion of some aspect of the financial products, services and technologies that have been developed in the ‘crypto’ world.
+Not surprisingly, given their explosive growth and wholly unregulated markets, much of the focus has been on crypto assets, particularly the highly speculative, assets like Bitcoin and the so called ‘stablecoins’ that function as the settlement asset for much of crypto trading and settlement.
+This focus has in my view been entirely appropriate. The regulatory community’s assessment that crypto assets and platforms carried major risks but did not yet pose risks to the broader financial system
+footnote
+[1]
+was borne out both by the collapse in crypto values and of some coins we saw earlier this year and by the lack of wider knock-on impacts.
+footnote
+[2]
+Nonetheless this is a corner of the financial system that has been growing very quickly and that has begun to develop greater interconnection with the conventional financial system. There are well established concerns around consumer protection and financial integrity, which need to be addressed, and there is a need to think now about systemic consequences. We have seen in other areas the disruptive power of digital technologies and the difficulties of retrofitting regulation once new models have achieved systemic scale.
+Regulators need to begin extending existing standards and regulatory regimes to crypto before not after it is becomes systemically important. And done carefully, the development of regulatory regimes helps not hinders innovation by reducing the risks of confidence-destroying crashes and by giving innovators a framework within which to innovate.
+However, while it has been right to focus attention on assets and platforms of the crypto world, the greater impact on the financial system may well come from the transfer of technologies developed in the crypto world to the ‘real’ world for the trading, clearing storing and settlement of ‘real’ assets (and the making of payments for real things). So we need to think also about the potentially disruptive impact of crypto technologies on market infrastructure, on the trading, clearing, settlement, and custody machinery that enables global capital markets.
+This is an important issue for me both as the Deputy Governor at the Bank of England responsible for the regulation and supervision of post trade infrastructure in one of the largest global financial centres and as Chair of the Committee on Payments and Market Infrastructure.
+In that respect this first OPTIC conference is very timely. This is an area of finance where lots of experimentation has been happening for a while. In some markets we are now beginning to see real world applications built on exactly this transfer of technologies developed in the crypto world.
+footnote
+[3]
+And as the crypto world continues to innovate, it is likely that we will see not only more technology transfer, but crypto native entities with the ambition to cross the boundary between the crypto world and conventional finance to offer services with tokenised forms of real assets.
+footnote
+[4]
+I want to focus today on the potential impacts of this on post trade infrastructure, where the opportunity for technological disruption may well be greatest. And I will use three lenses: opportunity, risk, and the provision of public infrastructure.
+First, the opportunity.
+European trading platforms have come a long way from the days of exchanging paper certificates and shouting across trading floors, pits and desks which was still the main way to intermediate most financial markets as recently as the early 2000s.
+footnote
+[5]
+Almost all trading is now electronic – investors have gone from placing trades via direct dial up connections in the 1980s, to internet-based trading in the 1990s to the more recent rise of robo-advisors
+footnote
+[6]
+. Investors have a growing choice of trading venues, many of which can be accessed on a mobile phone. A growing number of venues allow investors to place trades commission-free.
+In the existing system, while it takes nanoseconds (billionth of a second) to strike a trade, there are a number of necessary post trade functions which follow and which at present have to be fulfilled sequentially. This includes trade validation and clearing, before settlement (transfer of assets) can finally take place. Depending on the market, these processes take at least a day and often more. They require a large number of participants to share information with each other -- often through highly manual processes.
+Because settlement takes time, a number of risks emerge which all have to be managed. The price of the securities may change, the securities or cash may not be delivered in time and a counterparty could fail during the time it takes for the trade to settle.
+These processes are important, but expensive. Precisely because the functions here are spread across a range of players estimates of the total cost are difficult to establish. In 2013 an attempt to do so suggested that around 13% of the total trade value chain was spent by the industry on settlement, custody and collateral management, around $40 45bn.
+footnote
+[7]
+Innovation over the past thirty years has, to be sure, improved efficiency but there is recognition from the industry that more can be done. The Post-Trade Taskforce, an industry-led body made up of participants in wholesale markets and with the Bank of England as an observer, set out earlier this year that “innovation in post-trade processes and client onboarding processes has lagged behind other parts of financial markets. As a result, processes are often manual and duplicative; and failures upstream can cause significant problems downstream”.
+It is in the context of this ‘opportunity’ that we should look at the possibilities for disruption of the current post trade landscape that might come from the innovative approaches and technologies that have been developed for the trading, clearing and settlement of cryptoassets.
+At the heart of this is the exchange of tokenised representations of the money and the securities traded in the mainstream financial sector today, such as equities and debt instruments. Bringing both components of the trade onto a single ledger facilitates
+near-instant settlement of trades and, building on modern cryptography, atomic settlement.
+Deriving its term from the use of ‘atomicity’ in computer programming, "an atomic operation is one which cannot be (or is not) interrupted by concurrent operations"
+footnote
+[8]
+. Put another way, nothing can interfere with the underlying security and money while the operation is running. In its application within securities settlement this process closely mirrors delivery vs payment, given the role for earmarking. In practice, unlike more conventional settlement processes, atomic settlement is often completed near-instantaneously and can happen without the need for trusted intermediaries, though I should stress that it need not be instantaneous or decentralised. It is the combination of high-speed and atomicity that has driven the experimentation with DLT by that has been happening in the financial sector. And it is the foundation for the development in the crypto world of protocols capable of complex financial operations.
+The Potential Opportunities from Innovation in Post-Trade
+I want briefly to highlight a number of ways in which these developments could disrupt the current post trade architecture and business models.
+First, and by far the most significant, is the potential for consolidation across both trade and post-trade functions.
+Cryptoasset exchanges have collapsed a large number of activities into a single smart contract undertaking activities that, in conventional securities trading, are split across custody banks, exchanges, central counterparties and central securities depositories. Where, in the conventional trade and post trade chain there are layers of entities performing specific functions, in the crypto world the functions in the chain can be brought together in a single smart contract.
+The potential gains in cost from consolidation could be very large. For the end investor, fewer intermediaries should mean less fees. Moreover, from the point of view of regulators looking at the stability of the system as a whole, a single entity and process carrying out all of these functions would require fewer participants in the chain and, in principle at least, bring resilience benefits from the simplified structure. With fewer critical points in the chain, the potential points of failure in the system are reduced.
+Consolidation, by definition, reduces the number of intermediaries. However, some have proposed that this disintermediation could go further into a full decentralisation of the trade and post trade process. There are DeFi platforms for example which purport at least to offer prospect of complete disintermediation.
+In these models smart contracts on the permission-less blockchain, using platforms like Ethereum, allow users to transact with pools of assets, rather than each other, and without handing over custody of their assets to a third party. Users initiate a trade by proposing a transaction that sends tokens to a smart contract, which in turn calls a function to perform the exchange i.e. send the appropriate value of alternative tokens from the pool back to the user. In principle, this could further reduce costs and promote efficiency.
+Second, as a consequence of bringing trade and post trade functions into a single smart contract, T+now settlement has become routine in some crypto markets. Such instantaneous settlement offers the prospect of eliminating settlement risk from the equation by collapsing the time during which a party can fail to deliver on its obligations to another party to zero. In centrally-cleared cash markets, this removes the need for a CCP to net security trades. It also removes the need for a CCP to hold and pass through margin when clearing cash trades.
+Third, new systems can enable fractionalisation – or breaking up financial instruments into smaller units – which is also being increasingly borrowed from cryptoasset markets with the aim of improving market liquidity. Benefits might be particularly large for illiquid markets (e.g. leveraged loans) which don’t currently benefit from a CSD. As such, we would expect the potential benefits of Tokenisation/DLT to be more pronounced in these areas.
+Perhaps most far reaching, smart contracts appear to have the potential to go much further than integrating trade and post trade functions into a single operation. In a simple case, like that discussed earlier, a smart contract delivers instant settlement by combining checks that the securities and cash being exchanged are available in respective accounts with the execution of the post-trade process. This may be expanded on, as smart contracts automate further actions depending on conditions being met. There is the potential to add layers of additional functionality and features. For example, the payment of coupons on bonds and the management of other corporate actions, or the management of more sophisticated securities trades, for example the selection of collateral in a repo transaction.
+I should stress, however, that this is not an exhaustive list. If recent years have taught us anything it is the ability of innovation in this digital space to come up with very different ways of doing things. My point is that we should be ready to see major changes in capital market infrastructures and business models that could in principle bring benefits in efficiency, speed and resilience.
+The role of regulators
+How should regulators, respond to these developments?
+It is important that we start from the position of being technology and business model blind: we should not classify new ways of doing things as 'dangerous' simply because they are different. I have set out some of the potential benefits, for efficiency and for financial stability.
+But recognising the opportunity does not mean that we should ignore the risks, any more than we ignore the risks in the existing structures. We need to ensure that new approaches deliver the same level of resilience that we expect for the existing system. In short, we need to ensure the same regulatory outcome even where changes in technology and business model mean that we have to find different ways of achieving it.
+I will set out briefly a few examples of the areas of risks we will need to look at. Like the examples I gave earlier of potential benefits, the list is by no means exhaustive.
+First, operational resilience of DLT-based systems needs to be proven over time. The technology most widely used in existing cryptocurrencies cannot simply be copied and pasted for wide scale use in capital markets. This is not simply because it currently operates in an unregulated environment. Given the systemic nature of the major capital markets, we will need robust assurance that DLT based systems can work in different contexts and at a different scale
+footnote
+[9]
+.
+Second, the development of instantaneous settlement also poses challenges for the management of liquidity as it requires all cash and securities to be in place at the time a trade is struck. There would no longer be a window of opportunity to locate the cash and securities or to net trades against each other. And if each securities ledger has its own cash token, aggregate liquidity requirements could be increased further
+footnote
+[10]
+. Given well documented challenges with the potential for a ‘jump to illiquidity’, including in core funding markets, this has the potential to increase systemic risk.
+Third, we have seen from other areas of the financial system, such as retail payments, that the irrevocability that comes with instant transactions can pose problems for risk management. There is simply no time to identify or rectify errors before they are actioned. In short we may not want wholly instantaneous trading and settlement in all markets.
+Fourth, it is unclear how feasible and effective interoperability between DLT platforms would be and how effective interoperability between markets and services running on DLT and those running on conventional systems. This could well lead to a fragmentation where these products become siloed.
+Finally, supervision of financial market infrastructure places a heavy emphasis on ensuring robust governance procedures are in place. While there are advantages to consolidating functions, as set out above, and there are arguments in favour of decentralisation, it is very difficult to see how risks can be managed to the right level without a legal entity accountable for the services provided and responsible for the proper functioning of the system.
+Given the range of policy questions – regulatory, supervisory and legal - that these developments raise, market infrastructure regulators will need to, and are beginning to, step up their engagement. There is a need to understand better emerging technologies and how, as well as to what extent, regulatory regimes need to be extended or otherwise adapted to cover their use.
+Given the range of policy questions – regulatory, supervisory and legal - these developments raise, market infrastructure regulators will need to and are beginning to step up their engagement. There is a need to understand better emerging technologies and how, as well as to what extent, regulatory regimes need to be extended or otherwise adapted to cover their use.
+One example of this greater engagement, in the UK, is the FMI Sandbox, which the Bank of England, the Financial Conduct Authority and HM Treasury plan to have up and running in 2023
+footnote
+[11]
+. The Sandbox will allow financial market infrastructure providers and other relevant parties to test and adopt new technologies and practices (such as distributed ledger technology) by temporarily disapplying or modifying certain regulation for specific purposes. The initial focus will be exploring the application of distributed ledger technology by firms who want to set up DLT securities settlement systems integrated with trading platforms.
+These regulatory considerations around innovation in the trade and post-trade process are being taken forward in multiple jurisdictions internationally, posing the same questions across regulatory frameworks
+footnote
+[12]
+. And, putting my CPMI hate on, given the cross border nature of many financial infrastructure services, there will almost certainly be a role for CPMI-IOSCO as the international standard setter for financial market infrastructure need to explore
+footnote
+[13]
+.
+The public sector as an infrastructure provider and settlement assets
+Safe settlement requires a settlement asset which market participants can use and have confidence in to discharge their obligations.
+Given the need to ensure such settlement assets, particularly in systemic global capital markets meet the very highest levels of resilience, the PFMI set out the standard, namely that “An FMI should conduct its money settlements in central bank money where practical and available. If central bank money is not used, an FMI should minimise and strictly control the credit and liquidity risk arising from the use of commercial bank money”.
+It is vital that we maintain at least the same level of robustness for settlement assets used in new, innovative approaches to post trade functions. The CPMI and IOSCO have, in this context, set out for example guidance on how the PFMI standards on settlement assets should apply to systemic stablecoins.
+But there is, in my view, a case for public infrastructure in this area. Central bank reserves, as a settlement asset play a key role in the resilience of conventional post trade functions. In addition, the central banks provides the rails on which those assets are transferred in their jurisdictions, typically through real time gross settlement (RTGS) systems. How then should settlement in central bank money evolve to play a similar role to provide resilience in new approaches using atomic settlement and DLT?
+There are a number of ways in which central bank money might evolve to play that role. One option would be for central bank could build its own system offering both a tokenised form of central bank money and the rails on which it is transacted. Another route would be for central banks to develop their existing RTGS systems to ensure compatibility with DLT based systems enabling the latter to ‘plug in’ to settlement in central bank money. Alternatively, central banks could allow private sector players that have access to central bank reserves a greater ability to transact those reserves, allowing those firms to organise connectivity to other ledgers amongst themselves.
+Different approaches to the development of wholesale digital central bank money, are being explored at the international level, in particular through practical experimentation out of the BIS’s Innovation Hub. The BIS work has demonstrated a set of model approaches which allow for settlement in tokenised central bank money (project Helvetia). This would allow for the connection of such tokenised assets to DLT based clearing and settlement. The Innovation Hub is also running Project Meridian, out of its London centre, which will develop a prototype synchronisation operator, an intermediary platform that connects counterparties and coordinates the settlement process directly in central bank money. In principle this would allow for private firms operating on different ledger technologies to plug into and delivery functionality while using central bank money. These experiments show the range of approaches which are under consideration and highlights the importance of applied experimentation by central banks to understand these new technologies and their implications for policy.
+At the Bank of England we are taking forward work on these options. In particular, we are in the process of renewing our RTGS system. This includes consulting on the Roadmap for RTGS beyond 2024, with a view to assessing appetite for many of the features and functionalities which would enable integration with DLT-based services. Examples of the functionalities under consideration here include create a generic interface into RTGS which would allow a range of ledgers to connect to the system, as well as building a system with no technical barriers to 24/7 operation.
+Relatedly, we have already put in place an omnibus account policy, allowing for the co-mingling of reserves held by different entities within one account, overseen by a payment system operator. This allows the payment system operator to pre-fund transactions between these entities using reserves, creating a means of settling transactions which is fully funded in central bank money, thereby enabling the operator to link this to transactions on other ledgers.
+Finally, when talking about the public sector’s role, we should not forget that legal structures underpin all financial services, given the critical nature of establishing and agreeing ownership. This is particularly true in the process of transferring ownership (i.e. exchange and settlement) given the potential, where such processes break down, for ambiguity and contractual dispute. As such, it is critical that legal structures evolve to ensure there is clarity on their application as technologies for trade and post-trade services evolve.
+Work to this effect is ongoing across jurisdictions and in both the public and private sectors. In English law, this process has begun with the clarification in 2019 that “cryptoassets have all of the indicia of property” and that smart contracts carried the status of contracts as understood in law
+footnote
+[14]
+. ISDA have extended this analysis further looking at a range of legal issues arising around clearing and settlement across English, French, Irish, Japanese, Singaporean and US laws
+footnote
+[15]
+. Ensuring robust legal underpinning will be an essential part of managing risks in the use of these new technologies.
+Conclusion
+From the development of double entry book-keeping, to the telex machine, to algorithmic trading, over the centuries successive technological innovations have transformed finance. While this has not been without risk – and there have been problems on the way - the result has generally been deeper, more liquid and more efficient financial markets, better able to serve the real economy.
+In this, as in so many other areas, central bankers and regulators do not have a crystal ball. But I think the emerging evidence is clear that the technological innovation we have seen in crypto markets offers at least the possibility of a major transformation in financial market infrastructure – and one that could yield significant benefit. It is also clear that for this to happen, there are important risks that will need to be managed and areas where public infrastructure will need to evolve.
+Close engagement between the private sector and public authorities will be crucial to ensuring we reap the benefits while managing the risks. In that respect, as I have said, this conference is very timely and I am grateful for the opportunity to share these thoughts.
+Thank you.
+I would like to thank the following for their input to and helpful comments on these remarks: Kushal Balluck, Emma Butterworth, Pavel Chichkanov, Michaela Costello, Bernat Gual-Ricart, Charles Gundy, John Jackson, Amy Lee, Will Lovell, Grellan McGrath, Natan Misak, Danny Russell, Akash Sharma, Andrew Walters, Daniel Wright, Cormac Sullivan.
+See for example:
+‘Is ‘crypto’ a financial stability risk?’ speech by Sir Jon Cunliffe
+(October 2021)
+For more detail on this see: ‘
+Some lessons from the Crypto Winter − speech by Sir Jon Cunliffe
+(July 2022)
+Examples include Onyx Digital Assets – JPMorgan’s blockchain-based network for digital assets trading, the HQLAᵡ DLT platform for securities lending and repo, SIX Digital Exchange’s (SDX) development of an integrated platform for trading, settlement and custody of digital assets and Depository Trust & Clearing Corporation’s (DTCC) Project Ion platform for equities settlement using DLT.
+See for example Bloomberg ‘
+Crypto Exchange FTX US Expands Stock Trading, Plans Options Next
+’ (2022).
+BIS (Bech, Hancock Rice and Wadsworth) – ‘On the future of securities settlement’.
+Kalda et al. 2021 – ‘Smart (phone) investing? A within investor-time analysis of new technologies and trading behavior’. SAFE Working Paper No. 303
+Oliver Wyman/SWIFT (2014). “The Capital markets Industry. The time they are a-changin’”
+Herlihy and Wing (1987). ‘Axioms for concurrent objects’. 14th ACM Symposium on. Principles of Programming Languages.
+Given the use of data-intensive processing techniques in DLT, the ability to scale effectively has been a key technical question across a number of applications in finance and elsewhere.
+BIS 2020 (Bech, Hancock, Rice and Wadsworth) – ‘On the future of securities settlement’.
+Keynote Speech by John Glen, Economic Secretary to the Treasury, at the Innovate Finance Global Summit (2022)
+For example, the EU will
+enact a pilot DLT regime
+for market infrastructures from March 2023, while Switzerland introduced a new licence category for “DLT Trading Facilities” through its Financial Market Infrastructure Act (FMIA) in 2021.
+The Principles for Market Infrastructure (PFMI), developed in light of the financial crisis, set out the standards for post-trade settlement.
+‘Legal statement on cryptoassets and smart contracts’. The LawTech Delivery Panel (2019).
+‘Private International Law Aspects of Smart Derivatives Contracts Utilizing Distributed Ledger Technology’. ISDA, R3, Clifford Chance and the Singapore Academy of Law (2020).
+‘Private International Law Aspects of Smart Derivatives Contracts Utilizing Distributed Ledger Technology’. ISDA, R3, Clifford Chance and the Singapore Academy of Law (2020).
+Close
+‘Legal statement on cryptoassets and smart contracts’. The LawTech Delivery Panel (2019).
+Close
+The Principles for Market Infrastructure (PFMI), developed in light of the financial crisis, set out the standards for post-trade settlement.
+Close
+For example, the EU will
+enact a pilot DLT regime
+for market infrastructures from March 2023, while Switzerland introduced a new licence category for “DLT Trading Facilities” through its Financial Market Infrastructure Act (FMIA) in 2021.
+Close
+Keynote Speech by John Glen, Economic Secretary to the Treasury, at the Innovate Finance Global Summit (2022)
+Close
+BIS 2020 (Bech, Hancock, Rice and Wadsworth) – ‘On the future of securities settlement’.
+Close
+Given the use of data-intensive processing techniques in DLT, the ability to scale effectively has been a key technical question across a number of applications in finance and elsewhere.
+Close
+Herlihy and Wing (1987). ‘Axioms for concurrent objects’. 14th ACM Symposium on. Principles of Programming Languages.
+Close
+Oliver Wyman/SWIFT (2014). “The Capital markets Industry. The time they are a-changin’”
+Close
+Kalda et al. 2021 – ‘Smart (phone) investing? A within investor-time analysis of new technologies and trading behavior’. SAFE Working Paper No. 303
+Close
+BIS (Bech, Hancock Rice and Wadsworth) – ‘On the future of securities settlement’.
+Close
+See for example Bloomberg ‘
+Crypto Exchange FTX US Expands Stock Trading, Plans Options Next
+’ (2022).
+Close
+Examples include Onyx Digital Assets – JPMorgan’s blockchain-based network for digital assets trading, the HQLAᵡ DLT platform for securities lending and repo, SIX Digital Exchange’s (SDX) development of an integrated platform for trading, settlement and custody of digital assets and Depository Trust & Clearing Corporation’s (DTCC) Project Ion platform for equities settlement using DLT.
+Close
+For more detail on this see: ‘
+Some lessons from the Crypto Winter − speech by Sir Jon Cunliffe
+(July 2022)
+Close
+See for example:
+‘Is ‘crypto’ a financial stability risk?’ speech by Sir Jon Cunliffe
+(October 2021)
+Close
+Convert this page to PDF
+Sir Jon Cunliffe
+Former Deputy Governor, Financial Stability from 2013 to 2023
+Other speeches
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

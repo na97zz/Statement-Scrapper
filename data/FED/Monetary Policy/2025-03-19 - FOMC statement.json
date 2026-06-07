@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2025-03-19",
+  "date_au": "19/03/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20250319a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2025-03-19 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2025-03-19 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:47:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "994bda73108026f4b59cadfea19979bc1b4e14eec750d2315e9c66142158e509"
+}

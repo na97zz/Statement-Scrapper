@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Brief Remarks on the Economy and Insights from Past Bank Regulatory Reform Efforts",
+  "date_original": "2023-10-07",
+  "date_au": "07/10/2023",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20231007a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-10-07 - Michelle W. Bowman - Brief Remarks on the Economy and Insights from Past Bank Regulatory Reform Efforts.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-10-07 - Michelle W. Bowman - Brief Remarks on the Economy and Insights from Past Bank Regulatory Reform Efforts.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:01:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f41b9a7d7b6f117bcad7acca76049a5e74bb30483bc4507d573c3614fe0e27be"
+}

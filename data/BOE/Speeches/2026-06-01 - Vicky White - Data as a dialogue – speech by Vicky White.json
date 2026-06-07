@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Data as a dialogue – speech by Vicky White",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Vicky White",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2026/march/vicky-white-speech-at-connect-global-group-4th-annual-treasury-and-capital-markets-forum",
+  "raw_file_path": "data\\BOE\\Speeches\\2026-06-01 - Vicky White - Data as a dialogue – speech by Vicky White.html",
+  "text_file_path": "data\\BOE\\Speeches\\2026-06-01 - Vicky White - Data as a dialogue – speech by Vicky White.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:09:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "15aaf0144b1003dd036d7c46a17667a8565ac6b5bb02006b7599a8adbc62000a"
+}

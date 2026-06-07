@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Statement by Vice Chair for Supervision Michelle W. Bowman",
+  "date_original": "2025-08-01",
+  "date_au": "01/08/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250801a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-01 - Michelle W. Bowman - Statement by Vice Chair for Supervision Michelle W. Bowman.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-01 - Michelle W. Bowman - Statement by Vice Chair for Supervision Michelle W. Bowman.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "41e88b7073b8fd6c7ed9dac2cbd1a389c86a3a21f82eac67af2fd0f33ddb0414"
+}

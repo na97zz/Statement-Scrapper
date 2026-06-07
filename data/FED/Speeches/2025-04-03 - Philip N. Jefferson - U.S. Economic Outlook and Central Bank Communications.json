@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "U.S. Economic Outlook and Central Bank Communications",
+  "date_original": "2025-04-03",
+  "date_au": "03/04/2025",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20250403a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-04-03 - Philip N. Jefferson - U.S. Economic Outlook and Central Bank Communications.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-04-03 - Philip N. Jefferson - U.S. Economic Outlook and Central Bank Communications.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:56:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a7b5227fee776ff413081fce13a18cab745d3e14c3ae461f7084330f3206dbc0"
+}

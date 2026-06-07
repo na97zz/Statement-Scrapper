@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report—April 2026",
+  "date_original": "2026-04-29",
+  "date_au": "29/04/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/publications/mpr/mpr-2026-04-29/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2026-04-29 - Monetary Policy Report—April 2026.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2026-04-29 - Monetary Policy Report—April 2026.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:23:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4a60931666fbf73b34bd15d7cff89099d0198de3560ba1f9b5e3d2cee153b6a9"
+}

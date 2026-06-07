@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Speeches",
+  "title": "Speech by Rhys Mendes, Deputy Governor of the Bank of Canada",
+  "date_original": "2024-11-26",
+  "date_au": "26/11/2024",
+  "datetime_original": "",
+  "speaker": "Rhys Mendes",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2024/11/speech-rhys-mendes-november-26-2024/",
+  "raw_file_path": "data\\BOC\\Speeches\\2024-11-26 - Rhys Mendes - Speech by Rhys Mendes, Deputy Governor of the Bank of Canada.html",
+  "text_file_path": "data\\BOC\\Speeches\\2024-11-26 - Rhys Mendes - Speech by Rhys Mendes, Deputy Governor of the Bank of Canada.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:58:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ae96514e543c374de52d8fbcf418ab1bc374a5f6d4f1dbeed612b1bfac583a0c"
+}

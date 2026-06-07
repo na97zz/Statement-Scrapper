@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Introductory Remarks",
+  "date_original": "2021-09-24",
+  "date_au": "24/09/2021",
+  "datetime_original": "",
+  "speaker": "Jerome H. Powell",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/powell20210924a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-09-24 - Jerome H. Powell - Introductory Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-09-24 - Jerome H. Powell - Introductory Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b451b9e87bc3047d70a862a0881935a96d372cd59afc47aaca873f72efe1d368"
+}

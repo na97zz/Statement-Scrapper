@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Are we there yet? A journey into monetary policy and medium-term factors − speech by Megan Greene",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Megan Greene",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/november/megan-greene-speech-at-leeds-university",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Megan Greene - Are we there yet_ A journey into monetary policy and medium-term factors − speech by Megan Greene.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Megan Greene - Are we there yet_ A journey into monetary policy and medium-term factors − speech by Megan Greene.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:15:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e7034a5b3840a63e57de14fe5ca5f37843a7a4d1bdd1744f80a612b5d53cf539"
+}

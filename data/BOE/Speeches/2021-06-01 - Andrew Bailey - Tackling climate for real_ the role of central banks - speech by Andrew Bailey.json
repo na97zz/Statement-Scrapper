@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Tackling climate for real: the role of central banks - speech by Andrew Bailey",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andrew Bailey",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/june/andrew-bailey-reuters-events-global-responsible-business-2021",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - Tackling climate for real_ the role of central banks - speech by Andrew Bailey.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrew Bailey - Tackling climate for real_ the role of central banks - speech by Andrew Bailey.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:21:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "69ddfdcd8eaeb37de341711e848fb784ce5d466c71c60760032fd4719a0de693"
+}

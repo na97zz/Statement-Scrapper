@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Monetary policy after the energy shock",
+  "date_original": "2023-02-16",
+  "date_au": "16/02/2023",
+  "datetime_original": "",
+  "speaker": "Fabio Panetta",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230216~a297a41feb.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-02-16 - Fabio Panetta - Monetary policy after the energy shock.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-02-16 - Fabio Panetta - Monetary policy after the energy shock.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7546b64faeb33c4828f950412198a16581a1dc2ebad47b465c62bf986d3935f1"
+}

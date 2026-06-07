@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "AI, the Economy, and Financial Stability",
+  "date_original": "2025-11-21",
+  "date_au": "21/11/2025",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20251121a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-11-21 - Philip N. Jefferson - AI, the Economy, and Financial Stability.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-11-21 - Philip N. Jefferson - AI, the Economy, and Financial Stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:53:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7a37087ef48cd69f850cf6945edafebbd50ec0bdf5dfecd2992e615833d26b96"
+}

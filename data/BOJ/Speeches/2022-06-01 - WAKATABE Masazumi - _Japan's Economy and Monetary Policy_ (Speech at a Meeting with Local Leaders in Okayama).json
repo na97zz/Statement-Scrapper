@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Local Leaders in Okayama)",
+  "date_original": "2022-06-01",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "WAKATABE Masazumi",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220601a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-06-01 - WAKATABE Masazumi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Okayama).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-06-01 - WAKATABE Masazumi - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Local Leaders in Okayama).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:48:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0fd391a80f1db75591962a8f1c8bcef5c8e211632daa3df71091bce14c9e4da4"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Thoughts on the Economy and Community Bank Capital",
+  "date_original": "2025-08-09",
+  "date_au": "09/08/2025",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20250809a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-08-09 - Michelle W. Bowman - Thoughts on the Economy and Community Bank Capital.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-08-09 - Michelle W. Bowman - Thoughts on the Economy and Community Bank Capital.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0e96dfd651d32483cd34d8aa6d88999e59651ae09a04e83e335b897539ecf516"
+}

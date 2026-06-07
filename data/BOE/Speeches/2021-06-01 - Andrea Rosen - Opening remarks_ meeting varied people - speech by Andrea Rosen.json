@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Opening remarks: meeting varied people - speech by Andrea Rosen",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Andrea Rosen",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2021/april/andrea-rosen-opening-remarks-at-bank-of-england-virtual-event",
+  "raw_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrea Rosen - Opening remarks_ meeting varied people - speech by Andrea Rosen.html",
+  "text_file_path": "data\\BOE\\Speeches\\2021-06-01 - Andrea Rosen - Opening remarks_ meeting varied people - speech by Andrea Rosen.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:22:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8301e927bc6565191b02bbed6778d9e028a53b72f3923967877498342860cdc"
+}

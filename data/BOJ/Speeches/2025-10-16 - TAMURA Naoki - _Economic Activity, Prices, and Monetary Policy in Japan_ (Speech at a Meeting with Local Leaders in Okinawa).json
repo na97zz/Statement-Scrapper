@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Okinawa)",
+  "date_original": "2025-10-16",
+  "date_au": "16/10/2025",
+  "datetime_original": "",
+  "speaker": "TAMURA Naoki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2025/ko251016a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2025-10-16 - TAMURA Naoki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Okinawa).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2025-10-16 - TAMURA Naoki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Okinawa).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:45:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5f0a757fcfb498fda372415b0c8596853fa5b1888f6a953b4f701657f0bcb126"
+}

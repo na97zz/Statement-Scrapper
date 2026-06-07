@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Keynote Remarks",
+  "date_original": "2021-03-22",
+  "date_au": "22/03/2021",
+  "datetime_original": "",
+  "speaker": "Keynote Remarks",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/quarles20210322a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-03-22 - Keynote Remarks - Keynote Remarks.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-03-22 - Keynote Remarks - Keynote Remarks.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:07:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8a8a895b450c658ba2da62d91997c5aa87a0038ed03f72eade672810e90877d"
+}

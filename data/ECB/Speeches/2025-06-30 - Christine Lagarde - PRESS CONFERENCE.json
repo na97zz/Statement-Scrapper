@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "PRESS CONFERENCE",
+  "date_original": "2025-06-30",
+  "date_au": "30/06/2025",
+  "datetime_original": "",
+  "speaker": "Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250630~4a4409f0da.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-06-30 - Christine Lagarde - PRESS CONFERENCE.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-06-30 - Christine Lagarde - PRESS CONFERENCE.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "54ae7c20ff7741b433fedcd4bdba01339e913f4092b8c73faab076437f3cb25e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Enhancing cross-border payments in Europe and beyond",
+  "date_original": "2025-04-01",
+  "date_au": "01/04/2025",
+  "datetime_original": "",
+  "speaker": "Speech by Piero Cipollone",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250401~9e1ee05e88.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2025-04-01 - Speech by Piero Cipollone - Enhancing cross-border payments in Europe and beyond.html",
+  "text_file_path": "data\\ECB\\Speeches\\2025-04-01 - Speech by Piero Cipollone - Enhancing cross-border payments in Europe and beyond.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:14:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8cb0729a63f5b6b01d9fbb8bbde66b7cadb2c57daf4c2e0b1a844d20a5dad1b6"
+}

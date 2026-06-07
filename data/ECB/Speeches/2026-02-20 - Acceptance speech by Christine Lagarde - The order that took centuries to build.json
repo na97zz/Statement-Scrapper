@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The order that took centuries to build",
+  "date_original": "2026-02-20",
+  "date_au": "20/02/2026",
+  "datetime_original": "",
+  "speaker": "Acceptance speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260220~58ceaf28ff.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2026-02-20 - Acceptance speech by Christine Lagarde - The order that took centuries to build.html",
+  "text_file_path": "data\\ECB\\Speeches\\2026-02-20 - Acceptance speech by Christine Lagarde - The order that took centuries to build.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:12:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5dbd4d141150201dc0916cf1ddefa99d8dd9af7c533f7f157719ef7368376444"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Supervision and Regulation",
+  "date_original": "2026-02-26",
+  "date_au": "26/02/2026",
+  "datetime_original": "",
+  "speaker": "Supervision and Regulation",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260226a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-02-26 - Supervision and Regulation - Supervision and Regulation.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-02-26 - Supervision and Regulation - Supervision and Regulation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "66f800415da768a3cb23385c81c070193699492f4e7e8ed0bb9294d9fe8ed3d1"
+}

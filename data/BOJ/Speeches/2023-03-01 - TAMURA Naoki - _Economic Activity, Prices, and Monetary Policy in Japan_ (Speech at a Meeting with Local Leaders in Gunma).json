@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Economic Activity, Prices, and Monetary Policy in Japan\" (Speech at a Meeting with Local Leaders in Gunma)",
+  "date_original": "2023-03-01",
+  "date_au": "01/03/2023",
+  "datetime_original": "",
+  "speaker": "TAMURA Naoki",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2023/ko230301a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2023-03-01 - TAMURA Naoki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Gunma).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2023-03-01 - TAMURA Naoki - _Economic Activity, Prices, and Monetary Policy in Japan_ (Speech at a Meeting with Local Leaders in Gunma).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "04a67dc862197383dc02649035b89cda08a9dc423c70d690df77b4f176e443f5"
+}

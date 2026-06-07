@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Assessing Progress as the Economy Moves from Reopening to Recovery",
+  "date_original": "2021-07-30",
+  "date_au": "30/07/2021",
+  "datetime_original": "",
+  "speaker": "Lael Brainard",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/brainard20210730a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2021-07-30 - Lael Brainard - Assessing Progress as the Economy Moves from Reopening to Recovery.html",
+  "text_file_path": "data\\FED\\Speeches\\2021-07-30 - Lael Brainard - Assessing Progress as the Economy Moves from Reopening to Recovery.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:06:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "912a24bb28dded2b5a59fd105cd8761dc5712d7613a04c2202906e11a6990720"
+}

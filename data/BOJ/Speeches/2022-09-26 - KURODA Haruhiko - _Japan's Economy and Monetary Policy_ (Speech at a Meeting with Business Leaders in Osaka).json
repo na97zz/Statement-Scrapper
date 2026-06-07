@@ -1,0 +1,19 @@
+{
+  "bank": "BOJ",
+  "category": "Speeches",
+  "title": "\"Japan's Economy and Monetary Policy\" (Speech at a Meeting with Business Leaders in Osaka)",
+  "date_original": "2022-09-26",
+  "date_au": "26/09/2022",
+  "datetime_original": "",
+  "speaker": "KURODA Haruhiko",
+  "speaker_role": "",
+  "source_url": "https://www.boj.or.jp/en/about/press/koen_2022/ko220926a.htm",
+  "raw_file_path": "data\\BOJ\\Speeches\\2022-09-26 - KURODA Haruhiko - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Business Leaders in Osaka).html",
+  "text_file_path": "data\\BOJ\\Speeches\\2022-09-26 - KURODA Haruhiko - _Japan's Economy and Monetary Policy_ (Speech at a Meeting with Business Leaders in Osaka).txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:47:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "36e988341ce978f94f386a9b273a22166a7260abb8518f3dc2f0fde45b473c2d"
+}

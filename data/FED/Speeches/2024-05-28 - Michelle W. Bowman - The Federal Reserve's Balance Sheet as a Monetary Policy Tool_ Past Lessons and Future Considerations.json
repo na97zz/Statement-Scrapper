@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Federal Reserve's Balance Sheet as a Monetary Policy Tool: Past Lessons and Future Considerations",
+  "date_original": "2024-05-28",
+  "date_au": "28/05/2024",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20240528a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2024-05-28 - Michelle W. Bowman - The Federal Reserve's Balance Sheet as a Monetary Policy Tool_ Past Lessons and Future Considerations.html",
+  "text_file_path": "data\\FED\\Speeches\\2024-05-28 - Michelle W. Bowman - The Federal Reserve's Balance Sheet as a Monetary Policy Tool_ Past Lessons and Future Considerations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:58:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "34dc1f009626e87fe6238f795dfd805a90c08f73dce9e81f56d8ca6774d778c7"
+}

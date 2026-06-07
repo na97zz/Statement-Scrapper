@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Unstable Phillips Curve",
+  "date_original": "2023-03-31",
+  "date_au": "31/03/2023",
+  "datetime_original": "",
+  "speaker": "The Unstable Phillips Curve",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20230331a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-03-31 - The Unstable Phillips Curve - The Unstable Phillips Curve.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-03-31 - The Unstable Phillips Curve - The Unstable Phillips Curve.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:03:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d7aefabd56e876941ea86e317a1d9f8b6167469f6824f3291cca4a0c9f1db5de"
+}

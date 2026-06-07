@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Forests and finance",
+  "date_original": "2021-11-04",
+  "date_au": "04/11/2021",
+  "datetime_original": "",
+  "speaker": "Forests and finance",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211104~701dd5f918.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-11-04 - Forests and finance - Forests and finance.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-11-04 - Forests and finance - Forests and finance.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:21:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9674d2ce2b7d8fc0e0e325f44f99e2514b09efeab7bd7478faf30d5d256c57ff"
+}

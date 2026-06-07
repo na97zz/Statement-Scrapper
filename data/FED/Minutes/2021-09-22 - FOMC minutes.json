@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Minutes",
+  "title": "FOMC minutes",
+  "date_original": "2021-09-22",
+  "date_au": "22/09/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20210922.pdf",
+  "raw_file_path": "data\\FED\\Minutes\\2021-09-22 - FOMC minutes.pdf",
+  "text_file_path": "data\\FED\\Minutes\\2021-09-22 - FOMC minutes.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:50:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "279dc1e8daf4e357dadd55363ef223ea8f0204610e964d781a763ed98d27e777"
+}

@@ -1,0 +1,248 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Innovation and Resilience in the BPA Sector – speech by Gareth Truran
+DATE: 01/06/2026
+SPEAKER: Gareth Truran
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2026/april/gareth-truran-the-23rd-conference-on-bulk-annuities
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Innovation and Resilience in the BPA Sector – speech by Gareth Truran
+Given at 23rd Westminster and City Annual Bulk Annuities Conference
+Published on 
+
+ 29 April 2026
+Gareth Truran sets out how growth and innovation are shaping the UK bulk annuity market, the investment strategies of insurers, and the sector's emerging risks. He explains how the PRA is responding, including through a new consultation on funded reinsurance, and outlines expectations for firms and the market to support resilience, transparency and policyholder protection.
+Speech
+Opening remarks
+Thank you for inviting me back to speak again this year.
+I am going to start today with the growth, innovation and competition that we are seeing in the BPA market, and how insurers’ investment strategies have evolved. I will note some of the emerging risks, how we at the PRA are responding, and what we expect of insurers’ risk management to ensure continued resilience.
+I will also talk about proposals we are publishing this morning for a clearer, more targeted, and consistent capital treatment for UK insurers’ funded reinsurance transactions. This is an area where we think we need to act now to avoid problems in the future, and to support long-term resilience in a growing and ever-evolving market.
+The sector today
+Let me start with the BPA market. Higher gilt yields have helped increase the share of “buy-out ready” schemes from below 5% in 2021 to around 45% today, according to LCP
+footnote
+[1]
+. Increased demand means premiums over the past 3 years (c. £135bn – see Chart 1
+footnote
+[2]
+) represent more than a third of total flows over the past two decades. The share of buy-out ready schemes is forecast to reach around 80% over the next 5 years, with premiums projected at £45bn - £50bn pa
+1 above
+.
+The BPA market has also developed to meet this increased demand. Most insurers now offer streamlined processes for smaller schemes. This has helped drive BPA volumes to a record 354 transactions last year – see Chart 1
+2
+.
+Acquisitions and new entrants have also brought new capital and capacity – with ten active participants now offering schemes of differing sizes a wider range of options
+. Beyond BPA, there are also a variety of non-insurance alternatives which allow schemes to retain both some surplus and risk exposure.
+Together, these developments have contributed to a vibrant and extremely competitive market providing a range of solutions for trustees and sponsors looking to reduce or remove their exposure to pension risk. The PRA’s interest is that as insurers respond to these trends, they look carefully at their financial discipline and operational capacity and manage the flow of transactions accordingly.
+As shown in Chart 2
+footnote
+[3]
+, BPA pricing reached historically low levels in 2025. This is favourable for schemes but competitive pressure on insurers’ margins increases the possibility that they take on a higher level of risk for which they are not adequately compensated, or that assumed investment returns may not be borne out in practice. Insurers must manage the potential impact on pricing discipline and risk standards in line with clear risk appetites.
+The sector is also seeing a wider and more complex range of transactions, with implications for insurers’ operational capacity. Larger schemes may seek bespoke terms, and insurers may offer increased support in tackling data challenges. We have also seen more whole-scheme buy-ins, which reduce timescales from the first transaction to full buy-out, creating additional complexities for some deals.
+The need for insurers to exert strong risk management and discipline over these transactions, especially as risks change, is therefore particularly important. Annuity business is inherently long-term and once risks are taken on, they cannot always be unwound easily. Our supervisory response will also adapt as needed to focus on the key forward-looking risks to our objectives – for example, our Dear CRO letter
+footnote
+[4]
+last year on solvency-triggered termination rights. As I will come back to later, we have also continued to look at the significant use of funded reinsurance in recent years, given the risks we think could build up with these transactions.
+Trends in investments
+Insurers’ investment strategies have also evolved as the BPA market has changed. As supervisors we are very focused on these trends, and how they could affect insurers’ safety and soundness. I will focus today on the aggregate profile of the assets within insurers’ matching adjustment (MA) portfolios, which are most directly relevant for BPA business
+footnote
+[5]
+. Within this aggregate picture, there will of course be some variation across firms.
+In the UK, to qualify for MA treatment, insurers’ assets must have fixed (or, to a limited extent, highly predictable) cashflows that are closely matched to liabilities, thereby promoting strong risk management through close asset-liability management. But these requirements still leave scope for competitive pressures and changing market conditions to affect firms’ investment strategies.
+A significant proportion of UK insurers’ MA portfolios continue to consist of sovereign and corporate bonds, mostly sterling-denominated. While this proportion has drifted downwards a little since 2016, it has stabilised in recent years at around 60%, as shown by Chart 3
+footnote
+[6]
+. The mix of assets within this 60% has also shifted over time as the market environment has changed. For example, between 2022 and 2024, the proportion of corporate bonds fell by six percentage points, while government bonds increased by around eleven percentage points
+footnote
+[7]
+. We await year-end 2025 data from firms, but I would expect to see a similar picture.
+This overall 60% figure, and the change in mix within it, follows a period of tighter credit spreads in which many firms have looked to take advantage of higher gilt yields and more negative swap spreads. This mix might, of course, change again if spreads widen and corporate bonds and other assets become more attractive. But for now, we have seen a variety of gilts-based strategies, including some which involve a degree of leverage and that seek to generate higher returns through synthetic exposures. This shift helps to explain why BPA pricing remains historically low despite recent spread tightening.
+UK annuity liabilities themselves are long-term and predictable. But liquidity pressures can still emerge, particularly in times of market stress – for example from collateral calls on currency hedges or other derivatives, or termination rights in contracts. Insurers’ management of these market-based liquidity risks have been tested in several ways over recent years. Periods of market volatility, such as at the onset of the Covid crisis, have underlined the importance of firms having clear risk appetites, good management information and robust stress testing. Insurers have also renegotiated their credit support annexes to allow them to post a wider range of collateral and secure more committed funding lines
+footnote
+[8]
+. Where we have seen some strategies lead to an increase in exposure to leveraged positions, we have also seen clearer limits on leverage, enhanced stress testing, improved liquidity forecasting and tighter counterparty controls. Insurers also need to be mindful of how these strategies affect their business plans, including their ability to generate capital and liquidity over time.
+As liquidity risks have increased, so has our supervisory focus on these issues. We have also implemented new liquidity reporting requirements for the largest UK insurers, which come into force in September. These will provide a stronger and more comparable basis for us to assess the sector’s resilience to some of these risks in future.
+Beyond traditional sovereign and corporate bonds, the other 40% of insurers’ MA portfolios are composed of illiquid or non-traded assets. This is not a new phenomenon, although the proportion has grown somewhat over the last ten years. Life insurers are well-placed to hold some such assets against their long-term annuity liabilities, and our supervision of firms’ investment strategies and the underlying assets is well-established. In recent years we have also supported insurers’ ability to contribute to productive investment, through our Solvency UK reforms and most recently through our MA investment accelerator.
+As regulators we naturally take a close interest in these other assets, and the risk management challenges they might present. But to do this, we need to drill down to specifics. Asset risks also depend on the type of liabilities insurers hold and the extent to which these are well-matched. Factors like valuation uncertainty or potential illiquidity in insurers’ investment portfolios obviously become more pertinent where there is a higher likelihood that these assets might need to be sold in stress. Given the long-term fixed nature of UK annuity liability cashflows, and the MA regime, this has traditionally been less of an issue in the UK from a solvency perspective
+footnote
+[9]
+.
+So, what can we say about the profile of these illiquid assets, and how they have shifted in recent years? Our regulatory data shows that UK insurers’ illiquid assets are predominantly secured lending against property or infrastructure, to both wholesale and retail borrowers. As shown by Chart 3
+footnote
+[10]
+, the vast majority are asset types such as infrastructure debt, secured residential and commercial property, ERMs, and other secured lending
+footnote
+[11]
+. In aggregate, this overall split has changed little since 2022, although we are seeing some broadening which I will come back to in a moment.
+The credit quality of firms’ assets and the robustness of their internal rating and risk management capabilities, remain fundamental to insurers’ ongoing resilience and solvency and so are a key focus of our supervision. Our recent life insurance stress test (
+LIST 2025
+) assessed the sector’s resilience under severe but plausible scenarios, including a significant credit downturn. It also aimed to increase understanding and transparency on sector resilience and how the regime responds to shocks, by publishing aggregate results but also firm-specific stress test results for the first time. We received supportive feedback to LIST 2025 from users of these disclosures – analysts, trustees, rating agencies, and others – who welcomed this increased transparency and encouraged us to build on it in future exercises
+footnote
+[12]
+.
+LIST 2025 illustrated how the MA framework enables UK annuity insurers to look through short‑term mark‑to‑market volatility, to avoid becoming forced sellers of assets following temporary fluctuations in the value of their portfolios. Instead, the impact of credit defaults and credit rating downgrades within their portfolios remain key drivers of insurers’ solvency under stress.
+On credit quality, in aggregate, at year-end 2024, two-thirds of UK insurers’ underlying MA assets had external ratings, which were overwhelmingly from the three largest public credit rating agencies. Around 40% of assets were rated CQS0 and 1 (typically AAA to AA-), as shown by Chart 4
+footnote
+[13]
+. Less than 1% of assets were sub-investment grade, and this proportion has not materially shifted over time.
+The other one-third of insurers’ MA assets are currently not externally rated. Here, a key part of our supervisory approach is to test whether insurers’ internal credit assessment processes are robust and produce equivalent outcomes to external rating agencies. In the UK, where public credit ratings exist, insurers use them for regulatory capital purposes, although they should not solely or mechanistically rely on them. Where no public rating is available, insurers may use internal ratings – but only where those ratings meet our rules and expectations for robust governance, benchmarking and validation. Private ratings may inform insurers’ internal ratings or validation processes, but our rules do not allow firms to use them as a substitute. Ultimately, insurers must demonstrate that their internal ratings fall within the range of ratings that a UK recognised credit agency could have reasonably issued, and that investment decisions remain consistent with the Prudent Person Principle.
+This aggregate picture is important when we come to consider the broader risks within private credit, which is obviously receiving close scrutiny at the moment. The term can include a range of asset types and risks. But in a UK insurance context, the data shows that in addition to their sovereign and corporate bond assets, a significant proportion of UK annuity writers’ MA portfolios remain overwhelmingly investment‑grade, often secured lending against property or infrastructure, with fixed or highly predictable cashflows needed to meet the MA criteria. The bulk of these assets are sterling-denominated. Other assets, such as non‑traded lending to lower-quality corporate borrowers, currently make up only a very small share of the assets backing UK annuity liabilities, as they are often not as well-suited to UK insurers’ risk appetites to back their annuities or to the UK regulatory regime.
+Investment outlook and risks
+While our regulatory reporting data and the LIST results provide some insight on the sector’s resilience to adverse events, we remain vigilant. Continued BPA growth, ongoing competition for yield, and the desire for greater diversification are leading some firms to consider a broader range of asset structures. Individual firms’ investment portfolios, risk appetites and capabilities also vary, and the external risk environment is uncertain.
+First, insurers’ balance sheets are growing and becoming more complex. Insurers continue to face strong incentives to boost investment yield to help support BPA pricing. Disciplined credit risk management and robust credit assessment processes therefore remain critical. This is particularly important where these broader assets can involve more complex structures and features, shorter performance histories, less data, and greater valuation and risk management challenges. Some firms have more to do here, and our scrutiny of their approaches – including requiring risk management improvements where needed – is a core part of our supervisory work.
+Furthermore, the external economic and credit risk environment is obviously challenging. The Financial Policy Committee (FPC) noted earlier this month that the situation in the Middle East has resulted in a substantial negative supply shock to the global economy, with significant market volatility and a deterioration in the domestic economic outlook. Investor sentiment towards risky credit markets, particularly private credit, has also worsened. Although UK insurers’ direct exposures to more-risky assets typically defined as private credit are currently relatively small, the FPC has highlighted how broader stresses in private markets
+footnote
+[14]
+could transmit through the wider economy in a shock
+footnote
+[15]
+. Current conditions could also make it more likely that different vulnerabilities could crystallise at the same time. UK insurers’ portfolios are unlikely to be immune to such changes in the external credit environment. So, firms need to remain alert to these shifts and consider a broad range of downside scenarios.
+In addition to these direct exposures, indirect exposures to other types of private credit could also arise, for example in the context of funded reinsurance transactions. We have observed some insurers adapting their investment guidelines in relation to funded reinsurance collateral, including to allow more complex asset classes. So far, we have not yet seen these guidelines generally being more permissive than the set of limits and appetites firms use for their direct investments. But the trend for increasing complexity of assets in funded reinsurance collateral pools would likely require additional management actions if a firm had to recapture these assets following a reinsurer counterparty default.
+Finally, we are also seeing growing links between insurers and other asset originators – including through direct ownership, strategic investment partnerships, or outsourcing arrangements. A diversity of ownership, routes for new capital to enter the market, and asset origination options can help the UK insurance sector play its part in providing the risk transfer and investment that the economy needs. And we are also open to exploring new and innovative ways to help support new patient capital to enter the life sector
+footnote
+[16]
+. But regulated insurance entities must still understand the risks in the assets they are offered, satisfy themselves these align with their risk appetites and investment capabilities, and make sure they comply fully with the Prudent Person Principle and the MA requirements. Where integrated group structures are involved and where the potential for conflicts of interest may be higher, we expect UK insurers to have particularly robust processes in place to manage these conflicts effectively.
+In short, as the investment opportunities and the risk environment evolves, firms must ensure their governance and risk management controls also adapt to manage their balance sheets accordingly. As they move into new assets, they need to retain the expertise and capabilities to assess and make their own judgements on credit quality of their underlying assets, including cashflow predictability, valuation approaches, concentrations and risk correlations in stress. Through our supervision work, we will hold firms to high standards on these issues. And we will use our stress testing exercises to continue to encourage market understanding, discipline and transparency of the resilience of the sector and how the UK regime might respond in different scenarios.
+Funded reinsurance
+Let me now turn to funded reinsurance, which has grown rapidly as part of the expansion of the BPA market (illustrated by Chart 5
+footnote
+[17]
+, £6.5bn in funded reinsurance premiums in 2025).
+We recognise some legitimate drivers of funded reinsurance use, including to improve access to a more diversified range of assets that an insurer might be able to originate itself. But it also creates new risks, including as another channel through which broader risks in global private credit markets could potentially affect the UK insurance sector.
+We have also been increasingly concerned that there are regulatory incentives driving some of this growth which might be misaligned compared to alternative sources of funding with a similar risk profile. We have concluded the current UK regulatory framework does not properly reflect the risks involved, and that left unchecked, this would become a bigger issue for the resilience of the sector over time. We are publishing proposals today to put the future treatment of funded reinsurance onto a better footing.
+Over the last few years
+footnote
+[18]
+, we have focused on several trends in insurers’ use of Funded Re. In our
+supervisory statement on Funded Reinsurance
+in 2024, we set out clear expectations for how insurers should manage the risks associated with their funded reinsurance arrangements, including the risks of having to recapture assets in a stress. This was an important first step, aimed at ensuring that firms were properly considering the credit, concentration, liquidity and operational risks arising from these transactions.
+But as the volume and complexity of transactions have increased, the risks are also evolving – including a growing appetite for complex collateral assets, and a potential for concentrated exposures building up across the market.
+To explore these wider risks, we also included a funded reinsurance exploratory scenario within LIST 2025. This also gave us further evidence of the current and possible future scale of vulnerabilities, such as recapture risk, if growth in funded reinsurance exposures were to continue unimpeded. The LIST scenario looked only at the impact of default of each insurer’s single largest funded reinsurance counterparty. This covers only a subset of the potential risks which might occur – for example, we assumed no wider contagion to other counterparties or assets, and no currency shock. Yet this simplified scenario still generated a meaningful additional loss for the sector on year-end 2024 balance sheets (a 10pp reduction to the aggregate solvency coverage for the sector, and higher for some firms). This loss would have been manageable on year-end 2024 balance sheets, but as funded reinsurance use continues to grow, the potential exposure of the sector to a downside shock will also continue to increase over time.
+As we have looked at the current regulatory treatment, we have concluded the current approach underestimates the risks involved and unduly favours funded reinsurance structures over other similar exposures. We want to act now to correct this imbalance before it grows to pose more material risks across the sector.
+Our proposals published today therefore aim to strengthen the UK’s prudential capital framework to better reflect the economic substance of funded reinsurance transactions, and to address the underestimation of risk and skewed incentives which we think currently exist. Currently, we think the capital firms hold for the average funded reinsurance transaction is only around 2-4% of liabilities, compared to 11-15% for similar investments. Under our proposals, we think the 2-4% would rise to something more like 10%, which would materially address the inconsistency while recognising that there are some differences.
+Our proposals have benefited from extensive supervisory and policy work over recent months, including engagement with firms, transaction reviews, and market monitoring, to explore the issues and potential policy solutions. My colleague Vicky White launched this work in a
+speech
+in September. Since then, we have explored different potential options with insurers through roundtables and other engagements. Initially, we considered the case for so-called ‘unbundling’ of the treatment of funded reinsurance contracts into their component parts. Industry feedback helped to show that this approach could be excessively complex and operationally burdensome. We have reflected on that feedback and decided not to proceed with an unbundling approach.
+Instead, we are proposing a simpler change to how funded reinsurance arrangements are valued as reinsurance assets, through a change to a mechanism called the Counterparty Default Adjustment (CDA). We think this will bring the treatment of funded reinsurance contracts closer to how risks are treated for similar investment assets backing annuities, addressing our concern on skewed incentives but in a more pragmatic way. Indeed, feedback from some firms also noted that a CDA reform would be a simpler way to address the risk of any misaligned incentives.
+To explain briefly how this would work – under Solvency UK, annuity liabilities ceded via reinsurance create an asset for the insurer equal to the amounts recoverable from the reinsurer. For funded reinsurance, this asset is large at inception (so much so, that firms are currently able to recognise a day one gain when entering a transaction). The value of the reinsurance asset is then adjusted to reflect expected losses from default of the counterparty. This adjustment is the CDA. But this adjustment is currently principles-based, it produces inconsistent outcomes across firms, and it is currently very small in size.
+Our proposal would instead require insurers to use a standardised CDA haircut using a prescribed rating methodology. This would use fundamental spread (FS) values already published by the PRA, and which are already used by firms when calculating the retained risk (largely credit risk) on other similar financial exposures. As such, we think the approach focuses on the right risk, is straightforward for firms to apply using a familiar methodology, and would make the outcome more consistent between firms and when compared with other similar investments.
+The approach would also allow adjustments to recognise key features of the contract, including collateral structures, the strength of contractual protections and the financial strength of the reinsurer. Where stronger safeguards are present, firms would receive some credit for these, while ensuring that investment‑like exposures are still treated appropriately for capital purposes.
+Overall, we believe that the revised approach would meet our objective to align the regulatory treatment much more closely with the underlying economics, and remove the current distortion which is currently unduly favouring funded reinsurance structures. It creates incentives for stronger risk management and higher collateral standards, while remaining sufficiently simple to operate within the current framework and to apply consistently across firms. As well as helping to address future risks to the sector’s resilience, we think it also supports our secondary objectives for competition, competitiveness and growth. It helps level the playing field between firms, and also removes distorting incentives which may also be driving investments away from those UK productive assets which can support the growth of the UK economy.
+In September, when launching this work, we made clear that any changes would apply only to future transactions and not to existing arrangements. We have maintained this approach, to avoid disrupting in-flight transactions where pricing commitments might already have been made. Our proposed treatment would apply to funded reinsurance arrangements completed from October 2026. We think applying the proposals only to future transactions strikes the right balance between fixing incentives on new transactions and providing firms with certainty for the treatment of existing or in-flight arrangements.
+While putting the capital treatment of funded reinsurance onto a firmer footing is important, it is only part of the story. Strong risk management, robust governance, and disciplined oversight of funded reinsurance exposures continue to be essential. But some of the wider risks are difficult for any single insurer to consider in isolation. For example, we need to consider the potential for simultaneous recapture events across the market, which could have a much more significant impact in stress. This is particularly relevant given the relatively concentrated pool of reinsurers active in this market, the potential for credit correlations to exist between some of them, and the heightened uncertainty over wider losses in a recapture event involving more complex structures.
+Capital alone therefore does not mitigate some of the broader risks. Our policy design objective is therefore not simply better‑calibrated capital requirements, but also that by addressing the current skewed treatment, we will achieve a clear and sustained moderation in the pace and scale of funded reinsurance growth. We want to ensure that the aggregate risks across the sector do not build up to pose a more significant risk to safety and soundness or financial stability. We will continue to keep this under review and, if needed, we will consider further actions to safeguard the future resilience of the sector.
+As well as our domestic work on these issues, these risks are also under active scrutiny internationally including at the IAIS, FSB, and IMF
+footnote
+[19]
+. This is important given the IAIS’s observation that these transactions can be driven by jurisdictional differences. We are mindful of the approaches taken by other jurisdictions and continue to engage with our international counterparts. While detailed national frameworks will differ, our direction of travel is broadly aligned with international thinking.
+We encourage all market participants to engage fully with the consultation. Industry feedback to date has materially shaped our proposals and we look forward to continuing the constructive dialogue as the policy is finalised, to deal with the issues I have outlined.
+Closing remarks
+The BPA sector continues to be one of the fastest-growing parts of the UK insurance landscape. Its importance to pensioners, policyholders and the wider economy is likely to continue to increase as more risk is transferred to insurers over time. We welcome innovation, new capital and a vibrant market to ensure the insurance sector can continue to offer a range of solutions to schemes, as part of a broader suite of derisking options available to the pensions sector.
+But as the market evolves, we need to be alert to how the risks are changing and respond to them accordingly, so that the market remains resilient and able to continue to play its part. For insurers, this means being properly compensated for the risks they are taking, and ensuring their risk management is keeping pace with changing trends and an uncertain economic outlook. For the pensions sector, the availability of new information such as from LIST can help give more firm-specific and sector-wide insights, to help strengthen wider understanding of the sector’s resilience. And for us as supervisors, it means being prepared to adapt our approach where we see new risks emerging that could undermine insurer resilience in the future if not addressed.
+Taken together, these actions can help ensure that the insurance sector can continue to play its important role as part of the broader pensions market, with the resilience needed to protect policyholders, including transferring pensioners, and to underpin safe and sustainable growth.
+I am grateful to Anna Andreas, William Tonks, Diana Gordon, Milton Cartwright and Alan Sheppard in preparing these remarks. Thanks also to Lisa Leaman, Anthony Brown, Talitha Linley and other colleagues across the PRA for their support and comments.
+LCP Pension Risk Transfer Report November 2025
+.
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Solvency-triggered termination rights clauses in bulk purchase annuity transactions
+.
+As opposed to other lines of business such as with-profits funds or unit-linked portfolios, where most or all of the investment risk lies with the policyholder.
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+According to the PRA’s MALIR data, a regulatory dataset covering matching adjustment portfolios.
+As shown by findings from the Bank of England’s 2024
+System Wide Exploratory Scenario (SWES).
+Insurers are, however, exposed to liquidity risk on potential margin calls on derivative positions, so liquidity management remains important in this context.
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+This data is taken from the PRA’s MALIR regulatory dataset.
+The PRA has
+announced
+that its next life insurance stress test will take place in 2028, and that it will provide further details later this year.
+CQS means credit quality step, a standardised ranking from 0 to 6 used to map different credit rating agency ratings to a unified scale. See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Meaning private equity, private credit and related risky credit markets.
+For example, the Bank of England is currently undertaking a private markets
+System Wide Exploratory Scenario
+, which will explore potential risks and dynamics associated with private markets and related risky public credit markets.
+For example,
+DP2/25
+requested feedback from market participants on whether the UK regulatory framework could be modified to facilitate new routes for long-term capital to enter the insurance sector safely.
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Most recently in our
+2026 Insurance Priorities Letter
+.
+Internationally, the term “asset-intensive reinsurance” is often used instead of funded reinsurance.
+Internationally, the term “asset-intensive reinsurance” is often used instead of funded reinsurance.
+Close
+Most recently in our
+2026 Insurance Priorities Letter
+.
+Close
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Close
+For example,
+DP2/25
+requested feedback from market participants on whether the UK regulatory framework could be modified to facilitate new routes for long-term capital to enter the insurance sector safely.
+Close
+For example, the Bank of England is currently undertaking a private markets
+System Wide Exploratory Scenario
+, which will explore potential risks and dynamics associated with private markets and related risky public credit markets.
+Close
+Meaning private equity, private credit and related risky credit markets.
+Close
+CQS means credit quality step, a standardised ranking from 0 to 6 used to map different credit rating agency ratings to a unified scale. See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Close
+The PRA has
+announced
+that its next life insurance stress test will take place in 2028, and that it will provide further details later this year.
+Close
+This data is taken from the PRA’s MALIR regulatory dataset.
+Close
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Close
+Insurers are, however, exposed to liquidity risk on potential margin calls on derivative positions, so liquidity management remains important in this context.
+Close
+As shown by findings from the Bank of England’s 2024
+System Wide Exploratory Scenario (SWES).
+Close
+According to the PRA’s MALIR data, a regulatory dataset covering matching adjustment portfolios.
+Close
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Close
+As opposed to other lines of business such as with-profits funds or unit-linked portfolios, where most or all of the investment risk lies with the policyholder.
+Close
+Solvency-triggered termination rights clauses in bulk purchase annuity transactions
+.
+Close
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Close
+See Chart Annex for Innovation and Resilience in the BPA Sector – Speech by Gareth Truran.
+Close
+LCP Pension Risk Transfer Report November 2025
+.
+Close
+Charts annex
+Gareth Truran
+Executive Director, Insurance Supervision
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Huw Pill
+14 May 2026
+Slides from Huw Pill’s fireside chat at NatWest
+Slides from Huw Pill’s fireside chat at NatWest
+View more
+Other speeches
+Back to top

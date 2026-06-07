@@ -1,0 +1,19 @@
+{
+  "bank": "BOC",
+  "category": "Monetary Policy",
+  "title": "Bank of Canada Interest Rate Announcement",
+  "date_original": "2025-06-04",
+  "date_au": "04/06/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.bankofcanada.ca/2025/06/bank-canada-interest-rate-announcement-june-4-2025/",
+  "raw_file_path": "data\\BOC\\Monetary Policy\\2025-06-04 - Bank of Canada Interest Rate Announcement.html",
+  "text_file_path": "data\\BOC\\Monetary Policy\\2025-06-04 - Bank of Canada Interest Rate Announcement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:56:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3c0ecd584262e6e3794871b5a02a7d79c036c01a413ff796591c05f181940af1"
+}

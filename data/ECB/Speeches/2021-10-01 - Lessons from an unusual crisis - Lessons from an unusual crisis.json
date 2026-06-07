@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Lessons from an unusual crisis",
+  "date_original": "2021-10-01",
+  "date_au": "01/10/2021",
+  "datetime_original": "",
+  "speaker": "Lessons from an unusual crisis",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp211001~ca589c6afc.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-10-01 - Lessons from an unusual crisis - Lessons from an unusual crisis.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-10-01 - Lessons from an unusual crisis - Lessons from an unusual crisis.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "77915f353b7fd686f77039311dd29b1bf8a4aa90964c116d5b86761fa5d37654"
+}

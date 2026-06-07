@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A View of the Housing Market and U.S. Economic Outlook",
+  "date_original": "2025-07-17",
+  "date_au": "17/07/2025",
+  "datetime_original": "",
+  "speaker": "Adriana D. Kugler",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/kugler20250717a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-07-17 - Adriana D. Kugler - A View of the Housing Market and U.S. Economic Outlook.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-07-17 - Adriana D. Kugler - A View of the Housing Market and U.S. Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9800893a61849720501e413ef2431a407231a503c339bb481b4a19736e36e1b7"
+}

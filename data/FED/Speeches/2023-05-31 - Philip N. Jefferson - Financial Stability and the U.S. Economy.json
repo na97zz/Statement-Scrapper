@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Financial Stability and the U.S. Economy",
+  "date_original": "2023-05-31",
+  "date_au": "31/05/2023",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20230531a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2023-05-31 - Philip N. Jefferson - Financial Stability and the U.S. Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2023-05-31 - Philip N. Jefferson - Financial Stability and the U.S. Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:02:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4f2ded23164003cd59f1fde19c0ce3a8212e3fd59f12a3c48e641d4c5e3ec40e"
+}

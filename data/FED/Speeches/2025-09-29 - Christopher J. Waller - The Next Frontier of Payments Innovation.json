@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Next Frontier of Payments Innovation",
+  "date_original": "2025-09-29",
+  "date_au": "29/09/2025",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20250929a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2025-09-29 - Christopher J. Waller - The Next Frontier of Payments Innovation.html",
+  "text_file_path": "data\\FED\\Speeches\\2025-09-29 - Christopher J. Waller - The Next Frontier of Payments Innovation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:54:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "83459a8afa34afae6024483c27428f14984cc0c04ebae50d6dfa77df2b7d9634"
+}

@@ -1,0 +1,118 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Prime brokerage - speech by Rebecca Jackson
+DATE: 01/06/2025
+SPEAKER: Rebecca Jackson
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2025/january/rebecca-jackson-speech-at-uk-finance-prime-brokerage
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Prime brokerage - speech by Rebecca Jackson
+Given at UK finance
+Published on 
+
+ 28 January 2025
+In this speech, Rebecca Jackson discusses the growth of prime brokers, emphasising the importance of liquidity risk, operational resilience, and counterparty credit risk management.
+Speech
+Introduction
+Hello everyone. It is a great pleasure to be with you here today. Thank you very much to UK Finance for hosting my second speech as Executive Director, this time on the topic of Prime Brokerage. As Supervisor of some of the largest prime brokers in the world, both I – and the PRA – are deeply invested in ensuring that this activity is regulated and supervised well. Today, I'd like to speak to you about recent dynamics in the sector, and share some insights from a recent thematic review into the disclosures that prime brokers receive from their clients.
+For those of you not familiar with Prime Brokerage I have one question: where have you been for the last 40 years? But, to catch you up, I should explain what prime brokers do, which is provide financing and related services to hedge funds, including operational support, securities lending, risk management services, and capital introductions.
+The core of this business is financing. When a client wants to go long a security, almost always an equity, the prime broker lends them the money to purchase it, and then holds that security as collateral. And when a client wants to go short a security, the prime broker lends them the security, and then takes the proceeds of the short sale as collateral. Prime brokerage can be either ‘cash’ - which corresponds directly to the transactions I've just described – or synthetic, where total return swaps (TRS) are used to achieve the same economic effect.
+It is not hard to see why prime brokerage returns are fundamentally a function of scale. Prime brokers can finance one client’s margin loan by re-using their equity, posted as collateral, and delivering it into another client’s short position in that same equity. The proceeds of the second client’s sale are effectively used to finance the first client’s margin loan. This is called internalisation, and the larger a firm is, the more scope that the firm has to do it. The benefit comes in the form of positive returns to scale, by way of significantly reduced costs, as internalised transactions don’t require costly external financing, or costly borrowing of securities from elsewhere. Internalised positions are also very efficient from a balance sheet perspective; a key factor for a business that is an increasingly large user of firms’ balance sheet capacity.
+The overall result is a business where growth improves margins, and whose growth makes it increasingly important for firms’ bottom lines, and crucially, their balance sheet return and regulatory capital return metrics.
+And growth is certainly what this business has seen. While accurate and up to date public data can be hard to come by, we do know that revenue has increased significantly over the past decade, as has market concentration, with the top 3 prime brokers now serving over 1000 funds each. That’s compared with just over 500 for their nearest competitor
+footnote
+[1]
+. And while not all hedge fund activities are facilitated by firms’ prime brokerage franchises – notably fixed income trading, which has grown significantly but which banks and dealers facilitate by operating large repo matched books elsewhere in their franchise – the size and growth of hedge fund assets provides some indication of the market that prime brokers are operating in. And it’s big and getting bigger, with hedge fund assets standing at $8.5 trillion globally as at end 2023, having grown 21.9% year on year – the fastest growth rate since 2012
+footnote
+[2]
+.
+So that’s why I'm speaking to you here today. As prime brokerage continues to grow, alongside hedge funds, we need to understand what has driven this growth, what its implications are. Indeed, good supervision and regulation is based upon precisely that understanding, and it’s only with that understanding that such growth can be reconciled with safety and soundness.
+Growth
+So how has prime brokerage managed to achieve such persistent, high growth? One major factor is the continued appreciation in equities, especially in US markets. As equity prices increase, the loans required to finance their purchase naturally become larger, as does the gross value of the swaps used in synthetic transactions. The result is that, as equity prices rise, typically prime brokerage balances rise too. This relationship underscores a particular risk management challenge for prime brokers: even without their foot on the accelerator, they may need to actively steer the size of their business.
+Less straightforward is the rise of sophisticated hedge funds with quantitative trading strategies, be they in the context of a ‘single manager’ fund or a multi-pod fund. The nature of these funds is to employ sophisticated, statistically driven approaches to trading and risk management, profiting from what are often small and short-term market dislocations, or differences in ‘style factors’ such as value and momentum, and other trading signals. These strategies are typically market neutral, with portfolios mainly in main index equities or deeply liquid markets. Profit here relies both on volume and leverage, as individual trades by themselves make only small returns. And so as these strategies have become much more common, the demand for leverage has increased.
+Finally and more generally, hedge fund assets under management and therefore prime brokerage balances, may continue to grow due to broader shifts in the investment landscape. The past decade has seen a significant reallocation of capital from traditional asset classes to alternative investments, including hedge funds, private equity, and private credit. This shift has been driven by a search for higher returns in an environment where yields on investments, particularly bonds, have been relatively low.
+Growth’s Implications
+If trends continue and prime brokerage balances continue to rise, we envisage both short- and long-term effects that could play out over the next 2 to 5 years.
+In the shorter term, as the demand curve shifts ever outward, we could see a point at which - absent a corresponding shift in supply - the pricing of prime brokerage resources increases, with firms adjusting their client relationships and pricing to balance supply and demand. Indeed throughout most of Q4 last year, the spread over the Secured Overnight Financing Rate – a key measure of the cost of financing for prime brokers –increased markedly, before falling in Q1. This is consistent with reports that asset managers were sitting on record long positions before Christmas, reducing internalisation rates at prime brokers and driving demand for external funding
+footnote
+[3]
+, before equity sales picked up after Christmas
+footnote
+[4]
+. That said, this by itself is quite a prosaic change, and one that can reasonably be expected in any market.
+In the longer term however, we can assume that richer pricing will incentivise existing smaller players to expand their presence in the prime brokerage space, and incentivise new firms to enter the market too.
+Where firms are expanding their presence, we consider it important to note that they should be careful when choosing the metrics they use to control the size of their exposures. Many firms currently use potential future exposure (PFE), portfolio stress measures, the size of potential liquidity outflows, and balance-sheet based leverage metrics to set their risk appetite and control growth in this business. The problem as we see it is that all of these metrics incorporate netting of some kind; accounting standards provide for derivatives netting, and PFE is netted against collateral received.
+By virtue of such netting, these metrics tend to mask the scale and potential impact of the growth trends I just spoke about. And they often don’t provide a meaningful constraint on business growth, allowing as they do for a range of ways to ‘reduce’ risk or capacity measures, and because we find that management may take limit changes and breaches with respect to internal metrics less seriously than for regulatory metrics. Netting and collateral are indeed valuable risk management tools, but they are not bullet-proof. It would be unwise to implicitly bet the house on the assumption that netting is always effective, especially in the case of a large unwind during a period of market stress. With that in mind we expect to see all prime brokers start using measures of gross exposure and absolute leverage to understand and control this business better.
+When firms venture into this market for the first time, it is ultimately beneficial for growth and the market itself. Markets can’t function effectively without new entrants, and competition breeds innovation. But financial history is littered with examples of firms that have entered new markets in a rather loony toons style, surrounded by a cloud of dust, only to be flattened to a pancake by a large anvil marked counterparty credit risk.
+The issue is that new entrants may not have the necessary infrastructure and risk management capabilities to operate effectively in this space. It is not rare to find that new entrants to any market – much less one as complex as prime brokerage - lack the comprehensive controls and due diligence processes that established firms have developed and enhanced over years of experience. The result is that new players can enter business lines with inadequate systems for monitoring and managing risk, leading to potential oversights and vulnerabilities. Without robust risk management frameworks tailored to the type of counterparty they face, these firms are more susceptible to operational failures, mispricing of products, and insufficient collateral assessments.
+And new entrants should be alert to the risk of client adverse selection too. If balance sheet constraints cause more established players to adjust their exposure towards certain clients, then the clients they leave behind may well be those that have a particularly poor risk/return trade-off. Thus new entrants or those expanding their presence need to be diligent in their client selection process, to avoid taking on disproportionately high-risk clients or mis-priced risk.
+These risks aren’t hypothetical. The collapse of Archegos and the subsequent losses incurred by several prime brokers and equity financing desks – some relatively new to the market or small in scale - serve as a reminder of the potential risks associated with inadequate due diligence and risk oversight. Therefore as you might imagine, we have zero tolerance for new entrants to this market that have failed to heed that lesson. They say experience is one thing that you can’t get for nothing, but it doesn’t cost anything to learn from others. All firms, and especially new entrants, must do so.
+Safety and soundness
+As this business continues to grow, then, what can firms, both old and new, expect the PRA to focus on? The answer is liquidity risk, operational resilience, and counterparty credit risk.
+Liquidity Risk
+Liquidity risk is first on this list because for a long time, it was very much front-and-centre. And that’s for a good reason: as the 2008 financial crisis showed, prime brokerage balances – including excess margin and cash collateral – can be both extremely large and extremely flighty during a stress. And not only that, but it is a risk that is not captured well by the Basel Liquidity Coverage Ratio (LCR). This is the key liquidity metric that firms must meet, but it focuses primarily on retail deposit outflows rather than wholesale runs.
+To address this gap, we have developed our own carefully tailored liquidity regime that complements the Basel standard, through what we refer to as our Liquidity Pillar 2 framework
+footnote
+[5]
+. These add-ons specifically capture the outflows associated with a run on a firm’s prime brokerage business, taking into account a firm’s governance and risk management, concentration of funding counterparties, and the firm’s own franchise client assessment. Calibrated every few years, they are one of the primary ways we ensure firms can handle the unique stresses that prime brokerage can generate, and it’s a framework that we think is quite mature.
+Operational Resilience
+On operational resilience, events such as the Equilend cyber-attack at the beginning of 2024 demonstrated that operational resilience is crucial for a sector that processes multiple billions of transactions and margin calls daily. The network effects of a catastrophic operational event, or cyber-attack at a key hedge fund client, high frequency market maker, or major service provider, are perhaps not fully understood across the industry. And we note that some prime brokers outside of the top tier do not currently regard their activities as an ‘important business service’ for the purposes of operational resilience planning. As these prime brokers grow in scale, and with the coming into force of the PRA’s operational resilience expectations at the end of March
+footnote
+[6]
+, they will need to remember that maintaining operational resilience is a dynamic activity. That means the time may come when they need to reassess those conclusions, especially where they have customers without multiple prime brokers, and set an impact tolerance for risks such as cyber and systems stability.
+Counterparty Credit Risk management
+Last but not least, we regulators take every opportunity to remind you about the importance of counterparty credit risk (CCR). Our interest in this topic is longstanding. My own focus on it dates back to 2005, when I authored an FSA discussion paper on banks’ exposures to hedge funds. But our interest was heightened recently by the collapse of Archegos. Archegos was a watershed event for the industry. It highlighted the scale of the losses this business can generate, which could threaten financial stability, and it resulted in many firms adopting multiyear remediation plans, addressing what were revealed to be fundamental weaknesses in CCR frameworks across the board. Now that we have seen a great deal of progress here, what more could we possibly have to say?
+Well, judging by the recently published Basel guidelines on counterparty credit risk management, quite a lot: not surprising given the guidelines were last updated in 1999. As those guidelines show, counterparty credit risk brings particular challenges, including due diligence, credit risk mitigation, exposure management, governance, data, and closeout practices.
+But what I'd like to focus on for the rest of this speech is disclosures, because what has been clear to us from recent incidents – in particular Archegos, but also the LDI funds crisis too – is that firms have been all too ready to extend credit to, and do business with, clients whose risk profiles they do not properly understand and cannot adequately monitor.
+That’s why last year we conducted a thematic review on the client risk disclosure standards applied by prime brokers, aimed at understanding existing practices across the industry, and to what extent the quality of counterparties’ risk disclosures directly influences firms’ risk appetite and the terms under which they are willing to do business. What we hoped and expected to see, in a nutshell, was transparency, with a direct and verifiable relationship between the information that a client provides and the risk appetite that they’re allocated. But that’s not what we typically found. Instead, the information environment is rather foggy, with many firms generally falling short of the expectations around disclosure set in the aforementioned letters and guidelines.
+Some of you may be hearing this and thinking, quite understandably, that you don’t have the power to compel disclosures, and indeed, what right do you have to demand them? If hedge funds don’t have mandatory reporting, there’s nothing you can do. And you’re right; it’s a free country, as they say. But just as it is my job to make judgements about your firms based upon what you do and do not tell me, we think it is your job to make judgements about your clients based upon what they do or do not tell you. So we expect you to have a framework in place to assess the quality of your counterparties’ disclosures; we expect that framework to set minimum standards for disclosure, including frequency; and we expect it to ensure that risk appetite decisions discriminate between clients based on the full range of disclosures that you might observe. And we think that sound practice is to establish a direct and impactful dependence between the conditions of doing business with a client, such as the level of margin requested and the limits set, and the quality of their disclosures. It is not enough to simply include a disclosure score that is one of the many factors that can marginally affect a client’s credit rating.
+Of course, it’s impossible to design a framework that delivers the right answer for every client and every type of exposure; exceptions and edge cases will always arise. It is therefore crucial that firms also have transparent governance around exceptions. This should include suitable escalation processes, aimed at ensuring a level of senior management oversight commensurate with the materiality of the exception.
+We understand that this is not a trivial task. It implies not just the collection of considerable quantities of data, but the ability to meaningfully analyse those data too, and all that for some of the most complicated entities the financial system has to offer. That’s why we have found that good practice typically relies on automated solutions that can consume and monitor disclosures on an ongoing basis, including by automatically flagging missing or stale data, detecting concerning or unusual performance trends, and cross-referencing client data with other sources of internal and external data. These data are then consolidated for review by credit officers and other risk fora, with suitable processes in place to ensure the prompt escalation of any potential change in the client risk profile. We recognise that there are costs associated with the implementation and running of these systems and processes. But we think that the costs associated with sub-standard disclosures could be much, much higher.
+So: a large, complex and still fast-growing business, one that’s highly international and interconnected; a business that may prove irresistible for new entrants and demands scale from existing ones; and a business that comes with exposures to some of the most sophisticated counterparties known to finance, but without the disclosures to match. You will understand, I hope, why we care about this business a great deal.
+Looking ahead
+Looking ahead, firms can expect us to continue with thematic work in this area, and the new Basel guidelines should give you a strong sense for the risks we care about and the practices we expect to see. But the issues that I have raised here, about entry to new business lines, about operational resilience, and about making decisions based on adequate information, also apply – mutatis mutandis – to other business lines; not just this one. And who knows which business lines we may come to care about a great deal in the future. And so as you digest the messages of this speech, please remember that as always, you must find the time to join the dots too.
+I would like to thank Andrew Linn, Simon Stockwell, Rasna Bajaj, Charlotte Gerken, Niamh Reynolds, Fabrizio Anfuso, Paul Hawkins, Elvin Formosa for their contribution to these remarks.
+BIS Research
+FSB Research
+JP Morgan see surge in demand for equity backed repos persisting
+Goldman says drop in funding spread signals brisk equity selling
+Pillar 2 Liquidity statement of policy
+SS1/21 Operational resilience: Impact tolerances for important business services
+SS1/21 Operational resilience: Impact tolerances for important business services
+Close
+Pillar 2 Liquidity statement of policy
+Close
+Goldman says drop in funding spread signals brisk equity selling
+Close
+JP Morgan see surge in demand for equity backed repos persisting
+Close
+FSB Research
+Close
+BIS Research
+Close
+Convert this page to PDF
+Rebecca Jackson
+Executive Director, Authorisations, Regulatory Technology and International Supervision
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

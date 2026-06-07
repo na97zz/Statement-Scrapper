@@ -1,0 +1,130 @@
+BANK: BOE
+CATEGORY: Speeches
+TITLE: Supervision and Data − to boldly regulate as no one has regulated before − speech by Rebecca Jackson
+DATE: 01/06/2023
+SPEAKER: Rebecca Jackson
+SPEAKER ROLE: 
+SOURCE URL: https://www.bankofengland.co.uk/speech/2023/may/rebecca-jackson-association-of-foreign-banks-mansion-house-lunch
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Supervision and Data − to boldly regulate as no one has regulated before − speech by Rebecca Jackson
+Given at the Association of Foreign Banks Mansion House lunch
+Published on 
+
+ 16 May 2023
+Rebecca Jackson discusses a step change in how the PRA uses supervisory and firm data. This is the data we collect and how we collect it, informed by our statutory objectives, post-Brexit freedoms and technological and market developments.
+Speech
+Introduction
+Space:
+The final frontier.
+These are the voyages of the starship Enterprise
+.
+Its 5-year mission:
+To explore strange new worlds,
+To seek out new life and new civilizations,
+To boldly go where no man has gone before...
+These are not the words I imagine you were expecting to hear in this wonderful Mansion House setting, replete with history and tradition. But I am extremely grateful to the Lord Mayor and Giles and William of the Association of Foreign Banks for inviting me to speak to you today, enabling me to give you a PRA (Prudential Regulation Authority) twist on these famous opening lines.
+Data:
+The effective frontier.
+These are the voyages of the starship PRA.
+Its 5-year strategy:
+To explore regulated firms;
+To seek out new firms and new innovations;
+To boldly regulate as no one has regulated before…
+Let me explain.
+In 2021 starship PRA set course on a 5-year strategy aiming to “deliver a step change in our efficiency, effectiveness, and data culture by 2026 through phased investment in tools, technology, processes and skills” – essentially how we use data.
+footnote
+[1]
+Alongside this, the PRA has begun engaging with firms on which data we collect – and we continue to consult firms on longer-term reforms to how we collect data. So our Strategy has three legs:
+how we use data; which data we collect and how we collect it. We are pursuing this strategy at a critical moment. Market events continue to teach us lessons about the data we need to explore regulated firms to achieve our statutory objectives of safety and soundness and policy-holder protection. Meanwhile, post-Brexit, we have new freedoms as to how we regulate, and we will soon have a new secondary objective to promote growth and competitiveness. These developments, encourage us to support a more dynamic industry where starship PRA seeks out any new firms entering our space and new innovations that change the way firms do business, and looks afresh at the costs and benefits of the requirements we impose. Advances in the way supervisors are able to find, access and analyse your data - our own adoption of regulatory technology, or RegTech, - will enable us to regulate as no one has before.
+But what does that mean for firms? Can you expect to see regulators wandering around the City of London scanning you with their tricorders? Probably not, but today I am going to give you my view, as a prudential supervisor, and as the Director responsible for the PRA’s RegTech agenda, of what you can expect. Being a supervisor, I will talk mainly about the first leg of our data strategy - our use of data to explore firms. From this, I will draw out some implications for the data we need and how we collect it.
+Exploring firms
+When exploring firms, our most powerful information source is the confidential data we receive from you. These data come in three types.
+First, there is the structured, quantitative data we collect under PRA Rules – the Regulatory Returns - with their clear definitions, standardised across firms and over time. Regulatory returns allow us to gain a basic level of assurance that firms meet our minimum prudential requirements, particularly our capital and liquidity standards, on an ongoing basis. They also enable analysis of trends, peer comparisons and identification of outliers. This a core part of our data-driven supervision.
+Second, we have temporary “ad hoc” data which supervisors collect in response to emerging risks, or which are needed to support policy development, cost benefit analysis or thematic work. Like regulatory returns, ad hoc data have an element of standardisation, allowing us to compare firms and aggregate across them. But when collecting ad hoc data, relative to regulatory returns, we accept that there will be some loss of comparability and quality caused by its speedy and often tactical compilation.
+Third, particularly for the largest firms, we have your Management Information (MI). MI helps us both in business-as-usual and crisis times. MI tells us about your judgement on the risks you face and, importantly, it also tells us about your Risk Management and Controls and your Management and Governance by showing us which data you chose to review, how your choices differ from those of your peers and how you interpret those data.
+Sometimes our decision about which type of information to collect and whether to standardise is straightforward. Where we collect data to ensure you are complying with our Rules, we need to standardise, particularly where there are well-defined requirements about how some of our most important prudential measures are calculated. Furthermore, we will put the requirement for such data in our Rulebook, as those data will need to be of high quality. But regulatory returns are costly and time consuming to build and implement, for you and for us. They cannot meet all our needs all the time.
+Consider crisis management. Each crisis reminds us that we cannot predict every single data item we might need. If you had asked me 18 months ago which data I would be focussed on, I would not have accurately guessed exposures to a single-family office known as Archegos
+footnote
+[2]
+, to Russia and Ukraine, to gas and nickel, to LDI pension funds and long end gilts. Market disruptions have the potential to create fast-burn risks to firms’ financial and operational resilience.
+In addition to having a robust regime in place that means firms are capable of adapting to events, the Bank of England (Bank) needs to synthesise rapidly information from firms to inform senior management and micro- and macro-economic decision making and action. For example, we need to create a map of at-risk counterparties as starship PRA navigates today’s challenging environment. As Nat Benjamin observed in his “
+New Tides” speech
+footnote
+[3]
+last year, since the global financial crisis the balance of direct risk-taking in specific products has shifted somewhat from investment banks to their clients, both complicating this challenge and making it more important to solve. Standardised data would be extremely helpful here. If firms identified exposures to their counterparties in an identical and timely manner, the data could be stitched together automatically to provide an aggregated picture of who is exposed to whom.
+But quarterly regulatory returns received with a month’s delay - reporting timeframes which have changed little in over 40 years - can be of little immediate value in such a fast-burn scenario. These data could be up to four months out of date when the crisis hits. Even setting up an ad hoc data collection may not be feasible for us or you in the time available. So, with time of the essence, we’ll often ask larger firms for the management information, which you already have to hand and which is timely. Our data scientists have become adept at processing this management information to overcome differences in formats. Yet differences in definitions and content are harder to overcome, leaving gaps in our view.
+Standardising our data requests would plug these gaps but at greater burden to you. We need to think very carefully about the trade-offs involved when requesting standardised data, and we now have the opportunity to look at this afresh as we are about to take control of the starship PRA’s scanners – by which I mean the reporting requirements which were previously fixed in EU law. I would suggest there are six main factors that lead us to ask for standardised data (be it reg returns or ad hoc), versus taking your MI:
+The importance of an issue to our objectives: does it relate to a systemic risk issue or industry-wide policy goal? Systemic risk and policy issues imply an analytical need to aggregate and compare across firms.
+Is there an ongoing (as opposed to one-off) need for the data? If so the benefits of standardised data will add up over time.
+Timeliness – do we need the absolute latest picture? Will that picture evolve rapidly and materially? In a market event the timeliness factor trumps all others, which is what led us to predefine and forewarn firms of the liquidity data we may collect more frequently in a crisis, given the fast burn nature of liquidity risk. But liquidity is not the only thing that changes rapidly – market and counterparty risks do too.
+Are standardised data readily available within your systems? I will come back later to this important issue of availability, and how it is being affected by technological change which is transforming the trade-offs we face.
+Granularity. Do we need precision for example to help us understand some specific components of your capital or liquidity positions, or to fine tune a rule to balance policy intent with cost as part of our cost benefit analysis or will aggregate data suffice?
+And finally, and particularly relevant to your firms, would standardisation be consistent with our approach to Host Supervision? Under our approach of Responsible Openness
+footnote
+[4]
+we may need data at the level of your parent group. But for that we would work as far as possible with and through Home State Supervisors, using the standardised data you provide to them. This gives us some challenges, as my Directorate serves as host supervisors for firms from over fifty jurisdictions. Collaboration with key counterparts can be helpful here. For example, we are currently exploring whether there are ways we could work together with home state supervisors to tackle the question of the timely supervisory data to collect on non-bank financial institution counterparties.
+In summary, for a given technology and a given appetite on our part to tolerate data gaps these factors will mark out an effective frontier, which determines the amount and type of data we collect. This frontier defines a limit to our supervision. But this frontier can move over time, as technology and our appetite to close data gaps evolve.
+Seeking out new firms and new innovations
+I shall move on to talk about technology shortly, but I’ll first turn to which data we collect. How might this evolve in coming years? Will the desire to identify and explore new firms and new innovations require new types of data? Will technological advances that increase our capacity to use and analyse data lead us to want ever more?
+History mostly shows a long track record of ever-increasing prudential reporting – in part driven by a desire to verify compliance with more complex prudential capital and liquidity requirements – particularly those brought in in the aftermath of the global financial crisis. And there is more onus on us to ensure our policies are backed by strong evidence. This may require gathering of additional data to support cost-benefit analysis. And our experience of the market turmoil sparked by COVID, Russia/Ukraine and Archegos does suggest the need for some faster data, and more data on counterparty risk.
+But following Brexit we have opportunities to tailor our reporting requirements more to the UK market, and to look again at the aggregate burden of our reporting on industry. We no longer need to maintain previous reporting requirements, which were a compromise across 28 member states with different needs, if they no longer make sense for our market. We are already making steps in that direction with our new Strong and Simple regime
+footnote
+[5]
+, reducing reporting for a cohort of smaller firms. As an aside, we have also taken similar steps recently for insurers, where we have been able to reduce reporting requirements for smaller insurers by around 40% from what we inherited from the EU and with more proposals to come later this year. This is a first step in the right direction.
+Personally, I believe that over time we will retain a blend of regulatory returns, ad hoc collections and MI. And you will see us cease collection of a significant number of our current returns. But there will be some new returns, including some where we need you to have the capacity, either routinely or in times of crisis, to submit them with a higher frequency and more timeliness.
+But better design of our collections, with clearer rules, more opportunity to gain clarity on their meaning and more tailoring to calibrate data collections to the scale and complexity of cohorts of firms will generate confidence that our data collections pass cost benefit analysis and are enabling us to better understand the risks and opportunities you face.
+Regulating as no one has regulated before
+Moving more explicitly onto technological progress, when it comes to data, starship PRA has a long-term plan to regulate as no one has regulated before.
+The Bank’s long-term goal to Transform Data Collection has great potential to enable this. This work seeks to promote common standards governing the underlying transaction-level data you need to run your business. To some extent common data standards may emerge from technological and market change, such as the development of Distributed Ledger Technology, which leads market participants to record transactions using the data standard embedded within the ledger. But we need to do more than rely on such standards emerging organically. Common standards need to be, and are being, driven forward and co-ordinated by industry bodies, working with the Bank, the Financial Conduct Authority (FCA) and other regulators. If common standards can be developed, we will have a much better understanding of the data you have available. We will be able to work with you to determine how you could use those data to meet our needs at lower burden or at greater speed. It reduces the difficult trade-off between asking for what we need versus what you have and pushes out that effective frontier which constrains our supervision.
+But technological advances do not just apply to how we collect data, as a supervisor, I am also fundamentally interested in how we use data. I want us to be making the very best of the data we collect, however we collect it. Our data scientists are making progress developing Artificial Intelligence and Machine Learning tools to apply to the unstructured information we receive from you, such as your board packs, to extract key highlights for our supervisors. We also continue to develop predictive analytics. Our Watchlist Process, the process via which we identify the firms that pose the greatest risk to our statutory objectives, now benefits from a model that plays devil’s advocate to our supervisors, helping them consider different perspectives and informing their supervisory judgments. We are also developing a single supervisory dashboard – think of each supervisor sitting at their station on the bridge of the starship PRA looking at a console that shows them the data they need, tailored to the specific firm or peer groups that they supervise.
+We are not ready, or indeed inclined, to create ChatPRA. We want genuine human intelligence and expert judgement attuned to today’s circumstances, making the final decisions. But those decisions can be enabled through better access to, cleansing, filtering and visualisation of data, including modelled outputs. Longer term, we do envisage an approach with the supervisor or policy expert at the core, with information sifted and pushed to them as it is collected (alerts) or pulled as needed. We will be making far more systematic use of structured and unstructured data, both publicly and privately available to us, asking timely and informed questions of your leadership teams, probing emerging issues, risks and opportunities in your businesses. We believe our informed, constructive, strong prudential framework of rules and supervision will benefit a growing and innovating financial sector that is competitive on the international stage.
+Conclusion
+In conclusion, I hope I have convinced you that starship PRA is navigating a sound course; that we have a strong strategy to explore firms both through quieter times and crisis; that we are committed to promoting a dynamic industry in which we might seek new innovations and firms; and that through RegTech and Transforming Data Collection we can push out the efficient frontier and regulate as no one has before.
+You will note I have not promised to reach the final frontier. That is implausible in a 5-year horizon given the scale and complexity of this challenge. More time will be needed but we are heading in the right direction. I invite you all to join me on this exciting journey. Completing our mission will require your input, by which I mean, primarily, ongoing engagement with our Banking Data Review and Transforming Data Collection. And I thank you greatly for your co-operation.
+I would like to thank Ben Dubow and James Proudman for their assistance in drafting these remarks.
+Thank you.
+Prudential Regulation Authority Business Plan 2022/23, 20 April 2022
+Joint letter to banks operating in the UK: Supervisory review of global equity finance businesses following the default of Archegos Capital Management, 10 December 2021
+New Tides, 20 July 2022
+The PRA’s approach of Responsible Openness is set out in
+PRA Supervisory Statement SS5/21
+.
+The PRA has to be satisfied that a firm is capable of meeting threshold conditions on an ongoing basis, including the requirement that it is capable of being effectively supervised by the PRA. For international banks, this will depend in part on the risks in the wider group being visible to the PRA, and the level of co-operation and information it is receiving from the firm and relevant overseas supervisory and resolution authorities.
+CP 5/22 - The Strong and Simple Framework: a definition of a Simpler-regime Firm, 29 April 2022
+CP 5/22 - The Strong and Simple Framework: a definition of a Simpler-regime Firm, 29 April 2022
+Close
+The PRA’s approach of Responsible Openness is set out in
+PRA Supervisory Statement SS5/21
+.
+The PRA has to be satisfied that a firm is capable of meeting threshold conditions on an ongoing basis, including the requirement that it is capable of being effectively supervised by the PRA. For international banks, this will depend in part on the risks in the wider group being visible to the PRA, and the level of co-operation and information it is receiving from the firm and relevant overseas supervisory and resolution authorities.
+Close
+New Tides, 20 July 2022
+Close
+Joint letter to banks operating in the UK: Supervisory review of global equity finance businesses following the default of Archegos Capital Management, 10 December 2021
+Close
+Prudential Regulation Authority Business Plan 2022/23, 20 April 2022
+Close
+Convert this page to PDF
+Other speeches
+Speech // Megan Greene
+02 June 2026
+Here we go again? Assessing the inflation...
+Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene
+Speech // Andrew Bailey
+29 May 2026
+Remaining anchored: Monetary Policy in an...
+Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey
+Speech // Andrew Bailey
+21 May 2026
+Can AI make cutlery? - speech by Andrew...
+Can AI make cutlery? - speech by Andrew Bailey
+Speech // Sarah Breeden
+19 May 2026
+Modernising money and markets − speech by...
+Modernising money and markets − speech by Sarah Breeden
+View more
+Other speeches
+Back to top

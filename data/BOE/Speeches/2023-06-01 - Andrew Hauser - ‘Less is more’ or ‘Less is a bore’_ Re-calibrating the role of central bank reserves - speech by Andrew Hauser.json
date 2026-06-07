@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "‘Less is more’ or ‘Less is a bore’? Re-calibrating the role of central bank reserves - speech by Andrew Hauser",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2023/november/andrew-hauser-keynote-speech-bank-of-england-watchers-conference",
+  "raw_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Hauser - ‘Less is more’ or ‘Less is a bore’_ Re-calibrating the role of central bank reserves - speech by Andrew Hauser.html",
+  "text_file_path": "data\\BOE\\Speeches\\2023-06-01 - Andrew Hauser - ‘Less is more’ or ‘Less is a bore’_ Re-calibrating the role of central bank reserves - speech by Andrew Hauser.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:16:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "78f87a56f785a38f64f6c9092deb3b16397e2606cc0b452e8f33db967638a83e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "BOE",
+  "category": "Speeches",
+  "title": "Frenemies at the gates − speech by Rebecca Jackson",
+  "date_original": "2026",
+  "date_au": "01/06/2026",
+  "datetime_original": "",
+  "speaker": "Rebecca Jackson",
+  "speaker_role": "",
+  "source_url": "https://www.bankofengland.co.uk/speech/2026/february/rebecca-jackson-speech-on-intraday-risk-management-and-principal-trading",
+  "raw_file_path": "data\\BOE\\Speeches\\2026-06-01 - Rebecca Jackson - Frenemies at the gates − speech by Rebecca Jackson.html",
+  "text_file_path": "data\\BOE\\Speeches\\2026-06-01 - Rebecca Jackson - Frenemies at the gates − speech by Rebecca Jackson.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T03:09:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b96050a5e2f7c420e664996a56d7a6af390b349b7162f690deee0809442bbbe4"
+}

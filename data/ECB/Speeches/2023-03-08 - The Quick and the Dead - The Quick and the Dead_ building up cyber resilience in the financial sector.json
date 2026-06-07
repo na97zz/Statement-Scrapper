@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "The Quick and the Dead: building up cyber resilience in the financial sector",
+  "date_original": "2023-03-08",
+  "date_au": "08/03/2023",
+  "datetime_original": "",
+  "speaker": "The Quick and the Dead",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2023/html/ecb.sp230308~92211cd1f5.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2023-03-08 - The Quick and the Dead - The Quick and the Dead_ building up cyber resilience in the financial sector.html",
+  "text_file_path": "data\\ECB\\Speeches\\2023-03-08 - The Quick and the Dead - The Quick and the Dead_ building up cyber resilience in the financial sector.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:19:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bf63d85edc96d0487bf01fc6b73dfa1ee7b683f16fe2500f94c16dbf9bde08a0"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "ECB",
+  "category": "Speeches",
+  "title": "Financing a green and digital recovery",
+  "date_original": "2021-06-29",
+  "date_au": "29/06/2021",
+  "datetime_original": "",
+  "speaker": "Speech by Christine Lagarde",
+  "speaker_role": "",
+  "source_url": "https://www.ecb.europa.eu/press/key/date/2021/html/ecb.sp210629~e6458f8392.en.html",
+  "raw_file_path": "data\\ECB\\Speeches\\2021-06-29 - Speech by Christine Lagarde - Financing a green and digital recovery.html",
+  "text_file_path": "data\\ECB\\Speeches\\2021-06-29 - Speech by Christine Lagarde - Financing a green and digital recovery.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:22:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "11ebdf5a4ef88ddefcaae0ee8b5fd73605d3dd216d81d1e04e6f35035034c674"
+}

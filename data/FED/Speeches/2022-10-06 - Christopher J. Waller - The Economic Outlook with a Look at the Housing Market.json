@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "The Economic Outlook with a Look at the Housing Market",
+  "date_original": "2022-10-06",
+  "date_au": "06/10/2022",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20221006a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2022-10-06 - Christopher J. Waller - The Economic Outlook with a Look at the Housing Market.html",
+  "text_file_path": "data\\FED\\Speeches\\2022-10-06 - Christopher J. Waller - The Economic Outlook with a Look at the Housing Market.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:04:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1e6f5481a53931df2f337bb366031ea9ab2fa6d883e534d6087eb960d0acc3a8"
+}
