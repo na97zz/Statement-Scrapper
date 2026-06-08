@@ -613,8 +613,127 @@ def section_latest_appearances(docs: pd.DataFrame) -> None:
     st.markdown("</div>", unsafe_allow_html=True)
 
 
+def section_speeches_between_meetings(docs: pd.DataFrame, meetings: pd.DataFrame) -> None:
+    st.markdown(
+        """
+        <div class="research-panel">
+          <div class="panel-title">Speeches Between Meetings</div>
+        """,
+        unsafe_allow_html=True,
+    )
+    st.markdown("How are Fed officials communicating between FOMC decisions?")
+    
+    # Filter for speech types only
+    speech_types = {"speech", "interview", "testimony"}
+    speeches = docs[docs["document_subtype"].isin(speech_types)].copy()
+    speeches = speeches.sort_values("date")
+    
+    if speeches.empty:
+        st.info("No speeches, interviews, or testimony available.")
+        st.markdown("</div>", unsafe_allow_html=True)
+        return
+    
+    meetings_sorted = meetings.sort_values("date").copy()
+    
+    if HAS_PLOTLY:
+        fig = go.Figure()
+        
+        # Add speech data points
+        fig.add_trace(go.Scatter(
+            x=speeches["date"],
+            y=speeches["score"],
+            mode="markers",
+            marker=dict(
+                size=8,
+                color=speeches["score"],
+                colorscale="RdBu_r",
+                cmin=-10,
+                cmax=10,
+                colorbar=dict(title="Score"),
+                line=dict(width=1, color="white")
+            ),
+            text=[
+                f"<b>{row['speaker']}</b><br>" +
+                f"Date: {row['date'].strftime('%Y-%m-%d')}<br>" +
+                f"Score: {row['score']:.2f}<br>" +
+                f"Title: {row['title']}<br>" +
+                f"Type: {row['document_subtype']}"
+                for _, row in speeches.iterrows()
+            ],
+            hovertemplate="%{text}<extra></extra>",
+            name="Speeches"
+        ))
+        
+        # Add shapes for meeting vertical lines
+        shapes = []
+        annotations = []
+        for idx, (_, meeting) in enumerate(meetings_sorted.iterrows()):
+            meeting_date = pd.Timestamp(meeting["date"])
+            shapes.append(dict(
+                type="line",
+                x0=meeting_date,
+                x1=meeting_date,
+                y0=speeches["score"].min() - 1,
+                y1=speeches["score"].max() + 1,
+                line=dict(color="rgba(145, 166, 178, 0.5)", width=2, dash="dash")
+            ))
+            # Add annotation at the top
+            annotations.append(dict(
+                x=meeting_date,
+                y=speeches["score"].max() + 0.5,
+                text=str(meeting["meeting_id"]),
+                showarrow=False,
+                font=dict(size=10, color="rgba(145, 166, 178, 0.8)"),
+                xanchor="center"
+            ))
+        
+        # Add horizontal line at zero
+        fig.add_hline(y=0, line_dash="dot", line_color="#91a6b2")
+        
+        fig.update_layout(
+            template="plotly_dark",
+            height=500,
+            title="Speech Scores Between FOMC Meetings",
+            xaxis_title="Date",
+            yaxis_title="Hawkometer Score",
+            paper_bgcolor="#0f1b24",
+            plot_bgcolor="#0f1b24",
+            hovermode="closest",
+            shapes=shapes,
+            annotations=annotations
+        )
+        st.plotly_chart(fig, use_container_width=True, theme=None)
+    else:
+        st.line_chart(speeches.set_index("date")[["score"]])
+    
+    # Summary statistics by speaker
+    st.subheader("Speech Summary by Speaker")
+    
+    # Calculate latest score for each speaker more efficiently
+    latest_scores = speeches.sort_values("date").groupby("speaker").last()[["score", "date"]].reset_index()
+    latest_scores = latest_scores.rename(columns={"score": "latest_score", "date": "latest_date"})
+    
+    speaker_summary = speeches.groupby("speaker").agg(
+        speech_count=("doc_id", "count"),
+        avg_score=("score", "mean"),
+    ).round(2).sort_values("speech_count", ascending=False)
+    speaker_summary = speaker_summary.merge(latest_scores, on="speaker")
+    speaker_summary["latest_score"] = speaker_summary["latest_score"].round(2)
+    speaker_summary = speaker_summary.rename(columns={
+        "speech_count": "Count",
+        "avg_score": "Avg Score",
+        "latest_score": "Latest Score",
+        "latest_date": "Latest Date"
+    })
+    
+    st.dataframe(speaker_summary, width="stretch")
+    
+    st.markdown("</div>", unsafe_allow_html=True)
+
+
 def render_four_section_dashboard(docs: pd.DataFrame, meetings: pd.DataFrame) -> None:
     section_global_dashboard(meetings)
+    section_speeches_between_meetings(docs, meetings)
     section_per_bank(meetings)
     section_committee_glance(meetings)
     section_latest_appearances(docs)
@@ -921,8 +1040,16 @@ def page_lab_meeting_cycle_bridge(cycles: pd.DataFrame, docs: pd.DataFrame, phra
                     "color": [colour_map.get(str(item), "#f0b429") for item in timeline["next_decision"].fillna("unknown")],
                     "line": {"width": 1, "color": "#edf6f8"},
                 },
-                text=timeline["next_decision"].fillna("n/a"),
+                text=timeline.apply(
+                    lambda row: (
+                        f"{row['target_midpoint']:.2f}%<br>{row.get('next_decision') or 'n/a'}"
+                        if "target_midpoint" in row and pd.notna(row["target_midpoint"])
+                        else str(row.get("next_decision") or "n/a")
+                    ),
+                    axis=1,
+                ),
                 textposition="top center",
+                textfont={"size": 10, "family": "Arial Black"},
                 customdata=timeline[
                     [
                         "meeting_id",
@@ -956,21 +1083,65 @@ def page_lab_meeting_cycle_bridge(cycles: pd.DataFrame, docs: pd.DataFrame, phra
                 hovertemplate="%{x|%Y-%m-%d}<br>Statement score: %{y:.2f}<extra></extra>",
             )
         )
-        if "target_midpoint" in timeline.columns and timeline["target_midpoint"].notna().any():
+        speech_types = {"speech", "interview", "testimony"}
+        intermeeting_speeches = docs[
+            docs["document_subtype"].isin(speech_types)
+            & docs["date"].dt.year.between(2021, 2026, inclusive="both")
+        ].copy()
+        if not intermeeting_speeches.empty:
+            hawk_color_map = {
+                "Strongly Hawkish": "#ff1a26",
+                "Hawkish": "#ff7f83",
+                "Neutral-Hawkish": "#f0b429",
+                "Neutral": "#91a6b2",
+                "Neutral-Dovish": "#82c8e0",
+                "Dovish": "#4d8dff",
+                "Strongly Dovish": "#1a5eff",
+            }
+            # Build a continuous path: meeting FGI → speeches (sorted) → next meeting FGI
+            path_x, path_y = [], []
+            for _, m in timeline.sort_values("date").iterrows():
+                path_x.append(m["date"])
+                path_y.append(m["fgi"])
+                window = intermeeting_speeches[
+                    intermeeting_speeches["meeting_id"] == m["meeting_id"]
+                ].sort_values("date")
+                for _, sp in window.iterrows():
+                    path_x.append(sp["date"])
+                    path_y.append(sp["score"])
             fig.add_trace(
                 go.Scatter(
-                    x=timeline["date"],
-                    y=timeline["target_midpoint"],
-                    mode="lines+markers",
-                    name="Target rate midpoint",
-                    yaxis="y2",
-                    line={"color": "#f0b429", "width": 2},
-                    marker={"size": 7},
-                    customdata=timeline[["meeting_id", "target_midpoint", "next_target_midpoint"]].fillna("n/a"),
+                    x=path_x,
+                    y=path_y,
+                    mode="lines",
+                    name="Guidance path",
+                    line={"color": "rgba(200, 175, 130, 0.45)", "width": 1.2},
+                    hoverinfo="skip",
+                    showlegend=True,
+                )
+            )
+            fig.add_trace(
+                go.Scatter(
+                    x=intermeeting_speeches["date"],
+                    y=intermeeting_speeches["score"],
+                    mode="markers",
+                    name="Individual speeches",
+                    marker={
+                        "symbol": "diamond",
+                        "size": 7,
+                        "color": [hawk_color_map.get(str(c), "#91a6b2") for c in intermeeting_speeches["classification"].fillna("Neutral")],
+                        "opacity": 0.8,
+                        "line": {"width": 0.5, "color": "#0f1b24"},
+                    },
+                    customdata=intermeeting_speeches[["speaker", "title", "document_subtype", "meeting_id", "classification"]].fillna("n/a"),
                     hovertemplate=(
-                        "Meeting: %{customdata[0]}<br>"
-                        "Current target midpoint: %{customdata[1]}%<br>"
-                        "Next target midpoint: %{customdata[2]}%<extra></extra>"
+                        "%{x|%Y-%m-%d}<br>"
+                        "Speaker: %{customdata[0]}<br>"
+                        "Score: %{y:.2f}<br>"
+                        "Sentiment: %{customdata[4]}<br>"
+                        "Type: %{customdata[2]}<br>"
+                        "Meeting window: %{customdata[3]}<br>"
+                        "Title: %{customdata[1]}<extra></extra>"
                     ),
                 )
             )
@@ -986,13 +1157,6 @@ def page_lab_meeting_cycle_bridge(cycles: pd.DataFrame, docs: pd.DataFrame, phra
             title="Forward Guidance Timeline: Current Meeting to Next Decision",
             xaxis_title="Meeting date",
             yaxis_title="Score",
-            yaxis2={
-                "title": {"text": "Fed funds target midpoint (%)", "font": {"color": "#f0b429"}},
-                "overlaying": "y",
-                "side": "right",
-                "showgrid": False,
-                "tickfont": {"color": "#f0b429"},
-            },
             legend={"orientation": "h", "y": -0.22},
         )
         fig.update_xaxes(range=[pd.Timestamp("2021-01-01"), pd.Timestamp("2026-12-31")], gridcolor="#223541")
@@ -1028,6 +1192,83 @@ def page_lab_meeting_cycle_bridge(cycles: pd.DataFrame, docs: pd.DataFrame, phra
         }
     )
     st.dataframe(timeline_table, width="stretch", hide_index=True)
+
+    st.subheader("Individual Speeches Between Each Meeting")
+    st.markdown("Detailed view of each speech, interview, and testimony between consecutive FOMC meetings.")
+    
+    # Prepare speech data between meetings
+    speech_types = {"speech", "interview", "testimony"}
+    all_speeches = docs[docs["document_subtype"].isin(speech_types)].copy()
+    all_speeches = all_speeches.sort_values("date")
+    
+    if not all_speeches.empty and not timeline.empty:
+        if HAS_PLOTLY:
+            fig = go.Figure()
+            
+            # Add speech data points colored by speaker
+            speakers = all_speeches["speaker"].unique()
+            colors = px.colors.qualitative.Set3
+            speaker_colors = {speaker: colors[i % len(colors)] for i, speaker in enumerate(speakers)}
+            
+            for speaker in sorted(speakers):
+                speaker_speeches = all_speeches[all_speeches["speaker"].eq(speaker)]
+                fig.add_trace(go.Scatter(
+                    x=speaker_speeches["date"],
+                    y=speaker_speeches["score"],
+                    mode="markers",
+                    name=speaker,
+                    marker=dict(
+                        size=8,
+                        color=speaker_colors[speaker],
+                        line=dict(width=1, color="white")
+                    ),
+                    text=[
+                        f"<b>{row['speaker']}</b><br>" +
+                        f"Date: {row['date'].strftime('%Y-%m-%d')}<br>" +
+                        f"Score: {row['score']:.2f}<br>" +
+                        f"Title: {row['title']}<br>" +
+                        f"Type: {row['document_subtype']}"
+                        for _, row in speaker_speeches.iterrows()
+                    ],
+                    hovertemplate="%{text}<extra></extra>",
+                ))
+            
+            # Add meeting markers as vertical lines
+            for _, meeting in timeline.iterrows():
+                meeting_date = pd.Timestamp(meeting["date"])
+                fig.add_shape(
+                    type="line",
+                    x0=meeting_date, x1=meeting_date,
+                    y0=all_speeches["score"].min() - 1,
+                    y1=all_speeches["score"].max() + 1,
+                    line=dict(color="rgba(145, 166, 178, 0.5)", width=2, dash="dash")
+                )
+                fig.add_annotation(
+                    x=meeting_date,
+                    y=all_speeches["score"].max() + 0.3,
+                    text=str(meeting["meeting_id"]),
+                    showarrow=False,
+                    font=dict(size=9, color="rgba(145, 166, 178, 0.8)"),
+                    xanchor="center"
+                )
+            
+            # Add zero line
+            fig.add_hline(y=0, line_dash="dot", line_color="#91a6b2")
+            
+            fig.update_layout(
+                template="plotly_dark",
+                height=450,
+                title="All Speeches by Speaker Between Meetings (2021-2026)",
+                xaxis_title="Date",
+                yaxis_title="Hawkometer Score",
+                paper_bgcolor="#0f1b24",
+                plot_bgcolor="#0f1b24",
+                hovermode="closest",
+                legend={"orientation": "v", "x": 1.01, "y": 1},
+            )
+            fig.update_xaxes(range=[all_speeches["date"].min() - pd.Timedelta(days=30), all_speeches["date"].max() + pd.Timedelta(days=30)], gridcolor="#223541")
+            fig.update_yaxes(gridcolor="#223541")
+            st.plotly_chart(fig, use_container_width=True, theme=None)
 
     options = cycles.sort_values("date", ascending=False)["meeting_id"].tolist()
     default_index = 1 if len(options) > 1 else 0
