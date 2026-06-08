@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement May 2021",
+  "date_original": "2021-05-25",
+  "date_au": "25/05/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2021/mpsmay21.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2021-05-25 - Monetary Policy Statement May 2021.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2021-05-25 - Monetary Policy Statement May 2021.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:01",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/monetary-policy-statement-may-2021",
+  "content_sha256": "51cc1385d1f4f1df12b9223f706141063af6a20f537a6a128a55d33d7cf3d7e2"
+}

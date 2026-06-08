@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Artificial Intelligence in the Financial System",
+  "date_original": "2026-05-01",
+  "date_au": "01/05/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260501a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-01 - Michelle W. Bowman - Artificial Intelligence in the Financial System.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-01 - Michelle W. Bowman - Artificial Intelligence in the Financial System.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "425040330552dc40715c6db43af8ff35e615403c7b52c4ca9a20d409b4018e2f"
+}

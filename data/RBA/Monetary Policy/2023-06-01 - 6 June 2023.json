@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Monetary Policy",
+  "title": "6 June 2023",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/media-releases/2023/mr-23-13.html",
+  "raw_file_path": "data\\RBA\\Monetary Policy\\2023-06-01 - 6 June 2023.html",
+  "text_file_path": "data\\RBA\\Monetary Policy\\2023-06-01 - 6 June 2023.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:26:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2337decf60dede92acc558151146fd132a620dab01c21a1894d8f32ff39be303"
+}

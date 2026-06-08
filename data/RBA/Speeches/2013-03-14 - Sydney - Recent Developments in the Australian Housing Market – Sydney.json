@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Developments in the Australian Housing Market – Sydney",
+  "date_original": "14 March 2013",
+  "date_au": "14/03/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-140313.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-03-14 - Sydney - Recent Developments in the Australian Housing Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-03-14 - Sydney - Recent Developments in the Australian Housing Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f86e7e16f94ac43ff186226db724d15f64d2e3ed946a8043fc911aad0e830fe"
+}

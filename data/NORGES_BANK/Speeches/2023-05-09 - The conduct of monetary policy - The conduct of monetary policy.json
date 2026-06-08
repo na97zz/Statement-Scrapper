@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "The conduct of monetary policy",
+  "date_original": "2023-05-09",
+  "date_au": "09/05/2023",
+  "datetime_original": "",
+  "speaker": "The conduct of monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2023/2023-05-09-storting/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2023-05-09 - The conduct of monetary policy - The conduct of monetary policy.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2023-05-09 - The conduct of monetary policy - The conduct of monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5632eba00ba5b5b00b5b3e64dd5fc15b0be6937ce3f4fee70adb87bf6d3f0af4"
+}

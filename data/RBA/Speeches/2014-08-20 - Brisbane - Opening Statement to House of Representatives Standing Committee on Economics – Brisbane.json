@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to House of Representatives Standing Committee on Economics – Brisbane",
+  "date_original": "20 August 2014",
+  "date_au": "20/08/2014",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-200814.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-08-20 - Brisbane - Opening Statement to House of Representatives Standing Committee on Economics – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-08-20 - Brisbane - Opening Statement to House of Representatives Standing Committee on Economics – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0a9c28346742285eb40ff282dc94537b07f419038b2e5038376b317f5ae67a7a"
+}

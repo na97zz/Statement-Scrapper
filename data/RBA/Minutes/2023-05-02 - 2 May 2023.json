@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "2 May 2023",
+  "date_original": "2023-05-02",
+  "date_au": "02/05/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2023/2023-05-02.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2023-05-02 - 2 May 2023.html",
+  "text_file_path": "data\\RBA\\Minutes\\2023-05-02 - 2 May 2023.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:24:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bd372ff0d7780c731edddf18b917695a04096ef47c530d23d62f1c96dd679b3f"
+}

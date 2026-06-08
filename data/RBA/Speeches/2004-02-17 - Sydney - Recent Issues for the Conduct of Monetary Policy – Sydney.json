@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Issues for the Conduct of Monetary Policy – Sydney",
+  "date_original": "17 February 2004",
+  "date_au": "17/02/2004",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-dg-170204.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2004-02-17 - Sydney - Recent Issues for the Conduct of Monetary Policy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2004-02-17 - Sydney - Recent Issues for the Conduct of Monetary Policy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "12d185871080ee90d21414db06a934fa02371d98325efeb196e8041ccb2f07ef"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Speech on lessons from monetary and fiscal policy during COVID-19",
+  "date_original": "2025-10-15",
+  "date_au": "15/10/2025",
+  "datetime_original": "",
+  "speaker": "By Paul Conway",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2025/lessons-from-monetary-and-fiscal-policy-during-covid-19-speech.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2025-10-15 - By Paul Conway - Speech on lessons from monetary and fiscal policy during COVID-19.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2025-10-15 - By Paul Conway - Speech on lessons from monetary and fiscal policy during COVID-19.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:45",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2025/october/speech-on-lessons-from-monetary-and-fiscal-policy-during-covid-19",
+  "content_sha256": "5aa2652130edb41d6af2c324fb347616b2d5bd1753dfc885041d4df7a7b73e52"
+}

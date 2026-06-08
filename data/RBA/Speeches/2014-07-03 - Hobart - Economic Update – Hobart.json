@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Update – Hobart",
+  "date_original": "3 July 2014",
+  "date_au": "03/07/2014",
+  "datetime_original": "",
+  "speaker": "Hobart",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-030714.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-07-03 - Hobart - Economic Update – Hobart.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-07-03 - Hobart - Economic Update – Hobart.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "45dca796e81d28e1e3525d2efc89cbb19a77aa7f34ce3bed4f86d2b2e4410d18"
+}

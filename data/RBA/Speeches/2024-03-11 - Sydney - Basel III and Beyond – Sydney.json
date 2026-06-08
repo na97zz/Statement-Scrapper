@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Basel III and Beyond – Sydney",
+  "date_original": "2024-03-11",
+  "date_au": "11/03/2024",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-ag-240311.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-03-11 - Sydney - Basel III and Beyond – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-03-11 - Sydney - Basel III and Beyond – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bae116d68fd8cf0c6303f5380233664e40f52f79ead12965bcde7d930560cd2f"
+}

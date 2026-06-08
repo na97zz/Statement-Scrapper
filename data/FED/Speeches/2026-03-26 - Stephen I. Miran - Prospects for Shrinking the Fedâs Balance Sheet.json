@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Prospects for Shrinking the Fedâs Balance Sheet",
+  "date_original": "2026-03-26",
+  "date_au": "26/03/2026",
+  "datetime_original": "",
+  "speaker": "Stephen I. Miran",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-26 - Stephen I. Miran - Prospects for Shrinking the Fedâs Balance Sheet.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-26 - Stephen I. Miran - Prospects for Shrinking the Fedâs Balance Sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "454466e42b4fe2bad6bb90048b8fdc67c2cd032544a75f34b8bc04132edd6aea"
+}

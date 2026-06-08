@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Medium-Term Economic Prospects for Australia – Sydney",
+  "date_original": "14 October 2002",
+  "date_au": "14/10/2002",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-dg-141002.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2002-10-14 - Sydney - Medium-Term Economic Prospects for Australia – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2002-10-14 - Sydney - Medium-Term Economic Prospects for Australia – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ecd592cbf68cddc88ee70e4501ef58bdffb3e16c2b00c30d8fc179538ba51f72"
+}

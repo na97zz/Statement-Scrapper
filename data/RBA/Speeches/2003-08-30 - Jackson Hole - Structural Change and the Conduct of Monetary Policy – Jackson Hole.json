@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Structural Change and the Conduct of Monetary Policy – Jackson Hole",
+  "date_original": "30 August 2003",
+  "date_au": "30/08/2003",
+  "datetime_original": "",
+  "speaker": "Jackson Hole",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2003/sp-dg-300803.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2003-08-30 - Jackson Hole - Structural Change and the Conduct of Monetary Policy – Jackson Hole.html",
+  "text_file_path": "data\\RBA\\Speeches\\2003-08-30 - Jackson Hole - Structural Change and the Conduct of Monetary Policy – Jackson Hole.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "682c3743e82804ab75099b0a83e5769e4788bfb2eec29473b896a3486e61b334"
+}

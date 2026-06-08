@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Aino Bunge Inflation Is Still High",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Aino Bunge",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2023/aino-bunge-inflation-is-still-high/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Aino Bunge - Aino Bunge Inflation Is Still High.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Aino Bunge - Aino Bunge Inflation Is Still High.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:05:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dbd7a141e1910b39844e6f27e8ed88122b625f6650da81dfdb6f1ecaf5f426b6"
+}

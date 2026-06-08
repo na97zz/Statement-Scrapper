@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions in Post-Pandemic Australia with a Regional Lens",
+  "date_original": "2024-08-08",
+  "date_au": "08/08/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-gov-2024-08-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-08-08 - Economic Conditions in Post-Pandemic Australia with a Regional Lens.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-08-08 - Economic Conditions in Post-Pandemic Australia with a Regional Lens.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2c03db4d90326bcda04245fe73922fb67c5c3aff90b29bc4ba7b243a55458b2a"
+}

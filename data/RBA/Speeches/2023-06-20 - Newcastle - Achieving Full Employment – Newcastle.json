@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Achieving Full Employment – Newcastle",
+  "date_original": "2023-06-20",
+  "date_au": "20/06/2023",
+  "datetime_original": "",
+  "speaker": "Newcastle",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-dg-2023-06-20.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-06-20 - Newcastle - Achieving Full Employment – Newcastle.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-06-20 - Newcastle - Achieving Full Employment – Newcastle.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "65c3bc03ae487f37a2a1b3eac90823b271b8a0ab06b9e434a8f991ed41b86c7e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Evolving Economic Outlook – Sydney",
+  "date_original": "5 March 2008",
+  "date_au": "05/03/2008",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-ag-ec-050308.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-03-05 - Sydney - The Evolving Economic Outlook – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-03-05 - Sydney - The Evolving Economic Outlook – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dcfdf0253d0304d8a1f3fda854c07db26777827f3c71d7f65ddd70dc51b2bf67"
+}

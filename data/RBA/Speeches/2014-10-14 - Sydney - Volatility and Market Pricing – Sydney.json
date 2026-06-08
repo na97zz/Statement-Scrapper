@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Volatility and Market Pricing – Sydney",
+  "date_original": "14 October 2014",
+  "date_au": "14/10/2014",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-ag-141014.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-10-14 - Sydney - Volatility and Market Pricing – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-10-14 - Sydney - Volatility and Market Pricing – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e150c754895a537d7b90ae3a2d15fe31d4697b13fb52b860bdb4da7ce98ebd6a"
+}

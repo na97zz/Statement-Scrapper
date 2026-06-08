@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Australian Experience with Inflation Targeting – Rio de Janeiro",
+  "date_original": "15 May 2009",
+  "date_au": "15/05/2009",
+  "datetime_original": "",
+  "speaker": "Rio de Janeiro",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-150509.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-05-15 - Rio de Janeiro - The Australian Experience with Inflation Targeting – Rio de Janeiro.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-05-15 - Rio de Janeiro - The Australian Experience with Inflation Targeting – Rio de Janeiro.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2b4008620216387425e5c3da2f79aceebfc5b96e11230e1b9c87510c93974942"
+}

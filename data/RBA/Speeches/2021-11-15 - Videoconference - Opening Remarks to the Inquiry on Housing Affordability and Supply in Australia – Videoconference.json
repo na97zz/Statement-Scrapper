@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Remarks to the Inquiry on Housing Affordability and Supply in Australia – Videoconference",
+  "date_original": "2021-11-15",
+  "date_au": "15/11/2021",
+  "datetime_original": "",
+  "speaker": "Videoconference",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-ag-2021-11-15.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-15 - Videoconference - Opening Remarks to the Inquiry on Housing Affordability and Supply in Australia – Videoconference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-15 - Videoconference - Opening Remarks to the Inquiry on Housing Affordability and Supply in Australia – Videoconference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7ff2ba787fdafeb485992ef855920f6899192e723936171f89dc65f7f921633d"
+}

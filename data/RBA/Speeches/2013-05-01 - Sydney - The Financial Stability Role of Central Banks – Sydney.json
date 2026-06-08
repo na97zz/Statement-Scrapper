@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Financial Stability Role of Central Banks – Sydney",
+  "date_original": "1 May 2013",
+  "date_au": "01/05/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-010513.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-05-01 - Sydney - The Financial Stability Role of Central Banks – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-05-01 - Sydney - The Financial Stability Role of Central Banks – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b1d89401e5a171518c9da4b1c00d681ca2f1bf1cdf1376a5fa35624b2c1634cf"
+}

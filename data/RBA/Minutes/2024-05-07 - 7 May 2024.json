@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "7 May 2024",
+  "date_original": "2024-05-07",
+  "date_au": "07/05/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2024/2024-05-07.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2024-05-07 - 7 May 2024.html",
+  "text_file_path": "data\\RBA\\Minutes\\2024-05-07 - 7 May 2024.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:24:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4ff779d57aecd6bbaa5819cb008e783e6365f896817834a833629d331f0c748b"
+}

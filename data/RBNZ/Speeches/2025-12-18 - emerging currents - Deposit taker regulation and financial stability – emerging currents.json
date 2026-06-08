@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Deposit taker regulation and financial stability – emerging currents",
+  "date_original": "2025-12-18",
+  "date_au": "18/12/2025",
+  "datetime_original": "",
+  "speaker": "emerging currents",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2025/deposit-taker-regulation-and-financial-stability---emerging-currents.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2025-12-18 - emerging currents - Deposit taker regulation and financial stability – emerging currents.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2025-12-18 - emerging currents - Deposit taker regulation and financial stability – emerging currents.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:44",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2025/deposit-taker-regulation-and-finanacial-stability-emerging-currents",
+  "content_sha256": "9d17cb61b801d0cb6a6337f625d3afab270faa478ab49b280cd868007bd6c3e4"
+}

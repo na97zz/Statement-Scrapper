@@ -1,0 +1,480 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: The Economics of a Central Bank Digital Currency in Australia – Sydney
+DATE: 08/12/2022
+SPEAKER: Sydney
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2022/sp-ag-2022-12-08.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+The Economics of a Central Bank Digital Currency in Australia
+Brad Jones
+[
+*
+]
+Assistant Governor (Financial System)
+17th Central Bank Conference on the Microstructure of Financial Markets
+Sydney
+–
+8 December 2022
+Audio
+15.7MB
+Download
+686KB
+It is a great pleasure to welcome you to this conference at what is an intensely interesting juncture for
+ all things digital finance.
+When the industrial revolution took root, it spurred growth in commercial exchange on a previously
+ unimaginable scale. Money played a complementary role in facilitating this economic transformation, one
+ that led to an unprecedented increase in living standards. A couple of centuries on, it is the digital
+ revolution that is reshaping the economy and raising important questions over the future of money. The
+ fundamental issue boils down to this: is our money fit-for-purpose in the digital age and, if not, how
+ can we make it so?
+There is no shortage of excitable commentary about the future of money in the digital era – how and
+ by whom it might be created, what forms it might take, and what roles it might play. But sometimes lost
+ in this excitement is a clear articulation of the economic problems that new forms of digital money might
+ solve, particularly in countries like Australia with a modern, well-functioning payments system.
+Today I will discuss where the case for a central bank digital currency (CBDC) in Australia fits into the
+ wider international debate over the future of money. To anchor the discussion, I will begin by setting
+ out some foundational features of today’s two-tier monetary system that comprises public and private
+ money and payment services. I will then turn to the arguments advanced for and against CBDCs
+ internationally, and how they translate to an Australian context. Finally, I will provide an update on
+ the CBDC pilot project the Reserve Bank is engaged in.
+Throughout I will focus on a general purpose (‘retail’) CBDC – a digital claim on the
+ Reserve Bank that is widely available to the public. This recognises that a wholesale CBDC would entail
+ less change to the status quo, as financial institutions already hold digital claims (‘Exchange
+ Settlement balances’) issued by the Bank. And to do justice to the economic and financial stability
+ issues raised by CBDCs, I will leave others to weigh in on the many technological, legal and regulatory
+ considerations.
+[1]
+First principles: The foundations of our two-tier monetary system
+It is not difficult to encounter wildly competing visions for the future of the monetary system. At one
+ extreme is a view that a CBDC could crowd out all alternative forms of money – after all, it would
+ be easier to hold in unlimited quantities than physical cash, and unlike commercial bank deposits it
+ would be free of credit and liquidity risk. At another extreme is a view that private digital money will
+ proliferate at the expense of central bank money in response to growing distrust of public institutions,
+ the move to a cashless society, and the inability or unwillingness of public entities to modernise the
+ money and payment systems in a manner befitting the digital age. A myriad of other scenarios lie in
+ between.
+But as we try to imagine how our monetary arrangements could evolve, we might do well to first reflect on
+ the underpinnings of today’s two-tier monetary system where central bank and private money
+ successfully co-exist. They do so in different forms and for different purposes. Underpinning this system
+ is a symbiotic relationship and clear division of roles between public and private sector entities that,
+ I will contend, is likely to remain as relevant as ever in the digital age.
+Take the co-existence of central bank and private money. Today, central bank money comprises banknotes
+ issued to the general public, and digital deposits at the central bank issued to financial institutions
+ and government agencies. But in Australia, as elsewhere, this is just a small fraction of the total value
+ of money circulating in the economy; most money now consists of digital deposits issued to households and
+ firms by regulated private institutions like banks (Graph 1). Alongside the belief that
+ privately-issued deposits will be readily accepted in exchange for goods and services, what helps to
+ underpin this arrangement is the expectation that privately-issued deposits can be redeemed at a fixed
+ value (1:1) at any time into safe and liquid central bank money. That is, 10 digital dollars in a
+ private bank account can be converted into a 10 dollar note issued by the central bank. But as with
+ any fixed exchange rate regime, the prospect of convertibility has to be credible if the system is to
+ hold.
+Graph 1
+More broadly, the role of central banks in this two-tier monetary system has evolved to include the
+ provision of the following public goods:
+[2]
+First is the responsive and prudent supply of central bank money – banknotes to the general
+ public and digital deposits to regulated financial institutions – consistent with the economic
+ demands for it. These demands relate to the core functions of central bank money as a reliable medium
+ of exchange, store of value and unit of account.
+[3]
+Second is the use of the central bank balance sheet and operational infrastructure to ensure the
+ final and irrevocable settlement of payments between regulated financial intermediaries.
+[4]
+Third is to combine with other government agencies to underwrite confidence in the monetary system,
+ including by forestalling stress in key financial institutions that could otherwise severely disrupt
+ economic activity. This is achieved through an effective supervisory and regulatory regime,
+ government insurance of customer deposits and the ‘lender of last resort’ powers of the
+ central bank.
+These public goods provide a foundational level of trust in monetary exchange – trust in the value
+ of money, trust in the finality of settlement and trust in the stability of the wider financial system.
+ This is not just of historical interest – the recent lived experience with private digital
+ currencies has been that a system is more efficient and resilient when there is no fundamental trust
+ deficit to solve.
+This might then beg the question: why bother at all with private money and payment services? Why
+ doesn’t the central bank and government more broadly supply and administer the entire monetary
+ system?
+The reason is that the needs of the economy are best met when a diverse ecosystem of private entities are
+ adapting business models, innovating, driving efficiencies, and offering households and firms choice as
+ their money and payment preferences evolve. As I will return to later, central banks don’t have a
+ comparative advantage in providing customer-facing services directly to households and firms. But they
+ can facilitate better economic outcomes by providing foundational public goods, safeguarding integrity in
+ the system and levelling the playing field for the sort of competition in money and payment services that
+ leads to more value at a reduced cost for households and firms. A payment stablecoin, fully backed by
+ central bank money and government securities, issued by a regulated institution, and held in a digital
+ wallet supplied by a non-bank payment service provider, is just one of many possible examples of the
+ tiering of public and private money and payment services.
+All of this is to say that whatever the functional forms that central bank and private money end up taking
+ in the years ahead, there are good reasons to think they will reflect most – if not all – of
+ the synergies inherent in today’s two-tier system.
+What problems would an Australian CBDC solve?
+Internationally, there have been a range of motivations underlying interest in a retail CBDC; to date,
+ central banks in emerging market economies have been more favourably disposed than those in advanced
+ economies (Graph 2). I will now turn to how these arguments translate to an Australian context.
+Graph 2
+For some low-income countries where many households and small businesses are left unbanked because of
+ constraints on the provision of services, a key motivation for issuing a CBDC has been to
+strengthen financial inclusion
+. But, in Australia, a very small proportion of households
+ are without access to banking and payment services, and it is not obvious how a CBDC would bring them
+ into the fold.
+A related motivation in some countries has been to
+support universal access to public
+ money
+where banknotes are hard to access or sparingly used. Sweden is one notable example.
+ But physical cash in Australia remains accessible and still appears valued by households. Recent surveys
+ indicate around 95 per cent of Australians live within 4 kilometres of a cash withdrawal
+ point, and around 15 per cent make most of their payments using cash.
+[5]
+While
+ transactional demand for banknotes in Australia is clearly in structural decline, the value of banknotes
+ in circulation has risen over the past decade (Graph 3). This suggests that cash is still viewed as
+ a useful backup for electronic payments and as a store of wealth in Australia.
+Graph 3
+Another reason for interest in CBDC is that it could yield
+privacy benefits
+, including
+ better control of personal data, and so encourage more commercial exchange. The argument here is that
+ consumers might forgo transactions in private digital money for fear of leaving a digital trail that
+ private organisations (and nefarious actors) could readily exploit; by contrast, central banks don’t
+ have an incentive to exploit personal data on transactions in CBDC for commercial gain.
+[6]
+However,
+ it is unclear that ‘digital exchange rationing’ of this sort is a first-order issue in
+ Australia. Even if it was, a CBDC will give rise to other privacy and security trade-offs, and central
+ banks are not seeking to replicate the anonymity features of physical cash that can leave it vulnerable
+ to theft and use in illicit activity (issues that cryptocurrency have not addressed). Whether held as a
+ token-based bearer instrument or in account-based form, a CBDC would still generate a digital footprint,
+ over which the central bank, law enforcement agencies and private service providers would need differing
+ degrees of oversight.
+[7]
+A different proposition is that a CBDC could help to
+safeguard monetary sovereignty.
+The
+ concern here is that a stablecoin or foreign CBDC could fill the vacuum in the domestic monetary system
+ in the event that the public had no access to a domestic CBDC and banknotes issued by the central bank no
+ longer freely circulated. This would amount to a form of currency substitution, which would complicate
+ the conduct of monetary policy and the safeguarding of financial stability. The authorities in China and
+ the euro area have been particularly wary of the risk that large and unregulated
+ (‘walled-garden’) tech companies could exploit network effects and dominate the monetary and
+ payments landscape in the absence of a domestic CBDC. Other countries have expressed concerns over the
+ geopolitical implications of a foreign CBDC circulating at home.
+However, the history of currency substitution indicates it is more likely to occur in economies where
+ institutions and the rule of law are weak, and residents (and foreign investors) have good reason to
+ question the integrity of the domestic currency – conditions not apparent in Australia. It is also
+ worth noting that lawmakers and central bankers in the United States generally remain unconvinced about
+ the case for a CBDC; it is certainly the case that the underlying reasons for the ongoing predominance of
+ the U.S. dollar in international trade and finance have little to do with its technical form.
+[8]
+And
+ quite aside from the legal issues involved, I find it next to impossible to conceive of a world where say
+ a digital Chinese yuan, Swedish krona or euro (as early movers) emerged as the digital currency of choice
+ for Australians.
+If the arguments I have listed so far fail to offer compelling support for a CBDC in Australia, let me now
+ turn to others that potentially hold more promise.
+One is that a CBDC could enhance the
+resilience
+of the money and payments system. The
+ risk of physical disruptions in money and payment services is most pressing for low-income countries with
+ limited capacity and that are prone to natural disasters. That said, recent extreme weather events in
+ Australia have reminded us that existing electronic and physical cash distribution networks can also be
+ severely disrupted on occasion. And cyber-induced disruptions represent a universal risk from which
+ Australia is not immune. More generally, if a CBDC expanded the universe of widely accepted money, it
+ could provide an additional source of redundancy, including when electronic communication and power
+ networks are disrupted. This could include supporting government payments and peer-to-peer transfers in
+ an offline environment, with programmability features – including value or time limits and
+ restrictions on double spending – to safeguard their use.
+A CBDC might also strengthen financial system resilience in other ways. One could be by increasing
+ liquidity in markets for real and financial assets, where small-scale fractional ownership is facilitated
+ by trade in digital tokens. Another is by reducing settlement risk, just as credit and liquidity risk is
+ eliminated when interbank payments are settled across the Reserve Bank balance sheet via Exchange
+ Settlement balances. Resilience and efficiency benefits might be largest for transactions in high-value
+ unlisted assets where lengthy settlement times are common, such as real estate. One possibility here is
+ that the cumbersome operation of private money exchange via escrow accounts could give way to
+ ‘atomic’ (instantaneous and final) settlement in CBDC, executed through programmable smart
+ contracts. As with the example of offline payments, this concept is being examined further in the Reserve
+ Bank’s pilot program. Of course, other types of money, like reserve-backed payment stablecoins,
+ might also achieve a similar ends.
+A final key reason behind the international interest in CBDC is that it could
+increase competition
+ and efficiency in the payments system while reducing user costs
+. A CBDC might increase
+ competition directly, by competing with existing payment methods, and indirectly, by serving as a
+ platform that lowers the barriers to entry for firms (especially non-banks) offering new services.
+[9]
+This
+ would be particularly welcome by small merchants, who continue to face significant costs in accepting
+ electronic payments.
+[10]
+And cross-border payments seem particularly ripe for
+ disruption − in Australia, as in many advanced economies, cross-border retail money transfers conducted
+ via banks can routinely cost 5 per cent or more (well above the G20 target of
+ 1 per cent) and take up to two business days to settle. This is clearly unsatisfactory and
+ explains why cross-border payments are an area of intense focus for policymakers.
+[11]
+Even
+ in the absence of an interoperable CBDC, non-bank money transfer operators in Australia have started to
+ drive down costs and speed up settlement times in cross-border payments.
+On the broader issue of efficiency, it is worth noting, however, that Australians already enjoy access to
+ a real-time payments system – the New Payments Platform (NPP). The NPP was launched in 2018 through
+ Reserve Bank and industry collaboration to enable households, businesses and government agencies to make
+ payments with rich remittance information and real-time funds availability on a
+24/7
+basis. Take up of the NPP has compared favourably to other countries
+ (Graph 4), and a number of initiatives are underway (including on cross-border payments) to further
+ enhance its functionality. It remains an open question as to whether these efforts end up producing
+ efficiency outcomes similar to those that could be offered by a CBDC.
+Graph 4
+From potential benefits to potential costs: Should we worry about a CBDC?
+While the prospect of CBDC issuance has aroused considerable international interest, so too has it raised
+ concerns. Among these, two are most relevant to Australian circumstances given the significant role of
+ banks in our financial system:
+the potential to disrupt bank intermediation and monetary policy transmission in normal times
+the potential to give rise to bank runs in stressed conditions.
+[12]
+To be clear, neither risk is unique to Australia. But it bears mentioning that the Australian banking
+ system sources 60 per cent of its funding from relatively low-cost deposits (mostly ‘at
+ call’), a 20 percentage point increase since the global financial crisis (Graph 5;
+ Graph 6). Small and regional banks are even more reliant on deposit funding as they have limited, if
+ any, access to wholesale market funding.
+Graph 5
+Graph 6
+The first of these concerns relates to the potential for a CBDC to become the preferred source of
+ liquidity holdings for households in normal times, at the expense of commercial bank deposits. Central
+ banks could find themselves awash in household deposits they don’t need and can’t usefully
+ invest; control over the size of central bank balance sheets would be ceded in the process. Meanwhile,
+ commercial banks, which do need deposits to finance their operations, could have their funding and
+ lending channels significantly affected, disrupting monetary policy transmission in the process. For any
+ given policy rate, banks might have to offer higher deposit rates than otherwise, or raise more funding
+ from higher cost and/or more volatile sources. All else equal, this could dampen their ability or
+ incentive to lend, and impede their ability to build capital buffers.
+[13]
+At a minimum, careful
+ consideration would need to be given to the transition risks associated with new bank funding and lending
+ models resulting from the introduction of a CBDC.
+I should acknowledge here that some researchers have proposed possible workarounds, but none are
+ straightforward. For instance, banks might opt to compete harder for low-cost deposits on safety grounds,
+ by providing loans only to the very highest quality borrowers. But this could disrupt credit supply in
+ another way − by starving otherwise creditworthy borrowers of access to funding. Alternatively, some have
+ suggested that a CBDC would have little effect on bank funding and lending if central banks extended to
+ them plentiful cheap loans as compensation for the loss of household deposits.
+[14]
+However, a commercial banking system that was largely directly funded by a central bank would overturn
+ centuries-long practice and raise a litany of other issues. Separately, while non-bank lenders in
+ Australia do not rely on deposit funding and so may be less directly affected by a CBDC compared to
+ banks, it is worth recalling that these entities are not prudentially regulated; a material increase in
+ their lending market share might therefore necessitate closer regulatory scrutiny.
+What if a CBDC was remunerated at an interest rate a little below the policy rate? Might this aid in
+ monetary policy transmission when policy rates are at the lower bound?
+[15]
+It is certainly possible. But
+ to be fully effective, it would necessitate phasing out banknotes, as the higher return on physical cash
+ (zero) would likely prompt some substitution out of CBDC. Yet major central banks, including the Reserve
+ Bank, have committed to continue to make banknotes available to the public. Moreover, most central banks
+ have indicated that the use of CBDC as a monetary policy tool is not the focus of their research.
+[16]
+The
+ emphasis instead is on a ‘digital banknote’ that would complement physical cash, not replace
+ it. This translates to elastically supplying a CBDC that, like physical cash, pays the holder no
+ interest.
+A second concern associated with the issuance of a CBDC is that it could threaten financial stability by
+ facilitating bank runs if households lost confidence in banks. Access to a risk-free CBDC could increase
+ the ability for panicked households to substitute out of bank deposits en masse. As bank deposits could
+ be converted into CBDC at the stroke of a keyboard, it would be faster and easier to run into a CBDC than
+ to queue outside a commercial bank and bury physical cash in the yard or under the mattress.
+There is no universal consensus among researchers as to just how big an issue this might be. Some have
+ even gone so far as to suggest that a CBDC could enhance financial stability.
+[17]
+One
+ way could be by providing authorities with better real-time information on deposit flows, enabling them
+ to respond faster to runs, and thereby reducing depositors’ incentive to run in the first place. And
+ because banks would be well aware of this risk, they might manage liquidity more prudently than
+ otherwise. But these arguments are contested, and personally, I don’t find them persuasive.
+Rather, the main focus of central banks has been to examine measures that could forestall bank runs
+ involving CBDC, or least restrict their impact. These typically involve a combination of limits on
+ holdings or transaction sizes, penalties on bank deposit withdrawals (similar to some money market funds)
+ and negative interest rates on CBDC in periods of stress. What such measures have in common is an effort
+ to restrict the use of a CBDC. To my mind, this raises questions around whether the benefits of a CBDC
+ would be mostly forfeited in the process. At a minimum, making banks more robust to runnable deposits in
+ the presence of a CBDC seems a topic worthy of more analysis. Budding graduate students take note!
+The bottom line here is that much will depend on CBDC design choices, and there are many complex issues
+ that would need to be carefully weighed ahead of any decision to proceed with issuing a CBDC.
+The eAUD pilot program
+To further the Bank’s understanding of the benefits and risks that could follow from the issuance of
+ a CBDC in Australia, the Bank has been engaged in a pilot ‘eAUD’ program with the Digital
+ Finance Cooperative Research Centre (DFCRC).
+[18]
+The program is exploring a variety of possible use
+ cases and builds on the Bank’s earlier proof-of-concept exercises in CBDC.
+[19]
+There are two unique features to this eAUD initiative. First, we have not prescribed use cases in advance.
+ Rather, the program has been established as a blank canvas for industry to propose their own use cases.
+ This recognises that in countries like Australia that already have modern, well-functioning payment
+ systems, and where central bank-issued notes are still readily available to the public, the merits of
+ introducing a CBDC are less obvious. Second, the pilot phase will entail the Reserve Bank issuing a real
+ digital claim to approved use case providers.
+In response to our call for submissions, the program has attracted much more interest from industry than
+ we anticipated – more than 140 use case proposals from around 80 entities have been
+ submitted. The use cases span everything from e-commerce payments, to offline payments, government
+ payments, and the trading and settlement of tokenised assets. A wide range of use case providers have
+ lodged submissions, ranging from large banks, financial market infrastructure providers and
+ consultancies, to small digital asset firms and fintechs.
+Our project team is in the process of selecting a number of proposed eAUD use cases to take forward into
+ the pilot phase early next year. We would like to thank all those entities that have engaged with us on
+ their submissions so far, and look forward to publishing a report on the project around the middle of
+ next year.
+Concluding thoughts: Revolution or evolution?
+As far as monetary economics goes, the introduction of a general purpose CBDC would be revolutionary
+ – for centuries, physical cash has been the only source of central bank-issued money to which
+ households and non-financial firms have had access. Prior to crossing this Rubicon, a strong public
+ interest case would first need to emerge. On balance, we have yet to see that case made in Australia. We
+ are not alone here – no other advanced economy central bank has committed to issuing a general
+ purpose CBDC. But with our eAUD pilot program in full swing, and changes in the digital economy and money
+ and payments landscape occurring at a frenetic pace, the Bank is keeping an open mind.
+One distinct possibility is that the next few years prove to be more evolutionary than revolutionary. It
+ is not hard to imagine that existing forms of digital money and payments infrastructure continue to
+ modernise in a way that captures many of the potential benefits of a general purpose CBDC, but in a
+ minimally disruptive way. This could include further advanced functionality in fast payment systems and
+ greater direct access for non-bank service providers.
+[20]
+It might entail connecting these systems
+ across national boundaries in order to substantially lower the cost and time involved in cross-border
+ transactions, as is now underway in some ASEAN countries. It could include the emergence of
+ reserve-backed payment stablecoins and tokenised bank deposits to facilitate atomic settlement of
+ financial and real assets. And building on the role that Exchange Settlement balances already play in the
+ Australian financial system, it also seems a smaller leap to imagine that a wholesale CBDC would
+ circulate more expansively ahead of a general purpose variety.
+In the meantime, while we continue to progress our CBDC research program, Australians should be confident
+ that they will retain access to banknotes issued by the Reserve Bank for as long as they place value on
+ them as a public good.
+Endnotes
+Thanks to Geneve Bullo for her assistance in
+ preparing the graphs in this speech, and to colleagues in Payments Policy Department for comments
+ on an earlier draft.
+[*]
+For an early foray into the Reserve Bank’s
+ thinking on some of these and other related issues, see Richards T, C Thompson and C Dark (2020),
+ ‘
+Retail
+ Central Bank Digital Currency: Design Considerations, Rationales and Implications
+’,
+ RBA
+Bulletin
+, September.
+[1]
+For a more detailed exposition of some of these
+ concepts, see Bank for International Settlements (2022), ‘The Future Monetary System‘,
+ Annual Report, Ch III.
+[2]
+Government is not irrelevant here – for one
+ example, fiat currency draws part of its value from its use in the settlement of debt and tax
+ obligations.
+[3]
+In Australia’s case, this translates to the
+ settlement of around $200 billion worth of interbank payments each day via the Reserve Bank
+ Information and Transfer System (RITS), Australia’s high-value payments system. RITS is used
+ by banks and other approved institutions to settle their payment obligations on a real-time gross
+ settlement basis.
+[4]
+Caddy J and Z Zhang (2021), ‘
+How
+ Far Do Australians Need to Travel to Access Cash?
+’, RBA
+Bulletin
+, June;
+ J Caddy, L Delaney, C Fisher and C Noone (2020), ‘
+Consumer
+ Payment Behaviour in Australia
+’, RBA
+Bulletin
+, March.
+[5]
+For a useful review, see Ahnert T, K Assenmacher,
+ P Hoffmann, A Leonello, C Monnet and D Porcellacchia (2022), ‘The Economics of Central Bank
+ Digital Currency’, ECB Discussion Paper No 2713, August. Privacy preferences can also vary
+ widely across countries, as a recent ECB public consultation found: see ECB (2021), ‘ECB
+ Publishes the Results of the Public Consultation on a Digital Euro’, Media Release,
+ 14 April.
+[6]
+Indeed many observers have noted that
+ China’s interest in a CBDC could be partly related to the ability to monitor transactions
+ for the purposes of informing social credit assessments. This is clearly not a relevant
+ consideration in Australia.
+[7]
+See most recently Waller C (2022), ‘The U.S.
+ Dollar and Central Bank Digital Currencies’, Speech at Digital Currencies and National
+ Security Tradeoffs Symposium presented by the Harvard National Security Journal, Cambridge,
+ Massachusetts, 14 October. For a neutral treatment of the case for and against a U.S. CBDC,
+ see Board of Governors of the Federal Reserve System (2022), ‘Money and Payments: The U.S.
+ Dollar in the Age of Digital Transformation’, January.
+[8]
+IMF (2022), ‘Behind the Scenes of Central
+ Bank Digital Currency’, FinTech Note, 9 February.
+[9]
+See most recently Gill T, C Holland and G Wiley
+ (2022), ‘
+The Cost
+ of Card Payments for Merchants
+’, RBA
+Bulletin
+, September.
+[10]
+See Financial Stability Board (2022),
+ ‘G20 Roadmap for Enhancing Cross-border Payments: Priorities for the Next Phase of
+ Work’, October.
+[11]
+A CBDC would also create operational issues for
+ the implementation of monetary policy, though I generally view these as less material. A full
+ exposition of these issues is beyond the scope of these remarks.
+[12]
+See Ahnert
+et al
+, n 6.
+[13]
+Brunnermeier MK and D Niepelt (2019), ‘On
+ the Equivalence of Private and Public Money’,
+Journal of Monetary Economics
+,
+ 106, pp 27–41.
+[14]
+Bordo M and A Levin (2017), ‘Central Bank
+ Digital Currency and the Future of Monetary Policy’, NBER Working Paper No 23711; Lilley A
+ and K Rogoff (2021), ‘The Case for Implementing Effective Negative Interest Rate
+ Policies’, in J Cochrane and J Taylor (eds),
+Strategies for Monetary Policy
+,
+ Hoover Institution Press, Ch 2, pp 27–90.
+[15]
+See Graph 1 and IMF, n 9.
+[16]
+See, for instance, Keister T and C Monnet
+ (2022), ‘Central Bank Digital Currency: Stability and Information’,
+Journal of
+ Economic Dynamics and Control
+, 142, Art 104501; Brunnermeier and Niepelt, n 14.
+[17]
+See RBA and DFCRC (2022), ‘
+Reserve Bank and Digital Finance Cooperative
+ Research Centre to Explore Use Cases for CBDC
+’, Joint Media Release No 2022-23,
+ 9 August; RBA and DFCRC (2022), ‘White Paper: Australian CBDC Pilot for Digital Finance
+ Innovation’, 26 September.
+[18]
+RBA (2021), ‘
+Project
+ Atom: Exploring a Wholesale CBDC for Syndicated Lending
+’, December; Bank for
+ International Settlements (2022), ‘Project Dunbar – International Settlements Using
+ Multi-CBDCs’, March.
+[19]
+For work the Reserve Bank is doing in this
+ area, see RBA (2022), ‘
+Payments System
+ Board Annual Report
+’, Ch 2.
+[20]

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks at the Pacific Banking Forum 2024 Dinner",
+  "date_original": "2024-07-08",
+  "date_au": "08/07/2024",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-gov-2024-07-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-07-08 - Michele Bullock - Remarks at the Pacific Banking Forum 2024 Dinner.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-07-08 - Michele Bullock - Remarks at the Pacific Banking Forum 2024 Dinner.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d92a3bc53de803b66063880f9cc61a3cc43e21394164498d728ea77c863bfcab"
+}

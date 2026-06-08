@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Remarks on the Reserve Bank's Enforcement Framework",
+  "date_original": "2023-06-12",
+  "date_au": "12/06/2023",
+  "datetime_original": "",
+  "speaker": "Director of Enforcement and Resolution Kerry",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2023/speech-on-the-reserve-banks-enforcement-framework-may-2023.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2023-06-12 - Director of Enforcement and Resolution Kerry - Remarks on the Reserve Bank's Enforcement Framework.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2023-06-12 - Director of Enforcement and Resolution Kerry - Remarks on the Reserve Bank's Enforcement Framework.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:48",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2023/remarks-on-the-reserve-banks-enforcement-framework",
+  "content_sha256": "cf933372c29d5f9be0d94130e85410bfb88b324bfec168b3e8ceddcd779435c7"
+}

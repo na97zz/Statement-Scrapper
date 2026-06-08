@@ -1,0 +1,1007 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: The Evolution and Regulation of the Payments System – Melbourne
+DATE: 14/03/2006
+SPEAKER: Melbourne
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2006/sp-ag-140306.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+The Evolution and Regulation of the Payments System
+Philip Lowe
+Assistant Governor (Financial System)
+Address to Payments System Conference 2006
+
+ Melbourne Business School
+Melbourne
+–
+14 March 2006
+Download
+75KB
+I would like to begin by thanking the Melbourne Business School for organising this
+
+ conference. For far too long, discussions about payment systems typically took
+
+ place behind closed doors and were largely the preserve of specialists in financial
+
+ institutions. As this conference shows us, this is no longer the case, with
+
+ payment systems posing challenging issues not just for the specialists, but
+
+ also for academics and those involved in public policy. This more open discussion
+
+ is surely in the interests of the community at large.
+Today, I would like to address the issue of how the payments system evolves over
+
+ time. As we all know, the system in 2006 looks quite different from that in
+
+ 1996 and, no doubt, will look quite different again in 2016. But how well do
+
+ we understand these changes and the forces driving them? And what role is there
+
+ for regulation in shaping how things evolve?
+The Big and Small Pictures
+I think the big picture is clear to everybody – that is, the shift from cash
+
+ and cheque payments to electronic payments (Graph 1). While we do not
+
+ have data on the number, or value, of cash transactions, we do know that the
+
+ average number of cheques written per person in Australia has halved since
+
+ the mid 1990s. Conversely, the average number of credit and debit card payments
+
+ per person has more than doubled, as has the number of direct debits and credits.
+Graph 1
+Similar trends are also evident in other countries, although Australia stands out
+
+ in a number of dimensions. First, Australia is in a relatively small group
+
+ of countries in which cheques are still used frequently, although amongst these
+
+ countries, the decline in cheque writing in Australia has been relatively large.
+
+ The second is that many Australians make less use of direct debits, and to
+
+ some extent, debit cards than do people in many other countries. And the third
+
+ is that use of credit cards in Australia has grown quite quickly, to the point
+
+ where credit card usage is now quite high compared to that in most other countries.
+Payments: An International Comparison
+Number of payments per capita
+Cheques
+Direct Debit
+Debit Card
+Credit Card
+1997
+2004
+1997
+2004
+1997
+2004
+1997
+2004
+Australia
+53
+27
+6
+19
+24
+53
+17
+56
+Canada
+58
+43
+11
+18
+35
+88
+32
+55
+France
+82
+66
+24
+41
+n/a
+n/a
+n/a
+n/a
+Germany
+9
+1
+66
+75
+3
+23
+4
+4
+The Netherlands
+4
+0
+41
+65
+31
+77
+n/a
+n/a
+United Kingdom
+52
+35
+27
+43
+26
+62
+18
+29
+United States
+239
+*
+119
+5
+20
+15
+n/a
+56
+66
+*
+1995 data
+Sources: RBA, APCA, BIS
+While the trends clearly differ across countries, the shift towards electronic payments
+
+ is undeniably global. It is driven by advances in technology and the lower
+
+ cost of electronic payments, as well as the additional convenience that they
+
+ can offer to consumers and businesses. It is fair to say that few people are
+
+ in any doubt this shift will continue for many years to come.
+However, while the big picture is pretty clear, there is much less certainty about
+
+ how various individual methods of electronic payment are likely to evolve –
+
+ which methods will be the winners and which will be the losers. In preparing
+
+ for this conference, I was reminded of the difficulty of making predictions
+
+ by a 1979 report prepared by payment system experts under the auspices of the
+
+ Australian Bankers' Association. This report concluded that ‘…
+
+ Bankcard has a great start and it is difficult to see how a competitive credit
+
+ card system could now displace it as the major card system in Australia (p 44)’.
+
+ As you will no doubt be aware, last month Bankcard announced it was shutting
+
+ down. The same report, in assessing the potential for an EFTPOS-like system,
+
+ concluded ‘The size of Australia and the relatively small population would
+
+ make a nation-wide point of sale system difficult to establish and cost justify
+
+ (p 40)’. Today, the EFTPOS system is a key part of the payments landscape.
+These, of course, are not the only examples of where things have turned out quite
+
+ differently from what was expected. For much of the past decade or so
+
+ – including at the time of the Wallis Inquiry – there have been
+
+ numerous claims that smart cards or electronic purses were about to replace
+
+ cash for many payments. Yet, while there have been some advances, relatively
+
+ little has happened. On the other hand, use of the internet for banking has
+
+ grown by much more than many thought likely in the mid 1990s.
+Today, we hear a lot about mobile payments, contactless cards, the use of biometrics,
+
+ and new ways to make person-to-person
+
+ payments.
+[1]
+No doubt some of these ideas will succeed, while others will fall by the wayside.
+
+ It is simply very difficult for those in the industry, let alone regulators,
+
+ to predict which products will ultimately find appeal with users and providers
+
+ of payment services.
+In contrast to the difficulty we have in making predictions about particular products,
+
+ we do have a reasonable handle on the factors that are likely to shape the
+
+ evolution of the overall system. Developments in technology are clearly important,
+
+ as is the willingness of consumers to adopt new technologies. Experience has
+
+ also taught us that relative prices and costs are critical, as are the arrangements
+
+ under which new firms enter the market. In addition, experience suggests that
+
+ the way collective decisions are made is also important.
+Others at this conference are clearly better placed than I am to talk about the possibilities
+
+ new technologies offer, so I would like to confine myself to the other issues
+
+ I mentioned: relative prices and costs, access arrangements, and the importance
+
+ of collective decision making. As you are no doubt aware, these all are issues
+
+ the Reserve Bank has taken a close interest in.
+Relative Prices
+The first issue is relative prices and costs, since this issue has played a major
+
+ role in the reform process so far. At the risk of stating the obvious, I will
+
+ begin with the observations that, in many situations, consumers have a variety
+
+ of payment methods from which to choose, and that price is one of the factors
+
+ that undoubtedly influences that choice. The introduction of charges for writing
+
+ cheques, for example, played an important role in the decline in the use of
+
+ cheques in the late 1990s. Similarly, the rapid growth in credit card spending
+
+ over this same period partly reflects the introduction of reward points, which
+
+ lowered the effective price to consumers of transactions on a credit card.
+
+ There are many other examples as well, although finding robust econometric
+
+ estimates of the relevant elasticities has proven difficult due to lack of
+
+ data and the fact that payment patterns often change only slowly over time.
+Given the Reserve Bank's legislative responsibility to promote the efficiency
+
+ of the
+overall
+payments system, an obvious question is whether the
+
+ structure of relative prices is promoting the efficient evolution of the system.
+
+ When we looked at this issue a number of years ago, we came to the view that
+
+ they were not, with the most notable distortion being the very low (often negative)
+
+ price that many cardholders faced for making a credit card transaction.
+Of particular concern was that for many consumers, EFTPOS transactions were more
+
+ expensive than were credit card transactions, despite the EFTPOS system having
+
+ lower resource costs. When we looked at how this apparently paradoxical pricing
+
+ had emerged, it was clear that the structure of interchange fees and restrictions
+
+ imposed on merchants by the credit card schemes played a major role. After
+
+ it became apparent that there was little prospect of these issues being addressed
+
+ voluntarily, the Bank introduced a standard, establishing a cap on the interchange
+
+ fees in the Bankcard, MasterCard and Visa systems, with the result that interchange
+
+ fees have fallen from around 0.95 per cent of the transaction value, to around
+
+ 0.55 per cent. The Bank also required the removal of the no-surcharge rule,
+
+ allowing merchants to pass on the cost of accepting credit cards to those using
+
+ credit cards. It has also been considering for some time the introduction of
+
+ standards capping interchange fees in the EFTPOS and scheme-based debit card
+
+ systems.
+Overall, the reform process to date has promoted more soundly based competition in
+
+ the Australian payments system. The subsidies paid to many credit card users
+
+ have been reduced, as reward points have been cut and some surcharging has
+
+ occurred. The decline in interchange fees has also reduced merchants' costs,
+
+ and we have no doubt that this is flowing through into lower prices of goods
+
+ and services than would otherwise have been the case. Lower interchange fees
+
+ have also seen a re-orientation of competition in the credit card market. With
+
+ less interchange revenue available, issuers are now competing for cardholders
+
+ by lowering interest rates, rather than through reward points.
+Not surprisingly, not everybody is happy with these changes, with at least three
+
+ arguments having been made against the Bank's focus on relative prices
+
+ and costs. These arguments can be briefly summarised as follows:
+that interchange fees are subject to the same competitive pressures as other prices
+
+ in the economy, and thus cannot be distorting relative prices of various payment
+
+ methods;
+that economic theory provides no basis for the Bank's regulatory intervention;
+
+ and
+that the Bank itself has created distortions in relative prices by giving American
+
+ Express (and Diners Club) an advantage over Visa and MasterCard.
+I would like to briefly address each of these.
+Interchange Fees and Competition
+The first of these arguments – that interchange fees are like any other price
+
+ and subject to the normal forces of competition – is the easiest to respond
+
+ to. In the case of each of the four-party credit card schemes, interchange
+
+ fees have historically been set collectively by the members of the scheme.
+
+ And, if anything, competition between these schemes creates upward –
+
+ not downward – pressure on these fees. A scheme with a higher interchange
+
+ fee paid to issuers is able to pay larger subsidies to cardholders, which in
+
+ turn encourages use of that scheme. At least up to some limit, merchants appear
+
+ unable to resist the high merchant service fees that result, being caught in
+
+ a form of prisoners' dilemma. The clearest example of this perverse form
+
+ of competition is the tit-for-tat increases in MasterCard's and Visa's
+
+ interchange fees in the United States over the past
+
+ decade.
+[2]
+There, interchange fees have increased much more quickly than the general level
+
+ of prices, despite significant reductions in telecommunications and other processing
+
+ costs.
+Even when interchange fees are bilaterally negotiated, as they are in the Australian
+
+ EFTPOS system, the competitive dynamics are such that, once established, the
+
+ fees are very difficult to change. Not surprisingly then, the bilateral interchange
+
+ fees in the EFTPOS system have been fixed for many years, despite significant
+
+ changes in costs and demand conditions.
+All of this experience means that, whatever one thinks about the merits of interchange
+
+ fees, it seems very difficult to argue that they are subject to the same competitive
+
+ dynamics as other prices in the economy.
+Theory
+The second argument – that the Bank's focus on relative costs and prices
+
+ is not supported by economic theory – raises more complex issues. Those
+
+ who make this argument note that the theory of payment systems is still being
+
+ developed and provides little guidance as to what constitutes an efficient
+
+ configuration of interchange fees when there are multiple payment systems.
+
+ By implication, this view holds that the Bank can have little confidence its
+
+ interventions are welfare
+
+ enhancing.
+[3]
+Now it is undoubtedly true that the theory of two-sided markets and interchange fees
+
+ is still evolving and realistic models are still being
+
+ developed.
+[4]
+Moreover, most of the theory that has emerged so far relates to a single payment
+
+ system; only in the past couple of years have academics started tackling the
+
+ question of how interchange fees should be configured when there are competing
+
+ payment methods, each with different resource costs and benefits. At the risk
+
+ of oversimplifying things, as the literature currently stands it suggests that,
+
+ amongst a myriad of possibilities, it may be optimal for one payment system
+
+ to be priced more attractively to cardholders than another, despite that payment
+
+ system having higher total resource costs. There are a number of reasons for
+
+ this, but they basically relate to the argument that there are network effects,
+
+ some of which generate externalities, and that these network effects and externalities
+
+ differ across payment systems. Measuring these various externalities is extremely
+
+ difficult and, to my knowledge, no one has yet come up with empirical estimates
+
+ that one can have confidence in and that can be used for policy work.
+The issue is then largely one of judgment. In particular, to the extent that any
+
+ externalities exist, are they such that in an efficient payments system, credit
+
+ cards should be offered to cardholders at a significantly lower per-transaction
+
+ price than EFTPOS, despite credit card payments having a higher total resource
+
+ cost? No doubt, one could write down a notional set of demand and supply conditions
+
+ in which such a deviation from normal price-cost relationships was optimal.
+
+ However, our judgment has been that the externalities are unlikely to be so
+
+ large or so different across payment systems as to justify such divergent pricing.
+This judgment seems to have been borne out by subsequent developments. In particular,
+
+ when interchange fees were cut, some said that the credit card market in Australia
+
+ would go into a ‘death spiral’. In less emotive language, the argument
+
+ was that the network effects were such that a reduction in the subsidy to cardholders
+
+ would undermine credit card usage, leading to reduced merchant acceptance,
+
+ which, in turn, would further reduce usage and thus merchant acceptance etc,
+
+ etc, etc.
+This clearly has not happened. While growth in credit card spending has slowed (Graph 2),
+
+ presumably at least in part due to the altered price signals, merchant acceptance
+
+ of credit cards has shown no signs of falling off and the credit card market
+
+ remains vibrant. One plausible interpretation of this experience is that the
+
+ previous level of interchange fees was considerably higher than could be justified
+
+ in terms of the positive network effects they generated. While clearly the
+
+ additional subsidy to cardholders that was made possible by the interchange
+
+ fee did increase credit card use, it appears this additional usage was not
+
+ necessary to induce widespread merchant acceptance, and was simply distorting
+
+ cardholder decisions.
+Graph 2
+While I am on this general issue of theory, I would like to repeat a point I have
+
+ made elsewhere: and that is, the Bank's use of cost-based standards does not
+
+ reflect a view that, conceptually, interchange fees should necessarily be set
+
+ with an eye to costs on just one side of the market. We adopted a cost-based
+
+ approach for two very practical reasons. The first is that it is a transparent
+
+ way of moving to a lower level of interchange fees, and was one that had been
+
+ used by some card schemes to set these fees in at least some countries. The
+
+ second is that under our legislation we cannot just set a particular interchange
+
+ fee, but rather are required to impose a ‘standard’, and a cost-based
+
+ approach meets the legal test of a standard. The real issue though is not what
+
+ costs should or should not be included in any particular standard, but rather,
+
+ what is the appropriate configuration of interchange fees across the various
+
+ payment systems.
+American Express and Diners Club
+The third argument about relative prices is a much more practical one: that is, the
+
+ Bank's regulations have given an advantage to American Express and Diners
+
+ Club. In particular, it is argued that, as a result of the Bank's reforms,
+
+ American Express is able to offer its cardholders more reward points than issuers
+
+ of MasterCard and Visa cards, and that this has encouraged the growth of American
+
+ Express at the expense of the other schemes.
+Before I respond to this argument, it is worth setting out the basic facts as to
+
+ what has happened to market shares and merchant service fees.
+Since the reforms came into effect there has been a small increase in the combined
+
+ market share of American Express and Diners Club, including the transactions
+
+ on bank-issued cards (Graph 3). In terms of the
+value
+of transactions, their combined market share has increased from
+
+ around 14½ per cent in 2003, to around 16½ per cent today; most
+
+ of this increase took place around the time that two banks began issuing American
+
+ Express cards. A similar pattern is evident in the share of the
+number
+of transactions. It is worth noting that the issuing of American Express cards
+
+ by banks is not a uniquely Australian phenomenon, but is one that is seen globally;
+
+ American Express now has similar arrangements with nearly 100 banks around
+
+ the world.
+In terms of merchant service fees, the average fee charged by American Express has
+
+ been under downward pressure since the reforms, although it has not fallen
+
+ by as much as that in the MasterCard and Visa schemes (Graph 4). In the
+
+ December quarter 2005, the average fee was 2.3 per cent. This is around ¼
+
+ of a percentage point lower than in November 2003, although the effective decline
+
+ over this period is larger than this, given that in some cases American Express
+
+ has given increased marketing payments to some merchants. In comparison, the
+
+ average merchant service fee on MasterCard and Visa transactions has fallen
+
+ by around 0.45 of a percentage point over the same period.
+Graph 3
+Graph 4
+In understanding why the regulatory response to MasterCard and Visa has differed
+
+ from that to American Express and Diners Club, it is important to recognise
+
+ the different structures and economics of the various schemes. In the MasterCard
+
+ and Visa systems, different banks are typically on the acquiring and issuing
+
+ sides of each transaction, with an interchange payment being made between the
+
+ banks. In contrast, in the American Express and Diners Club systems there is
+
+ simply no interchange fee paid on the vast bulk of transactions: American Express
+
+ and Diners Club both act as the acquirer and the issuer. The exception to this,
+
+ of course, is the bank-issued American Express cards, where American Express
+
+ makes interchange-like payments to its partner
+
+ banks.
+[5]
+These arrangements with banks raise the obvious question of ‘shouldn't the payments
+
+ to the issuing banks be regulated in the same fashion as the interchange fees
+
+ in the other schemes?’ As you know, we decided last year that the answer was
+
+ no. This was for two interrelated reasons.
+First, we judged that regulating payments to the partner banks would have little
+
+ effect on American Express's merchant service fees. While these arrangements
+
+ look similar to the traditional four-party schemes, one important difference
+
+ remains – that is, American Express is still the sole acquirer of its
+
+ own transactions. This lack of competition for acquiring American Express transactions
+
+ means that if regulation required American Express to make smaller payments
+
+ to its partner banks, there would be very little direct pressure on it to lower
+
+ its merchant fees. This stands in stark contrast to what happened when interchange
+
+ fees were cut in the other schemes. There, strong competition on the acquiring
+
+ side of the market meant that the lower interchange fees flowed through very
+
+ quickly into lower merchant fees. The same simply would not have happened in
+
+ the American Express scheme.
+The second reason is that it is unlikely that the banks' incentive to issue American
+
+ Express cards would have been affected by the Reserve Bank requiring American
+
+ Express to lower its interchange payments to its partner banks. Given the nature
+
+ of the contracts between American Express and the issuing banks, lower interchange
+
+ payments could have been offset with other forms of marketing and product support
+
+ payments. In principle, this issue could have been addressed by regulating
+
+ the totality of payments to the issuing banks, including marketing payments.
+
+ In turn, no doubt there would have been calls by some for similar regulation
+
+ of MasterCard and Visa. Our view, and I think one that is widely shared, is
+
+ that such extensive regulation is not in the public interest.
+So rather than regulating the payments for the sake of regulating, we have tried
+
+ to tailor the response to the economics of the particular schemes. Ultimately,
+
+ the capacity of American Express (or its partner banks) to offer relatively
+
+ generous rewards stems, not from interchange fees, but from its ability to
+
+ charge merchants a relatively high fee for transactions on its cards. Given
+
+ this, the Bank has been keen to see that bargaining between merchants and these
+
+ schemes is not distorted by restrictions imposed on merchants. It therefore
+
+ sought and obtained American Express's agreement to remove its no-surcharge
+
+ and anti-steering rules and to have its combined market share with Diners Club
+
+ published.
+As a result of the changes, merchants now have more options and better information.
+
+ To the extent that they are prepared to use these options, the average merchant
+
+ service fee in the American Express scheme will continue to fall. It should
+
+ also continue to come under pressure as merchants question whether they get
+
+ value for money for the increased margin they now pay on American Express transactions.
+
+ Ultimately, it is this process of downward pressure on merchant fees –
+
+ not the regulation of payments to partner banks – that will determine
+
+ the reward points that American Express cards can offer, whether issued by
+
+ American Express itself or by its partner banks.
+Given the different structures of the schemes, any argument that American Express
+
+ should be regulated in the same way as MasterCard and Visa is tantamount to
+
+ the argument that interchange fees should not be regulated. The only way in
+
+ which uniform regulation could have been applied would have been for the Bank
+
+ to do no more than require the removal of the no-surcharge rule. While such
+
+ an approach had the appeal of regulatory neutrality, we judged that, by itself,
+
+ it would be unlikely to establish more appropriate price signals to cardholders
+
+ within a reasonable time, particularly given the considerable customer resistance
+
+ to being charged for credit cards. The approach that has been adopted is delivering
+
+ significant net benefits – benefits that would have been foregone had
+
+ the regulatory response been limited to just the removal of the no-surcharge
+
+ rule.
+None of this means that we are not monitoring the competitive landscape very closely.
+
+ We expect that competition will lead to a further decline in American Express's
+
+ average merchant service fee, and in time, this will be reflected in the structure
+
+ of the products that are offered. If this were not to happen, and the beneficial
+
+ effects of the reforms were to be eroded materially, we would need to look
+
+ again at whether other options were in the public interest.
+Entry
+So much for relative prices. I would now like to turn to the issue of access arrangements.
+In many parts of the financial system it has been the new entrants that have been
+
+ the major catalyst for change and increased competition – home loans
+
+ and on-line deposit accounts are perhaps the best examples. The new entrants
+
+ typically have either new technology, and/or lower costs, and have not needed
+
+ to worry about cannibalising the profits from existing customers.
+Given the important role new entrants can play, the Bank has been concerned for some
+
+ time that access arrangements to parts of the payments system were unduly restrictive.
+
+ Our approach has been to try to work with industry to develop alternative arrangements
+
+ that are fair both to the existing firms and new entrants. In the case of the
+
+ credit card system, a regulatory solution was eventually required. In contrast,
+
+ in the EFTPOS system, an industry solution has been found, although the Bank
+
+ is proposing to place a cap on the price that an existing player can charge
+
+ to provide a direct connection. The Bank has also indicated that it would also
+
+ like to see access to the ATM system addressed.
+The Bank's various discussions about access have highlighted the complications that
+
+ can arise in payment systems built around physical bilateral linkages and bilateral
+
+ business arrangements. In the case of Australia, this includes the EFTPOS,
+
+ ATM and direct credit/debit systems. Two issues in particular have been raised.
+The first is the potential for existing players to block the entry of a new participant.
+
+ If a potential entrant is not able to establish direct physical connections
+
+ or business relationships with existing direct participants, it might find
+
+ itself at a material competitive disadvantage, making viable entry difficult.
+
+ One solution is for transparent and objective criteria to be established as
+
+ to who has the right to join these systems – in effect removing
+
+ the right of veto of existing participants. This is the approach that has been
+
+ taken in some overseas systems built around bilateral contracts, and it is
+
+ one that APCA has recently been considering for the direct entry system in
+
+ Australia.
+The second concern relates to the additional costs that can arise when new participants
+
+ wish to establish bilateral connections. The Bank's intervention in the EFTPOS
+
+ system has been criticised by some on the grounds that, by making it easier
+
+ for new entrants, there will be a proliferation of bilateral linkages, at considerable
+
+ cost to the incumbents. This is a difficult issue. One response might be to
+
+ restrict the number of participants with direct linkages, and thus potentially
+
+ reduce total costs – although perhaps at the risk of less competition.
+
+ Another would be to establish alternative access arrangements under which there
+
+ would be a single point of physical access, rather than requiring new participants
+
+ to establish multiple physical connections (this of course, could be consistent
+
+ with bilateral business contracts or something more centralised). Not surprisingly,
+
+ this is the general approach taken in a number of overseas payment systems
+
+ in which there are many players. It is also one that APCA has been considering
+
+ for the EFTPOS and ATM systems as it looks at possibilities for updating the
+
+ communications packages and hardware platforms upon which these systems operate.
+To date, the Bank's intervention on access has taken the current physical and
+
+ business structure as a given. However, we would encourage the industry to
+
+ give serious thought to whether, over time, we could move to an alternative
+
+ and perhaps more efficient set of arrangements.
+Collective Decisions
+This brings me to my third point – that is, the role that the arrangements
+
+ for making collective decisions can play in the evolution of the system.
+At the heart of all electronic payment systems is a secure messaging system. A collective
+
+ agreement as to the nature and specifications of these messaging systems is
+
+ often required. Further, as technology evolves, updating the existing messaging
+
+ systems through collective decisions about rules and standards, and investment
+
+ in infrastructure, is sometimes necessary. I hasten to add though that, in
+
+ many parts of the payments system, collective decision-making is not required,
+
+ and would be an anathema to efficiency. In most parts of the payments system,
+
+ competition serves us well.
+Where decisions do need to be made collectively, co-ordination problems can arise.
+
+ Institutions have different investment cycles, different strategic interests,
+
+ and can have concerns that the collective investment in infrastructure may
+
+ yield little competitive advantage, since all competing institutions will be
+
+ adopting the same new infrastructure.
+Last year the Reserve Bank raised the question of whether co-ordination was more
+
+ difficult in Australia by virtue of the bilateral nature of a number of our
+
+ payment systems and their governance
+
+ arrangements.
+[6]
+Since then we have had further discussions with many users and providers of
+
+ payment systems and, not surprisingly, a wide range of views has been expressed.
+
+ While these discussions are ongoing, I would like to share a couple of observations
+
+ so far.
+The first is that while most people think Australia's payments system serves
+
+ its various users reasonably well, there is a sense that we are starting to
+
+ fall behind international best practice in some areas. Two examples –
+
+ both relating to the structure and capability of the messaging system –
+
+ have been referred to a number of times. The first is the limited nature of
+
+ the messaging format in the direct entry system. This format was designed primarily
+
+ for high-volume recurring payments like salaries, and has been unchanged since
+
+ the 1970s. A number of businesses have noted that it is inadequate for many
+
+ modern business-to-business transactions, which require a considerable amount
+
+ of information to accompany the payment. The second is the limited options
+
+ for making online payments. Currently, if you want to buy goods and services
+
+ over the internet you have little option other than to use your credit card
+
+ or signature debit card. Many businesses, and I dare say consumers, would like
+
+ to be able to have an online EFTPOS-like payment option as well. In a number
+
+ of other countries this option is now available.
+The second general observation from our discussions is that, while we may be starting
+
+ to slip behind in some areas, there is actually quite a lot of innovation going
+
+ on – there are plenty of people with ideas and new products being developed.
+
+ However, some of this innovation reflects a desire to find ways around the
+
+ limitations of the current messaging structures. For example, given the difficulties
+
+ of sending remittance data with payment instructions, a number of products
+
+ have been developed to send such data separately, but in a way that can ultimately
+
+ be reconciled with the payment.
+In summary, these discussions confirm that there is merit in examining further whether
+
+ co-ordination issues are impeding the efficiency of the Australian payments
+
+ system. I might note that over recent months it has been argued by some that
+
+ by simply raising this issue, the Bank has already had a dampening effect on
+
+ investment by creating uncertainty over whether the infrastructure might be
+
+ appropriated by a central payment system or become stranded if duplicate infrastructure
+
+ was established centrally. I must say that I find this response more than a
+
+ little surprising. Let me make it clear that the Reserve Bank has no intention
+
+ of appropriating investment, or requiring duplicated technology. Further, we
+
+ are not saying that the particular solutions being adopted overseas should
+
+ necessarily be adopted here, or that more centralisation is required. What
+
+ we have done is to point to some of the implications of the current system
+
+ and suggested that there is merit in taking another look at whether there might
+
+ be a better way of doing things in the future. I am encouraged to see that
+
+ there have at least been some tentative steps in this direction recently.
+Conclusion
+Let me conclude by trying to draw the various threads together.
+The trend towards electronic means of payment is likely to continue, although it
+
+ is difficult to predict exactly what forms of electronic payment we might be
+
+ using in a decade's time.
+Exactly how the system evolves will depend, amongst other things, on the price signals
+
+ that various users of the system face, on the extent to which potential entrants
+
+ can participate in the market, and on decisions about the basic messaging architecture.
+The structure of payment systems means that there are reasons that, compared to other
+
+ markets, one might have less confidence that the system, left to itself, will
+
+ evolve in a way that promotes economic efficiency. Relative prices can be distorted
+
+ by interchange fees, barriers to entry can limit competition, and co-ordination
+
+ problems can arise. None of these factors, of course, mean that regulation
+
+ is necessarily required. Indeed, as was envisaged by the Government when it
+
+ established the Payments System Board, the Reserve Bank has a strong preference
+
+ for industry solutions.
+The Bank's interventions to date have been about creating an environment in which
+
+ competition in the Australian payments system works in a way that promotes
+
+ the evolution of the system in an efficient manner. The reforms have meant
+
+ that price signals are less distorted than they were previously, access has
+
+ been liberalised, and restrictions on merchants have been removed. While more
+
+ may still need to be done, these reforms mean that we can be more confident
+
+ than previously that whatever outcomes the market delivers, they will be in
+
+ the collective interests of all users of the payments system.
+Thank you.
+Endnotes
+For a recent survey see EFMA/Edgar, Dunn & Company (2005).
+[1]
+See Macfarlane (2005) for details.
+[2]
+See, for example, Evans and Schmalensee (2005).
+[3]
+For recent reviews see Evans and Schmalensee (2005), Guthrie and Wright (2006), and
+
+ Rochet and Tirole (2005).
+[4]
+Diners Club also has a marketing arrangement with one bank, although under that arrangement
+
+ Diners Club remains the card issuer.
+[5]
+See Lowe (2005).
+[6]
+References
+Australian Bankers' Association (1979), ‘Future Payment Systems’,
+
+ A Study of Payment Systems in Australia and Possible Direction of Development
+
+ in the Next Decade.
+EFMA/Edgar, Dunn & Company (2005), ‘Technology-driven Growth Opportunities
+
+ in the Payments Industry: An International Survey of Retail Banks’,
+
+ EFMA/Edgar, Dunn & Co. Report, September.
+Evans, D.S. and R. Schmalensee (2005), ‘The Economics of Interchange
+
+ Fees and their Regulation: An Overview’, in
+‘Interchange Fees in Credit & 
+
+ Debit Card Industries: What Role for Public Authorities?’
+, Federal
+
+ Reserve Bank of Kansas City, Kansas City, pp 73–120.
+Guthrie, G. and J. Wright (2006), ‘Competing Payment Schemes’,
+
+ Victoria University of Wellington and National University of Singapore.
+Lowe, P.W. (2005), ‘
+Innovation and Governance of Payment Systems
+’,
+
+ Address to Banktech.05 Conference, Sydney, Reserve Bank of Australia
+Bulletin
+,
+
+ October, pp 46–51.
+Macfarlane, I.J. (2005), ‘
+Gresham's Law of Payments
+’,
+
+ Address to AIBF Industry Forum, Sydney, Reserve Bank of Australia
+Bulletin
+,
+
+ April, pp 8–13.
+Rochet, J-C. and J. Tirole (2005), ‘Two-Sided Markets: A Progress Report’,
+
+ University of Toulouse.

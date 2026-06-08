@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Purchasing power and the real cost of living in New Zealand",
+  "date_original": "2026-03-25",
+  "date_au": "25/03/2026",
+  "datetime_original": "",
+  "speaker": "By Paul Conway",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2026/purchasing-power-and-the-real-cost-of-living-in-new-zealand.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2026-03-25 - By Paul Conway - Purchasing power and the real cost of living in New Zealand.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2026-03-25 - By Paul Conway - Purchasing power and the real cost of living in New Zealand.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:42",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2026/march/purchasing-power-and-the-real-cost-of-living-in-new-zealand",
+  "content_sha256": "099417b687f866d4ef4964c4b0487c066f2694bcb9974131165df1ea247505bb"
+}

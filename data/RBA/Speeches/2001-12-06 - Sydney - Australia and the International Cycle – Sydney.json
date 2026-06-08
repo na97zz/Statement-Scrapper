@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia and the International Cycle – Sydney",
+  "date_original": "6 December 2001",
+  "date_au": "06/12/2001",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-gov-061201.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-12-06 - Sydney - Australia and the International Cycle – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-12-06 - Sydney - Australia and the International Cycle – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "04a0cf2bc404e75cbcccfeb7fe9095facddd40f853a8ab8b60cf2b23c2d68c40"
+}

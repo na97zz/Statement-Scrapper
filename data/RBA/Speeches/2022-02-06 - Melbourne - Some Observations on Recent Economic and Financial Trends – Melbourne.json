@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Observations on Recent Economic and Financial Trends – Melbourne",
+  "date_original": "2022-02-06",
+  "date_au": "06/02/2022",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-dg-220206.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-02-06 - Melbourne - Some Observations on Recent Economic and Financial Trends – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-02-06 - Melbourne - Some Observations on Recent Economic and Financial Trends – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6a054ebfecc5a46322682c021785daed037b971f83dc4ece871005c02aa9df17"
+}

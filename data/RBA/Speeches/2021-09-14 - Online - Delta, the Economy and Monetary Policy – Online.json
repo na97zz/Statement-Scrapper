@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Delta, the Economy and Monetary Policy – Online",
+  "date_original": "2021-09-14",
+  "date_au": "14/09/2021",
+  "datetime_original": "",
+  "speaker": "Online",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-09-14.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-09-14 - Online - Delta, the Economy and Monetary Policy – Online.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-09-14 - Online - Delta, the Economy and Monetary Policy – Online.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0d4bb7f97563dfc09b8ae74d17b122484b28e57af5ecd049f5391805d06a9a0a"
+}

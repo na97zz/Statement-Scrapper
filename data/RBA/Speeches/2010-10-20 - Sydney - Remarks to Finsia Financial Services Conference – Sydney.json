@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks to Finsia Financial Services Conference – Sydney",
+  "date_original": "20 October 2010",
+  "date_au": "20/10/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-so-201010.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-10-20 - Sydney - Remarks to Finsia Financial Services Conference – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-10-20 - Sydney - Remarks to Finsia Financial Services Conference – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fea83e4d77c8ee4fa1b1be870ad9a6f40501499728e91125ae3400e64af49a49"
+}

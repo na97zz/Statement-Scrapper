@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Lessons and Lasting Effects of the Pandemic – Adelaide",
+  "date_original": "2021-06-23",
+  "date_au": "23/06/2021",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-ag-2021-06-23.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-06-23 - Adelaide - Lessons and Lasting Effects of the Pandemic – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-06-23 - Adelaide - Lessons and Lasting Effects of the Pandemic – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ab78dbc4ff8c3fff871a356e7b224ce75d243ae24ad7de7000209ebc4ddd60c5"
+}

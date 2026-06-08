@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Road to Recovery – Adelaide",
+  "date_original": "2021-04-09",
+  "date_au": "09/04/2021",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-gov-210409.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-04-09 - Adelaide - The Road to Recovery – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-04-09 - Adelaide - The Road to Recovery – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "28bb730797278ecf3d935a717923a06389fb2de2756c9a8f28dae496acd57dd5"
+}

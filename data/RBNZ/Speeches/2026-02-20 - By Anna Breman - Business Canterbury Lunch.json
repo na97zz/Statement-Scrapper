@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Business Canterbury Lunch",
+  "date_original": "2026-02-20",
+  "date_au": "20/02/2026",
+  "datetime_original": "",
+  "speaker": "By Anna Breman",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2026/business-canterbury-speech-anna-breman-feb-2026.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2026-02-20 - By Anna Breman - Business Canterbury Lunch.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2026-02-20 - By Anna Breman - Business Canterbury Lunch.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:43",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2026/feb/business-canterbury-lunch",
+  "content_sha256": "f45b90b7d8ff300c0542152fe8b608d63e1b0b92d9f57d56660a12055a84cc05"
+}

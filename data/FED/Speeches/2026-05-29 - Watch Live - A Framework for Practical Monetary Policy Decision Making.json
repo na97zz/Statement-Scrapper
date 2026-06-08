@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Framework for Practical Monetary Policy Decision Making",
+  "date_original": "2026-05-29",
+  "date_au": "29/05/2026",
+  "datetime_original": "",
+  "speaker": "Watch Live",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-29 - Watch Live - A Framework for Practical Monetary Policy Decision Making.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-29 - Watch Live - A Framework for Practical Monetary Policy Decision Making.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "059655aca7f0c8ff3b6b5f1e6227d8a8d4eb103ec5e705f518493c21cf28290f"
+}

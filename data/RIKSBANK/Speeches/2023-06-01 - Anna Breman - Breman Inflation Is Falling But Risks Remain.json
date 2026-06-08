@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Breman Inflation Is Falling But Risks Remain",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Anna Breman",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2023/breman-inflation-is-falling-but-risks-remain/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Anna Breman - Breman Inflation Is Falling But Risks Remain.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Anna Breman - Breman Inflation Is Falling But Risks Remain.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:04:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "249145be3b31716a446b5df95dbc18c218bec71141fbcd03cabbcb17de0a93a9"
+}

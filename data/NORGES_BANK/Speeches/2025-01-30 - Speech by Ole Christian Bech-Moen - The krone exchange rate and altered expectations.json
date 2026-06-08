@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "The krone exchange rate and altered expectations",
+  "date_original": "2025-01-30",
+  "date_au": "30/01/2025",
+  "datetime_original": "",
+  "speaker": "Speech by Ole Christian Bech-Moen",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2025/2025-01-30-bech-moen/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2025-01-30 - Speech by Ole Christian Bech-Moen - The krone exchange rate and altered expectations.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2025-01-30 - Speech by Ole Christian Bech-Moen - The krone exchange rate and altered expectations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "312681260e1e2e87bd94c7faa2c36983f5b8a970d6fcb70bb651c69e96073ed2"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the WEAI Monetary Panel – Melbourne",
+  "date_original": "2023-04-12",
+  "date_au": "12/04/2023",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-dg-2023-04-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-04-12 - Melbourne - Panel Participation at the WEAI Monetary Panel – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-04-12 - Melbourne - Panel Participation at the WEAI Monetary Panel – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8d11d1ed14c876dad9f734b7929104e70497eeb216a1e22ebe6d068b375dbc30"
+}

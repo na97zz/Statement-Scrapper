@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Managing Systemic Liquidity Risk",
+  "date_original": "2025-10-21",
+  "date_au": "21/10/2025",
+  "datetime_original": "",
+  "speaker": "Brad Jones",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-10-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-10-21 - Brad Jones - Managing Systemic Liquidity Risk.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-10-21 - Brad Jones - Managing Systemic Liquidity Risk.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6ff2f3c7ccfdec0c1a6ab07663d085ae4fa6557283c6c4f0f750deb948d447dd"
+}

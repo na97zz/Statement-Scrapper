@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australian Fixed Income Markets – Recent Developments and a Look Ahead – Tokyo",
+  "date_original": "2023-05-24",
+  "date_au": "24/05/2023",
+  "datetime_original": "",
+  "speaker": "Tokyo",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-05-24.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-05-24 - Tokyo - Australian Fixed Income Markets – Recent Developments and a Look Ahead – Tokyo.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-05-24 - Tokyo - Australian Fixed Income Markets – Recent Developments and a Look Ahead – Tokyo.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b48dc9aa04ecb221fa351e688ec26e8a8adb14a583b22f6e59bb71f3c15c7c5a"
+}

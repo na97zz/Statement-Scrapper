@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Twenty Years of Economic Growth – Redcliffe, Queensland",
+  "date_original": "20 August 2010",
+  "date_au": "20/08/2010",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-dg-200810.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-08-20 - Twenty Years of Economic Growth – Redcliffe, Queensland.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-08-20 - Twenty Years of Economic Growth – Redcliffe, Queensland.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cda9496a5ee9db59b5a9419cdeacf56aadb03e7b990d842a2a313a9c680910b3"
+}

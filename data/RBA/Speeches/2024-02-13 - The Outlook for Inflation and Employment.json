@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Outlook for Inflation and Employment",
+  "date_original": "2024-02-13",
+  "date_au": "13/02/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-so-2024-02-13.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-02-13 - The Outlook for Inflation and Employment.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-02-13 - The Outlook for Inflation and Employment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "55833ea241e038221712bb07c53292d713f84c89af61fca4640cfbc52968d6db"
+}

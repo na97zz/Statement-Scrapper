@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Speeches",
+  "title": "Martin Schlegel, Chairman of the Governing Board Currencies: Buffers or amplifiers of shocks? ﻿",
+  "date_original": "2026-05-28",
+  "date_au": "28/05/2026",
+  "datetime_original": "",
+  "speaker": "Martin Schlegel",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260528_msl",
+  "raw_file_path": "data\\SNB\\Speeches\\2026-05-28 - Martin Schlegel - Martin Schlegel, Chairman of the Governing Board Currencies_ Buffers or amplifiers of shocks_ ﻿.html",
+  "text_file_path": "data\\SNB\\Speeches\\2026-05-28 - Martin Schlegel - Martin Schlegel, Chairman of the Governing Board Currencies_ Buffers or amplifiers of shocks_ ﻿.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:26",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financial Regulation: Some Observations – San Francisco",
+  "date_original": "10 June 2014",
+  "date_au": "10/06/2014",
+  "datetime_original": "",
+  "speaker": "San Francisco",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-100614.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-06-10 - San Francisco - Financial Regulation_ Some Observations – San Francisco.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-06-10 - San Francisco - Financial Regulation_ Some Observations – San Francisco.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8cc42fa8be2ece2bfff962847aa12103fee6cec5bc5b6ddce0ad52a5ee892b3"
+}

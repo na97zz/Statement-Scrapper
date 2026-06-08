@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Measuring Financial Health",
+  "date_original": "2026-05-20",
+  "date_au": "20/05/2026",
+  "datetime_original": "",
+  "speaker": "Measuring Financial Health",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260520a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-20 - Measuring Financial Health - Measuring Financial Health.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-20 - Measuring Financial Health - Measuring Financial Health.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b9defffb7c864e03b82941b5dc2d83d622d90a1630b02bd59808ea5dfa3140e8"
+}

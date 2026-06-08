@@ -1,0 +1,192 @@
+BANK: NORGES_BANK
+CATEGORY: Speeches
+TITLE: The cash-flow channel of monetary policy – micro evidence and macro outcomes
+DATE: 23/08/2024
+SPEAKER: micro evidence and macro outcomes
+SPEAKER ROLE: 
+SOURCE URL: https://www.norges-bank.no/en/news-events/news/Speeches/2024/2024-08-23-jackson-hole/
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+!
+Javascript is disabled
+Due to this, parts of the content on this site will not be displayed.
+Speech
+The cash-flow channel of monetary policy – micro evidence and macro outcomes
+Remarks by Governor Ida Wolden Bache at the 2024 Jackson Hole Economic Policy Symposium
+Introduction
+Good morning. I want to start by thanking the Federal Reserve Bank of Kansas City for the invitation and for giving me the opportunity to be part of this year’s policymaker panel. It’s a pleasure to be here.
+The tightening of monetary policy by central banks over the past few years has been unprecedented in several respects. Chart 1 shows the policy rates for a selection of developed economies. By some measures, the current tightening has been the most globally synchronized of all tightening episodes in the past half century.
+[1]
+And still – the macroeconomic effects of this tightening may vary considerably across countries. My remarks today will focus on one particular aspect of the monetary policy transmission mechanism, namely the cash-flow channel from interest rate changes to household consumption.
+I want to make three main points. The first one is that the cash-flow channel is quantitatively important, but its strength varies widely both over time and across countries depending on the composition of household balance sheets and on institutional features of mortgage markets. Second, high quality microdata are essential for gaining insight into this part of the transmission mechanism. And third, the strength of the cash-flow channel has implications for the trade-offs we face as monetary policymakers, especially in small, open economies.
+The cash-flow channel of monetary policy
+In what follows, I will refer to the cash-flow channel as the direct effect of monetary policy on household spending operating through net interest expenses.
+[2]
+The cash-flow channel is likely to be stronger when households are more indebted and when interest rates on outstanding debt are tightly linked to short-term rates. Chart 2 illustrates the extent of variation in the household debt-to-income ratio and the share of adjustable-rate mortgages across countries.
+[3]
+In Norway, where 95 percent of home loans have an interest rate that moves in tandem with short-term money market rates and the average household debt-to-income ratio is among the highest in the world, there is a fast and strong pass-through of policy rate hikes to household disposable income.
+[4]
+In the US, where fixed-rate mortgages account for more than 90 percent of home loans, most of them with an initial 30-year fixation period, and the average household is less indebted than in Norway, the pass-through of higher policy rates to borrowing costs can be expected to be much smaller in the short run.
+In fact, while the policy rate has increased by more in the US than in Norway during the current tightening cycle, interest payments as a fraction of income has increased by much more in Norway, as you can see in Chart 3. If we were to subtract interest
+income
+, the difference would be even more stark.
+[5]
+Looking at these charts, I think it is obvious why it has been a priority for Norges Bank to understand just how strong the cash-flow channel is. And fortunately, new high-quality data has made that possible. We have recently assembled a new and unique dataset that combines rich information on household balance sheets and income from tax returns with directly measured consumption expenditures from individual electronic transactions for all residents of Norway.
+Using this dataset, my colleagues have estimated how much the responsiveness of consumption to interest rates varies with household indebtedness.
+[6]
+Chart 4 shows the change in consumption following a one percentage point unexpected increase in the policy rate and how that varies with a household’s gross debt-to-income ratio. As we can see, the consumption response to a policy tightening increases with indebtedness.
+[7]
+These effects set in a couple of months after the interest rate hike and increase over the course of the first year. If we compare a household with a debt-to-income ratio of three to a household with no debt, the indebted household will cut spending by around 1.5 percentage points more after one year.
+[8]
+We can also see from Chart 4 that the consumption response increases almost linearly with a household’s debt-to-income ratio. The implication is that the strength of the
+aggregate
+cash-flow channel only depends on the
+total
+debt-to-income ratio for all households in the economy, not on the distribution of debt
+across
+households.
+[9]
+This begs the question: does a central bank need to know how monetary policy transmission works at the micro level? After all, we already have plenty of evidence on the macroeconomic effects of monetary policy.
+[10]
+I will argue that the kind of evidence I have presented is still valuable.
+First, it is important for policymakers to understand – and communicate to the wider public – how actual people, not just macroeconomic aggregates, are affected by our actions.
+[11]
+Second, while it is true that the average effects of monetary policy over a historical period can be estimated based on macroeconomic data, they are a poor guide to how transmission works today if relevant states of the economy are very different from the past. And in fact, those states have changed quite a lot in recent decades. As illustrated in Chart 5, households’ debt-to-income ratios have increased markedly in many countries over the past quarter century.
+[12]
+In Norway, household debt increased from around 120 percent of disposable income in 1995 to almost 250 percent in 2021. A back-of-the-envelope calculation based on our microdata estimates suggests that, due to this increased indebtedness alone, aggregate consumption will fall by around 50 basis points more in reaction to a one percentage point contractionary monetary policy shock now than in the 1990s.
+[13]
+That amounts to as much as a two thirds increase in the interest rate effect on household spending.
+[14]
+Research on microdata can also help us to understand how the transmission of monetary policy is affected by the types of mortgages households have. In the decade or so following the end of the Great Financial Crisis, fixed-rate mortgages became more common around the world.
+[15]
+When fixed-rate mortgages are the norm, the cash-flow channel is asymmetric. A
+lower
+policy rate can pass through relatively quickly to average mortgage rates, at least when there are no prepayment penalties and when most people save money by refinancing at the lower rate.
+[16]
+A
+higher
+policy rate, on the other hand, has a more muted effect on average mortgage rates in the short run. So, as fixed-rate mortgages become more common, the cash-flow channel becomes weaker for contractionary monetary policy. How much weaker obviously depends on the fraction of mortgages that are fixed-rate and how long the average fixation period is. But the microdata estimates I showed you earlier indicate that if a country with a household sector debt-to-income ratio of 100 percent were to go from having only floating-rate debt to only long-term fixed-rate debt, then all else equal, a one percentage point contractionary monetary policy shock would lower consumption by around 40 basis points less in the short run.
+[17]
+Policy consequences of a strong cash-flow channel
+Now, a third reason why it is essential to know the details of how transmission works is that it can have implications for how we conduct policy. That is particularly the case in small, open economies.
+In open economies, monetary policy affects inflation both through the
+aggregate demand channel
+and through the
+exchange rate
+channel. A higher interest rate lowers demand directly, and lower demand leads to lower domestic inflation. A higher interest rate normally also leads to an exchange rate appreciation and thereby lower
+imported
+inflation. The relative strengths of these channels affect the monetary policy trade-offs.
+Let us take the example of a small, open economy that is hit by an inflation shock. According to the textbook theory, the central bank should increase the interest rate to bring inflation gradually back to target. A higher interest rate dampens aggregate demand, which might be necessary to bring inflation down. If the aggregate demand channel is strong compared with the exchange rate channel, for instance because cash-flow effects on consumption are important, a larger reduction in output is needed to achieve a given disinflation.
+[18]
+That is because more of the disinflation will come through lower output and employment and less through lower imported inflation. In countries where the effects of monetary policy on aggregate demand are weaker, the central bank gets more help from the exchange rate in bringing inflation down, and inflation can be stabilized at lower employment costs.
+[19]
+So, let me end with this. The fact that we have a relatively strong cash-flow channel in Norway does affect the monetary policy trade-offs. And while a strong cash-flow channel can prove beneficial in some situations, in others it can make stabilizing inflation more costly. These costs matter for how fast we aim to bring inflation back to target. But let there be no doubt: these costs do
+not
+prevent us from setting an interest rate consistent with bringing inflation back to target within a reasonable time horizon.
+Thank you.
+Sources
+Ahn, SeHyoun, Sigurd Galaasen, and Mathis Mæhlum (2024) «The Cash-Flow Channel of Monetary Policy - Evidence from Billions of Transactions». Unpublished.
+Amberg, Niklas, Thomas Jansson, Mathias Klein, and Anna Rogantini Picco (2022) «Five facts about the distributional income effects of monetary policy shocks».
+American Economic Review,
+4 (2), September, pages 289–304.
+Andersen, Asger Lau, Niels Johannesen, Mia Jørgensen, and José-Louis Peydró (2022) «Monetary policy and inequality.»
+Journal of Finance
+, 78, August, pages 2945–2989.
+Ball, Laurence (1994) «What determines the sacrifice ratio?» The University of Chicago Press, volume:
+Monetary policy, January,
+pages 155–193.
+Berger, David, Konstantin Milbradt, Fabrice Tourre, and Joseph Vavra (2021) «Mortgage prepayment and path-dependent effects of monetary policy».
+American Economic Review
+, 111 (9), September, pages 2829–2878.
+Cerutti, Eugenio, Jihad Dagher, and Giovanni Dell'Ariccia (2017) «Housing finance and real-estate booms: A cross-country perspective».
+Journal of Housing Economics
+, 38, December, pages 1–13.
+Cloyne, James, Clodomiro Ferreira, and Paolo Surico (2020) «Monetary policy when households have debt: new evidence on the transmission mechanism.»
+Review of Economic Studies
+, 87 (1), January, pages 102–129.
+Eichenbaum, Martin, Sergio Rebelo, and Arlene Wong (2022) «State-dependent effects of monetary policy: The refinancing channel.»
+American Economic Review
+, 112 (3), March, pages 721–761.
+Fagereng, Andreas, Helene Onshuus, and Kjersti N. Torstensen (2024) «The consumption expenditure response to unemployment: Evidence from Norwegian households.»
+Journal of Monetary Economics,
+March.
+Fagereng, Andreas, Martin B. Holm, and Gisle J. Natvik (2021) «MPC heterogeneity and household balance sheets».
+American Economic Journal: Macroeconomics
+, 13 (4), October, pages 1–54.
+Flodén, Martin, Matilda Kilström, Jósef Sigurdsson, and Roine Vestman (2020) «Household Debt and Monetary Policy: Revealing the Cash-Flow Channel».
+Economic Journal,
+131 (636), May, pages 1742–1771.
+Forbes, Kristin, Jongrim Ha, and M. Ayhan Kose (2024) «Rate cycles». The World Bank Development Economics Prospects, Working Paper.
+Holm, Martin Blomhoff, Pascal Paul, and Andreas Tischbirek (2021) «The transmission of monetary policy under the microscope».
+Journal of Political Economy
+, 129(19), July, pages 2861–2904.
+International Monetary Fund (2024)
+World Economic Outlook – Steady but Slow: Resilience amid Divergence
+. IMF, April 16.
+McKay, Alisdair and Christian K. Wolf (2023) «Monetary policy and inequality».
+Journal of Economic Perspectives
+, 37 (1), Winter, pages 121–144.
+Romer, David (1993) «Openness and inflation: theory and evidence».
+The quarterly journal of economics
+, 108 (4), November, pages 869–903.
+McKay, Alisdair and Christian K. Wolf (2023) «Monetary policy and inequality.»
+Journal of Economic Perspectives
+, 37 (1), pages 121–144.
+Footnotes
+[1]
+Forbes, Ha and Kose (2024).
+[2]
+Flodén et al. (2021) and International Monetary Fund (2024) use similar definitions.
+[3]
+Debt net of deposits more accurately captures how much a given change in policy rates affect disposable income, at least when both lending rates and deposit rates closely follow short-term rates. Chart 2 shows gross debt because we do not have extensive cross-country data on deposits.
+[4]
+This does not take into account cross-country variation in the tax system and the particular structure of adjustable-rate and fixed-rate mortgage contracts, both of which can affect pass-through. First, long-term mortgages (e.g. 30 years) are more common than shorter-term (e.g. 2-5 years) in some countries than in others. Second, in some countries, households are allowed to deduct mortgage interest payments from taxable income. How much this deduction amounts to varies substantially across countries (Cerutti, Dagher and Dell’Ariccia, 2017). A high tax deduction reduces pass-through of the policy rate to disposable income. Third, under the terms of annuity loans – such as the ones common in Norway – principal payments are automatically reduced in the short run when the lending rate increases. This might also lower pass-through to consumption.
+[5]
+Interest payments net of interest income for the private sector has been negative in the US and positive in Norway for every quarter of available data, respectively since 1947 for the US (Bureau of Economic Analysis, Personal Income and its Disposition) and 1999 for Norway (Statistics Norway, quarterly non-financial sector accounts).
+[6]
+See Ahn, Galaasen and Mæhlum (2024). Confidence intervals as well as estimates for other horizons are included in the paper. Cloyne, Ferreira and Surico (2020) and Flodén et al. (2020) also estimate how the effect of monetary policy varies along this dimension.
+[7]
+Ahn, Galaasen and Mæhlum (2024) also provide estimates of the consumption response along the dimension of (debt-deposits)/income.
+[8]
+The estimated marginal propensity to consume out of interest expenses is around 30 percent, which is within the range of MPC estimates out of other types of income shocks.
+[9]
+Obviously, the strength of monetary policy transmission to consumption will also depend on other aspects of household balance sheets than those mentioned here. We know, for example, that households with very low levels of liquid assets relative to income are especially vulnerable to income losses. These so-called “hand-to-mouth” households have a particularly high marginal propensity to consume out of changes in disposable income, and their consumption responds more strongly to monetary policy. Fagereng, Holm and Natvik (2021) and Fagereng, Onshuus and Torstensen (2024) provide evidence from Norwegian microdata that the MPC out of income shocks due to, respectively, lottery winnings and job loss is higher for households with low liquid assets-to-income. Holm, Paul and Tischbirek (2021) find evidence that consumption following an interest rate hike drops more for households with low liquid assets-to-income.
+[10]
+McKay and Wolf (2023) argue for a version of this view.
+[11]
+There is a growing research literature investigating the distributional impact of monetary policy. See e.g. Amberg et al. (2022), Andersen et al. (2023), and McKay and Wolf (2023).
+[12]
+In the dataset of advanced and emerging economies shown in Chart 5, the median country – when ordering countries by the percentage increase in household debt-to-income over the period – doubled its household sector debt-to-disposable-income ratio between 1995 and 2021.
+[13]
+This number is derived from the equation (% change in consumption due to cash-flow effect) = MPC x (change in lending rate) x (debt/income)/(consumption/income). We assume an MPC of 30% out of interest payments (Ahn, Galaasen and Mæhlum, 2024), close to full pass-through of policy rates to lending rates, an average consumption/income ratio of 0.7 and an
+increase
+in debt/income of 120 percentage points. This assumes that other parts of the transmission mechanism, as well as the MPC, stay the same.
+[14]
+Estimates based on Norwegian data from the mid-1990s until the early 2020s or late 2010s indicate that the consumption response to a one percentage point monetary policy shock peaks at around one percent after 1-2 years (see Norges Bank’s Monetary Policy Report 2/2022, p. 40, and 4/2023, p. 52). Assuming that the increase in debt-to-income has increased this response by 0.5 percentage points over the same sample period, the total response of consumption would have been around 0.75 percent in 1995.
+[15]
+See figure 2.13 in International Monetary Fund (2014).
+[16]
+This dimension of monetary policy pass-through is explored by Eichenbaum, Rebelo and Wong (2022) and Berger et al. (2021).
+[17]
+See the equation from the previous paragraph. We assume that we go from a situation with no short-run monetary policy pass-through to lending rates to a situation with full pass-through.
+[18]
+This argument is made by Romer (1993).
+[19]
+When the exchange rate channel is relatively more important, the
+sacrifice ratio
+is lower (see Ball (1994) and Romer (1993)).
+Published
+24 August 2024
+20:00
+Print
+Ida Wolden Bache
+Governor
+Downloads
+Charts
+(pdf)
+Published
+24 August 2024
+20:00
+Print

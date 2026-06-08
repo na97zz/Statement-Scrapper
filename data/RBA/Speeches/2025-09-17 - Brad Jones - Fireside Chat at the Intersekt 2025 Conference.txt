@@ -1,0 +1,548 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Fireside Chat at the Intersekt 2025 Conference
+DATE: 17/09/2025
+SPEAKER: Brad Jones
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2025/sp-ag-2025-09-17.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Fireside Chat at the Intersekt 2025 Conference
+Brad Jones
+Assistant Governor (Financial System)
+Melbourne
+–
+17 September 2025
+Audio
+29MB
+Watch video: Fireside Chat with Assistant Governor (Financial System) Brad Jones, at the Intersekt 2025 Conference, Melbourne
+Transcript
+Moderator
+Well, welcome everyone. I know that I’ve been looking forward to this session for - since I
+
+ found out about it and it is a particularly topical discussion, not because of the whirlwind of
+
+ stablecoins and CBDC’s around the world but because we’re at a genuine inflection point in
+
+ history, where a deeper discussion around the future of money, to my mind, is incredibly important.
+
+ So we’re thinking about that in the fundamental build of that future from the get-go. I’m
+
+ delighted to be joined today by Bradley Jones from the Reserve Bank of Australia and Daniel Lavecky
+
+ who is experimenting, building at the coalface of this future of money. And I’m going to kick
+
+ off in this absolutely jam-packed 30 minutes with a question first to you, Brad, which is, how
+
+ is the Reserve Bank thinking about the future of money?
+Brad Jones
+There’s probably two points I would make. The highest level point is, in fact, as I announced at
+
+ this exact forum a year ago, we with the direction of the Payment System Board have made a strategic
+
+ commitment to prioritise our research into wholesale digital money and infrastructure. It’s not
+
+ that we’re not doing any work on the retail side, we are, but in terms of prioritising our
+
+ resources, that’s really - the wholesale space is really where we see the biggest potential
+
+ benefits and the fewest challenges. And it also reflects the fact that when we look internationally
+
+ at the countries that are pushing ahead with a retail CBDC, the sorts of rationales that are driving
+
+ that decision, we just don’t - don’t really have much resonance here in Australia. For
+
+ instance, we think we have a world class retail payment system and so that’s, sort of,
+
+ what’s sitting behind that strategic priority around wholesale.
+The second point I’d make is actually something that Kate mentioned at the end
+
+ there, that resonates with us, and that is as we’re pursuing research into opportunities to uplift
+
+ the functioning of our wholesale markets, we are genuine open-minded about the precise functional forms
+
+ that can help us to get there. That is, whether it’s forms of money or enhancements to
+
+ infrastructure. That’s why we’ve stood up Project Acacia to better understand what mix of
+
+ public and private innovation might be needed to get there.
+There are, however, probably two guiding principles for us in pursuing this work program.
+
+ The first is efficiency, competition and resilience. Those principles are really our north star. And so
+
+ wherever the technology lands, it’s got to be consistent with those principles. And the second piece
+
+ is wherever our future of monetary arrangements land has to be consistent with monetary and financial
+
+ stability. So they’re our - they, sort of, help us give us some structure as we’re working our
+
+ way through this space.
+Moderator
+Thanks, Brad. And before we move to Project Acacia, I was going to ask you, because I did read all
+
+ the materials you sent me, there was a comment you made at Intersekt last year which was, it was
+
+ reasonable to expect Central Bank money will continue to serve as the ultimate safe settlement asset,
+
+ particularly in systemically important markets. Does that remain true in your view?
+Brad Jones
+Yes.
+Moderator
+Fantastic. Now, let’s turn to Project Acacia. Now, I think the excellent last session, a lot of
+
+ discussion at this Conference around the use cases that are involved, and I’ll ask Daniel about
+
+ Canvas’s participation in that. Before we do that, Brad, from your perspective, just talk us
+
+ through, where are we at? What are you seeing? What excites you about what you’re seeing? And
+
+ talk us through the RBA’s role and position, perspectives on that?
+Brad Jones
+Project Acacia?
+Moderator
+Yes, please.
+Brad Jones
+So just a very quick history lesson. Two years ago we concluded our first pilot and that pilot was
+
+ unique in a couple of respects. Number one, we did not prescribe use cases. We literally gave
+
+ industry a blank canvas and said, if we were ever to issue a CBDC, what would you, industry, do with
+
+ it? And what we learnt from that pilot was a strong disposition to want to explore opportunities
+
+ around tokenisation. So that was one of the key learnings. And since then we’ve done a deep dive
+
+ into that area and I think our viewers, sort of, hardened that there’s some real opportunities
+
+ in that space, if we can get it right. It’s not without challenges but we think there’s
+
+ enough there worth continuing to kick the tyres on. So that’s really why Project - so the end
+
+ point of the last pilot was really the starting point for this pilot, for Project Acacia. That’s
+
+ why we’re focused on exploring different forms of digital money and enhancements to
+
+ infrastructure to support the development of tokenised asset markets in Australia.
+In July, we were pleased to announce, with our colleagues at the Digital Finance CRC, and
+
+ our fellow regulators ASIC and APRA, Treasury, terrific to see them represented here as well, a short
+
+ list of industry participants, and it’s also great to see many of those folks here in the audience
+
+ as well. We’re now moving from the desktop research phase into the live transaction phase, and that
+
+ will see us through the balance of this year. Once we’ve had a chance to reflect on the learnings
+
+ from the live transactions, and I want to emphasise there are two streams here, but the larger stream is
+
+ actually using a real claim on the Reserve Bank, which is not something that many Central Banks have done
+
+ when they’ve explored CBDC. We’ll reflect on those learnings at the end of the year and
+
+ communicate back to the public probably late in the first quarter. What we’ve learnt and where
+
+ we’re going to go. So that’s what the runway looks like.
+Moderator
+And sneak peek, Brad, is there anything at the moment that is raising an eyebrow, is piquing your
+
+ interest as part of that process?
+Brad Jones
+The use cases that industry want to explore, I would say accorded with our prize about where the
+
+ potentially most interesting opportunities would reside. And I’d sort of categorise those
+
+ broadly in two respects. One is ways to uplift the functioning of our fixed income markets. So
+
+ we’re seeing use cases in areas like tokenised term deposits, money market funds, government
+
+ bonds, but also separately there’s interest in tokenising markets where there’s really very
+
+ little, if any liquidity, at all. Tokenised private credit funds, Daniel will speak to in a moment,
+
+ also carbon credits, trade receivables. So there’s, sort of - there’s two different streams
+
+ here. We ended the project thinking that there were opportunities in both, and what we’re seeing
+
+ and hearing from industry probably affirms that that’s roughly about right.
+Moderator
+Well, what a beautiful segue into you, Daniel. Talk us through your participation in Project Acacia.
+Panelist
+Hi everyone, I’m Daniel Lavecky. I’m the Chairman of Canvas. We operate in three areas,
+
+ which is in assets, in the platforms or the markets that Brad just mentioned, and also the
+
+ infrastructure using Canvas Connect, which is our layer to blockchain, it’s privacy-based. And
+
+ as part of Project Acacia we wanted to try and use those technologies when we saw the
+
+ $19 billion productivity improvements. We wanted to apply those technologies into the
+
+ infrastructure space and into the markets area.
+In the previous pilot we were quite proud to have made Australian history to do the first
+
+ Australian foreign exchange transaction in a tokenised form and that proved the success, in our minds,
+
+ about the benefits of the foreign exchange markets. And what we’re looking to do in Project Acacia
+
+ is in the debt markets, in the yield markets, in the exchanges. So the first project that we’re
+
+ doing is a tokenised private credit fund. We’re partnering with Sanlam, which is a global funds
+
+ manager. They have about $140 billion under management. And we’re making a private credit fund
+
+ with them that will be investing funds into an Australian credit provider that provides real estate
+
+ developer funding. Alceon is a $5 billion fund manager, very well respected. And so the former
+
+ payment and the transfer between the two participants is using a CBDC. What’s very exciting there is
+
+ because it’s removing a lot of the inefficiencies that go in with the primary purchase and then also
+
+ the payment of the interest components.
+And then the second element to this is, as Brad mentioned, the market. Normally
+
+ investors, there’s not very much liquidity in private credit markets. It’s something
+
+ that’s growing rapidly and ASIC is taking a very good look at it, about how to regulate this area.
+
+ So by having a market where participants are able to sell 10% of their holding, rather than having to
+
+ redeem with the fund manager, creates liquidity for both the investors and then there’s going to be
+
+ market makers that will have the ability to buy and sell 24 hours a day, seven days a week. So
+
+ that’s really revolutionary in the funds management space. Obviously there’s audibility and
+
+ there’s ease of reconciliation.
+In the second project that we’re working on is the tokenisation of government bonds,
+
+ of Australian government bonds. And obviously that’s not possible today, so we’re actually
+
+ purchasing the Australian government bonds. We’re digitising it with a digital wrapper, and then
+
+ being able to fractionalise it. Again, the payment will be in the use of the CBDC which is a Central Bank
+
+ risk-free payment mechanism. So an alternative to Austraclear that will allow innovation in new areas
+
+ that are only just possible now with programmability and the like.
+What we’re really excited about with this, it’s all operating on our
+
+ privacy-based blockchain. So what means is that all of the participants can see the transactions but
+
+ no-one else can. So we as a technology company feel that there is an issue that most regulators and
+
+ financial institutions will have significant problems with having all of their transactions, all of their
+
+ wallets completely visible to third parties. So our blockchain solves that problem and the RBA will have
+
+ a wallet on our - they’ll be minting the eAUD onto - on our blockchain for the participants, the
+
+ fund managers and the markets to use as the form of risk-free payment.
+Moderator
+So, Daniel, completely unscripted, you mentioned two interesting things there about privacy. Firstly,
+
+ it’s privacy-enhancing blockchain with certain access and credentialling. But, secondly also,
+
+ you’re shedding some light, some further insight into an industry, particularly in private
+
+ credit, that is known to be quite opaque. So what insight is it possible to gain with this moving on
+
+ to a blockchain?
+Panelist
+Well, certainly when there’s opaqueness the spreads increase. The profit goes to people that
+
+ shouldn’t have it, and we believe that in lowering costs, making things more efficient, more
+
+ open in this area, that means our superannuation investments will improve. Costs will decrease and
+
+ returns for investments, like superannuation, will increase dramatically. So we think that utilising
+
+ this technology will assist, as well as the regulatory controls that are being implemented across the
+
+ board in the government, will remove some of those limitations that we’re seeing today in
+
+ current structures.
+Moderator
+And so do I understand correctly that I might see, sort of, transactional activity, and I guess
+
+ I’d get price transparency from whatever market it’s trading on, is that right? And that
+
+ boosts visibility?
+Panelist
+That’s exactly right. So as part of Project Acacia, we do have regulatory overview on to our
+
+ blockchain. So they have full transparency. And we envisage a world where AUSTRAC, in the same way
+
+ monitors all payments within financial institutions will be monitoring our blockchain and other
+
+ blockchains because there will be interoperability between chains. To view velocity, potential fraud,
+
+ transactions that are alerted. And then we’ll see, within that, like with the ASX, a history of
+
+ transactions but anonymised so that the participants don’t need to be known, but certainly where
+
+ the market is for a particular product.
+Moderator
+Fantastic. Thanks. Now, Daniel, one of the areas that we’ve been discussing in sort of years
+
+ gone by, you know participating in these pilots, amazing levels of support from regulators, relief
+
+ from regulation, but then there’s that awkward transitional window from a pilot into the real
+
+ world without necessarily any sort of scaling of regulation. It’s in and you need to comply.
+
+ What enabling environment do you need to make this happen, and what’s the delta between that and
+
+ what we have?
+Panelist
+Well, I think there’s three areas, and I’d like to defer policy to Brad, but I think in a
+
+ regulatory sense, and my good friend Kate who I’ve known for many years while she was at the NAB
+
+ running in blockchain management, I think that we’re starting to see some really good movement
+
+ by the government and we’d like to see the completion of that work. So just recently we saw the
+
+ Payment Systems Modernisation Act get passed, which means that now the Australian Government has
+
+ regulatory controls over new methods of payment, like digital currencies, and that will be useful in
+
+ new legislation. And then ASIC is currently running a consultation paper with the community and with
+
+ all of participants like ourselves, with a view of updating regulation 225. What that means for all
+
+ of us is that, like Kate mentioned, regulatory clarity and that regulatory fog will disappear, and
+
+ then the large financial institutions will start to participate.
+But on a commercial level, as with most things, I think in this instance it will be
+
+ government creating the environment that is rich and is exciting for financial institutions,
+
+ technologists and operators to operate just like the Stablecoin Act in the US, the Genius Act, has
+
+ implemented a whole wave of innovation. So commercially we’d love to see the RBA work towards
+
+ issuing a whole CBDC.
+Moderator
+So, Daniel, sounds like you’re very optimistic but an important role for government. Brad,
+
+ what’s your view on this?
+Brad Jones
+Just maybe two responses. One is on Project Acacia we made a deliberative decision to ensure that we
+
+ had very senior level representation from right across the regulatory communities. So APRA, ASIC and
+
+ Treasury have been represented on the SteerCo for Acacia from day one. And the idea there was A, to
+
+ help the project itself run smoothly. That was where the regulatory relief, for instance, came in,
+
+ for which we’re very grateful from our colleagues at ASIC. But also just to create a bit more
+
+ connective tissue and awareness on all sides about the issues here. So that’s the first thing.
+The second thing is Australia has a regulatory sandbox. It’s called the enhanced
+
+ regulatory sandbox. I don’t think there’s anyone that thinks that that’s perfect and there
+
+ is an opportunity for the government, and the government’s well aware of this, and we are very
+
+ supportive of an upcoming review into that sandbox. And part of that review, almost certainly, is going
+
+ to look at what we can learn from the international experience to reconfigure the regulatory sandbox in
+
+ Australia in a way that is, A, more fit-for-purpose and encourages more types of innovation. And, B,
+
+ smooths the runway from experimentation to go live. At the moment there’s still quite a gap between
+
+ those two settings and so there’s a real opportunity there and the RBA is standing ready to support
+
+ future work into that review.
+Moderator
+I’m sure that’ll be welcomed. You know, my own experience has been that we’ve seen
+
+ this, you know, much more positive regulatory environment in the last couple of years, significant
+
+ levels of encouragement and it’s wonderful to see. Now, it wouldn’t be the future of money
+
+ without - so talking about the broader issues that are affecting money. And, Brad, you gave a speech
+
+ last Friday, and there was some very, very important and rather colourful remarks during that
+
+ session. And for those who haven’t seen the transcript, I’ll recap some of these, which
+
+ really point to some really deep systemic contextual questions for us.
+So you talked about the era of the peace dividend being over. A cyber arms race.
+
+ Concentration risks in cloud computing. Quantum computing posing risks in the future. Contagion and
+
+ herding risks of AI. Disruptions in critical infrastructure that can affect the financial system,
+
+ including the electrical grid and telecommunications networks, and even space-based technologies,
+
+ including satellites requiring important redundancies. So against that backdrop, as well as, as I learned
+
+ your history with the IMF with Deutsche Bank in multiple other markets, what is the role of the
+
+ Australian dollar? What do we need to be doing to secure the resilience of our financial system?
+Brad Jones
+If I can confine my response to the payments system. The way that - so there’s two points
+
+ I’d make there. One is the era that we suspect we’re moving into is one that will be
+
+ characterised by much more friction and fragmentation at a strategic level, and that is also going to
+
+ be right for a lot of disruption. So confronted with more strategic and technological disruption, the
+
+ risk is that regulators default back to just wanting to lock everything down. The way that we’ve
+
+ been thinking about this, and the Payment System Board has had a number of deep dives into this issue
+
+ recently, is where are the opportunities to actually position our payment system and our financial
+
+ system more generally, so that it can not only weather more severe storms but could actually benefit
+
+ from the disruption that’s potentially coming our way. And so that was the context for the
+
+ speech you mentioned.
+I spoke about this concept of anti-fragility. Anti-fragility is not just about - not
+
+ letting bad stuff happen but actually positioning your system through innovation, more competition, more
+
+ dynamism, to actually benefit from disruption. And so that’s where we think the opportunity is. We
+
+ don’t think that there needs to be a trade-off between resilience, on the one hand, and innovation
+
+ and dynamism on the other. The opportunity for all of us is to find ways to make our system more
+
+ resilient by better utilising and harnessing the power of innovation and dynamism.
+Moderator
+Thanks, Brad. And in relation to the Australian dollar, you know, we see a significant motivator for
+
+ stablecoin regulation and activity in the US being the ongoing relevance of the US dollar to the
+
+ international market. What about the Australian dollar? Let me clarify that question. So the
+
+ Australian dollar, obviously very important in international financial markets. Plays a significant
+
+ role, some say an outsized role globally. Is that a priority for the Australian Government?
+Brad Jones
+Well, the Australian dollar punching above its weight-by-weight, if you characterise that as, say,
+
+ just GDP, that’s actually been the case for a number of years. There’s a number of very
+
+ good reasons for that. I think fundamentally it comes down to the strength of our institutional
+
+ settings. For as long as we have strong, good public policy-making in Australia, we should have every
+
+ confidence that the Australian dollar will continue to punch above its weight on the international
+
+ stage.
+Moderator
+Okay. And it wouldn’t be the future of money without talking about the physical form of our
+
+ money. We’ve seen some really interesting movements in Australia. Potential contraction of the
+
+ use of cash through the imposition of limits, then to a potential mandatory acceptance of cash,
+
+ through to AUSTRAC limiting cash in certain instances. What is the role of cash in the future of
+
+ money in Australia?
+Brad Jones
+So the bank’s position has been, I would say, unwavering over a period of time. And that is that
+
+ we fully support the Government in its decision to ensure that there is a place - for as long as
+
+ Australians want it, that there’s a place for cash in Australian society. So there’s a lot
+
+ of work going on now to help ensure that the infrastructure that sits around the distribution of cash
+
+ in the country is put on to a stronger footing. That’s really welcome. There’s a lot of
+
+ energy being directed to that end but the position of the Reserve Bank has been, I think, steadfast
+
+ in that we are fully supportive of the government in ensuring that there’s an ongoing role for
+
+ cash in Australia for as long as Australians value it.
+Moderator
+Thanks, Brad. Daniel, tell me in the last couple of minutes that we have left, what does the deep
+
+ future of money look like?
+Panelist
+Well, we see digital money as a compliment to physical cash. Cash will be with us for a very long
+
+ time. It won’t be switched off overnight. But there will be new use cases where we need new
+
+ forms of digital cash in order to be able to pay in new ways. So when I look at the future of money,
+
+ I think of it as a lot smarter, programmable, that will be able to be integrated in new ways using
+
+ the conditions within the contract, the smart contract, so conditionality. In the financial markets,
+
+ has KYC and AML been checked and approved? Has compliance been achieved? All of those things can be
+
+ baked into the smart contracts that support digital money.
+I also see it as frictionless and we demonstrated this at the last CBDC pilot where
+
+ sometimes it’s actually faster to take money in cash and put it into a bag, fly to Latin America and
+
+ give the person the cash, rather than sending it over the traditional banking rails. And so we see that
+
+ it will be frictionless, under a very strong regulatory control, the RBA will continue to have that
+
+ regulatory control, compliance and then instantaneous. I’m very excited by that. That when you want
+
+ to do something after close of business hours in Australia, you have to wait until the next business day
+
+ or potentially on to the Monday. We think that being able to subscribe to private credit funds, or
+
+ alternatively do a repurchase agreement at a financial institutional level for a period of only a few
+
+ years outside of Australian business hours is a significant improvement in where we are today and the
+
+ future of money. And so we see that as a compliment to the current methods of payment, as well as cash.
+Moderator
+Thanks, Daniel. And does any of that conditionality, that sort of regulatory oversight, you know, to
+
+ - I’m sure there’s a better word but does it offend principles of freedom of contract, of
+
+ freedom of movement? Starting to see limitations on stablecoin holding proposed in the UK. Because
+
+ you are our FinTech person on the panel, does it offend those, sort of, more libertarian principles?
+Panelist
+Well, as a person who operates within financial markets I believe the regulation and regulatory
+
+ controls are always a good thing. I have great confidence in the halls of power in Australia, from my
+
+ interactions with the Reserve Bank, ASIC and other organisations like AUSTRAC. The people are very
+
+ good. They’re very smart. Very honest. And also looking to make Australia a better place. And if
+
+ I see that in a country, in the halls of power making this new regulation happen, I believe that we
+
+ won’t need to worry about the libertarian concerns that you might have heard, because I think
+
+ that’s just too black and white thinking. It’s much more shades of grey. And if I look at
+
+ the history of Australia, we have an egalitarian society supported by a very strong government, and
+
+ also public service. And I believe that that will continue into a digital future.
+Moderator
+How diplomatically and beautifully put. Thank you, Daniel. And to bring us home, Brad, what does the
+
+ deep future of money look like for you?
+Brad Jones
+Two things. One, if you look back at the sweep of the last couple of hundred years, it would be
+
+ surprising if over the next 10 or 20, money doesn’t also take a different functional form
+
+ and do things that it doesn’t currently do today. That would be observation one. So some things
+
+ will change. At the same time, some things won’t. And one thing that won’t is the key - the
+
+ foundational role of the Central Bank in supporting and anchoring the monetary arrangements in
+
+ Australia.
+Moderator
+Thank you, gentlemen. Please join me in thanking these remarkable panellists.

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "On the Safe-haven Status of the US Dollar",
+  "date_original": "2026-03-07",
+  "date_au": "07/03/2026",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-dg-2026-03-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-03-07 - Andrew Hauser - On the Safe-haven Status of the US Dollar.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-03-07 - Andrew Hauser - On the Safe-haven Status of the US Dollar.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:27:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5015e9093b382b8748b1b05d83472374abb7db82fa3dcf0abaae512877cbaa28"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "A somewhat faster rise in the policy rate",
+  "date_original": "2022-08-18",
+  "date_au": "18/08/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-08-18-bache/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-08-18 - A somewhat faster rise in the policy rate.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-08-18 - A somewhat faster rise in the policy rate.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f6115e15ec1c4309a3511c44e01f87b9bf851993671c1137cd3dd1458c9211b5"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Payments System Reform: The Australian Experience – Santa Fe",
+  "date_original": "4 May 2005",
+  "date_au": "04/05/2005",
+  "datetime_original": "",
+  "speaker": "Santa Fe",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-ag-070505.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-05-04 - Santa Fe - Payments System Reform_ The Australian Experience – Santa Fe.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-05-04 - Santa Fe - Payments System Reform_ The Australian Experience – Santa Fe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "20cec447ae427f40804b0a921d806fff2752ede72b91d696f3f7a1c98f02c375"
+}

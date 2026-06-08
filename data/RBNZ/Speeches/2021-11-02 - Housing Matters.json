@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Housing Matters",
+  "date_original": "2021-11-02",
+  "date_au": "02/11/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2021/speech2021-11-02-housing-matters.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2021-11-02 - Housing Matters.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2021-11-02 - Housing Matters.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:55",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2021/speech2021-11-02",
+  "content_sha256": "3b398c91ddf72fde610fdae5e756be796fde2026979d86f6e62d71efd84153f6"
+}

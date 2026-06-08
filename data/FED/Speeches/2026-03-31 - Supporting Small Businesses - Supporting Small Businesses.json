@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Supporting Small Businesses",
+  "date_original": "2026-03-31",
+  "date_au": "31/03/2026",
+  "datetime_original": "",
+  "speaker": "Supporting Small Businesses",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260331a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-31 - Supporting Small Businesses - Supporting Small Businesses.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-31 - Supporting Small Businesses - Supporting Small Businesses.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f450ef859cc521c311cf9c12a98588ff3238cf7e0ea54fa3b0b0ee519c046215"
+}

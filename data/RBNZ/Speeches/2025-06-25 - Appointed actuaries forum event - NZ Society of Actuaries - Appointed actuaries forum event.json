@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "NZ Society of Actuaries - Appointed actuaries forum event",
+  "date_original": "2025-06-25",
+  "date_au": "25/06/2025",
+  "datetime_original": "",
+  "speaker": "Appointed actuaries forum event",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2025/nzsa-scott-mckinnon-speech-june-2025-final.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2025-06-25 - Appointed actuaries forum event - NZ Society of Actuaries - Appointed actuaries forum event.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2025-06-25 - Appointed actuaries forum event - NZ Society of Actuaries - Appointed actuaries forum event.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:46",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2025/june/nz-society-of-actuaries---appointed-actuaries-forum-event",
+  "content_sha256": "51592187fc985e5dbd73a0251a87738ff12b0255c4002d4fc7b5215436918030"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "The path back to low inflation in New Zealand",
+  "date_original": "2023-03-23",
+  "date_au": "23/03/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2023/inflation-speech.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2023-03-23 - The path back to low inflation in New Zealand.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2023-03-23 - The path back to low inflation in New Zealand.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:48",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2023/march/kanganews-anz-2023-nz-capital-market-forum",
+  "content_sha256": "9b6c954833e5a737569c6f153a4bb07d89a72b16fa0e55da7e5a0449aa1130f9"
+}

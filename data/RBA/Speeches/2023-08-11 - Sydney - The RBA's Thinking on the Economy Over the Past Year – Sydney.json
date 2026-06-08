@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The RBA's Thinking on the Economy Over the Past Year – Sydney",
+  "date_original": "2023-08-11",
+  "date_au": "11/08/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-dg-230811.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-08-11 - Sydney - The RBA's Thinking on the Economy Over the Past Year – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-08-11 - Sydney - The RBA's Thinking on the Economy Over the Past Year – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "01df59694dfebc4e9796b278a0ef8f568c32c57a5d2985fb0a4e5a0980f2e64e"
+}

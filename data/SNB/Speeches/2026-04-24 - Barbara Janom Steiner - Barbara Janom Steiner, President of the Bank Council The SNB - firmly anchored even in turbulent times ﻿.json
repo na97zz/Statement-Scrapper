@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Speeches",
+  "title": "Barbara Janom Steiner, President of the Bank Council The SNB - firmly anchored even in turbulent times ﻿",
+  "date_original": "2026-04-24",
+  "date_au": "24/04/2026",
+  "datetime_original": "",
+  "speaker": "Barbara Janom Steiner",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260424_jsb",
+  "raw_file_path": "data\\SNB\\Speeches\\2026-04-24 - Barbara Janom Steiner - Barbara Janom Steiner, President of the Bank Council The SNB - firmly anchored even in turbulent times ﻿.html",
+  "text_file_path": "data\\SNB\\Speeches\\2026-04-24 - Barbara Janom Steiner - Barbara Janom Steiner, President of the Bank Council The SNB - firmly anchored even in turbulent times ﻿.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:26",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

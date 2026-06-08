@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Erik Thedeen Presents The Interest Rate Decision In London",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Erik Thedéen",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2025/erik-thedeen-presents-the-interest-rate-decision-in-london/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2025-06-01 - Erik Thedéen - Erik Thedeen Presents The Interest Rate Decision In London.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2025-06-01 - Erik Thedéen - Erik Thedeen Presents The Interest Rate Decision In London.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:00:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "849f60af968976ed962489c3d2a3123aab3777dfc10c67b32252f94f1a437f53"
+}

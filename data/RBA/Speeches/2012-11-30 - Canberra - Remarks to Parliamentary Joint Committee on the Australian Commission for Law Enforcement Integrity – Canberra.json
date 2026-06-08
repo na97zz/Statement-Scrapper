@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks to Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity – Canberra",
+  "date_original": "30 November 2012",
+  "date_au": "30/11/2012",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-gov-301112.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-11-30 - Canberra - Remarks to Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-11-30 - Canberra - Remarks to Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4d0bf40ddc7b9651d44caa478aab5e6974650973d4717d8d487276a3a4a54644"
+}

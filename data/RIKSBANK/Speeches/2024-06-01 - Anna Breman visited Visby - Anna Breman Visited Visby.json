@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Anna Breman Visited Visby",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Anna Breman visited Visby",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2024/anna-breman-visited-visby/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Anna Breman visited Visby - Anna Breman Visited Visby.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Anna Breman visited Visby - Anna Breman Visited Visby.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:03:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb6aae80b6512e4b091648a556a2162a9f20ccb9b427a87067ece36dbe2da291"
+}

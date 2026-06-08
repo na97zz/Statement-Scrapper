@@ -1,0 +1,717 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Fireside Chat at Australian Payments Plus Beyond Tomorrow
+DATE: 25/03/2025
+SPEAKER: Brad Jones
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2025/sp-ag-2025-03-25.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Fireside chat at Australian Payments Plus Beyond Tomorrow
+Brad Jones
+Assistant Governor (Financial System)
+Sydney
+–
+25 March 2025
+Audio
+36.5MB
+Watch video: Panel participation by Brad Jones, Assistant Governor (Financial System) on 13 March 2025
+Lynn Kraus
+So, Brad, there is a lot to talk about in payments at the moment, several areas of focus, several
+
+ areas of improvement and change. But I’m going to warm us up with: what you think Australia is
+
+ getting right in payments?
+Brad Jones
+Thanks, Lynn. I’m glad you started there, because there is a lot to be proud of, I think, in
+
+ this country in our work in payments. I say that from a couple of perspectives. One, of course, as a
+
+ central banker, we look at the data and when we look at the data what we see is a picture of costs
+
+ having come down significantly, certainly in the retail space for merchants in the last couple of
+
+ decades. We’ve seen the speed of payments go up in no small part because of the NPP. When we
+
+ look globally at how the uptake of fast retail payment transaction volumes are tracking in Australia
+
+ vis-a-vis the rest of the world, there’s a good story to tell there. There are one or two
+
+ countries that might have seen slightly faster uptake, but we are tracking ahead of most of the pack.
+
+ I think that’s a good story to tell.
+In addition to that, a particular area of passion for me, and consistent with our mandate
+
+ at the bank, we see parts of the payments ecosystem become real hotbeds of innovation. Given the national
+
+ productivity challenge we’re all wrestling with, our sense is that the payment system is one of
+
+ those sectors of the economy that’s making a really important contribution. So, all of those things
+
+ are really welcome. Now, that’s not to say that there are not some challenges and we’ll get
+
+ into that, I’m sure.
+Lynn Kraus
+We’re just going to stay on the good stuff. But, no, we definitely have seen that March change
+
+ and lowering the cost of payments. Obviously we have a budget coming out tonight. It’s really
+
+ interesting. I’ve spent a bit of time in Canberra over the last year and with small business,
+
+ and every line item counts, right, for a small business? What used to be just a line item that went
+
+ through, there’s a huge amount of focus on. So, I’m going to stick with that theme around
+
+ the cost of payments. Earlier this year, the RBA conducted the first stage of the Merchant Card
+
+ Payments Costs and Surcharging review. I understand you had over 100 submissions. Clearly, the
+
+ issues paper was very topical to have such a strong response, but I’m sure it also had a lot of
+
+ strong, diverse views that were expressed as well. Are you able to talk about some of the themes that
+
+ have come from your team’s analysis of those submissions?
+Brad Jones
+Yes. For those perhaps less familiar, the current surcharging framework was put in place more than
+
+ two decades ago. At that time, or basically since that time, we’ve seen a number of important, I
+
+ think, public policy outcomes achieved. We introduced basically a price signal. So, consumers began
+
+ to understand the implications of choosing different payment methods. And merchants had an ability to
+
+ recoup the costs of the choices that their customers were making, which is one of the reasons why
+
+ surcharging is a bit different to the costs incurred by businesses in other ways.
+The problem is that 20-odd years on the landscape is quite different to the landscape of
+
+ the early 2000s. What we observe now is that it’s much more difficult for consumers to avoid
+
+ surcharging costs. It’s also the case that we’ve seen a proliferation in single rate or blended
+
+ price plans, which has had the practical effect of debit card users subsidising credit card users, which
+
+ from a price signalling perspective is not ideal. What we’ve heard from merchants also is some
+
+ concern over the opacity of fee structures that are wrapped up into their plans. We felt like it was time
+
+ to do stocktake and ask ourselves is that regime still fit for purpose? Or do we need to make some adjustments? Those adjustments could
+
+ span a spectrum from very minor tweaks all the way up to including scrapping surcharging on both
+
+ debit and credit. So, they’re like the boundary cases, if you like, and then there’s a
+
+ spectrum of possibilities in between.
+The Payments System Board has had an initial discussion about the trade-offs around
+
+ different options, and we’ll be having a subsequent discussion at our next board meeting in June.
+
+ What I can say is there is a laser-like focus on making sure we fully understand all of the various
+
+ stakeholder concerns and preferences. You alluded to that in your question. This is an area where
+
+ it’s not unusual to have diametrically opposed perspectives. We see our role here as to step back,
+
+ think a bit beyond just a narrow interest and think about the public interest more broadly. We
+
+ haven’t yet landed on a policy proposal, but we are thinking very hard about, if we are to make an
+
+ adjustment on surcharging, just making an adjustment downstream -- making no adjustment upstream -- is
+
+ just going to redistribute cost in the system. What we are looking very hard at is how do we get
+
+ wholesale costs down? If we can get wholesale costs down, the need for merchants to surcharge diminishes
+
+ and we’re in a different sort of equilibrium. That’s just to give you a flavour of the sorts of
+
+ issues we’re wrestling with.
+Lynn Kraus
+The surcharging one has been really topical in the last number of months and it is quite complex, as
+
+ you mentioned. It sounds, though, like one of my questions -- and I feel like you’ve nailed it
+
+ -- is: do you believe there is a way to ban surcharging and still provide that protection to small
+
+ business who really carry the cost of payments? Do you believe that’s an achievable outcome?
+Brad Jones
+It is, but the starting point for our deliberation here is to think about surcharging in the context
+
+ of an ecosystem. You cannot pull one lever here and not expect it to have consequences that will
+
+ ripple right throughout that system. We’re really trying to think holistically and make sure
+
+ that the outcome we arrive at strikes the right balance between the competing priorities and
+
+ interests of the various stakeholders.
+Lynn Kraus
+Excellent. The one other thing that was highlighted in the paper that I just quickly wanted to ask
+
+ about was the need to make the various payment fees and charges more visible, as well as possibly
+
+ making them easier to compare if you are a merchant. That could really support merchants and users to
+
+ actually have more informed choices in the payment options and methods they accept. But I’m
+
+ assuming that is going to be as complex as surcharging in terms of getting alignment around appetite
+
+ for disclosure. Any thoughts on that?
+Brad Jones
+All I can say at this point is that we’re favourably disposed to looking at solutions that
+
+ reduce complexity, increase simplicity, increase transparency. They’re sort of the organising
+
+ principles, if you like.
+Lynn Kraus
+Great. I think it would be beneficial for all to have that greater transparency. I’m going to go
+
+ to the hot topic of the risk review on the move to the NPP. You’ve obviously spent a lot of time
+
+ reviewing the risks over the last number of months. I might start at the highest level. If you were
+
+ able to give us a report card with five years to run on the clock, how would you assess us at
+
+ the moment as an industry?
+Brad Jones
+Our risk assessment has revealed that there are some significant challenges that industry -- frankly
+
+ the country and all participants in this system -- need to lean into as a matter of priority. I would
+
+ say as a matter of urgency. At the same time, in the last few months we have detected a notable shift
+
+ in the way that the key stakeholders are engaging on this project. We take some comfort from this
+
+ pivot that is now starting to generate some momentum. We welcome that, we encourage it and we will do
+
+ what we can to facilitate and build on that momentum. But there are some quite material challenges
+
+ that our conversations with the entire ecosystem have revealed. The risk assessment was really
+
+ designed to surface those, make sure that everyone had visibility over the breadth and depth of the
+
+ challenges that are in front of us, give us a consistent, if you like, single source of truth
+
+ that we can each now lean into and start to address as a matter of priority. The five years will go
+
+ fast.
+This is a project of national significance. I can tell you at the outset that the way
+
+ that the Bank will be engaging in this project is we will be looking to ensure that the public interest,
+
+ the national interest, is enshrined from the outset in whatever functional features our
+
+ account-to-account payment system eventually generates. That will be the prism through which we’ll
+
+ look to engage here. What is in the national interest -- not the parochial interest of one stakeholder,
+
+ but the national interest writ large?
+Lynn Kraus
+Excellent. I think, speaking to many people over the last week -- we welcomed the report to
+
+ crystallise the work that needs to be done. I do think many people in this room have also welcomed it
+
+ for their organisation to make sure it’s getting the priority that it needs to within their
+
+ organisation. I didn’t get an A, B or a C there, so I’m just going to -- not looking for an
+
+ F. So, we’ll just pass that. Two things you called out were a defined vision for what the future
+
+ of A to A payments should be in this country. And you also spoke a little bit in the report about has
+
+ there been a real assessment of the business case to close BECS? Did the industry look at options to
+
+ keep it open? Can you talk about why those two things are really important, the vision and the
+
+ alternative to keeping BECS open?
+Brad Jones
+What the quite extensive amount of consultation between our supervisory team and industry revealed
+
+ was a few things. The highest level finding, I would say, though, is that a lot of the challenges
+
+ that the risk assessment has laid out start from one proposition. That proposition is that there has
+
+ not been sufficient governance or coordination mechanisms up until this point. And from that a whole
+
+ bunch of things have flowed. One has been that end users have told us that they don’t feel that
+
+ their interests and perspectives were adequately captured in the initial part of the transition
+
+ planning. That’s one point. Another was that there was a presumption that all payments would be
+
+ shoehorned onto one rail because some institutions had the view that they had to just recoup their
+
+ costs.
+Now, recouping costs is one quite reasonable desire. We understand that to build rails
+
+ you need the private sector. The private sector -- it’s not unreasonable for them to want to recoup
+
+ their costs. But that cannot be the only or the defining motivation for the system that we land on. There
+
+ has to be a broader range of considerations, including public interest tests. They weren’t fully
+
+ articulated. There was a sense that, ‘Well, we’ll just default to the system that we’ve
+
+ already made an investment in.’ And there was not a larger discussion, a more foundational
+
+ discussion about, ‘Let’s begin with a clean sheet of paper. What are the core features that
+
+ industry believe should define our future account-to-account payment system, not just in 2030 but for the
+
+ 10 or 20 years after that point?’ That conversation never happened. At least it never
+
+ happened in a way where a broad range of stakeholders felt like they were included. Because of that there
+
+ has been a sense of a lack of legitimacy, because there was no inclusive discussion about what those
+
+ central features were. And, then, okay, how do we build a plan backwards from that point? That was
+
+ reflected in maybe the third element, which was there was no cost-benefit analysis done on alternative
+
+ paths to get to that end state or where the consensus has been formed to agree on these key features. So,
+
+ there’s no weighing of alternatives. There was not enough consultation. That’s where we were
+
+ late last year. In our discussions and discussions with industry we have detected a notable shift now,
+
+ particularly on the governance and coordination piece. I highlighted that at the outset because as I
+
+ said, if we can get that right, a lot of things will flow. If we don’t get that piece right, we are
+
+ pushing a big rock up a steep hill.
+Lynn Kraus
+Yes. I know you’ve welcomed the setting up of the NPP steering committee with an independent
+
+ chair. That’s really important for us too, because we need to be held accountable that
+
+ we’re meeting our milestones as we go. It’s a big step forward from a governance point of
+
+ view to have the right people, including RBA, Treasury and AusPayNet working together clearly under
+
+ an ACCC authorisation, of course. You have spent some time -- back to pricing -- thinking about and
+
+ exploring the end user pricing of NPP transactions. I know it hasn’t been an easy review, but
+
+ have you taken anything away from that initial review of the pricing of NPP?
+Brad Jones
+A couple of things there. One is what we have been able to deduce is a difference in wholesale costs
+
+ for NPP transactions vis-a-vis BECS. It’s been harder to get good visibility into differences in
+
+ costs faced by end users. That’s an area that the bank wants to do more work in -- work with
+
+ industry to lift the visibility over end user costs. There’s a related issue here beyond just
+
+ cost, which is value. We would very much encourage industry to think in those terms. This is where I
+
+ was encouraged, Lynn, by your opening remarks when you referred to the importance of developing batch
+
+ solutions. One of the very clear pieces of feedback we heard from very important end users in BECs
+
+ was their desire to ensure that they can continue to receive value for money in whatever batch
+
+ settlement solution is made available to them. Their starting point is that, ‘We don’t need
+
+ all of the bells and whistles of the NPP. We value reliability, security and batch settlement a
+
+ handful of times a day offered at very low cost, which is actually a good trade-off for us and
+
+ we’re comfortable with that. So, why would we be shoehorned into a more expensive set of rails
+
+ that offers functionality that we derive no benefit from? Why would we want to engage in that?’
+
+ It’s like the old Foxtel subscription. You’ve got 3,000 channels; you’d never
+
+ watched any of them. Why do you want to pay for that? It’s not an unreasonable starting
+
+ position. So, as we start to move from just a cost-based framework to think about value for money and
+
+ making sure that end user needs are firmly embedded in the solution set that’s devised,
+
+ recognising that not all end users have the same needs will be, I think, a really important feature
+
+ in building legitimacy for this migration.
+Lynn Kraus
+We’ve heard that loud and clear in our conversations with members and with users. There is a
+
+ variety of views. Some want to embrace every bit of value that real-time payments and 2000-plus
+
+ characters can give them to really achieve something different. And there is a view that we just for
+
+ now need to make sure the payment will flow when it flows at the right time to the right person. But
+
+ I’m also hopeful once we’re across the line they’ll also be open to exploring the
+
+ value that the NPP will give them. But we’re trying to meet users where they’re at with
+
+ what their particular issues are. Just a last question before I move on, and there have been quite a
+
+ number of questions that have come through on Slido about value. So, it’s great that you’ve
+
+ hit on that. We do focus on the cost of payments, but it truly is about not only the cost; it’s
+
+ about the value that’s being delivered. With five years to run before the planned
+
+ decommissioning date, what role is the RBA going to play to monitor the risks from this point
+
+ forward?
+Brad Jones
+At a high level, we will be monitoring and reviewing that migration and reporting and our staff will
+
+ be reporting back to the Payments System Board on a regular basis. And where our supervisory team is
+
+ becoming concerned that, say, public interest considerations are being subordinated to purely to
+
+ commercial decisions, that would be the sort of context where you would expect issues to be elevated.
+
+ We’re at the start of, I think, a series of roundtable discussions, steer cos and so on, where
+
+ RBA staff will have roles as observers and will have a role in trying to ensure that some of those
+
+ public interest considerations like safety and reliability, value for money, end user choice, and so
+
+ on, are embedded into the solution set. There’s a couple of different ways that we’ll be
+
+ engaged.
+Lynn Kraus
+Wonderful. I’m just going to switch gears. I wanted to talk about cybersecurity. One of your
+
+ defined priorities is uplifting cyber resilience and clearly defined cyber strategies and, along with
+
+ that, rigorous cyber testing programs. I think in the current environment there is a real heightened
+
+ awareness and risk. I wanted to just cut straight to it, if I can. Can you share what it is
+
+ you’re worried about and, more importantly, what the industry and the people in this room need
+
+ to do to be prepared?
+Brad Jones
+You’re talking about cyber. There’s clearly a non-state and a state-based element to this.
+
+ I would say that our growing concern is the state-based dimension to cyber risk is very unlikely to
+
+ decline. We’re going to need to step up -- when I say ‘we’, the community of
+
+ regulators and industry, are all going to need to step up the intensity of how we address this
+
+ challenge. I would say for almost everyone in this room we have grown up in an era of the peace
+
+ dividend. That has meant we could focus on, say, speed over resilience. If you think about the global
+
+ trading system, what’s been the defining feature of the last three or four decades in the global
+
+ trading system? Speed over resilience. We’re now at an inflection point. The Payments System
+
+ Board had a really good discussion at the last board meeting about features of the new world order
+
+ that are with us now. The era of geostrategic competition is clearly going to be one of those and
+
+ will really define the context for everything that we’re doing. With that in mind, the types of
+
+ practical things that we think industry can do for financial market infrastructures is ensuring that
+
+ they are regularly testing their cyber controls against industry standards. We also offer the CORIE
+
+ program, which enables key FMIs and payment systems to subject themselves to very robust resilience
+
+ tests. So, that’s key. We’re also engaging with a number of institutions as part of a new
+
+ program on geopolitical risk which is designed to build offline payments capacity. If one of our
+
+ platforms is subject to a massive cyber attack, do we have a fallback operational capability to
+
+ ensure that payments, critical payments, can still be made? Perhaps not on a real-time basis, but
+
+ they can still go through? There’s a broad suite of things that we’re doing as regulators
+
+ and that we’re also urging and encouraging industry to take on.
+Lynn Kraus
+Yes, and I know that the industry is having lots of conversations around contingency and backup
+
+ plans. I think that work is definitely progressing. One, I just thought I might, if you’re
+
+ comfortable, pop over here in the slido, which is really interesting is that if we think about the
+
+ role of global tech at the moment, clearly they are influencing, and have seen a lot of influence
+
+ over the last decade, on how we pay and how everyday people choose to make a payment. There’s a
+
+ question here: do you have a view about whether that global tech influence is in any way eroding
+
+ domestic confidence in new value propositions such as the NPP? So, how do you think? Competition is
+
+ good. I know the RBA loves competition, but there is an influence beyond what we do here
+
+ domestically, right?
+Brad Jones
+You’re right; we are predisposed towards competition. In fact, it’s in our mandate. We also
+
+ value sunlight. So, if entities are engaging in our payment system in an opaque way and preventing
+
+ sunlight from radiating out, including on their cost structure, that will be problematic for us.
+Now, we’re at a quite interesting juncture where we were hopeful a really important
+
+ piece of legislation would go through in this sitting of parliament. It looks like that’s not going
+
+ to happen now. All I can say for the record is the bank is very strongly, and the Payments System Board,
+
+ supportive of the payment system reforms that were proposed. Once the election has passed our support
+
+ will be just as firm as it is today that those reforms go through, because we are operating under a
+
+ regulatory regime that was set up for a different world. It’s no longer fit for purpose, and we
+
+ really need to expand the perimeter of the sorts of entities that we can regulate so that we can meet
+
+ some of the challenges that I think were implied in that question.
+Lynn Kraus
+Yes, great. I’m going to cast our minds a bit forward beyond the current payment rails and
+
+ reflect on what’s coming down the track. Treasury just really recently, even maybe in the last
+
+ week, announced a statement about developing an innovative Australian digital asset industry.
+
+ It’s important because that shows that there is momentum around getting some clarity around
+
+ digital assets in Australia. Very much like to hear your thoughts on the potential benefits of a
+
+ wholesale central bank digital currency, and also just to hear your aspirations for Project Acacia,
+
+ which is, I think, currently under assessment for all of those who’ve submitted, including us.
+Brad Jones
+I can maybe link our interest in wholesale CBDC back to your first question, Lynn, which was: tell us
+
+ all of the good things about retail payments? Just at a really high level, part of the reason why in
+
+ Australia we haven’t seen the public policy case really emerge for a retail CBDC is because we
+
+ already have a fast payment system that’s working well. The usage is going up. We hope costs
+
+ continue to come down. There’s nothing obviously broken in our retail payment system that would
+
+ motivate us to, certainly within the next few years at least, really seriously consider that. Now,
+
+ that framing is not the case for a number of other countries. For a number of other countries they
+
+ are pushing towards issuing a retail CBDC because there’s some big issue in their retail payment
+
+ system that they think a CBDC could address. That’s not where we’re at.
+On the wholesale side, we haven’t seen quite the same level of innovation that we
+
+ have on the retail side. We don’t have quite the same level of transparency. We can see there being
+
+ potentially a stronger public policy benefit from uplifting the performance of wholesale clearing and
+
+ settlement. And it would arguably be less disruptive than, say, introducing a retail CBDC, because we
+
+ already issue central bank money to a select number of wholesale institutions. So, it would be more
+
+ evolutionary than revolutionary. We see bigger potential benefits, fewer potential disruptions from
+
+ moving into the wholesale CBDC space. One area of particular interest for Project Acacia, which for those
+
+ that are less familiar is our new project, is we’re interested in looking at the role that
+
+ tokenisation/tokenised assets could play in helping to uplift the performance of our wholesale markets.
+
+ There could be a role for wholesale CBDC to facilitate those new markets, if wholesale CBDC was the
+
+ settlement asset that basically allowed those transactions to be settled.
+There are also alternative worlds where private digital money acted as a settlement
+
+ asset. One example would be stablecoins, which are very much in scope for Project Acacia, and also
+
+ tokenised bank deposits, which is an area where I think generally there has been less progress relative
+
+ to stablecoins. But we are going to have a really good look at the role that tokenised bank deposits
+
+ could also play in this future system.
+Lynn Kraus
+Excellent. We’ve got a plus talk this afternoon from the DFCRC, which will include a lot of that
+
+ conversation, so that’s great. I’m going to go to a few questions that are on the Slido,
+
+ and you are welcome if there are any there that really jump out at you. I felt like there’s one
+
+ that’s probably for me. I might start with that. In consultation around end users preferring to
+
+ stay with batch, how well do you believe the downstream cost of managing the unhappy paths in batch
+
+ is understood? Now, clearly I think that was meant for Brad, but I think the onus is on AP-plus to
+
+ really understand the implications of unhappy paths in batch. We have been doing a lot of work.
+
+ Particularly right now that work has focused largely with government and government agencies spending
+
+ time in Canberra to truly understand the outcomes around batch payments. We are listening and we are
+
+ learning, and obviously I think now that we have applied for the ACCC authorisation to be able to
+
+ work closer with AusPayNet -- I think having the two organisations working together will help us
+
+ understand that. We still have work to do right across corporate Australia to understand the end user
+
+ impacts. But if you want to add anything to that? I think there’s clearly a lot to learn in
+
+ terms of the impacts around batch.
+Brad Jones
+I think you’ve summed it up well, Lynn. Understanding what are the features of batch settlement
+
+ that end users most value today. There may be some ways to introduce features that they would equally
+
+ value in the future. I think that’s absolutely worth exploring. But without the value-for-money
+
+ proposition holding, I think we’re really going to struggle. Industry is really going to
+
+ struggle to get those end users brought in. Back to that Foxtel analogy that I drew, paying for TV
+
+ stations you don’t use does not represent value for money.
+Lynn Kraus
+This first one, radical idea -- I’m going to go there even though I won’t have a job! Has
+
+ the RBA considered making the NPP rails a public service where payments are free in the same way that
+
+ UPI and Pix have done?
+Brad Jones
+No.
+Lynn Kraus
+Phew! Okay.
+Brad Jones
+Just stepping back a bit from first principles, the central bank has a really important role to play
+
+ in the financial system and in payments in a couple of ways. Providing confidence in the finality of
+
+ settlement. Trust in the value of money. And providing a level playing field for competition. Beyond
+
+ that, we look to the private sector to take up the challenge of competing and offering the best
+
+ possible services at the lowest possible price for consumers. That’s something the private
+
+ sector is perfectly equipped to do. You can do that better than the public sector. You don’t
+
+ want the public sector in that space. So, no.
+Lynn Kraus
+We’ve got quite a number of PSPs with us today and there is a question here about the BECS risk
+
+ review. The question is: what triggered the inclusion of the statement about ensuring a PSP does not
+
+ create a proprietary solution to problems in the BECS transitions risk paper?
+Brad Jones
+I think what that statement was getting at was this issue around interoperability. We want
+
+ interoperability as a guiding principle to be reflected in whatever our future solution set looks
+
+ like. Similarly, we don’t want walled gardens to pop up all over our payment system. We
+
+ don’t think that will be particularly helpful. That’s basically the subtext.
+Lynn Kraus
+Yes. So, not locking in, and allowing people to move freely?
+SMEs pay a lot more for payments than big business. Is the RBA concerned about this,
+
+ particularly if surcharging is banned and blended rates stay? Clearly, volume discounts seem to be alive
+
+ and well for larger organisations. What’s your concern level on that difference between small
+
+ business and large business?
+Brad Jones
+Significant and ongoing.
+Lynn Kraus
+Wonderful. Just two more questions here. The risk assessment points prioritising low end user prices
+
+ -- would the RBA consider taking a similar approach to merchant costs by looking at the full
+
+ ecosystem? I think you’ve started that with some of the NPP pricing work already.
+Brad Jones
+Yes, we are thinking very hard about full ecosystem costs. One of the areas in particular on merchant
+
+ costs that has been surfaced by some of our discussions is the lack of transparency also around
+
+ scheme fees. That’s a particular area where we want to learn more and where we’re inclined
+
+ to want to have more sunlight on those fees.
+Lynn Kraus
+Yes, very similar to the merchant -- transparency, visibility, simplicity. We’ve had a question
+
+ about crypto. What do you observe in recent changes with how other countries are regulating crypto
+
+ and the implications of that for Australia’s thinking?
+Brad Jones
+A quite landmark paper dropped out of Treasury late last week, which I think was designed to give
+
+ industry a sense of the direction of travel. Certainly the feedback that we’ve heard for some
+
+ time, and that our colleagues at Treasury have heard, is they need a bit more guidance; industry
+
+ needs a bit more guidance. Industry has been certainly communicating to us and to ASIC and Treasury.
+
+ There’s a lot of activity now going on globally. If we don’t move, if legislation is not
+
+ updated, if regulation is not updated, we risk a brain drain. People very astute in the digital asset
+
+ space. They will just go to Singapore, Dubai or the UK. I think that message has got some traction,
+
+ and now you are seeing momentum building again. We would welcome that. We think this is a really
+
+ important space for the country. At the Reserve Bank, we’ve got some ability to move the needle,
+
+ and that’s what Project Acacia is trying to achieve. Within our constraints, we’re prepared
+
+ to push into use cases, different types of ledgers, different types of wholesale infrastructure that
+
+ haven’t really been explored -- certainly not explored in Australia and even relative to some
+
+ other countries. We want to do our bit. I know our colleagues at Treasury want to do their bit. One
+
+ of the areas that our colleagues at Treasury are also committed to doing, which I think is really
+
+ important, including for some folks in this room, is facilitating the review of the enhanced
+
+ regulatory sandbox. There’s some, I think, really good prototypes internationally, including in
+
+ the UK, where we could learn a lot about adjustments we could make there that would help facilitate
+
+ more early stage innovation and smooth the pathway from ideation to commercialisation. I know our
+
+ colleagues at Treasury are very attuned to that and want to play a constructive role. I want to
+
+ assure industry that, from a regulator’s perspective, we are watching what’s going on
+
+ internationally very closely and we are committed to doing what we can to provide that extra clarity
+
+ that we know is essential for business planning purposes.
+Lynn Kraus
+Excellent. I’ve got one more question here and one more question for me, but I just have to call
+
+ out the first question. Why is it that people from the RBA look so fit, healthy and relaxed?
+
+ Honestly, just take that compliment and don’t even …
+Brad Jones
+I’m not going there!
+Lynn Kraus
+I do want to just ask you a wrap-up question. If we go back to the theme today of unleashing
+
+ opportunities, looking ahead five years, what opportunities do you want to see unleashed for the
+
+ Australian payments landscape by the people in this room?
+Brad Jones
+Most regulators of the last 30 or 40 years would equate more innovation with less
+
+ resilience; that there was a trade-off. The dream I have -- and I talk to my team about this -- is
+
+ that we can break that nexus, that we can move into an era where the Australian payment system
+
+ becomes this hotbed of innovation in a way that actually reinforces resilience. Given the sort of
+
+ world that we’re moving into, it’s going to be a more dangerous, less stable world. We need
+
+ innovation -- actually reinforcing resilience in the system, not undermining it. So, why don’t I
+
+ end on that note?
+Lynn Kraus
+Fantastic. I am so pleased. We have had 13 pages of questions. So, clearly, Brad, people really
+
+ wanted to hear from you. I’m sorry that we didn’t have you for a whole morning, because
+
+ there was a lot of appetite to ask you questions. So, we’ll ask you back next year. Please join
+
+ me in thanking Dr Brad Jones.

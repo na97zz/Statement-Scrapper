@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the ASIC Annual Forum – Melbourne",
+  "date_original": "2023-11-21",
+  "date_au": "21/11/2023",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-11-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-11-21 - Melbourne - Panel Participation at the ASIC Annual Forum – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-11-21 - Melbourne - Panel Participation at the ASIC Annual Forum – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3d1c1fb5713bcd382cbe569cb66ea99f19f70f0b87ecb49095ad77892ff531f6"
+}

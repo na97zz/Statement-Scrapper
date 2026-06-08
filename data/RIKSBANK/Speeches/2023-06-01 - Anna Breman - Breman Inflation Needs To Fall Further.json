@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Breman Inflation Needs To Fall Further",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Anna Breman",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2023/breman-inflation-needs-to-fall-further/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Anna Breman - Breman Inflation Needs To Fall Further.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Anna Breman - Breman Inflation Needs To Fall Further.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:04:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a13c912337404a550c36c4fee44ddb451c8d4f324d04c83372e917542c54a329"
+}

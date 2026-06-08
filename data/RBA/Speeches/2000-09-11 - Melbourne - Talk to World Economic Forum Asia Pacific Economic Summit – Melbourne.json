@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Talk to World Economic Forum Asia Pacific Economic Summit – Melbourne",
+  "date_original": "11 September 2000",
+  "date_au": "11/09/2000",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-110900.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-09-11 - Melbourne - Talk to World Economic Forum Asia Pacific Economic Summit – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-09-11 - Melbourne - Talk to World Economic Forum Asia Pacific Economic Summit – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8d326294949be4d34c2373a4ec93751bf79abcc289a030098583acfd95075f84"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Recent (and not so recent) Trends in Australian Debt Markets – Sydney",
+  "date_original": "19 March 2013",
+  "date_au": "19/03/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-190313.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-03-19 - Sydney - Some Recent (and not so recent) Trends in Australian Debt Markets – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-03-19 - Sydney - Some Recent (and not so recent) Trends in Australian Debt Markets – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3db0d0dde234d3cb2d3fabaffa4e854b965d57134c10f5dcc3c8af3ea284dcb9"
+}

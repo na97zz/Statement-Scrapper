@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Thedeen Committee On Finance Hearing On Monetary Policys",
+  "date_original": "2025",
+  "date_au": "01/06/2025",
+  "datetime_original": "",
+  "speaker": "Presentation",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2025/thedeen-committee-on-finance-hearing-on-monetary-policys/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2025-06-01 - Presentation - Thedeen Committee On Finance Hearing On Monetary Policys.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2025-06-01 - Presentation - Thedeen Committee On Finance Hearing On Monetary Policys.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:00:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0d7e1a2ef8057972091ed50c0c8a3340fa788b660acf7958475c69d9ce5a8b46"
+}

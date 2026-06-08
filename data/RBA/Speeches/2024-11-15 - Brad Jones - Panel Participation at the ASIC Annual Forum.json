@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the ASIC Annual Forum",
+  "date_original": "2024-11-15",
+  "date_au": "15/11/2024",
+  "datetime_original": "",
+  "speaker": "Brad Jones",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-11-15.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-11-15 - Brad Jones - Panel Participation at the ASIC Annual Forum.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-11-15 - Brad Jones - Panel Participation at the ASIC Annual Forum.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1a13be0b7ce10908ec679dd1084f1c2c327bed00e7da965f80cc55c31fdb55b6"
+}

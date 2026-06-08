@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Managing the Expansion – Melbourne",
+  "date_original": "11 February 2000",
+  "date_au": "11/02/2000",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-110200.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-02-11 - Melbourne - Managing the Expansion – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-02-11 - Melbourne - Managing the Expansion – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "249f5ec5f6655b374b6626ff2756ba08784671883412b23c0ca0a90b6e58e7a6"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Geography, Resources or Institutions? – Melbourne",
+  "date_original": "2025-08-04",
+  "date_au": "04/08/2025",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-gov-250804.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-08-04 - Melbourne - Geography, Resources or Institutions_ – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-08-04 - Melbourne - Geography, Resources or Institutions_ – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "867ec4bf99423b932229c3d332437d71a7a32818425a0df9f7f34a70d27afbd5"
+}

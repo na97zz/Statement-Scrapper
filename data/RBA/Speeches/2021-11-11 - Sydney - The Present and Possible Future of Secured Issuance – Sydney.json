@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Present and Possible Future of Secured Issuance – Sydney",
+  "date_original": "2021-11-11",
+  "date_au": "11/11/2021",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-ag-211111.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-11 - Sydney - The Present and Possible Future of Secured Issuance – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-11 - Sydney - The Present and Possible Future of Secured Issuance – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "59d486cb6b69c00266343a2489b4f8ccac56dc62387e63efd7153794349190be"
+}

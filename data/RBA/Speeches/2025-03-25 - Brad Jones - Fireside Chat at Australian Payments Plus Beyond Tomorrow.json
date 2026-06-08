@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at Australian Payments Plus Beyond Tomorrow",
+  "date_original": "2025-03-25",
+  "date_au": "25/03/2025",
+  "datetime_original": "",
+  "speaker": "Brad Jones",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-03-25.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-03-25 - Brad Jones - Fireside Chat at Australian Payments Plus Beyond Tomorrow.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-03-25 - Brad Jones - Fireside Chat at Australian Payments Plus Beyond Tomorrow.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "94436f103531208d2ac8e1d8b19a8974edd56b803be0d975782d64d00611162c"
+}

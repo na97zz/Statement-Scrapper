@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Our Transformation as a Prudential Regulator",
+  "date_original": "2022-09-21",
+  "date_au": "21/09/2022",
+  "datetime_original": "",
+  "speaker": "By Christian Hawkesby",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/speech2022-09-22.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-09-21 - By Christian Hawkesby - Our Transformation as a Prudential Regulator.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-09-21 - By Christian Hawkesby - Our Transformation as a Prudential Regulator.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:50",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/speech2022-09-22",
+  "content_sha256": "8b507640eb4922f12eeb025e59f3112991c4b60bf4c471de8cf12a9f20955d6f"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to the Senate Select Committee on the Cost of Living – Sydney",
+  "date_original": "2023-02-01",
+  "date_au": "01/02/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-02-01.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-02-01 - Sydney - Opening Statement to the Senate Select Committee on the Cost of Living – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-02-01 - Sydney - Opening Statement to the Senate Select Committee on the Cost of Living – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8a157f478346e572d2eb0c54ded31443c47e51f0c4911baa7a54b46b75afb4f9"
+}

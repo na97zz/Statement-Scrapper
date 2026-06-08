@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Economic Developments – Sydney",
+  "date_original": "13 May 2010",
+  "date_au": "13/05/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-130510.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-05-13 - Sydney - Recent Economic Developments – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-05-13 - Sydney - Recent Economic Developments – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "07432e9384dbb245d4e8442972e211635962ef6a8e2a5d4b6f654f28e9987c17"
+}

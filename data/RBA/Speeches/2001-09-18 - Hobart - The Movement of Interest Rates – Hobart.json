@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Movement of Interest Rates – Hobart",
+  "date_original": "18 September 2001",
+  "date_au": "18/09/2001",
+  "datetime_original": "",
+  "speaker": "Hobart",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-gov-180901.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-09-18 - Hobart - The Movement of Interest Rates – Hobart.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-09-18 - Hobart - The Movement of Interest Rates – Hobart.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fa871c23b2adcb44bce00d7988198e6fade16aa4bab9ecd9ae96027759ace01c"
+}

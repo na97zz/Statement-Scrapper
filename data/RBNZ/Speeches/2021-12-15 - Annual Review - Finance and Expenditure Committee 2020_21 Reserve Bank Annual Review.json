@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Finance and Expenditure Committee 2020/21 Reserve Bank Annual Review",
+  "date_original": "2021-12-15",
+  "date_au": "15/12/2021",
+  "datetime_original": "",
+  "speaker": "Annual Review.",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2021/speech2021-12-15-fec-opening-remarks.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2021-12-15 - Annual Review - Finance and Expenditure Committee 2020_21 Reserve Bank Annual Review.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2021-12-15 - Annual Review - Finance and Expenditure Committee 2020_21 Reserve Bank Annual Review.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:54",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2021/fec-2020-21-rbnz-annual-review",
+  "content_sha256": "9e6f69f3b67fbd37049e6c0a2d928c66a4981362b968f794eb450180e9e02461"
+}

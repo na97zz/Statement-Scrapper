@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks on Liquidity – Sydney",
+  "date_original": "17 December 2013",
+  "date_au": "17/12/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-171213.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-12-17 - Sydney - Remarks on Liquidity – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-12-17 - Sydney - Remarks on Liquidity – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "438a01ce852ffd64e1be364e57151f7d61c68e1eff69b195c3b52d7b25a586e7"
+}

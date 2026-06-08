@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "1 June 2021",
+  "date_original": "2021-06-01",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2021/2021-06-01.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2021-06-01 - 1 June 2021.html",
+  "text_file_path": "data\\RBA\\Minutes\\2021-06-01 - 1 June 2021.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:25:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eff8e0f2943563aa3d82e0c9e0e310d87270913675aad171da1a6067d1461f45"
+}

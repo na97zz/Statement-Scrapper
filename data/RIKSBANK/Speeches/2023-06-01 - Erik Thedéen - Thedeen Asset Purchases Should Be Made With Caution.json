@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Thedeen Asset Purchases Should Be Made With Caution",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Erik Thedéen",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2023/thedeen-asset-purchases-should-be-made-with-caution/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Erik Thedéen - Thedeen Asset Purchases Should Be Made With Caution.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Erik Thedéen - Thedeen Asset Purchases Should Be Made With Caution.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:04:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fc39cf8f79ef3b2ae56c4421d2ed468a696cf0bb783df83fe9d5b73afd6562d1"
+}

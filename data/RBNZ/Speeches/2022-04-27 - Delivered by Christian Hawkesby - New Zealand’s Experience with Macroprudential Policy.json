@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "New Zealand’s Experience with Macroprudential Policy",
+  "date_original": "2022-04-27",
+  "date_au": "27/04/2022",
+  "datetime_original": "",
+  "speaker": "Delivered by Christian Hawkesby",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/speech2022-04-28.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-04-27 - Delivered by Christian Hawkesby - New Zealand’s Experience with Macroprudential Policy.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-04-27 - Delivered by Christian Hawkesby - New Zealand’s Experience with Macroprudential Policy.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:53",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/speech2022-04-28",
+  "content_sha256": "d473dadefd5c4f8220bfebcb747200cf1981d6a912b622cb21f836d199b8e6e4"
+}

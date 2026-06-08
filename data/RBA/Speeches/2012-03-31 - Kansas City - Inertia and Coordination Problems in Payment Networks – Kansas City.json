@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inertia and Coordination Problems in Payment Networks – Kansas City",
+  "date_original": "31 March 2012",
+  "date_au": "31/03/2012",
+  "datetime_original": "",
+  "speaker": "Kansas City",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-ag-300312.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-03-31 - Kansas City - Inertia and Coordination Problems in Payment Networks – Kansas City.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-03-31 - Kansas City - Inertia and Coordination Problems in Payment Networks – Kansas City.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb7d79194f78cf8457fffe3c36a4d297b13563bb7d8ef49ca1dd4cb6fbeb7134"
+}

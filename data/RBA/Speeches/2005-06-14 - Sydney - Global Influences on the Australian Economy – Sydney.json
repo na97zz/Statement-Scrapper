@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Global\r\n Influences on the Australian\r\n Economy – Sydney",
+  "date_original": "14 June 2005",
+  "date_au": "14/06/2005",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-gov-140605.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-06-14 - Sydney - Global Influences on the Australian Economy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-06-14 - Sydney - Global Influences on the Australian Economy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0a31a509f4f5a35fb84f1248d9187026f110795f94b7dd15cf53c6a1109d14db"
+}

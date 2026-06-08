@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement November 2023",
+  "date_original": "2023-11-28",
+  "date_au": "28/11/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2023/november/mpsnov23.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2023-11-28 - Monetary Policy Statement November 2023.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2023-11-28 - Monetary Policy Statement November 2023.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:48",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2023/monetary-policy-statement-november-2023",
+  "content_sha256": "1a2d048a8958e3e7fb1058e63da130467dec1019be15f412e91bad438f0a2762"
+}

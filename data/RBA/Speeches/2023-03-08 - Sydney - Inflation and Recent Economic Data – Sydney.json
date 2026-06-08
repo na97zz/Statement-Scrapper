@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation and Recent Economic Data – Sydney",
+  "date_original": "2023-03-08",
+  "date_au": "08/03/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-03-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-03-08 - Sydney - Inflation and Recent Economic Data – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-03-08 - Sydney - Inflation and Recent Economic Data – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "644d9c1ecc6cee531ff3d5bf12d13684a5ed43260fb1b84319685d00c6afb6be"
+}

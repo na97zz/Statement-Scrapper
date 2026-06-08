@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Australasian Investor Relations Association (AIRA) Annual Conference",
+  "date_original": "2024-05-30",
+  "date_au": "30/05/2024",
+  "datetime_original": "",
+  "speaker": "Sarah Hunter",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-05-30.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-05-30 - Sarah Hunter - Fireside Chat at the Australasian Investor Relations Association (AIRA) Annual Conference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-05-30 - Sarah Hunter - Fireside Chat at the Australasian Investor Relations Association (AIRA) Annual Conference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bbace20b3d87dc668392842b20e5ba855bbbf014d3f1b96b601aefea7c058a87"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Forces Shaping the Economy Over 2012 – Sydney",
+  "date_original": "16 February 2012",
+  "date_au": "16/02/2012",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-dg-160212.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-02-16 - Sydney - The Forces Shaping the Economy Over 2012 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-02-16 - Sydney - The Forces Shaping the Economy Over 2012 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ff0fac086c0e6f4d3e8183273bed3c1e3aa83b886672c7d387ab0d499ec09d80"
+}

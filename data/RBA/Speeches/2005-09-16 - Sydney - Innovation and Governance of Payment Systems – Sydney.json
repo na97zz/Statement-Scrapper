@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Innovation and Governance of Payment Systems – Sydney",
+  "date_original": "16 September 2005",
+  "date_au": "16/09/2005",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-ag-160905.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-09-16 - Sydney - Innovation and Governance of Payment Systems – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-09-16 - Sydney - Innovation and Governance of Payment Systems – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ef4be0be40906c1eb04468d8daef2174d47508be26479965fce8292cc194aa9a"
+}

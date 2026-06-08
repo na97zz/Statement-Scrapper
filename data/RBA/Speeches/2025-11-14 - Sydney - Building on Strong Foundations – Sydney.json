@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Building on Strong Foundations – Sydney",
+  "date_original": "2025-11-14",
+  "date_au": "14/11/2025",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-dg-251114.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-11-14 - Sydney - Building on Strong Foundations – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-11-14 - Sydney - Building on Strong Foundations – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d1e1654ceeb11206cfa19206fc626379e1ba739c155c59a76ee6bf38a3fe3472"
+}

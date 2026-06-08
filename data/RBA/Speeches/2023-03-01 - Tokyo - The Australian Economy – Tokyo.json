@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Australian Economy – Tokyo",
+  "date_original": "2023-03-01",
+  "date_au": "01/03/2023",
+  "datetime_original": "",
+  "speaker": "Tokyo",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-dg-230301.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-03-01 - Tokyo - The Australian Economy – Tokyo.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-03-01 - Tokyo - The Australian Economy – Tokyo.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "913291880a1029f059e601ff7671819b93edcd116877a2b2e7e6c2b3d70220ac"
+}

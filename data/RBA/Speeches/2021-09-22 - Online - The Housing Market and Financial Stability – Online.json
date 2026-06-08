@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Housing Market and Financial Stability – Online",
+  "date_original": "2021-09-22",
+  "date_au": "22/09/2021",
+  "datetime_original": "",
+  "speaker": "Online",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-ag-2021-09-22.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-09-22 - Online - The Housing Market and Financial Stability – Online.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-09-22 - Online - The Housing Market and Financial Stability – Online.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "17768c0d664bd704f77af1460cf7f813ec69513e3ac7fc89aa45d63b20a72a73"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economic Landscape in 2009 – Sydney",
+  "date_original": "4 March 2009",
+  "date_au": "04/03/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-040309.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-03-04 - Sydney - The Economic Landscape in 2009 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-03-04 - Sydney - The Economic Landscape in 2009 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "db785160bb33aba5ffaded53657f26dfc5969b449db86b973d592f809238308e"
+}

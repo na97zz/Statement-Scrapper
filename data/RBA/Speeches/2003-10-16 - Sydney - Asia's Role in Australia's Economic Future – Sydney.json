@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Asia's Role in Australia's Economic Future – Sydney",
+  "date_original": "16 October 2003",
+  "date_au": "16/10/2003",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2003/sp-gov-161003.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2003-10-16 - Sydney - Asia's Role in Australia's Economic Future – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2003-10-16 - Sydney - Asia's Role in Australia's Economic Future – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "16c0a689ca20eedba3cd1d473d2da5318f5127b6ef7005fec96bb7d4d627d171"
+}

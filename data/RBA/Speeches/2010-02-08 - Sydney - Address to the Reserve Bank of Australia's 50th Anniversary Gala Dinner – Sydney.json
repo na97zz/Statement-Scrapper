@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Address to the Reserve Bank of Australia's 50th Anniversary Gala Dinner – Sydney",
+  "date_original": "8 February 2010",
+  "date_au": "08/02/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-080210.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-02-08 - Sydney - Address to the Reserve Bank of Australia's 50th Anniversary Gala Dinner – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-02-08 - Sydney - Address to the Reserve Bank of Australia's 50th Anniversary Gala Dinner – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ccb024cee2c9f89eb504bbaaa517445c83f5a60053199d8012057b7bee4cb0d2"
+}

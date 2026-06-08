@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Monetary policy and inflation",
+  "date_original": "2022-10-20",
+  "date_au": "20/10/2022",
+  "datetime_original": "",
+  "speaker": "Monetary policy and inflation",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-10-20-cme/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-10-20 - Monetary policy and inflation - Monetary policy and inflation.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-10-20 - Monetary policy and inflation - Monetary policy and inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a9014591ef306ea839c8dd56ad106e96682fa6d440343ecbf1a4a8783281348a"
+}

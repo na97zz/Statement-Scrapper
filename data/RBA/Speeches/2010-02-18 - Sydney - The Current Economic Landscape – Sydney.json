@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Current Economic Landscape – Sydney",
+  "date_original": "18 February 2010",
+  "date_au": "18/02/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-180210.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-02-18 - Sydney - The Current Economic Landscape – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-02-18 - Sydney - The Current Economic Landscape – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2d23bf99e3af773993ae2d6e196135853545ab0a8621aa6dea9463f4df5aa8b9"
+}

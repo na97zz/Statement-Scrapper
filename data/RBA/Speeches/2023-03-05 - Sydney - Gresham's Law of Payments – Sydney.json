@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Gresham's Law of Payments – Sydney",
+  "date_original": "2023-03-05",
+  "date_au": "05/03/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-gov-230305.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-03-05 - Sydney - Gresham's Law of Payments – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-03-05 - Sydney - Gresham's Law of Payments – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "378c76db40c9ae89cc0207e763698745608a7c74f00f29b607f29c9e3b235af6"
+}

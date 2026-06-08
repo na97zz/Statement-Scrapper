@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interview with ABC’s Business Editor Michael Janda",
+  "date_original": "2026-01-08",
+  "date_au": "08/01/2026",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-dg-2026-01-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-01-08 - Andrew Hauser - Interview with ABC’s Business Editor Michael Janda.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-01-08 - Andrew Hauser - Interview with ABC’s Business Editor Michael Janda.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4ce38c5db66d94e9e038ec9bb2c09096a97e589ae886cdd6c0371d46ed22e646"
+}

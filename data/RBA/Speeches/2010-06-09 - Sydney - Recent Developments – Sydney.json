@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Developments – Sydney",
+  "date_original": "9 June 2010",
+  "date_au": "09/06/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-090610.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-06-09 - Sydney - Recent Developments – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-06-09 - Sydney - Recent Developments – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3d3499357657ef3d4ec356af35c40c25b92ac8384f245a1fb7edcbc656e74b19"
+}

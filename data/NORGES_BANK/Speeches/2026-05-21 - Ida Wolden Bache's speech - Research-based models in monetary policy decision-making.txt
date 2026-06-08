@@ -1,0 +1,88 @@
+BANK: NORGES_BANK
+CATEGORY: Speeches
+TITLE: Research-based models in monetary policy decision-making
+DATE: 21/05/2026
+SPEAKER: Ida Wolden Bache's speech
+SPEAKER ROLE: 
+SOURCE URL: https://www.norges-bank.no/en/news-events/news/Speeches/2026/2026-05-21-bache/
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+!
+Javascript is disabled
+Due to this, parts of the content on this site will not be displayed.
+Speech
+Research-based models in monetary policy decision-making
+Governor Ida Wolden Bache's speech at a seminar organized by Knut Anton Mork at Sentralen in Oslo.
+Good morning everyone,
+it is a great pleasure to be invited to this symposium on the occasion of Knut Anton Mork's 80th birthday. Based on his own and international research, Professor Mork has for decades been a key educator and a critical voice in the economic discourse.
+Today’s symposium invites us to reflect on economic paradigms and whether it is time for a revolution. In my presentation here today, I will focus on how Norges Bank uses macroeconomic models in monetary policy decision-making. I will also touch upon the ongoing project to renew our modelling system. I cannot promise a revolution in Norges Bank, but I hope to illustrate how we constantly strive to develop our models in the light of new knowledge and experience. How policy rate hikes affect the economy is, of course, a question we devote considerable time to. In our models, policy rate hikes dampen inflation. In conclusion, I will take this opportunity to present some updated research results that support this relationship.
+Norges Bank is tasked with keeping inflation low and stable. The operational target is inflation of close to 2% over time. We are also mandated to help keep employment as high as possible and to promote economic stability.
+Our work to achieve this is supported by macroeconomic models.
+A good macroeconomic model is based on theoretical and empirical knowledge accumulated over time and helps us structure our thinking and contribute to consistent assessments. All models are simplifications of reality, and no model can address all questions. However, if we use them wisely and remain aware of their limitations, models can be a great aid in understanding the economy and in the conduct of monetary policy.
+We select our models based on the questions they need to address. When we analyse the current economic situation and prepare forecasts for the coming quarters, we apply a data-driven approach, as well as a large number of empirical models based on information from a wide range of sources. Typical model types include simple autoregressive models, factor models and vector autoregressive (VAR) models. The different models are incorporated in a modelling system and the models with the best forecast performance are given the most weight.
+[1]
+Using the modelling system, we can regularly update and evaluate our forecasts when new key figures are received. However, when we prepare forecasts, we are not constrained solely to what the models tell us. When the models fail to capture conditions that we deem important here and now, for example during abrupt shifts in the economy, we must revise our thinking. The pandemic was an example of such an abrupt shift. Text-based indicators that could be continually updated and high-frequency household card transaction data then proved to be extremely useful and have later been integrated into our modelling system.
+The analytical framework applies data from a wide range of sources, including various questionnaire surveys. Norges Bank's Regional Network, consisting of some 1600 firms from different sectors of the economy in all parts of Norway, has long been a very important source of information for us. We conduct around 400 interviews every quarter, and they provide us with an up-to-date picture of the economic situation, often before it shows up in publicly available statistics. We also monitor the inflation expectations of different segments of the Norwegian economy in the Expectations Survey.
+To analyse economic developments in the medium term – which is the horizon at which monetary policy has the greatest effect – we apply models that combine theoretical and empirical insights from macroeconomic research. At its core, our main model NEMO is a dynamic, stochastic, general equilibrium model for a small open economy, adapted to capture key features of the Norwegian economy, for example by including the petroleum sector and it is therefore both larger and less stylised than a typical textbook model. We use NEMO to prepare forecasts for the next three to four years. To exploit the strengths of the different models, we apply short-term forecasts from the more data-driven models in NEMO. NEMO connects the current economic situation with long-term trend levels for key variables, such as productivity growth, population growth and the policy rate. Our assessments of the trend level of the Norwegian economy are based on economic theory, research-based models and data trend analyses, both in Norway and abroad. At Norges Bank's previous update of the normal interest rate, the nominal policy rate was for example forecast to lie between 2.25% and 3.5% somewhat further ahead, given an inflation rate of 2%. This estimate has increased somewhat in recent years.
+In addition to being an aid in the forecasting work, NEMO also helps us interpret which shocks have hit the economy and to understand the interaction between the policy rate and economic developments. As you know, Norges Bank is one of few central banks that publishes policy rate forecasts.
+The policy rate forecast from NEMO provides an important starting point for the discussions in Norges Bank's Monetary Policy and Financial Stability Committee – but it is not decisive for the policy rate decision. The policy rate cannot be set on autopilot. In the Committee, we always ask ourselves: How sensitive is the forecast to changes in the assumptions? What alternative narratives can also fit the data? Does the balance of risks suggest a different policy rate response than the modelling system does? What are the right trade-offs at this point in time?
+The work to develop the modelling system is never done.
+The economy has been hit by large shocks in recent years. The pandemic, wars and conflicts in many parts of the world and changes in the framework for international trade and cooperation have put our models to the test. Monetary policy has had to navigate in uncharted territory. In retrospect, both our models and the assessments we made during the recent post-pandemic inflation surge were probably somewhat overly influenced by the many years of low inflation that were then behind us. We underestimated the intensity of inflation impulses that could arise from the interplay between pandemic-related supply-side shocks and a very expansionary economic policy.
+Experience from recent years has highlighted the need for data and models that are better able to capture abrupt shifts in the economy. We must give more weight to international impulses in our analyses – including supply-side impulses – and the consequences they have for wage and price formation in Norway. And, finally, we must be able to quickly adapt monetary policy when prospects change.
+So how do we achieve this?
+We are currently exploring how artificial intelligence and machine learning can be applied in the modelling system. Preliminary results are promising. We are seeing that artificial intelligence can support model development, lower the threshold for applying new models and improve existing ones. For example, machine learning can help improve forecasting models and lead to more flexible methods for weighting models to reduce forecasting error. This may improve the basis for the Committee's assessments.
+To improve our understanding of how different supply-side and demand-side shocks affect the economy, we are incorporating more heterogeneity in the modelling system.
+Norges Bank has been working on this for some time in parallel with an increased research focus on microdata that covers households, the labour market and consumer prices.
+Access to microdata for households' card transactions, income and wealth has made a wide range of new analyses possible. The aim of the analyses has been to provide a richer understanding of how households respond to different shocks and how the policy rate affects the economy. In a global context, Norwegian households have very high debt-to-income ratios and most debt is at floating rates, which means that interest rate changes have a major – and rapid – effect on disposable income. It has therefore been an important ambition for us to gain a better understanding of how the policy rate affects the economy through the
+cash-flow channel.
+In standard macro models, the cash-flow channel is often weak. This reflects the fact that the models' starting point is a representative household that adjusts consumption optimally over time without facing borrowing constraints. In such models, the policy rate primarily has an effect through the
+substitution channel
+, which suggests that a higher rate makes it more attractive to postpone consumption and increase saving instead. Recent research indicates, however, that household finances may have a significant impact on how the policy rate affects the economy.
+Based on microdata, colleagues at Norges Bank have estimated how the consumption response to policy rate changes varies with households' debt.
+[2]
+This chart shows how household consumption changes following an unexpected policy rate increase of 1 percentage point, and how the effect varies with households' debt ratios – ie households' debt relative to income. It is perhaps not that surprising that the chart shows that the higher the debt ratio of a household, the more the household reduces consumption when the policy rate rises. The effect becomes noticeable a couple of months after the policy rate hike and accelerates through the first year. If we compare a household with debt that is three times its annual income with a household with no debt, the highly indebted household will cut consumption by about 1.5 percentage point more after one year.
+We have recently also collected and prepared labour market and consumer price micro data for research and analysis.
+Labour market data cover both the supply and demand side of the labour market, and supplied with this data, the aim is to improve our understanding of labour market dynamics and tightness. With the latest updated microdata for consumer prices, we now have 50 years of detailed data. The aim is to improve our understanding of price dynamics through periods of high and low inflation, both how frequently and by how much prices change for different goods and services.
+The microdata analyses provide us with insights that we use when we develop our models.
+We have an ongoing model project where the aim is to update and modernise our main model NEMO based on recent theoretical and empirical research.
+Even though the model has been continually updated, we now wish to make some more comprehensive changes. Among other things, the model project explores whether the supply side can be expanded with a slightly richer structure to better capture international impulses through supply chains and wage formation in Norway. We also examine how expectations formation should be modelled in light of recent academic research, for example if we need to have more mechanisms that affect how forward-looking the agents in the model are. On the demand side in the model, we will integrate lessons from microdata and include an explicit cash-flow channel for households to better capture the direct effect of policy rate changes on households' interest expenses.
+We will always wish for richer and more realistic models, but we also know that our main model cannot include all relevant mechanisms. We will therefore simplify the model where possible and instead apply other models when investigating new channels and relationships. For example, if we wish to study distributional effects of economic shocks, HANK models may be useful. These are models where households can vary along a wider range of dimensions than can realistically be accommodated in the main model.
+In light of Norges Bank's mission, it is particularly important to understand how policy rate changes affect inflation, output and employment, and to integrate these relationships into our models.
+In an ongoing research project, colleagues at Norges Bank have conducted a new and thorough analysis of the effect of a policy rate change on inflation in Norway.
+[3]
+A challenge in such analyses is that the policy rate and inflation often move in the same direction, as observed in both Norway and other countries. This is often due to the central bank raising the policy rate when inflation is high or rising. It may therefore at first glance appear as if the higher policy rate is not having an effect or is even pushing up inflation. In macroeconomic research, we cannot go back in time and test what would happen to inflation if the policy rate had been set differently.
+To get closer to a causal relationship, my colleagues seek to identify policy rate changes that are exogenous or unexpected and then examine how such policy rate surprises affect inflation. The results show that a policy rate hike dampens inflation over time, and that this effect is statistically significant. This chart shows the effect on inflation, measured by the CPI-ATE, of an unexpected increase in the six-month money market rate of 0.25 percentage point. We can see that inflation falls gradually during the first year and is 0.2 percentage point lower during the first three years.
+Uncertainty naturally increases as the forecast horizon increases.
+The researchers have found that the results are robust across different methods and that both domestic and imported inflation are dampened when the policy rate rises, the latter partly through a stronger exchange rate. At the same time, we are seeing that a higher policy rate over a certain period may push up house rents before the effect declines further out. In the near term, this dampens some of the effect on domestic inflation but, overall, the policy rate hike nevertheless pushes inflation down.
+Let me conclude.
+Macroeconomic models are a useful tool in the conduct of monetary policy. However, the economy is constantly hit by new shocks, and economic relationships change over time. We therefore work to continually improve both our underlying data and models in light of experience gained and new research. Evolution, rather than revolution, describes how we work.
+Thank you for your attention!
+Sources
+Ahn, SeHyoun, Sigurd Mølster Galaasen and Mathis Mæhlum (2024) "The Cash-Flow Channel of Monetary Policy – Evidence from Billions of Transactions". Norges Bank
+Working Paper
+20/2024.
+Aastveit, Knut Are and Nicolò Maffei-Faccioli (2026) "How Does Monetary Policy Affect Inflation in Norway?".
+Forthcoming.
+Bowe, Frida, Inga Nielsen Friis, Atle Loneland, Erlend Salvesen Njølstad, Sara Skjeggestad Meyer, Kenneth Sæterhagen Paulsen and Ørjan Robstad (2023) "A SMARTer way to forecast". Norges Bank
+Staff Memo
+7/2023.
+Footnotes
+[1]
+Bowe et al (2023)
+[2]
+See Ahn et al (2024).
+[3]
+Aastveit and Maffei-Faccioli (2026).
+Published
+21 May 2026
+09:15
+Print
+Downloads
+Presentation at Mork Symposium
+(pdf)
+Published
+21 May 2026
+09:15
+Print

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Global Economic Scene – Sydney",
+  "date_original": "2022-08-02",
+  "date_au": "02/08/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-ag-220802.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-08-02 - Sydney - The Global Economic Scene – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-08-02 - Sydney - The Global Economic Scene – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a0b70c1ff2b9bebe966d9183aa3f8c096f487f52c88ecc58ee90c7c0ec0ba7a7"
+}

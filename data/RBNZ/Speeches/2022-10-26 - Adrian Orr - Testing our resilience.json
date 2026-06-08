@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Testing our resilience",
+  "date_original": "2022-10-26",
+  "date_au": "26/10/2022",
+  "datetime_original": "",
+  "speaker": "Adrian Orr",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/infinz-conference-statement-oct-2022.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-10-26 - Adrian Orr - Testing our resilience.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-10-26 - Adrian Orr - Testing our resilience.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:50",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/27-oct-2022",
+  "content_sha256": "63bf7927519c1519d299a4e6fedc7d6bce1876cc3938feeb3a98d9f57cd70798"
+}

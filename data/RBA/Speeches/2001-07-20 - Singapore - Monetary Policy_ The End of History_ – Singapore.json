@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy: The End of History? – Singapore",
+  "date_original": "20 July 2001",
+  "date_au": "20/07/2001",
+  "datetime_original": "",
+  "speaker": "Singapore",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-dg-200701.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-07-20 - Singapore - Monetary Policy_ The End of History_ – Singapore.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-07-20 - Singapore - Monetary Policy_ The End of History_ – Singapore.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7213a6ebc50b935d7e8b18931688caabeae087b2d49b04e3414e60921aa50ea4"
+}

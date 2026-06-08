@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at DLT-Enabled",
+  "date_original": "2025-02-25",
+  "date_au": "25/02/2025",
+  "datetime_original": "",
+  "speaker": "Brad Jones",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-02-25.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-02-25 - Brad Jones - Fireside Chat at DLT-Enabled.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-02-25 - Brad Jones - Fireside Chat at DLT-Enabled.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7f88137095c0bbfbf745a1e1c3281c8937f329e6836cc879b08e7b0f30f0c230"
+}

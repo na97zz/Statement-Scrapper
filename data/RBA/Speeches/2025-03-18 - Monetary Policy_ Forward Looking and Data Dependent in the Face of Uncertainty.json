@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy: Forward Looking and Data Dependent in the Face of Uncertainty",
+  "date_original": "2025-03-18",
+  "date_au": "18/03/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-03-18.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-03-18 - Monetary Policy_ Forward Looking and Data Dependent in the Face of Uncertainty.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-03-18 - Monetary Policy_ Forward Looking and Data Dependent in the Face of Uncertainty.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fd42e80427863fd29cf4a7cc60de21c937cd8bfc2fb9ddedb98d933c7b4c72c9"
+}

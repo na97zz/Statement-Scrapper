@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions and Prospects – Hong Kong",
+  "date_original": "19 March 2012",
+  "date_au": "19/03/2012",
+  "datetime_original": "",
+  "speaker": "Hong Kong",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-gov-190312.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-03-19 - Hong Kong - Economic Conditions and Prospects – Hong Kong.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-03-19 - Hong Kong - Economic Conditions and Prospects – Hong Kong.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "587961d3a2e8cb6e8f6ca5a7c79885440ba431cdb38c037b43a2f8dca968aa19"
+}

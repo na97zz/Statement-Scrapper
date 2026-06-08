@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions and Prospects – Sydney",
+  "date_original": "17 September 2003",
+  "date_au": "17/09/2003",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2003/sp-dg-170903.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2003-09-17 - Sydney - Economic Conditions and Prospects – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2003-09-17 - Sydney - Economic Conditions and Prospects – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5991436b23ce7e032fb4c88addc5788cc57305d27fe9d27151d984dfeef3dfb"
+}

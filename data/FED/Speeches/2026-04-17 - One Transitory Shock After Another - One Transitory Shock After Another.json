@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "One Transitory Shock After Another",
+  "date_original": "2026-04-17",
+  "date_au": "17/04/2026",
+  "datetime_original": "",
+  "speaker": "One Transitory Shock After Another",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-04-17 - One Transitory Shock After Another - One Transitory Shock After Another.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-04-17 - One Transitory Shock After Another - One Transitory Shock After Another.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b649321671e98ee7e298ecf32309b828f2febb6c59fc05dded4e867557bfee41"
+}

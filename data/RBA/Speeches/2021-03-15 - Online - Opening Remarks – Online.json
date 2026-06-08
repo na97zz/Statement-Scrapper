@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Remarks – Online",
+  "date_original": "2021-03-15",
+  "date_au": "15/03/2021",
+  "datetime_original": "",
+  "speaker": "Online",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-03-15.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-03-15 - Online - Opening Remarks – Online.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-03-15 - Online - Opening Remarks – Online.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "adc30c27ca2a6a47f946c2cfd40b5ea35d4595afe8adbfe9b5fcc395c887b6a0"
+}

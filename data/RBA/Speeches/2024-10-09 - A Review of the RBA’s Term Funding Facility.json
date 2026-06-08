@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Review of the RBA’s Term Funding Facility",
+  "date_original": "2024-10-09",
+  "date_au": "09/10/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-10-09.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-10-09 - A Review of the RBA’s Term Funding Facility.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-10-09 - A Review of the RBA’s Term Funding Facility.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9d09d4d601aebc3fa13da2dbb88964c4be1844e62db45dffe5303e9addb91fdb"
+}

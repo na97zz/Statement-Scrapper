@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Housing in the Endemic Phase – Sydney",
+  "date_original": "2022-05-25",
+  "date_au": "25/05/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-ag-2022-05-25.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-05-25 - Sydney - Housing in the Endemic Phase – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-05-25 - Sydney - Housing in the Endemic Phase – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "232a57b5ae6bdb2c0e4cb112d99fd51989fbb97a933929d57d4aee98858f3154"
+}

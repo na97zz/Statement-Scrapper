@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Efficient and Effective Central Banking: Beyond the Balance Sheet",
+  "date_original": "2026-05-14",
+  "date_au": "14/05/2026",
+  "datetime_original": "",
+  "speaker": "Michael S. Barr",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-14 - Michael S. Barr - Efficient and Effective Central Banking_ Beyond the Balance Sheet.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-14 - Michael S. Barr - Efficient and Effective Central Banking_ Beyond the Balance Sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0f37efa8622a2c934a818c985c6d54b99c60bb72d87a55f3c8d5da2d379abe5c"
+}

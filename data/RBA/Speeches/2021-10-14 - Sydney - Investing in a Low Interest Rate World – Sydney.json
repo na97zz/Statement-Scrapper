@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Investing in a Low Interest Rate World – Sydney",
+  "date_original": "2021-10-14",
+  "date_au": "14/10/2021",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-dg-211014.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-10-14 - Sydney - Investing in a Low Interest Rate World – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-10-14 - Sydney - Investing in a Low Interest Rate World – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a22a92ea838acf8b36a823572f0b263e2b655c4531e363883c11b3b9f0cb0a28"
+}

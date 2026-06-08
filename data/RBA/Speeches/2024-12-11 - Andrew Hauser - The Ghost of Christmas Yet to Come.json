@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Ghost of Christmas Yet to Come",
+  "date_original": "2024-12-11",
+  "date_au": "11/12/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-12-11.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-12-11 - Andrew Hauser - The Ghost of Christmas Yet to Come.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-12-11 - Andrew Hauser - The Ghost of Christmas Yet to Come.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1b87382daa7d12abd129f7e155b0936e2da1b346707e3c5e58b498dfd3773c19"
+}

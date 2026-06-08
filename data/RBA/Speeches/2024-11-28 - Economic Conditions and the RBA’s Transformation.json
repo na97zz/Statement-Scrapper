@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions and the RBA’s Transformation",
+  "date_original": "2024-11-28",
+  "date_au": "28/11/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-gov-2024-11-28.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-11-28 - Economic Conditions and the RBA’s Transformation.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-11-28 - Economic Conditions and the RBA’s Transformation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8f09746add1509c6791bbb6678a4575ed1f7d8ab8fad361e4e2f37f827a022b"
+}

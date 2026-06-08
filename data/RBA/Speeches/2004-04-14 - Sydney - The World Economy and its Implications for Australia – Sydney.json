@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The World Economy and its Implications for Australia – Sydney",
+  "date_original": "14 April 2004",
+  "date_au": "14/04/2004",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-gov-140404.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2004-04-14 - Sydney - The World Economy and its Implications for Australia – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2004-04-14 - Sydney - The World Economy and its Implications for Australia – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "86f6509cd71722f3eb9656b45d4bdf7e7e7516cce3dd8aeb2019cdf8a9756dbb"
+}

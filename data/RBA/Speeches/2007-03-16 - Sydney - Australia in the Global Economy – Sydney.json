@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia in the Global Economy – Sydney",
+  "date_original": "16 March 2007",
+  "date_au": "16/03/2007",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2007/sp-ag-160307.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2007-03-16 - Sydney - Australia in the Global Economy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2007-03-16 - Sydney - Australia in the Global Economy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "051bfd8aae86507e3164174ad6d218e44d604dccfbf8422cafc74bf80a74da3e"
+}

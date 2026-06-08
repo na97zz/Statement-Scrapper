@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia and Canada – Comparing Notes on Recent Experiences – Sydney",
+  "date_original": "19 May 2009",
+  "date_au": "19/05/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-gov-190509.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-05-19 - Sydney - Australia and Canada – Comparing Notes on Recent Experiences – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-05-19 - Sydney - Australia and Canada – Comparing Notes on Recent Experiences – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5cb6d714d967a364ae4b610cc545a8e459942b56e899a44a19b3d944127e884d"
+}

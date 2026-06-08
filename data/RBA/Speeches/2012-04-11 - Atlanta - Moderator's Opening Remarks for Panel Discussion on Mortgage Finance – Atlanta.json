@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Moderator's Opening Remarks for Panel Discussion on Mortgage Finance – Atlanta",
+  "date_original": "11 April 2012",
+  "date_au": "11/04/2012",
+  "datetime_original": "",
+  "speaker": "Atlanta",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-so-110412.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-04-11 - Atlanta - Moderator's Opening Remarks for Panel Discussion on Mortgage Finance – Atlanta.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-04-11 - Atlanta - Moderator's Opening Remarks for Panel Discussion on Mortgage Finance – Atlanta.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "403753c36ef4247dd6f510e6c5671eb2bbf092fd7851b1bee734197c469e88f7"
+}

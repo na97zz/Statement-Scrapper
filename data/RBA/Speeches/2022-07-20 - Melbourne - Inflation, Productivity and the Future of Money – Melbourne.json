@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation, Productivity and the Future of Money – Melbourne",
+  "date_original": "2022-07-20",
+  "date_au": "20/07/2022",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-07-20.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-07-20 - Melbourne - Inflation, Productivity and the Future of Money – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-07-20 - Melbourne - Inflation, Productivity and the Future of Money – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1e626407066a0219d6eaabc931f50bebfd5672e200fd825d97e696bb5f017e8e"
+}

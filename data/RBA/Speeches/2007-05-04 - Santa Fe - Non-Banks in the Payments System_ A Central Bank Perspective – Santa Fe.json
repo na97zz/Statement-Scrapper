@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Non-Banks in the Payments System: A Central Bank Perspective – Santa Fe",
+  "date_original": "4 May 2007",
+  "date_au": "04/05/2007",
+  "datetime_original": "",
+  "speaker": "Santa Fe",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2007/sp-ag-050507.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2007-05-04 - Santa Fe - Non-Banks in the Payments System_ A Central Bank Perspective – Santa Fe.html",
+  "text_file_path": "data\\RBA\\Speeches\\2007-05-04 - Santa Fe - Non-Banks in the Payments System_ A Central Bank Perspective – Santa Fe.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6868c9cf605c0277cbe7874d061452fef5acf3518324271c79946dd6be4a3d1b"
+}

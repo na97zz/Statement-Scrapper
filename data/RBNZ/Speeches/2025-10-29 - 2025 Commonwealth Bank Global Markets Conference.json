@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "2025 Commonwealth Bank Global Markets Conference",
+  "date_original": "2025-10-29",
+  "date_au": "29/10/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2025/speech_transmission_ar_cba_october-2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2025-10-29 - 2025 Commonwealth Bank Global Markets Conference.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2025-10-29 - 2025 Commonwealth Bank Global Markets Conference.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:45",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2025/october/2025-commonwealth-bank-global-markets-conference",
+  "content_sha256": "a124f93a69fbe8d79a7dceef6b027f91d9ab669958a503679eb361a9e209f109"
+}

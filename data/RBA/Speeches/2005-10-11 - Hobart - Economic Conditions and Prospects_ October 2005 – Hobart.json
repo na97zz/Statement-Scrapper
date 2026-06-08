@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions and Prospects: October 2005 – Hobart",
+  "date_original": "11 October 2005",
+  "date_au": "11/10/2005",
+  "datetime_original": "",
+  "speaker": "Hobart",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-ag-111005.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-10-11 - Hobart - Economic Conditions and Prospects_ October 2005 – Hobart.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-10-11 - Hobart - Economic Conditions and Prospects_ October 2005 – Hobart.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e43b234b0601442cda746ff0d8c3426eed2d691385f9501651146e224ecd60e9"
+}

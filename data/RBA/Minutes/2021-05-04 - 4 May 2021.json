@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "4 May 2021",
+  "date_original": "2021-05-04",
+  "date_au": "04/05/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2021/2021-05-04.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2021-05-04 - 4 May 2021.html",
+  "text_file_path": "data\\RBA\\Minutes\\2021-05-04 - 4 May 2021.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:25:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3670b149b91514b8197d640f72b817d91b432bbf044c4c54e5e06a9816e3e7fd"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Investment and the Australian Economy – Melbourne",
+  "date_original": "2024-10-13",
+  "date_au": "13/10/2024",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-dg-241013.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-10-13 - Melbourne - Investment and the Australian Economy – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-10-13 - Melbourne - Investment and the Australian Economy – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "58b7a158754776a21f9c3ed234e2a3fb2e952553e16599da7b298ad201a13607"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Issues in 2004 – Sydney",
+  "date_original": "3 March 2004",
+  "date_au": "03/03/2004",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-ag-030304.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2004-03-03 - Sydney - Economic Issues in 2004 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2004-03-03 - Sydney - Economic Issues in 2004 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7c58e22e9ea09413cc5f0b741f80a3200fcf0f54498ea49661c8ae80348068e7"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economic Outlook in 2002 – Adelaide",
+  "date_original": "18 February 2002",
+  "date_au": "18/02/2002",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-dg-180202.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2002-02-18 - Adelaide - The Economic Outlook in 2002 – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2002-02-18 - Adelaide - The Economic Outlook in 2002 – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8c677f02939915e4ed6bb1bd2fd75fec3468b5dc72d3c71b9c16e2b0535b8186"
+}

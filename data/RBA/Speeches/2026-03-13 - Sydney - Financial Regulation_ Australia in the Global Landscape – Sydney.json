@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financial Regulation: Australia in the Global Landscape – Sydney",
+  "date_original": "2026-03-13",
+  "date_au": "13/03/2026",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-gov-260313.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-03-13 - Sydney - Financial Regulation_ Australia in the Global Landscape – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-03-13 - Sydney - Financial Regulation_ Australia in the Global Landscape – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "84dd385156226391bd547b446fafceba63613d9f7b18535760bef090e80af9bc"
+}

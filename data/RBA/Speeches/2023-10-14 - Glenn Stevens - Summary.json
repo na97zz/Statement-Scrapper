@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Summary",
+  "date_original": "2023-10-14",
+  "date_au": "14/10/2023",
+  "datetime_original": "",
+  "speaker": "Glenn Stevens",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-231014-summary.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-10-14 - Glenn Stevens - Summary.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-10-14 - Glenn Stevens - Summary.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e4564d9f5655a518725f58348b3504deb23393010f8995f9d8f47894bbf87008"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Australian Foreign Exchange Market\r\n in the Recovery – Sydney",
+  "date_original": "10 December 2009",
+  "date_au": "10/12/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-101209.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-12-10 - Sydney - The Australian Foreign Exchange Market in the Recovery – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-12-10 - Sydney - The Australian Foreign Exchange Market in the Recovery – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b4535af43173b1a55ed51bc2640c345fe581cc7a78894b83fe933bcd82a8a419"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "An Efficient, Competitive and Safe Payments System – Sydney",
+  "date_original": "2022-12-14",
+  "date_au": "14/12/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-12-14.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-12-14 - Sydney - An Efficient, Competitive and Safe Payments System – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-12-14 - Sydney - An Efficient, Competitive and Safe Payments System – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3a1406684994ce08f6d6df9f0aa7c3e43819faf16d22b2cb11e800aea555bf9d"
+}

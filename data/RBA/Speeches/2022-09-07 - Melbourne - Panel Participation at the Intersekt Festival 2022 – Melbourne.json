@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the Intersekt Festival 2022 – Melbourne",
+  "date_original": "2022-09-07",
+  "date_au": "07/09/2022",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-so-2022-09-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-09-07 - Melbourne - Panel Participation at the Intersekt Festival 2022 – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-09-07 - Melbourne - Panel Participation at the Intersekt Festival 2022 – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7ae17e7408a81325062575d4c62fe1b0fbe07c6e092eccb405ef896c3c1a549e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Australian Chamber of Commerce and Industry (ACCI) Business Leaders’ Series",
+  "date_original": "2026-02-11",
+  "date_au": "11/02/2026",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-dg-2026-02-11.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-02-11 - Andrew Hauser - Fireside Chat at the Australian Chamber of Commerce and Industry (ACCI) Business Leaders’ Series.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-02-11 - Andrew Hauser - Fireside Chat at the Australian Chamber of Commerce and Industry (ACCI) Business Leaders’ Series.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "110de970f8dbd0f7d55963c54ff433898f87b063b85d1697b6bf672f79d8798b"
+}

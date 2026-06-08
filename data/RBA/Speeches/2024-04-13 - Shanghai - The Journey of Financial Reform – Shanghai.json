@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Journey of Financial Reform – Shanghai",
+  "date_original": "2024-04-13",
+  "date_au": "13/04/2024",
+  "datetime_original": "",
+  "speaker": "Shanghai",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-dg-240413.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-04-13 - Shanghai - The Journey of Financial Reform – Shanghai.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-04-13 - Shanghai - The Journey of Financial Reform – Shanghai.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "120c771ca36df7a40a448972555168c0d0716f835b2f5ba7396ffacb4d5c3e03"
+}

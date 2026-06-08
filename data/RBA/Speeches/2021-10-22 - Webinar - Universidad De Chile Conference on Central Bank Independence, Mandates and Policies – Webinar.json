@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Universidad De Chile Conference on Central Bank Independence, Mandates and Policies – Webinar",
+  "date_original": "2021-10-22",
+  "date_au": "22/10/2021",
+  "datetime_original": "",
+  "speaker": "Webinar",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-10-22.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-10-22 - Webinar - Universidad De Chile Conference on Central Bank Independence, Mandates and Policies – Webinar.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-10-22 - Webinar - Universidad De Chile Conference on Central Bank Independence, Mandates and Policies – Webinar.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "017c18a56fc544db8d3d26c5c4c1406ca6ba1dff7749e14f98eb11f113e0ef7a"
+}

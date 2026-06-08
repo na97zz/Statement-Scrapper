@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Five Years of Financial Crisis – Sydney",
+  "date_original": "2024-10-12",
+  "date_au": "12/10/2024",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-so-241012.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-10-12 - Sydney - Five Years of Financial Crisis – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-10-12 - Sydney - Five Years of Financial Crisis – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8da6bcf2f313279c468ef6cc6f707d40a12fa556189ac64ea1ab51cf6b767573"
+}

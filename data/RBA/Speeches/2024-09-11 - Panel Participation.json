@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation",
+  "date_original": "2024-09-11",
+  "date_au": "11/09/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-09-11-panel-participation.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-09-11 - Panel Participation.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-09-11 - Panel Participation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "270aac251472d9ed3ffd7a6a3a36a4b3b950a944c9bc0682dc848e07527c7c03"
+}

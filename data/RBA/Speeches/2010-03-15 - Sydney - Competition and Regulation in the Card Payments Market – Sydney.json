@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Competition and Regulation in the Card Payments Market – Sydney",
+  "date_original": "15 March 2010",
+  "date_au": "15/03/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-150310.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-03-15 - Sydney - Competition and Regulation in the Card Payments Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-03-15 - Sydney - Competition and Regulation in the Card Payments Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "14b913420ad884f23167479aba708ac7613cef0f75b88589b2477452d1dd1abc"
+}

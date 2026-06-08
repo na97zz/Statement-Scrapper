@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Enhancing Information on Securitisation – Sydney",
+  "date_original": "2022-10-12",
+  "date_au": "12/10/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-ag-221012.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-10-12 - Sydney - Enhancing Information on Securitisation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-10-12 - Sydney - Enhancing Information on Securitisation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3cab46fa0fa72e66d7a715cdae673b5e90b9926e7656660145baf8954033d3bd"
+}

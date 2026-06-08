@@ -1,0 +1,456 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Panel Participation at Australian Securitisation Forum Virtual Conference 2021 on ‘Transition to Risk Free Rates – the Future of BBSW’ – Online
+DATE: 23/11/2021
+SPEAKER: Online
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2021/sp-so-2021-11-23-2.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Panel Participation at Australian Securitisation Forum Virtual Conference 2021 on ‘Transition to Risk Free Rates – the Future of BBSW’
+Andrea Brischetto
+Deputy Head Domestic Markets
+Australian Securitisation Forum Virtual Conference 2021
+Online
+–
+23 November 2021
+Audio
+18.1MB
+Transcript
+Anne-Marie Neagle
+Good afternoon and welcome to today's session on the future of BBSW and the transition to risk
+ free rates. My name is Anne-Marie Neagle, I'm a partner at King & Wood Mallesons. I have the
+ pleasure of being joined for today's discussion by Andrea Brischetto, who is the Deputy Head of
+ Domestic Markets at the RBA, Kristye van de Geer, a Senior Manager in Interest Rate Products at ASX,
+ Alex Orgaz-Barnier, a Senior Manager in Market Infrastructure at ASIC and David Zeigler, the Division
+ Director for the IBOR Transition Programme at Macquarie Group. A warm welcome to our expert panel.
+ Ever since the now infamous 2017 speech by Andrew Bailey of the FCA, which foreshadowed that
+ after 2021, the FCA would no longer use its power to compel panel banks to submit rate information
+ used to determine LIBOR, global markets have been digesting and implementing significant rate reform.
+ Throughout this process, our focus has sharpened on the issues that may flow from using benchmarks,
+ from the suitability and robustness of credit linked benchmarks, to the risk of floating rate
+ contracts, reverting to a fixed rate, perhaps to a zombie rate, or if there's something worse
+ than zombies, becoming frustrated.
+As we close 2021, we are at least in a strict LIBOR sense now at the pointy end of these discussions,
+ but where are we here in Australia? And how will these developments play out for BBSW? Well,
+ that's what our panel today is here to clarify. Andrea, could you get us started with some macro
+ comments to refresh our understanding of the status of BBSW in the Australian market? And can you
+ comment on what the RBA role is in this space?
+Andrea Brischetto
+Look, thanks Anne-Marie, I think the key thing to note here is that BBSW as Australia's credit
+ based benchmark does remain robust. There's an active market underlying the benchmark, and a lot
+ of work has gone into strengthening the calculation methodology and the supporting infrastructure and
+ market practises. And this has allowed Australia to take a multiple rate approach for our local
+ reference rates. So unlike for LIBOR in Australia, the regulatory authorities aren't advocating a
+ wholesale shift to referencing the risk free rate, which in our case is the cash rate also known
+ as AONIA. But instead we expect market participants to choose a robust reference rate that makes
+ most sense for their particular product and situation, taking into account their own and their
+ clients' needs or hedging strategies.
+So in some cases referencing the risk free rate (the cash rate) will make most sense, and possible
+ examples here are floating rate notes issued by governments, non-financial corporations and
+ securitisation trusts. But in other cases, a credit based benchmark like BBSW will continue to make
+ most sense, for example, for floating rate notes and corporate loans issued by banks. But it's
+ worth noting that not all BBSW tenors are as robust as others. In particular the one month BBSW is
+ already largely a buyback market, and so it's less liquid than other tenors. So as the Reserve
+ Bank has been saying for a number of years now, users of one month BSSW really should be considering
+ using alternative benchmarks, given the lower liquidity in this market. And the other thing I'd
+ note on benchmark choice is that for some products, approaches adopted widely by market participants
+ offshore will matter for the reference rates we're likely to end up using here. So regardless of
+ the robustness of BBSW, we can still expect to see a shift towards referencing risk free rates for
+ some products.
+And I think just one final point, regardless of the reference rate chosen, we expect contracts to have
+ robust fallbacks as a routine part of prudent risk management. And this is so you're not faced
+ with contract frustration and potentially financial market disruptions in the event that the
+ reference rate in the contract becomes unavailable. So these messages of choosing an appropriate,
+ robust reference rate and having fall backs are ones the RBA has been highlighting for some time now,
+ and this is because appropriate use of benchmarks is important in underpinning the healthy
+ functioning of financial markets. So I might leave it there.
+Anne-Marie Neagle
+Thanks, Andrea. Kristye, I think we've just heard from Andrea that one month BBSW does remain in
+ focus. This is a key rate for securitisation markets. Can you update us on what the ASX as the
+ administrator of BBSW has been doing to support the robustness of this benchmark?
+Kristye van de Geer
+Yes, certainly. And good afternoon, everyone and thank you for the opportunity to join the panel
+ today. ASX has been the administrator for BBSW since 2017, and since that time we've done a lot
+ of work to really reform the methodology and make it a much more robust reference rate or benchmark.
+ We did initially introduce a transaction layer to the BBSW calculation methodology – that was
+ in 2018 – and that enabled us to use not just interbank transactions, but also investor to bank
+ transactions in the calculation of BBSW. In December of last year, we actually made some further
+ enhancements to the methodology, and that was to widen the maturity pool for the transactions that we
+ captured and included in the calculation so that we could form a transaction-based rate much more
+ frequently.
+And we're pleased to see that, that's resulted in an increase in tenor formation across all of
+ our BBSW tenors. BBSW is a key benchmark for the Australian market, and so we continue to invest time
+ and resources into ensuring the ongoing robustness of that rate and we actively monitor the health of
+ the market and the performance of the rate, both with our external facing advisory committee, as well
+ as through our internal oversight group.
+Anne-Marie Neagle
+Thanks, Kristye, I imagine we can get some insights on how one month BBSW is tracking, through
+ understanding which layers or levels of the ASX's benchmark calculation waterfall have been
+ engaged in forming one month BBSW. Is that something you could comment on? And have you seen any
+ change following the recent methodology adjustments you mentioned?
+Kristye van de Geer
+Yes, I can certainly provide some insights into what we have seen. I think firstly it's worth just
+ quickly touching on what that BBSW calculation waterfall is. So the top layer, as I said, we've
+ added transactions, that's our top layer of the calculation. That's then followed by NBBO or
+ National Best Bid Best Offer, so that's using live, executable bank prices in the calculation of
+ the rate. And then below that we've got four other levels that ensure that we can calculate and
+ publish BBSW on a daily basis. I think it's important to note that for all of our tenors,
+ including one month, we've only ever used either the transaction layer or the bid offer layer for
+ the calculation and publication of BBSW. We've never had to fall further down the waterfall for
+ any of our tenors.
+To your question on the one month tenor, which of course is very important for this industry, I think
+ there are a couple of observations that are important to make. With the introduction of the enhanced
+ methodology, so where we widen that maturity pool, we have seen an increase in tenor formation using
+ transactions across all of our tenors, but certainly in the one month. So if I look six months prior
+ to when we made that methodology change in December, one month BBSW was being published about
+ 18 per cent of the time using the transaction layer. Since we've introduced that
+ methodology, we've seen that increase to about 30, 33 per cent on average. And in fact,
+ over the last couple of months, that's been about 40 to 50 per cent of the time
+ we've published the one month using the transaction layer.
+The other change that we've seen in the one month is the increase in investor buying activity
+ that's being used to form the rate.
+Now, I think this is due in part to that wider maturity pool, particularly with it being a
+ minus 5, plus 10 business days, so we are capturing more of that longer dated buying of one
+ month paper. But I think there are other factors at play here as well. We've seen a really flat
+ yield curve environment, and so we have seen investors gravitating towards those shorter dated tenors
+ at this particular point in time, versus some of those longer dated tenors. So there are periods
+ where we do see investors more actively buying one month, but as Andrea highlighted previously, we do
+ see periods of time where it is much more of a sell back market, particularly in a normal yield curve
+ environment.
+I think it's also really important to highlight, the bank bills continue to be an important
+ funding tool for the banks, and it's also an important investment product for the portfolio
+ managers. And certainly, in our discussions with both the issuers and the investors, we don't see
+ that changing today or in the near term, so BBSW remains an important and robust reference rate. But
+ with that being said, and as we've seen from global experience, we don't know what it's
+ going to be like in 5 years' time, 10 years' time or even longer, and that's
+ why the adoption of fall-back language is so important for the industry.
+Anne-Marie Neagle
+Thanks, Kristye. That's really helpful. Alex, we've heard from the ASX and from the RBA. What
+ about ASIC's role in regulating BBSW? And how is ASIC engaging in the developments that we've
+ just discussed?
+Alex Orgaz-Barnier
+Yes, our role in regulating BBSW is connected to our role as regulators of the benchmark
+ administrator, which is in this case, the ASX. BBSW has been declared by ASIC to be a significant
+ financial benchmark. And as a result, the ASX as its administrator is subject to a number of
+ obligations to ensure that the availability and the integrity of the benchmark is not disrupted. A
+ key obligation of the administrator is to maintain the quality, integrity, availability, and
+ credibility of the benchmark. And the work of ASX on the conventions and methodology of BBSW that
+ Kristye has just described goes to complying with that obligation. There are other obligations that
+ ASX benchmark is subject to around governance, conflicts, resources, transparency, and a number of
+ others that also contribute to this key obligation of generating the benchmark in an appropriate way.
+ The role of ASIC is to supervise ASX to ensure that it continues to meet these obligations.
+And in our day to day, this means engaging with ASX regularly, often in conjunction with the RBA. And
+ in the course of those engagements, we deal with a number of different topics like the state of BBSW
+ markets updates, similar to what Kristye had just provided, any operational issues that may have
+ arisen and the remediation issues with the approved trading venues that facilitates the sort of
+ pricing for the benchmark, and of course, any enhancements to calculation methodologies that ASX
+ undertakes, including how the enhancement methodologies are performing, as in, in this area that
+ Kristye referred to – the transaction based and information being a key one. So ASX has taken a
+ consultative approach to the enhancement of BBSW calculation methodology. And that consultative
+ approach has included us as well, the regulator. We've followed closely the developments and we
+ also attend BBSW advisory committee meetings on a regular basis. So generally, we're satisfied
+ that those enhancements to the methodology have strengthened the robustness of the benchmark and that
+ ASX continues to monitor its performance adequately and also, they're transparent to the market
+ about the performance of the benchmark.
+Anne-Marie Neagle
+Thanks, Alex. That's really helpful. Kristye, before we move on from this section, we've just
+ had a question from the audience that I might take the opportunity to put to you. You provided some
+ really great colour before in relation to formation through the methodology and the layers. The
+ audience has asked whether you can comment knowing that the banks were largely out of term funding
+ markets during the TFF period we've just experienced. Was there a drop off in the issuance of
+ bills in such a way that the BBSW calculation was affected?
+Kristye van de Geer
+Yeah, that's a really good question. We did see a slight reduction in Prime Bank issuance
+ outstanding, but that has subsequently come back. We didn't see a decline to the extent that it
+ compromised the BBSW is what I would certainly say. As I highlighted before we did see some changes
+ in the tenors that the investors were participating in and which tenors they were wanting to buy
+ throughout that period. But the Prime Banks were facilitating the investor demand for Prime Bank
+ paper throughout the whole period. We didn't see the impact of the TFF really having an impact on
+ the Prime Bank issuance and activity to the extent that it was of detriment to the BBSW rate
+ calculation. I think from the Prime Banks' perspective, as I mentioned before, it continues to be
+ an important funding market and maintaining that investor relationship is also an important aspect
+ for the banks.
+Anne-Marie Neagle
+Thanks, Kristye, that's really helpful. Andrea, we might move back to the RBA now. In September
+ this year, as our audience will be aware, the RBA released new eligibility criteria for securities to
+ be accepted as collateral in the Reserve Bank's market operations. These changes will require
+ that robust fall-back provisions be included in all repo eligible asset-backed securities issued on
+ or after 1 December, 2022. That in effect puts a long stop date on the work needed in the
+ securitisation industry to finalise our fall-back recommendations. Can you please tell us a bit
+ more about these upcoming changes?
+Andrea Brischetto
+Sure. So look, these new requirements are being introduced in support of global reforms to strengthen
+ financial benchmarks and ensure they're being used appropriately in the financial system. So as
+ we've already discussed, BBSW does remain robust, but nonetheless, fall-backs provide important
+ insurance when using any benchmark, and this includes BBSW. Now, before I step through the
+ requirements themselves, I do want to acknowledge the contribution from industry in this process. So,
+ I do want to say thank you to all of you, who've engaged with the RBA and provided us feedback as
+ we've developed the requirements, because this really has helped us make sure they're fit for
+ purpose and it's much appreciated. So, thank you.
+Now, turning to the requirements themselves, they are that from the 1st of December, 2022, all new
+ securities referencing BBSW must include robust fall-back provisions to be eligible for use in
+ Reserve Bank operations. So this covers any marketed asset-backed securities (ABS) or floating rate
+ notes (FRNs) issued on or after the 1st of December next year. Now marketed ABS and FRNs issued
+ before that date won't be subject to the requirement, but nonetheless, as a matter of prudent
+ risk management, issuers should strongly consider including robust fall-backs. And this is
+ particularly the case for securities with lengthy maturities.
+And the other thing to note is that all self-securitisations, regardless of the date of issue, will be
+ required to have robust fall-backs to be eligible for repo with the RBA. Now we'll engage
+ directly with issuers to determine implementation timing in each case and we will be giving at least
+ 12 months' notice before the requirement comes into effect, so that'll be a bilateral
+ process with issuers. Now, that's the application. But in terms of the requirements themselves,
+ rather than defining specific required fall-back language, we've taken a principles-based
+ approach. So what we require is at least one robust, reasonable, and fair fall-back for BBSW in the
+ event that it permanently ceases to exist.
+So this means the fall-back needs to have a clearly defined method for calculating interest and a
+ clear and unambiguous trigger event. Now, to be robust, the fall-back can't involve discretion or
+ dealer quotes, and to be fair, it needs to reasonably mitigate the impact on the economic value of
+ the security. So a fixed rate fall-back, for example, wouldn't satisfy this requirement. Now, we
+ also require a robust fall-back is included for the case of a temporary cessation. So this is where
+ BBSW isn't available temporarily say because of an operational outage. And again, here, the
+ fall-back will need to specify a clear calculation method and trigger. So, I think that's
+ probably a high-level summary of them.
+Anne-Marie Neagle
+Thanks, Andrea. We've got a question in from the audience that I might touch on if you have a
+ moment. The audience would like to understand whether or not the RBA would be willing to lead the
+ market by directing what the replacement benchmark should be and whether or not the RBA has a
+ perspective on that, or whether that's something that the RBA would want to do.
+Andrea Brischetto
+Right. No, look, as I said, we're very consciously taking a principles-based approach. And the
+ reason here is it really is industry that's best placed to work out what reference rate makes
+ most sense for their particular situation and their particular needs. We're really not the expert
+ in this area and we're not even the regulator, so that's why we have taken this approach. And
+ I think this is mirrored in our whole … and I think for Australian regulators in
+ general, the approach to benchmark reform, which is this multiple rate approach. We're not
+ dictating like they have in other markets, this wholesale sort of shift to risk free rates. Now
+ that's been a necessity in LIBOR jurisdictions because of the imminent end of LIBOR. But because
+ we're not in that situation, that hasn't been a necessity here. So, it really just comes back
+ to the industry being experts in this, not us.
+Anne-Marie Neagle
+Thanks, Andrea. That's really helpful. I'm going to jump into the next part of the session in
+ light of time. So, Dave, I might flick to you now if that's okay. There's been a few
+ questions, trying to understand where we're at with these processes. The ASF has been working
+ with the RBA, ASIC and the ASX including the participants on the panel today in connection with BBSW
+ fall-backs for some time now. As the chair of the ASF's working group in this space, could you
+ provide us with a really quick update on the work the ASF has been doing?
+David Zeigler
+Yeah, no problem and hello everyone. Good afternoon. Before I start, I am going to mention that
+ I'm proudly sporting a Mo for November. So you'll have to put up with that, for the next
+ 20 minutes. Yes, there has been a lot of ongoing work that the ASF's been doing and that has
+ actually been going for several years now. And because BBSW is continuing as has been mentioned, a
+ couple of times, we have had the benefit of sitting back and watching how these other LIBOR markets
+ have dealt with real issues around benchmark cessation. So, new territory is being covered through
+ the cessation of LIBOR and there are learnings coming out of that. So, being able to sit back and
+ wait for that to play out has been really helpful from our point of view.
+So we have conducted a couple of consultations over the last couple of years and what members and
+ other market participants have sort of fed back to us is they really want a simple and a pragmatic
+ approach to mitigating BBSW cessation risk, which is I guess, a very Australian way to do things. So
+ over the last couple of years, as I said, we have been observing what's been happening in
+ international markets. And the issues that have been dealt with have been very complex. So we've
+ looked at, and we've talked about the evolution of fall-backs, we've talked about or
+ observed, I guess, an array of calculation conventions. We've seen markets grapple with issues
+ around the robustness of new alternative rates, such as the term risk free rates and credit sensitive
+ rates. And we've also watched, I guess a range of regulatory and legislative solutions that have
+ needed to be implemented to deal with certain parts of the market, the so-called tough legacy
+ contracts.
+So as these issues have panned out in international markets, as the panellists here know, we've
+ been discussing these issues and working through what they mean in an Australian regulatory and
+ securitisation market context, and really looking at what were the practical outcomes and how were
+ these issues dealt with and how are we going to deal with that in Australia? So not withstanding that
+ a lot of this effort has happened in the private sort of domain, I guess, and amongst the panellists
+ here, it does feel like we've really made great progress towards understanding and mitigating
+ these BBSW cessation risks.
+Anne-Marie Neagle
+Thanks, Dave. When I think about fall-backs, I tend to split the drafting into two key parts. So
+ firstly, I think about the triggers that will engage the fallbacks. And then secondly, I think about
+ the waterfall that will apply if the fallback's engaged. I want to start with the triggers.
+ Developing triggers in the Australian market, raises some different issues to those we've seen in
+ the currently transitioning LIBOR markets. For example, Australia may experience a tenor cessation
+ perhaps in one month BBSW rather than an entire rate cessation. Australia's current regulatory
+ powers in the benchmark space are also quite different to those in other jurisdictions, such as in
+ the EU, under the benchmark regulation and as a multiple rate jurisdiction as Andrea called it
+ before, Australia has not yet fully processed things like tough legacy that could arise if a BBSW or
+ a tenor of BBSW were to cease. Kristye, could I get you to quickly comment on whether or not the ASX
+ has developed any plans for how a BBSW rate or tenor cessation would actually play out if it were to
+ occur? And how would the market know if this became live?
+Kristye van de Geer
+Yeah, thank you. Anne-Marie. So certainly, through our engagement with industry bodies, such as ASF,
+ we've heard that there's a real need for greater clarity on how a cessation event would play
+ out, particularly when a rate might become non-representative. So this year we've been working
+ really closely with ASIC on developing that benchmark cessation process, really focusing on
+ pre-cessation and cessation, and of course, how we would engage with the regulators in the industry.
+ Should we see evidence that a BBSW tenor is no longer representative of the underlying asset it's
+ there to measure, and that we couldn't see that representativeness being restored. So the way
+ that we're approaching it is that there'll be multiple points of engagement with the market.
+ And that's firstly, to understand what's driving the change in market activity in bank bills,
+ is it structural? Or is it more for sort of transitory factors that are driving that?
+In the event that we did determine a BBSW tenor was no longer representative, and that we felt that
+ that could not be restored, we would consult more formally with the market and with users of BBSW on
+ the cessation of this rate. And that's really to assess the impact of cessation and what that
+ would have on the market in terms of understanding the size of the legacy contracts in the market and
+ what timeframes the market would need to be operationally ready to switch to fall-back rates. All of
+ these would factor into our timelines for determining a cessation date.
+Anne-Marie Neagle
+Thanks very much Kristye. I imagine there's been a lot of work going on between ASIC and the ASX
+ in this space, Alex, I wonder if you could provide some colour on where ASIC is considering these
+ issues around transition.
+Alex Orgaz-Barnier
+Yeah. Again, our role as regulators primarily is to ensure that ASX meets its obligations as a
+ benchmark administrator and one obligation that is explicit for them is to have adequate arrangements
+ for ensuring an orderly cessation from the financial benchmark. And we think that those arrangements
+ that they must have for an orderly cessation need to include appropriate communication, and Kristye
+ has kind of referred to that. Of course, this includes providing reasonable notice to ASIC, which is
+ in the rules so that we have time to consider the impact of cessation and to consult with other
+ regulators, such as the RBA. But also, I think it's very important that the cessation
+ arrangements include appropriate notification to the market because those notifications from the
+ administrator, depending on the fall-back language, drafted into the contracts may constitute the
+ trigger for fall-back provisions to kick in. And that's where, ASIC, we are considering the types
+ of announcements to the market, that we, as the regulator will be issuing to confirm and support the
+ communications of ASX that may constitute pre-cessation and cessation events and trigger contractual
+ fall-backs. To be clear, the concepts of pre-cessation and representativeness are not explicitly
+ referenced in the benchmarks regulatory framework in Australia, but we understand that those may be
+ useful milestones for an orderly transition.
+So we envisage that our role will be to provide additional confirmation and clarity to the market in
+ the event of a cessation process, coordinating with ASX so that there's no uncertainty around
+ triggers and cessation events. This is why we are currently in the process of reviewing the section
+ in Regulatory Guide 268 that deals with cessation to reflect our intention, to make these
+ supportive announcements to the market. And we intend to publish an updated version of this guide in
+ the next few months.
+Anne-Marie Neagle
+Thanks very much, Alex. That's helpful. I think let's now move quickly to the waterfall.
+ I've got my eye on the clock here. So, Dave, I wonder if you could comment on how the waterfall
+ might apply in the eyes of the ASF at the moment, compounding AONIA seems to be an obvious
+ candidate given developments in other markets, but there may be other options, perhaps another tenor
+ of BBSW or even term AONIA, if it develops. Can you give us a quick overview of our current
+ thinking at the ASF in terms of the recommended waterfall?
+David Zeigler
+Yeah, no worries, and I will keep it super, super brief. So as I mentioned earlier, the international
+ markets have provided us with some really great insights on dealing with benchmark cessation. But
+ importantly, from my perspective, they also provide a perspective on the likely preferences of
+ offshore investors and banks who participate in the Aussie dollar securitisation market. We've
+ watched closely, I guess, the developments in the UK in particular, as they've transitioned to
+ SONIA and the US as that market's transitioning in quite a bit more of a challenging way into
+ SOFR. And as you know, we've also been looking closely at the work that ISDA has done.
+ They've done a significant amount of consultation with the industry on fall-backs and have landed
+ in effect on a compounding in arrears replacement methodology, including for BBSW given the
+ importance of swaps to securitisation transactions.
+This has been an important reference point for us as well. So all in all, the ASF recommendations in
+ their current draft are heading towards monthly AONIA compounding in arrears as the sort of top
+ of the waterfall, if you like, which I would say is more aligned to what we've seen so far in the
+ UK, but that's certainly not to rule out term AONIA, alternative BBSW tenors or any other
+ rates. Andrea already touched on this, but just to reiterate from the ASF's perspective,
+ we're not seeking to dictate fall-backs issues to the broader market. What we are doing is trying
+ to thoughtfully work through the issues and the industry views which are numerous to develop
+ recommendations and considerations for market participants, but ultimately it'll be the market
+ that actually reaches consensus on these issues.
+Anne-Marie Neagle
+Thanks, Dave, that's some good colour. Andrea, as we move along with this, what would you need to
+ see in the drafting for it to be acceptable to the RBA under its repo criteria?
+Andrea Brischetto
+Right. What we'd be looking for, and again, just to reiterate, we're not going to dictate the
+ specific rate or the waterfall itself, but what we are looking for is a clearly defined method for
+ calculating interest that's robust, reasonable and fair and whether there's a clear and
+ unambiguous trigger event. Now the ASF work in this area is obviously being done in the context of
+ our requirements and we will be providing the ASF with confirmation on whether specific fall-back
+ language complies with our eligibility criteria. Indeed, I think it's worth saying, we'll be
+ happy to assess any fall-back language that's provided to us by others as to its compliance with
+ the requirements.
+But just a couple of things to note in terms of how the requirements will be applied in the context of
+ Dave's comments about the ASF work. An example of a fall-back rate that would meet the test is
+ indeed some form of AONIA plus a fixed spread say, but it could also be some other
+ fall-back rate that would meet the requirements. A clear example that wouldn't meet the test is
+ where the fall-back rate involves discretion or dealer quotes, because this would be open to dispute,
+ leading you back to the disruption non-contract frustration situation.
+Now, importantly, that's not to say you couldn't have these fall-backs relying on discretion
+ further down the fall-back waterfall, but they're just not considered appropriate as a first
+ level robust fall-back provision. In terms of what else might be acceptable in the waterfall, again,
+ keying off Dave's comments, the first level of the waterfall could be a preferred reference rate
+ that might exist in the future. Forward looking term AONIA say, but subject to it being declared
+ a significant financial benchmark by ASIC at the time the fall-back is triggered. Because if it's
+ not a significant benchmark at that point, this raises that it actually isn't robust and in that
+ case, it would be skipped and you'd fall back to the next level of the waterfall. Importantly, we
+ also haven't ruled out using other BBSW tenors as first level fall-backs if that is indeed
+ preferred. But in both these cases, I would say to meet the requirements there must be an existing,
+ robust non-BBSW fall-back in the waterfall as well.
+Anne-Marie Neagle
+Thanks, Andrea. That's helpful colour to get our drafting going. Dave, we know that the discussion
+ we've just had has really been centred around the RBA criteria but they only have direct
+ application for repo eligible securities. I wonder if you could comment really quickly on how you see
+ the language being developed by the ASF to address the repo eligibility criteria being relevant for
+ warehouses and other transactions that may not be seeking repo eligibility.
+David Zeigler
+Yeah, thanks. Obviously managing benchmark cessation risk is not unique to repo eligible securities,
+ it basically applies to all users of BBSW in any type of transaction. So, I guess the recommendations
+ that the ASF is planning to publish should be considered in respect of all securitisation, whether
+ repo eligible or not, whether in the public domain or the private domain. As these things pan out you
+ would expect to see strong alignment between repo eligible and non-repo eligible, BBSW fall-backs.
+Now, obviously the parties to non-repo eligible securities and transactions, will have some additional
+ flexibility not needing to meet specifically the RBA waterfall principles, if you like, and they will
+ have I guess, a little bit more flexibility to amend terms over time as opposed to the long dated
+ public issuances where we know the consent solicitation process is going to be more challenging if we
+ don't get it right up front.
+Anne-Marie Neagle
+Thanks, Dave. I wonder if as well you could give us a little bit more colour in terms of where
+ we're going from here with the ASF's program for developing BBSW fall-backs. We've had a
+ number of questions coming through in relation to the future direction and where we can expect to see
+ some guidance. Could you give us a bit of colour of what we need from the audience to help us
+ get there as well?
+David Zeigler
+Yeah, no problem. Probably the million dollar question given several years of work here, but it
+ definitely feels like we're getting a lot closer to finalising this work. We've seen the dust
+ settling in the international markets, I think we've learned everything we're going to learn
+ from them. We've worked really closely with our fellow panellists over the last 12 months
+ behind the scenes to really get to the bottom of what we've seen in international markets and
+ develop these mitigants for the local market.
+On behalf of the ASF working group, I'd really like to thank the organisations that are
+ represented here by the panellists. As you said earlier, I think in terms of timing, the RBA repo
+ eligibility changes coming in from the 1st of December, really put a back date to our work but as you
+ know, we are really trying to get out well ahead of that and as Andrea has already mentioned, prudent
+ fall-backs should already be worked into transactions from this time. But the phase we're at at
+ the moment I guess, is we have through the working group, got an in-principle approach to all of this
+ stuff and now we have enough clarity from international markets and locally through the work of the
+ ASX and ASIC, in particular, for the lawyers to actually put the final polish to the fall-back
+ recommendations and bring that precision of language that hopefully will stand the test of time.
+So, BBSW is around for the foreseeable future, as you've heard, there is a degree of inertia and
+ potentially kicking the can down the road on this but for us on the panel here, now is when we are
+ actively trying to deal with these issues and embed if you like, hopefully some robust solutions. So
+ as the polished final wording comes out from the law firms and begins circulating in the market, we
+ would really appreciate people's sort of interest and input into that process now and then
+ there'll be potentially less work for us to do further down the road, if, you know, things do
+ evolve.
+Anne-Marie Neagle
+Thanks, Dave. Before we move away from you Dave, I've just got a quick question from the audience
+ that gets into that precision that you were just foreshadowing there. And in particular, they're
+ curious about how the compounding is likely to work and whether or not the ASF is preferring a
+ two-day look back or a five-day look back.
+David Zeigler
+Yeah, I think, we have been thinking about these issues and there's pros and cons and different
+ ideas, about the precision with which the ASF defines these things. So we feel on the one hand you
+ want to give the market a little bit of flexibility to think through the issues and make its own
+ determinations on details here, on the other hand, the more specific we are, the more instructive it
+ does become for the market. But we're very cautious about dictating terms, I would say though, I
+ think the UK approach with the five-day look back has actually worked quite well in that market. We
+ have seen one benchmark AONIA transaction in this market, through the Medallion trade a couple
+ years back that again has worked through at a real practical level, dealing with these issues. So I
+ suspect if we are to go specific on these things, it'll be towards the UK approach.
+Anne-Marie Neagle
+Thanks, Dave. I think that that's all the questions I can see from the audience at this time. I
+ might move to close our session and I hope that everyone on the call can join me in a big virtual
+ thank you to our panellists for this informative and engaging discussion, on the future of BBSW. In
+ particular, I'd like to thank ASIC, ASX and the RBA for their constructive approach and for their
+ willingness to share their thoughts with us today.
+I think that we can take away from this panel as Dave suggested, some comfort that benchmarks in
+ Australia are and are expected to remain robust but this doesn't mean that work isn't needed
+ in the industry to better understand and implement benchmark transition infrastructure. We still have
+ some time to work with to be ready for the implementation of the RBA's new repo rules in December
+ next year. But there's plenty of detail like the detail that Dave was just suggesting around look
+ backs to get through, to get this right.
+Remember that the fall-backs based on what Andrea has said to us, once implemented will need to be
+ objective and prescriptive, so the specifics are going to matter. To get these fall-backs finalised,
+ they need to be informed by all of our industry stakeholder groups. So I encourage you to get
+ involved in the ongoing discussions on BBSW reform. Thank you, and enjoy the rest of this
+ afternoon's conference sessions.

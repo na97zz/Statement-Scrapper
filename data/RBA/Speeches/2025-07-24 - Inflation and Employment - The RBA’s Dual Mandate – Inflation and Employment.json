@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The RBA’s Dual Mandate – Inflation and Employment",
+  "date_original": "2025-07-24",
+  "date_au": "24/07/2025",
+  "datetime_original": "",
+  "speaker": "Inflation and Employment",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-07-24.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-07-24 - Inflation and Employment - The RBA’s Dual Mandate – Inflation and Employment.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-07-24 - Inflation and Employment - The RBA’s Dual Mandate – Inflation and Employment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b730b6edbf62bc798451b37d62e096604c007eb4b76b1dda924929bc914ad5a9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the ABE Annual Dinner",
+  "date_original": "2025-10-27",
+  "date_au": "27/10/2025",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-10-27.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-10-27 - Michele Bullock - Fireside Chat at the ABE Annual Dinner.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-10-27 - Michele Bullock - Fireside Chat at the ABE Annual Dinner.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4d7d62243d219e1614e89f677d7e04532eabef0227dc6912aa1ba01286677a61"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Capital Flows and Monetary Policy – Singapore",
+  "date_original": "17 September 2006",
+  "date_au": "17/09/2006",
+  "datetime_original": "",
+  "speaker": "Singapore",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-dg-170906.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-09-17 - Singapore - Capital Flows and Monetary Policy – Singapore.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-09-17 - Singapore - Capital Flows and Monetary Policy – Singapore.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e30c140c73af6d9f727e2cc81436e74b228835df618f5f490a587705d6eb7e61"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement February 2025",
+  "date_original": "2025-02-18",
+  "date_au": "18/02/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2025/feb-19224/mps_report_feb2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2025-02-18 - Monetary Policy Statement February 2025.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2025-02-18 - Monetary Policy Statement February 2025.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:39",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2025/feb-1902-dhs/monetary-policy-statement-february-2025",
+  "content_sha256": "ef5bb3c7b67990d61de6b648c18fd82dcced9c516cdfda67d4288da3b537acde"
+}

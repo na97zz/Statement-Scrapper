@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Update – Townsville",
+  "date_original": "4 June 2009",
+  "date_au": "04/06/2009",
+  "datetime_original": "",
+  "speaker": "Townsville",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-gov-040609.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-06-04 - Townsville - Economic Update – Townsville.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-06-04 - Townsville - Economic Update – Townsville.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "54390b0514c0ea21804bcf834f0142328812bbf395a21462fd6c616a09ca64ae"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks to Commemorate the 150th Anniversary of Bendigo Bank – Bendigo",
+  "date_original": "9 July 2008",
+  "date_au": "09/07/2008",
+  "datetime_original": "",
+  "speaker": "Bendigo",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-090708.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-07-09 - Bendigo - Remarks to Commemorate the 150th Anniversary of Bendigo Bank – Bendigo.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-07-09 - Bendigo - Remarks to Commemorate the 150th Anniversary of Bendigo Bank – Bendigo.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eccc4c3887c6e88d90c0a6769c7dc1c1ac2fc08e9b6bc386c1fc6d78d2a02877"
+}

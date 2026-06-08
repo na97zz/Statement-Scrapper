@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Policy rate kept unchanged at this meeting",
+  "date_original": "2026-03-26",
+  "date_au": "26/03/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2026/2026-03-26-pk/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2026-03-26 - Policy rate kept unchanged at this meeting.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2026-03-26 - Policy rate kept unchanged at this meeting.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ad173a0980388d8dcf69c97b830f6a33ae671045c119cb6aab38731a4a763800"
+}

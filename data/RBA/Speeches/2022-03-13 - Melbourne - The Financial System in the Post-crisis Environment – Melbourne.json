@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Financial System in the Post-crisis Environment – Melbourne",
+  "date_original": "2022-03-13",
+  "date_au": "13/03/2022",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-220313.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-03-13 - Melbourne - The Financial System in the Post-crisis Environment – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-03-13 - Melbourne - The Financial System in the Post-crisis Environment – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8c525d9009d1b85a0d7d755333ac550768df8dd106115e57295d65617a70e906"
+}

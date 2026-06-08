@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The State of Things – London",
+  "date_original": "9 March 2011",
+  "date_au": "09/03/2011",
+  "datetime_original": "",
+  "speaker": "London",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-gov-100311.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-03-09 - London - The State of Things – London.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-03-09 - London - The State of Things – London.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7ebea77d886e765c91f09de64c7ea56b34191ca56caf7b5b01b73b753fba1a94"
+}

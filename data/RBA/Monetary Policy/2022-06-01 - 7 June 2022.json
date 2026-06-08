@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Monetary Policy",
+  "title": "7 June 2022",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/media-releases/2022/mr-22-14.html",
+  "raw_file_path": "data\\RBA\\Monetary Policy\\2022-06-01 - 7 June 2022.html",
+  "text_file_path": "data\\RBA\\Monetary Policy\\2022-06-01 - 7 June 2022.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:26:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "659057fe3434a694d09bc2bfc2e356060e31925d1268ca76cf6df6500be0877f"
+}

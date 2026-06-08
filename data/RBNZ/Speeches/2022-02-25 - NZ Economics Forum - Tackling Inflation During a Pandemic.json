@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Tackling Inflation During a Pandemic",
+  "date_original": "2022-02-25",
+  "date_au": "25/02/2022",
+  "datetime_original": "",
+  "speaker": "NZ Economics Forum",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/speech2022-02-25.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-02-25 - NZ Economics Forum - Tackling Inflation During a Pandemic.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-02-25 - NZ Economics Forum - Tackling Inflation During a Pandemic.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:53",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/speech2022-02-25",
+  "content_sha256": "a59ec2dd269442695b2cf712bb63e5f637e948abee88f636261f643490691601"
+}

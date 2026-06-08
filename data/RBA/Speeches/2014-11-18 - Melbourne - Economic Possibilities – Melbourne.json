@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Possibilities – Melbourne",
+  "date_original": "18 November 2014",
+  "date_au": "18/11/2014",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-181114.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-11-18 - Melbourne - Economic Possibilities – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-11-18 - Melbourne - Economic Possibilities – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1c1cad3823e3b95c738919c3e277ab949a91c5d5ceeedc6efaf6306c057b989e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Report from Norges Bank Watch",
+  "date_original": "2026-02-24",
+  "date_au": "24/02/2026",
+  "datetime_original": "",
+  "speaker": "Report from Norges Bank Watch",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2026/2026-02-24-pal-longva/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2026-02-24 - Report from Norges Bank Watch - Report from Norges Bank Watch.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2026-02-24 - Report from Norges Bank Watch - Report from Norges Bank Watch.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ee95014489e115b1e27825053615b32f57b22a86a0a34639a3c71164031a6298"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Today's Monetary Policy Decision – Sydney",
+  "date_original": "2022-05-03",
+  "date_au": "03/05/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-05-03.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-05-03 - Sydney - Today's Monetary Policy Decision – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-05-03 - Sydney - Today's Monetary Policy Decision – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6cbf9c3f559d5ece126381c3f74a184dcb911b207bd598d920379a9ebec57cfe"
+}

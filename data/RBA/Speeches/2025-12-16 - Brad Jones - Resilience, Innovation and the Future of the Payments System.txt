@@ -1,0 +1,349 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Resilience, Innovation and the Future of the Payments System
+DATE: 16/12/2025
+SPEAKER: Brad Jones
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2025/sp-ag-2025-12-16.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Resilience, Innovation and the Future of the Payments System
+Brad Jones
+Assistant Governor (Financial System)
+AusPayNet Summit 2025
+16 December 2025
+–
+Sydney
+Audio
+34.1MB
+Q&A Transcript
+Watch video: Speech delivered by Brad Jones, Assistant Governor (Financial System), AusPayNet Summit 2025, Sydney
+Introduction
+Let me begin by acknowledging the tragic events in Bondi over the weekend. Our thoughts and condolences go
+ out to anyone who has been affected.
+Thank you to AusPayNet for the opportunity to join you all here at the annual Summit. Though this forum
+ has been running for less than a decade, it has emerged as a centrepiece on the calendar for both
+ industry and regulators. I suspect that at least some part of the reason we have a world-class payments
+ system in Australia is because we have opportunities like this where a range of big ideas for the future
+ of the system can be thoroughly debated. Long may this spirit of engagement continue.
+It is difficult to think of another time where developments in the payments and digital money ecosystems
+ – in Australia and abroad – were more fascinating than now. There are big structural forces
+ reshaping the operating environment, technological change and geopolitical disruption among them. This
+ change is amplifying both risks and opportunities. As Governor Michele Bullock observed in her Bradfield
+ Oration, our collective challenge is to manage both in a way that improves the lives of all
+ Australians.
+1
+The key question I will address in my remarks today is this – in a period of profound structural
+ change, how can we build an ecosystem for payments and market infrastructure that is both highly
+ resilient and highly innovative? One that is not just able to weather storms, but as I discussed
+ recently, ‘anti-fragile’, in the sense that it stands to benefit from change and
+ disruption.
+2
+It is no accident that the twin themes of resilience and innovation underpin the RBA’s refreshed
+ payments policy strategy out to 2027. This strategy has recently been endorsed and published by the
+ Payments System Board (PSB) to assist industry in their prioritisation efforts.
+3
+Conscious that
+ industry already has plenty on its plate, the RBA’s contribution to the implementation plan of the
+ Council of Financial Regulators (CFR) ‘Better Regulation Roadmap’ will also shortly be
+ published to provide industry with additional visibility over the sequencing of our wider priority set.
+ The bottom line today is that I am optimistic our system is up to this twin challenge, but it will
+ require everyone involved – industry and regulators – to prioritise somewhat differently to
+ recent decades.
+Why resilience, why now?
+If we step back for a moment and consider the properties of resilience that could apply to any technical
+ system – not just payments – and one whose operating environment is changing in material
+ ways, quite a few possibilities spring to mind: interoperability, diversity, redundancy and adaptability.
+ Each of these brings pros and cons on their own of course, and how they interact is critical – as a
+ case in point, if diversity simply translates to duplicating systems with limited interoperability, there
+ may be more costs than benefits to the wider system. But in the years ahead, I suspect that concepts like
+ these will feature more prominently in the design of our payments system and associated infrastructure.
+To move from the conceptual to the concrete, a safe and resilient payments system underpins economic
+ activity in Australia. Every day, the average daily value of payments settled at the RBA through our
+ real-time gross settlement system is equivalent to more than 10 per cent of Australia’s
+ annual GDP. The size and interconnectivity of our payments system means that major disruptions could have
+ systemic consequences – for financial stability, economic activity and, in extreme cases, social
+ cohesion. This is a sobering reality. Three themes stand out here, all structural rather than cyclical in
+ nature.
+The first relates to our deteriorating strategic circumstances. As the Director-General of the Office of
+ National Intelligence recently reminded us: the pace and gravity of strategic change is accelerating, our
+ region is now the epicentre of global systemic rivalry and our operating environment is one where
+ coercion below the threshold of conflict is becoming normalised. This makes for a less forgiving and less
+ predictable world.
+4
+The potential for external shocks to threaten the
+ provision of critical financial services is rising, and the risk of coordination failure is larger for
+ adverse geopolitical scenarios compared with more traditional financial risks. This realisation has been
+ informing a program of work overseen by the CFR for some time now.
+The second source of structural change relates to technological transformation. Increasing digitalisation
+ is yielding substantial efficiencies for the financial system and making new functionality possible. At
+ the same time, it is expanding the attack surface for cyber intrusions and making the potential
+ consequences of operational disruptions more severe. Applications of artificial intelligence (AI) reflect
+ both sides of this coin. The financial system is contending with accelerating waves of distributed denial
+ of service attacks, and the commercialisation of cybercrime on the dark web is becoming big business. A
+ concentrated group of key third-party technology providers are increasingly performing critical
+ functions, such that a major disruption in one could have ripple effects across the entire system. Last
+ year’s Crowdstrike episode, and the Amazon Web Services outage a couple of months ago, are just a
+ couple of recent reminders.
+A third and related challenge is that interdependencies between the payments system and other critical
+ national infrastructure are coming into sharper focus. It can be taken for granted that the functioning
+ of our financial system, and the payments system within it, is dependent on the smooth functioning of the
+ electrical grid and telecommunications network. But these core services are increasingly experiencing
+ their own resilience challenges, which can have downstream impacts on the broader economy. A recent
+ example was the April 2025 blackout of the Iberian Peninsula that affected 50 million households and
+ saw daily economic activity and electronic retail payments in Spain decline by approximately half. This
+ disruption could easily have been worse, had the geographical span of the outage been different and cash
+ not been readily available as a means of payment.
+Recognising it is insufficient to just admire these problems from a distance, let me turn now to several
+ related priorities in the RBA’s forward work program. A common theme here is the importance of
+ payments infrastructures investing in their governance, risk management capabilities and operational
+ resilience to meet not just regulator expectations but also those of the wider community.
+System-wide interdependencies
+One element is a stepped-up focus on system-wide interdependency and concentration risk. We are conscious
+ that individual entities may have limited visibility over the extent to which their vulnerability to
+ third-party providers or single points of failure is mirrored elsewhere and could amplify disruptions if
+ a large shock were to occur. As a result, the RBA has embarked on a program of analysis and outreach with
+ industry and other arms of government. The scope of this work ranges from high-value payments through to
+ retail point-of-sale and account-to-account (A2A) transfers. We are actively engaging with CFR agencies,
+ the Department of Home Affairs, national security agencies, overseas central banks, other non-financial
+ regulators and industry, in order to develop a more holistic system-wide mapping of vulnerabilities.
+A notable example where our collaboration with industry is spurring both increased resilience and
+ innovation is through the Industry Resilience Initiative. Here, the RBA and the Australian Prudential
+ Regulation Authority (APRA) are working with banks, Australian Payments Plus and AusPayNet to enhance
+ existing contingency capabilities so that payment services can continue to operate, even if in a reduced
+ form, in the event of a significant shock like a major institution ‘going dark’ for some time.
+Another area where we see the concepts of system-wide resilience and innovation coming together is in
+ quantum computing. The brute-force computing power enabled by quantum computing offers intriguing
+ possibilities – it will unleash capabilities in the financial system that are not currently
+ possible, especially when coupled with AI. At the same time, these advances could pose first-order data
+ security risks and so compromise the integrity of the financial system. We know that threat actors are
+ already capturing data with the expectation of breaking current encryption down the track – a
+ strategy known as ‘harvest now, decrypt later’.
+As a result, the PSB strongly supports industry efforts to migrate card payments to the Advanced
+ Encryption Standard (AES). AES is viewed as a quantum-safe solution, should advances in quantum computing
+ undermine the secure exchange of payment details. Some European countries are already there. The PSB
+ expects industry to progress migration with sufficient urgency to enable the readiness of AES for use by
+ 2030 and has agreed to consult around the middle of next year on using the RBA’s standard-setting
+ powers under the
+Payment Systems (Regulation) Act 1998
+(PSRA) to support the migration.
+Cash distribution
+Another element of our work on payments system resilience relates to cash access. Not only does cash
+ remain an essential part of the payments system – 1.5 million Australians still rely on it to
+ make everyday payments – cash also provides a backup for localised disruptions (e.g. floods and
+ fires) when digital payments are unavailable. In this sense, physical cash is an ‘all hazards’
+ digital hedge. In discussions with my international counterparts, I am increasingly struck by how uniform
+ the view has become about the critical contingency role cash can play in the economy. Sweden is one
+ example, where authorities are now requiring cash distribution entities to maintain a heightened level of
+ crisis preparedness and a public campaign has been launched to advise the community to maintain personal
+ cash holdings in preparation for crises.
+The RBA fully supports the Government’s commitment to ensuring that Australians retain adequate
+ access to cash for as long as they wish to use it. Accordingly, the RBA, CFR and the Australian
+ Competition and Consumer Commission (ACCC) have consulted on regulatory arrangements for the cash
+ distribution system that are designed to ensure the system remains on a strong footing far into the
+ future. In seeking to promote system-wide resilience, the framework embeds crisis readiness and
+ resolution powers as key features.
+5
+Promoting an innovative and resilient payments system
+Ensuring our payments system can withstand extreme-but-plausible disruptions should not mean innovation
+ grinds to a halt. Quite the contrary. Australia has always been up around the front of the pack regarding
+ innovation in the payments system.
+6
+In the context of our national productivity challenge,
+ it is important that this remains so. And as I have stressed before, there are big opportunities ahead of
+ us if we can harness innovation in ways that not only enhance efficiency but also resilience –
+ there need not be a trade-off.
+7
+To help play our part in fostering an innovative payment system, we have several initiatives underway.
+Project Acacia and the Future of Money
+One is Project Acacia, the centrepiece of our Future of Money program this year. Working alongside
+ industry, regulators and our research partners at the Digital Finance Cooperative Research Centre, we are
+ exploring how new forms of digital money and financial infrastructure could support the development of
+ tokenised asset markets in Australia. This is also a growing area of interest for central banks and
+ industry globally. We’ve taken the step of issuing pilot central bank digital currency onto external
+ digital ledger platforms to better understand how new forms of money and tokenised assets could more
+ seamlessly interact on the same ledger. This includes where trading and settlement are synchronised into
+ a single function – obviating the need for clearing or tying up of collateral for days. The project
+ has also explored the role that private digital money, in the form of tokenised bank deposits and
+ stablecoins, could play in tokenised asset markets.
+It has been pleasing to see Acacia draw strong interest from a wide cross-section of industry, from large
+ banks to smaller fintechs to technology companies. Across more than 20 use cases, a range of
+ real-world assets have been tokenised: government bonds, money market securities, mining royalties and
+ repurchase agreements among them. We’ve deliberately not been prescriptive about these use cases, as
+ we have wanted to hear from those on the front line of industry innovation where they think the largest
+ potential benefits could be for the Australian financial system.
+The experiments will be wrapping up shortly. I will have more to say about Acacia and our related
+ strategic priorities on the Future of Money at the end of March, and shortly thereafter the Acacia
+ project report will be published. But for now, I’d like to thank all our project partners for their
+ contribution to the project – it has been a leading example of how the public and private sectors
+ can collaborate on important policy issues arising from the application of frontier technologies.
+Future of account-to-account payments
+Let me now turn to a topic I addressed at last year’s Summit that also sits at the intersection of
+ innovation and resilience – the future of Australia’s A2A payments system. At that time, and
+ as our risk assessment of the decommissioning of the Bulk Electronic Clearing System (BECS) later set out
+ in detail, the feedback we received from a range of stakeholders suggested that a foundational element
+ was missing in the migration to modern payment rails – a shared vision among industry on the
+ desired features of the future system.
+8
+We shared industry concerns that loading more risk onto
+ modern rails that had higher outage rates than the legacy bulk system was going to be problematic if
+ contingency arrangements were not also significantly uplifted.
+To support strategic planning by industry, RBA staff published a Public Interest Framework in July.
+9
+The framework
+ outlines technology-agnostic principles that prioritise the reliability of the payments system through
+ robust contingency arrangements, alongside new functionality spurred by competition and innovation. As an
+ example, we view interoperability – the ability for different payment systems to connect to each
+ other – as integral to promoting resilience, competition and efficiency. In good times, end users
+ will have greater choice over their providers; when systems go down, contingency options will be
+ available.
+Fast forward to today, and I am pleased to say that industry has made important progress, including in
+ establishing a new coordination forum and completing an end user consultation to inform the future vision
+ for A2A payments. At the same time, there is still a big lift ahead: key outstanding issues include the
+ processing of large volumes, the account reach of the New Payments Platform (NPP) and contingency
+ arrangements.
+We want to thank industry for engaging in the A2A reset over the past year. We recognise it has not been
+ easy. As we have said all along, if it takes industry a little longer than originally envisaged to come
+ to a shared understanding of the system’s central features, then it should be time well spent. For
+ our part, RBA staff will continue to engage with industry via the A2A Roundtable and in March 2026 we
+ will publish an update on the risks associated with the migration.
+We are all striving for the same objective – that Australians can benefit from the features that
+ modern payment systems such as the NPP can provide. These include
+24/7
+real-time payments, richer data, confirmation of payee and real-time verification of payment. To achieve
+ this, we need everyone in the ecosystem to continue engaging – payments service providers (PSPs),
+ and corporate and government end users.
+Modernising the RBA’s settlement system to support innovation
+Ensuring that Australia’s financial infrastructure is fit for the future is a key focus of ours. This
+ can be seen not only in our involvement in initiatives like Project Acacia and the modernisation of
+ Australia’s A2A system, but also in the RBA’s forthcoming strategic modernisation of
+ Australia’s high-value real-time settlement system – the Reserve Bank Information and Transfer
+ System (RITS). The last major innovation in RITS occurred in 2018, with the public launch of the Fast
+ Settlement Service. This system enables real-time,
+24/7
+settlement of NPP
+ transactions and currently processes about four million transactions per day – most in under a
+ second. The RITS modernisation project will explore a range of options to ensure our critical settlement
+ infrastructure can support the evolving needs of the financial system well into the future.
+Enhancing cross-border payments
+Under the G20 roadmap, Australia is committed to supporting the international effort to address
+ challenges in cross-border payments. A priority for the RBA in recent years has been engaging with
+ industry over the adoption of richer data and new capabilities in Australia’s cross-border payments
+ infrastructure. Next year, we will be examining ways to enhance wholesale cross-border payments,
+ including as it relates to our RITS modernisation project and research on the role of digital money. We
+ are also collaborating with central bank partners on a second phase of the BIS Innovation Hub’s
+ Project Mandala.
+10
+This project explores protocols to automate regulatory
+ compliance processes in cross-border payments using new technologies like digital ledgers. The aim here
+ is to make cross-border payments more transparent, faster and safer.
+Supporting national reform priorities
+In light of the Government’s efforts to modernise Australia’s payments regulatory framework, the
+ RBA also has a number of initiatives in train.
+First, following the recent amendments to the PSRA, the RBA will publicly consult on the PSB’s
+ regulatory priorities in mid-2026, taking into account these amendments and technology modernisation in
+ the payments industry. The focus will extend to regulatory issues beyond those addressed in the Review of
+ Merchant Card Payment Costs and Surcharging. The consultation will include efficiency, competitiveness
+ and safety issues with mobile wallets, three-party schemes, buy-now-pay-later providers and e-commerce
+ platforms. We look forward to your input.
+Second, the RBA will be reviewing its policies for accessing Exchange Settlement Accounts to support
+ competition and innovation in payments. We expect to commence this review in the second half of 2026,
+ once the first tranche of the Government’s PSP licensing reforms has passed Parliament and work on
+ the second tranche has begun. This second phase includes the proposed common access requirements. This
+ framework would involve APRA setting proportionate regulatory and supervisory arrangements for non-bank
+ PSPs seeking to directly access Australian payment systems. In the meantime, we are engaging with our
+ peer central banks to better understand how they see the competition and financial stability implications
+ from stablecoin issuers holding funds in central bank deposits. We note the regulatory framework for the
+ licensing and prudential supervision of issuers of Australian dollar-denominated stablecoins is an
+ important pillar of the Government’s approach to developing responsible innovation in the Australian
+ digital asset industry.
+Third, to support responsible innovation in the wider financial system, the RBA will be providing input
+ into the review of Australia’s Enhanced Regulatory Sandbox (ERS). Similarly, as a result of its
+ learnings from Project Acacia, we are examining whether and how a dedicated digital securities sandbox
+ could further support the development of tokenised markets and complement the general purpose ERS. We are
+ looking closely at the experience in places like the United Kingdom, euro area, Switzerland and others to
+ guide us here.
+Update on the Review of Retail Payments Regulation
+Before I close, it would be remiss not to provide a brief update on the current Review of Merchant Card
+ Payment Costs and Surcharging, which includes a package of proposed reforms:
+reductions in ‘downstream’ consumer payment costs via changes to the surcharging regime for
+ eftpos, Mastercard and Visa networks
+reductions in ‘upstream’ payment costs incurred by Australian merchants, via their service
+ provider, in the form of lower interchange rates on card transactions
+increased disclosure of fees charged by acquirers, and collection and publication of wholesale fees
+ charged by card networks, to help ensure savings from lower interchange are passed through to
+ Australian merchants.
+We received more than 170 submissions from a broad cross-section of stakeholders, including
+ merchants, issuers, acquirers, PSPs and the card networks. It is fair to say that each of these
+ stakeholders come at the issues from different perspectives, so we are carefully weighing the balance of
+ the various arguments as they relate to our mandate. Given the reforms will inevitably result in some
+ redistribution of costs and benefits across the system, we recognise it won’t be possible to please
+ all stakeholders. But when the PSB publishes its conclusions and an implementation timeline for any
+ regulatory action by March 2026, I can assure you that a huge volume of information, consultation
+ meetings, requests for further information, and so on, will have been channelled towards landing on a
+ package that we believe most promotes the public interest. The PSB is also aiming to ensure that
+ decisions on issues like the scope of surcharging and the extent of interchange cuts will not be affected
+ by the recent amendments to the PSRA.
+Conclusion
+Let me conclude. We should all aspire for a payments system that is safe and resilient – one that
+ Australians can rely on – and one that is a hotbed of innovation and competitive efficiency.
+ I’ve set out today a number of the opportunities we see here. They are reflected in our priorities
+ that span regulatory reform, the Future of Money and tokenisation, A2A payments, the Industry Resilience
+ Initiative, cross-border payments, quantum-safe encryption standards, physical cash and the modernisation
+ of RITS. As we realise that the sequencing of priorities is always a challenge, my colleagues at the RBA
+ and on the PSB are more committed than ever to working constructively with AusPayNet and the wider
+ industry. There is much to celebrate in the Australian payments system, and we all want to ensure this
+ remains the case far into the future.
+Thank you, and I look forward to taking your questions.
+Endnotes
+1
+Bullock M (2025),
+ ‘
+Building Bridges in the Digital Economy:
+ Modernising Australia’s Payments System
+’, The Daily Telegraph’s Future
+ Sydney: Bradfield Oration, Sydney, 24 October.
+2
+See Jones B (2025),
+ ‘
+Anti-fragility and the Financial
+ System
+’, Opening Remarks to FINSIA: The Regulators, Sydney, 12 September.
+3
+See RBA (2025),
+ ‘
+Payments
+ System Board Annual Report 2025
+’, pp
+3–4
+.
+4
+Office of National
+ Intelligence (2025), ‘Senate Estimates – December 2025’.
+5
+The development of a
+ regulatory framework for cash distribution complements other policy measures to support the cash
+ ecosystem, including the Government’s draft regulations to require providers of essential
+ goods to accept cash as a form of payment (up to a specified amount).
+6
+Bullock, n 1.
+7
+See, most recently,
+ Jones, n 2.
+8
+RBA (2025), ‘
+Decommissioning
+ of the Bulk Electronic Clearing System: RBA Risk Assessment
+’, March.
+9
+RBA (2025), ‘
+Public
+ Interest Framework for a Successful Account-to-Account Payments System
+’, July.
+10
+For further
+ details, see BIS (2025), ‘Project Mandala: Shaping the Future of Cross-border Payments
+ Compliance’, November.

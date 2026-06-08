@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "7 June 2022",
+  "date_original": "2022-06-07",
+  "date_au": "07/06/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2022/2022-06-07.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2022-06-07 - 7 June 2022.html",
+  "text_file_path": "data\\RBA\\Minutes\\2022-06-07 - 7 June 2022.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:25:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6ddfe6e4a09d9b85beddace7f56bec7041cc1d3753c12697d2d41421d11727a1"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement February 2024",
+  "date_original": "2024-02-27",
+  "date_au": "27/02/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2024/feb/mps-feb-2024.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2024-02-27 - Monetary Policy Statement February 2024.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2024-02-27 - Monetary Policy Statement February 2024.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:47",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2024/monetary-policy-statement-february-2024",
+  "content_sha256": "cc6e23d0a6b94e469bb0084617f182473c9288d0e9be7f33cf780cb018fadd18"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Conduct of Monetary Policy – Sydney",
+  "date_original": "13 July 2006",
+  "date_au": "13/07/2006",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-dg-130706.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-07-13 - Sydney - The Conduct of Monetary Policy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-07-13 - Sydney - The Conduct of Monetary Policy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ed3146eb3a4ac250963b959348148aa308cd7e3c7dc944c0cd96a3f8a3c5cdf4"
+}

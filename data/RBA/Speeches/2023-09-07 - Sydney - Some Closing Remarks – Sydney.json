@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Closing Remarks – Sydney",
+  "date_original": "2023-09-07",
+  "date_au": "07/09/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-09-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-09-07 - Sydney - Some Closing Remarks – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-09-07 - Sydney - Some Closing Remarks – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d5902515a4e004c5ae26be8a6aa45457665c7fe1f1bbe44a1dc891652f04ca01"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to House of Representatives Standing Committee\r\n on Economics – Melbourne",
+  "date_original": "8 September 2008",
+  "date_au": "08/09/2008",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-080908.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-09-08 - Melbourne - Opening Statement to House of Representatives Standing Committee on Economics – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-09-08 - Melbourne - Opening Statement to House of Representatives Standing Committee on Economics – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f29fdb0894f7f9578f55e3cde8fa87fb09a883f982c040520175a005d800c456"
+}

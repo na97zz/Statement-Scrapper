@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "What is Normal? – Sydney",
+  "date_original": "5 December 2012",
+  "date_au": "05/12/2012",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-dg-051212.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-12-05 - Sydney - What is Normal_ – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-12-05 - Sydney - What is Normal_ – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9433fb0d9b3220ae0e2e76a8552352a8aa3e615d71d3bfab1f040a4874538de9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Mining Booms and the Australian Economy – Sydney",
+  "date_original": "2023-02-10",
+  "date_au": "10/02/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-dg-230210.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-02-10 - Sydney - Mining Booms and the Australian Economy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-02-10 - Sydney - Mining Booms and the Australian Economy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "12ee87f79b5aab436cf451e8d9e3139ba8b14a892258b4bc3047034e965496ab"
+}

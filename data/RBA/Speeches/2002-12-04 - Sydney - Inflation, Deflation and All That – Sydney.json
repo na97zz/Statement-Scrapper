@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation, Deflation and All That – Sydney",
+  "date_original": "4 December 2002",
+  "date_au": "04/12/2002",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-dg-041202.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2002-12-04 - Sydney - Inflation, Deflation and All That – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2002-12-04 - Sydney - Inflation, Deflation and All That – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6665f4030b818f4ee8394c1c3837013627065369ee05d5bc555fe95de9894c95"
+}

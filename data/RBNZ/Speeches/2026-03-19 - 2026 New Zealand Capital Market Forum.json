@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "2026 New Zealand Capital Market Forum",
+  "date_original": "2026-03-19",
+  "date_au": "19/03/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2026/kanga-news-speech---liquidity-management-review.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2026-03-19 - 2026 New Zealand Capital Market Forum.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2026-03-19 - 2026 New Zealand Capital Market Forum.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:43",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2026/march/2026-new-zealand-capital-market-forum",
+  "content_sha256": "39d16bc7af28fbe215beac28bc3c6ff2054cfa7bab1af47848975766a48aed7c"
+}

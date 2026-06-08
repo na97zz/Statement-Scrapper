@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Norges Bank’s management of the Government Pension Fund Global",
+  "date_original": "2022-05-03",
+  "date_au": "03/05/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-05-03-bache/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-05-03 - Norges Bank’s management of the Government Pension Fund Global.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-05-03 - Norges Bank’s management of the Government Pension Fund Global.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "110f885626f89e4bb892e9adb7cc1a8581cd1ab2f32fcde1ab66ffa166c8e1bc"
+}

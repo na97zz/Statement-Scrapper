@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Monetary Policy",
+  "title": "Pengepolitisk rapport med vurdering av finansiell stabilitet 4/2021",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/aktuelt/publikasjoner/Pengepolitisk-rapport/2021/ppr-42021/",
+  "raw_file_path": "data\\NORGES_BANK\\Monetary Policy\\2021-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 4_2021.html",
+  "text_file_path": "data\\NORGES_BANK\\Monetary Policy\\2021-06-01 - Pengepolitisk rapport med vurdering av finansiell stabilitet 4_2021.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:07:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "83178b619e6675981b65678abe0ffd941944ff925924d176e5df7272112f0f33"
+}

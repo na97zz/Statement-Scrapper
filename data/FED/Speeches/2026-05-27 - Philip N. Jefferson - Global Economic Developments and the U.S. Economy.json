@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Global Economic Developments and the U.S. Economy",
+  "date_original": "2026-05-27",
+  "date_au": "27/05/2026",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-27 - Philip N. Jefferson - Global Economic Developments and the U.S. Economy.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-27 - Philip N. Jefferson - Global Economic Developments and the U.S. Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "107a7b0d7bb0d91e19e2d8ed354140473400667526717f2d3f0cfbaf6a4c650a"
+}

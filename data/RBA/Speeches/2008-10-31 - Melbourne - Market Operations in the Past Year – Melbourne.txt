@@ -1,0 +1,671 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Market Operations in the Past Year – Melbourne
+DATE: 31/10/2008
+SPEAKER: Melbourne
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2008/sp-ag-311008.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Market Operations in the Past Year
+Guy Debelle
+[1]
+Assistant Governor (Financial Markets)
+2008 FTA Congress
+Melbourne
+–
+31 October 2008
+Audio
+11.7MB
+Download
+67KB
+Introduction
+Today I would like to talk about the Reserve Bank's operations in the domestic
+
+ money market during the period of financial turmoil. The money market can be
+
+ thought of as the plumbing right at the heart of the financial system. It is
+
+ important to ensure that any blockages in the money market are addressed quickly
+
+ to ensure that liquidity can flow through the financial system.
+I have spoken on this topic twice in the past
+
+ year,
+[2]
+but there have been some noteworthy developments in the few months since last
+
+ I spoke on this which bear some examination. While we have made some changes
+
+ to our operating procedures over the past year or so, these changes have been
+
+ easily accommodated within our overall framework. More generally, the operating
+
+ framework for liquidity provision to the domestic money market has proven to
+
+ be resilient and effective throughout the period.
+Before discussing some of the changes we have made in recent months, I will first
+
+ describe the overall framework for the RBA's open market operations.
+
+ I will then outline the changes we have made to our domestic market operations
+
+ which can be grouped into three: widening the pool of eligible collateral,
+
+ conducting operations at longer maturities and offering term deposits. Finally
+
+ I will also describe the US dollar facility that we have instituted with the
+
+ Federal Reserve over the past month.
+The Australian Money
+
+ Market
+[3]
+The Reserve Bank Board implements monetary policy by setting a target for the cash
+
+ rate – the interest rate on overnight unsecured loans in the interbank
+
+ market. This rate influences interest rates in other wholesale and retail markets,
+
+ which in turn affect economic activity and inflation.
+A key determinant of activity within the interbank market for overnight funds is
+
+ the aggregate volume of exchange settlement (ES) balances held at the Reserve
+
+ Bank. ES accounts are maintained by banks and a number of other institutions
+
+ to meet their settlement obligations with each other and with the Reserve Bank.
+
+ As such, they are the most immediate source of liquidity for banks.
+In Australia, banks are not required to meet targets for holding reserves at the
+
+ central bank. However, a bank's ES balance must always be non-negative,
+
+ even on an intraday
+
+ basis.
+[4]
+As the Reserve Bank remunerates ES balances at a rate of 25 basis points
+
+ below the cash rate target, this creates an incentive for account holders to
+
+ recycle excess balances within the interbank market by lending them to other
+
+ institutions at the cash rate. That is, there is an incentive to economise
+
+ on cash holdings which must be weighed against the cost of running short of
+
+ cash balances at the end of the day and needing to borrow from the Reserve
+
+ Bank at a penalty rate (see below). I will describe later how inter-bank lending
+
+ in the cash market has fared during the period of turmoil.
+The Reserve Bank controls the supply of ES balances through its transactions in financial
+
+ markets. For example, when the Bank purchases securities from a counterparty,
+
+ that counterparty's ES account (or the ES account of their bank) is credited
+
+ with funds at the same time the transfer of title to the security occurs. In
+
+ other words, the Bank injects funds into the system when it purchases a security
+
+ (and conversely withdraws funds when it sells a security).
+Each day then, the Reserve Bank must gauge the overall demand for ES balances from
+
+ the financial system and adjust the supply of funds accordingly so as to keep
+
+ the cash rate at the target set by the Reserve Bank Board.
+Even if the Bank wishes to hold the amount of ES balances stable from one day to
+
+ the next, the Bank will generally be required to transact with the market to
+
+ offset the impact of its customers' payments, in particular those of
+
+ the Australian Government, which is the Bank's largest customer. Payments
+
+ to or from these customers can significantly alter overall balances in the
+
+ system. Each day, the Bank will estimate the likely net impact of these payments
+
+ and its own transactions and derive the estimated cash position. This is the
+
+ amount by which the pool of ES balances would change if the Bank did not conduct
+
+ any market operations. In doing so, Bank staff liaise closely with the relevant
+
+ departments within the Australian Government and with our other clients to
+
+ ascertain the timing and size of payments and receipts.
+If, in aggregate, private financial institutions are expected to pay an amount of
+
+ funds into the Government's account at the Reserve Bank (for example,
+
+ in the form of tax payments) greater than the funds being received, then the
+
+ cash position will be a deficit and, other things equal, ES balances will decline.
+
+ Conversely, on days where payments from the Bank and its customers are estimated
+
+ to be greater than receipts, there will be a cash surplus and ES balances will
+
+ increase. Almost always, the Reserve Bank will act to offset the liquidity
+
+ impact of these exogenous flows by purchasing (or selling) securities in open
+
+ market operations.
+At 9.30 am each morning, the Bank publishes the estimated cash position for
+
+ that day and its intention to either buy or sell securities. The Bank will
+
+ also indicate a preference for the maturities at which it wishes to conduct
+
+ its operations. I will discuss later how we determine these preferred maturities.
+
+ Counterparties have 15 minutes to submit approaches, from which the Bank
+
+ will select those that best match its dealing intentions, in terms of preferred
+
+ maturities, and are at the most attractive rates.
+The Bank is usually in a position to advise market participants of the success or
+
+ otherwise of their approaches by 10.00 am. The results of our market operations
+
+ are published electronically by about 10.15 am. They show the amount dealt
+
+ as well as the maturities at which the Bank dealt, the type of collateral and
+
+ the average
+
+ price.
+[5]
+The overall impact on system liquidity of the Bank's operations on any given
+
+ day is not the amount dealt but any net injection or withdrawal of funds, that
+
+ is, the amount dealt less the cash position. This is reflected in the net change
+
+ in ES balances day to day.
+It is worth keeping in mind two points: the Reserve Bank has control over the size
+
+ of the ES balance pool; and, funds injected into the system through open market
+
+ operations must end up in the ES account of a financial institution at the
+
+ end of the day, after all interbank payments have been made. Thus an institution
+
+ having a large balance in its account at the end of the day may reflect a desire
+
+ to hold a large precautionary cash balance but it can also be the case that
+
+ the institution happened to be a large net receiver of payments on that particular
+
+ day and was unable to on-lend the funds.
+To deal with institution-specific, rather than market-wide, liquidity needs, the
+
+ Bank maintains a standing facility through which ES account holders can obtain
+
+ funds overnight, at their discretion, at 25 basis points over the cash
+
+ rate target. The funding is secured against collateral. Generally, banks will
+
+ access this facility when they have miscalculated their payment flows or are
+
+ experiencing other operational problems and would otherwise see their ES balance
+
+ fall below zero. Because the facility is designed to deal with temporary technical
+
+ hitches in the operation of the money market, there is no stigma associated
+
+ with its use. Indeed, importantly, there is no stigma attached to any of the
+
+ Bank's open market operations.
+The range of institutions with which the central bank is willing to deal in its market
+
+ operations can be relevant in determining how well cash balances are distributed
+
+ within the system during periods of market stress. Permitting a wide range
+
+ of institutions to bid directly for central bank funding makes it more likely
+
+ that liquidity is directed to where it is most needed. The range of institutions
+
+ eligible to deal with the Reserve Bank is quite broad and extends beyond banks
+
+ and other ES account holders to include, for example, securities dealers and
+
+ nominee companies. This wide range of counterparties participate in the Bank's
+
+ operations on a regular basis. To be a counterparty in our open market operations,
+
+ an institution must be a member of RITS (which covers the terms of the repo
+
+ agreements between ourselves and the counterparty), have its treasury operations
+
+ in Australia and be able to settle in a timely and efficient manner.
+Overall, the Bank has found it advantageous to be as flexible as possible in the
+
+ way that it manages system liquidity. We operate daily in the market with a
+
+ relatively wide range of counterparties and over a wide range of maturities.
+
+ This has been particularly beneficial over the past year, as it has allowed
+
+ the Bank to respond in a timely way to emerging pressures in financial markets.
+Market Operations over the Past Year
+Within this overall framework, the Reserve Bank has made a number of changes over
+
+ the past year as the financial turmoil has unfolded. These have included widening
+
+ the pool of collateral, dealing on a regular basis at long maturities and introducing
+
+ a term deposit facility. In addition, we have significantly increased the pool
+
+ of ES balances, on occasion, to levels well above those that have prevailed
+
+ in recent years.
+Increasing ES balances
+Beginning in August 2007, as banks became less certain of their own funding requirements
+
+ and less confident of the credit profile of their counterparties, the inter-bank
+
+ borrowing markets became quite tight. Banks were more inclined to hold onto
+
+ cash, both because of an increased unwillingness to lend it, but also reflecting
+
+ a concern about their ability to obtain funding themselves from the market
+
+ in the future should they require it. This was most evident in term markets,
+
+ where borrowing rates increased sharply. However, for similar reasons, there
+
+ was an increased precautionary demand for ES balances, reinforced by the fact
+
+ that ES balances are a risk-free asset. The effect was the demand curve for
+
+ ES balances shifted out.
+The Reserve Bank's initial response last August to this increase in demand
+
+ was to increase the supply of ES balances, from the level of $750 million
+
+ which had prevailed for a number of years to more than $5 billion (Graph 1).
+
+ If the Reserve Bank had not increased the supply, the cash rate would have
+
+ risen above the target set by the Reserve Bank Board as financial institutions
+
+ bid harder for funds in an attempt to increase their cash balances. Because
+
+ of the framework for monetary operations, in particular the fact that we deal
+
+ in the market every day, the Bank was able to very quickly gauge the extent
+
+ of the increased demand for cash and react accordingly.
+Graph 1
+As the demand for cash in the market has ebbed and flowed since last August, the
+
+ Bank has continued to vary the supply of ES balances. ES balances have generally
+
+ increased approaching the end of a quarter as institutions have sought to hold
+
+ more cash on their balance sheets through the quarter end. This phenomenon
+
+ had been evident prior to the credit turmoil but has been particularly accentuated
+
+ over the past year.
+At times when term markets for bank funding have become particularly stressed (Graph 2),
+
+ the Reserve Bank has signalled that it is willing to deal for longer terms
+
+ so as to enhance liquidity in the underlying market for bank paper. In conducting
+
+ a repo operation at a longer term, say 80 days, the Bank is encouraging
+
+ an institution to present eligible collateral of at least that maturity (eg,
+
+ in this case a 90-day bank bill). The institution can purchase the bank bill
+
+ at a high spread to the expected cash rate (OIS) and present it to us as collateral
+
+ at a (generally) lower spread to OIS. Note that this repo transaction is profitable
+
+ to both the institution and to the RBA as our return on the transaction is
+
+ the spread on the repo. In this sense, the Bank can try to alleviate some of
+
+ the pressures in term funding markets by conducting repos at longer maturities.
+Graph 2
+However, to expand its repo operations at these longer terms, the Bank may need to
+
+ increase the supply of ES balances. While the repo operations are conducted
+
+ at term, the cash provided by the Bank increases the ES pool on the date of
+
+ the transaction. Thus the Bank needs to weigh up the benefit of providing some
+
+ support to term funding markets against any possible cost to the cash market
+
+ of increasing the ES pool (discussed below).
+From early September, tensions in money markets increased significantly. Counterparty
+
+ credit risk became paramount. This was primarily a global phenomenon, exacerbated
+
+ by the failure of Lehman Brothers. Demand for exchange settlement balances
+
+ rose rapidly and again the Bank accommodated this, which resulted in balances
+
+ reaching $11 billion in mid October. We have subsequently reduced the
+
+ ES pool as demand has eased.
+The degree to which turnover in the cash market has been affected by the turbulence
+
+ and by the heightened counterparty fears should not be overstated. The daily
+
+ turnover in the cash market has been relatively constant throughout and has
+
+ been largely unaffected by the size of exchange settlement balances (Graph 3).
+
+ Thus a crucial part of the financial system, which lies right at its heart,
+
+ has continued to function well.
+Graph 3
+Term deposits
+As the pool of exchange settlement balances has increased, it has the potential to
+
+ eventually disrupt the functioning of the cash market. At some point the supply
+
+ may be so large as to result in downward pressure on the cash rate. Moreover,
+
+ if the pool were large enough, each institution may have enough balances in
+
+ its ES account to settle any payments outflows without resorting to the interbank
+
+ market.
+To relieve this tension in the overnight cash market, while continuing to allow the
+
+ Bank to conduct more repo transactions at longer maturities to try to alleviate
+
+ term funding pressures, the Bank announced a new term deposit facility on 24 September.
+
+ This facility allows institutions to move some of the funds that may have otherwise
+
+ sat in the overnight ES accounts to a longer maturity of either 7 or 14 days.
+
+ Thus one can think of the term deposits as an ES account with a longer maturity.
+
+ The balances are breakable at short notice with a relatively small cost, so
+
+ institutions are still able to access this liquidity if necessary.
+The rates of return on these accounts are determined by auction, with the counterparties
+
+ indicating their desired return in their
+
+ bid.
+[6]
+The return should generally be no lower than the rate of return on the overnight
+
+ ES account (which is 25 basis points below the cash rate target). However,
+
+ the return should generally also not be higher than the cash rate, which is
+
+ the unsecured interbank rate, given the absence of credit risk on a deposit
+
+ with the RBA. Indeed, in our regular auctions of term deposits, the Bank reserves
+
+ the right to reject bids at too high a rate.
+Collateral
+While the Bank deals with a wide range of counterparties, the credit risk the Bank
+
+ incurs through its counterparty exposures is mitigated by three factors: the
+
+ quality of the collateral; the fact that in normal circumstances it accepts
+
+ only ‘third-party’ collateral; and the margin or ‘haircut’
+
+ taken on that collateral.
+Over the past 10 years or so, the Bank has gradually expanded the range of securities
+
+ which it is willing to accept as collateral. In general, these changes had
+
+ been prompted by the evolving nature of the debt markets in Australia. Specifically,
+
+ as the stock of Commonwealth Government securities (CGS) has fallen, the Bank
+
+ has needed to accept other highly rated collateral. Securities issued by the
+
+ borrowing authorities of State and Territory governments became eligible collateral
+
+ in 1997, the AAA-rated Australian dollar debt of certain supranationals became
+
+ eligible in 2000, while those of foreign governments and agencies with government
+
+ guarantees, as well as bank bills and certificates of deposit issued by certain
+
+ authorised deposit-taking institutions (ADIs), became eligible in 2004.
+From mid September 2007, the Bank further expanded its list of eligible collateral
+
+ by accepting ADI securities with a remaining term to maturity longer than 12 months.
+
+ These securities are subject to minimum credit-rating requirements and margins
+
+ as high as 9 per cent.
+With the market for securitised debt becoming particularly dysfunctional, the Bank
+
+ announced that from early October 2007, residential mortgage-backed securities
+
+ (RMBS) and asset-backed commercial paper (ABCP) would also be eligible collateral.
+
+ In addition to being of the highest credit quality (AAA-rated and P-1 rated,
+
+ respectively), the Bank only lends funds against these securities to the extent
+
+ that at least 90 per cent of the assets backing them are ‘full-doc’
+
+ mortgages. The RMBS and ABCP can be issued by both authorised deposit-taking
+
+ institutions (ADIs, which are banks, building societies, credit unions) as
+
+ well as non–ADIs. The securities need to be vetted by the Bank's
+
+ Risk Management Unit before being deemed to be eligible collateral.
+The Bank also draws a distinction between securities to which its counterparty is
+
+ related and those to which it is not. Thus, while the Bank is prepared to accept
+
+ as collateral bills and certificates of deposit from any ADI, an ADI dealing
+
+ in repurchase agreements with the Reserve Bank cannot offer its own securities,
+
+ or those of a related party, as collateral.
+The same condition also applied to RMBS and ABCP when these securities were initially
+
+ added to the acceptable collateral list. That is, a financial institution was
+
+ not able to present, as collateral, RMBS with which it was related party. The
+
+ relatedness could reflect the fact that it was the originator of the mortgages
+
+ or that it acted to provide credit enhancement or insurance to the security.
+However, at the time of their inclusion in the pool of eligible collateral, the Bank
+
+ stated that in certain circumstances the relatedness stipulation might be relaxed.
+
+ With the significant worsening of term funding markets since early September,
+
+ the Bank announced on
+8 October
+that ADIs could present their own RMBS and ABCP as eligible collateral. This served
+
+ to significantly increase the pool of liquifiable assets available to financial
+
+ institutions.
+When lending cash against the receipt of collateral, the Bank always imposes a margin
+
+ or ‘haircut’ on its counterparty. For example, on short-term bank
+
+ paper, the margin has been
+
+ 2 per cent.
+[7]
+That is, for every $100 lent by the Bank, securities worth $102 need to be pledged
+
+ as collateral. If, during the term of the repo, the security declines in value,
+
+ the counterparty is required to post additional collateral. In the case of
+
+ RMBS and ABCP, a margin of 10 per cent is imposed.
+Maturities
+The Bank's preferred maturities for dealing are derived from our projections
+
+ for future withdrawals and additions to system balances. The preferred maturity
+
+ is generally a day when we forecast the system to be in surplus. Thus, on the
+
+ day that the repo transactions on this preferred maturity were to unwind, they
+
+ would drain liquidity from the system, thereby converting the projected surplus
+
+ to a deficit. In this way, we are able to ensure that on most days the system
+
+ is in deficit, thereby allowing us to conduct repo operations regularly.
+In the past year, the Bank has varied the maturity of its repurchase transactions
+
+ quite significantly (Graph 4).
+Graph 4
+In the past, we have not offered repos at longer maturities on a pre-scheduled basis,
+
+ although we generally offered a longer term at least once a week. However,
+
+ with the worsening of the dislocation in term funding markets in recent weeks,
+
+ we have decided to offer a 6 and 12 month maturity every day to provide
+
+ some greater certainty of term funding to financial institutions. This has
+
+ resulted in a further lengthening of the average maturity of the RBA's
+
+ repo book so that it currently has the structure shown in Graph 5.
+Graph 5
+US Dollar Swaps
+Thus far, I have talked about the provision of Australian dollar liquidity to the
+
+ local market. However, the US dollar funding market has been particularly disrupted
+
+ globally at various times since last August. The roots of this dislocation
+
+ are related to the need for some institutions, particularly in Europe to access
+
+ US dollar funding on a daily basis to fund their US dollar investments. This
+
+ has caused disruption to the US dollar foreign exchange swap market, not just
+
+ in Europe, but also in other regions and time zones, given the global nature
+
+ of the market.
+To address this problem, late last year, the Federal Reserve announced a swap facility
+
+ with the European Central Bank and the Swiss National Bank so that the ECB
+
+ and SNB could provide US dollars to their local market participants against
+
+ local currency collateral.
+As the dislocation became particularly acute in September, the facility was expanded
+
+ significantly to include a number of major central banks, including the Reserve
+
+ Bank of Australia, to allow the US dollars to be provided to more markets in
+
+ more time zones. In a number of cases, including our own, the introduction
+
+ of the facility does not reflect a fundamental shortage of US dollars on the
+
+ part of local financial institutions. Rather it was to help address the problem
+
+ in global markets of the dislocation of the US dollar swap market by increasing
+
+ the supply of US dollars in more markets and time zones.
+The swap facility involves the exchange of US dollars from the Fed for local currency
+
+ from the counterpart central bank, Australian dollars in our case. We then
+
+ auction the US dollars to local institutions who are eligible for our domestic
+
+ market operations. The institutions then provide as collateral, securities
+
+ which are acceptable in our domestic operations. Thus, one can think of this
+
+ facility as an open market operation in US dollars, rather than in domestic
+
+ currency.
+In some regions, such as Europe and the UK, the facility has been further extended
+
+ to provide an unlimited amount of US dollars at a pre-determined price, to
+
+ ensure that all the demand at that price is satisfied.
+Overall, it appears this has had some success with conditions in the US dollar swap
+
+ markets improving over the last few weeks, and the cost of US dollar funding
+
+ declining to more normal rates.
+Conclusion
+The framework for the Reserve Bank's market operations has been very flexible
+
+ and has served us well. The modifications that the Bank has made in response
+
+ to the tensions in the domestic money market resulting from the turmoil in
+
+ global credit markets have been easily accommodated within the overall pre-existing
+
+ framework. In particular, the fact that the Bank has for a long time, dealt
+
+ daily with a wide range of counterparties across a wide range of maturities
+
+ has allowed us to respond quickly and flexibly. Nevertheless, the Bank is continually
+
+ reviewing all aspects of the operating framework to ensure that it is consistent
+
+ with the evolving nature of the domestic financial market.
+Endnotes
+I thank Matt Boge for his help in writing this speech.
+[1]
+‘
+Open Market Operations and Domestic Securities
+’,
+
+ speech given to the Australian Securitisation Forum, 29 November 2007.
+
+ ‘
+Open Market Operations
+’,
+
+ speech given to the Australian Debt Markets Conference, 27 June 2008.
+[2]
+This sections covers much of the material in the two earlier speeches but bears repeating.
+[3]
+This is in contrast to the systems in the US, Europe and the UK where there is a
+
+ reserves target that is required to be achieved over a period of time, but
+
+ the Australian framework is similar to that in Canada.
+[4]
+This information is published on the Reserve Bank's Reuters and Bloomberg pages
+
+ and is also available on the
+website
+.
+[5]
+The rate of return is expressed as a spread to the cash rate, so there is no issue
+
+ of monetary policy expectations affecting the bid, if the deposit were to
+
+ span a RBA board meeting.
+[6]
+The full list of
+eligible collateral
+and details of the
+margin requirements
+are available on the Bank's website.
+[7]

@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Towards good governance in the financial system of Aotearoa",
+  "date_original": "2023-09-07",
+  "date_au": "07/09/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2023/towards-good-governance-in-the-financial-system-of-aotearoa.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2023-09-07 - Towards good governance in the financial system of Aotearoa.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2023-09-07 - Towards good governance in the financial system of Aotearoa.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:47",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2023/september/towards-good-governance-in-the-financial-system-of-aotearoa",
+  "content_sha256": "c4bef8232d9c0b7aaae968fdf257d8e74c0162266f1825b7cd5b5bf028c95233"
+}

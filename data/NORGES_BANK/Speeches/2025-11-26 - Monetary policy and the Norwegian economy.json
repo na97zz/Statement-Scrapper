@@ -1,0 +1,18 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Monetary policy and the Norwegian economy",
+  "date_original": "2025-11-26",
+  "date_au": "26/11/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2025/2025-11-26-fellesforbundet/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2025-11-26 - Monetary policy and the Norwegian economy.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2025-11-26 - Monetary policy and the Norwegian economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:21",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

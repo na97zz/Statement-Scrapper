@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Norges Bank is raising the policy rate to bring down inflation",
+  "date_original": "2022-11-03",
+  "date_au": "03/11/2022",
+  "datetime_original": "",
+  "speaker": "Ida Wolden Bache",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-11-03-pk/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-11-03 - Ida Wolden Bache - Norges Bank is raising the policy rate to bring down inflation.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-11-03 - Ida Wolden Bache - Norges Bank is raising the policy rate to bring down inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f683075a10d419a4b2c7c45ad784361d6587d69d0df65b5ca428640ddfa2c0b6"
+}

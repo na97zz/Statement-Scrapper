@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Challenge of Ageing Populations – Sydney",
+  "date_original": "2022-06-05",
+  "date_au": "05/06/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-ag-220605.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-06-05 - Sydney - The Challenge of Ageing Populations – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-06-05 - Sydney - The Challenge of Ageing Populations – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e140192913967cb6c424581656a2b8585e44321de7cd50252337dce40d763e84"
+}

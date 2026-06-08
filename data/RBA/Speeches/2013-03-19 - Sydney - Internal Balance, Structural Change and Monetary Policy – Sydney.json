@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Internal Balance, Structural Change and Monetary Policy – Sydney",
+  "date_original": "19 March 2013",
+  "date_au": "19/03/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-dg-190313.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-03-19 - Sydney - Internal Balance, Structural Change and Monetary Policy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-03-19 - Sydney - Internal Balance, Structural Change and Monetary Policy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "84e5014b5fa607648ed30cd47555867be814847645ba321027a86ccc46c5785a"
+}

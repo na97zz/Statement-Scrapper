@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation and the Impact of the Middle East Conflict",
+  "date_original": "2026-05-19",
+  "date_au": "19/05/2026",
+  "datetime_original": "",
+  "speaker": "Sarah Hunter",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-ag-2026-05-19.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-05-19 - Sarah Hunter - Inflation and the Impact of the Middle East Conflict.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-05-19 - Sarah Hunter - Inflation and the Impact of the Middle East Conflict.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:27:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0a794fb1f3c86c2952f40d8996e7a5dec3feff4537ed7ace2de490d4a4921951"
+}

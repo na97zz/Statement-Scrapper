@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening address at Banking 2022 Conference",
+  "date_original": "2022-03-11",
+  "date_au": "11/03/2022",
+  "datetime_original": "",
+  "speaker": "Philip Lowe",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-03-11.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-03-11 - Philip Lowe - Opening address at Banking 2022 Conference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-03-11 - Philip Lowe - Opening address at Banking 2022 Conference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "baedec7af1fb0a68f49d0f18aab272cb059aec1cf3f3875608c1f1fae65d5b1f"
+}

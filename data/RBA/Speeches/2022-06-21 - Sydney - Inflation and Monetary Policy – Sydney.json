@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation and Monetary Policy – Sydney",
+  "date_original": "2022-06-21",
+  "date_au": "21/06/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-06-21 - Sydney - Inflation and Monetary Policy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-06-21 - Sydney - Inflation and Monetary Policy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b68bbe8df0b1ff2939f1b9ae4e5db0b50a958f08b0f464aa839604eab5f31e4c"
+}

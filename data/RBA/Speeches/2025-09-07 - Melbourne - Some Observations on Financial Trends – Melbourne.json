@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Observations on Financial Trends – Melbourne",
+  "date_original": "2025-09-07",
+  "date_au": "07/09/2025",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2007/sp-dg-250907.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-09-07 - Melbourne - Some Observations on Financial Trends – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-09-07 - Melbourne - Some Observations on Financial Trends – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b851e6589de3589e8d27c4d73b9f0797688c1c0c1851408757f936f4633ff36d"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Regional Financial Arrangements: Recent Developments – Sydney",
+  "date_original": "15 April 2004",
+  "date_au": "15/04/2004",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-dg-150404.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2004-04-15 - Sydney - Regional Financial Arrangements_ Recent Developments – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2004-04-15 - Sydney - Regional Financial Arrangements_ Recent Developments – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e7ddfdf70ab7ad4a02aacec71391de5f354730e1a9cf8f147b2afe4ecf7f2545"
+}

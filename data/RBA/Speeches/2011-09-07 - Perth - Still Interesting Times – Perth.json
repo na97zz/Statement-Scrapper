@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Still Interesting Times – Perth",
+  "date_original": "7 September 2011",
+  "date_au": "07/09/2011",
+  "datetime_original": "",
+  "speaker": "Perth",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-gov-070911.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-09-07 - Perth - Still Interesting Times – Perth.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-09-07 - Perth - Still Interesting Times – Perth.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d7f488ad4a82244ac502b4b90fac4eb7595083b5e7edbfd5a69cc52e97beb37b"
+}

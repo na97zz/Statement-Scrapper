@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Review of the Bond Purchase Program – Sydney",
+  "date_original": "2022-09-21",
+  "date_au": "21/09/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-dg-2022-09-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-09-21 - Sydney - Review of the Bond Purchase Program – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-09-21 - Sydney - Review of the Bond Purchase Program – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e459097b619f180d4e8e762764c8f6318a75507d48da120469e81200bdd32520"
+}

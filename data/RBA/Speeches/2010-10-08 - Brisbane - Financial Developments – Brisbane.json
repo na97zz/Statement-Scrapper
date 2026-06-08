@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financial Developments – Brisbane",
+  "date_original": "8 October 2010",
+  "date_au": "08/10/2010",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-dg-081010.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-10-08 - Brisbane - Financial Developments – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-10-08 - Brisbane - Financial Developments – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e97dc3e8d8b39b2a60f4a58e7fb06f14377037ba79f39b33d98153c106ba3d3d"
+}

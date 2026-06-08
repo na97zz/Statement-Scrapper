@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Decision March 2024",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2024/monetary-policy-decision-march-2024/",
+  "raw_file_path": "data\\RIKSBANK\\Monetary Policy\\2024-06-01 - Monetary Policy Decision March 2024.html",
+  "text_file_path": "data\\RIKSBANK\\Monetary Policy\\2024-06-01 - Monetary Policy Decision March 2024.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:58:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0258c4cc45ba2eebebbdfbd10231afb1a8dd1b13ec7834f3c1a79d7e7c971c09"
+}

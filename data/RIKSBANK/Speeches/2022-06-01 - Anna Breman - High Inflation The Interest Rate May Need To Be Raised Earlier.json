@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "High Inflation The Interest Rate May Need To Be Raised Earlier",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Anna Breman",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2022/high-inflation--the-interest-rate-may-need-to-be-raised-earlier/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2022-06-01 - Anna Breman - High Inflation The Interest Rate May Need To Be Raised Earlier.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2022-06-01 - Anna Breman - High Inflation The Interest Rate May Need To Be Raised Earlier.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:05:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b50ec56648230f510ec12f6b2ee9140c3bb42ffa4dacee45bc98f316cc56bf20"
+}

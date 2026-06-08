@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Norges Bank’s balance sheet",
+  "date_original": "2024-10-17",
+  "date_au": "17/10/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2024/2024-10-17-cme/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2024-10-17 - Norges Bank’s balance sheet.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2024-10-17 - Norges Bank’s balance sheet.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f54b3312be6dbfb0c8c2681dfd471560b793d5622fde0a4b222266295d5b90e"
+}

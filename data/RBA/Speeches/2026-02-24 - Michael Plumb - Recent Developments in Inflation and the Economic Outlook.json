@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Developments in Inflation and the Economic Outlook",
+  "date_original": "2026-02-24",
+  "date_au": "24/02/2026",
+  "datetime_original": "",
+  "speaker": "Michael Plumb",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-so-2026-02-24.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-02-24 - Michael Plumb - Recent Developments in Inflation and the Economic Outlook.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-02-24 - Michael Plumb - Recent Developments in Inflation and the Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e653c23914b6f87df942f1c57a92685645dfe9909fc9a6191c5a410593d1c908"
+}

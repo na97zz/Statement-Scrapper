@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Women in Payments Symposium",
+  "date_original": "2024-11-21",
+  "date_au": "21/11/2024",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-gov-2024-11-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-11-21 - Michele Bullock - Fireside Chat at the Women in Payments Symposium.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-11-21 - Michele Bullock - Fireside Chat at the Women in Payments Symposium.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f0bc6bc01b36d8bb5dc96e2acb6a335b5d0f5a9dc8871480a17d01a0adc0d2d2"
+}

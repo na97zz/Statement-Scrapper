@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Exchange Rate Regimes for Emerging Markets – Sydney",
+  "date_original": "30 October 2000",
+  "date_au": "30/10/2000",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-dg-301000.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-10-30 - Sydney - Exchange Rate Regimes for Emerging Markets – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-10-30 - Sydney - Exchange Rate Regimes for Emerging Markets – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "23b6462ad01584ae7dfbf5a708f7fb9587d01e99f0be1ccb8037771e71848dec"
+}

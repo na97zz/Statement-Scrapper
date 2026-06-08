@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economy and Monetary Policy – Melbourne",
+  "date_original": "10 April 2001",
+  "date_au": "10/04/2001",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-gov-100401.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-04-10 - Melbourne - The Economy and Monetary Policy – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-04-10 - Melbourne - The Economy and Monetary Policy – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1558b63516b55802e96e5592c4a490ad582fe76fed78520f81b07e3f09b65a76"
+}

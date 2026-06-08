@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Medium-term Perspective on Monetary Policy – Brisbane",
+  "date_original": "10 August 2000",
+  "date_au": "10/08/2000",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-100800.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-08-10 - Brisbane - A Medium-term Perspective on Monetary Policy – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-08-10 - Brisbane - A Medium-term Perspective on Monetary Policy – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "70583238e21239edd3079543f01bb05857cc6099e600fa36001c7d0f65b9ca0d"
+}

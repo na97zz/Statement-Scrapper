@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australian Securitisation Markets: Responding to Change – Sydney",
+  "date_original": "2023-11-21",
+  "date_au": "21/11/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-11-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-11-21 - Sydney - Australian Securitisation Markets_ Responding to Change – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-11-21 - Sydney - Australian Securitisation Markets_ Responding to Change – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "762f281c3e0f92e2ec3fa0e507ff3b200a5e465704b9e9f7c56954f8fa1bfeeb"
+}

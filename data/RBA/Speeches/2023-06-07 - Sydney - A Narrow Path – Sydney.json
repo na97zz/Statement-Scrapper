@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Narrow Path – Sydney",
+  "date_original": "2023-06-07",
+  "date_au": "07/06/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-06-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-06-07 - Sydney - A Narrow Path – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-06-07 - Sydney - A Narrow Path – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6c25bc7e74f8e097b56ddd9613b871838755137da27bd6dc5d0bbd0f4c2bedc6"
+}

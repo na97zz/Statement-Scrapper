@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Speeches",
+  "title": "Antoine Martin, Vice Chairman of the Governing Board The SNB and its monetary policy ﻿",
+  "date_original": "2026-04-22",
+  "date_au": "22/04/2026",
+  "datetime_original": "",
+  "speaker": "Antoine Martin",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260422_anmar",
+  "raw_file_path": "data\\SNB\\Speeches\\2026-04-22 - Antoine Martin - Antoine Martin, Vice Chairman of the Governing Board The SNB and its monetary policy ﻿.html",
+  "text_file_path": "data\\SNB\\Speeches\\2026-04-22 - Antoine Martin - Antoine Martin, Vice Chairman of the Governing Board The SNB and its monetary policy ﻿.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:26",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

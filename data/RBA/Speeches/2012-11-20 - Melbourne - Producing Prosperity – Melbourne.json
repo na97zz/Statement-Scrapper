@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Producing Prosperity – Melbourne",
+  "date_original": "20 November 2012",
+  "date_au": "20/11/2012",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-gov-201112.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-11-20 - Melbourne - Producing Prosperity – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-11-20 - Melbourne - Producing Prosperity – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bb0485b5269d9c5c5abd2662ef7f5cc955f3b81d44cede26a89b010205f70c41"
+}

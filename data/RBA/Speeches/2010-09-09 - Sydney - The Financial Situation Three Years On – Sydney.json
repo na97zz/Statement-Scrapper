@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Financial Situation Three Years On – Sydney",
+  "date_original": "9 September 2010",
+  "date_au": "09/09/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-090910.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-09-09 - Sydney - The Financial Situation Three Years On – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-09-09 - Sydney - The Financial Situation Three Years On – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "22fbcd41122eb76b52e8c11322c2f52afd9bd24b5d4a035db9b090e3f783e724"
+}

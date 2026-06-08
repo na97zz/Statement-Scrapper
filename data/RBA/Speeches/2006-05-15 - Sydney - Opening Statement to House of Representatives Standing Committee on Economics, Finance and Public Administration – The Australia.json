@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to House of Representatives Standing Committee on Economics,\r\n Finance and Public Administration – The Australian Payments System – Sydney",
+  "date_original": "15 May 2006",
+  "date_au": "15/05/2006",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-ag-150506.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-05-15 - Sydney - Opening Statement to House of Representatives Standing Committee on Economics, Finance and Public Administration – The Australia.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-05-15 - Sydney - Opening Statement to House of Representatives Standing Committee on Economics, Finance and Public Administration – The Australia.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "af52e3e93d6c3c99d0982576574d1da4b578a762ed5ea4be11fa3614cf1ee32f"
+}

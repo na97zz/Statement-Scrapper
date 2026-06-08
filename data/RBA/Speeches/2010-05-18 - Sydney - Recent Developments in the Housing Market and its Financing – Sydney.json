@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Developments in the Housing Market and its Financing – Sydney",
+  "date_original": "18 May 2010",
+  "date_au": "18/05/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-so-180510.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-05-18 - Sydney - Recent Developments in the Housing Market and its Financing – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-05-18 - Sydney - Recent Developments in the Housing Market and its Financing – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ba5faa16d6ffda13d255d68521e7b16ea0be8087e2335b1d978fb4d577c3fd1f"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Policy Risks Have Changed",
+  "date_original": "2026-05-22",
+  "date_au": "22/05/2026",
+  "datetime_original": "",
+  "speaker": "Policy Risks Have Changed",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-22 - Policy Risks Have Changed - Policy Risks Have Changed.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-22 - Policy Risks Have Changed - Policy Risks Have Changed.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0fa8b027694144d73a03db6fff6745ce1b4bffa1f22491b1548193e86c560ac6"
+}

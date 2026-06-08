@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Anti-fragility and the Financial System",
+  "date_original": "2025-09-12",
+  "date_au": "12/09/2025",
+  "datetime_original": "",
+  "speaker": "Brad Jones",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-09-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-09-12 - Brad Jones - Anti-fragility and the Financial System.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-09-12 - Brad Jones - Anti-fragility and the Financial System.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "81232329bb77ae8f1b4a08497a2dd95afebe546b9e8445a9cb9ab823768be0ef"
+}

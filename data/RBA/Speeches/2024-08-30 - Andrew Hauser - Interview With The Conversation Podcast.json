@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interview With The Conversation Podcast",
+  "date_original": "2024-08-30",
+  "date_au": "30/08/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-08-30.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-08-30 - Andrew Hauser - Interview With The Conversation Podcast.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-08-30 - Andrew Hauser - Interview With The Conversation Podcast.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b44a168a20ac2d8ebded2a5dc93a58f08446ce850fcaa0edc370351e4fff8416"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Payments System Reforms: Innovation and Competition – Sydney",
+  "date_original": "2024-03-09",
+  "date_au": "09/03/2024",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-240309.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-03-09 - Sydney - Payments System Reforms_ Innovation and Competition – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-03-09 - Sydney - Payments System Reforms_ Innovation and Competition – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f457ed004f93caa56a261916b894240c04713ed52d5639814ca0c60f0d886b63"
+}

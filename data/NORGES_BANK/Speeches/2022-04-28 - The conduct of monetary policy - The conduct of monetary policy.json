@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "The conduct of monetary policy",
+  "date_original": "2022-04-28",
+  "date_au": "28/04/2022",
+  "datetime_original": "",
+  "speaker": "The conduct of monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-04-28-bache/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-04-28 - The conduct of monetary policy - The conduct of monetary policy.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-04-28 - The conduct of monetary policy - The conduct of monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "02ca3f7e5f8fd20e932e5014ca80f9d8c811b9b95b27c2a7fe9297e508216cbe"
+}

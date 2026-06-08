@@ -1,0 +1,955 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Panel Discussion – The Future of Account-to-Account Payments in Australia
+DATE: 12/12/2024
+SPEAKER: Ellis Connolly
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2024/sp-so-2024-12-12.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Panel Discussion – The Future of Account-to-Account Payments in Australia
+Ellis Connolly
+Head of Payments Policy
+AusPayNet Summit 2024
+Sydney
+–
+12 December 2024
+Audio
+42MB
+Watch video: Panel Discussion – The Future of Account-to-Account Payments in Australia
+Transcript
+Speaker
+Now, to our next panel of the Future of Account-to-Account Payments in Australia. I would like to
+
+ welcome the following panellists to the stage. First up, Sally Etherington, Acting Assistant
+
+ Secretary, Payments and Financial Innovation Branch of Digital Competition and Payments Division,
+
+ Treasury. Please welcome Sally to the stage. That is one mouthful of a title. You don’t want to
+
+ have to fit that on your name badge, right. Okay. Next we have Ellis Connolly, Head of Payments
+
+ Policy at the Reserve Bank. Ellis, come on up. Katrina Stuart, General Manager Business Payments,
+
+ Australian Payments Plus. Please welcome, Katrina. Now, we don’t need to introduce Luke Wilson
+
+ because he’s already been on stage but come on back, Luke, joining us for a second panel. Chief
+
+ Operating Officer at AusPayNet. And moderating this panel is Jackie Kallman, Head of Payments,
+
+ Industry and Engagement at ANZ. Please come on up, Jackie. She’s in charge of fielding the
+
+ Q&A.
+Jackie Kallman
+Hi everyone. Hi panel, it’s great to be here. Hi Sally, down there. It is really far away. Yeah.
+
+ Good thing we have mics. So good afternoon and thanks for sticking with us. I am really excited to be
+
+ moderating this panel today on the future of account-to-account payments. And I Chair the BECS
+
+ Management Committee at AusPayNet and ANZ is a member of BECS and we’re also a member of NPP and
+
+ there is also other systems we’re members of so I have a very, you know, relevant interest in
+
+ this discussion today. So we’ve been discussing this topic for some time now and as the world
+
+ moves to real-time payments, richer data, digitisation, really understanding, well, what does that
+
+ mean for Australia and the future of account-to-account payments in Australia. So in 2022 at this
+
+ summit actually we asked the question of, is it time to start thinking about ending BECS and
+
+ it’s - the RBA has called it the workhorse of the system. It’s deferred net settlement but
+
+ is it time to really move to more modern alternatives like the NPP. So last year after extensive
+
+ consultation with the industry, AusPayNet communicated a conditional target end date of 2030, June
+
+ 2030 for BECS, subject to ensuring there is no risk to the security, stability and resilience of the
+
+ payment system and that’s really key. So the setting of this date was really important because,
+
+ and I think Brad mentioned it this morning, it focused the industry and it accelerated discussions
+
+ and initiatives to prepare for this eventual end date in the future. So some of those initiatives,
+
+ Treasury has done some targeted consultation on bulk payments. The RBA is in the process of a risk
+
+ assessment, as well as a study on account-to-account pricing. And at the same time the industry is
+
+ looking at initiatives with members of BECS and other modern payment systems, like the NPP, to
+
+ support payment service providers and members in adopting and realising the benefits of real-time
+
+ data rich payments. So in today’s discussion I’ll be speaking with our panellists who -
+
+ these are the people who think about the future of account-to-account payments daily. They’re
+
+ leading a number of these initiatives and we’re just going to talk about how the industry is
+
+ progressing and what the future looks like, what the next steps to get there are. So with that
+
+ I’ll start with Sally. So Treasury’s strategic plan for the payment system. That was
+
+ released last year. It includes payments modernisation as a priority. So can you give some colour as
+
+ to the importance of modernising account-to-account payments. So the government and for Australia and
+
+ Australians.
+Sally Etherington
+Yeah. Thanks, Jackie. So we outlined in the strategic plan last year how important it was for
+
+ Australia to have a modern payment system to support a modern and digitally enabled economy. We want
+
+ our payment system - in the plan we set out that we want our payment system to be safe, resilient and
+
+ encourage innovation, competition and productivity. And I think why we are very interested in the
+
+ account-to-account space is because I think there’s a lot of potential within it to really - if
+
+ done right, to progress the competition, the innovation and therefore productivity in the payment
+
+ system which will have onflows to the rest of the economy. I think the other reason that government
+
+ is really interested in this area is because we are a massive end user of the BECS payment rails. We
+
+ have all our welfare payments go through the BECS system. We have pensions going through there. We
+
+ pay all our staff. A massive payroll, superannuation goes through there. We also collect all our tax
+
+ - not all of our tax but a lot of our tax through the BECS payment rail. So we are a big end user of
+
+ the system and therefore the transition is going to be quite sizable for government.
+Jackie Kallman
+Thanks, Sally. So what do you see as Treasury’s role in, kind of, defining what the future of
+
+ account-to-account looks like, and how are you doing that?
+Sally Etherington
+So I think the strategic plan here has been a really important document, inaugural strategic plan
+
+ that was released last year. We did support the industry-led transition from the BECS system to a
+
+ solution like the NPP. And when we update the strategic plan next year we would hope to be able to
+
+ say a little bit more on that and really setting - working with industry and regulators to really set
+
+ a clear purpose and end state for the industry and working with the industry to create a roadmap on
+
+ how to get there. At the moment we’ve got one date out there but I think we want to work with
+
+ industry to find a bit more of a pathway to our future end state.
+Jackie Kallman
+Yep. Thank you. So, Ellis, the RBA. The RBA set in 2012, which a number of us will remember strategic
+
+ objectives for the retail payment system in Australia and the RBA’s also made a really clear
+
+ from the outset of that they want to see increased adoption of the NPP. So can you give us some
+
+ insight as to why the bank sees this as a priority and what modernisation of account-to-account more
+
+ broadly means to the RBA.
+Ellis Connolly
+Absolutely. Thanks, Jackie. I think it’s important to start this with the question of why is the
+
+ industry going through the process of considering and trying to achieve the decommissioning of BECS.
+
+ As you mentioned earlier we love to refer to BECS as the low cost workhorse of the Australian payment
+
+ system. And it has indeed been an incredible contributor to Australia’s payment system over the
+
+ years. But fundamentally it’s 20th century technology. It has limitations that relate - that
+
+ basically reflect the days when data exchange used to occur using magnetic tapes. So some of these
+
+ limitations. It’s slow. Payments take hours, if not days, to settle. The data that can transfer
+
+ with the payment is minimal. Just 18 characters. This leads to a lot more manual work arounds.
+
+ It also makes it very hard to properly screen for financial crime, when you have 18 characters
+
+ about the payment. And the addressing system. BSB, account numbers, it’s clunky and it’s
+
+ risky. So industry would have to confront and overcome these limitations. And to do that through BECS
+
+ would involve substantial investment. Instead the industry is going down the path of trying to shift
+
+ account-to-account payment flows away from BECS towards alternative, more modern systems, as the way
+
+ of achieving the eventual retirement of the BECS system. So then where does the NPP fit into all of
+
+ this? I think the NPP has a strong case to make as a much better tool for many account-to-account
+
+ payments in Australia. It provides a much better consumer experience. Just think about the speed and
+
+ the
+24/7
+nature of it. This means that consumers and businesses in
+
+ Australia can make payments whenever they want and expect the payment to be delivered almost
+
+ instantaneously. It’s much more data rich. This means that you can build new services on top of
+
+ the payment, which is going to be essential in our digital economy. It also means that you can
+
+ automate reconciliation and other business processes. And through PayIDs we’ve got a much better
+
+ addressing system there and when you combine it with confirmation of payee it also helps to make
+
+ payments safer. On top of all that we now have the PayTo service as well, which has the potential to
+
+ unleash another wave of payments innovation. It will modernise direct debits. It will also enable
+
+ nonbank payment service providers to engage in third party payment initiation. So it’s got a lot
+
+ of tremendous benefits over and above the existing systems. It can also provide potential competition
+
+ for card payments for merchants and consumers. So I think there’s a strong case that
+
+ there’s a lot more functionality being offered by the NPP and it can be an effective place to
+
+ move a lot of account-to-account payments in Australia.
+Jackie Kallman
+That’s great. Thank you. And I think really hearing the why is so important because also we
+
+ heard from Brad this morning that the adoption of NPP does need to come with some conditions because
+
+ the RBA needs to ensure it meets its mandate of controlling risk and promoting efficiency, promoting
+
+ competition and ultimately enabling a stable ecosystem. So can you shed a bit more light on some of
+
+ the challenges you see for the industry.
+Ellis Connolly
+Yeah. As Brad highlighted this morning we’re currently conducting an assessment of how industry
+
+ is managing the very large amount of change that would have to occur to achieve the full
+
+ decommissioning of the BECS system. We’ve been conducting this risk assessment since June and
+
+ we’ve engaged extensively with banks, payment service providers, payment system operators and
+
+ administrators and end users, including businesses and government. So a lot of messages have come
+
+ through to us, and Brad really summarised some of those in his speech which I’ll go through a
+
+ little bit further here now. So the first clear message that’s come through, and it’s one
+
+ that Sally has also very much emphasised, is there needs to be more planning and coordination around
+
+ the BECS decommissioning. There’s that really foundational point that the industry does not yet
+
+ have a clear common set of objectives, a shared vision of where account-to-account payments is going
+
+ in Australia. Essentially, when we’re thinking about the BECS migration, what does success look
+
+ like? Any enormous program of work like this we have to have a common clear understanding of what
+
+ success looks like from the outset, if we’re going to achieve the objectives that we want to
+
+ achieve. So that’s the first point. The second point is making sure that in the industry
+
+ discussions that are going on, end user interests are at the heart of those discussions. We need to
+
+ make sure that end user concerns are being fully taken into account. Because in the end they’re
+
+ the ones that have to use the service and transition across. A good example of this is essential
+
+ payments. A lot of essential payments in Australia. The majority of them are settled across the BECS
+
+ system. So these payments, the people sending them, the businesses and governments, they need the
+
+ assurance that these payments are going to be reliably delivered to people who really need them. So
+
+ this is absolutely essential. The third point is the tricky area of dealing with bulk payments. This
+
+ is an area that the industry is doing a lot of work on, which is very important. We’re talking
+
+ here about welfare payments. We’re talking here about payroll. The businesses and the
+
+ governments that are sending these payments are very focused on cost efficiency. It is less obvious
+
+ what the speed and additional data benefits are that come with fast payments for these sorts of bulk
+
+ payments. So this is a very important use case. We know the industry is working on it and that is
+
+ absolutely the right thing to be doing. The fourth point is cost. The cost of a transition and the
+
+ cost per transaction. This is a big concern for end users that we need to face into as an industry.
+
+ What we’re trying to do at the RBA is collect some better data on what is the cost of
+
+ account-to-account payments in Australia at the moment. To be honest with you, we’re finding it
+
+ harder than we expected to get these data on a consistent basis across the industry. There’s
+
+ more work to do here. I think we’re going to need to do that work because the end users really
+
+ want transparency. It will help them get the confidence to be able to make this transition. What we
+
+ can say, we’re very confident faster payments do cost more than BECS payments. This is not
+
+ surprising. There’s a lot more functionality associated with fast payments than BECS payments.
+
+ At the same time we absolutely acknowledge that there are hidden costs associated with BECS.
+
+ You’ve got mistaken payments. You’ve got more fraud. You’ve got a lot more manual
+
+ processes that could be automated that could help to reduce cost. So that needs to be taken into
+
+ account as well. We also need to take into account, how much is the transition going to cost end
+
+ users. This is a very big concern for them. So we need to do more work on that as an industry and as
+
+ a regulator we’re ready to assist with this. And then the next issue is on resilience. This is
+
+ very important, given the breadth of payments that are going across BECS. We need a resilience
+
+ system. We also need to have effective contingency arrangements. We know operational outages are
+
+ inevitable, and particularly the essential payments that are going through BECS. The businesses and
+
+ governments sending these payments are going to need the confidence that these payments are going to
+
+ arrive, even in situations where there are operational outages. And last but certainly not least is
+
+ the issue of reach. At the moment there are a lot of customers out there that can send or receive
+
+ payments using BECS, that are not currently connected to the NPP. We really, as an industry, need to
+
+ address that issue because there are lots of use cases, you can think of bulk payments as an example
+
+ of that, where businesses and government aren’t going to be prepared to transition across to the
+
+ NPP until they’ve got the confidence that all the accounts they can reach on BECS they can reach
+
+ through the NPP. So that’s a very big issue. Quite a foundational one that needs to be
+
+ addressed. So there’s a lot of work to do for the industry to make the BECS migration a success.
+Jackie Kallman
+Thanks. And on that, Katrina. So Katrina is the Executive Sponsor of the Move to NPP Program at AP
+
+ Plus. So as part of that, how are you taking all of this, the opportunities, the challenges into
+
+ consideration as you look at how we drive adoption and increase the utilisation really of the benefit
+
+ and what do you think are the most important areas of change for the industry and users?
+Katrina Stuart
+Thanks, Jackie. I think certainly we recognise this is a significant undertaking by industry, in
+
+ terms of moving payments from BECS over to the NPP and the target date that was established last year
+
+ was so important to start to coalesce efforts around - as an industry how we’re going to achieve
+
+ that objective. One year in, I think we can all acknowledge a year in payments is not a long time.
+
+ We’ve been really focusing on, kind of what I would call the two season, the RR’s from a
+
+ platform perspective. So we’ve been focusing on capability. What is the capability that’s
+
+ required to support the transition and to bring all of those payments across, in particular, for bulk
+
+ and how are we going to deal with those large bulk files and process them in the most efficient
+
+ manner across the NPP. Certainly on that front I’m really delighted to say that just in this
+
+ week we have achieved alignment and agreement from industry on how we’re going to move forward
+
+ with that, in terms of designing a new business service to cater to those large bulk files, and
+
+ we’ll be moving into a detailed design phase in 2025. So I think that’s a really
+
+ significant development, given that has been six months of work that’s been underway, involving
+
+ a number of people in this room. And so as we move into that next phase, that’s going to be
+
+ really - one of those, kind of, foundational, sort of, building blocks we need to put in place to
+
+ support the transition. And that detailed design phase will also include, how do we ensure that we
+
+ bring into those conversations a range of different stakeholders to address some of the concerns that
+
+ we heard this morning, to ensure that we are hearing from different segments and different
+
+ stakeholders around their needs and their requirements. We’ve also been looking at, what other
+
+ kind of capability do we need to have in place. So what do we need to do from a message perspective
+
+ and how we need to enhance the message that we have for NPP payments, and particularly using some of
+
+ the data capability that we know is there with the ISO message to use things like batch booking
+
+ indicators and other identifiers to help support the efficient processing of payments. How we know we
+
+ need to put in place a returns process for bulk payments as well. So a lot of focus has been on that
+
+ capability development, which I think is really going to be important contributions to helping us to
+
+ formulate that shared vision that we need to articulate as an industry. Then we’ve been focusing
+
+ very much on capacity, which obviously is another key area of concern in terms of as we think about
+
+ the volumes that are coming across and what that means from a platform perspective. And so at the end
+
+ of 2023 we did our first capacity uplift and so we can now support 50% of BECS volumes, as well as
+
+ accommodating for the NPP volumes we see today of, like, 1.4 billion and also allowing for
+
+ future NPP growth from other sources. And we’ve agreed with industry what the next uplift will
+
+ look like by the end of 2025. So we’ve, kind of, already started to get that in train. And then
+
+ moving on to the RR’s. Obviously account reach is really important. I think we’re starting
+
+ to see continued great progress on that front. We now have 114 million accounts that are
+
+ reachable on the NPP. That’s an improvement of about 12 million accounts since last year.
+
+ Still some work to be done, particularly in certain pockets that we know we need to address together
+
+ with some of the banks, but some great progress there. And then resilience is obviously a key area of
+
+ focus. How do we make sure that the platform is as resilient as it needs to be, noting that we have
+
+ quite high standards around the up time that’s required, in terms of our banks needing to be up
+
+ and running, basically all of the time except for two minutes a month, but obviously there’s
+
+ still work that needs to be done from that perspective. So that’s kind of really been what our
+
+ focus has been, from a platform perspective, but also how do we start to think about the broader
+
+ industry change management as well because this is a change that involves not just the banks,
+
+ it’s not just is the platform ready, but it’s about the whole ecosystem and what needs to
+
+ be done from a change management perspective and how do we start to work with others in the industry,
+
+ and particularly those organisations that play a really key intermediary role or supporting role from
+
+ a technology or a platform perspective to ensure that these payments can be transitioned across as
+
+ well and starting to engage with industry there. So that’s been a lot of our focus for the year.
+
+ I mean, I think we recognise there’s still a lot of work to be done. I think we certainly feel
+
+ that the observations from the RBA risk assessment is really valuable at this stage in the program.
+
+ This is a multi-year journey. So having early insight into some of those things enables us to ensure
+
+ that we’ve got the right areas of focus moving forward as we continue this journey.
+Jackie Kallman
+And, Katrina, you mentioned the end user, as obs Sally and Ellis have done as well, I’m
+
+ interested in, sort of, we note cheques, for example, the end user has that instrument. BECS is a
+
+ little bit different because the end user, there’s the members inbetween. And how are you
+
+ thinking about, really engaging the whole eco system but looking at, where do we need to look
+
+ specifically at end user. And I’m actually - after Katrina answers I’m interested in
+
+ Luke’s view on this too being across both cheques and BECS, but I think it’s a really
+
+ interesting one because the end user experience is actually controlled by the payment provider.
+Katrina Stuart
+Absolutely, and that’s been a really, kind of, important area to make sure we’ve got the
+
+ right balance because, yes, from an industry perspective obviously what financial institutions do to
+
+ support their customers or payment service providers or others that are involved in that payments
+
+ processing. They might do different things to support those customers in different ways, but also
+
+ where do we need to ensure that there is some consistency and standardisation as well. So we’ve
+
+ been focusing on things like, how do we ensure that people are also thinking about this consistently.
+
+ Do we need, like, an ABA file format replacement, for example. And then also as we think beyond, kind
+
+ of the payment service provider or the financial institution that’s providing those services to
+
+ the end user, who are some of the key segments that we want to ensure that we’ve engaged in a
+
+ conversation with, noting that obviously they have a relationship with whoever their provider is. And
+
+ so government has been a really key area of focus for us to really understand, in particular, some of
+
+ the needs and requirements of government agencies who are basically involved in those critical
+
+ payments. That it’s really important to make sure that we get right. But also others like
+
+ corporates, Fintex, others as well to make sure that they’re having a voice into the work that
+
+ we’re doing as well.
+Jackie Kallman
+Did you want to comment on that as well, Luke?
+Luke Wilson
+Yeah, I agree. It’s totally different to cheques, as you say, Jackie. I think whenever - and
+
+ everyone in this room has probably been through this where they’ve adopted a new piece of
+
+ technology or a new solution. You make a decision on how far you integrate that through to the users
+
+ of the system. Sometimes you don’t want to go through that change management and you protect the
+
+ users of the system from that change. Or there might be enough benefit to justify integrating that
+
+ all the way through and the use of ISO20022 is a great example of that kind of a benefit that end
+
+ users could take advantage of. So whilst I think there is an opportunity to do a level of protection,
+
+ it should also be a level of value realisation in this change by end users as well, based on the
+
+ characteristics of more modern alternatives. Yeah.
+Jackie Kallman
+Thanks. And I think it will also depend on the end user.
+Luke Wilson
+Yeah, that’s right. And what they need.
+Jackie Kallman
+So AusPayNet’s over seen BECS for over 30 years now.
+Luke Wilson
+Not me personally just - yeah.
+Jackie Kallman
+But as an organisation, there’s a strong organisational memory there. So you’ve got a
+
+ really deep understanding of its role as that workhorse of the Australian payment system. And
+
+ you’ve also been consulting very closely with members over a number of years. So what’s
+
+ your view of the progress made by the industry towards the transition, and what insights can you
+
+ share about your ongoing engagement with members?
+Luke Wilson
+So when we did announce the date and the conditional date was - those conditions were around BECS
+
+ member readiness, the viability of alternatives and end user adoption, all themes that you’ve
+
+ already heard from the other members of the panel, we’d been working with our members and
+
+ checking in on our members on their own progress as individual organisations but also progress
+
+ against those conditions. What members continue to tell us is they bought into the why, so what Ellis
+
+ described before about the reason that we’re doing this. Members have still bought into that and
+
+ are very much supportive of that. We haven’t seen any change in membership numbers, transaction
+
+ volume or value that’s remained flat, but that should also tell you that the natural
+
+ year-on-year growth is going somewhere else as well. And we wouldn’t expect to see a significant
+
+ change, given that there is more work to be done on those - on the viability of alternatives and
+
+ individual institutions becoming ready. So they still believe in the why and they believe in the
+
+ strategic direction and the long-term value of rationalisation of payment systems, but they’re
+
+ very, very hungry for more information on the how and when. So there is a massive opportunity to do
+
+ more in that space. So if our number one objective by setting a conditional target end date was to
+
+ generate accelerated conversations then we’d get a massive tick, but we know that’s not
+
+ enough. We now need to turn those conversations into the type of conversations that can answer the
+
+ questions that have been posed by the other members of the panel to give people meaningful
+
+ information so that they can plan for their individual institution and their customer’s needs to
+
+ work towards that target end date.
+Katrina Stuart
+And I think it’s also important to recognise that different organisations will move at different
+
+ paces as well, according to their - you know, their customer base and their business objectives and
+
+ other kind of considerations as well. So we know that some organisations already, sort of, in market
+
+ are taking BECS payments today and a bulk file, moving them across to the NPP. There’s basically
+
+ a lot of activity out there around PayTo and the adoption there and there will be others that will
+
+ take longer, in terms of what that journey looks like for them and what that sequencing of activity
+
+ looks like as well.
+Jackie Kallman
+So, I mean, I think this has been really great to get the perspectives from really the four key
+
+ bodies around the table here, and hopefully it’s given everyone a better understanding of where
+
+ things are today and roughly where - what we need to do to figure out where we’re going next,
+
+ but I guess I’ll ask this next question of each of you really, what you think the next key steps
+
+ are for the industry and we’ll start with Sally and go down. But, yeah, what do we need to do
+
+ next as an industry?
+Sally Etherington
+Thanks, Jackie. I have to agree with what the Assistant Governor said earlier today. I think
+
+ there’s really the next layer down of planning needs to happen. So it’s working out the
+
+ vision of what the end goal is and the transition of how we get there. I noted down some
+
+ preconditions of kind of switching off BECS and how we get there and they’re almost exactly the
+
+ same as what Ellis outlined. So making sure we’ve got appropriate account access, making sure
+
+ we’ve got a bulk solution, contingency and resilience plans, making sure the costs economics
+
+ works and then the only additional thing there I had was, do we have appropriate regulation. So I
+
+ think these are kind of questions that we need to grapple with in developing the plan going forward
+
+ and a more detailed transition plan.
+Jackie Kallman
+Thanks. Ellis.
+Ellis Connolly
+I’ll just second that last point that you made, Sally. We did appropriate regulation, I think
+
+ that’s an excellent one so we’ll add that to our list.
+Sally Etherington
+You forgot it.
+Ellis Connolly
+Yeah, that’s right. It’s a good point. Yeah. So in terms of what our next steps are to help
+
+ contribute to this process, we’re completed our risk assessment. We’ll take it to the March
+
+ payment system Board meeting and then we intend to be reporting it back to industry. So we’ve
+
+ been very collaborative with this process. So you can expect to be hearing more between now and March
+
+ and after the March Board meeting. In the meantime I’d strongly encourage you to all read
+
+ Brad’s speech over and over again. Excellent list of things that the industry should be working
+
+ on to help to achieve a successful BECS migration.
+Jackie Kallman
+And then we go to the people who are bringing the industry together to work on such things. So,
+
+ Katrina, what do you see as the next steps for AP Plus, NPP and the industry?
+Katrina Stuart
+So our priority areas of focus are continuing that work around the capability development. So the
+
+ detailed design work around bulk for next year. We’ve also got some work planned to look at
+
+ contingency. We know that that’s going to be really important as we think about the transition
+
+ over to the NPP. But also equally important, how do we think about recoverability, in the event when
+
+ there is an incident as well and how as an industry we get ready for that and we start to
+
+ operationalise that within our current, sort of, frameworks and plans. So that’s a really kind
+
+ of key area of focus for us in 2025, is to really finalise some of that work and then that also
+
+ provides some of that certainty to banks and payment service providers and others as well as they
+
+ think about their plans and how they’re going to continue their migration journey.
+Jackie Kallman
+And, Luke, what do you see as the next steps for AusPayNet for the industry, and also I’m going
+
+ to throw in there because we just came off of this conversation about cheques and coordination, is
+
+ there a potential to take a coordinated approach here?
+Luke Wilson
+As you’d expect, Jackie, as a self-regulatory body we’re constantly juggling the issues of
+
+ coordination and competition, and rightly so. But, yes. The short answer we do think there’s an
+
+ opportunity. I mean, if you listened to the why and our participants in BECS are telling us they
+
+ believe in the why but they need more information in the how and what we’re struggling to do is
+
+ understanding what that scope would look like, what those key next steps are, what that roadmap would
+
+ look like. Then you need to dig into that next level of detail in order to get that information. So
+
+ we think it’s about weaving the threads together. You know, the threads of the work that AP Plus
+
+ are doing, the threads of the work the RBA are doing, the threads of the work the Treasury are doing
+
+ and AusPayNet and doing is also our members are doing and, importantly, our member’s customers,
+
+ the end users. So we kind of need to weave that together. How do we do that? Well, we have been
+
+ thinking about that and the word coordination has come up multiple times this morning and we’ve
+
+ been in discussions with key stakeholders, in particular, the likes of AP Plus about how we can
+
+ better coordinate as an industry to try and provide everyone that more information on how we get to
+
+ that end outcome. Now, that would obviously come with some serious considerations around competition.
+
+ It would require the appropriate regulatory approvals. But we think that could look like some form of
+
+ a roundtable discussion where we can bring all of this really good and positive work together to help
+
+ form that vision for account-to-account payments in the future. So we’re not there yet, in terms
+
+ of knowing exactly what it would look like, but we know it would have to have really good and strong
+
+ governance. We know that we’d have to have the right stakeholders round the table, the right
+
+ inputs for those stakeholders to make sure we give the right consideration to all the people that
+
+ would be impacted by this and it would require regulatory approval and we’re in the process of
+
+ trying to shape that up and work that out. And if we can, we’d love to host those type of
+
+ discussions in 2025 at the right time.
+Jackie Kallman
+Yeah. Great. So I think we really covered - you know, we sort of covered the why, the challenges, the
+
+ fact that having a date was really important to mobilise, so thank you AusPayNet and the industry for
+
+ that, but then that is just the date. So really we need to get to the how and the plan and the what
+
+ does it look like in detail and you’ve talked about the ways we’ll get there so that’s
+
+ excellent. Thank you. We can now really move to questions. And so I’m going to kick off with
+
+ one, which there are many bulk ACH systems in the world, there are also many real-time systems. So
+
+ I’m going to ask you this, Luke, given AusPayNet’s role in global engagement as well. Have
+
+ you seen this sort of thing in other countries and other payment systems and what can we learn from
+
+ other payment system migrations or considerations of not the same, and I think that’s important.
+Luke Wilson
+Yeah.
+Jackie Kallman
+But maybe similar or similar thinking, what are we learning and seeing overseas?
+Luke Wilson
+I think in markets similar to ours, we’re quite advanced in our thinking. But when we talk to
+
+ those markets they go, yeah, that is an issue that we’re going to have to stare into and face
+
+ into at some point. I think in other markets that we’re possibly less advanced up until more
+
+ recent times, we’re seeing a leap frog effect. Where potentially they haven’t embraced
+
+ digital payments as much as we have in Australia and now they’re moving to broad, quick adoption
+
+ of faster payment system-type solutions. So there’s two things that are happening. It’s
+
+ always easy to build a brand new house on a blank block of land but it’s a lot harder to
+
+ renovate, and I think we’re in that challenge of renovating where we still need to find places
+
+ to live. We need to deal with the existing foundations of the home, the plumbing, the electricity and
+
+ all the rest of it. That makes change harder. So there’s markets that are dealing with that type
+
+ of change, like us or at least starting to think about it, there’s other markets that are
+
+ building from afresh and leap frogging from a technology perspective.
+Jackie Kallman
+Thanks. Anyone else have observations? I’m sure you all look outside the country.
+Katrina Stuart
+I mean, I think - the NPP, I think when it went live, is kind of seen as world leading and I know
+
+ with the development of PayTo, many markets have been looking at us in terms of that service and what
+
+ that capability can do and I think this is just the next step in that journey, in terms of as
+
+ Australia moves forward and we think about what does our modern payment system look like and so a
+
+ number of markets are looking to us. They’re all dealing with similar kind of issues but maybe a
+
+ little bit further behind.
+Jackie Kallman
+So I’ve got a question here for Ellis probably, it doesn’t have a name but how do we
+
+ encourage banks that are not yet connected to the NPP to connect and would the RBA mandate this?
+Ellis Connolly
+We’ve been directly engaging with the ADIs that are connected with BECS. They are not connected
+
+ to the NPP. We’ve written to them all. We’ve had discussions with them to understand their
+
+ plans and their timelines. Some of them do have plans that are reasonably well developed to move
+
+ across to the NPP and some are not as well developed. It’s a tricky space because for very small
+
+ institutions it can be quite a significant tech uplift to move to the NPP. So there’s a role for
+
+ regulators here but there’s also a role for infrastructure and technology in thinking about
+
+ what’s the right sizing of the ask for very small institutions to connect to the NPP. We also
+
+ are in discussions with APRA around these issues as well.
+Jackie Kallman
+So on that, this is maybe one for Katrina, will addressing a system of BSB and account number, do you
+
+ think that will continue into the future?
+Katrina Stuart
+I think probably at least for the foreseeable future. I think BSB and account numbers are fairly well
+
+ embedded in many processes related to payments and that was part of the decision, why we decided to
+
+ look to develop confirmation of PayU service because even though we had PayID that provided the
+
+ ability to validate who you’re paying before you make a payment, we were still only seeing a
+
+ certain percentage of payments being made using a PayID. So we acknowledge that there are a lot of
+
+ people who still use BSB and account numbers. We think that will still continue into the future. I
+
+ think there’s an opportunity with the transition for us to think about, can we clean up maybe
+
+ how some of those are used in certain processes as well and so where are there opportunities to make
+
+ some of that better as well, but I don’t see them disappearing anytime soon.
+Jackie Kallman
+So real-time payments - sorry. Real-time payment mandates in Europe are seeing fraud sky rocket. Is
+
+ that a concern if we force volume on to NPP, given there is more fraud now on NPP than BECS? I might
+
+ throw this to - I mean, I’m sure anyone could answer this but I might throw this to Sally. Is
+
+ that a worry from a government perspective and as we look at fraud and scams, that a move to NPP
+
+ increases that in any way?
+Sally Etherington
+I think it’s definitely a concern. There is - we heard from the panel earlier, scams and fraud
+
+ is a big priority of regulators and government at the moment. I don’t think - at the moment we
+
+ have not got any regulation mandating NPP adoption and it is really a commercial choice that we are
+
+ trusting industry to make in the best interests of their customers.
+Jackie Kallman
+Here’s one, and Ellis I think you spoke to some of the benefits of what we see in the NPP and
+
+ real-time payments. Why not let account-to-account evolve organically and let users use what suits
+
+ them best?
+Ellis Connolly
+So if we took that approach to everything then you end up maintaining a lot of infrastructure. And if
+
+ banks have to maintain a lot of infrastructure then there’s a lot of cost. So there are
+
+ potentially some efficiencies here, say on the - with BECS where it does have these limitations
+
+ around speed and addressing and data, that the choices are invest in it or decommission it. And that
+
+ is a tough choice that the industry has to face. Essentially those are the alternatives that are on
+
+ the table here. Industry’s proposal is to decommission it and move to alternative systems. Fewer
+
+ systems should then involve less cost for banks. I think that’s a relevant argument.
+Jackie Kallman
+And then subsequently for end users.
+Ellis Connolly
+Absolutely.
+Jackie Kallman
+So, Katrina, what about bulk direct debit PayTo, what are the plans? Surely you would set a milestone
+
+ date for bulk direct debit ahead of any bulk credit?
+Katrina Stuart
+So that’s a topic that will go into further discussion in detailed design. So there has been
+
+ quite a lot of conversation around that and so we need to do some further work to really, kind of,
+
+ analyse that and look at what we think is going to be the best approach. So bulk at the moment is
+
+ focused predominantly on credit but we still know that we need to address debit, in terms of is that
+
+ included or is it not included. Also recognising that we do have PayTo and so how do we bring that
+
+ all together.
+Jackie Kallman
+So this one’s from [audience member], when talking account-to-account payments how do
+
+ regulators make sure the requirements of accounts themselves, so the pools of fund at each end, are
+
+ properly considered too? It’s a sniper.
+Ellis Connolly
+Who’s the lucky winner?
+Jackie Kallman
+Well, I don’t know. It’s about regulators.
+Luke Wilson
+It might be RBA banking.
+Jackie Kallman
+It’s about regulators so I think there’s a regulator.
+Luke Wilson
+It’s basically a question of how do you ensure the funds are there.
+Jackie Kallman
+I think the question is there’s a payment but then because it’s account-to-account and
+
+ it’s going all the way through, how are the accounts and the liquidity, the interest, the
+
+ requirements around accounts set up to support account-to-account payments and the changes in them.
+Luke Wilson
+Excellent question for a banker to answer.
+Katrina Stuart
+More for APRA.
+Luke Wilson
+Such as [audience member].
+Jackie Kallman
+Maybe I’ll let you take that offline. Thank you for putting your name on that.
+Katrina Stuart
+Maybe it’s a conversation for the break.
+Luke Wilson
+Yeah.
+Jackie Kallman
+And while we’re at it just another one from [audience member], are there any myths about BECS you think
+
+ it’s important to bust to help users and banks transition away? That is a great question and I
+
+ think a really good one to wrap up with. So should we start with Luke there?
+Luke Wilson
+I can’t name a specific myth but I do think that we gloss over some challenges associated with
+
+ BECS because we’re so used to it. And in this conversation we need to realise to Ellis’
+
+ point that it’s been around for a long time. We’ve probably had a long time to smooth over
+
+ the cracks but it’s certainly not a perfect payment system.
+Jackie Kallman
+The RBA is probably the other one who knows BECS pretty well.
+Ellis Connolly
+Yeah. I mean, I would emphasise the cost point because people just look at the headline cost of a
+
+ BECS payment. It’s really, really low and they don’t necessarily - well, no-one’s
+
+ really well quantified the hidden costs, the manual processes, particularly when it’s not clear
+
+ who the payment came from, and also the additional mistaken payments and the fraud. Here it takes a
+
+ lot of time to resolve those issues but really hard to quantify that into a number to then compare to
+
+ the cost of vast payments where you’ve got - we’ve got rich data and you don’t have
+
+ those problems.
+Sally Etherington
+And we also don’t think about the costs that you would need to - what you would need to invest
+
+ in BECS to keep it running for a longer time period as well.
+Jackie Kallman
+I think that’s a really great point, that one of the myths is that we can just keep BECS running
+
+ as it is. And I think you called that out, Ellis. Sally, you have too. That’s not an option. So
+
+ if you’re going to have to uplift, are you going to uplift the older system or one that’s
+
+ purpose built.
+Katrina Stuart
+And I think to that point, Jackie, it’s really making sure that people do understand the
+
+ benefits of the NPP and it’s nots just about speed. It’s actually so much broader than
+
+ that. It is about the processing efficiency as well. We’ve heard that organisations see
+
+ reduction in their call centre volumes. They’ve seen a reduction in the cost of capital.
+
+ They’re also seeing the ability to deliver and enhance customer experiences. It’s around
+
+ the payment certainty. It’s some of those benefits and we need to really bring some of that to
+
+ life, I think, to really help drive the case for change.
+Jackie Kallman
+The indirect benefits of payments really. All right. We’ll wrap up there but thanks, everyone.
+
+ Thanks to the panel. Takes all of you.

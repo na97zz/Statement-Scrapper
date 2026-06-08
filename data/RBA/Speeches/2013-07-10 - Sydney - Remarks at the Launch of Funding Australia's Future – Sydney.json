@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks at the Launch of Funding Australia's Future – Sydney",
+  "date_original": "10 July 2013",
+  "date_au": "10/07/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-100713.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-07-10 - Sydney - Remarks at the Launch of Funding Australia's Future – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-07-10 - Sydney - Remarks at the Launch of Funding Australia's Future – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5c8e7661f4ea184051ffaf2b02639840982bec77167f79b8cbf728595681a668"
+}

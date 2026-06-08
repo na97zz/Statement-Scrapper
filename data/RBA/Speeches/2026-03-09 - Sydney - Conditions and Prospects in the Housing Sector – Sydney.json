@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Conditions\r\n and Prospects in the Housing\r\n Sector – Sydney",
+  "date_original": "2026-03-09",
+  "date_au": "09/03/2026",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-so-260309.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-03-09 - Sydney - Conditions and Prospects in the Housing Sector – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-03-09 - Sydney - Conditions and Prospects in the Housing Sector – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4f2fc0ca9fe1f980d38bdf485c1d24eab18f5ca0853bced970bb280cd8eb4304"
+}

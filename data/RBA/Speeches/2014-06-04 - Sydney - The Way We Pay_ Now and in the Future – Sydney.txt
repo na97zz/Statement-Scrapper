@@ -1,0 +1,509 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: The Way We Pay: Now and in the Future – Sydney
+DATE: 04/06/2014
+SPEAKER: Sydney
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2014/sp-so-040614.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+The Way We Pay: Now and in the Future
+Tony Richards
+Head of Payments Policy Department
+The Australian Savings & Deposits Conference 2014, Sydney
+Sydney
+–
+4 June 2014
+Audio
+12.3
+MB
+Q&A Transcript
+I will be speaking today on two topics. First, I will provide a summary of some new
+
+ payments research from the Reserve Bank. Second, I will give a brief update
+
+ of progress on the New Payments Platform, a major industry initiative to put
+
+ in place some new payments infrastructure that will spur innovation in the
+
+ Australian payments industry.
+Let me start with the new research into the payments behaviour of Australian households.
+
+ In 2007 and 2010 the Bank conducted detailed diary surveys of consumers'
+
+ use of payments. Today the Bank is releasing the results from its third such
+
+ study, which was conducted in late 2013. The Research Discussion Paper written
+
+ by my colleagues Crystal Ossolinski, Tai Lam and David Emery will be available
+
+ later this morning on the Bank's website. I am going to summarise some
+
+ of their findings for you.
+The Bank contracted a research firm to conduct a survey with three elements: a pre-diary
+
+ questionnaire about the demographic characteristics of respondents; a seven-day
+
+ payments diary; and a questionnaire about respondents' payments preferences
+
+ and attitudes.
+The response rate was good, with a final sample of over 1,150 respondents, selected
+
+ to be representative of the Australian population in a wide range of aspects.
+
+ For the first time, the survey was completed by most respondents online rather
+
+ than on paper.
+The diary provides details of all payments and transfers made by respondents over
+
+ a seven-day period. This includes details of the amount, the payment method
+
+ and channel used, and the type of merchant. It is a very rich database, with
+
+ detailed information on over 15,500 payments that will allow us to study a
+
+ range of research questions. And when we attempt to aggregate the survey results,
+
+ the overall picture looks very like the macro-level retail payments statistics
+
+ data that the Bank publishes, which lends credence to the survey results.
+Not surprisingly, the survey shows that cash is used most often for small transactions
+
+ (Graph 1). For example, it is used in nearly 80 per cent of transactions
+
+ of $10 or less. This is not surprising as cash has many advantages in terms
+
+ of convenience for both consumers and merchants. Then as transaction size increases,
+
+ the use of debit cards initially increases most, then credit cards, then electronic
+
+ payments such as BPAY or internet banking, and then cheques. I imagine that
+
+ most people looking at the results of the study will relate to this ordering.
+Graph 1
+The 2013 results indicate that many of the trends that we observed in the 2010 study
+
+ have continued. Looking at the share of the number of all transactions, there
+
+ has been a continuing decline in the use of what we have traditionally called
+
+ the ‘paper-based’ methods. While cash remained the most frequently
+
+ used payment instrument, being used in 47 per cent of all transactions, its
+
+ relative importance has fallen significantly since 2010 (Table 1). Cheque
+
+ use also continued to fall. These trends have been mirrored by an increase
+
+ in various forms of electronic payments, with a significant increase in the
+
+ use of debit, credit and charge cards, and also an increase – from a
+
+ small base – in the use of PayPal.
+Table 1: Use of Payment Methods over Time
+Per cent of number of payments
+2007
+2010
+2013
+Cash
+69
+62
+47
+Debit, credit and charge cards
+26
+31
+43
+BPay
+2
+3
+3
+Internet or phone banking
+n/a
+2
+2
+PayPal
+n/a
+1
+3
+Cheque
+1
+1
+0
+(a)
+Other
+1
+1
+2
+Note: (a) rounds to zero
+Sources: Colmar Brunton; Roy Morgan Research
+Looking across age groups, cash is used more by older individuals than by younger
+
+ ones (Graph 2). But the decline in its share of all transactions is evident
+
+ across respondents in all age-groups. The decline is also fairly broad-based
+
+ across different types of merchants. It can be partly explained by the fact
+
+ that the mix of transactions in the economy is gradually shifting from in-person
+
+ to online, where cash is essentially not used. However, it is mostly a function
+
+ of the decline in cash use in the traditional point-of-sale environment and
+
+ the development of newer electronic technologies that can match or surpass
+
+ the convenience and speed of cash in some types of transactions and transfers.
+Graph 2
+While the survey confirms that the rate at which cash changes hands is falling, there
+
+ are few signs that holdings of cash are doing so. We know from the aggregate
+
+ data that banknotes on issue have for a long period grown broadly in line with
+
+ the nominal growth in the overall economy. And the consumer use survey suggests
+
+ the amount of cash in respondents' wallets grew between 2010 and 2013.
+
+ Together this evidence suggests that it continues to have a significant role
+
+ both as a store of value and for precautionary use when other means of payments
+
+ are not available.
+The flip-side to the declining use of cash has obviously been the rise in the use
+
+ of payment cards for transactions of all sizes (Graph 3). This has been
+
+ associated with continuing growth in the number of card terminals in Australia
+
+ (up by around 35 per cent over the six years to 2013), and advances in card
+
+ technologies and authentication methods. The ongoing shift to the use of PINs
+
+ in card transactions and the sharp pick-up in the use of contactless payments
+
+ have both resulted in a reduction in the typical time needed to complete a
+
+ card transaction.
+Graph 3
+In the latest survey, two-thirds of respondents reported that they had a card with
+
+ contactless functionality and almost half of these reported a contactless transaction
+
+ in the week of the study. Contactless transactions accounted for 22 per cent
+
+ of all face-to-face card transactions. This share was significantly higher
+
+ for payments under $20 (Graph 4).
+Graph 4
+The use of contactless was higher for respondents that reported that speed of transaction
+
+ was an important factor in choosing which payment to use. The survey also shows
+
+ that contactless was used more frequently at retailers such as supermarkets,
+
+ petrol stations and take-away food stores where the speed of the payment is
+
+ likely to be important for the cardholder and/or the retailer.
+The survey provides evidence that contactless card payments have been displacing
+
+ both cash and signature or PIN-authorised card transactions. However, on balance,
+
+ based on a post-survey question, it seems that the greater effect has been
+
+ for contactless to displace traditional card transactions.
+The survey shows that there are significant differences in the use of debit and credit
+
+ cards across demographic groups. Younger households are much more likely to
+
+ use debit cards than credit cards, presumably reflecting reduced access to
+
+ credit cards and a preference to ‘use their own money’ (Graph 5).
+
+ Lower income households also use debit more frequently than credit, most likely
+
+ for similar reasons. However, those in the highest income quartile use their
+
+ credit card significantly more than their debit card. This may well reflect
+
+ the greater desire to get reward points associated with credit card use. The
+
+ survey shows that an individual in the highest income quartile is six times
+
+ more likely to have a premium credit card than a household in the lowest income
+
+ quartile.
+Graph 5
+Not surprisingly, the survey shows a significant decline in the use of cheques. Around
+
+ 80 percent of respondents reported that they had not written a cheque over
+
+ the previous year. Cheque use is especially low in younger age groups (Graph 6).
+
+ However, it is also declining significantly in older age groups. We can expect
+
+ the decline in the use of cheques to continue as other payment methods became
+
+ available to meet either the needs of households that currently still prefer
+
+ to use cheques or the needs of businesses that find there are few alternatives
+
+ for some specific uses. This is something that the industry is working on,
+
+ and the delivery of the New Payments Platform (which I shall speak about shortly)
+
+ will provide an opportunity to continue this process.
+Graph 6
+The survey also provides evidence on the growth of some relatively new means of making
+
+ payments or transfers.
+For example, it shows that PayPal was used for around 3 percent of transactions in
+
+ 2013, up from around 1 per cent in 2010. This mostly reflects an increase
+
+ in the share of transactions occurring online and an increase in PayPal's
+
+ share of that market.
+Smartphone payments are an area of strong innovation in the payments system. The
+
+ survey shows that there is a shift toward making more person-to-person transfers
+
+ using smartphones, with around 9 per cent of transfers to family and friends
+
+ made via smartphone. However, the use of smartphones for payments was still
+
+ low, at less than 1 per cent of consumer payments to businesses. It appears
+
+ that, for the time being, smartphones are mostly a convenient alternative
+
+ method of internet access, rather than a means of payment in their own right.
+
+ This clearly has the potential to change as new near-field communications
+
+ (NFC) or Bluetooth technologies for point-of-sale smartphone payments emerge.
+Finally, the survey provides some evidence on the effects of some policy reforms
+
+ implemented by the Bank over the past decade.
+One such reform was to the ATM system in 2009. The intent was to provide greater
+
+ transparency in ATM fees and to allow ATM owners to better recover their costs.
+
+ This related to fees paid on transactions at ATMs not owned by the individual's
+
+ financial institution, so called ‘foreign’ transactions. For cardholders,
+
+ the main change was not in terms of the level of fees paid on a transaction,
+
+ but in the transparency of those fees. In particular, if there is a fee, the
+
+ individual must now be notified prior to authorising the transaction rather
+
+ than in their subsequent monthly statement. The reforms have had a significant
+
+ impact, with the 2013 survey showing that only 15 per cent of ATM withdrawals
+
+ incurred a fee, down from 23 per cent in 2010. A small change in the transparency
+
+ of a fee has had a significant effect on consumer behaviour.
+The survey also provides some evidence on the Bank's reforms that required card
+
+ schemes to remove their no-surcharging rules in 2003. This was followed in
+
+ 2013 by a change to allow card schemes to limit surcharges at the reasonable
+
+ cost of card acceptance. This change was intended to find a reasonable balance
+
+ between the schemes' desire to prevent ‘excessive’ surcharging
+
+ and the merchants' right to recover reasonable costs.
+We know from other surveys that a significant fraction of merchants impose a surcharge
+
+ on card transactions from one or more card scheme. Where merchants do levy
+
+ a surcharge, they are more likely to surcharge more expensive payment methods
+
+ and the typical surcharge is higher for more expensive payment methods. However,
+
+ the current survey showed that only 4 per cent of card transactions attracted
+
+ a surcharge, indicating that consumers have proven to be pretty good at switching
+
+ away from surcharged means of payment. In addition, the survey provides evidence
+
+ that consumers who are willing to pay surcharges are more likely to place a
+
+ value on rewards programs than those who do not pay surcharges.
+The Bank has signalled in its submission to the Financial System Inquiry that the
+
+ Payments System Board will be continuing to study the issue of surcharging
+
+ and especially the incidence of apparent excessive surcharging. However, it
+
+ is important to remember that some payment methods – for example credit
+
+ and charge cards that provide the cardholder with significant rewards –
+
+ can be very expensive for merchants. Accordingly, it is important – subject
+
+ to appropriate disclosure and also that there is at least one payment method
+
+ that is not surcharged – that merchants should be allowed to surcharge
+
+ for more expensive methods. This is, of course, not just an issue for some
+
+ high-cost cards: we may find, for example, that it becomes more relevant for
+
+ cash and especially for cheques as their use falls and costs increase.
+Related to this, I should note that the consumer use survey is not the only work
+
+ that the Bank has been doing to improve our collective understanding of the
+
+ payments landscape.
+In particular, the Bank is currently undertaking a large-scale review of the costs
+
+ borne by financial institutions and merchants in accepting different payment
+
+ instruments. A comprehensive exercise like this one was last undertaken in
+
+ 2007. This year's exercise involves a wide range of entities – including
+
+ a number represented today – and is examining the costs of a number of
+
+ payment methods at a relatively fine level of detail. It will also involve
+
+ a survey of small- and medium-sized merchants so that we understand how the
+
+ costs borne by smaller merchants differ from those borne by larger ones. We
+
+ have benefited from a number of rounds of consultation with financial institutions,
+
+ merchants and associations, and will be continuing to work closely with these
+
+ entities until we publish the report towards the end of the year.
+Moving on, I would like to give you an update on progress with the industry's
+
+ New Payments Platform (NPP) project.
+It is almost exactly two years since the Bank released the conclusions of its Strategic
+
+ Review of Innovation in the Payments System.
+In the Review, the Payments System Board (PSB) identified a number of gaps in the
+
+ services currently provided by the payments system.
+Among these were:
+the ability for individuals to make electronic payments with real-time funds availability
+
+ to the recipient
+the ability to make and receive such payments outside of normal banking hours
+the ability to address payments in a relatively simple way, such as to an individual's
+
+ mobile phone number or email address rather than to their BSB and account
+
+ number
+and, most relevant for businesses, the ability to send anything more than a
+
+ minimal amount of information with an electronic payment.
+Accordingly, the PSB set a number of strategic objectives to deal with these gaps.
+
+ In response, the payments industry has come together to work on a project that
+
+ aims to meet these objectives. It is working on a project known as the NPP,
+
+ which will establish a completely new set of infrastructure.
+As recommended by the PSB, the industry's NPP solution will be based on a hub-based
+
+ infrastructure. That is, financial institutions will connect to a central set
+
+ of shared infrastructure. This will be more efficient and access-friendly than
+
+ the bilateral links that characterise much of our existing payments infrastructure.
+
+ For example, a new entrant will only have to make a single connection, rather
+
+ than establishing bilateral links with all the existing players. It will also
+
+ be more innovation-friendly, in that there will be a central body, an industry-run
+
+ Utility Company that will be able to coordinate upgrades to the infrastructure.
+Together, the payments hub or ‘switch’, the communications network and
+
+ the central addressing service that is being built will be known as the ‘Basic
+
+ Infrastructure’. This infrastructure will link financial institutions
+
+ such as banks, credit unions and building societies, as well as other approved
+
+ entities.
+It will allow the exchange of fast, flexible, data-rich payments messaging. It will
+
+ be available to support new types of payments services that can be tailored
+
+ to particular needs of customers, including ones that we may not yet have thought
+
+ of. It will be linked to a Settlements Service built by the Reserve Bank which
+
+ will provide real-time interbank settlement of each NPP payment.
+All of this new infrastructure will be available on a close to 24/7 basis.
+While many types of services will be enabled by the NPP, the first will be developed
+
+ cooperatively by the industry. It is currently being called the ‘Initial
+
+ Convenience Service’ and is expected to focus on real-time person-to-person
+
+ payments using mobile channels. While some banks currently provide services
+
+ like this, they effectively only provide real-time payments if the two parties
+
+ are customers of the same bank.
+The project is being overseen by a Steering Committee that includes representatives
+
+ from a wide range of institutions, both large and small, as well as the Reserve
+
+ Bank and the Australian Payments Clearing Association (APCA). The Committee
+
+ is working to implement the NPP by the end of 2016, consistent with the targets
+
+ set in the Strategic Review.
+The current focus of the Committee is on the selection of vendors to provide the
+
+ Basic Infrastructure and Initial Convenience Service. It is expected that the
+
+ successful vendor or vendors for the Basic Infrastructure will be announced
+
+ in August. There is currently also a lot of work underway to establish the
+
+ Utility Company that will own and govern the Basic Infrastructure.
+The PSB has been keenly watching the progress of the NPP.
+The Board expects that the NPP will create a good platform for future innovation.
+
+ It has been particularly encouraged by the way that the industry has come together
+
+ to work on the NPP. It is conscious of the substantial commitment of time and
+
+ resources that the industry is making in this project in response to the strategic
+
+ objectives identified by the Bank. This investment will deliver significant
+
+ benefits for the Australian economy. It should also help ensure that the institutions
+
+ that are currently providing payments services to Australians remain relevant
+
+ in the future too.
+The centralised infrastructure and real-time nature of the system, combined with
+
+ the flexibility of payment messaging, ability to carry additional remittance
+
+ information and the easy addressing capability, will mean that payments can
+
+ be better integrated with many other aspects of our lives. Businesses should
+
+ be able to achieve substantial efficiency gains and there will be significant
+
+ improvements to the timeliness, accessibility and usability of the payments
+
+ system for consumers.
+If implemented effectively, the NPP will place the Australian payments infrastructure
+
+ at the global frontier.
+All in all, it is an exciting time to be in the Australian payments industry.

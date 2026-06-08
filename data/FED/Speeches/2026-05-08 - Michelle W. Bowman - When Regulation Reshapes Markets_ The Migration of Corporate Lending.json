@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "When Regulation Reshapes Markets: The Migration of Corporate Lending",
+  "date_original": "2026-05-08",
+  "date_au": "08/05/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260508a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-08 - Michelle W. Bowman - When Regulation Reshapes Markets_ The Migration of Corporate Lending.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-08 - Michelle W. Bowman - When Regulation Reshapes Markets_ The Migration of Corporate Lending.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8ebde984006748d22ac3b9d19116b45fbc3c47bb5f8b6377428b08115c67a27f"
+}

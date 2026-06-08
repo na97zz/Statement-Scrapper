@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Why Research Matters",
+  "date_original": "2022-11-29",
+  "date_au": "29/11/2022",
+  "datetime_original": "",
+  "speaker": "Luci Ellis",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-ag-2022-11-29.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-11-29 - Luci Ellis - Why Research Matters.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-11-29 - Luci Ellis - Why Research Matters.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "759300e9bdcf954f88611dd6af2e68627fec6eaca278e1c6b473853b9827bf9d"
+}

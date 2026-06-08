@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "An Update on Household Finances – Sydney",
+  "date_original": "30 October 2008",
+  "date_au": "30/10/2008",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-dg-301008.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-10-30 - Sydney - An Update on Household Finances – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-10-30 - Sydney - An Update on Household Finances – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7879645fdc3fa6021cd9fe47cdd5082293f404717dab4655bea43b1ff87077bc"
+}

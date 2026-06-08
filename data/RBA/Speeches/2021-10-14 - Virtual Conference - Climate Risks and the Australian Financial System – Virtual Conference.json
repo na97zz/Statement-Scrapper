@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Climate Risks and the Australian Financial System – Virtual Conference",
+  "date_original": "2021-10-14",
+  "date_au": "14/10/2021",
+  "datetime_original": "",
+  "speaker": "Virtual Conference",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-dg-2021-10-14.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-10-14 - Virtual Conference - Climate Risks and the Australian Financial System – Virtual Conference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-10-14 - Virtual Conference - Climate Risks and the Australian Financial System – Virtual Conference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e7ed098256a824b20ac58b5bae61c7597c47a456651ad9af073141a7804c0deb"
+}

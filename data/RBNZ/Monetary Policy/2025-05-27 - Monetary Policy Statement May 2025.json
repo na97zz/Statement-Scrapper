@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement May 2025",
+  "date_original": "2025-05-27",
+  "date_au": "27/05/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2025/may-0525/mps_report_may2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2025-05-27 - Monetary Policy Statement May 2025.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2025-05-27 - Monetary Policy Statement May 2025.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:38",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2025/05bds/monetary-policy-statement-may-2025",
+  "content_sha256": "4eb4d3021087da7e48afb56a7913dc7308c62ea2f016a667f02a4cadb5ccb287"
+}

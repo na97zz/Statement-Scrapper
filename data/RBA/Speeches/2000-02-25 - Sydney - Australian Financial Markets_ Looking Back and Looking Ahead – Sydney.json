@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australian Financial Markets: Looking Back and Looking Ahead – Sydney",
+  "date_original": "25 February 2000",
+  "date_au": "25/02/2000",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-ag-250200.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-02-25 - Sydney - Australian Financial Markets_ Looking Back and Looking Ahead – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-02-25 - Sydney - Australian Financial Markets_ Looking Back and Looking Ahead – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ea722479a4e3e436c79846f0fa76f700ba92bd6d540ee7d21b1ce6f92b758dc7"
+}

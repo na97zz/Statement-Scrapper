@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Outlook for the Australian Economy – Sydney",
+  "date_original": "2023-11-13",
+  "date_au": "13/11/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-ag-2023-11-13.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-11-13 - Sydney - The Outlook for the Australian Economy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-11-13 - Sydney - The Outlook for the Australian Economy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ef1afa93365a19e78e81766c7a2935d236c613e68b8c1f6c27a1731bf946570c"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Effects of the Global Financial Crisis on Australian Financial Markets – Sydney",
+  "date_original": "31 March 2009",
+  "date_au": "31/03/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-310309.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-03-31 - Sydney - Some Effects of the Global Financial Crisis on Australian Financial Markets – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-03-31 - Sydney - Some Effects of the Global Financial Crisis on Australian Financial Markets – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "96485ef1a35079b3e1e48e924d814d7669b0bfc7095a1d89efc85133d719a145"
+}

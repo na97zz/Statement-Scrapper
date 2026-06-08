@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic and Financial Conditions December 2004 – Sydney",
+  "date_original": "14 December 2004",
+  "date_au": "14/12/2004",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-dg-141204.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2004-12-14 - Sydney - Economic and Financial Conditions December 2004 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2004-12-14 - Sydney - Economic and Financial Conditions December 2004 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cd0f1a84abf513b19e4116e4efe25219995766db9a646f0321f6c8c0e2187dcc"
+}

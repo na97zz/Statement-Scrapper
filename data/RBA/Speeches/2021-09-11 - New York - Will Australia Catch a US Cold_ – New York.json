@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Will Australia Catch a US Cold? – New York",
+  "date_original": "2021-09-11",
+  "date_au": "11/09/2021",
+  "datetime_original": "",
+  "speaker": "New York",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-dg-210911.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-09-11 - New York - Will Australia Catch a US Cold_ – New York.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-09-11 - New York - Will Australia Catch a US Cold_ – New York.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4c1185cde31f6b25616fcd373de7e08e5fcc15f6815185f8d90b29d1a3291f99"
+}

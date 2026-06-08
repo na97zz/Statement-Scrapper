@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Shifting Currents in the Global Economy – Melbourne",
+  "date_original": "2 February 2001",
+  "date_au": "02/02/2001",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-ag-020201.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-02-02 - Melbourne - Shifting Currents in the Global Economy – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-02-02 - Melbourne - Shifting Currents in the Global Economy – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "100e89007bf3d670c24f04973e5d4ce5cc0efffe5a991a2376c2a318a7ea04dd"
+}

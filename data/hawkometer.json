@@ -1,0 +1,5603 @@
+{
+  "metadata": {
+    "name": "Local Hawkometer",
+    "version": "0.2.0",
+    "description": "Expanded offline central bank phrase library for deterministic Hawkometer scoring.",
+    "created_for": "local_research",
+    "methodology": "Deterministic phrase matching with sub-linear count scaling.",
+    "phrase_count": 497,
+    "theme_count": 25
+  },
+  "phrase_library": [
+    {
+      "phrase": "inflation is too high",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains too high",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is still too high",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is well above target",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains above target",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is above target",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is elevated",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is unacceptably high",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is still elevated",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "price pressures remain elevated",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "price pressures are elevated",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is far too high",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains far too high",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has not yet returned to target",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflationary pressures remain high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflationary pressures are high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains above our objective",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains above the objective",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains above the target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "price growth remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consumer price inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is still above target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is running above target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is above our target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is persistent",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains persistent",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "persistent inflation pressures",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation persistence",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation remains persistent",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is proving persistent",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has proved more persistent",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "persistence in inflation",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is sticky",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "sticky inflation",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is proving sticky",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "price pressures are persistent",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is declining only slowly",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is easing only gradually",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "progress on inflation has slowed",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflation has slowed",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation progress has stalled",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains stubborn",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "stubborn inflation",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation momentum remains firm",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation momentum remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has been slower to return to target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is taking longer to return to target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains broad based",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_persistence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation is elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation is elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation is sticky",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation is sticky",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation pressures remain",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying price pressures remain",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core services inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "measures of underlying inflation remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation has not eased sufficiently",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation has not eased sufficiently",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation is still too high",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation is still too high",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation warrants attention",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation warrants attention",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core price pressures persist",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying price pressures persist",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "core_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation is elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services price inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services prices remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation is sticky",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "persistence in services inflation",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation pressures remain",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "domestic services inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "market services inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "non-housing services inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation has been persistent",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "services_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage growth remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage growth is elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage pressures remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage pressures are elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour costs remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor costs remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "unit labour costs remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "unit labor costs remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "nominal wage growth remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "pay growth remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "earnings growth remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage growth is still above levels consistent with target",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "wages remain a source of inflation pressure",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "wage settlements remain high",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "wage dynamics remain strong",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "labour cost growth remains strong",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "labor cost growth remains strong",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "risk of wage price spiral",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "second-round wage effects",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Wage language can be sector-specific; use with context.",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation expectations are rising",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation expectations have risen",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation expectations risk becoming unanchored",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk of unanchored inflation expectations",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation expectations are not well anchored",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "de-anchoring of inflation expectations",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation expectations remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "near-term inflation expectations remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "longer-term inflation expectations warrant close monitoring",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "keeping inflation expectations anchored",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "ensure inflation expectations remain anchored",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "guard against inflation expectations rising",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation expectations are above target consistent levels",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "survey measures of inflation expectations remain high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_expectations",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "upside risks to inflation",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation risks are to the upside",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks to inflation are tilted to the upside",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "upside risks to price stability",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation could prove higher than expected",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk that inflation proves more persistent",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk of higher inflation",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation risks remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation risks have increased",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks around inflation are skewed upward",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "greater upside risks to inflation",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflationary risks dominate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "upside_inflation_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further tightening may be required",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "additional tightening may be required",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further policy tightening may be needed",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "additional policy firming may be appropriate",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further increases may be appropriate",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further rate increases may be needed",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "prepared to raise rates further",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "we may need to raise rates further",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "more tightening is needed",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further tightening is warranted",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "additional tightening is warranted",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy may need to be tightened further",
+      "direction": "hawkish",
+      "weight": 3,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "not ruling out further increases",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further increases cannot be ruled out",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "tightening bias remains",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "retains a tightening bias",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "some further policy firming",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "additional policy restraint",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "more work to do",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "not done yet",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "premature to declare victory",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy must do more",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further action may be necessary",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "stand ready to tighten further",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rates may need to stay higher for longer",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "higher for longer",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy will need to remain tight for longer",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive policy for some time",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rates will remain restrictive for some time",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "maintain restrictive rates for longer",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "not the time to cut",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "too early to discuss cuts",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "premature to discuss easing",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rates need to remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy restraint for an extended period",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "hold rates at restrictive levels",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "higher_for_longer",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy must remain restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary policy must remain restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive stance is appropriate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "maintain a restrictive stance",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "sufficiently restrictive for as long as necessary",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy needs to remain restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "keep policy restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive monetary policy stance",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "current restrictive stance",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy is restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "some restriction remains necessary",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "degree of restriction remains appropriate",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "maintain policy restraint",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy restraint is needed",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive settings",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive territory",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "keep rates restrictive",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "retain restrictive policy settings",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "hawkish hold",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "holding rates while retaining tightening bias",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "held rates but warned inflation remains high",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "maintained rates with upside inflation risks",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "pause does not mean peak",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "hold should not be interpreted as easing",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "skipping a hike",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "pause in tightening",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "policy pause while assessing further tightening",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "hawkish_hold",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Phrase often appears in commentary; treat as hawkish only when describing central bank stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "labour market remains tight",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor market remains tight",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour market is tight",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor market is tight",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "employment growth remains strong",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "job gains remain strong",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "unemployment remains low",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "vacancies remain elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour demand remains strong",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor demand remains strong",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage pressures from a tight labour market",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage pressures from a tight labor market",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "domestic demand remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consumer spending remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "household spending remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand has been stronger than expected",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "spending has been stronger than expected",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "activity remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "resilient demand",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand is holding up",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consumption remains robust",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "spending remains robust",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "private demand remains firm",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "demand_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economic activity remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth has been stronger than expected",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economy remains resilient",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "activity has expanded at a solid pace",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economic growth remains solid",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth remains above trend",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "output growth remains firm",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "the economy continues to expand",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "real activity remains firm",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth outlook has improved",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economic activity remains robust",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "growth_resilience",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "financial conditions have eased",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "financial conditions are too loose",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "financial conditions may be insufficiently restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "easing financial conditions",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "market pricing has eased financial conditions",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "premature easing in financial conditions",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "credit conditions remain accommodative",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "asset prices have eased financial conditions",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "financial conditions warrant monitoring",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "looser financial conditions could add inflation pressure",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "financial_conditions_too_loose",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "data dependent",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "data-dependent",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "meeting by meeting",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "meeting-by-meeting",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "depend on incoming data",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "incoming data",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "evolving outlook",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "balance of risks",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "no pre-set path",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "not on a preset path",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "assess incoming information",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "proceed carefully",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "risk management approach",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "policy optionality",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "calibrate policy",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "case by case",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "wait and see",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "greater clarity is needed",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "uncertainty remains high",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "data_dependence",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Neutral by default; can accompany hawkish or dovish decisions.",
+      "enabled": true
+    },
+    {
+      "phrase": "risks are balanced",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks have become more balanced",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "two-sided risks",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks are two sided",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "balanced inflation and growth risks",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk assessment is balanced",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "more balanced outlook",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks to both sides",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "upside and downside risks",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "broadly balanced risks",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks are broadly balanced",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "uncertainty is elevated",
+      "direction": "neutral",
+      "weight": 0,
+      "theme": "balanced_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has eased",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is easing",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has moderated",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is moderating",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has declined",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is declining",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has moved lower",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is moving lower",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "progress on inflation",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further progress on inflation",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is moving toward target",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is returning to target",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is close to target",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is near target",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "price pressures have eased",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflation continues",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflation is continuing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflation is well advanced",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflationary process",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflation is underway",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "disinflation has resumed",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "clear signs of disinflation",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "broad disinflation",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "underlying inflation is easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "core inflation is easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "services inflation is easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage growth is easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "disinflation",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy transmission is working",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary policy is working",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "tightening is weighing on demand",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "higher rates are weighing on activity",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive policy is dampening demand",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy restraint is feeding through",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary tightening is passing through",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "effects of past tightening",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lagged effects of policy tightening",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy is slowing the economy",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "credit conditions have tightened",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "borrowing costs are restraining activity",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "policy_transmission_working",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour market is cooling",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor market is cooling",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour market has cooled",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor market has cooled",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour market is softening",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor market is softening",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "job growth has slowed",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "employment growth has slowed",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "unemployment has risen",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "vacancies have declined",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour demand is easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labor demand is easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage growth is moderating",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage pressures are easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "slack is emerging in the labour market",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "slack is emerging in the labor market",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "labour_market_cooling",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand is weakening",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "domestic demand is weakening",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consumer spending is slowing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "household spending is slowing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "activity is slowing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economic activity is slowing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand has softened",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consumption has softened",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "private demand has weakened",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth in demand has slowed",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "spending momentum has slowed",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand conditions have eased",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "demand_weakening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "downside risks to growth",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risks to growth are tilted to the downside",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth risks are to the downside",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "weaker growth outlook",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth outlook has deteriorated",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "activity could be weaker than expected",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk of weaker activity",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "downside risks to activity",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth is likely to be lower",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economic outlook has weakened",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk of a sharper slowdown",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "downside_growth_risks",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "appropriate to begin easing",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "scope to ease",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "conditions for easing",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rate cuts are on the table",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rate cuts on the table",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "prepared to lower rates",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "room to lower rates",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy can become less restrictive",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "less restrictive policy may be appropriate",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "begin reducing the policy rate",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "begin cutting rates",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "start cutting rates",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "easing bias",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "dovish pivot",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy easing is warranted",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further easing may be required",
+      "direction": "dovish",
+      "weight": -3,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "approaching neutral",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "close to neutral",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy is sufficiently restrictive",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rates are sufficiently restrictive",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "no additional tightening is needed",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "tightening cycle is complete",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "peak rate has likely been reached",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate has peaked",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consider reducing restriction",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "remove some policy restraint",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "gradual easing",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rate reductions may be appropriate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "recession risk",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "risk of recession",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "output gap has opened",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "excess supply has emerged",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "material spare capacity",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "slack in the economy",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economic slack",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "below potential growth",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "growth below trend",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "activity is contracting",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "economy is contracting",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "sharp slowdown",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "hard landing risk",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "unemployment could rise materially",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "demand shortfall",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "weak aggregate demand",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "recession_slack_risk",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "target range for the federal funds rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "FED-specific policy implementation phrasing; context matters for balance sheet phrases.",
+      "enabled": true
+    },
+    {
+      "phrase": "federal funds rate remains restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "FED-specific policy implementation phrasing; context matters for balance sheet phrases.",
+      "enabled": true
+    },
+    {
+      "phrase": "federal funds rate target range remains restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "FED-specific policy implementation phrasing; context matters for balance sheet phrases.",
+      "enabled": true
+    },
+    {
+      "phrase": "federal funds rate at a restrictive level",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "FED-specific policy implementation phrasing; context matters for balance sheet phrases.",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce the monthly redemption cap",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "FED-specific policy implementation phrasing; context matters for balance sheet phrases.",
+      "enabled": true
+    },
+    {
+      "phrase": "continue reducing securities holdings",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "FED-specific policy implementation phrasing; context matters for balance sheet phrases.",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains well above the committee's 2 percent objective",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains above the committee's 2 percent objective",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "highly attentive to inflation risks",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "committee remains highly attentive to inflation risks",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "it will be appropriate to reduce the target range",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "Balance sheet language may not map one-for-one to rate stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce the target range for the federal funds rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "Balance sheet language may not map one-for-one to rate stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the target range",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "Balance sheet language may not map one-for-one to rate stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "slow the pace of decline of securities holdings",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "FED"
+      ],
+      "notes": "Balance sheet language may not map one-for-one to rate stance.",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is projected to remain too high for too long",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation has been too high for too long",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "domestic price pressures remain strong",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "wage pressures remain strong",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "key ecb interest rates",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "deposit facility rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "main refinancing operations rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "keep policy rates sufficiently restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "rates at sufficiently restrictive levels",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "make monetary policy less restrictive",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "dial back the degree of monetary policy restriction",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the deposit facility rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce the key ecb interest rates",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "ECB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "bank rate will need to remain restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "bank rate is restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary policy will need to remain restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "restrictive for sufficiently long",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "mpc remains focused on inflation persistence",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "private sector regular pay growth",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "pay growth remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "second-round effects in domestic prices and wages",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "persistence in wage and price setting",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "wage_inflation",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "bank rate could be reduced",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce bank rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "less restrictive stance of monetary policy",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy can become less restrictive",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOE"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cash rate target",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cash rate remains restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "board remains resolute in its determination",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "return inflation to target within a reasonable timeframe",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "not ruling anything in or out",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "labour market remains tight",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "conditions in the labour market remain tight",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "unit labour costs remain high",
+      "direction": "hawkish",
+      "weight": 1,
+      "theme": "labour_market_strength",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the cash rate target",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce the cash rate target",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cash rate target was reduced",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary policy can be less restrictive",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBA"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "target for the overnight rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "overnight rate remains restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "governing council remains concerned about inflation risks",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "bank rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "deposit rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cpi inflation is close to 2 percent",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is close to 2 percent",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "excess supply in the economy",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "shelter price inflation is easing",
+      "direction": "dovish",
+      "weight": -1,
+      "theme": "inflation_progress",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "reduced its target for the overnight rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lowered the target for the overnight rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cut the policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further reductions in the policy interest rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "BOC"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "official cash rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "ocr",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "keep the ocr restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary policy needs to remain restrictive",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "committee agreed to increase the official cash rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "consumer price inflation remains above the target band",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation remains above the target band",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "domestic inflation remains elevated",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "inflation_too_high",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce the official cash rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the official cash rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "scope to lower the ocr",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "ocr can be reduced",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RBNZ"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "snb policy rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "sight deposit rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "counter inflationary pressure",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "tighten monetary policy further",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "ensure price stability over the medium term",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the snb policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "reduce the snb policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cuts the snb policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "monetary conditions have eased",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "SNB"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate will most likely be raised",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "raise the policy rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate should be raised",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "norges bank's policy rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "capacity utilisation is above normal",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate will most likely be reduced",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate should be lowered",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "capacity utilisation is below normal",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "NORGES"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "riksbank's policy rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "raise the policy rate",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate needs to be raised",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is still too high in sweden",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "tighten monetary policy",
+      "direction": "hawkish",
+      "weight": 2,
+      "theme": "restrictive_stance",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "cut the policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "lower the policy rate",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "policy rate can be cut",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "less contractionary monetary policy",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "inflation is close to the target",
+      "direction": "dovish",
+      "weight": -2,
+      "theme": "easing_cut_bias",
+      "central_banks": [
+        "RIKSBANK"
+      ],
+      "notes": "",
+      "enabled": true
+    },
+    {
+      "phrase": "further tightening may be appropriate",
+      "direction": "hawkish",
+      "weight": 2.5,
+      "theme": "need_for_further_tightening",
+      "central_banks": [
+        "all"
+      ],
+      "notes": "Explicit tightening bias.",
+      "enabled": true
+    }
+  ],
+  "themes": {
+    "inflation_too_high": "Inflation is above target or too high for comfort.",
+    "inflation_persistence": "Inflation is proving persistent or slow to return to target.",
+    "core_inflation": "Underlying/core inflation pressure.",
+    "services_inflation": "Services-sector inflation pressure.",
+    "wage_inflation": "Wage growth and wage-price pass-through.",
+    "inflation_expectations": "Inflation expectations and anchoring risks.",
+    "upside_inflation_risks": "Risks skewed toward higher inflation.",
+    "need_for_further_tightening": "Language pointing to additional policy tightening.",
+    "higher_for_longer": "Restrictive rates may need to stay in place longer.",
+    "restrictive_stance": "Current or desired restrictive policy stance.",
+    "hawkish_hold": "Hold decisions framed with a hawkish bias.",
+    "labour_market_strength": "Strong labour/labor market or employment conditions.",
+    "demand_resilience": "Resilient demand and spending.",
+    "growth_resilience": "Growth/activity resilience despite tight policy.",
+    "financial_conditions_too_loose": "Financial conditions may be insufficiently restrictive.",
+    "data_dependence": "Neutral/process language about data dependence and optionality.",
+    "balanced_risks": "Risks described as balanced or two-sided.",
+    "inflation_progress": "Inflation moving toward target or improving.",
+    "disinflation": "Disinflationary process and easing price pressures.",
+    "policy_transmission_working": "Policy tightening is passing through to the economy.",
+    "labour_market_cooling": "Labour/labor market cooling or softening.",
+    "demand_weakening": "Demand, consumption, or activity weakening.",
+    "downside_growth_risks": "Growth risks skewed lower.",
+    "easing_cut_bias": "Language pointing toward easing or rate cuts.",
+    "recession_slack_risk": "Recession, slack, excess supply, or material spare capacity risks."
+  },
+  "central_bank_overrides": {
+    "FED": {
+      "preferred_terms": [
+        "federal funds rate",
+        "target range",
+        "labor market"
+      ],
+      "notes": "US spelling and FOMC target-range language."
+    },
+    "ECB": {
+      "preferred_terms": [
+        "deposit facility rate",
+        "main refinancing operations rate",
+        "key ECB interest rates"
+      ],
+      "notes": "Euro area policy-rate terminology."
+    },
+    "BOE": {
+      "preferred_terms": [
+        "Bank Rate",
+        "MPC",
+        "pay growth",
+        "labour market"
+      ],
+      "notes": "UK terminology and labour spelling."
+    },
+    "RBA": {
+      "preferred_terms": [
+        "cash rate target",
+        "Board",
+        "labour market"
+      ],
+      "notes": "Australian cash-rate terminology."
+    },
+    "BOC": {
+      "preferred_terms": [
+        "overnight rate",
+        "Bank Rate",
+        "deposit rate"
+      ],
+      "notes": "Canadian overnight-rate framework."
+    },
+    "RBNZ": {
+      "preferred_terms": [
+        "official cash rate",
+        "OCR",
+        "target band"
+      ],
+      "notes": "New Zealand OCR terminology."
+    },
+    "SNB": {
+      "preferred_terms": [
+        "SNB policy rate",
+        "sight deposit rate"
+      ],
+      "notes": "Swiss policy-rate terminology."
+    },
+    "NORGES": {
+      "preferred_terms": [
+        "policy rate",
+        "capacity utilisation"
+      ],
+      "notes": "Norges Bank English translation terms."
+    },
+    "RIKSBANK": {
+      "preferred_terms": [
+        "policy rate",
+        "inflation target"
+      ],
+      "notes": "Riksbank English translation terms."
+    }
+  },
+  "regime_adjustments": {
+    "default": {
+      "multiplier": 1.0,
+      "notes": "No regime adjustment applied."
+    },
+    "high_inflation_regime": {
+      "multiplier": 1.0,
+      "notes": "Placeholder for future regime-aware calibration; disabled by default."
+    },
+    "zero_lower_bound_regime": {
+      "multiplier": 1.0,
+      "notes": "Placeholder for future calibration; disabled by default."
+    }
+  },
+  "scoring_config": {
+    "score_min": -10,
+    "score_max": 10,
+    "count_scaling": "1 + log(count)",
+    "case_sensitive": false,
+    "match_word_boundaries": true,
+    "enabled_only": true,
+    "directional_formula": "hawkish_score - dovish_score",
+    "weight_scale": "+3 very hawkish, +2 hawkish, +1 mildly hawkish, 0 neutral/process, -1 mildly dovish, -2 dovish, -3 very dovish"
+  }
+}

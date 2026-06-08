@@ -1,0 +1,12 @@
+metric,value
+fed_rows_loaded,556
+fed_rows_scored,556
+missing_text_files,0
+zero_match_documents,255
+speakers_scored,89
+meetings_scored,43
+average_score,1.399787958422843
+most_hawkish_fed_document,"{""doc_id"": ""FED_DOC_2E9009700367"", ""date_au"": ""2023-05-03"", ""title"": ""FOMC statement"", ""category"": ""Monetary Policy"", ""score"": 10.0, ""classification"": ""Strongly Hawkish""}"
+most_dovish_fed_document,"{""doc_id"": ""FED_DOC_CB9D7E5D3864"", ""date_au"": ""2025-09-30"", ""title"": ""Monetary Policy Frameworks and the U.S. Economic Outlook"", ""category"": ""Speeches"", ""score"": -7.386294361119891, ""classification"": ""Dovish""}"
+most_hawkish_fed_meeting,"{""meeting_id"": ""FED_2023_03"", ""meeting_date"": ""2023-03-22"", ""meeting_score"": 9.4237699939685, ""documents_scored"": 13}"
+most_dovish_fed_meeting,"{""meeting_id"": ""FED_2024_07"", ""meeting_date"": ""2024-07-31"", ""meeting_score"": -0.5227000025875257, ""documents_scored"": 10}"

@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement November 2022",
+  "date_original": "2022-11-22",
+  "date_au": "22/11/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2022/mps-nov-22/mpsnov22.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2022-11-22 - Monetary Policy Statement November 2022.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2022-11-22 - Monetary Policy Statement November 2022.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:53",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/monetary-policy-statement-november-2022",
+  "content_sha256": "1d60b61728401f3fc0780190318574e469e9a3e5605fb7529f44626a6a05a047"
+}

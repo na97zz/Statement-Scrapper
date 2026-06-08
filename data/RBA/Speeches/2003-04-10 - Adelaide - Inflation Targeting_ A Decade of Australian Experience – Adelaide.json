@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation Targeting: A Decade of Australian Experience – Adelaide",
+  "date_original": "10 April 2003",
+  "date_au": "10/04/2003",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2003/sp-dg-100403.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2003-04-10 - Adelaide - Inflation Targeting_ A Decade of Australian Experience – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2003-04-10 - Adelaide - Inflation Targeting_ A Decade of Australian Experience – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6764a025dd972092b7e87134934d4d4699d50cb36f31f617a66d87b140bf48ce"
+}

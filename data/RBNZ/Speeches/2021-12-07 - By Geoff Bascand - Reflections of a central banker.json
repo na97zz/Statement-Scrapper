@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Reflections of a central banker",
+  "date_original": "2021-12-07",
+  "date_au": "07/12/2021",
+  "datetime_original": "",
+  "speaker": "By Geoff Bascand",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2021/speech2021-12-07-reflections-of-a-central-banker.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2021-12-07 - By Geoff Bascand - Reflections of a central banker.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2021-12-07 - By Geoff Bascand - Reflections of a central banker.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:55",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2021/speech2021-12-07",
+  "content_sha256": "ad05ee14c1d517b630c3a0357946dec83b5a2deeecc28de88b86f2a8faf4952a"
+}

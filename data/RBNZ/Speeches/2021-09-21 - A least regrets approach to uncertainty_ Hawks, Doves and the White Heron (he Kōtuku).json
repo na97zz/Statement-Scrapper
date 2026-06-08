@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "A least regrets approach to uncertainty: Hawks, Doves and the White Heron (he Kōtuku)",
+  "date_original": "2021-09-21",
+  "date_au": "21/09/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2021/speech2021-09-21-a-least-regrets-approach.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2021-09-21 - A least regrets approach to uncertainty_ Hawks, Doves and the White Heron (he Kōtuku).pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2021-09-21 - A least regrets approach to uncertainty_ Hawks, Doves and the White Heron (he Kōtuku).txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:57",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2021/speech2021-09-21",
+  "content_sha256": "b8cef5b2d95f7b44fa9df27d2d54bb27355035398da0843abf157e38c703dd74"
+}

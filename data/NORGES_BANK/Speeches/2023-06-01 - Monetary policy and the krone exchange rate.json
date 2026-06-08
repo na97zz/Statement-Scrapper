@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Monetary policy and the krone exchange rate",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2023/09-11-2023-cme/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2023-06-01 - Monetary policy and the krone exchange rate.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2023-06-01 - Monetary policy and the krone exchange rate.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2eb63e9130c68465c166c28687f0a9699b5b6b6647d6a77c68a11679c54bd012"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Summary",
+  "date_original": "2025-03-14",
+  "date_au": "14/03/2025",
+  "datetime_original": "",
+  "speaker": "Philip Lowe",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-dg-250314-summary.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-03-14 - Philip Lowe - Summary.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-03-14 - Philip Lowe - Summary.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f288fb34be426733ad129f83ca5d83f77e6a0d010d40d9acb30009cad53ba48c"
+}

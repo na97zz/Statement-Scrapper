@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to House of Representatives Standing Committee on Economics – Canberra",
+  "date_original": "2022-02-13",
+  "date_au": "13/02/2022",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-gov-220213.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-02-13 - Canberra - Opening Statement to House of Representatives Standing Committee on Economics – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-02-13 - Canberra - Opening Statement to House of Representatives Standing Committee on Economics – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "596ef9072c5331115948b8ca43f54a460a9f51853f5704430e5a18eb252c9f49"
+}

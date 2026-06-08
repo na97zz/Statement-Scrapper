@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the Regulators 2023 (FINSIA) – Sydney",
+  "date_original": "2023-11-03",
+  "date_au": "03/11/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-ag-2023-11-03.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-11-03 - Sydney - Panel Participation at the Regulators 2023 (FINSIA) – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-11-03 - Sydney - Panel Participation at the Regulators 2023 (FINSIA) – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7e0c279961bfecb11e9d27b568281e46efc2d42556a6ee0785e311ef9072c6c1"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economic Outlook – Hong Kong",
+  "date_original": "2026-03-14",
+  "date_au": "14/03/2026",
+  "datetime_original": "",
+  "speaker": "Hong Kong",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-260314.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-03-14 - Hong Kong - The Economic Outlook – Hong Kong.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-03-14 - Hong Kong - The Economic Outlook – Hong Kong.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "169c96e638ebcc56f47530a9c06b6cfe1139753b1c8eb79efeb0ce0048569048"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Martin Floden Visits Borlange",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Martin Flodén visits Borlänge",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2024/martin-floden-visits-borlange/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Martin Flodén visits Borlänge - Martin Floden Visits Borlange.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Martin Flodén visits Borlänge - Martin Floden Visits Borlange.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:02:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3fcf26a333959435374029385c1e84e41546c667d72568073b83466a09f00d8e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Challenges for the Future – Sydney",
+  "date_original": "10 March 2010",
+  "date_au": "10/03/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-100310.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-03-10 - Sydney - Some Challenges for the Future – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-03-10 - Sydney - Some Challenges for the Future – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0a071cf70d849a8f9dd63a4bff6439fb5554bacf6bf04e62873ca61943b39712"
+}

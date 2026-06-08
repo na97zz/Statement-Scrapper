@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Bank Funding – Sydney",
+  "date_original": "19 October 2011",
+  "date_au": "19/10/2011",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-ag-191011.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-10-19 - Sydney - Bank Funding – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-10-19 - Sydney - Bank Funding – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9e58486235fa6f2c23f8833e467e361beccaece52cc75c990985c3a3c7fb2619"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interview With Guardian’s Australian Politics",
+  "date_original": "2026-02-24",
+  "date_au": "24/02/2026",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-dg-2026-02-24.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-02-24 - Andrew Hauser - Interview With Guardian’s Australian Politics.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-02-24 - Andrew Hauser - Interview With Guardian’s Australian Politics.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "44257de954dfd9532b39677fda91bee09ae4d8be1e6fa4e781f3a01b068324bf"
+}

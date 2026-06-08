@@ -1,0 +1,435 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: The Future of the Payments System
+DATE: 12/12/2024
+SPEAKER: 
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2024/sp-ag-2024-12-12.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+The Future of the Payments System
+Brad Jones
+[
+*
+]
+Assistant Governor (Financial System)
+AusPayNet Summit 2024
+Sydney
+–
+12 December 2024
+Audio
+40MB
+Q&A Transcript
+Download
+511KB
+Watch video: The Future of the Payments System - Speech delivered by Brad Jones, Assistant Governor (Financial System), AusPayNet Summit 2024, Sydney
+Thank you for the invitation to open the batting at this year’s AusPayNet Summit. This forum is
+ always a highlight on the calendar − for industry and policymakers alike − and I am sure this year will
+ be no different.
+Not so long ago, opining on the future of the payments system may have been a somewhat mundane affair. Not
+ a great deal changed from one year to the next, and not too many folks, other than the true payment
+ system diehards, were interested.
+Not so now.
+For a start, our payments system is rapidly evolving. New innovations are springing up at a dizzying pace.
+And the payments system has never been more critical to the functioning of the economy. Almost
+ $300 billion in payments now settle across the RBA’s central infrastructure each day. This is
+ equivalent to Australia’s annual GDP flowing through the payments system every 10 days.
+Furthermore, debates over the future of money and payments now regularly feature in the public square
+ – and as I am discovering, the public square very much extends to summer barbeque conversations. In
+ some sense, money and technology have always been the subject of popular fascination, but this seems
+ especially true today.
+In short, to channel a former Prime Minister, it has never been a more exciting time to be in payments.
+My remarks today will focus on the challenges and opportunities in front of all of us involved in
+ payments. There is no shortage of both. But before diving in, let me briefly set the scene by
+ highlighting where our payments system stands today, and the RBA’s role in it.
+The current state of Australia’s payments system
+Australia has a payments system that we can be proud of. By global standards, it is fast, efficient and
+ reliable. This is evident not only in the data, but from the discussions that I and my colleagues at the
+ RBA and on the Payments System Board regularly have with our international counterparts. It is also worth
+ noting that for the better part of a couple of decades, retail merchant card payment costs have trended
+ lower in Australia in response to increased transparency and competitive tension in the market for
+ payments services (Graph 1). Some of this competitive tension has arisen organically, and some of it
+ has come about as a result of intervention by the RBA.
+Graph 1
+This brings me to the mandate of the RBA and the Payments System Board.
+[1]
+At the broadest level, this
+ mandate is to help shape the payments system so that it works in the best interests of Australian
+ households and businesses. Our north star is promoting the public interest. We strive to achieve this
+ through a combination of suasion, regulation and working with industry participants to help overcome the
+ coordination issues that can bedevil payment systems.
+In seeking to promote efficiency, competition and safety in the payments system, we also recognise the
+ important role of innovation in serving the public interest. Australia’s productivity growth
+ challenges make this all the more pertinent. One can think of the New Payments Platform (NPP) as a
+ notable example of this focus (Graph 2). More recently, this year the RBA materially raised the
+ activity threshold beyond which securities settlement facilities must comply with the Financial Stability
+ Standards. It was assessed that the higher threshold struck a more appropriate balance between the public
+ interest in the management of financial stability risks, and the public interest in avoiding excessive
+ regulatory burden (particularly on small enterprises). And as I will discuss later, we also recently
+ launched a new project with industry to examine how central bank digital currency, stablecoins and
+ tokenised bank deposits could, along with new infrastructure arrangements, support innovation and
+ resilience in wholesale tokenised asset markets.
+Graph 2
+Where innovation promises to not only enhance efficiency but also resilience and safety in our financial
+ system, all the better. This recognises that we are entering a new era for operational risk – a
+ result of rising geopolitical tension and other sources of potential disruption that include third-party
+ vendors. For these reasons, strengthening resilience in our payment system and our financial market
+ infrastructure is a key area of focus for the RBA in its work with other member agencies on the Council
+ of Financial Regulators.
+[2]
+This aside, the RBA is also working with the government to make sure that Australia’s regulatory
+ architecture is fit for purpose in the 21st century. This is a pressing issue given the foundational
+ legislation setting out the RBA’s powers was drafted in another era – one prior to the
+ emergence of the digital economy that will be essential to Australia’s future prosperity.
+If there is one message to takeaway from my remarks today, it is this – while we should recognise
+ that Australia has a world class payments system today, it would be a mistake to assume the same will be
+ true in five or 10 years’ time without a concerted effort from everyone involved in payments.
+ Of course, the RBA has a key role here and we remain committed to working constructively with industry in
+ promoting the public interest. But ultimately, how industry responds to these challenges and
+ opportunities will determine whether it will be able to deliver the services that Australians will need
+ and should expect in the future.
+Account-to-account payments
+In the spirit of facing into challenges, let me begin with account-to-account payments. In her speech to
+ this Summit last year,
+[3]
+the Governor spoke about industry’s decision to
+ target the decommissioning of the BECS framework by 2030. The setting of a target date by industry has
+ helped to focus attention across the ecosystem. But there is much to do here.
+BECS is the workhorse of the account-to-account payments system. While the share of account-to-account
+ transfers made through the NPP has increased notably (Graph 3), BECS is still used to process the
+ majority of account-to-account payments. This includes payroll, pension and support payments that are
+ critical to Australians.
+Graph 3
+Given the importance of BECS to our financial system, this year the Payments System Board asked RBA staff
+ to undertake a risk assessment of the intended decommissioning. The risk assessment, which will be
+ reported to the Board in March 2025, is drawing attention to some issues that will need to be addressed
+ to facilitate an orderly decommissioning.
+In the course of engaging with a wide range of stakeholders – banks, payment service providers,
+ payment schemes, end users and government agencies – RBA staff have heard plenty of support for the
+ migration to more modern payment rails such as the NPP. There are features of the NPP that many
+ stakeholders find beneficial, including
+24/7
+operation, real-time
+ settlement, richer data and enhanced data exchange capabilities.
+At the same time, some stakeholders have raised concerns about aspects of the migration. I will set these
+ out in a moment, but my colleagues at the RBA and on the Payments System Board see the central challenge
+ as this – industry is yet to arrive at a shared vision of the desired features of
+ account-to-account payments in Australia. This is a foundational issue. While the point of departure has
+ been announced by industry – transitioning from BECS as we know it – establishing a common
+ vision of the features underpinning a desired end state will be essential if a program of this scale is
+ to succeed. Once a consensus has emerged here, a roadmap with milestones can guide industry progress
+ toward the ultimate objective.
+Now let me share with you some of the feedback we have heard so far:
+There has been insufficient industry coordination, planning and certainty regarding the
+ transition.
+This in turn has had made it difficult for industry participants to press
+ on with their individual plans, including those who will have a key role in ensuring the ongoing
+ competitiveness and safety of the system.
+There is scope for the needs of end users to be given more prominence in industry discussions
+ on the future of account-to-account payments.
+BECS is the payment rail used to make the
+ majority of essential payments to millions of Australians, so any replacement must be capable of
+ reliably meeting end user needs.
+A solution for the processing of bulk payments will be important.
+[4]
+Key
+ end users need confidence that bulk payments will be supported into the future, recognising that many
+ have integrated systems that manage the initiation and reconciliation of payment instructions. The
+ NPP and the fast settlement service (FSS) will need to have capacity to handle a much higher volume
+ of payments.
+The cost of the transition and per transaction costs in the future system are a concern for
+ some stakeholders.
+End users, including those who do not have advanced functionality
+ requirements, understandably want options that represent value for money. The RBA is working to
+ better understand the pricing of account-to-account payments.
+Many stakeholders have expressed a desire for resilience to feature prominently in future
+ account-to-account system arrangements.
+BECS outages have typically been low
+ (Graph 4). Contingency arrangements in the future system will need to ensure that end user needs
+ can continue to be met even when operational issues are experienced.
+[5]
+This
+ suggests resilience will need to be built into the solution from the outset. As mentioned earlier,
+ the RBA and the Australian Prudential Regulation Authority (APRA) are stepping up their focus on
+ operational resilience in the financial system, including payments.
+[6]
+End users will be unable to move payments from BECS until all customers can receive payments
+ via an alternative channel.
+Some banks using BECS are yet to connect to the NPP, and
+ even for those that have done so, some of their BECS-reachable accounts are not currently reachable
+ via the NPP. It might be that not all of these unreachable accounts will need transactional
+ capabilities in the future, but this is something institutions need to examine.
+Graph 4
+Let me offer a positive take on this feedback. It has surfaced some issues that, if addressed
+ appropriately, can give industry a solid basis on which to move forward. The focus on resilience,
+ functionality and end user needs is particularly relevant here. The announcement by industry of a target
+ date of 2030 for BECS decommissioning has already sparked some useful dialogue. But all stakeholders need
+ a voice, and a broad consensus on some key issues is now essential if Australia’s account-to-account
+ payment system arrangements are going to be fit-for-purpose in the next decade. Time is now of the
+ essence.
+Review of Retail Payments Regulation
+As many of you will be aware, the RBA recently launched a Review of Retail Payments Regulation.
+[7]
+While we
+ hoped to conduct a broad review, including of issues arising from new types of players and technologies
+ in digital payments, proposed amendments to the
+Payment Systems (Regulation) Act 1998
+(PSRA)
+ that would bring relevant participants into the RBA’s regulatory remit currently remain before the
+ Australian Parliament. Given the limitations of our remit under the current PSRA and the significance of
+ the issues, it is important that these reforms are passed as soon as possible.
+For now, we are focused on whether there are further actions the RBA could take to put downward pressure
+ on merchant card payment costs and whether the surcharging framework remains fit for purpose. These
+ issues can be dealt with under the PSRA in its current form and are inextricably linked: merchants are
+ less likely to surcharge if their payment costs are low. Given the shift towards electronic payments,
+ card payment costs are an ongoing concern for merchants, as they are for consumers. Keeping downward
+ pressure on merchant fees for card payments, particularly for smaller merchants that tend to be charged
+ higher fees, will keep consumer costs down, and so is an important priority for the RBA.
+The Issues Paper for the Review outlines a broad suite of issues and possible policy responses for
+ stakeholders to consider. We have asked for feedback on the following:
+the current level of interchange fee benchmarks and caps, and whether there is a case for more
+ structural changes to interchange regulation
+[8]
+whether further regulatory action could increase competitive pressure on scheme fees and whether
+ further action is required to promote least-cost routing for in-person transactions
+options to reduce complexity and improve transparency to facilitate merchants shopping around to get
+ the best value, as this would boost competition in the acquiring market.
+As the payments landscape has evolved significantly since the surcharging framework was introduced in
+ 2003, it is timely to review whether the current rules are still achieving their intended purpose. There
+ are arguments on both sides of this debate, and we recognise that some views are strongly held. We are
+ open to exploring all possible options to find a position that will best serve the public interest,
+ consistent with our legislative mandate.
+Some of the arguments for retaining the current surcharging framework include:
+it provides a price signal to consumers to use a lower cost payment option – where consumers
+ vote with their feet, this puts competitive pressure on card networks to lower their wholesale fees
+merchants value the ability to surcharge to recover the cost of payment choices made by customers
+surcharging rules have made a significant contribution to the long-run decline in average fees that
+ merchants pay for card transactions (recall Graph 1).
+However, the decline in cash usage, increased prevalence of surcharging and changes in the way merchants
+ are charged for card payments have led to reasonable concerns about the current framework. In particular:
+Fewer consumers transact with cash today and are therefore unable to avoid card surcharges at the
+ point-of-sale.
+Many small merchants are now on blended or single-rate payment plans that charge the same fee to
+ merchants for accepting all types of cards. This dulls the price signal to consumers, and can mean
+ users of cheaper card payments cross-subsidise users of more expensive cards.
+Consumers are sometimes unaware of the surcharge amount before paying and/or surcharged for amounts
+ in excess of merchants’ cost of acceptance.
+[9]
+We received over 70 submissions to our Issues Paper, many from institutions represented here today.
+ Thank you to those who took the time to set out their views. We plan to publish submissions on our
+ website in January, and to take a summary of the feedback you have provided to the Payments System Board
+ in March. Following this, we aim to release a consultation paper with potential policy actions around
+ mid- 2025. Thereafter a conclusions paper would set out the Board’s final decisions, likely by the
+ end of the year.
+Cross-border payments
+I’ll now turn to the topic of cross-border payments.
+Australian businesses and households that undertake international activities need efficient and safe ways
+ to send and receive money. But cross-border payments services are still more expensive, more opaque and
+ slower than their domestic counterparts. Enhancing cross-border payments is therefore one of the Payments
+ System Board’s strategic priorities and an international commitment for Australia under the
+ G20 Roadmap.
+A recent review by the Financial Stability Board indicated that much more progress is needed to move
+ toward the G20 Roadmap cost targets.
+[10]
+Lowering the cost of cross-border payment services
+ has proven challenging almost everywhere. In Australia, we estimate that the average cost of sending
+ A$1,000 to other countries still significantly exceeds the relevant G20 targets
+ (Graph 5).
+[11]
+Graph 5
+However, the cost of sending money overseas from Australia can vary significantly across providers. Banks
+ are generally more expensive than non-bank providers, reflecting the size of the mark-ups they typically
+ apply to the wholesale foreign exchange rate. By contrast, there are some non-bank digital providers
+ offering prices that are around, or a bit below, the G20 target levels. These differences highlight
+ the importance of transparency over prices and of customers shopping around.
+[12]
+The speed of cross-border payments is another area where more progress is required. Bank-intermediated
+ cross-border transactions often take a day or more to reach the recipient. Slow processing reflects a
+ range of factors including differing operating hours, inconsistent payments messaging practices, and
+ complex compliance checks.
+Making use of the new NPP International Payments Service, which allows the final Australian dollar leg of
+ inbound cross-border payments to be processed on a near real-time
+24/7
+basis, will help. There are also a range of ISO 20022 messaging
+ initiatives where more progress is needed.
+[13]
+Achieving international consistency in the data
+ carried in payments messages will reduce the need for manual intervention by providers in the processing
+ of cross-border payments, and therefore increase the speed and lower the costs of transactions.
+Finally, the RBA continues to participate in initiatives like Project Mandala, a collaboration with the
+ Bank of International Settlements (BIS) Innovation Hub and the central banks of South Korea, Malaysia and
+ Singapore. This project examines a common technical model for automating regulatory compliance processes
+ in cross-border payments, including sanctions and AML/CTF requirements, with a view to increasing the
+ speed of compliance procedures and reducing failed transactions.
+[14]
+The future of digital money
+This leads me to another focus area for the RBA and the Payments System Board – shaping the future
+ of money in Australia. A central element of this program is determining whether there is a public policy
+ case to introduce a central bank digital currency (CBDC) in Australia, and if so, in what form. We
+ recently published a report with Treasury that provided an updated assessment of the case for a CBDC in
+ Australia, and outlined, for the first time, a three-year roadmap for future work.
+[15]
+Our current assessment is that a public interest case to issue a retail CBDC has yet to emerge in
+ Australia. At the present time, we see the potential benefits of a retail CBDC as modest or uncertain,
+ relative to the challenges it would likely introduce. However, as these trade-offs could evolve over
+ time, and as more international experience comes to light, the RBA and the Treasury will continue to
+ examine the issues.
+Like a number of central banks in advanced economies, we see the potential case for a wholesale CBDC as
+ more promising, though not definitive at this point. A wholesale CBDC could have a key role in
+ facilitating the settlement of transactions in tokenised asset markets, and in enhancing cross-border
+ payments. This recognises the key role of central bank money in serving as the ultimate safe settlement
+ asset, particularly in systemically important markets – a point emphasised in international
+ standards. Implementing a wholesale CBDC is also likely to be less disruptive and pose fewer policy
+ challenges than issuing a retail CBDC. It would represent a more incremental change to existing
+ arrangements where digital central bank money is already issued to eligible financial institutions in the
+ form of Exchange Settlement Account balances. But there are still issues that require closer scrutiny
+ here.
+In that respect, we have made a strategic commitment to prioritise our applied research agenda on
+ innovations in wholesale digital money – namely, wholesale CBDC, tokenised bank deposits and
+ stablecoins. Our most immediate priority is to launch a new research project with the Digital Finance
+ Cooperative Research Centre (DFCRC), known as Project Acacia. Our focus here is on opportunities to
+ uplift the efficiency, transparency and resilience of wholesale markets through tokenised money, assets
+ and new settlement infrastructure. We recently published a consultation paper seeking industry feedback
+ and inviting expressions of interest to collaborate with the RBA and the DFCRC as part of this
+ project.
+[16]
+I encourage anyone who is interested to reach out to
+ our project team.
+In addition to Project Acacia, we have a number of other CBDC initiatives in line over the next year. We
+ are currently exploring options for engaging with the public to better understand their needs,
+ preferences and concerns relating to CBDC. We are also planning to convene industry and academic forums
+ to provide more systematic engagement with external experts on retail and wholesale CBDC issues.
+In short, we have an ambitious agenda on the future of money. But all our efforts are directed to ensuring
+ that our future monetary arrangements are fit for purpose in the digital age.
+The future of cash
+While cash use has declined in recent decades, it remains an important means of payment for many folks in
+ our community (Graph 6). A significant number of Australians still primarily rely on cash to
+ participate in the economy, including our more vulnerable members of society. Cash remains an important
+ store of value, particularly during periods of economic uncertainty. And in serving as a backup means of
+ payment when electronic payment methods are unavailable, including during system outages or natural
+ disasters, cash helps to promote a more resilient payment system overall. For these reasons, the
+ government and the RBA remain committed to supporting access to cash.
+Graph 6
+However, as cash use has declined, the cost of moving it around the country has increased. A significant
+ effort to put cash-in-transit services on a more solid financial footing is now underway across industry.
+ But there is still considerable work to be done to develop a sustainable long-term model for cash
+ distribution. The challenge now for industry is to deliver more efficient cash distribution services,
+ while meeting the public interest in ensuring cash remains an affordable and viable means of payment for
+ Australians.
+Conclusion
+Let me wrap up. Australians expect their payments to be convenient, reliable and represent value for
+ money. At the RBA, we share these expectations. We want to see a payments system that is a hotbed of
+ innovation and competitive tension, driving efficiency up and costs down. And we want to see a payments
+ system that is safe and resilient – one that Australians can rely on.
+As we contemplate what shape the payments system of the future might take, my colleagues and I at the RBA
+ and on the Payments System Board are committed to working constructively with AusPayNet and the wider
+ industry. We are in this together. There is much to celebrate in the Australian payments system, but as
+ I’ve made clear today, also much to do.
+On that note, I look forward to taking your questions.
+Thank you.
+Endnotes
+I would like to thank my colleagues in Payments
+ Policy Department for their valuable assistance in the preparation of these remarks. All errors
+ of omission and commission are my own.
+[*]
+More formally, the Payments System Board’s
+ responsibilities and powers are set out in four separate Acts. These are:
+Reserve Bank Act
+ 1959
+;
+Payment Systems (Regulation) Act 1998
+;
+Payment Systems and
+ Netting Act 1998
+; and
+Cheques Act 1986
+. The Reserve Bank Act, as
+ amended, gives the Payments System Board responsibility for determining the RBA’s payments
+ system policy. It must exercise this responsibility in a way that will best contribute to:
+ controlling risk in the financial system; promoting the efficiency of the payments system; and
+ promoting competition in the market for payment services, consistent with the overall stability
+ of the financial system.
+[1]
+Council of Financial Regulators (2024),
+ ‘Quarterly Statement by the Council of Financial Regulators – December 2024’,
+ Media Release No 2024-05.
+[2]
+Bullock M (2023), ‘
+Modernising Australia’s Payments
+ System
+’, Speech to the Australian Payments Network Summit, Sydney, 12 December.
+[3]
+Bulk payment functionality allows payment
+ instructions to be grouped together and sent as a single payment file, supporting efficient
+ processing of large volumes of payments (compared with sending each payment individually). Bulk
+ payments are widely used by government departments and companies for regular payments such as
+ welfare, salary and dividend payments and the payment of bills.
+[4]
+BECS is a technologically simpler solution than
+ modern payment rails. While this simplicity means that it is no longer fit for purpose for many
+ payment use cases, it does have some desirable features. In particular, end users do not expect
+ instant payments processing across BECS. When operational issues affect availability of the
+ service, the payments can be delivered in a subsequent batch settlement without much impact to
+ the end user.
+[5]
+This includes through the geopolitical risk
+ program under the Council of Financial Regulators, and in the case of APRA, through CPS 230.
+[6]
+RBA (2024), ‘
+Merchant
+ Card Payment Costs and Surcharging – Issues Paper
+’, October.
+[7]
+This could include having only interchange caps
+ instead of both caps and benchmarks, removing ad valorem interchange caps and benchmarks (so that
+ they are solely cents-based), or limiting the number of interchange categories.
+[8]
+This includes the impact of other service costs
+ being bundled into the surcharge that is passed onto consumers.
+[9]
+Financial Stability Board (2024), ‘Annual
+ Progress Report on Meeting the Targets for Cross-border Payments: 2024 Report on Key Performance
+ Indicators’, 21 October.
+[10]
+The Financial Stability Board has, for the
+ purposes of its targets, defined remittances as low value, high volume payments primarily sent to
+ recipients in emerging market and developing economies. Retail payments are all other payments
+ under US$100,000.
+[11]
+This task has been helped by recent updates to
+ the guidance from the Australian Competition and Consumer Commission on how international money
+ providers can improve the transparency of these services. This included guidance around how
+ international money providers should display information to consumers, requiring standardised
+ illustration of costs and other service features, such as the time it will take for the recipient
+ to receive the funds. See ACCC (2024), ‘Best Practice Guidance for Foreign Cash and
+ International Money Transfer Services’, October.
+[12]
+For instance, the RBA is working to ensure that
+ the Australian industry adopts the globally harmonised ISO 20022 messaging requirements for
+ cross-border payments. Work is underway to plan the NPP’s adoption of globally harmonised
+ ISO 20022 messaging, and we expect industry to have adopted the globally harmonised ISO 20022
+ messaging requirements for high-value and fast payments by the end of 2027.
+[13]
+See BIS Innovation Hub (2024), ‘Project
+ Mandala: Streamlining Cross-border Transaction Compliance’.
+[14]
+For the paper, see here: RBA and Treasury
+ (2024), ‘
+Central
+ Bank Digital Currency and the Future of Digital Money in Australia
+’, September. See
+ also Jones B (2024), ‘
+Financial Innovation
+ and the Future of CBDC in Australia
+’, Speech at the Intersekt Conference, Melbourne,
+ 18 September.
+[15]
+RBA (2024), ‘
+RBA and DFCRC Joint Consultation Paper Project
+ Acacia – Exploring the Role of Digital Money in Wholesale Tokenised Asset
+ Markets
+’, Media Release No 2024-25.
+[16]

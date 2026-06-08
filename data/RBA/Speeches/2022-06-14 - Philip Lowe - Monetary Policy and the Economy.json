@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy and the Economy",
+  "date_original": "2022-06-14",
+  "date_au": "14/06/2022",
+  "datetime_original": "",
+  "speaker": "Philip Lowe",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-14.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-06-14 - Philip Lowe - Monetary Policy and the Economy.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-06-14 - Philip Lowe - Monetary Policy and the Economy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7fad4b64ff16111db795462c64cd2d48720820bc67ff71002349dfc3e4954992"
+}

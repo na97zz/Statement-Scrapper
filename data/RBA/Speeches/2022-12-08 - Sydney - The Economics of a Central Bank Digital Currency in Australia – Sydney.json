@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economics of a Central Bank Digital Currency in Australia – Sydney",
+  "date_original": "2022-12-08",
+  "date_au": "08/12/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-ag-2022-12-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-12-08 - Sydney - The Economics of a Central Bank Digital Currency in Australia – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-12-08 - Sydney - The Economics of a Central Bank Digital Currency in Australia – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5fd3349a8320ed7c53792c2b7d1d60870f934f33f7b4f5bb451458d77f1c395b"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Changes to the Reserve Bank's Open Market Operations – Sydney",
+  "date_original": "2022-02-22",
+  "date_au": "22/02/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-ag-2022-02-22.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-02-22 - Sydney - Changes to the Reserve Bank's Open Market Operations – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-02-22 - Sydney - Changes to the Reserve Bank's Open Market Operations – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0185196948f79627501ccb9f6f7cf2a7ce8c44fe9e6edefa720732efeee21946"
+}

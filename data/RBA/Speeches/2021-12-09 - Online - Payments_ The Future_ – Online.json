@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Payments: The Future? – Online",
+  "date_original": "2021-12-09",
+  "date_au": "09/12/2021",
+  "datetime_original": "",
+  "speaker": "Online",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-12-09.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-12-09 - Online - Payments_ The Future_ – Online.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-12-09 - Online - Payments_ The Future_ – Online.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9e5b2656fe11586c2cbfb863e8953d6f42482e940ebe6815aaa9d2af7eaa42ff"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions and Prospects – Toowoomba",
+  "date_original": "2023-04-10",
+  "date_au": "10/04/2023",
+  "datetime_original": "",
+  "speaker": "Toowoomba",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-230410.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-04-10 - Toowoomba - Economic Conditions and Prospects – Toowoomba.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-04-10 - Toowoomba - Economic Conditions and Prospects – Toowoomba.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d93552c8a3e674bbef0332ddeb479942999ed2295ffe18d4f08c049e9df8293a"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Reserve Bank's Operations in Financial Markets – Adelaide",
+  "date_original": "2026-02-13",
+  "date_au": "13/02/2026",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-260213.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-02-13 - Adelaide - The Reserve Bank's Operations in Financial Markets – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-02-13 - Adelaide - The Reserve Bank's Operations in Financial Markets – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3f3c12d04a25d0a78d4e2d43b348629c4f778c6231bd2c6d5333849450916eeb"
+}

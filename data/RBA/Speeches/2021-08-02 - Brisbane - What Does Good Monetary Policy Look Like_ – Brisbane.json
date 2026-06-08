@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "What Does Good Monetary Policy Look Like? – Brisbane",
+  "date_original": "2021-08-02",
+  "date_au": "02/08/2021",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-gov-210802.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-08-02 - Brisbane - What Does Good Monetary Policy Look Like_ – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-08-02 - Brisbane - What Does Good Monetary Policy Look Like_ – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "81fa92b447f3c5e894a9c91bc63b4067b95f6645dc0cd11a11178f2ca7fa0627"
+}

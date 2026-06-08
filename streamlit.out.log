@@ -1,0 +1,95 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.86.38:8501
+  External URL: http://110.150.19.16:8501
+
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Users\Anthony                                                                     |
+| Nguyen\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\runtime\s |
+| criptrunner\exec_code.py:129 in exec_func_with_error_handling                        |
+|                                                                                      |
+| C:\Users\Anthony                                                                     |
+| Nguyen\AppData\Local\Programs\Python\Python311\Lib\site-packages\streamlit\runtime\s |
+| criptrunner\script_runner.py:689 in code_to_exec                                     |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\Desktop\Research Projects\Statement Scrapper\src\app.py:119  |
+| in <module>                                                                          |
+|                                                                                      |
+|   116                                                                                |
+|   117 with right:                                                                    |
+|   118     st.subheader("Progress by central bank")                                   |
+| > 119     index_df = load_index()                                                    |
+|   120     if index_df.empty:                                                         |
+|   121         progress_df = pd.DataFrame({"bank": list(BANK_CATEGORIES), "saved_file |
+|   122     else:                                                                      |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\Desktop\Research Projects\Statement                          |
+| Scrapper\src\utils\files.py:65 in clear_data_dir                                     |
+|                                                                                      |
+|   62                                                                                 |
+|   63 def clear_data_dir() -> None:                                                   |
+|   64     if DATA_DIR.exists():                                                       |
+| > 65         shutil.rmtree(DATA_DIR)                                                 |
+|   66     ensure_data_dirs()                                                          |
+|   67                                                                                 |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\AppData\Local\Programs\Python\Python311\Lib\shutil.py:759 in |
+| rmtree                                                                               |
+|                                                                                      |
+|    756             onerror(os.path.islink, path, sys.exc_info())                     |
+|    757             # can't continue even if onerror hook returns                     |
+|    758             return                                                            |
+| >  759         return _rmtree_unsafe(path, onerror)                                  |
+|    760                                                                               |
+|    761 # Allow introspection of whether or not the hardening against symlink         |
+|    762 # attacks is supported on the current platform                                |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\AppData\Local\Programs\Python\Python311\Lib\shutil.py:617 in |
+| _rmtree_unsafe                                                                       |
+|                                                                                      |
+|    614             except OSError:                                                   |
+|    615                 onerror(os.path.islink, fullname, sys.exc_info())             |
+|    616                 continue                                                      |
+| >  617             _rmtree_unsafe(fullname, onerror)                                 |
+|    618         else:                                                                 |
+|    619             try:                                                              |
+|    620                 os.unlink(fullname)                                           |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\AppData\Local\Programs\Python\Python311\Lib\shutil.py:617 in |
+| _rmtree_unsafe                                                                       |
+|                                                                                      |
+|    614             except OSError:                                                   |
+|    615                 onerror(os.path.islink, fullname, sys.exc_info())             |
+|    616                 continue                                                      |
+| >  617             _rmtree_unsafe(fullname, onerror)                                 |
+|    618         else:                                                                 |
+|    619             try:                                                              |
+|    620                 os.unlink(fullname)                                           |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\AppData\Local\Programs\Python\Python311\Lib\shutil.py:622 in |
+| _rmtree_unsafe                                                                       |
+|                                                                                      |
+|    619             try:                                                              |
+|    620                 os.unlink(fullname)                                           |
+|    621             except OSError:                                                   |
+| >  622                 onerror(os.unlink, fullname, sys.exc_info())                  |
+|    623     try:                                                                      |
+|    624         os.rmdir(path)                                                        |
+|    625     except OSError:                                                           |
+|                                                                                      |
+| C:\Users\Anthony Nguyen\AppData\Local\Programs\Python\Python311\Lib\shutil.py:620 in |
+| _rmtree_unsafe                                                                       |
+|                                                                                      |
+|    617             _rmtree_unsafe(fullname, onerror)                                 |
+|    618         else:                                                                 |
+|    619             try:                                                              |
+| >  620                 os.unlink(fullname)                                           |
+|    621             except OSError:                                                   |
+|    622                 onerror(os.unlink, fullname, sys.exc_info())                  |
+|    623     try:                                                                      |
++--------------------------------------------------------------------------------------+
+PermissionError: [WinError 32] The process cannot access the file because it is being 
+used by another process: 'C:\\Users\\Anthony Nguyen\\Desktop\\Research 
+Projects\\Statement Scrapper\\data\\FED\\Monetary Policy\\Unknown Date - PDF.pdf'

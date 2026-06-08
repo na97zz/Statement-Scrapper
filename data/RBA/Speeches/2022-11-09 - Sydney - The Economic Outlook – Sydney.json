@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economic Outlook – Sydney",
+  "date_original": "2022-11-09",
+  "date_au": "09/11/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-dg-2022-11-09.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-11-09 - Sydney - The Economic Outlook – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-11-09 - Sydney - The Economic Outlook – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "deeef882eacb2e5abb6596c889a38d3e57d4a6c36e53224c8563849cb6bf3704"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Future of Money – London",
+  "date_original": "2 July 2014",
+  "date_au": "02/07/2014",
+  "datetime_original": "",
+  "speaker": "London",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-ag-020714.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-07-02 - London - Future of Money – London.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-07-02 - London - Future of Money – London.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5165d7a5c2f48de8f03bba08a31e9c1f084c171030fec8f3e15986839889efa5"
+}

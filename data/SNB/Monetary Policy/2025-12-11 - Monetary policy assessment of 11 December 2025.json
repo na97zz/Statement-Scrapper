@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy assessment of 11 December 2025",
+  "date_original": "2025-12-11",
+  "date_au": "11/12/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20251211",
+  "raw_file_path": "data\\SNB\\Monetary Policy\\2025-12-11 - Monetary policy assessment of 11 December 2025.html",
+  "text_file_path": "data\\SNB\\Monetary Policy\\2025-12-11 - Monetary policy assessment of 11 December 2025.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:12",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

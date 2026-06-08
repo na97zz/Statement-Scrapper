@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Development of Asia: Risk and Returns for Australia – Sydney",
+  "date_original": "16 September 2010",
+  "date_au": "16/09/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-160910.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-09-16 - Sydney - The Development of Asia_ Risk and Returns for Australia – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-09-16 - Sydney - The Development of Asia_ Risk and Returns for Australia – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bc07acd49de61551193f13ebc470bddcfe9f0f9a4a1625566a519caea937c594"
+}

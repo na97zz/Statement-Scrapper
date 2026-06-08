@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Climate Change and Central Banks – Canberra",
+  "date_original": "2023-08-29",
+  "date_au": "29/08/2023",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-dg-2023-08-29.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-08-29 - Canberra - Climate Change and Central Banks – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-08-29 - Canberra - Climate Change and Central Banks – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d964d21238cdf22a6546ecc2794beacf14cd20ecbe3dbfe4185f160aa3e32971"
+}

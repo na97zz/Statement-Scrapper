@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the CBA 2024 Global Markets Conference",
+  "date_original": "2024-10-21",
+  "date_au": "21/10/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-10-21.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-10-21 - Andrew Hauser - Fireside Chat at the CBA 2024 Global Markets Conference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-10-21 - Andrew Hauser - Fireside Chat at the CBA 2024 Global Markets Conference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f5eaf8d6f10cf9d5868a19ee035db287fd50576e4442113e42da0795ff18efa"
+}

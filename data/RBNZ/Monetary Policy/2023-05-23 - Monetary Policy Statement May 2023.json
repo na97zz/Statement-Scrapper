@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement May 2023",
+  "date_original": "2023-05-23",
+  "date_au": "23/05/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2023/may/mpsmay23.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2023-05-23 - Monetary Policy Statement May 2023.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2023-05-23 - Monetary Policy Statement May 2023.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:51",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2023/monetary-policy-statement-may-2023",
+  "content_sha256": "9cd38dcf1daa2cf0c4f5c186827f01fdc75a722c9dbcebb9582a731f33268e1e"
+}

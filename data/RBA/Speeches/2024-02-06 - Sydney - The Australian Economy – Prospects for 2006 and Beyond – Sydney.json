@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Australian Economy – Prospects for 2006 and Beyond – Sydney",
+  "date_original": "2024-02-06",
+  "date_au": "06/02/2024",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-ag-240206.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-02-06 - Sydney - The Australian Economy – Prospects for 2006 and Beyond – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-02-06 - Sydney - The Australian Economy – Prospects for 2006 and Beyond – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "442f60a8fb9e5ab292400807957d1298f1eb42522384c9b642926c28dba45087"
+}

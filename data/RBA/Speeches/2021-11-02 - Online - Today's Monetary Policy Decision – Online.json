@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Today's Monetary Policy Decision – Online",
+  "date_original": "2021-11-02",
+  "date_au": "02/11/2021",
+  "datetime_original": "",
+  "speaker": "Online",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-11-02.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-02 - Online - Today's Monetary Policy Decision – Online.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-02 - Online - Today's Monetary Policy Decision – Online.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5d217119ffe64f659da5fa12ed2b127cc57972f1b5f180c276e5bc9f5e7e6a62"
+}

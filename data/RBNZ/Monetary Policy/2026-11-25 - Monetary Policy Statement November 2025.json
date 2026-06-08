@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement November 2025",
+  "date_original": "2026-11-25",
+  "date_au": "25/11/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2025/nov-261125/monetary-policy-statement-november-2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2026-11-25 - Monetary Policy Statement November 2025.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2026-11-25 - Monetary Policy Statement November 2025.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:36",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2025/nov-1125/monetary-policy-statement-november-2025",
+  "content_sha256": "517e5c840a69e380351e227151e26ada900d16431db7d1ebd91902af31439c8f"
+}

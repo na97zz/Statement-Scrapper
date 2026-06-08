@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financial System Developments in Australia and Abroad – Sydney",
+  "date_original": "19 August 2009",
+  "date_au": "19/08/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-190809.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-08-19 - Sydney - Financial System Developments in Australia and Abroad – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-08-19 - Sydney - Financial System Developments in Australia and Abroad – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a2b8d0fef64d68e3b3e32599de4f65d0949273ec968b86699e5f58bde81faf9a"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy and the Regions – Shepparton",
+  "date_original": "20 September 2010",
+  "date_au": "20/09/2010",
+  "datetime_original": "",
+  "speaker": "Shepparton",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-200910.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-09-20 - Shepparton - Monetary Policy and the Regions – Shepparton.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-09-20 - Shepparton - Monetary Policy and the Regions – Shepparton.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0366991a5e0c7593088cce4ea0c206ddc84df1b5eeb77d53cd6eb3c1f73c04cf"
+}

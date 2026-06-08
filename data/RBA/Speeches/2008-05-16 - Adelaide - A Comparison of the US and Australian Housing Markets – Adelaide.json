@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Comparison of the US and Australian Housing Markets – Adelaide",
+  "date_original": "16 May 2008",
+  "date_au": "16/05/2008",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-ag-160508.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-05-16 - Adelaide - A Comparison of the US and Australian Housing Markets – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-05-16 - Adelaide - A Comparison of the US and Australian Housing Markets – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a6447b6f83828abbf56b49429d754c7269978322620a6d6c305462bf4fc807d0"
+}

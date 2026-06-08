@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The State of Economics",
+  "date_original": "2024-05-28",
+  "date_au": "28/05/2024",
+  "datetime_original": "",
+  "speaker": "Jacqui Dwyer",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-so-2024-05-28.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-05-28 - Jacqui Dwyer - The State of Economics.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-05-28 - Jacqui Dwyer - The State of Economics.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e51738b0402c80832d1254d3a30d009d9867fb3432f9234055dcc0b68d5aeabf"
+}

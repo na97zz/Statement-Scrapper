@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "An Update on the Economy and Financial Developments – Brisbane",
+  "date_original": "31 March 2009",
+  "date_au": "31/03/2009",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-dg-310309.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-03-31 - Brisbane - An Update on the Economy and Financial Developments – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-03-31 - Brisbane - An Update on the Economy and Financial Developments – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d1d4844764339f34174e97f9cb02813309f7cd638527d64dd9af0cab6324249b"
+}

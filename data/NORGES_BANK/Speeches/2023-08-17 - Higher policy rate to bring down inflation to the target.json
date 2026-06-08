@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Higher policy rate to bring down inflation to the target",
+  "date_original": "2023-08-17",
+  "date_au": "17/08/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2023/2023-08-17-arendal/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2023-08-17 - Higher policy rate to bring down inflation to the target.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2023-08-17 - Higher policy rate to bring down inflation to the target.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6e79892de220c0b2bc5049d42b302dd01f551b1eb0786446761866e5caf97aab"
+}

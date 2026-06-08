@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy assessment of 25 September 2025",
+  "date_original": "2025-09-25",
+  "date_au": "25/09/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20250925",
+  "raw_file_path": "data\\SNB\\Monetary Policy\\2025-09-25 - Monetary policy assessment of 25 September 2025.html",
+  "text_file_path": "data\\SNB\\Monetary Policy\\2025-09-25 - Monetary policy assessment of 25 September 2025.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:12",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

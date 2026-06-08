@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Importance of Financial Literacy – Sydney",
+  "date_original": "2025-08-08",
+  "date_au": "08/08/2025",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-ag-250808.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-08-08 - Sydney - The Importance of Financial Literacy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-08-08 - Sydney - The Importance of Financial Literacy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f856b6f2f61a0043e42f49717ae4e13016e937d369e10646bcff29aa76987514"
+}

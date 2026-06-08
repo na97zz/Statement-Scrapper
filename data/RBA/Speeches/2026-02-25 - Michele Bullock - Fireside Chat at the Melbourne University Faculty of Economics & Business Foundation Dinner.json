@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Melbourne University Faculty of Economics & Business Foundation Dinner",
+  "date_original": "2026-02-25",
+  "date_au": "25/02/2026",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-gov-2026-02-25.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-02-25 - Michele Bullock - Fireside Chat at the Melbourne University Faculty of Economics & Business Foundation Dinner.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-02-25 - Michele Bullock - Fireside Chat at the Melbourne University Faculty of Economics & Business Foundation Dinner.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:27:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3dac6fbb11851da50bbe0b43ee7c145c29f740080f5b80354fa9b1bde3dea098"
+}

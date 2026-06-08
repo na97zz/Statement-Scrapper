@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Housing (Still) Matters – The Big Picture",
+  "date_original": "2022-06-29",
+  "date_au": "29/06/2022",
+  "datetime_original": "",
+  "speaker": "The Big Picture",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/speech2022-06-29.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-06-29 - The Big Picture - Housing (Still) Matters – The Big Picture.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-06-29 - The Big Picture - Housing (Still) Matters – The Big Picture.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:52",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/speech2022-06-30",
+  "content_sha256": "a91baaae6daa97837db1f061f32e8f4420f6b2315e0cceb1e8be791a1cf9c0a2"
+}

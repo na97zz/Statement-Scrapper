@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Public Policy and the Payments System – Melbourne",
+  "date_original": "2025-03-09",
+  "date_au": "09/03/2025",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-gov-250309.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-03-09 - Melbourne - Public Policy and the Payments System – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-03-09 - Melbourne - Public Policy and the Payments System – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:30",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ffb280267e66aaed1cb14f1e87ec6015352c984e3f70a25627c105a0497f69d8"
+}

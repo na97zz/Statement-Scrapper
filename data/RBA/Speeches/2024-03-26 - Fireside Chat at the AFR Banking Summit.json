@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the AFR Banking Summit",
+  "date_original": "2024-03-26",
+  "date_au": "26/03/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-so-2024-03-26.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-03-26 - Fireside Chat at the AFR Banking Summit.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-03-26 - Fireside Chat at the AFR Banking Summit.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5e319e2da3ee9a3d15a34ad62b313c2bd4d28e883670519216dc041841fb11f3"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report September 2021",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2021/monetary-policy-report-september-2021/",
+  "raw_file_path": "data\\RIKSBANK\\Monetary Policy\\2021-06-01 - Monetary Policy Report September 2021.html",
+  "text_file_path": "data\\RIKSBANK\\Monetary Policy\\2021-06-01 - Monetary Policy Report September 2021.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:59:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f4b773257eaf2b16c2517899742bb238c9e722da0d4be8a2f9b4ef486c18ea15"
+}

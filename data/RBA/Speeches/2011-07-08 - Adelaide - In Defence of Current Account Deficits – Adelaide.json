@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "In Defence of Current Account Deficits – Adelaide",
+  "date_original": "8 July 2011",
+  "date_au": "08/07/2011",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-ag-080711.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-07-08 - Adelaide - In Defence of Current Account Deficits – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-07-08 - Adelaide - In Defence of Current Account Deficits – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "afe69c47d7813906d4d1240f0eb9a2d8fc46e3e172f3866d7b9970479b7330b8"
+}

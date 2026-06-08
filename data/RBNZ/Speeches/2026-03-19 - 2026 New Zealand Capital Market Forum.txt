@@ -1,0 +1,306 @@
+BANK: RBNZ
+CATEGORY: Speeches
+TITLE: 2026 New Zealand Capital Market Forum
+DATE: 19/03/2026
+SPEAKER: 
+SPEAKER ROLE: 
+SOURCE URL: https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2026/kanga-news-speech---liquidity-management-review.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+The RBNZ’s liquidity management framework – some updates following consultation 
+1 
+ 
+ 
+The RBNZ’s liquidity 
+management 
+framework – some 
+updates following 
+consultation 
+A speech delivered to the KangaNews-ANZ New Zealand 
+Capital Market Forum in Auckland, New Zealand on 
+Thursday 19 March 2026 
+By Adam Richardson, Director, Financial Markets* 
+*With thanks to Alice Lam, David Craigie and Nick Mulligan for their help in 
+preparing this speech. 
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+2 
+Kia ora koutou katoa. Good afternoon. 
+It’s great to be in Auckland and at this wonderful venue. I’d like to extend my thanks and that of 
+my colleagues to KangaNews and ANZ for providing this opportunity.  
+An RBNZ appearance to talk about liquidity is becoming a regular instalment. And that’s because 
+the environment we are operating in has been changing.  
+Over the past few years, we have been reviewing and amending our internal liquidity management 
+framework, which has been occurring alongside the RBNZ’s review of the prudential liquidity policy 
+for deposit takers. In September last year, we launched a consultation covering two areas: our 
+approach to Open Market Operations (OMOs), and design considerations for the forthcoming 
+Committed Liquidity Facility (CLF). 
+We have worked through submissions, and we have now released a Summary of Submissions and 
+Key Decisions document. Today I will mostly focus on the updates we are making to our OMOs 
+and explain how we intend to maintain ample system liquidity. I’ll also touch briefly on the key 
+feedback received in relation to the CLF. 
+The key question I want to answer for you is: in an ample world, how do we make liquidity reliably 
+available, without the Reserve Bank becoming the market? 
+I’ll answer this question by focussing on three areas.  
+First: where we’ve come from, abundant to ample, and what “ample” means. 
+Second: the decisions we’ve taken on OMOs, and how they fit together as part of a hybrid 
+framework for maintaining ample liquidity. 
+Third: what success looks like, and what we’ll adjust if we need to. 
+In this speech I’ll be talking about monetary policy implementation – that is, how we give effect to 
+the stance of policy set by the Monetary Policy Committee (MPC) by keeping short-term wholesale 
+market interest rates close to the Official Cash Rate (OCR). But I won’t be talking about the outlook 
+for the OCR.  
+Before I go any further: what are the key changes we are making to our OMOs? (So you don’t 
+have to wait for the punchline).  
+From 2 April 2026 we will offer a weekly OMO with the following parameters: 
+ 
+full allotment reverse repo operations to inject NZD liquidity; 
+ 
+pricing will be at floating rate OCR + 10bps; 
+ 
+standard terms of 7- and 28-days;  
+ 
+operations will occur each Thursday from 11.30am till 11.45am NZT; 
+ 
+the overnight deposit rate (ODR) will remain at the OCR; and  
+ 
+eligible collateral for OMOs will be narrowed to New Zealand Government Bonds, RB Bills, 
+approved Kauri securities and Local Government Funding Agency securities.  
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+3 
+Background 
+So, let’s return to that first question, where have we come from, and what is ample liquidity? 
+When we launched our consultation, we had already committed to maintaining an ample level of 
+settlement cash. 1 
+We define ample as a level that is sufficient to anchor short‑term market interest rates near the 
+OCR, but not much more than this. In other words: ample liquidity is defined by a set of conditions 
+it produces, not a precise dollar figure. 2 
+For a period after COVID, settlement cash was “abundant”, meaning it was well above what is 
+needed to keep short-term rates anchored. In a way, this made our job easy. If we remunerated 
+settlement cash close to the policy rate, then short-term interest rates would trade close to the 
+OCR.3  
+However, this abundant environment can crowd-out private sector activity in wholesale markets. 
+Too much system liquidity can lead to too little market liquidity.4  
+An ample settlement cash level seeks to strike the balance between effective and robust rate 
+control, while at the same time providing an incentive for cash redistribution among market 
+participants.  
+We view the observable conditions that define ample as: 
+ 
+short‑term wholesale rates stay close to the OCR, 
+ 
+payments and settlements continue to run smoothly, and 
+ 
+market participants efficiently distribute liquidity among themselves in private markets, rather 
+than relying on the central bank. 
+Given recent conditions, we may be operating close to ample now.   
+A hybrid approach to liquidity management 
+Now to the framework choice. 
+Once you decide to maintain an ample level of settlement cash, the next question is how do you 
+provide it? 
+We have decided to adopt a “hybrid” approach, utilising with both “supply‑driven” and 
+“demand‑driven” elements.5 Supply-driven refers to when the central bank takes the active choice 
+of how much settlement cash to supply and acquires assets (either through outright purchases or 
+repo) to reach that target. By contrast, a demand-driven approach puts more control in the hands 
+of market participants, with the central bank making available standing facilities or operations to 
+provide liquidity in the quantity desired, at the right price, when it is needed.  
+In our case, the supply‑driven element reflects something distinctive about our approach to 
+monetary policy implementation in New Zealand. 
+____________ 
+1 (Silk, Liquidity management: Principles for liquidity provision and the end of an abundant era, 2024) 
+2 (Craigie, 2025) 
+3 (Callaghan, Haworth, & Poskitt, 2023) 
+4 (Silk, 2023) 
+5 The ECB first proposed and have adopted a similar framework. See (Schnabel, 2024)  
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+4 
+Unlike many other jurisdictions, a key part of how we implement monetary policy has involved the 
+FX swap market. This has been necessary because of the relative lack of activity in domestic 
+interbank cash and repo markets, and because the cost of hedging foreign funding matters for 
+domestic financial conditions.6 
+To be effective in the FX swap market, we need to be able to inject and withdraw New Zealand 
+dollar liquidity. To withdraw NZD liquidity via FX swaps, we need foreign currency assets. 
+That is why we maintain a portfolio of foreign currency assets for liquidity management. We call 
+these our Liquidity Management Reserves. They are separate from our foreign reserves held for 
+potential FX intervention purposes.7 
+Funding the Liquidity Management Reserves injects settlement cash into the system. So, you can 
+think of that portfolio as part of the structural, or supply‑driven, component of system liquidity.8 
+Alongside that supply‑driven base, we will use Open Market Operations as a demand‑driven 
+element, allowing market participants to determine how much additional settlement cash they 
+need at a known price, and plan accordingly around our regular operations. 
+Including a demand‑driven operation in our hybrid approach makes it more robust to uncertainty 
+about precautionary demand for settlement cash. This reduces reliance on the central bank always 
+getting liquidity forecasts exactly right, because counterparties determine their own demand based 
+on their needs. 
+Changes to Open Markets Operations following consultation   
+Let me now move to the OMO decisions, and why we have made them.  
+When we set out to propose a new design for our OMO, we were focussed on five objectives: 1) 
+effective monetary policy implementation, 2) support for financial stability, 3) support for market 
+liquidity, 4) regulatory consistency and 5) operational simplicity.  
+The central change is that market participants should assess their liquidity needs and plan 
+accordingly around a weekly Thursday OMO. Liquidity for standard terms of 7- and 28-days will 
+be offered.  
+At these weekly OMOs, participants will be able to borrow as much settlement cash as they need 
+at a set price, subject to having sufficient eligible collateral. This will allow counterparties to 
+manage their settlement cash needs with more certainty while providing some incentive to 
+distribute liquidity among themselves.  
+We will retain the ability to offer OMOs on an ad hoc basis, but for the most part we will be 
+moving away from our current approach where OMOs are offered on a discretionary basis and 
+the amount offered is based off our assessment of system liquidity needs. 
+____________ 
+6  (Zhang & Alanya-Beltran, 2025) 
+7  Foreign currency reserves - Reserve Bank of New Zealand - Te Pūtea Matua 
+8  Settlement cash is also created when we increase our holdings of other assets such as foreign reserves held for intervention, or non-
+market NZGB bonds held to support liquidity in the NZGB market via our Bond Lending Facility. The recent increase in foreign 
+reserves under the Foreign Reserves Coordination Framework has increased the level of settlement cash and partially offset the 
+impact of the unwind of the LSAP portfolio.  
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+5 
+These weekly operations will be complemented by the existing standing Overnight Reverse Repo 
+Facility (the ORRF), which will help to backstop monetary policy implementation on days when no 
+OMO is run.  
+The eligible collateral for our OMOs will be narrowed to New Zealand Government securities, RB 
+Bills, approved Kauri securities and Local Government Funding Agency securities.   
+We are leaving the Overnight Deposit Rate, that it is the rate at which ESAS accounts are 
+remunerated, unchanged at the OCR. We are setting the reverse repo OMO rate at OCR plus 10 
+basis points (floating rate). This spread is narrower than the 15 basis points we posited in the 
+consultation.  
+Based on the feedback we received, and our recent observations in OMOs conducted over the 
+past few months, we feel a 10 basis point spread between our key deposit and lending rates is the 
+right starting point. It should help to keep general collateral (GC) repo rates close to the OCR, 
+while also leaving enough space for the private market to distribute liquidity. The fact that the 
+OMO is only held weekly should also help with limiting the RBNZ’s footprint in the market.  
+But this will not be “set and forget”. As we adopt the new framework, we will continue to monitor 
+the impact of these price settings and can adjust them after a suitable period of observation. Other 
+central banks operating ample liquidity frameworks have made technical adjustments to pricing of 
+their operations and facilities9.  
+We can revisit the pricing on the OMO, and if we need to strengthen distribution incentives, we 
+can revisit the possibility of remunerating deposits at a rate slightly below the OCR. 
+The first OMO under the new framework will take place on Thursday 2 April 2026. 
+The weekly OMO is designed to be the regular, predictable channel for maintaining ample liquidity 
+in the new framework. 
+But on days where no OMO is run, participants will still have access to the ORRF. Participants can 
+borrow cash under the ORRF at any time, but at a higher margin (currently OCR plus 50 basis 
+points) and against a wider range of collateral. 
+The pricing on the ORRF reflects the added optionality it provides: it is available every day and 
+accepts any asset that is repo‑eligible with the RBNZ. 
+We consider the ORRF’s use to be consistent with routine liquidity management and, from a 
+prudential and supervisory perspective, we are comfortable with deposit takers using it as needed. 
+To strengthen this message, we have released an official statement on the ORRF highlighting its 
+role in day-to-day liquidity management.  
+What success looks like 
+Now to the final point: what good looks like, and what we’ll adjust if we need to. 
+The definition of success in an ample system is not whether settlement cash hits a particular 
+number; it’s the conditions the system produces. 
+____________ 
+9  In April 2025 the Reserve Bank of Australia increased the spread of their equivalent OMO from 5 basis points above the policy rate, 
+to 10 basis points above. While in January 2026 the Bank of Canada reduced their deposit rate from being equal to the policy rate to 
+being 5 basis points below. In both cases these technical adjustments did not reflect any change to the stance of monetary policy.  
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+6 
+So what will we be watching? Three things: 
+ 
+Short-term wholesale interest rates remain anchored near OCR – with GC repo an important 
+indicator, in addition to FX swap implied rates.  
+ 
+Payments and settlements operating smoothly – including through predictable seasonal and 
+event‑driven pressures. 
+ 
+Efficient liquidity distribution – with market participants managing their needs and private 
+markets doing more of the day‑to‑day distribution. 
+If we don’t see those outcomes, what can we adjust? 
+The main levers are: 
+The level of Liquidity Management Reserves (the structural supply): If we find market 
+participants are consistently needing to borrow large amounts via our operations and facilities, that 
+may signal the structural component is too low. FX swap implied interest rates regularly trading 
+further away from OCR could also suggest we need a larger liquidity injection via that market.  
+Pricing on the OMO: If price settings result in repo rates trading too far from OCR, or if our OMO 
+crowds out private market activity, we could adjust the spread on our reverse-repo OMO. 
+The spread between the Overnight Deposit Rate (ODR) and the OCR: We have left the ODR 
+unchanged at the OCR for now, but we can revisit the relationship between our administered rates 
+if we need to strengthen incentives for healthy cash distribution. 
+Other operational settings: Outside of pricing, we could adjust other parameters such as the 
+frequency of OMO or the eligible collateral. This could be temporary and in response to market 
+conditions. For instance, we could widen the eligible collateral in the OMO if we thought this 
+would have a financial stability benefit when there is market dysfunction, rather than launching a 
+separate facility. 
+A brief update on the Committed Liquidity Facility (CLF) 
+Now, let me turn briefly to the CLF. 
+The consultation also sought input on design considerations for the CLF, and the feedback has 
+been used to inform in‑principle decisions and identify where additional work is required. 
+We valued submitters’ comments on the key parameters of price and size.  
+We have made an in-principle decision to progress with a composition-based fee structure. While 
+most submitters supported a flat fee, these submissions highlighted risks that are likely to be better 
+addressed through a composition-based fee structure. These concerns included impact on market 
+functioning and addressing issues of cross-subsidies between types of CLF-eligible asset.  
+We note submitters request for a sufficiently sized CLF and clear guidance on how and when the 
+size may be adjusted over time.  
+Some submissions also recommended changes to the prudential Liquidity Standard. For instance, 
+Group 3 submitters expressed interest in being able to access the CLF, should they hold sufficient 
+eligible collateral. We have passed on these comments to our Prudential Policy colleagues for 
+consideration before the Liquidity Standard is finalised next year. At that same time we will 
+undertake a review of our Domestic Markets Counterparty criteria prior to the Liquidity Standard 
+being issued. 
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+7 
+We acknowledge that deposit takers need time to prepare for the CLF and that the final design will 
+influence their strategies around liquid asset holdings. We will continue to engage with relevant 
+stakeholders as the design of the facility develops. 
+Conclusion 
+So to sum up:  
+We’re operating in an ample liquidity environment. That makes incentives and distribution more 
+important, while effective monetary policy implementation remains paramount. 
+From 2nd April, you’ll have a predictable weekly OMO, at a known price of 10‑basis‑points above 
+the OCR for routine liquidity management, and the ORRF available daily for when it is 
+economically sensible to use it. 
+Our goals are simple: short-term interest rates trading close to OCR, predictable access to our 
+operations and facilities, and healthy wholesale interest rate markets. 
+Thank you. I’m very happy to take your questions. 
+ 
+ 
+
+
+ 
+The RBNZ’s liquidity management framework – some updates following consultation 
+8 
+References 
+Callaghan, M., Haworth, C., & Poskitt, K. (2023, June). How the Reserve Bank Implements Monetary 
+Policy. Retrieved from https://www.rbnz.govt.nz/-
+/media/project/sites/rbnz/files/publications/bulletins/2023/how-the-reserve-bank-
+implements-monetary-policy.pdf 
+Craigie, D. (2025). Liquidity Management Review Consultation. Retrieved from 
+https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/events/2025/speech-notes-for-
+david-craigie-at-kanganews.pdf 
+Reserve Bank of New Zealand. (2023). Foreign Currency Reserves. Retrieved from 
+https://www.rbnz.govt.nz/financial-markets/foreign-reserves/foreign-currency-reserves 
+Schnabel, I. (2024). The Eurosystem's operational framework. Retrieved from 
+https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240314~8b609de772.en.html 
+Silk, K. (2023, September 13). Liquidity: one word, three meanings. Retrieved from 
+https://www.rbnz.govt.nz/news-and-events/news/2023/09/liquidity-one-word-three-
+meanings 
+Silk, K. (2024). Liquidity management: Principles for liquidity provision and the end of an abundant 
+era. Retrieved from https://www.rbnz.govt.nz/-
+/media/project/sites/rbnz/files/events/2024/10/liquidity-management-principles-for-
+liquidity-provision-and-the-end-of-an-abundant-era.pdf 
+Zhang, J., & Alanya-Beltran, W. (2025, December). The drivers and transmission of the short-term 
+FX basis in New Zealand. Retrieved from https://www.rbnz.govt.nz/-
+/media/project/sites/rbnz/files/publications/analytical-notes/2025/the-drivers-and-
+transmission-of-the-short-term-fx-basis-in-new-zealand.pdf

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions – Melbourne",
+  "date_original": "13 June 2008",
+  "date_au": "13/06/2008",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-130608.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-06-13 - Melbourne - Economic Conditions – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-06-13 - Melbourne - Economic Conditions – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "813bb4857a58bd71d73a2cfb6225314e240cd63f8c6d433a6525ca9031e1c49a"
+}

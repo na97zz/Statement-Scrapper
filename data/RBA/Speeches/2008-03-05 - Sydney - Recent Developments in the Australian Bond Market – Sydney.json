@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Developments in the Australian Bond Market – Sydney",
+  "date_original": "5 March 2008",
+  "date_au": "05/03/2008",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-ag-fm-050308.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-03-05 - Sydney - Recent Developments in the Australian Bond Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-03-05 - Sydney - Recent Developments in the Australian Bond Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f2c5b4212b0c07818c893b2b4a46492fec7e21b9fdc394032cf62143d95edfd2"
+}

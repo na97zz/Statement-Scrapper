@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Asian Financial Co-operation – Sydney",
+  "date_original": "14 October 2005",
+  "date_au": "14/10/2005",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-dg-141005.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-10-14 - Sydney - Asian Financial Co-operation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-10-14 - Sydney - Asian Financial Co-operation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3c938a010983de96f523dcb16c228cf34197f8e895930a5f4f41070c40821d4e"
+}

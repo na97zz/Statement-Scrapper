@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Reform of the Payments System – Werribee",
+  "date_original": "2 March 2005",
+  "date_au": "02/03/2005",
+  "datetime_original": "",
+  "speaker": "Werribee",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-ag-020305.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-03-02 - Werribee - Reform of the Payments System – Werribee.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-03-02 - Werribee - Reform of the Payments System – Werribee.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "98b2f6e5947cfabdbc4f84bdb85cc454c3983045752390c3a91c366578862741"
+}

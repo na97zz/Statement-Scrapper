@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Cross-currents in the Global Economy – Canberra",
+  "date_original": "2025-10-10",
+  "date_au": "10/10/2025",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-251010.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-10-10 - Canberra - Cross-currents in the Global Economy – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-10-10 - Canberra - Cross-currents in the Global Economy – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "af83b014e2ec23c9f805d43bfdc0444546d05931ebd7111a5a8e9c888b931973"
+}

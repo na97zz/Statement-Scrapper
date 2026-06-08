@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financing the Asian Century – Sydney",
+  "date_original": "10 April 2013",
+  "date_au": "10/04/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-gov-100413.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-04-10 - Sydney - Financing the Asian Century – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-04-10 - Sydney - Financing the Asian Century – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4f3ffc63bd3aeba26cd5a662cc9b8ad321e4aebb4c102be25a20884e79e47d93"
+}

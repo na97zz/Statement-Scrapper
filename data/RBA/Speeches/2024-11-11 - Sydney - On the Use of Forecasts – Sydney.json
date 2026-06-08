@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "On the Use of Forecasts – Sydney",
+  "date_original": "2024-11-11",
+  "date_au": "11/11/2024",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-gov-241111.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-11-11 - Sydney - On the Use of Forecasts – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-11-11 - Sydney - On the Use of Forecasts – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fdc2b6468a4ebb307c59ced2ec6085fedf09cab0a5c375c5498dbcea3fd79522"
+}

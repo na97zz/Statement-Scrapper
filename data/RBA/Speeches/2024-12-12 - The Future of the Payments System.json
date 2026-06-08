@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Future of the Payments System",
+  "date_original": "2024-12-12",
+  "date_au": "12/12/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-12-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-12-12 - The Future of the Payments System.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-12-12 - The Future of the Payments System.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c8f9f09069a92cac149d2249a06c370ef11655916df0af1aa73d86b486c41dd4"
+}

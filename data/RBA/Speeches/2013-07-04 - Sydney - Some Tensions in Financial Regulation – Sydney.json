@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Tensions in Financial Regulation – Sydney",
+  "date_original": "4 July 2013",
+  "date_au": "04/07/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-dg-040713.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-07-04 - Sydney - Some Tensions in Financial Regulation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-07-04 - Sydney - Some Tensions in Financial Regulation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "35a45e0ccde72d8c2bfaff9391f6431d02dbac86759b3b53bedb3e81e5043894"
+}

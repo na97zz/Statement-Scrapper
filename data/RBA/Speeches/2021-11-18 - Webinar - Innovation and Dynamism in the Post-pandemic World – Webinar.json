@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Innovation and Dynamism in the Post-pandemic World – Webinar",
+  "date_original": "2021-11-18",
+  "date_au": "18/11/2021",
+  "datetime_original": "",
+  "speaker": "Webinar",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-ag-2021-11-18.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-18 - Webinar - Innovation and Dynamism in the Post-pandemic World – Webinar.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-18 - Webinar - Innovation and Dynamism in the Post-pandemic World – Webinar.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f677fe110d09760e8752bb746b61b8bda4b7d5bb9839998471818a24a5f21ae"
+}

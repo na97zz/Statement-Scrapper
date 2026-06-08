@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Exchanges With Evan Lucas",
+  "date_original": "2025-10-14",
+  "date_au": "14/10/2025",
+  "datetime_original": "",
+  "speaker": "Sarah Hunter",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-10-14-2.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-10-14 - Sarah Hunter - Exchanges With Evan Lucas.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-10-14 - Sarah Hunter - Exchanges With Evan Lucas.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "08eaf81919c8e24885f103c69ace1689e5d22b0021928c2b1b886103b1c5c0a8"
+}

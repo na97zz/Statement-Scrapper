@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Do Australian Households Borrow Too Much? – Sydney",
+  "date_original": "3 April 2003",
+  "date_au": "03/04/2003",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2003/sp-gov-030403.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2003-04-03 - Sydney - Do Australian Households Borrow Too Much_ – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2003-04-03 - Sydney - Do Australian Households Borrow Too Much_ – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4d3e0f9a3cc38adf8f03479a838fe5e9ad81debb3d05c308b493d45cdb94ac1e"
+}

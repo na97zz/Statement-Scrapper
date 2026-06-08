@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The State of the Mortgage Market – Sydney",
+  "date_original": "30 March 2010",
+  "date_au": "30/03/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-300310.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-03-30 - Sydney - The State of the Mortgage Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-03-30 - Sydney - The State of the Mortgage Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a77b61ffc5be98c0953d1e27594b5f6cf7e39b1b3516c8358d55ac3953d5c5d6"
+}

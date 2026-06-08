@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Aspects of Australia's Economic Situation – Sydney",
+  "date_original": "5 April 2001",
+  "date_au": "05/04/2001",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-ag-050401.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-04-05 - Sydney - Aspects of Australia's Economic Situation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-04-05 - Sydney - Aspects of Australia's Economic Situation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8b2900ea0c071460625c16a0fc4f5a31dceb313dcefb9ce49f68b22912b7b609"
+}

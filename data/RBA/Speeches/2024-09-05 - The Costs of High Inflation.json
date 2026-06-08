@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Costs of High Inflation",
+  "date_original": "2024-09-05",
+  "date_au": "05/09/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-gov-2024-09-05.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-09-05 - The Costs of High Inflation.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-09-05 - The Costs of High Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8193166ef5f4923fb7360b5d977260adbd7b3d7b332ff37b4bde9c8a8d519e3b"
+}

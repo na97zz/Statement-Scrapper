@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Business Cycle in Australia – Sydney",
+  "date_original": "13 November 2014",
+  "date_au": "13/11/2014",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-ag-131114.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-11-13 - Sydney - The Business Cycle in Australia – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-11-13 - Sydney - The Business Cycle in Australia – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5e803a552b43237191437e7f6cc6e5b010d6e090c2e9728eef8a8140621e7152"
+}

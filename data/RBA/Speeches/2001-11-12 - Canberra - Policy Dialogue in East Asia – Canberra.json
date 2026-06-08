@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Policy Dialogue in East Asia – Canberra",
+  "date_original": "12 November 2001",
+  "date_au": "12/11/2001",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-dg-121101.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-11-12 - Canberra - Policy Dialogue in East Asia – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-11-12 - Canberra - Policy Dialogue in East Asia – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "97611b6165191f08efdee9950f99eb5d5fc292697d9b50df4f995f3cde5a1b1c"
+}

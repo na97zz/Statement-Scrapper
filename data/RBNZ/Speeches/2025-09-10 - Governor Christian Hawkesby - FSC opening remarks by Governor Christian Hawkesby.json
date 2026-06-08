@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "FSC opening remarks by Governor Christian Hawkesby",
+  "date_original": "2025-09-10",
+  "date_au": "10/09/2025",
+  "datetime_original": "",
+  "speaker": "Governor Christian Hawkesby",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2025/opening-remarks-governor-christian-hawkesby-fsc-keynote-september-2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2025-09-10 - Governor Christian Hawkesby - FSC opening remarks by Governor Christian Hawkesby.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2025-09-10 - Governor Christian Hawkesby - FSC opening remarks by Governor Christian Hawkesby.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:45",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2025/opening-remarks-governor-christian-hawkesby-fsc-september-2025",
+  "content_sha256": "614e36d972d8c89a0f187bc041a9813115ac29ea919bf02bf1e5032cd908e5e3"
+}

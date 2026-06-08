@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "7 November 2023",
+  "date_original": "2023-11-07",
+  "date_au": "07/11/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2023/2023-11-07.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2023-11-07 - 7 November 2023.html",
+  "text_file_path": "data\\RBA\\Minutes\\2023-11-07 - 7 November 2023.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:24:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "22f7d26fbf54391122be949f15fb720e8954c4015d5bf4a28424fc72dac08009"
+}

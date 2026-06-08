@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Bank Funding – Sydney",
+  "date_original": "2022-03-12",
+  "date_au": "12/03/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-ag-220312.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-03-12 - Sydney - Bank Funding – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-03-12 - Sydney - Bank Funding – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ed8706f883bc7c54e18c01addd72a111d04bae72d4800fc1cca6a9971b3ee549"
+}

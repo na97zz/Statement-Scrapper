@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Ageing and Australia's Economic Outlook – Adelaide",
+  "date_original": "20 October 2014",
+  "date_au": "20/10/2014",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-ag-201014.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-10-20 - Adelaide - Ageing and Australia's Economic Outlook – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-10-20 - Adelaide - Ageing and Australia's Economic Outlook – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "195ad766b41893983535d9276e7bac5160ce57cd5699b3ec0dc5f66ef033834a"
+}

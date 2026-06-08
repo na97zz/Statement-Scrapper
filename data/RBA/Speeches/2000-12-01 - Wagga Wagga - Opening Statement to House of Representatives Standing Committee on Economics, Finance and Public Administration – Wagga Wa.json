@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to House of Representatives Standing Committee on Economics, Finance and Public Administration – Wagga Wagga",
+  "date_original": "1 December 2000",
+  "date_au": "01/12/2000",
+  "datetime_original": "",
+  "speaker": "Wagga Wagga",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-011200.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-12-01 - Wagga Wagga - Opening Statement to House of Representatives Standing Committee on Economics, Finance and Public Administration – Wagga Wa.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-12-01 - Wagga Wagga - Opening Statement to House of Representatives Standing Committee on Economics, Finance and Public Administration – Wagga Wa.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "29c912534c89c8d522793b9ef1b4c2e424d16146aa78eb3748c725e2fb32cdf6"
+}

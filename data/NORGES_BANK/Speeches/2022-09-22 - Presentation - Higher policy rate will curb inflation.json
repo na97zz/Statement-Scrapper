@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Higher policy rate will curb inflation",
+  "date_original": "2022-09-22",
+  "date_au": "22/09/2022",
+  "datetime_original": "",
+  "speaker": "Presentation",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-09-22-bache-press-conference/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-09-22 - Presentation - Higher policy rate will curb inflation.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-09-22 - Presentation - Higher policy rate will curb inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f5e3c194803a2a625bf2810d132e65c50772b1c99c6fe413fcb149046812bb63"
+}

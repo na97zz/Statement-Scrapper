@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia, New Zealand and the International Economy – Sydney",
+  "date_original": "2021-10-08",
+  "date_au": "08/10/2021",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-211008.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-10-08 - Sydney - Australia, New Zealand and the International Economy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-10-08 - Sydney - Australia, New Zealand and the International Economy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "009b5fea4a0ad7e2bb1b0d9d1eef1703d773856f6a63d37fe45bb5e7c5f847c8"
+}

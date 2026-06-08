@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Changing Relative Prices and the Structure of the Australian Economy – Sydney",
+  "date_original": "9 March 2011",
+  "date_au": "09/03/2011",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-ag-090311.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-03-09 - Sydney - Changing Relative Prices and the Structure of the Australian Economy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-03-09 - Sydney - Changing Relative Prices and the Structure of the Australian Economy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "926ebf3a8fd007d93444b8b666147f9554f36027e26cf6c49a583b87907099b3"
+}

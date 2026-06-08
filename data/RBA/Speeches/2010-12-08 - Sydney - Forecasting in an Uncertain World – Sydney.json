@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Forecasting in an Uncertain World – Sydney",
+  "date_original": "8 December 2010",
+  "date_au": "08/12/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-081210.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-12-08 - Sydney - Forecasting in an Uncertain World – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-12-08 - Sydney - Forecasting in an Uncertain World – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "62aa8dadc8d135dc64547bc7ac8d08ca5591d78376ef079b3e46d61e4ea0de46"
+}

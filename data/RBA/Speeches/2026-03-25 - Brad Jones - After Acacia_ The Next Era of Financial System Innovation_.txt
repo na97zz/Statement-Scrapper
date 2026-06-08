@@ -1,0 +1,434 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: After Acacia: The Next Era of Financial System Innovation?
+DATE: 25/03/2026
+SPEAKER: Brad Jones
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2026/sp-ag-2026-03-25.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+After Acacia: The Next Era of Financial System Innovation?
+Brad Jones
+*
+Assistant Governor (Financial System)
+Remarks at the Australian Payments Plus ‘Beyond Tomorrow’ Forum
+25 March 2026
+–
+Sydney
+Audio
+35.9MB
+Q&A Transcript
+Watch video: Speech delivered by Brad Jones, Assistant Governor (Financial System), Remarks at the Australian Payments Plus ‘Beyond Tomorrow’ Forum, Sydney
+Introduction
+Today I’d like to foreshadow the key findings from Project Acacia – our experimental project
+ into opportunities to uplift the functioning of Australia’s wholesale markets through the
+ tokenisation of assets and money. Before I do, some historical scene setting is in order.
+Seismic innovation in the way that assets and money move through the global financial system occurs
+ rarely.
+A reading of the history of past episodes suggests three enabling conditions stand out. First is a
+ compelling economic value proposition from innovation that can be scaled to meet the changing demands of
+ investors, issuers and the global economy. Second is technology that is up to the task of making the
+ system more efficient and resilient. Third is public-private coordination to break through the inertia
+ that often results from entrenched network effects in finance, and to overcome coordination failures when
+ the ultimate payoffs to reform might be uncertain and likely to accumulate only over the longer term.
+The last era to fit this characterisation was the transition from the centuries-old paper-based system of
+ ledgers and money to an electronic system. As obvious as the benefits might now seem, this transformation
+ did not occur overnight, nor did it occur without resistance from incumbents.
+So what happened? In short, the increasing demands of market participants simply overwhelmed the ability
+ of longstanding conventions to keep up. Wall Street found itself drowning in paper amid a host of
+ institutional failures, so much so that in the early 1970s the US House of Representatives Committee on
+ Commerce and Finance convened a special inquiry to investigate what could be done about the ‘paper
+ crisis’.
+1
+The result was that Wall Street turned to the latest cutting edge technology of the time (computers) to
+ keep track of the ownership of paper securities and confirmation of monetary settlement. This heralded
+ the beginning of the end of the era where purchasing a financial security or accepting securities as
+ collateral meant receiving a physical certificate in the post a week later.
+Even then, the process of ‘dematerialising’ securities and transitioning trading activity and
+ record-keeping to electronic ledgers that commenced in the late 1960s took decades to fully embed at the
+ global level. As late as 1987, just down the road from here, price discovery still consisted of the
+ scribbling of chalk on blackboards as brokers barked out orders. Comprehensive reform took a coordinated
+ push by both the private and public sectors around the world. Industry developed new infrastructure to
+ support electronic trading, clearing and settlement, record-keeping and safe custody; central banks
+ overhauled their settlement infrastructure; and legal and regulatory reform streamlined rules for
+ securities issuance and clearing and settlement licensing in a manner fit for the electronic age.
+2
+Fast forward to today, and a key question now animating policymakers globally is whether the tokenisation
+ of assets and money represents the next epoch-defining shift in the operation of the financial system, or
+ a modest extension of today’s electronic arrangements – one that is more evolution than
+ revolution. In this debate, it is important to recognise that tokenisation does not transform the
+ economics of underlying real-world claims. It is simply a process whereby money and assets are
+ represented as digital tokens that can be stored, traded and transferred on programmable platforms,
+ enabling them to interact in new ways.
+The most fervent advocates of the view that tokenised finance and related infrastructure upgrades will be
+ revolutionary emphasise a range of potential benefits:
+24/7
+trading platforms offering investors and issuers constant access to
+ liquidity and improved collateral mobility.
+Instantaneous ‘atomic’ settlement to reduce counterparty risk, where money and assets are
+ pre-positioned and can be exchanged on the same ledger on an all-or-nothing basis.
+Efficiency and functionality benefits from programming tokenised assets and money to interact in
+ predefined ways that are not currently possible.
+Cost and risk reductions for issuers and investors resulting from a reduced role for intermediaries
+ performing manual tasks relating to reconciliation, asset servicing and compliance.
+More sceptical critiques question whether these benefits will be as profound as some claim and whether the
+ challenges are understated. To name a few:
+The prospect that liquidity is fragmented across multiple trading venues or tied up in pre-funded
+ trades.
+Uncertainty about the scalability, security and resilience of underlying technologies.
+Interoperability challenges with synchronising new and existing infrastructure.
+Legal uncertainties surrounding tokenised claims and the smart contracts that govern their
+ programmability.
+There is, of course, a large space in between the extremes of these perspectives.
+A few years ago I posed the question of whether tokenised markets had a future in Australia’s
+ financial system, and if so, how new forms of money and infrastructure might support them.
+3
+We set out to
+ understand these issues through Project Acacia – a collaborative research project with the Digital
+ Finance Cooperative Research Centre (DFCRC) and industry – examining whether tokenised forms of
+ money and assets could enhance the functioning of our wholesale asset markets. The Payments System Board
+ and Council of Financial Regulators (CFR) have engaged closely in this initiative, recognising the
+ significant global momentum now building in this direction, and that dynamism in our wholesale financial
+ markets has significantly lagged that in other areas of the Australian financial system like retail
+ payments.
+Let me cut to the chase on our main findings and the path ahead.
+First, we no longer see the main question as
+whether
+tokenisation has a future in
+ Australia’s financial system, but rather,
+how
+. Our findings in Project Acacia build on
+ those from our previous central bank digital currency (CBDC) pilot,
+4
+and external research, in suggesting
+ the potential for tokenisation – when coupled with infrastructure design and payment system
+ upgrades – to reduce risk while unlocking greater efficiency and functionality in our wholesale
+ markets. Analysis recently published by the DFCRC quantified these potential gains for the Australian
+ economy in the order of $24 billion per annum, and larger still if new markets emerged and second
+ round effects are included.
+5
+To be sure, tokenisation gives rise to a number of
+ issues that should be subjected to closer scrutiny – a point we have previously stressed. But we
+ have now seen enough to warrant intensified focus on
+how
+some of the potential benefits
+ might be realised, consistent with system-wide stability.
+Second, realising even a fraction of these potential benefits in coming years will require longstanding
+ impediments to innovation in Australia’s financial system to be addressed. As much as Project Acacia
+ has revealed strong industry interest in tokenised finance, a range of factors have stymied dynamism in
+ our wholesale markets to date: a lack of competitive tension reflecting entrenched network effects; risk
+ aversion, partly reflecting perceived legal and regulatory uncertainty; and coordination
+ failures that have made strategic planning difficult.
+Third, and most holistically, unlocking a new spirit of innovation in our wholesale markets is beyond the
+ scope of any individual institution, public or private. The coordination challenges are very real.
+ Unleashing more dynamism in Australia’s financial economy, enhancing our attractiveness as a
+ destination for capital in the digitalising global economy, and strengthening our sovereign resilience at
+ the same time, is likely to require a Team Australia effort. This will require all stakeholders to
+ approach things differently. In the background is the momentum already building in key financial centres:
+ witness, for instance, the sharp increase in tokenised asset issuance internationally (Graph 1);
+ daily activity in tokenised repo markets in the United States now approaching US$400 billion; the US
+ Securities and Exchange Commission’s recent rule change allowing the Nasdaq to facilitate trading of
+ tokenised equities; and Clearstream’s launch of a tokenised securities platform.
+6
+To that end, the RBA will be partnering with other CFR agencies, the DFCRC and industry, in pursuit of an
+ ambitious program of initiatives to support responsible innovation in Australia. A focal point for this
+ effort will be the RBA’s exploration with the DFCRC into a new digital financial market
+ infrastructure (DFMI) sandbox. This could allow industry and policymakers to build on the learnings from
+ Acacia and smooth the path to practical implementation by providing a safe space for the testing and
+ scaling of tokenised money, assets and new infrastructure in a longer term, stage-gated environment. To
+ maximise synergies, this exploration will commence following the independent review commissioned by the
+ Australian Government into Australia’s financial sandbox arrangements.
+7
+Graph 1
+Insights from Project Acacia – industry and policy perspectives
+Assisted with regulatory relief from ASIC and AUSTRAC, industry participants in Project Acacia explored
+ 20 use cases involving a range of assets, forms of money and settlement arrangements (Table 1).
+The project benefited from the diverse range of domestic and international participants: among them were
+ banks; custodians; fintechs; payment system and financial market infrastructure operators; fund managers;
+ stablecoin issuers; and technology providers.
+Tokenised assets ranged from government and corporate bonds, repo, and bank term deposits, to investment
+ funds, trade payables and mining royalties – among many others. Settlement was largely conducted in
+ two forms of private money (stablecoins and bank deposit tokens) and two forms of central bank money
+ (wholesale CBDC, and exchange settlement account (ESA) balances). Private and public distributed ledger
+ technology platforms were utilised, and a novel element of Acacia was the issuance of a wholesale CBDC
+ onto external ledgers to better understand the associated efficiency and safety issues.
+As I will set out in a moment, the project findings were broader than initially envisaged, extending
+ beyond tokenisation to include broader pathways to spurring dynamism in Australia’s wholesale
+ financial system.
+Table 1: Assets and Money Featuring in Project Acacia Use Cases
+(a)
+Money
+Central bank money
+(wholesale CBDC and ESA balances)
+Tokenised private money
+(stablecoins and bank deposit tokens)
+Asset Class
+Fixed income
+Government bonds
+Government bond repos
+Corporate bonds
+Term deposits
+Government bonds
+Corporate bonds
+Term deposits
+Certificates of
+ deposit
+Annuities
+Asset-backed securities
+Investment funds and other assets
+Carbon credits
+Private credit funds
+Trade payables
+Investment funds
+Mining royalties
+(a) For example, tokenised government bond transactions were settled in both central
+ bank money and private tokenised money, while tokenised investment funds were only
+ settled in private tokenised money.
+Source: RBA.
+Tokenised assets
+Let me begin with some insights on the tokenisation of assets.
+First, the intensity of industry engagement in the project revealed to us a strong and growing appetite to
+ explore how the potential of tokenised asset markets could be realised, including through more creative
+ use of market infrastructure. Project use cases highlighted several ways for value to be unlocked:
+ through improved capital efficiency via reduced settlement frictions and shorter settlement cycles,
+ reduced counterparty risk, automation of asset lifecycle management, and lower manual processing errors.
+ Use cases also showed how tokenisation could be used to create assets that appealed to new investor
+ profiles, potentially opening new channels for funding and liquidity. The programmability of tokenised
+ assets and money also opened up opportunities to introduce advanced functionality in financial products
+ and services that would be difficult or impossible to achieve with conventional forms of money and
+ infrastructure.
+Second, the project highlighted considerable industry interest in tokenising fixed income and related
+ assets. This is consistent with trends in the United States and elsewhere (Graph 1; Graph 2).
+ It is also in line with previous analysis by the RBA and DFCRC highlighting that aggregate efficiency
+ gains from tokenisation could be material in existing markets because of their size (even if
+ gains-per-trade are modest), reflecting in part that innovation in Australia’s wholesale markets has
+ lagged other parts of our financial system.
+8
+As a case in point, the manner in which banks raise
+ funding in term deposit markets (accounting for around 15 per cent of total funding) has
+ changed little in a generation: price discovery, placements and confirmation continue to largely occur
+ over a mix of antiquated technology – telephones, branches, email and spreadsheets – and
+ settlement is far from instantaneous. There was particular interest in the tokenisation of government
+ bonds, given the critical role they play in the financial system as a safe asset and pricing benchmark
+ for other credit instruments. For this reason, several jurisdictions, including the United Kingdom, are
+ undertaking tokenised government bond pilots.
+Graph 2
+A third insight was that industry participants generally viewed ‘digitally native’ asset
+ issuance as the preferred target end state, but recognised that the intermediate path of issuing asset
+ tokens as ‘digital twins’ is more realistic as tokenised markets develop. In digitally native
+ issuance, a token is the primary record of value and ownership on the ledger, eliminating the need for
+ reconciliation with other (off-chain) records; by contrast, tokens that are digital twins represent a
+ claim on underlying assets that are recorded in an off-ledger register, thus requiring a bridge between
+ the two. While industry is attracted to features of native issuance like reduced reconciliation,
+ streamlined custody and increased programmability, legal and operational considerations mean the path of
+ least resistance is likely skewed toward the digital twin model in the near term.
+A fourth insight was the importance of interoperability – between new and existing financial
+ infrastructure, and between systems that operate domestically and those in international financial
+ centres. I will return to the former in a moment. On the latter, I would simply note that reflecting
+ Australia’s status as an open economy, our financial markets strongly benefit from active
+ participation by foreign investors – they keep the cost of capital for Australian issuers lower,
+ and liquidity in our markets higher, than otherwise (Graph 3). Investors from the United States,
+ where tokenised markets are developing most rapidly, account for the largest source of foreign investment
+ in our fixed income markets. A key implication is that if tokenised markets in Australia are to scale,
+ they will need to offer a safe and seamless experience for investors abroad – building a domestic
+ walled garden won’t do.
+Graph 3
+A more general insight was that for all this interest, industry has been grappling with impediments to
+ large-scale commercial adoption. A consistent theme was that further exploration of commercialisation
+ pathways will require closer coordination across industry, regulators and Government. Greater legal
+ clarity, including over the enforcement of on-chain records and settlement finality, were cited as
+ important to unlocking private investment. On the regulatory side, questions focused on the applicability
+ of financial product designations in tokenised settings, how emerging digital financial market
+ infrastructures fit within existing licensing frameworks – particularly when the clearing function
+ is eliminated in tokenised markets – and how prudential standards apply to banks’ digital
+ asset exposures.
+Tokenised money
+Let me now turn to the main insights relating to tokenised money.
+First, use cases highlighted that in the long run, locating tokenised assets and money on the same ledgers
+ could yield the largest efficiency gains and operational and settlement risk reduction benefits.
+9
+However, there
+ are a range of issues – policy, legal and technological – that need to be interrogated before
+ this vision comes to pass. This might point to intermediate pathways in the near term where tokenised
+ assets and money reside on separate ledgers (as today), but are able to seamlessly interact via so-called
+ synchronisation bridges. Indeed, some use cases found this approach to be implementable today, and that
+ it entailed minimal loss in settlement efficiency compared with more advanced arrangements involving a
+ common ledger.
+Second, the project revealed growing industry interest in the issuance of tokenised private money –
+ stablecoins and bank deposit tokens. The experience in the United States and to some extent, Europe, has
+ been that large banks are incentivised to issue deposit tokens when stablecoins are seen to pose a
+ competitive threat and commercial opportunities arise from activity in tokenised markets. It will be
+ intriguing to see if this pattern emerges in Australia following the passage of domestic stablecoin
+ licensing reforms and the growing circulation of stablecoins internationally. One possibility in the
+ years ahead is that stablecoins and bank deposit tokens have complementary roles: stablecoins playing a
+ niche role in settlement for smaller greenfield tokenised markets, and bank deposit tokens having a more
+ prominent role in larger markets. This reflects differences in their ability to scale (given stablecoins
+ need to import trust through full reserve backing), and that bank deposit tokens build on the trust of
+ existing bank deposits supported by a long history of prudential regulation and recourse to central bank
+ liquidity facilities.
+Third, the project pointed to a sequential role for central bank money and settlement infrastructure
+ upgrades – one that could expand alongside the growth in tokenised markets. Some participants
+ found that more expansive use of existing fast payment rails (via the New Payments Platform) and existing
+ central bank infrastructure could yield meaningful progress in the near-term. An example was a
+ synchronisation mechanism to orchestrate delivery-vs-payment (DvP) settlement between tokenised asset
+ platforms and the existing interbank settlement system (RITS) operated by the RBA. I would note here a
+ similar concept already exists to support property market transactions, where titles and pre-allocated
+ exchange settlement balances are exchanged. A wholesale CBDC was viewed by industry as potentially
+ helpful, but far from essential, for tokenised markets to get off the ground – as developments in
+ the United States had shown. However, as I have previously noted (and the
+Principles for Financial
+ Market Infrastructures
+allude to), if tokenised markets were to become systemically important,
+ then the case for issuing wholesale CBDC – as the ultimate safe asset with potentially superior
+ functionality to existing reserves – would strengthen from a financial stability perspective. As
+ would more material upgrading of central bank settlement infrastructure. I will return to this in a
+ moment.
+Life after Project Acacia: The path ahead
+Opportunities to uplift the functioning of our wholesale markets should be seen in the context of our
+ larger national challenges around a lack of economic dynamism and need to shape international
+ technological disruption in Australia’s national interest.
+In this spirit, the final report on Project Acacia will outline a range of initiatives to be progressed by
+ the RBA in conjunction with our CFR partners, the DFCRC and industry. This approach reflects the
+ overarching takeaway from Acacia – stronger coordination across the private and public sectors is
+ needed to ensure our markets are fit for the future. Tokenisation by itself is no silver bullet, but
+ might instead be seen as one element of an enhanced payments and financial ecosystem that better serves
+ the needs of the economy in the digital age.
+First, the RBA will explore with the DFCRC how a new sandbox could better support responsible innovation
+ in wholesale markets. Project Acacia and our previous CBDC pilot have been valuable in surfacing a range
+ of issues associated with tokenisation. But there is now a recognised need to move beyond short-term
+ pilots, towards longer term, stage-gated environments in which industry can better progress ideas to
+ commercialisation, and regulators can learn about new technologies and safely adjust their policy
+ settings if needed. The interaction of wholesale CBDC with bank deposit tokens and stablecoins, and the
+ synchronisation of tokenised asset ledgers with RITS, will be particular areas of interest.
+ Internationally, the synchronisation of asset and settlement ledgers is becoming viewed as a way of
+ making practical, sequential progress – that is, ahead of larger investment commitments by industry
+ and policy commitments by central banks on wholesale CBDC and overhauling settlement systems. We will be
+ seeking industry input on these issues, drawing on the type of functionality that already exists for
+ property settlement and international insights from initiatives like the Bank of England’s
+ Synchronisation Lab. We envisage this consultation would feed into the RBA’s longer term work into
+ options for RITS modernisation, aimed at ensuring our critical settlement infrastructure can support the
+ evolving needs of the financial system well into the future.
+Second, the RBA will be reviewing its policies for entities that can access ESAs to support competition and innovation in payments. We expect to commence this review once the first tranche of the Government’s payment
+ service provider licensing reforms has passed Parliament. In the meantime, we are engaging with peer
+ central banks to better understand the competition and financial stability implications from stablecoin
+ issuers holding funds in central bank deposits. We note the regulatory framework for the licensing and
+ prudential supervision of issuers of Australian dollar-denominated stablecoins is an important pillar of
+ the Government’s approach to developing responsible innovation in the Australian digital asset
+ industry.
+Third, in recognising the substantial role that open capital markets and international trade play in the
+ Australian economy, the RBA will also be stepping up its work in cross-border payments. This includes by
+ exploring with peer central banks how new forms of money and settlement infrastructure could enhance
+ wholesale cross-border payments. We will have more to say about this during the year.
+We also plan to partner with CFR agencies and industry on other joint initiatives. For instance, we will
+ shortly invite industry to participate in a joint Regulator-Industry Tokenisation Advisory Group, as an
+ extension of the forum that provided valuable input over the past year. The objective here would be for
+ regulators and industry to address regulatory, legal and other challenges relating to tokenised assets
+ and money that were first surfaced in Acacia. Industry told us they valued the opportunity to discuss
+ these challenges openly and with all regulators in the one room, so we see this forum as a way to keep
+ the constructive engagement going.
+Recognising the central role of our commercial banks in the safe and efficient operation of the payment
+ system – and the two-tier monetary system that has served the country well – an expanded
+ version of the Deposit Token Working Group will also be convened. The aim here is to build on the
+ progress of the related group in Project Acacia by developing practical solutions to support the
+ interoperability of deposit tokens issued by different banks.
+Finally, CFR agencies will convene an industry C-suite Roundtable on the Future of Digital Finance in
+ Australia. This forum would be aimed at facilitating more regular senior-level engagement on
+ international developments as they relate to opportunities and challenges for the country in uplifting
+ the functioning of our wholesale markets.
+Concluding remarks
+It is impossible to foresee where technological change might take the financial system a decade or two
+ down the road. Some innovations will break through. Others will not survive deeper scrutiny. It remains
+ an open question where tokenisation will eventually place here. What I can confirm is that ensuring
+ Australia’s payments, monetary and financial infrastructure arrangements are fit for purpose in the
+ digital age is a strategic priority for the RBA and the Payments System Board. This is why we are
+ committed to working with industry and fellow regulators to deepen our understanding of the issues
+ presented by tokenised finance.
+Let me conclude with two reflections.
+First, we could do well to draw on our history of financial innovation that has allowed Australia to punch
+ above its weight on the international stage in some key areas. After a couple of decades of investment by
+ the RBA and the CSIRO, Australia became the first country to develop modern polymer banknotes – a
+ solution to the problems of forgery and damage that plagued paper-based notes for centuries and one that
+ has since reshaped global currency manufacturing. Australia’s pioneering superannuation system has
+ grown to be the envy of many retirement systems around the world. In retail payments, Australia’s
+ fintech capabilities have long been distinguished by world-class innovation. And the introduction of the
+ New Payments Platform nearly a decade ago encompassed functionalities that were on the global frontier.
+ In different ways, these innovations all reflected the elements of scalable economic value, robust
+ technology and public-private engagement I mentioned at the outset.
+Second, the path ahead I have set out today should be viewed as part of a larger effort by the Australian
+ policy community to ensure our financial system is positioned for a more dynamic future. This includes
+ the Government’s current review of Australia’s financial sandbox arrangements and forthcoming
+ licensing and digital asset platform reforms,
+10
+and ASIC’s analysis of regulatory and legal
+ barriers to asset tokenisation and its broader work program around strengthening Australia’s capital
+ markets.
+11
+The bottom line is this – a financial system that is more dynamic and resilient to technological
+ disruption is in our national interest. But it will take a Team Australia effort. Thanks to everyone
+ involved in Project Acacia for being part of this journey so far.
+Endnotes
+*
+I would like to thank
+ Jack Hillier, Kylie Stewart and Chris Thompson for their assistance in the preparation of these
+ remarks. All errors are my own.
+1
+New York Stock
+ Exchange (1971), ‘Crisis in the Securities Industry – A Chronology:
+1967–1970
+’, Paper prepared for the Subcommittee on Commerce
+ and Finance, Committee on Interstate and Foreign Commerce, House of Representatives.
+2
+A century earlier, a
+ more rapid wave of global financial innovation was ushered in with the introduction of electric
+ telegraph lines and the Transatlantic Cable, two technological developments that removed enormous
+ friction from the global economy and financial system. Faster transmission of information
+ collapsed distance and time. Market participants no longer had to be physically present at an
+ exchange to trade. Transoceanic communication delays were slashed from one to two weeks to
+ minutes or seconds. Transaction costs plummeted. And financial markets traded with a level of
+ efficiency that would have previously seemed unimaginable.
+3
+Jones B (2023),
+ ‘
+A Tokenised Future for the Australian
+ Financial System?
+’, Speech at the Australian Financial Review Cryptocurrency Summit,
+ Sydney, 16 October.
+4
+RBA and DFCRC (2023),
+ ‘
+Australian
+ CBDC Pilot for Digital Finance Innovation
+’, Project Report, August.
+5
+DFCRC (2026),
+ ‘Unlocking Australia’s $24b Digital Finance Opportunity’, Report, March.
+6
+Clearstream (2025),
+ ‘D7 DLT: Clearstream Launches Tokenized Securities Platform’, Media Release,
+ 4 November; Nasdaq (2026), ‘Nasdaq to Launch Equity Token Design, Putting Issuers at
+ the Center of Tokenization’, Press Release, 9 March; Broadridge (2026),
+ ‘Broadridge’s Distributed Ledger Repo Platform Achieves 457% Year Over Year Growth in
+ February’, Press Release, 9 March.
+7
+The Treasury (2025),
+ ‘Independent Review of the Enhanced Regulatory Sandbox’.
+8
+Jones, n 3; DFCRC, n
+ 5.
+9
+Similar points have
+ been made by the Bank for International Settlements, among others.
+10
+Project Acacia was
+ also one of the government initiatives highlighted in The Treasury (2025), ‘Statement on
+ Developing an Innovative Australian Digital Asset Industry’, March.
+11
+ASIC has already
+ licensed one entity to trade and settle shares in private companies and units in managed
+ investment schemes, making it one of the first licenced tokenised markets in the world, and has
+ also granted licences to a number of firms to provide tokenised assets and stablecoins. See Longo
+ J (2026), ‘Shaping a Stronger Future for the Asia Pacific’, Keynote address at the
+ ASIFMA Annual Conference, Sydney, 5 March.

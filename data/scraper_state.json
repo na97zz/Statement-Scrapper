@@ -1,0 +1,60 @@
+{
+  "status": "finished",
+  "phase": "finished",
+  "selected_banks": [
+    "SNB",
+    "BOC",
+    "RIKSBANK",
+    "NORGES_BANK"
+  ],
+  "total_banks": 4,
+  "bank_position": 4,
+  "started_at": "2026-06-03T12:52:02",
+  "summaries": [
+    {
+      "bank": "SNB",
+      "saved": 83,
+      "skipped": 41,
+      "failed": 0
+    },
+    {
+      "bank": "BOC",
+      "saved": 44,
+      "skipped": 1,
+      "failed": 0
+    },
+    {
+      "bank": "RIKSBANK",
+      "saved": 159,
+      "skipped": 8,
+      "failed": 0
+    },
+    {
+      "bank": "NORGES_BANK",
+      "saved": 69,
+      "skipped": 14,
+      "failed": 0
+    }
+  ],
+  "error": "",
+  "updated_at": "2026-06-03T13:10:07",
+  "current_bank": "",
+  "current_category": "",
+  "current_url": "",
+  "current_title": "",
+  "category_position": 2,
+  "candidate_position": 62,
+  "candidate_total": 62,
+  "last_message": "Scraper runner finished",
+  "category_total": 2,
+  "bank_saved": 69,
+  "bank_skipped": 14,
+  "bank_failed": 0,
+  "last_result": "saved",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2021-02-18 - Unknown Speaker - Economic perspectives.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2021-02-18 - Unknown Speaker - Economic perspectives.txt",
+  "listing_page_position": 1,
+  "listing_page_total": 1,
+  "discovered_candidates": 0,
+  "finished_at": "2026-06-03T13:10:07"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Modernizing Federal Reserve Operations in the 21st Century",
+  "date_original": "2026-04-21",
+  "date_au": "21/04/2026",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20260421a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-04-21 - Christopher J. Waller - Modernizing Federal Reserve Operations in the 21st Century.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-04-21 - Christopher J. Waller - Modernizing Federal Reserve Operations in the 21st Century.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "38988878a74076586f60ac02033044e1778a18ac40ca425e7c6fdd6c56e839e1"
+}

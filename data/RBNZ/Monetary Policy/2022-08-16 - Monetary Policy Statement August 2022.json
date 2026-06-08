@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement August 2022",
+  "date_original": "2022-08-16",
+  "date_au": "16/08/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2022/mps-aug22/august-2022-monetary-policy-statement.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2022-08-16 - Monetary Policy Statement August 2022.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2022-08-16 - Monetary Policy Statement August 2022.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:55",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/monetary-policy-statement-august-2022",
+  "content_sha256": "e32ca88c3c654d99fa9945ea0a49146d1bcb034ac7a70f635ef4649709afb912"
+}

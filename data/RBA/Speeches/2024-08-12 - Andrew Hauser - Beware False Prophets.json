@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Beware False Prophets",
+  "date_original": "2024-08-12",
+  "date_au": "12/08/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-08-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-08-12 - Andrew Hauser - Beware False Prophets.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-08-12 - Andrew Hauser - Beware False Prophets.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9181e43711bb348e7355f1e2192378f4fd59bfb64e4ab8fb0cda03f28264236b"
+}

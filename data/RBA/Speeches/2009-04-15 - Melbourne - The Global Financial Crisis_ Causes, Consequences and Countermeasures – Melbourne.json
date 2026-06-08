@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Global Financial Crisis: Causes, Consequences and Countermeasures – Melbourne",
+  "date_original": "15 April 2009",
+  "date_au": "15/04/2009",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-so-150409.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-04-15 - Melbourne - The Global Financial Crisis_ Causes, Consequences and Countermeasures – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-04-15 - Melbourne - The Global Financial Crisis_ Causes, Consequences and Countermeasures – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d974513c0ffda726ccf13485484a97ee01251dba94aa7a0357a0a9a295acdb72"
+}

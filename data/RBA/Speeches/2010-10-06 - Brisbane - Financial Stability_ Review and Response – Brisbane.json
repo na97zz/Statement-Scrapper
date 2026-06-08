@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financial Stability: Review and Response – Brisbane",
+  "date_original": "6 October 2010",
+  "date_au": "06/10/2010",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-so-061010.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-10-06 - Brisbane - Financial Stability_ Review and Response – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-10-06 - Brisbane - Financial Stability_ Review and Response – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "804cea28c2c0a52a4fe4eec3049d550b5ce9f25310a7fea6c1f8f0b39e6d5f55"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Domestic Outlook and the Role of Mining – Sydney",
+  "date_original": "2021-11-14",
+  "date_au": "14/11/2021",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-so-211114.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-14 - Sydney - The Domestic Outlook and the Role of Mining – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-14 - Sydney - The Domestic Outlook and the Role of Mining – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "65ac442557975b3c71988d4327ca531fc4c1b6776ec5c4d5bfd5dc12aa9aa335"
+}

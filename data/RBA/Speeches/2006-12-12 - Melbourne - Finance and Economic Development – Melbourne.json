@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Finance and Economic Development – Melbourne",
+  "date_original": "12 December 2006",
+  "date_au": "12/12/2006",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-gov-121206.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-12-12 - Melbourne - Finance and Economic Development – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-12-12 - Melbourne - Finance and Economic Development – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e073353eb7ec65c3b01572a8eeb407142275d33459349d69b3370fdc2d979702"
+}

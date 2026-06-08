@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Address to Euromoney Australasian Capital Markets Forum – Sydney",
+  "date_original": "14 March 2000",
+  "date_au": "14/03/2000",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-140300.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-03-14 - Sydney - Opening Address to Euromoney Australasian Capital Markets Forum – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-03-14 - Sydney - Opening Address to Euromoney Australasian Capital Markets Forum – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f461cb703f18bd3dfe029134ae6f989e474c8d4f9d2df68cf88293663399a795"
+}

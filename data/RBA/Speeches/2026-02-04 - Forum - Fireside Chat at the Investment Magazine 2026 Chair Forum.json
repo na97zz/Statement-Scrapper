@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Investment Magazine 2026 Chair Forum",
+  "date_original": "2026-02-04",
+  "date_au": "04/02/2026",
+  "datetime_original": "",
+  "speaker": "Forum",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-ag-2026-02-04.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-02-04 - Forum - Fireside Chat at the Investment Magazine 2026 Chair Forum.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-02-04 - Forum - Fireside Chat at the Investment Magazine 2026 Chair Forum.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "aaf62e78d8c4020754d655b6af1083c5db1ccf91c5fdafa8237b9ca151efc56f"
+}

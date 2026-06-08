@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Australian Economy: Then and Now – Sydney",
+  "date_original": "15 May 2008",
+  "date_au": "15/05/2008",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-150508.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-05-15 - Sydney - The Australian Economy_ Then and Now – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-05-15 - Sydney - The Australian Economy_ Then and Now – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8b7f24ee308b2cd497fffed073de3c528982d9df3842d03973d198835a3ef92c"
+}

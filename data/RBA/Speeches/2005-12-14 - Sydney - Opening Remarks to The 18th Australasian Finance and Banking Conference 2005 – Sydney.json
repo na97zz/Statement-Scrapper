@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Remarks to The 18th Australasian Finance and Banking Conference 2005 – Sydney",
+  "date_original": "14 December 2005",
+  "date_au": "14/12/2005",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-dg-141205.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-12-14 - Sydney - Opening Remarks to The 18th Australasian Finance and Banking Conference 2005 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-12-14 - Sydney - Opening Remarks to The 18th Australasian Finance and Banking Conference 2005 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6831868e19bed30f472995d4d0b79dfa1b3e08b3245a23b3871b35c5ec78aac7"
+}

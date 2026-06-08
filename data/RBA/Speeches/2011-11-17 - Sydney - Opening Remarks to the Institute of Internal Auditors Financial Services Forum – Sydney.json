@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Remarks to the Institute of Internal Auditors Financial Services Forum – Sydney",
+  "date_original": "17 November 2011",
+  "date_au": "17/11/2011",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-gov-171111.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-11-17 - Sydney - Opening Remarks to the Institute of Internal Auditors Financial Services Forum – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-11-17 - Sydney - Opening Remarks to the Institute of Internal Auditors Financial Services Forum – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4e1ce0b91412767c272d33fd2920c14e61edd096feaf3399d79d3bb6d519e2e9"
+}

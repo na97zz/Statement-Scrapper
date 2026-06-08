@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economic Scene – Adelaide",
+  "date_original": "3 September 2014",
+  "date_au": "03/09/2014",
+  "datetime_original": "",
+  "speaker": "Adelaide",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-gov-030914.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2014-09-03 - Adelaide - The Economic Scene – Adelaide.html",
+  "text_file_path": "data\\RBA\\Speeches\\2014-09-03 - Adelaide - The Economic Scene – Adelaide.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6c04a59cf3d8a009c116e5e151151ea464b6c444eee03b869fefec182af05dea"
+}

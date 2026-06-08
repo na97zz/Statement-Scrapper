@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "How Are Households Placed for Interest Rate Increases? – Brisbane",
+  "date_original": "2022-07-19",
+  "date_au": "19/07/2022",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-dg-2022-07-19.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-07-19 - Brisbane - How Are Households Placed for Interest Rate Increases_ – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-07-19 - Brisbane - How Are Households Placed for Interest Rate Increases_ – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7c44822c0a491fb3c910b95f5c569f8153b467c8564180f6287177124187e100"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Global Outlook – Sydney",
+  "date_original": "18 February 2009",
+  "date_au": "18/02/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-180209.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-02-18 - Sydney - The Global Outlook – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-02-18 - Sydney - The Global Outlook – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "84c93e6523af26759694c09c073510efcf719d2ad058da550a3ce9fef5f4476a"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The State of Play in the Securitisation Market – Sydney",
+  "date_original": "30 November 2010",
+  "date_au": "30/11/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-301110.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-11-30 - Sydney - The State of Play in the Securitisation Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-11-30 - Sydney - The State of Play in the Securitisation Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e5b933d744626ebc9cb90e9e4d749ff337450f0b57e76096cf8833813dfd3659"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Price Stability, the Supply Side and Prosperity – Melbourne",
+  "date_original": "2022-11-22",
+  "date_au": "22/11/2022",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-11-22.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-11-22 - Melbourne - Price Stability, the Supply Side and Prosperity – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-11-22 - Melbourne - Price Stability, the Supply Side and Prosperity – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bf8d95bb8c10506c59fb69ace3c6388858f825a90f1a1b4fe4f64d1400bb33dd"
+}

@@ -1,0 +1,611 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Online Retail Payments – Some Policy Issues
+DATE: 18/06/2024
+SPEAKER: Some Policy Issues
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2024/sp-so-2024-06-18.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Online Retail Payments – Some Policy Issues
+Ellis Connolly
+[
+*
+]
+Head of Payments Policy
+Speech at the Merchant Risk Council Conference
+Melbourne
+–
+18 June 2024
+Audio
+62.1MB
+Download
+552KB
+Introduction
+Thank you for the opportunity to speak at the Merchant Risk Council (MRC) Conference. The MRC has an
+ important role to play, bringing together merchants, service providers, regulators and law enforcement to
+ make e-commerce safer and more efficient all around the world.
+The payments landscape in Australia is continuing to evolve rapidly, with new business models and
+ technologies emerging. This is particularly the case for online retail payments, which I will focus on
+ today. But first, I will provide you with a brief update on the Australian Government’s reforms to
+ the RBA’s regulatory role in payments and on the RBA’s upcoming review of retail payments
+ regulation.
+Payments regulatory reform
+We have been working with the Government to modernise the
+Payment Systems (Regulation) Act 1998
+(PSRA),
+ which is the legislation that contains the RBA’s regulatory powers. This
+ legislation was established in the late 1990s, when the payments ecosystem was much smaller and simpler
+ than it is today. The reforms to the PSRA will update the definitions of a ‘payment system’ and
+ ‘participant’ so that newer players can also be regulated if necessary. This will include some
+ systems and participants that are increasingly prominent in online retail payments, such as payment
+ gateways, payment facilitators, digital wallet providers and ‘buy now, pay later’ (BNPL)
+ services. The RBA will continue to have a broad mandate to promote efficiency, competition and safety in
+ the payments system. For issues beyond the mandate of the RBA, the reforms will also make it possible for
+ the Government to nominate a relevant regulator to use the powers under the PSRA in the national
+ interest.
+Upcoming RBA review of retail payments regulation
+Once the reforms to the PSRA are in place, the RBA will launch a holistic review of retail payments
+ regulation. It is good practice to review and reflect on current regulations. It will also enable us to
+ consult widely on areas where regulation under the PSRA might be required to promote safety, competition
+ and efficiency. This review will help us to set our regulatory priorities for the next few years.
+Consistent with the original intent behind the PSRA, the RBA’s approach to achieving our mandate will
+ continue to focus on encouraging the payments industry to address efficiency, competition and safety
+ issues itself. At the same time, the RBA will continue to stand ready to use its formal regulatory powers
+ whenever necessary to achieve its mandate. To help us to determine when issues may justify regulatory
+ intervention, we rely on some key principles:
+Transparency
+is important, since it can help inform users’ payment choices,
+ promoting competition, efficiency and safety.
+Businesses should have
+freedom of choice
+on which payment methods they accept.
+Accurate price signals
+can help users make efficient choices.
+Fair access and innovation
+can support competition and efficiency.
+Retail payment systems should be
+safe and efficient
+.
+As part of the review, we will ask stakeholders whether these principles remain appropriate for guiding
+ our approach to regulation across a broader range of payment systems and participants.
+The review will also focus on some specific issues, including:
+The transparency of payment services.
+An area where greater transparency may be
+ beneficial is transaction fees, to help merchants make informed choices and to promote competition
+ between payment system operators and between payment service providers. Examples include the scheme
+ fees levied by operators and the fees charged by providers.
+Merchant payment costs.
+Service fees for small businesses are much higher than for
+ larger merchants. In this context, the RBA has been strongly encouraging financial institutions to
+ provide merchants with ‘least-cost-routing’ (LCR) to enable them to route debit
+ transactions to the lowest-cost card network (eftpos, Mastercard or Visa). We will be asking what
+ more could be done to help lower payment costs for small businesses, particularly in a world where
+ electronic payments are ubiquitous.
+Surcharging.
+The RBA’s surcharging regulations aim to encourage consumers to
+ use lower-cost payment methods and strengthen the bargaining position of merchants relative to
+ payment system operators. However, the payments landscape is very different to when surcharging was
+ introduced. Many consumers have shifted from paying by cash to cards and there is increased public
+ concern about payment surcharges. So, it is time to ask whether the surcharging framework is still
+ fit for purpose and whether any changes need to be made.
+Mobile wallets.
+Consumers have embraced using mobile wallets for payments in recent
+ years. They are benefiting from the greater convenience and enhanced security that mobile wallets can
+ provide. At the same time, there are issues around the transparency of the fees charged by some
+ mobile wallet providers to card issuers, and competition issues relating to restrictions on access to
+ ‘near-field communication’ technology for third-party apps.
+The cost and transparency of cross-border payments.
+Despite some improvements over
+ recent years, the cost of cross-border payments continues to be very high relative to domestic
+ payments. We will be asking whether there is a case for policy action to lower the cost and increase
+ the transparency of cross-border payment services for consumers and merchants and, if so, what form
+ such action should take.
+Many of these issues involve online retail payments, to which I will now turn.
+Online retail payments in Australia
+Online retail payments are growing strongly in Australia, driven by the long-term rise in e-commerce. In
+ the consumer payments survey that we run every three years, 40 per cent of consumer payments
+ (by value) were online in 2022, up from 13 per cent back in 2007. Over half of consumer
+ payments for services were made online, especially for holidays, leisure and paying bills. The payment
+ methods used by consumers online are quite diverse, including cards, ‘pay-anyone’ transactions
+ through internet banking, BPAY, digital wallets and BNPL services.
+Over the past 10 years, most of the growth in online retail payments has been in cards, so I will
+ start off by outlining some of the policy issues we are looking at in this space. I will then provide an
+ update on what we know about volume and cost trends in BNPL services. And I will finish by looking to a
+ future where account-to-account services through fast payment systems could inject more competition into
+ online retail payments.
+Policy issues in card payments
+There are four policy issues that I would like to briefly focus on:
+The cost of card payments for end users, particularly trends in scheme fees and international card
+ transaction costs.
+How the least-cost routing of online debit card transactions can help lower merchant costs.
+Promoting competition for payment services on e-commerce platforms.
+Introducing more standardisation for tokenisation in online card payments.
+The cost of card payments for end users
+The RBA has a longstanding focus on payment costs for merchants, as a key indicator of the efficiency and
+ competitiveness of our payments system. Looking at the average transaction costs for cards issued in
+ Australia, debit cards cost merchants around 0.4 per cent, credit cards cost around
+ 0.8 per cent and charge cards cost around 1.3 per cent (Graph 1).
+[1]
+The
+ wholesale costs of debit and credit card payments (which are the interchange fees paid by acquirers to
+ issuers and the scheme fees paid by issuers and acquirers to the card networks) explain half of
+ merchants’ debit card costs and most of credit card costs. The remainder is the margins acquirers
+ charge merchants above the wholesale costs. These margins include the acquirers’ costs of providing
+ payment services along with their profits. The charge card model is different, with no separation between
+ wholesale costs and acquirer margins since the charge card networks have commercial relationships
+ directly with merchants.
+Graph 1
+Merchant fees have come down over the past 20 years, supported by regulatory interventions by the
+ RBA. These included capping interchange fees and allowing merchants to recover their costs through
+ surcharging, which gave merchants more bargaining power in their negotiations with payment service
+ providers and the card networks.
+Nevertheless, the cost of card payments is substantial for small businesses, which pay much higher fees
+ per transaction than large businesses (Graph 2). Large merchants have the bargaining power to
+ directly negotiate much lower ‘strategic’ interchange rates from the networks (Graph 3).
+ Large businesses also benefit from lower payment costs due to economies of scale. However, the higher
+ acquirer margins paid by small businesses could also suggest that the market for payment services is not
+ as efficient and competitive as it could be.
+Graph 2
+Graph 3
+Scheme fees
+Scheme fees have been rising, increasing costs for merchants. These fees can be very complex and opaque,
+ and unlike interchange fees, there are no regulations restricting their growth. In response to concerns
+ about trends in scheme fees, since
+2021/22
+we have been collecting
+ annual data to improve transparency. Here are the aggregate scheme fee data for
+2022/23
+(Table 1).
+Table 1: Net Scheme Fees
+Basis points of transaction
+ values
+(a)
+2021/22
+2022/23
+Basis point change
+Domestic card transactions
+Acquirers
+9.9
+10.6
+0.7
+Debit cards
+8.8
+9.9
+1.1
+– Tap/insert card
+5.0
+5.5
+0.5
+– Tap device
+11.4
+12.5
+1.1
+– Online
+13.2
+14.3
+1.1
+Credit cards
+12.0
+11.9
+−0.1
+– Tap/insert card
+11.0
+11.2
+0.2
+– Tap device
+12.0
+12.3
+0.3
+– Online
+12.6
+12.2
+−0.4
+Issuers
+2.8
+3.0
+0.2
+Debit cards
+2.2
+2.6
+0.4
+Credit cards
+3.8
+3.7
+−0.1
+International card transactions
+Acquirers
+157.3
+158.0
+0.7
+Issuers
+44.4
+64.5
+20.1
+(a) Includes scheme fees paid to eftpos, Mastercard and Visa.
+Source: RBA
+Net scheme fees of around $1.9 billion were paid by Australian acquirers and issuers to the card
+ networks in
+2022/23
+. This was a 43 per cent increase relative to
+2021/22
+and was significantly higher than the 16 per cent
+ growth in card transactions in that period. Most of the very strong growth in scheme fees was for
+ international card transactions, which bounced back up after the COVID pandemic emergency measures ended.
+ On average, the net scheme fees paid by acquirers (relative to the value of card transactions) were
+ 10 basis points for domestic debit cards and 12 basis points for domestic credit cards. In
+ contrast, net scheme fees were much lower for issuers, since the networks offer generous rebates on
+ scheme fees to issuers when they compete for their card issuing business. As a result, most of the burden
+ of scheme fees falls on acquirers, which then gets passed on as higher costs for merchants.
+Beneath these aggregates, there is a lot of variation in scheme fees between the different card networks.
+ So greater transparency of the scheme fees being charged by each card network could help merchants better
+ understand these fees and make better informed decisions, such as to which network they route debit
+ transactions. However, we are unable to publish data on the fees charged by each network, because the
+ international card networks did not grant permission when it was requested. We will raise the case for
+ more transparency on scheme fees as an issue for consultation in our upcoming review.
+International card transaction costs
+The cost of international card transactions is a significant issue for e-commerce businesses and
+ consumers. When a card is used across borders, the costs are substantially higher than when it is used in
+ the jurisdiction where it was issued. Turning first to the costs faced by Australian merchants selling
+ goods and services to international customers, on average they face merchant service fees of around
+ 2½ per cent for debit and credit cards (Graph 4). These costs have risen over the past few
+ years, unlike domestic card costs, which have been relatively flat at much lower levels. Over the same
+ period, merchant service fees for international charge card transactions have actually declined to around
+ 1.6 per cent. It is also interesting to note that the gap between the cost of domestic and
+ international charge card transactions is much smaller; while international charge card transactions cost
+ merchants less than equivalent debit or credit cards, the relative cost of domestic transactions is the
+ other way around.
+Graph 4
+The high cost of international debit and credit card transactions faced by Australian merchants appears to
+ be mainly due to the wholesale costs for these transactions, which includes:
+Interchange fees.
+When an international card is presented at an Australian merchant,
+ an interchange fee is paid by the merchant’s acquirer to the foreign issuer of the card. After
+ intervention by the RBA to encourage more transparency, in 2021 the international card networks
+ started publishing their interchange fee schedules for international transactions. From these
+ schedules, we can see that international interchange rates can be as high as 2.4 per cent.
+ These fees are well above domestic interchange rates, which are capped through regulation at much
+ lower levels (0.8 per cent for credit transactions and 0.2 per cent for debit
+ transactions with ad valorem interchange rates).
+Net scheme fees
+. The international card networks also charge acquirers net scheme
+ fees of around 1.6 per cent of the value of international card transactions. To give you an
+ indication of just how substantial the scheme fees are on international card transactions, they
+ account for one-third of the scheme fees being paid by Australian acquirers, even though
+ international card transactions are only around 3 per cent of all the card transactions
+ processed in Australia.
+When we add up the interchange fees and scheme fees, the wholesale costs of international card
+ transactions are actually higher on average than the merchant service fees being charged by acquirers.
+ This suggests that some acquirers are cross-subsidising the high wholesale costs of international card
+ transactions through higher merchant fees on domestic card transactions.
+Consumers also face substantial costs when they use their Australian-issued cards to pay for goods and
+ services where the card payments are processed outside Australia. The typical fee charged on these
+ transactions by Australian banks is 3 per cent, and consumers also pay around a
+ ½ per cent markup as part of the exchange rate offered by the international card networks.
+[2]
+These
+ fees on Australian cardholders are similar to those faced by cardholders in other jurisdictions such as
+ the United States, United Kingdom and New Zealand.
+So when we add up the costs faced by merchants and consumers on international card transactions, the total
+ end-to-end cost is around
+5–6
+per cent. This is occurring at
+ a time when there is heightened international attention on the cost of cross-border payments. The
+ G20 has a program to improve the speed, cost, accessibility and transparency of payments across
+ borders.
+[3]
+As part of this, the G20 has set an ambitious target for the global average total cost of sending
+ retail payments (including person-to-business payments) to be no more than 1 per cent by the
+ end of 2027. International card payments would present an excellent use case for exploring how the cost
+ of cross-border payments could be reduced for end users.
+In our upcoming review, we would like to hear your views on whether there is a case for lowering the cost
+ and increasing the transparency of cross-border payment services for merchants and consumers.
+How the least-cost routing of online debit card transactions can help lower merchant costs
+Turning back to domestic transactions, the RBA is focused on increasing competition in the debit card
+ market to keep downward pressure on payment costs for merchants. This is particularly important since,
+ with the decline in the use of cash for payments, debit cards are now used in half of all consumer
+ transactions in Australia. The main priority here is to allow merchants to choose the lowest-cost card
+ network (eftpos, Mastercard or Visa) to process their debit transactions.
+For merchants to take advantage of LCR, payment service providers need to upgrade their systems to support
+ it. To provide greater transparency on whether providers are getting this done, we have been publishing
+ reports every six months on LCR availability and take-up across the major providers.
+[4]
+By the
+ end of 2023, the most progress had been made for transactions where a card is presented, where LCR was
+ available to almost all merchants and enabled for 65 per cent of them (Table 2). While
+ this is good progress across the industry, there is still more work for some providers to do. Given this,
+ in our upcoming review, we are planning to ask whether a formal regulatory requirement is necessary for
+ LCR.
+Table 2: Least-cost Routing of Card-present Debit Card Transactions
+Per cent of merchants, December 2023
+(a)
+Available to merchants
+Enabled for merchants
+(b)
+Square
+100
+100
+Stripe
+98
+98
+Suncorp Bank
+100
+67
+Tyro
+100
+65
+Fiserv
+100
+47
+Commonwealth Bank
+97
+47
+National Australia Bank
+100
+47
+Westpac
+100
+40
+ANZ Worldline
+98
+31
+Adyen
+100
+23
+Total
+99
+65
+(a) Figures have been rounded to whole percentage points. Consequently, a value of
+ 100 may still mean LCR is not available/enabled for every merchant of that
+ institution. Figures exclude very large (strategic) merchants and merchants that
+ supply their own payment terminals.
+(b) For the avoidance of doubt, those
+ institutions with the highest rates of LCR enablement do not necessarily provide
+ merchants with the lowest overall payment costs.
+Source: RBA
+LCR for card-not-present transactions is at a much earlier stage of progress, with only five of the top
+ 12 online payment service providers making LCR available to all their merchants, and only two
+ providers having LCR enabled for a significant share of their merchants (Table 3). This partly
+ reflects that eftpos’ online payment service is still relatively young, having started in 2022. Many
+ providers are still part way through their projects to fully support eftpos payments online. The RBA
+ expects providers to make LCR widely available for online transactions and to enable LCR for merchants
+ that could benefit from it, so we need to see much more progress here.
+Table 3: Least-cost Routing of Card-not-present Debit Card Transactions
+Per cent of merchants, December 2023
+(a)
+Available to merchants
+Enabled for merchants
+(b)
+Stripe
+100
+68
+Fat Zebra
+100
+32
+Adyen
+100
+7
+Fiserv
+100
+2
+Westpac
+100
+0
+Commonwealth Bank
+59
+7
+National Australia Bank
+15
+0
+ANZ Worldline
+0
+0
+Braintree
+0
+0
+SecurePay
+0
+0
+Suncorp Bank
+0
+0
+Tyro
+0
+0
+(a) Figures have been rounded to whole percentage points. Consequently, a value of
+ 100 may still mean LCR is not available/enabled for every merchant of that
+ institution. A value of 0 may mean LCR is available/enabled for some, but only a
+ very small proportion, of merchants of that institution. Figures exclude very large
+ (strategic) merchants and data relating to merchants where the listed institution
+ only provides gateway services.
+(b) For the avoidance of doubt, those
+ institutions with the highest rates of LCR enablement do not necessarily provide
+ merchants with the lowest overall payment costs.
+Source: RBA
+The next frontier for LCR is mobile wallet transactions, such as through Apple Pay and Google Pay. This is
+ particularly important given the rapid growth in the use of mobile devices for in-person card
+ transactions. We have been engaging regularly with the major mobile wallet providers and they are making
+ good progress towards being able to support LCR for mobile wallet transactions by the end of this year.
+We can see evidence in scheme fees that suggests LCR may have some competitive benefits (Table 1).
+ For in-person transactions, LCR is available when a debit card is tapped, and the scheme fees charged are
+ much lower than when a mobile wallet is tapped, where LCR is not yet available. Supporting the argument
+ that LCR could be making the difference here, when we look at credit cards, where there is no competition
+ from a domestic network, scheme fees are higher on average and there is much less variation in fees
+ depending on whether a card or a mobile wallet is tapped.
+Finally on LCR, we recently published an article with our first estimates of the effects of LCR on a
+ merchant’s cost of accepting debit card payments.
+[5]
+We found that the cost of accepting debit card
+ transactions is nearly 20 per cent lower for merchants that have LCR turned on, compared to
+ those with LCR turned off. Once LCR for online and mobile wallet payments is widely available and taken
+ up by merchants, the potential cost savings are likely to be even larger.
+In our upcoming review, we would like to hear your views on the effectiveness of LCR to date, and whether
+ a formal regulatory requirement is necessary to ensure broad adoption.
+Promoting competition for payment services on e-commerce platforms
+Online payment services are increasingly bundled within a much wider service offering. Merchants can
+ benefit from the convenience of having these services supplied together. However, this also has the
+ potential to limit competition between payment service providers. Some providers have become substantial
+ players in their respective markets and may be able to leverage their power and loyal customer base in
+ ways that restrict access or otherwise limit competition. These providers typically offer value-added
+ services, but at additional cost. This raises questions about the effect on the overall efficiency of the
+ payments system.
+For example, e-commerce platforms offer a range of services to small merchants wishing to sell their
+ products online, including setting up an e-commerce website, managing inventory, tracking orders to
+ shipping, providing customer support and processing payments. Some of the larger e-commerce platforms
+ (such as Shopify, Squarespace, WooCommerce and Wix) are setting up proprietary payments processors and
+ are at various stages of rolling them out in Australia. Some e-commerce platforms limit the ability of
+ their online merchant customers to integrate with competing payment service providers or they charge them
+ substantial fees for doing so. This can make it uneconomic to use competing payment service providers. As
+ a result, small merchants could be missing out on lower cost or more innovative payment services.
+In our upcoming review, we would like to hear your views on whether there is sufficient competition for
+ online payment services, and what could be done to promote more competition.
+Tokenisation of online card payments
+Card-not-present fraud continues to be a challenge for the payments industry. According to the Australian
+ Payments Network (AusPayNet), there were 5 million fraudulent card-not-present transactions in
+ Australia or on Australian-issued cards in
+2022/23
+, worth almost
+ $700 million. In addition to these losses (which are often borne by the merchant), cardholders,
+ merchants and financial institutions incur significant costs investigating and resolving fraud cases.
+An important initiative to improve security in online card payments is tokenisation. By holding tokens
+ instead of sensitive card details, merchants and payment service providers can significantly reduce the
+ risk that these card details will be stolen from their systems and used by fraudsters. The RBA has been
+ working with industry on tokenisation to promote security, efficiency and competition in the payments
+ system. In addition to improving security, tokenisation raises some efficiency and competition issues
+ where some standardisation across the industry could help:
+Token portability.
+The tokens issued by the international card networks are often
+ specific to a particular merchant and their payment service provider. This means that if a merchant
+ has deleted their customers’ sensitive card details and then wants to change their payment
+ service provider, they may need to ask their existing customer base to re-enter their card details
+ for future transactions. This would be highly unattractive to many merchants, as it could result in
+ failed transactions and customer attrition. It also makes it less likely that merchants would be
+ willing to delete their customers’ sensitive card details, undermining the benefits of
+ tokenisation. To address this issue, the RBA has set an expectation for industry to support the
+ portability of tokens by 30 June 2025.
+Synchronisation.
+To make sure that merchants can take advantage of LCR of debit
+ cards online, it is important that all network tokens are updated simultaneously when issuers update
+ details for dual-network debit cards (such as a new expiry date). This avoids the risk that some
+ online debit card transactions would fail due to only one network token being updated.
+AusPayNet has established an industry working group that is exploring the development of technical
+ standards to support token portability and also ways to aid token synchronisation across the payments
+ chain. This is a complex space, so we welcome AusPayNet’s work on potential technical standards and
+ encourage you all to participate actively in this process.
+Trends in ‘buy now, pay later’ services
+BNPL services allow customers to purchase goods and services on credit and make interest-free repayments
+ to the BNPL provider. Despite some smaller BNPL providers exiting the market, BNPL transactions continued
+ to grow strongly in 2023 (Graph 5). The value of BNPL transactions was around $20 billion,
+ which is equivalent to around 2 per cent of Australian card purchases.
+Graph 5
+While BNPL services offer benefits to consumers, they are typically an expensive way for merchants to
+ accept payments. The average BNPL transaction costs the merchant around 3½ per cent of the
+ value of the purchase, which is well above the cost of card transactions (Graph 6). Most BNPL
+ services do not allow merchants to pass on the cost to consumers through surcharging. Surcharges could be
+ used by merchants to signal to consumers that they are using a relatively expensive payment method.
+Graph 6
+In 2021, the RBA concluded that merchants should be allowed to surcharge BNPL services.
+[6]
+The
+ RBA’s view at the time was that any benefits of no-surcharge rules in terms of supporting new entry
+ into the payments market was outweighed by the costs in terms of efficiency and competition in the
+ payments system. However, it was not clear that the RBA had the power to require the removal of these
+ no-surcharge rules. After the reforms to the PSRA, the RBA plans to revisit this issue as part of a
+ broader review of whether the RBA’s surcharging framework remains fit for purpose. We welcome views
+ on whether there have been developments that justify reconsidering whether BNPL providers should remove
+ no-surcharge rules.
+One key development has been the Government recently introducing legislation to Parliament to bring the
+ regulation of BNPL into line with other types of credit. Under the reforms, BNPL providers will be
+ required to hold an Australian credit licence and be subject to regulation by the Australian Securities
+ and Investments Commission. They would have to comply with requirements on product disclosure and take
+ steps to make sure they are lending responsibly.
+Potential use of fast payment systems for retail payments
+Cards are currently the dominant payment method used in Australia for in-person and online retail
+ payments. However, when we look to other countries in our region, we can see alternative models of
+ electronic retail payments that are less reliant on cards. For instance, in many countries in southeast
+ Asia, merchants are providing QR codes that their customers can use to pay them by account transfer
+ through fast payment systems. These merchants and consumers have a fast and low-cost electronic
+ alternative to card payments.
+We could see a similar wave of retail payments innovation unleashed in Australia through the New Payments
+ Platform (NPP) and its PayTo service. This service provides a convenient and secure way for consumers to
+ authorise merchants to initiate a payment from their account via the NPP. PayTo will modernise the way we
+ make direct debits by giving customers more control. Direct debits are currently processed through the
+ legacy Bulk Electronic Clearing System and are expected to largely transition across to PayTo over the
+ period ahead.
+PayTo can also be used by merchants as an alternative to cards for online payments, and potentially
+ in-store purchases. The major banks have all made PayTo available to their retail customers, so it now
+ has the critical mass of consumer accounts for payment services to launch. There are many providers, from
+ fintechs to major banks, that are developing innovative retail payment services that leverage PayTo.
+ While it is early days in the development of this service, the volume of PayTo transactions is growing
+ rapidly.
+Looking further ahead, interlinking fast payment systems across countries has the potential to provide
+ consumers and businesses with an alternative way to make international e-commerce payments. The
+ ASEAN-5 countries (Indonesia, Malaysia, the Philippines, Singapore and Thailand) are currently
+ working on interlinking their fast payment systems, with the aim of supporting low-cost remittances and
+ retail transactions. We are monitoring these developments closely to help assess whether Australia should
+ be involved in similar initiatives in future. To contribute to this debate, we recently published a
+ report highlighting the benefits and challenges with linking fast payment systems across countries.
+[7]
+Conclusion
+To conclude, we are seeing rapid changes in the payments landscape, with new business models and
+ technologies emerging, particularly in online retail payments. Given this, the RBA has been working with
+ the Government to modernise the regulatory framework and we are preparing to launch a holistic review of
+ retail payments regulation once the PSRA reforms are in place. Your input to this review process will be
+ highly valuable. There are many interesting policy issues to explore, including the cost and transparency
+ of payment services and how we can promote competition that benefits end users. We look forward to
+ continuing working with you all as we promote an efficient, competitive and safe payments system, to the
+ benefit of all Australians.
+Endnotes
+I would like to thank Robert Gao, Troy Gill, Kate
+ Green, Joy Guo, Qiang Liu, Nicholas Prokhovnik and Ben Watson for their excellent assistance in
+ preparing this speech.
+[*]
+In this speech, ‘debit cards’ refers to
+ cards processed over the eftpos, Visa or Mastercard debit networks, ‘credit cards’
+ refers to cards processed over the Visa or Mastercard credit networks, and ‘charge
+ cards’ refers to cards processed over the American Express or Diners Club networks.
+[1]
+There are a small number of cards in the
+ Australian market where the fee on international transactions is waived. However, working in the
+ other direction, some merchants offer to convert the foreign currency transaction amount to
+ Australian dollars at the time of the transaction; if consumers choose this option rather than
+ pay in foreign currency, they face additional ‘dynamic currency conversion’ fees, which
+ can be around 1 per cent of the transaction amount, along with a higher exchange rate
+ markup.
+[2]
+Financial Stability Board (2023),
+ ‘G20
+Roadmap for Enhancing Cross-border Payments: Consolidated progress report for
+ 2023
+’, 9 October.
+[3]
+The report on LCR availability and take-up is
+ available on the RBA website: RBA, ‘
+Least-cost Routing of
+ Debit Card Transactions
+’; RBA, ‘
+Update
+ on Availability and Enablement of Least-cost Routing for Merchants
+’.
+[4]
+Dobie B and B Watson (2024), ‘
+The
+ Effect of Least-cost Routing on Merchant Payment Costs
+’, RBA
+Bulletin
+,
+ April.
+[5]
+See RBA (2021), ‘
+Review
+ of Retail Payments Regulation
+’, Conclusions Paper, October.
+[6]
+See RBA (2024), ‘
+Interlinking
+ Fast Payment Systems for Cross-border Payments
+’, April.
+[7]

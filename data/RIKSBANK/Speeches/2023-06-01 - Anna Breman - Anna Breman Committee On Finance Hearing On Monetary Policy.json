@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Anna Breman Committee On Finance Hearing On Monetary Policy",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Anna Breman",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2023/anna-breman-committee-on-finance-hearing-on-monetary-policy/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Anna Breman - Anna Breman Committee On Finance Hearing On Monetary Policy.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Anna Breman - Anna Breman Committee On Finance Hearing On Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:05:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8b68c5fa5dd6a090c3ca64ad9d6bd5ffafa0a784dab59826144cf04652d882e4"
+}

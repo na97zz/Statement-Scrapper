@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interest Rates and the Property Market – Sydney",
+  "date_original": "2022-09-19",
+  "date_au": "19/09/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-so-2022-09-19.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-09-19 - Sydney - Interest Rates and the Property Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-09-19 - Sydney - Interest Rates and the Property Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ee0526826520ef1435b4179c0744c7bb71e2a7c6e5aa055d1a9177f06110c956"
+}

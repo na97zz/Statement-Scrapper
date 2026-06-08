@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Changing Patterns in Household Saving and Spending – Sydney",
+  "date_original": "2022-09-11",
+  "date_au": "11/09/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-ag-220911.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-09-11 - Sydney - Changing Patterns in Household Saving and Spending – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-09-11 - Sydney - Changing Patterns in Household Saving and Spending – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "bd6189d576ee89127e9f6d720f12b08756461480f50538f8f6aab81f458d18de"
+}

@@ -1,0 +1,559 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Fireside Chat at DLT-Enabled
+DATE: 25/02/2025
+SPEAKER: Brad Jones
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2025/sp-ag-2025-02-25.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Fireside chat at DLT-Enabled
+Brad Jones
+Assistant Governor (Financial System)
+DLT-Enabled
+Online
+–
+25 February 2025
+Audio
+12.8MB
+Watch video: Fireside chat DLT enabled
+Transcript
+Paul Derham
+For all the people watching, we’ve got a lot of business owners, a lot of people in what I call
+
+ the native digital asset sector, and a lot of people in the traditional finance sector who are
+
+ somehow involved or curious about the digital asset sector and what’s happening. We all know
+
+ that to do business planning, to plan out products, to stay current, we need to know the context. And
+
+ the pillar of the stable Australian payments system is the Reserve Bank of Australia. And we’re
+
+ really lucky to have you, Brad, to talk about what’s the current state and what’s the
+
+ future state. So, by the end of this half an hour session, you, the audience, will be able to feel a
+
+ little bit like you’ve got a bit of a better grasp on the future state of the central part of
+
+ the payments ecosystem, or what could be coming, which is an exciting conversation. So just to, I
+
+ guess, frame it in really concrete terms, Brad, I’ve gone back and looked at some of your
+
+ speeches, which, like white papers on some of these issues – if anyone hasn’t read
+
+ Brad’s speeches this year and last year and the year before, even I would recommend doing so.
+
+ I’ve already recommended to all of our lawyers to actually read them after reading them myself.
+
+ If we just go back to a really basic transaction, I want to think, I want the audience to just
+
+ imagine that you’re paying someone $1,000, okay? So how’s the RBA involved in that
+
+ transaction? So, let’s say you’re paying your business if you use the traditional BECS
+
+ system, the Bulk Electronic Clearing System, I think Brad, you’d call that the Toyota Camry,
+
+ right? The old trusty – it works. Yeah, is that fair analogy? Yeah, I’m seeing you nod.
+
+ Okay. So if you use that system I’m going to log into a bank account if I want to pay someone,
+
+ and I’m going to put in their BSB etc. The way that it’s processed is that payment, when I
+
+ click Send, is batched, right? It’s cleared in the next clearing cycle, probably overnight. Now
+
+ the settlement – the funds settle the next business day via the RBA’s Reserve Bank
+
+ Information and Transfer System, the RITS. And that’s kind of how the Toyota Camry system rail
+
+ works. Okay? The more modern one – that what Brad you’ve called the Ferrari – is the
+
+ new payments platform. I don’t have to type in a BSB or an account number. I can type in
+
+ something like an email address or a mobile number. It’s much easier. It’s quicker. The
+
+ funds are instantly settled using the RBA’s Fast Settlement Service. Okay, so it’s a
+
+ different platform. It’s immediate, nearly always immediate. And that’s sort of the newer,
+
+ faster rail. Now there’s a third, Future Money rail, which I think you’ve put into a number
+
+ of categories, Brad. You’ve got the unbacked crypto, like Bitcoin, some people could pay that
+
+ $1,000 invoice using Bitcoin. It’s clunky, it’s expensive, it’s slow. The
+
+ merchant is probably not going to accept it. There’s also backed crypto, like stablecoins that
+
+ are fully collateralised. You’ve got tokenised bank deposits. And then, I guess if there was a
+
+ public CBDC for retail, which there isn’t, there’s sort of this new category. And so if I
+
+ could just paraphrase everything that I’ve just said – we’ve got an old rail system,
+
+ we’ve got a new fast rail system, and then we’ve got this idea of tokenised money. So, with
+
+ that as a bit of a backdrop, and the RBA, sort of sitting in the middle of those two rails, the Camry
+
+ and the Ferrari, can you elaborate on some of the most promising innovations that you see coming in
+
+ payments?
+Brad Jones
+Thanks Paul and thanks for the invitation. It’s great to connect to this community here. But
+
+ maybe to answer that question, I could first give some context for what the Bank’s role is in
+
+ payments. So we operate the Real Time Gross Settlement system, RITS. We also set policy for payments
+
+ up to the limit of our regulatory powers, which were a last updated in a really material way back in
+
+ the late 90s. And what that remit gives us powers to do is to effectively promote efficiency and
+
+ competition in the payments system subject to controlling risk. So in layman’s terms, what we
+
+ want to see is – our North Star, if you like – is a payment system that’s a hotbed
+
+ of competition, a hotbed of efficiency, but where that competition and efficiency is actually helping
+
+ to strengthen and stabilise the financial system, rather than working in the other direction. For the
+
+ Payments System Board that sort of mandate, if you like, has found expression in a few key priorities
+
+ for us. One is for strengthening the safety and the resilience of our critical market infrastructure,
+
+ pushing ahead with reforms for payments and market infrastructures. We, for instance, recently got
+
+ crisis management powers in relation to critical market infrastructure, which we’re
+
+ operationalising now. I mentioned promoting competitive, cost effective, electronic payments.
+
+ I’ll come to a couple of examples of that in a moment. Enhancing cross-border is another key
+
+ priority and shaping the future of money in Australia. So they are all the strategic priorities for
+
+ the Payments System Board. The few, yeah – I would say we’re we are technology agnostic.
+
+ We just want to see those virtues of efficiency and competition result from, you know, the private
+
+ sector doing what the private sector does best, right, which is to compete, innovate, come up with
+
+ better, faster, more efficient, more resilient services for customers and for businesses. We try not
+
+ to be too prescriptive about the functional form that that should take. We feel like that’s
+
+ where the private sector is best placed to. But clearly for us, there’s probably three areas
+
+ that that really stand out. One is this, this evolution that’s been underway for a bit about a
+
+ decade now in real time payments. It’s still the case that although we’ve had a real time
+
+ payment system for bit over a decade, it’s not absorbing the lion’s share of account
+
+ transfers, for instance – that’s still occurring over the old BECS rails. So we think
+
+ there’s significant scope for the country to benefit from
+24/7
+operation, real time settlement, richer data, enhanced data
+
+ capabilities and so on. So the transition to real time payments, we think, is still actually in its
+
+ infancy in Australia, even though the base infrastructure has been with us for, you know, a decade or
+
+ so. So that’s, that’s one piece. There’s another piece I mentioned at the outset,
+
+ around cross-border. This is not an Australian specific issue, but Australia made some commitments to
+
+ the G20 to increase the speed and reduce the cost of cross border payments. This is a fiendishly
+
+ complex area. And all I’ll say there is that there’s been some progress, but it’s been
+
+ really slow, and it’s hard for various reasons, but, but it is a key priority for us. And the
+
+ third area is wholesale digital money, and that’s where the likes of – in the picture you
+
+ painted stablecoins, potentially tokenised bank deposits and central bank digital currency –
+
+ come into the frame. And that, I should be clear, that the main area of interest for us as public
+
+ policy makers here is looking into the issue of how new innovation in programmable money and
+
+ tokenised money could support the development of tokenised asset markets. We’ve done some
+
+ preliminary work on what we think some of the benefits, but also some of the issues or challenges,
+
+ could be associated with tokenisation. There’s an ongoing program of work around that. But where
+
+ we’re looking at it is what forms of settlement – assets, stablecoins, tokenised bank
+
+ deposits, or CBDC – could best help enable and facilitate tokenisation of assets. So
+
+ that’s a, that’s a key area focus for us. And we’re running a new pilot, for instance,
+
+ precisely to examine more closely what some of the policy and technical issues are there.
+Paul Derham
+Great, well, well, thanks for that. Let’s, let’s talk a little bit more about central bank
+
+ digital currencies, CBDCs. You’ve, you’ve talked a bit about these publicly. There’s
+
+ been, there’s been, over the last couple of years, there’s been a pilot, and there’s a
+
+ pilot that’s starting again. Do you want to talk about Project Acacia and sort of the related
+
+ issues that you’re dealing with at the moment?
+Brad Jones
+Yeah, sure. So for those that are – some folks on this call were actually involved in our first
+
+ pilot, which was quite different from Project Acacia, which is our new research project that
+
+ we’re running with our research partners at the Digital Finance CRC. The first pilot, we were
+
+ not prescriptive about use cases at all. We really threw the net as wide as we could, and put it to
+
+ industry and said – Look, you folks, tell us, where do you see the most promising use cases,
+
+ whether it’s retail or wholesale? We’re agnostic. We got a whole bunch of ideas, and we
+
+ whittled that down into a short list and ran with about just over a dozen. We transitioned those
+
+ through to the formal part of the pilot. That pilot ran for a number of months, and at the end of
+
+ that project, we wrote up a report, sort of summarising our high-level reflections. One of the key
+
+ learnings from that pilot was that the use cases that seemed to be most interesting from an
+
+ economy-wide perspective, were around this issue of tokenisation in wholesale markets. We explored
+
+ the retail space. We were curious. We wanted to make sure that we hadn’t been missing things.
+
+ Nothing really left off the page to us on the retail side, recognising that we do have a fast, real
+
+ time payment system, in contrast to some other countries that are looking at a retail CBDC, for
+
+ instance. And so that led us basically to where we are today, which is the next pilot program, which
+
+ is focused in a much more concentrated way on this question of tokenised assets, and what are the
+
+ different forms of money that could help promote the growth of tokenised asset markets. You know, the
+
+ three that are in scope for us are stablecoins, tokenised bank deposits and wholesale CBDC. We are
+
+ genuinely, at this point, open minded as to sort of where that research will land. The only sort of
+
+ guiding – well, one of the guiding principles, though, for us from a public policy perspective,
+
+ I should be clear about – is that at the Bank we, like all central banks, comply with a set of
+
+ standards globally known as the Principles for Financial Market Infrastructures. And one of the key
+
+ principles there is that for systemically important markets, there is a presumption that those
+
+ transactions should be settling in the ultimate safe asset where you have guaranteed finality and
+
+ there’s basically no credit risk, which is, you know, central bank money. And so part of the
+
+ reason why we’re so interested in a wholesale CBDC or doing further research in it, is precisely
+
+ because if tokenised asset markets ever become truly enormous, then there could well be a case to
+
+ look at the role that a wholesale CBDC could play in anchoring that market.
+Paul Derham
+That’s a good point. Let’s just, for the sake of the audience watching, they’ll all be
+
+ familiar with stablecoins. We know that CBDC projects are focusing on wholesale markets, as
+
+ you’ve pointed out. Can you elaborate a bit more on tokenised bank deposits? Because my
+
+ understanding is, JP Morgan have sort of done something in this space. Some Australian banks are
+
+ dabbling. The MAS is sort of collaborating on a wider project with banks. What does that look like, a
+
+ tokenised bank deposit?
+Brad Jones
+Yeah so, I wouldn’t – you’re right, Paul, in that I would say globally, stablecoin
+
+ issuance is absolutely well ahead of tokenised bank deposit issuance. But the reason that central
+
+ banks are looking at this, including the central bank of central banks, the BIS, has done a fair
+
+ amount of work on this, is because the underpinning of today’s payments system is that you
+
+ basically have two tiers. You have central banks, sort of providing the foundational layer, if you
+
+ like, the foundational tier, which is operating the key settlement infrastructure, RTGS system, but
+
+ also in settling or ensuring finality of transactions that are going on between banks, commercial
+
+ banks, who also hold a deposit account at the central bank. And so you’ve got all this furious
+
+ transfer going on between banks. The ultimate settlement is happening across the central bank balance
+
+ sheet, where the central bank’s basically debiting one bank’s account with it and crediting
+
+ another one. And so part of the reason that central banks are looking at tokenised bank deposits is
+
+ because it could be a functionally superior way of allowing payment, different types of payments, to
+
+ be made in a way that preserves this two tier system that we understand, that has served the economy
+
+ well for decades. So that that’s why, that’s where central banks are looking at it.
+
+ It’s a very different system from a world of stablecoin issuance which could be occurring where
+
+ you have non-bank issuers, for instance, issuing those claims, and they would be more bearer
+
+ instruments rather than account or account instruments. And so the central bank would have much less
+
+ of a role in facilitating, in fact, no role in facilitating ultimate settlement for stablecoins as
+
+ distinct from, say, a tokenised representation of a bank deposit.
+Paul Derham
+Yeah, that’s a really good explanation, and hopefully it gives a little bit of context to the
+
+ people watching this, many of whom will have used stablecoins for various reasons and are familiar
+
+ with that notion. I guess, as you know, Brad, there’s also this consultation going on with ASIC
+
+ about it, re-articulating what it thinks is a financial product and ASIC has come out saying, in
+
+ draft, we think stablecoins are really financial products. They’re non-cash payment facilities,
+
+ and we want to regulate them. People are really concerned about that, because it’s seen as the
+
+ final rail that’s available to them if they can’t get banking access, which is the case for
+
+ a lot of native digital asset businesses. So it’s important, I think, for those native digital
+
+ asset businesses to see there’s this strong priority from – at a government systems level
+
+ – of stability and strength and finality in transactions, and that is why there’s this
+
+ reluctance to suddenly make it easy for anyone to go off and issue their own stablecoin. And so I
+
+ think that provides a little bit of context, because right now there is a raging debate about, how do
+
+ we regulate stablecoins in particular. There’s another layer of problems, I guess, with the big
+
+ global stablecoins that I’ve come across as a digital asset lawyer – and you know, our
+
+ firm acts for a lot of these big global groups, not the two main stablecoin groups, but a lot of the
+
+ global crypto asset groups – the problem with having a centralised stablecoin that
+
+ everyone’s using is it’s probably, let’s say it’s set up in a low tax
+
+ jurisdiction. There are billions of dollars of profits being made in another low tax jurisdiction. If
+
+ there’s a criminal fraud situation in Australia, it’s very difficult to have any recourse
+
+ if, if someone loses money, or they’re scanned and they brief their lawyers, and it’s to do
+
+ with a global stablecoin, there’s always, there’s all these other problems with these
+
+ non-Australian, unregulated stablecoins. So anyway, it’s quite, it’s quite a wild west, I
+
+ think, at the moment. And this is sort of leading me into the next question here is – what kind
+
+ of regulatory reforms do you think we need, Brad? Because I know you’re working with Treasury
+
+ – Treasury put out a consultation paper on regulating payment stablecoins, amongst other
+
+ things. So yeah, any comments on what reforms you think are needed?
+Brad Jones
+And that’s really a question for the Government. But what I can say, is that the proposal that
+
+ Treasury floated where stablecoins of different sizes could be subject to different sort of
+
+ regulatory regimes and different supervisors – so for instance, for the smaller coins, ASIC
+
+ would have oversight for the larger ones, APRA would, that concept of like proportionality based on
+
+ size is one that, at least at a philosophical level, would be very supportive of. I think what’s
+
+ also really important is that there’s a level playing field for innovation. We as regulators
+
+ have to be technology agnostic. What we’ve got to focus on is the outcomes, not so much the
+
+ precise functional features that industry might want to employ. If innovation is going to promote
+
+ public trust, it’s going to promote stability in the financial system, if it’s not going to
+
+ result in any competitive behavior that leaves businesses or households worse off, you know, then
+
+ you’re going to have a lot as a proposer of that concept. Generally speaking, you’re going
+
+ to, you know, you’re probably going to get further than one that is, is not checking all those
+
+ boxes. Now, there’s no guarantees, of course, but there are some core concepts I think all
+
+ regulators buy into, which is, you want to minimise cross-border regulatory arbitrage, which, as you
+
+ said, Paul, is a major issue. And I can tell you, like internationally, the various forums that I
+
+ attend, it’s almost agenda item one – how do we minimise cross-border regulatory arbitrage
+
+ so that stability in the system is not being undermined, and so that we can promote innovation, but
+
+ in a way that doesn’t sort of undermine, really, you know, trust and consumer protections?
+
+ That’s absolutely foremost in everyone’s mind.
+Paul Derham
+That’s good. And I like the way that you described it, Brad, in one of your speeches, that the
+
+ RBA is an anchor and it’s an enabler, right? So on one hand, you’re balancing protection,
+
+ stability, risk mitigation, and on the other you want to enable like you said, healthy competition
+
+ and efficiency. And so I guess it’s the enabler component that we’re focusing on today
+
+ without ignoring the anchor component. Tell us about the sandbox, the regulatory sandbox. In
+
+ Australia, we’re at, we’re at 2.0 aren’t we, of the enhanced regulatory sandbox?
+
+ And hey guys, you’re probably the next speaker. And yeah, we’ve got about eight minutes to
+
+ go. So that’s what, exactly what Brad, you and I did. It’s a little cameo, accidental to
+
+ say hi. So there’s been the first regulatory sandbox, which is, I guess, a bundle of legislative
+
+ instruments released by ASIC with its limited law making power, allowing certain activities that
+
+ would normally require a license to go unlicensed, if it’s in the sandbox. Then there was
+
+ 2.0 and that’s coming up for review. But I know Brad, you’ve got a view on sandboxes.
+Brad Jones
+Yeah, one of the one of the learnings that we actually wrote about in our public report at the
+
+ conclusion of our first CBDC pilot a couple of years ago now, was the feedback we got from industry,
+
+ which we reflected on and socialised with the other regulators in Australia, was this sense that the
+
+ regulatory sandbox was well intentioned, but probably hadn’t landed in a way that was proving to
+
+ be as helpful as it potentially could. And so our sense was that there was certainly scope to have
+
+ another look. And in particular, we drew some attention to the fact that if Government is to
+
+ commission another review of the sandbox, and my recollection is, I think it could be due this year,
+
+ but it’s really the Government’s prerogative as to when it wants to conduct that that next
+
+ review, that we don’t need to be splitting the atom here ourselves – we can look at what
+
+ other countries have done. There’s some interesting examples internationally where you’ve
+
+ seen regulatory sandboxes used in a way that has probably aided the transition between really
+
+ greenfield innovation and the valley of death, are they getting to actual application. And I suspect
+
+ if and when that review is done, there’ll be a number of learnings we can take from the
+
+ international experience, and embed them in whatever the new form of our sandbox would be. The last
+
+ thing I’ll say is that we recognise, although the Reserve Bank has got a particular remit in
+
+ regulating aspects of the payments system, that the sorts of issues that we’re talking about
+
+ more generally around innovation in in our financial system, in our payments system – that
+
+ draws in all the regulators, ASIC, APRA, Treasury. And for that reason, a new steering committee
+
+ that’s overseeing that from a governance perspective, our Project acacia, has said that
+
+ we’re running with our industry partners, the Digital Finance CRC, we have got representatives
+
+ from our other agencies sitting around the table, listening to feedback we’re getting from
+
+ industry, and engaging so that everyone has an opportunity to hear, you know, given a strong
+
+ interest.
+Paul Derham
+Yeah, look, that’s excellent. And I’ve personally experienced – well, heard the
+
+ frustrations of clients trying to use enhanced regulatory sandbox. So that’s the
+
+ 2.0 version. And to give you an example, if you want to offer a service that issues a non-cash
+
+ payment facility, which everyone’s going to be doing under ASIC’s, new interpretation
+
+ – well, every digital currency exchange is going to be doing under ASIC’s clarified
+
+ interpretation of a wallet and how it works in certain situations – you can’t issue a
+
+ non-cash payment facility if you’re not relying on ADIss for certain parts of the ecosystem, so
+
+ regulated banks. And so there’s a real limitation in the enhanced regulatory sandbox, as it
+
+ stands for payments innovation. So that’s something for those of you – a lot of you who
+
+ are watching will be putting in submissions to ASIC’s consultation paper about the draft
+
+ Information Sheet 225, if you’re putting in a response, it’s due by the end of this month,
+
+ so in three days. And in your response, you can say – we think there should be an even more
+
+ enhanced regulatory sandbox, and here are some reasons why. So if anyone wants to do that,
+
+ that’s a way that you can get active on that point. But look, Brad, conscious we’ve got
+
+ three more minutes. Tell me what do you think, of all, things that or some of the things we’ve
+
+ discussed and things that we haven’t discussed, what’s one of the most promising
+
+ opportunities that you see coming up in the future of money in Australia?
+Brad Jones
+As I said, well, I think a few things. One is we’ve really only scratched the surface, I think,
+
+ of the full capabilities of real time payments. That’s a first proposition. And so there’s
+
+ a long way to go there, and that, that includes the cross-border piece. There’s been some
+
+ inhibitors there, but the NPP, for instance, has got, has got a key role, also on the cross-border
+
+ side. So that’s, that’s one of them. And I think it’s, it’s probably hard to go
+
+ past the concepts around programmability that a tokenised world could lead us to and the role that
+
+ different types of money, digital tokenised money, could have in facilitating transactions that are
+
+ not happening, or facilitating trade in markets that don’t yet exist. So that these new forms of
+
+ money, to my way of thinking up, have the potential to uplift the functioning of our financial system
+
+ in one of two ways. It’s either going to make the existing markets that we have settlement much
+
+ more efficient. You know, you collapse a t+2 world into a t+0 world. And at the other end
+
+ – and to be honest, the gains there may be fairly small per trade, but because these markets
+
+ are so vast, they’re going to aggregate up to some really significant efficiencies and cost
+
+ savings. So that’s one prism. The other prism is these new forms of money. What type of new
+
+ markets, greenfield markets that don’t currently exist today, could they help give life to
+
+ because of the unique features, real time information updating and so on? That’s really
+
+ exciting. That one’s probably further, you know, out in the ether, maybe 5, 10, years away. But
+
+ yeah, it’s hard to not sort of be certainly intellectually curious about where all this might
+
+ take us.
+Paul Derham
+Look thanks again for your time. Thanks for sharing with us some of that information, which is really
+
+ just a snippet of some of the things you’ve said publicly. So for anyone that wants to know
+
+ more, there’s a whole lot of content on the RBA website of different speeches that Brad’s
+
+ given and videos and things like that. Understanding how the RBA sits in the middle of
+
+ Australia’s payments system is so important and so few people really have taken the time to look
+
+ into it, but it’ll help you understand some of the market forces around regulation of
+
+ stablecoins, around banking issues, around why settlement takes time, and sometimes when it’s
+
+ – and other times it’s really fast – so thanks Brad and thanks everyone for
+
+ watching. We need to hand over now. I think it’s time.

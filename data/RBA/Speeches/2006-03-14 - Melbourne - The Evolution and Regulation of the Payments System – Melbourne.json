@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Evolution and Regulation of the Payments System – Melbourne",
+  "date_original": "14 March 2006",
+  "date_au": "14/03/2006",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-ag-140306.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-03-14 - Melbourne - The Evolution and Regulation of the Payments System – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-03-14 - Melbourne - The Evolution and Regulation of the Payments System – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "428a48c565b6f918d90e3a64a706c2813315e7ccc809c7c35b9815177a495d9e"
+}

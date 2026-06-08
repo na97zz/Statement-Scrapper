@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "New Zealand’s changing payments landscape",
+  "date_original": "2022-11-08",
+  "date_au": "08/11/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/karen-silk-9-nov-22-nzs-payments-landscape.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-11-08 - New Zealand’s changing payments landscape.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-11-08 - New Zealand’s changing payments landscape.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:49",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/karen-silk-9-nov",
+  "content_sha256": "d5fbe6f68570a3143783915f5abfda9dc5c06c5218b9d91526d39701b0ed822c"
+}

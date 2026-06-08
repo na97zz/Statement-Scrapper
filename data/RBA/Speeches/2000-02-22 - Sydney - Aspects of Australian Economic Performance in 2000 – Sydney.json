@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Aspects of Australian Economic Performance in 2000 – Sydney",
+  "date_original": "22 February 2000",
+  "date_au": "22/02/2000",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-ag-220200.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-02-22 - Sydney - Aspects of Australian Economic Performance in 2000 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-02-22 - Sydney - Aspects of Australian Economic Performance in 2000 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "60c7736793c1c9a8e6013d5f1b9f47931eb91a1979409c3cc2aedabef2b31cf1"
+}

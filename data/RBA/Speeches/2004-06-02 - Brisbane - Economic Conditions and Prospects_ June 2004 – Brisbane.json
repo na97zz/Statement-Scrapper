@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Conditions and Prospects: June 2004 – Brisbane",
+  "date_original": "2 June 2004",
+  "date_au": "02/06/2004",
+  "datetime_original": "",
+  "speaker": "Brisbane",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2004/sp-dg-020604.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2004-06-02 - Brisbane - Economic Conditions and Prospects_ June 2004 – Brisbane.html",
+  "text_file_path": "data\\RBA\\Speeches\\2004-06-02 - Brisbane - Economic Conditions and Prospects_ June 2004 – Brisbane.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e2dbc3ce23eee28de3025113ea8e470b114d737593690b1ceb3615bfb9736655"
+}

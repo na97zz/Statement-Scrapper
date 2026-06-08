@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Listening to Australians, Interpreting the Data and Setting Monetary Policy",
+  "date_original": "2026-03-03",
+  "date_au": "03/03/2026",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-gov-2026-03-03.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-03-03 - Michele Bullock - Listening to Australians, Interpreting the Data and Setting Monetary Policy.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-03-03 - Michele Bullock - Listening to Australians, Interpreting the Data and Setting Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:27:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f6678176256cde6bdef41f8f12e54247abb0f848d0de65d7aa6b0cde81ab2166"
+}

@@ -1,0 +1,675 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Reassessing Australian Financial Conditions
+DATE: 26/03/2026
+SPEAKER: Christopher Kent
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2026/sp-ag-2026-03-26.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Reassessing Australian Financial Conditions
+Christopher Kent
+*
+Assistant Governor (Financial Markets)
+Address to KangaNews Debt Capital Market Summit
+26 March 2026
+–
+Sydney
+Audio
+26.8MB
+Q&A Transcript
+Watch video: Speech delivered by Christopher Kent, Assistant Governor (Financial Markets), KangaNews Debt Capital Market Summit, Sydney
+Thank you to KangaNews for the invitation to speak today.
+Every six weeks, the Monetary Policy Board assesses the state of the economy and its outlook and sets
+
+ monetary policy to achieve low and stable inflation and full employment. It must judge the level of the
+
+ cash rate that will deliver financial conditions consistent with those goals. Financial conditions are a
+
+ broad concept, capturing the cost and availability of finance for households and businesses, as well as
+
+ other financial influences on economic activity such as the exchange rate and asset prices. Each of these
+
+ elements are influenced by the cash rate and its expected path as part of the standard monetary policy
+
+ transmission process. The stance of monetary policy is considered to be ‘restrictive’ if
+
+ financial conditions are assessed to be restraining demand and ‘accommodative’ if financial
+
+ conditions are assessed to be stimulating demand.
+Assessing overall financial conditions is challenging because they depend on a broad range of factors,
+
+ each of which can affect spending in the economy in different ways. In addition, financial conditions
+
+ affect demand with some lag, making it hard to assess how restrictive or accommodative monetary policy is
+
+ in real time. Moreover, structural changes in the financial system and the economy mean that a given
+
+ level of the cash rate can become more or less restrictive over time. For these reasons, we use a range
+
+ of approaches to assess financial conditions and update our judgement on the overall stance of policy as
+
+ new information arrives.
+An important part of the Board’s decisions to raise the cash rate target in February and March of
+
+ this year was an assessment that financial conditions in the second half of last year had been less
+
+ restrictive than previously thought. This reassessment was based on evidence from updated estimates of
+
+ the neutral interest rate together with direct measures of financial conditions such as strong credit
+
+ growth and low risk premia in financial markets.
+Today I will provide an update to a speech I gave last October on Australian financial conditions.
+1
+I’ll
+
+ outline a conceptual framework and present a range of estimates and indicators that can help assess
+
+ financial conditions and hence the stance of monetary policy. I’ll step through how the RBA’s
+
+ judgements on these have evolved of late and finish with a few words about the conflict in the Middle
+
+ East.
+The neutral rate
+The cash rate plays a central role in determining borrowing and lending rates, but other things matter for
+
+ financial conditions. To assess the stance of monetary policy we can compare the cash rate to the nominal
+
+ neutral rate of interest.
+2
+I think of this as the conceptual cornerstone of an
+
+ assessment of the stance of monetary policy. It is conceptual because in practice neutral rate estimates
+
+ are very uncertain. And it is a cornerstone because it is merely the starting point on which to build
+
+ other evidence.
+Two concepts of ‘neutral’ are relevant for my talk.
+3
+The first is a long-run concept of the nominal
+
+ neutral rate, which is the cash rate that neither stimulates nor dampens demand once shocks and
+
+ structural forces have played out. At that point, demand and potential supply will be in balance, with
+
+ full employment and inflation at target.
+4
+The long-run neutral rate is also the rate at which
+
+ global savings and investment are in a steady state.
+A second, more useful concept for monetary policy is the short-run neutral rate. This is the cash rate
+
+ that is neither stimulatory nor contractionary over the next few years in the face of ongoing shocks and
+
+ structural changes. The short-run neutral rate will tend to be more variable, cycling around the long-run
+
+ neutral rate (which is also changing over time but in response to slower moving longer run forces, such
+
+ as demographic change). The shocks and structural changes that can cause the two concepts to diverge can
+
+ include: changes in financial conditions independent of the cash rate, via variation in risk appetites in
+
+ the private sector, for example; or changes in fiscal policies, to name just two.
+While some of these can have quite persistent effects, monetary policy can still work to return the
+
+ economy to full employment with inflation at target within two to three years. All else equal, if
+
+ inflation is elevated and likely to remain above target for a time, as is currently the case, a
+
+ restrictive stance of policy is needed for a time to slow the growth of aggregate demand and ease
+
+ inflationary pressures. That is, the cash rate needs to spend time above the level of the short-run
+
+ neutral rate.
+There are several ways to gauge the neutral rate, many of them model-based. Let me start, though, with one
+
+ that is readily available.
+Market prices: A simple guide to short-run neutral
+Market prices, specifically overnight indexed swap (OIS) rates, provide a guide to how market participants
+
+ expect the cash rate to evolve. OIS rates reflect collective judgements about the forces operating on the
+
+ economy and the cash rate path that will satisfy the Board’s objectives.
+5
+While market participants face a
+
+ range of uncertainties, the OIS curve still provides a guide to the stance of policy and, by extension,
+
+ the neutral rate.
+During most of 2025, the OIS curve was downward sloping (Graph 1). This suggested that market
+
+ participants thought reductions in the cash rate would allow the Board to meet its inflation and
+
+ employment goals. Indeed, the Board reduced the cash rate target three times between February and August.
+
+ Later in 2025 and into early 2026, however, the OIS curve progressively shifted up – including
+
+ around the two-to-three-year point on the OIS curve. This followed the accumulation of data pointing to
+
+ stronger inflationary pressures than earlier expected. The upward revision to expectations of the cash
+
+ rate in a few years’ time was consistent with a rise in market participants’ perceptions of the
+
+ short-run neutral rate.
+Graph 1
+If we could estimate the cash rate that will prevail when the economy reaches balance, we would have a
+
+ direct measure of the neutral rate. This follows from the definition of the neutral rate – namely,
+
+ the cash rate that is neither restrictive nor stimulatory once the economy has reached a state of
+
+ balance. The OIS curve contains time-varying term premia, so it does not provide a pure reading of future
+
+ expected cash rates. To extract those expectations, we need to turn to models, although those models are
+
+ imprecise and so they too provide only a rough guide.
+Model-based estimates of the neutral rate: Short-run and long-run
+Government bond yields, like OIS rates, embed expectations for future cash rates and include term
+
+ premia.
+6
+Using a
+
+ model, we can extract the expected cash rate component from bond yields at different horizons.
+7
+Graph 2
+
+ (panel 1) shows these for rates 3 years and 10 years into the future.
+8
+If we assume
+
+ that market participants expect full employment and inflation in the middle of the
+2–3 per cent
+target band in three years, the expected cash rate at that
+
+ horizon provides an approximation to the short-run neutral rate.
+9
+The estimated cash rate in 10 years
+
+ provides an approximation of the long-run neutral rate.
+Graph 2
+Two other classes of models we use infer neutral rates from economic outcomes. One class is a time-varying
+
+ parameter vector autoregression (TVP-VAR, or just VAR for short). This VAR model makes use of key
+
+ macroeconomic variables without imposing strong theoretical constraints. The neutral rate is the
+
+ estimated cash rate projected to prevail well into the future.
+10
+Graph 2 (panel 2) shows the central
+
+ estimates from three variations of this model.
+The other class of models are semi-structural. These use economic theory to link the cash rate to measures
+
+ of activity, spare capacity and inflation. The estimates of neutral shown in Graph 2 (panel 3) are
+
+ the far-forward expected cash rates from three variants of that model.
+11
+Pulling these estimates together in Graph 3 highlights that the various central estimates span
+
+ quite a wide range, which reflects the imprecision with which we can estimate neutral.
+12
+Also, all
+
+ the model estimates trended lower prior to the pandemic. This appears to have reflected the effects of
+
+ slower moving forces such as population ageing and declining productivity growth. Similar trends were
+
+ observed in many advanced economies, underscoring the global nature of neutral rates as discussed by my
+
+ colleague Penny Smith in November.
+13
+Graph 3
+Around that longer term trend, the neutral rate estimates from the semi-structural macro-models have been
+
+ relatively stable, consistent with these capturing the long-run neutral rate. By contrast, the VAR
+
+ estimates vary more, suggesting they may be capturing factors relevant to the short-run neutral rate.
+14
+This is also
+
+ true of the market model estimate at the 3-year mark, whereas the market estimate at the 10-year mark is
+
+ more stable, in line with it capturing the long-run neutral rate.
+Over recent years, all the model estimates have picked up significantly, something also seen in other
+
+ advanced economies.
+15
+A few plausible explanations for rising neutral have
+
+ been suggested, including: government deficits across advanced economies that are absorbing savings;
+
+ investment arising from the green transition and more recently the AI boom; and strong investor risk
+
+ appetites leading to an easing of financial conditions.
+16
+Turning to the stance of monetary policy, the cash rate was above the central estimates of the neutral
+
+ rate between late 2023 and early 2025, suggesting a restrictive policy stance. But that assessment became
+
+ less clear with a combination of reductions in the cash rate target in 2025 and further increases in
+
+ various model estimates of neutral (including because of revisions to some model estimates). Those models
+
+ that are more likely to capture the short-run neutral rate have risen by around 20 to 30 basis
+
+ points over recent quarters.
+Some direct measures of financial conditions
+Given the limitations involved with neutral rate estimates, it is important to also consider how elements
+
+ of financial conditions have evolved recently.
+The exchange rate
+As a small open economy, the value of the Australian dollar is an important element of financial
+
+ conditions. An appreciation (by itself) lowers import prices and reduces export competitiveness, thereby
+
+ dampening activity and inflation. The appreciation in the Australian dollar over recent months has
+
+ contributed to tighter financial conditions. But the appreciation has been in line with historical
+
+ relationships with Australian interest rates (relative to major advanced economies) and commodity prices.
+
+ We can see that because the trade-weighted index is close to the equilibrium predicted by our model,
+
+ which is based on those determinants (Graph 4). In other words, the appreciation reflects normal
+
+ transmission of policy expectations, rather than an
+additional
+tightening.
+17
+Graph 4
+Financing conditions
+Costs facing borrowers are a critical element of financial conditions. Household and business borrowing
+
+ costs can be expressed as a spread over the cash rate (or, for term loans, the risk-free rate at the
+
+ relevant maturity). These spreads reflect bank funding costs, borrower risk, and competition in deposit
+
+ and loan markets, among other things – all of which can vary over time. Over the past five years or
+
+ so, outstanding variable mortgage rates declined by about 1 percentage point relative to the cash
+
+ rate, consistent with strong competition between lenders and favourable bank funding conditions
+
+ (Graph 5).
+18
+Business lending spreads also declined, though by
+
+ less. All else equal, a persistent narrowing in lending spreads like this implies an easing in financial
+
+ conditions and a rise in the neutral rate.
+Graph 5
+The extent (and speed) with which changes in lending spreads and other factors affecting financial
+
+ conditions are captured by the neutral rate estimates will vary across models. Market-based estimates
+
+ will adjust quickly, if market participants observe the changes and account for them when weighing up
+
+ other determinants of the neutral rate. However, estimates from macro models will take longer to account
+
+ for changes in the cost and availability of finance, since these tend to affect the behaviour of
+
+ macroeconomic variables only with some lag.
+‘It is seen by its works’
+19
+The willingness and ability of households and firms to borrow, and of financial institutions to lend,
+
+ depends, in part, on whether financial conditions are restrictive or accommodative. Hence, credit growth
+
+ can provide a signal about financial conditions.
+Focusing on the past few years, total credit growth rose strongly through 2021 (Graph 6). This was an
+
+ expected and intended outcome of the earlier stimulatory monetary settings. Credit growth then declined
+
+ for a time from late 2022 as policy was tightened. Since 2023, though, credit growth rose again, to well
+
+ above its longer term average; reflecting both strong demand for, and supply of credit.
+20
+Because
+
+ credit growth depends on other things – such as labour market conditions, for example – it
+
+ would be unwise to ascribe all changes in credit growth to the stance of monetary policy. Even so, strong
+
+ credit growth of late is an additional piece of the evidence that financial conditions have not been
+
+ particularly restrictive.
+Graph 6
+The same logic applies to generally strong economic data in recent months, including for the CPI and the
+
+ labour market. That is, these data also suggest that the stance of policy over the second half of 2025
+
+ was not as restrictive as we previously thought.
+Financial conditions indices
+Financial conditions indices (FCIs) can provide a rough cross-check on the stance of policy. They distil a
+
+ range of indicators related to the cost and availability of finance into a single index. Each FCI has its
+
+ own pros and cons, so I prefer to look at the range of several estimates (Graph 7). Together, they
+
+ show a pattern broadly in line with what I would expect around key episodes like the global financial
+
+ crisis and the onset of the pandemic. More recently, FCIs suggest that financial conditions became
+
+ increasingly restrictive after the RBA tightened policy starting in 2022, but they appeared to have
+
+ become a touch accommodative last year – reflecting, among other factors, the reduction in the cash
+
+ rate and low risk premia across financial markets globally. While I would not place much weight on FCIs,
+
+ like the neutral rate estimates, they suggest that overall financial conditions are currently within the
+
+ range of neutral.
+21
+Graph 7
+Conclusion
+To sum up, the Monetary Policy Board sets the cash rate to deliver financial conditions that are
+
+ consistent with low and stable inflation and full employment. A key complication is that financial
+
+ conditions can shift for reasons other than the cash rate. Relatedly, the neutral cash rate can vary over
+
+ time, and it is estimated with considerable uncertainty. Accordingly, RBA staff present the Board with a
+
+ range of estimates of the neutral rate as well as a range of direct measures of financial conditions.
+A broad range of evidence suggested that cash rate increases through 2022 and 2023 had taken the stance of
+
+ policy into restrictive territory. And by early 2025, based on the favourable outlook for economic
+
+ activity and inflation, the Board determined that it was appropriate to reduce the level of
+
+ restrictiveness somewhat. From around September 2025, however, the weight of evidence began to shift,
+
+ suggesting that financial conditions were no longer restrictive enough to return inflation to target in a
+
+ reasonable time. Against that backdrop – and the broader signs of rising inflationary pressures
+
+ – policy was tightened in February and March to help bring down inflation.
+Finally, a few words on the effects of the conflict in the Middle East. The effects of the sharp reduction
+
+ in the global supply of oil, natural gas and other commodities are apparent across financial markets.
+
+ These changes – and heightened geopolitical and economic uncertainty globally – have led to
+
+ some tightening in financial conditions. All else equal, that implies a decline in short-run neutral
+
+ rates here and offshore – that is, a tighter stance of monetary policy for a given cash rate.
+However, the supply shock also poses a risk to inflation and longer term inflation expectations at a time
+
+ when there are ongoing capacity pressures in Australia and several other advanced economies. This could
+
+ both push short-run neutral rates higher and necessitate a more restrictive stance of policy. Indeed,
+
+ financial market participants have revised up their expectations of monetary policy rates in Australia
+
+ and most advanced economies (Graph 8). The increase in Australia since the start of the conflict
+
+ shown in orange has been less than some other advanced economies but it also came after an earlier
+
+ increase shown in blue (reflecting relatively strong domestic data) that was not seen elsewhere.
+Graph 8
+The longer the conflict persists, the larger the economic impact will be, and the greater the risk of a
+
+ material repricing of assets. A negative supply shock pushes up prices and leads to weaker economic
+
+ activity, making us all poorer. Central banks cannot change that. But they can ensure that the initial
+
+ rise in prices does not lead to a rise in longer term inflationary expectations and extended inflationary
+
+ pressures. We will continue to assess the countervailing forces operating on the economy, including any
+
+ tightening of financial conditions, or increase in inflation expectations associated with the conflict,
+
+ so that the Board can set monetary policy to achieve low and stable inflation and full employment over
+
+ the medium term.
+Thank you for your time, I look forward to answering your questions.
+Endnotes
+*
+I thank Leon
+
+ Berkelmans, Richard Finlay and Peter Wallis for assistance in the preparation of these remarks,
+
+ which also benefited from the comments of many colleagues at the RBA.
+1
+Kent C (2025),
+
+ ‘
+Australian Financial Conditions – How
+
+ Do We Judge How Tight or Easy They Are?
+’, Address to CFA Society Australia, Sydney,
+
+ 16 October.
+2
+Economists typically
+
+ think and work with real (i.e. inflation-adjusted) variables, including when discussing neutral
+
+ rates. I am departing from this today and couching my speech in terms of
+nominal
+rather than
+real
+neutral rates, for a few reasons: regular people tend to discuss
+
+ interest rates in nominal terms, and I hope that by doing the same this speech will be accessible
+
+ to a wider audience; when the Board sets policy it needs to decide on the nominal cash rate; and
+
+ when medium-term inflation expectations are stable, as they are in Australia, the distinction
+
+ between nominal and real neutral rates becomes less consequential.
+3
+See, for example,
+
+ Obstfeld M (2025), ‘Natural and Neutral Real Interest Rates: Past and Future’,
+IMF
+
+ Economic Review
+, 73, pp
+339–392
+, for a discussion of
+
+ some different concepts of neutral. One can also conceptualise a single neutral rate that is
+
+ influenced by shorter or longer lived factors, as my colleague Penny Smith did in Smith P (2025),
+
+ ‘
+How Developments in International Financial
+
+ Markets Shape Financial Conditions in Australia
+’, Speech at the Australian
+
+ Securitisation Conference, Sydney, 26 November.
+4
+The long run, when
+
+ shocks and structural forces have played out, is somewhat of a theoretical concept; in practice,
+
+ the economy is always being hit by new shocks.
+5
+The market path will
+
+ reflect the market’s understanding of the Board’s reaction function, including
+
+ preferences around the inflation-unemployment trade-off and what time horizon the Board aims to
+
+ return inflation to target. OIS rates also incorporate term premia, which means that they may not
+
+ give a precise read on expectations for the future cash rate path. But for short tenors such
+
+ premia are likely to be relatively small.
+6
+Investors may demand a
+
+ higher or lower yield on a government bond, relative to what the expected path of future cash
+
+ rates would imply, due to time-varying term premia that compensate investors for the risk that
+
+ yields, and so bond prices, will change. There can also be a time-varying convenience yield,
+
+ which captures the benefit investors receive due to the safety and liquidity of holding
+
+ government bonds (with some models of bond yields grouping the two together in a single category)
+
+ See, for example, Fu JZ, J Li and Y Xe (2025), ‘Convenience Yield, Inflation Expectations,
+
+ and Public Debt Growth’,
+The Review of Financial Studies
+, for a recent study
+
+ looking at the relationship between the convenience yield, inflation expectations and government
+
+ debt.
+7
+See Hambur J and R
+
+ Finlay (2018), ‘
+Affine Endeavour: Estimating a
+
+ Joint Model of the Nominal and Real Term Structures of Interest Rates in Australia
+’,
+
+ RBA Research Discussion Paper No RDP 2018-02, for more information on the model used.
+8
+I have previously
+
+ shown a similar graph with seven grey lines: the average of the TVP-VAR estimates, as well as
+
+ estimates of neutral based on three different market-based estimates (the three-year and 10-year
+
+ measures shown in Graph 2, plus the five-year measure) and three different semi-structural
+
+ estimates as per Graph 2.
+9
+Strictly speaking, the
+
+ expected future cash rate in three years’ time (assuming inflation is at target and full
+
+ employment) is an estimate of what the short-run neutral rate in three years’ time will be,
+
+ rather than an estimate of what the current short-run neutral rate is.
+10
+See Lubik TA and C
+
+ Matthes (2015), ‘Calculating the Natural Rate of Interest: A Comparison of Two Alternative
+
+ Approaches’, Federal Reserve Bank of Richmond Economic Brief No EB15-10, for more
+
+ information on this class of model.
+11
+This class of
+
+ models is based on Holston K, T Laubach and JC Williams (2017), ‘Measuring the Natural Rate
+
+ of Interest: International Trends and Determinants’,
+Journal of International
+
+ Economics
+, 108(1), pp S59–S75. See also McCririck R and D Rees (2017), ‘
+The Neutral Interest Rate
+’, RBA
+Bulletin
+, September, for how these models have been applied at the RBA.
+12
+The imprecision of
+
+ the central estimates (which can also be subject to significant revision) means that it is
+
+ possible that the true neutral rate fell outside the range shown.
+13
+See Smith, n 3.
+
+ While global factors affect the long-run neutral rate, short-run neutral will move with domestic
+
+ factors.
+14
+The variability may
+
+ also, at least in part, be due to noise in estimation.
+15
+See, for example,
+
+ Del Negro M, E Elbarmi and M Pham (2026), ‘The Post-Pandemic Global R*’,
+Liberty
+
+ Street Economics,
+February; Benigno G, B Hofmann, G Nuño Barrau and D Sandri (2024),
+
+ ‘Quo Vadis, R*? The Natural Rate of Interest After the Pandemic’, BIS
+Quarterly
+
+ Review
+, March; Schnabel I (2024), ‘R(ising) Star?’, Speech at the ECB and its
+
+ Watchers XXIV Conference, Frankfurt, 20 March.
+16
+See, for example,
+
+ Del Negro
+et al
+, n 15; Benigno
+et al
+, n 15; Nagel J (2025), ‘R* in the
+
+ Monetary Policy Universe: Navigational Star or Dark Matter?’, Lecture at the London School
+
+ of Economics and Political Science, London, 12 February; Davis JH, R Zalla, J Rocha and J
+
+ Hirt (2023), ‘R-Star is Higher. Here’s Why’, 14 June. Others suggest that
+
+ long-run neutral either may not have risen. See, for example, Williams JC (2024), ‘R-Star: A
+
+ Global Perspective’, Remarks at the ECB Forum on Central Banking, Sintra, 3 July 2024.
+17
+See Kent C (2023),
+
+ ‘
+Channels of Transmission
+’, Address
+
+ to Bloomberg, Sydney, 11 October; Smith, n 3.
+18
+See Jennison S, J
+
+ Spiller and P Wallis (2026), ‘
+Recent
+
+ Changes in Credit Markets and their Implications for Monetary Policy
+’, RBA
+Bulletin
+, February.
+19
+In 1931 the
+
+ economist John H William said of the neutral rate: ‘like faith, it is seen by its
+
+ works’. See Williams JH (1931), ‘Monetary Doctrines of J. M. Keynes’,
+Quarterly Journal of Economics
+, 45(4), pp
+547–587
+.
+
+ Fed Chair Jay Powell famously made a similar comment more recently. See Powell J (2024),
+
+ ‘Transcript of Chair Powell’s Press Conference’, 18 September.
+20
+See Jennison
+et
+
+ al
+, n 18.
+21
+Similar to the
+
+ neutral rate, financial conditions are often driven by global factors, and in consequences FCIs
+
+ often look similar across countries.
+Underlying data
+This file contains all
+underlying data
+that are available for public release.
+Some graphs in this speech were generated using Mathematica.

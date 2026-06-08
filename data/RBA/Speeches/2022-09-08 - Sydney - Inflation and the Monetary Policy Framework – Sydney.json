@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Inflation and the Monetary Policy Framework – Sydney",
+  "date_original": "2022-09-08",
+  "date_au": "08/09/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-09-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-09-08 - Sydney - Inflation and the Monetary Policy Framework – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-09-08 - Sydney - Inflation and the Monetary Policy Framework – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ae29611e8681f926fbc0c296bd6d6556960812ab244e374eac99b98f5469a2db"
+}

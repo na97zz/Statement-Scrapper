@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Adoption of General-purpose Technologies (GPT) in Australia: The Role of Skills",
+  "date_original": "2023-12-01",
+  "date_au": "01/12/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-12-01.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-12-01 - Adoption of General-purpose Technologies (GPT) in Australia_ The Role of Skills.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-12-01 - Adoption of General-purpose Technologies (GPT) in Australia_ The Role of Skills.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "031826da1df2bcd9542a9d5eac0102e536032d83e12eb8cd5685e57c7c09f791"
+}

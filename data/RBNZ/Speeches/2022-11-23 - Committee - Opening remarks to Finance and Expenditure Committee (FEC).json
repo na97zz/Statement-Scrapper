@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Opening remarks to Finance and Expenditure Committee (FEC)",
+  "date_original": "2022-11-23",
+  "date_au": "23/11/2022",
+  "datetime_original": "",
+  "speaker": "Committee.",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/fec-mps-nov-22-opening-remarks.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-11-23 - Committee - Opening remarks to Finance and Expenditure Committee (FEC).pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-11-23 - Committee - Opening remarks to Finance and Expenditure Committee (FEC).txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:49",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/fec-mps-hearing-nov-22",
+  "content_sha256": "28688365f5d18cca215db845a7cfda6215cd2fd56be295eca223c3cd98bf459f"
+}

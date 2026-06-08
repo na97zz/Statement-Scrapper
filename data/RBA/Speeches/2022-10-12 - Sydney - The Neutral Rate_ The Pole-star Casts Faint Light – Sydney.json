@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Neutral Rate: The Pole-star Casts Faint Light – Sydney",
+  "date_original": "2022-10-12",
+  "date_au": "12/10/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-ag-2022-10-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-10-12 - Sydney - The Neutral Rate_ The Pole-star Casts Faint Light – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-10-12 - Sydney - The Neutral Rate_ The Pole-star Casts Faint Light – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "261d05a6c2e917f4c463489d54a6ceabe097b4f07ac7492f71191910d99de42b"
+}

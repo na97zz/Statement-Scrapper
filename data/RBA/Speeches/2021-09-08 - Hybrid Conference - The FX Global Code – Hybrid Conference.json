@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The FX Global Code – Hybrid Conference",
+  "date_original": "2021-09-08",
+  "date_au": "08/09/2021",
+  "datetime_original": "",
+  "speaker": "Hybrid Conference",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-dg-2021-09-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-09-08 - Hybrid Conference - The FX Global Code – Hybrid Conference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-09-08 - Hybrid Conference - The FX Global Code – Hybrid Conference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0929ca30b2d22b0e75659f8cb4ef62554e67fef5ec424b8ab2d6aaa29f427d4f"
+}

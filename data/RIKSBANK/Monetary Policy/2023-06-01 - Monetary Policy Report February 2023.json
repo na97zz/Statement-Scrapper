@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report February 2023",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2023/monetary-policy-report-february-2023/",
+  "raw_file_path": "data\\RIKSBANK\\Monetary Policy\\2023-06-01 - Monetary Policy Report February 2023.html",
+  "text_file_path": "data\\RIKSBANK\\Monetary Policy\\2023-06-01 - Monetary Policy Report February 2023.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:59:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "52ff28afd04985a10a9a531af9be72ca8a438d618215729d7a3bcaa0f1a72b1c"
+}

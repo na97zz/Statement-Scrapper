@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy in an Uncertain World – Melbourne",
+  "date_original": "13 November 2002",
+  "date_au": "13/11/2002",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-gov-131102.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2002-11-13 - Melbourne - Monetary Policy in an Uncertain World – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2002-11-13 - Melbourne - Monetary Policy in an Uncertain World – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "90efe9159c48e7abdd4df8ea367ba6f5a9f3a8a9de0b7c689dfd7edcebb51af3"
+}

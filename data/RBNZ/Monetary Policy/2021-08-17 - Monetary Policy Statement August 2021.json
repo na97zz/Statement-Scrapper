@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement August 2021",
+  "date_original": "2021-08-17",
+  "date_au": "17/08/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2021/mpsaug21.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2021-08-17 - Monetary Policy Statement August 2021.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2021-08-17 - Monetary Policy Statement August 2021.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:00",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/monetary-policy-statement-august-2021",
+  "content_sha256": "8cdc2d99d310839f614b3c2d335af27b859a07bc665b30b3f0ff512c2adfab62"
+}

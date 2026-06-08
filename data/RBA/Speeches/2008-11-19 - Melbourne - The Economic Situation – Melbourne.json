@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economic Situation – Melbourne",
+  "date_original": "19 November 2008",
+  "date_au": "19/11/2008",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-191108.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-11-19 - Melbourne - The Economic Situation – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-11-19 - Melbourne - The Economic Situation – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7c60809274b4e6cf4cd19eb892172672c29a0ca5ee4f35290e60330f1fb18a5e"
+}

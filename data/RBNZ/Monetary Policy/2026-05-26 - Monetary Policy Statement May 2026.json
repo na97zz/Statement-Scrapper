@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement May 2026",
+  "date_original": "2026-05-26",
+  "date_au": "26/05/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2026/may-272605/monetary-policy-statement-may-2026.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2026-05-26 - Monetary Policy Statement May 2026.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2026-05-26 - Monetary Policy Statement May 2026.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:34",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/monetary-policy/monetary-policy-statement/monetary-policy-statement-filtered-listing-page/2026/may-270/monetary-policy-statement-may-2026",
+  "content_sha256": "d00e8869dad35f1200da8f8638b75efe27aaed13195d869160aee45a873970e6"
+}

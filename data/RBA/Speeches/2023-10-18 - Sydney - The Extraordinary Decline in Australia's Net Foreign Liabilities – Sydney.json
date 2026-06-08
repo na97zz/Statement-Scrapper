@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Extraordinary Decline in Australia's Net Foreign Liabilities – Sydney",
+  "date_original": "2023-10-18",
+  "date_au": "18/10/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-10-18.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-10-18 - Sydney - The Extraordinary Decline in Australia's Net Foreign Liabilities – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-10-18 - Sydney - The Extraordinary Decline in Australia's Net Foreign Liabilities – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b7d6a496b3ef942a90bd3e6b677e283312994ad6d24305f6c59450260ac73330"
+}

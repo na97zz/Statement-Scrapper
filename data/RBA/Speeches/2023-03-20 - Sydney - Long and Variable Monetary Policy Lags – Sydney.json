@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Long and Variable Monetary Policy Lags – Sydney",
+  "date_original": "2023-03-20",
+  "date_au": "20/03/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-ag-2023-03-20.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-03-20 - Sydney - Long and Variable Monetary Policy Lags – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-03-20 - Sydney - Long and Variable Monetary Policy Lags – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4edd27686cdf6c23cc3913edd24fb422522c43a759c9cdf78deed35547509196"
+}

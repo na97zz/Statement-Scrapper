@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement August 2024",
+  "date_original": "2024-08-13",
+  "date_au": "13/08/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2024/aug-140824jvb/mps_report_aug2024.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2024-08-13 - Monetary Policy Statement August 2024.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2024-08-13 - Monetary Policy Statement August 2024.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:43",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2024/aug-140824klc/monetary-policy-statement-august-2024",
+  "content_sha256": "b047bd03a6aba1d1f6d62bdaf683bc8ffe116c4ae51ce865afd28f9dca9a82cc"
+}

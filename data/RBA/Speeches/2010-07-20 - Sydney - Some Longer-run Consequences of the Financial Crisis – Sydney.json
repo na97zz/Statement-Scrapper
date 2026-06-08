@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Some Longer-run Consequences of the Financial Crisis – Sydney",
+  "date_original": "20 July 2010",
+  "date_au": "20/07/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-200710.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-07-20 - Sydney - Some Longer-run Consequences of the Financial Crisis – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-07-20 - Sydney - Some Longer-run Consequences of the Financial Crisis – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6bd5cc00dbd42658b6ad68c0cd3bc0d80b79374b76f72d65c0f0fe19e674fa13"
+}

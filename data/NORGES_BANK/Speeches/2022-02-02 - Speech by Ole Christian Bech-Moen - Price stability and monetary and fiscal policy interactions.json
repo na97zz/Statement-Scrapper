@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Price stability and monetary and fiscal policy interactions",
+  "date_original": "2022-02-02",
+  "date_au": "02/02/2022",
+  "datetime_original": "",
+  "speaker": "Speech by Ole Christian Bech-Moen",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-02-02-bech-moen/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-02-02 - Speech by Ole Christian Bech-Moen - Price stability and monetary and fiscal policy interactions.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-02-02 - Speech by Ole Christian Bech-Moen - Price stability and monetary and fiscal policy interactions.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a32bd8e21affdd09fa1109dc362d917febb7410d47afb1d6db89656655cc8fbb"
+}

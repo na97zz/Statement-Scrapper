@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Financial Developments – Sydney",
+  "date_original": "2026-03-10",
+  "date_au": "10/03/2026",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-260310.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-03-10 - Sydney - Recent Financial Developments – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-03-10 - Sydney - Recent Financial Developments – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b001d38475606fa339f3ffbce88cc13aedd85819b55e74c35312960b7f2a91e1"
+}

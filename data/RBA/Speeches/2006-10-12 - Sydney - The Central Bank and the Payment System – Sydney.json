@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Central Bank and the Payment System – Sydney",
+  "date_original": "12 October 2006",
+  "date_au": "12/10/2006",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-ag-121006.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-10-12 - Sydney - The Central Bank and the Payment System – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-10-12 - Sydney - The Central Bank and the Payment System – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "669452fcf8b053922b14a517109ae160deefc4e348b3f36037c1c92256c8841a"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy in Australia: Complementarities and Trade-offs – Sydney",
+  "date_original": "2023-10-24",
+  "date_au": "24/10/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-10-24.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-10-24 - Sydney - Monetary Policy in Australia_ Complementarities and Trade-offs – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-10-24 - Sydney - Monetary Policy in Australia_ Complementarities and Trade-offs – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "959ad6013f7c62b0bccca209e13ade84415d8530426a69753e492cfe77c8e721"
+}

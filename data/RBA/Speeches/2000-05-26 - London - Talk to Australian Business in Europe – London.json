@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Talk to Australian Business in Europe – London",
+  "date_original": "26 May 2000",
+  "date_au": "26/05/2000",
+  "datetime_original": "",
+  "speaker": "London",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-260500.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-05-26 - London - Talk to Australian Business in Europe – London.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-05-26 - London - Talk to Australian Business in Europe – London.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "83cde45d50f47de0f41c2927711b337c319d3e00f3527e2013a0ca7b95c4ea9b"
+}

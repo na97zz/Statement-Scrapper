@@ -1,0 +1,351 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Five Years of Financial Crisis – Sydney
+DATE: 12/10/2024
+SPEAKER: Sydney
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2012/sp-so-241012.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Five Years of Financial Crisis
+Luci Ellis
+Head of Financial Stability Department
+Address to the CPA Australia Finance and Accounting Expo 2012
+Sydney
+–
+24 October 2012
+Audio
+21.59
+MB
+global economy, global financial crisis
+It's a pleasure to be back at this conference. Thank you once again for the kind
+ invitation. When I last spoke to this group two years ago, I noted that it
+ had been three years since interbank markets became disrupted. Already then
+ we had seen after-effects in places like Greece that had nothing to do with
+ the origins of the crisis. So we've been coping with some level of financial
+ crisis and distress for five years now.
+What I'd like to do today is take a step back and consider the beginnings of
+ the crisis. I would like to discuss why neither its genesis nor its propagation
+ to the global financial system were anticipated and why it was not prevented.
+ And I'd like to set out some of the lessons to take from this crisis,
+ including some mistaken conclusions that should not be taken on board.
+The Beginning
+Before the crisis, global financial conditions could be best described as ‘too
+ good to be true’, and we knew it. Looking back at the
+Financial Stability Reviews
+we published in 2006 and early 2007,
+ and indeed those from foreign agencies, it is clear that we knew all was not
+ well.
+[1]
+Investors were accepting very low prices for taking on risk (Graph 1).
+ Credit growth was very strong in a number of countries.
+Graph 1
+Prior to August 2007, there were some early shudders – false starts, if you
+ like – that caught many people's attention. We saw the wobble of
+ an exchange rate here, the collapse of a hedge fund there. I remember sitting
+ in meetings at the BIS in early 2007 talking about some of these events. The
+ question on everyone's lips was: is
+this
+the Big One?
+So a lot of people in policy circles and elsewhere were alert to the vulnerabilities
+ in the system. Lots of people knew that there was a chance something could
+ go seriously wrong. But nobody, no matter what they claim now, really anticipated
+ quite
+how
+it would play out.
+The Meltdown
+A lot of people were aware that the risks in the US mortgage market had risen. But
+ few realised that it had reached the point that it was no longer a housing
+ boom of the kinds we had seen before. Some people were aware that lending
+ standards had eased, but few appreciated just how far things had gone in the
+ United States. I know I didn't at the time. I wrote a paper
+ in 2006 pointing out that not
+all
+housing booms result in macroeconomic busts, though they can
+ also worsen downturns that happen for other reasons (Ellis
+ 2006).
+[2]
+That conclusion remains true: not all booms end in crisis, even though the US one
+ did. And it was a pretty good prediction for the countries I actually
+ mentioned in the relevant passage – Australia, the UK and the Netherlands.
+ But it would have been a terrible forecast for outcomes in the United States,
+ a country I wasn't referring to in that section. Foreign observers like
+ the RBA didn't realise how overstretched the US housing market had become,
+ because there simply wasn't the data to show that lending standards had
+ eased more in the US than elsewhere. The US authorities and most other observers
+ in the United States largely missed it too. They weren't routinely comparing
+ their situation with other countries and didn't see how exceptional it
+ had become.
+To be sure, some private sector commentators were concerned about the US housing
+ bubble. But the metrics they cited, such as the ratios of housing prices to
+ incomes or rents, would not have told you that the US housing market was in
+ a more vulnerable position than those of other countries. Prices and debt
+ actually rose less in the United States than in several other countries where
+ booms ended much less painfully. The poor lending practices that created so
+ many bad loans in the United States simply weren't sufficiently visible
+ in the usual data. Most of the activity was in new, non-bank lenders that
+ didn't attract much scrutiny from regulators. And some banks didn't
+ even seem to recognise that they were easing up on lending standards. You
+ can see in this graph that bank senior loan officers knew that they were tightening
+ standards in 2007 and 2008, but they didn't report much easing before
+ that (Graph 2). They didn't see it as easing; in their eyes, they
+ were just responding to competition.
+Graph 2
+Housing prices had only fallen around 5 per cent in the US by mid 2007,
+ but already this was enough to put several lenders out of business. Because
+ they securitised their loans, they didn't think they needed to absorb
+ losses and they had no balance sheet to do so: they were volume businesses.
+ But when the loan went bad so quickly that it obviously should never have
+ been granted, contractually the investors in the resulting mortgage-backed
+ security could ‘put back’ the loan to the originator. There were
+ a shockingly large number of these early defaults.
+Property busts, especially commercial property but sometimes also housing, often
+ spark domestic banking crises. If the US had had a banking crisis all on its
+ own, perhaps that crisis could have been dealt with differently. But this
+ crisis went global, and it was this connection between US mortgage markets
+ and the global system that wasn't well understood, and that essentially
+ nobody predicted. How did that happen? First, some of the central actors in
+ the US mortgage finance boom were a few dozen global banks, heavily interconnected
+ with global banks headquartered elsewhere. Second, the securities backed by
+ these mortgages were in some cases bought by foreign banks or their affiliates.
+ So instead of sweeping the risk out of the banking system, securitisation
+ spread some of the losses
+through
+the banking system.
+A third factor that helped turn this local housing bust into a global panic was that
+ the resulting securities were long-term assets, but they were funded by very
+ short-term funding. Maturity transformation – borrowing short and lending
+ long – is a normal function of the banking system. It is also an important
+ reason why banking institutions have to be prudentially
+ regulated.
+[3]
+They have to hold capital and some liquid assets to avert a run, and they have to
+ be able to access central bank liquidity in the event of a general panic.
+But in the US the banking system wasn't the main provider of mortgage credit.
+ The loans were packaged up into securities, often passed from bank to bank
+ in a complex production chain before landing in the balance sheet of an ultimate
+ investor or investment vehicle. Often the investment vehicles were funded
+ very short term: investors were using these vehicles for transactional purposes
+ like funding their payroll, expecting the funds to be liquid without a proper
+ liquidity backstop (Pozsar
+et al
+2010). One thing that policymakers didn't expect
+ is that the professional investors in these kinds of funds were even more
+ flighty and prone to run than retail depositors.
+As I mentioned, there were only a few dozen institutions involved in running the
+ securitisation machine. There were, however, many more ultimate investors
+ in the final securities. Often they did not understand the risks in those
+ securities. The structures were quite opaque, and the language describing
+ the underlying mortgages – subprime, Alt-A,
+ HELOC
+[4]
+and so on – did not give a good sense of the quality of those loans. The same
+ label was applied to loans that performed very differently, depending on who
+ made the loan and where the home was.
+As the mortgage losses piled up, the prices of these securities fell. The firms and
+ investment vehicles that held those securities began to incur losses. The
+ consequences of this were another thing that policymakers didn't anticipate.
+ Not only did they not appreciate how exposed the major global banks, and some
+ minor ones, were to these bad assets. They also didn't appreciate how
+ much everyone would panic because they didn't know
+which
+of their counterparties were exposed to those bad assets, and
+how far
+the prices of the securities would decline. Banks became
+ unwilling to lend to each other on an unsecured basis, and the price of such
+ lending rose drastically (Graph 3).
+Graph 3
+Securitisation was meant to be this wonderful thing that got risk out of the banking
+ system, but actually it just moved it to other parts of the banking system,
+ out of sight of the US regulators, and apparently out of mind of banks'
+ management.
+Since I am speaking to an audience of accountants, I should also mention the role
+ that valuation practices played in the crisis. Because these securities were
+ so opaque, investors were unusually uncertain about how they should be priced.
+ Sometimes they just relied on the credit rating, which creates its own problems.
+ Sometimes they relied on the pricing models of the bank that sold them the
+ securities, which raised all sorts of governance issues. But even if they
+ did their own valuations, marking to model became all but infeasible. It wasn't
+ enough just to disclose what kinds of mortgages were behind the security,
+ because the marketing labels didn't reveal enough about loan quality.
+ There was subprime and subprime. The level of detail about the lending standards
+ mattered enormously, and so did the details of the valuation models based
+ on that information.
+The Subsequent Convulsions
+After the panic following the failure of AIG, Lehman and others, it wasn't long
+ before the macro data took a turn for the worse. The global economy headed
+ for a serious downturn: the contraction in the G7 economies was unlike anything
+ seen in decades (Graph 4).
+Graph 4
+Why did economic activity contract so quickly, and in so many countries quite removed
+ from the financial centres where the trouble began? I don't think there
+ is yet a definitive answer to this question. There are several plausible possibilities
+ but two in particular come to mind. First, there was a big news effect. Remember
+ it wasn't just Lehman that failed in those critical weeks. There had been
+ a cascade of failures, especially in the United States. There was a real sense
+ that the global financial system was at risk of collapse. It's understandable
+ that many households and firms saw that news, and decided to rein in their
+ spending to protect themselves better from a coming downturn. In doing so,
+ they helped create that downturn. Keynes' ‘animal spirits’
+ remain highly relevant to macroeconomic outcomes, even now.
+Second, reinforcing that effect, some recent empirical work has shown that a few
+ large organisations can have disproportionate effects on economic activity
+ – firm-specific effects don't just wash out in the aggregate (Gabaix
+ 2011). For example, this research cites evidence that 35 per cent
+ of Korean exports are accounted for by just two firms, and only 10 or so firms
+ account for the same fraction of Japanese exports. With that in mind, it isn't
+ hard to imagine how these large reactions occurred in apparently distant countries.
+ If both those Korean firms changed their production plans because of concerns
+ stemming from the crisis, of course we would see a large effect in the macroeconomic
+ data. In that light, perhaps the sharp declines in real output can be more
+ easily understood, even if they seemed shocking at the time (Graph 5).
+Graph 5
+And as economies turned down and risk aversion rose, we started to see the effects
+ on parts of the world that were apparently unconnected to the original crisis.
+ Business models that seemed to work when credit was easy started looking less
+ sensible. We are seeing that especially clearly in Europe recently. But there
+ have been several other waves of turmoil in between, in places like Dubai
+ and eastern Europe.
+The Lessons
+The last five years have taught a number of lessons to policymakers, market participants
+ and outside observers such as academics. But have we learned the right lessons?
+We learned that short-term wholesale funding markets can be even flightier than supposedly
+ unsophisticated depositors. So banks needed to change their funding mix, and
+ in Australia at least, they have. But the firms overseas that got into trouble
+ because of their funding models tended to have much higher shares of wholesale
+ funding, and shorter maturities, than we see in Australia today. It would
+ be a mistake to conclude that any level of wholesale funding is dangerous.
+We should also bear in mind that some of the metrics people use to assess funding
+ structures can be quite misleading. I am thinking particularly of the loan-to-deposit
+ ratio. This ratio is higher in Australia than it is in some other banking
+ systems, though not out of line with a few others (Graph 6). But if you
+ see a bank with a very low level of this ratio, well below 100 per cent,
+ ask yourself what the bank is doing with that deposit funding instead. They
+ are investing it in securities and other kinds of investment. And as we saw
+ in the crisis, those securities can often be far riskier than regular lending.
+ So it would be a mistake to focus on these kinds of metrics.
+Graph 6
+We also had yet another iteration of the old lesson that property market dynamics
+ can drive episodes of financial instability. Ten years ago, the global debate
+ about whether monetary policy should respond to asset prices was rather unhelpfully
+ focused on equity markets, which at the time did not have the kind of leverage
+ that is the nub of the problem. The crisis has shown that property markets
+ are usually more relevant to financial stability. These markets have the boom–bust
+ dynamics and leverage needed to turn an asset price downturn into a financial
+ crisis. But it would be a mistake to conclude that the biggest – or
+ indeed the only – risk to financial stability stems from home mortgage
+ lending. Quite frankly I consider it irresponsible to fixate on one source
+ of risk to the exclusion of others that are more relevant or pressing. Let
+ me be clear: risks from housing markets are not zero, and never will be. But
+ commercial real estate or property developers are still more likely to pose
+ risks to a financial system, and through it, to the real economy. The longer
+ history of financial crises all over the world has taught us that. And there
+ are other risks within the financial system itself that are at least as worthy
+ of attention. Any sensible policy for promoting financial stability monitors
+ all reasonable potential risks, and responds proportionately according to
+ their relative importance.
+It would likewise be a mistake to conclude that just because housing markets in some
+ countries have caused problems, they always will, in all countries. The US
+ market is quite unusual. Housing booms have to end sometime, but they don't
+have
+to end in tears. Among other things it takes the passage of
+ time and diligent attention from the regulators to ensure housing booms don't
+ end in a harmful bust, but it can be done.
+We learned that the major banking systems of the world needed more capital, and that
+ the capital needed to be real, loss-absorbing capital. That is why the Basel
+ III package was so crucial. But it would be a mistake to think that the answer
+ to every problem is more capital. I can well imagine a situation where bank
+ management and regulators become complacent about highly capitalised banks.
+ They might think their bank can't possibly burn through all that capital
+ and fail. Just like ‘that ship couldn't possibly sink’.
+If the same bank gets more capital but changes nothing else, it will be safer. There
+ will be more shareholders' funds to absorb any losses that might occur.
+ But all else is not equal. The bank with more capital might feel emboldened
+ to try to grow faster, or to take on other risks. Or it might be being
+required
+to hold that extra capital, because it has a business model
+ that is inherently riskier in ways the Basel risk weights don't capture
+ properly. For example, its business might be quite geographically concentrated.
+ The Basel framework already handles cases like this using what is known as
+ Pillar 2. Supervisors can and do require banks to hold more capital to cover
+ these kind of bank-specific risks. In Australia, APRA routinely sets some
+ institutions' Prudential Capital Ratios to be higher than the Basel minimum.
+ Business models differ, and thus so do inherent risks. Because of that, I
+ wouldn't
+necessarily
+expect a bank with higher capital to be safer than one with lower capital. It might
+ or might not be. It depends on whether the additional capital was enough to
+ cover these less easily measured risks.
+So we should not be surprised that banks with high reported capital ratios were not
+ less likely to fail than banks with lower capital ratios. Part of the problem
+ is that the rules differ slightly across countries, even under Basel II. More
+ broadly, though, this is an example of the well-known trope that ‘you
+ become what you measure’. If you tell people to fulfil a particular
+ metric, they will do so. But in doing so, the metric will start to lose its
+ relationship with the thing you really care about. For this reason, I doubt
+ that we will ever find the single variable that would ensure financial stability
+ if only banks could be made to meet it. This is why diligent supervision is,
+ if anything, more important than how simple or complex or clever the rules
+ might be.
+Finally, there was a further lesson reinforcing our existing view that the pursuit
+ of financial stability requires thinking holistically. The people who knew
+ that the US mortgage market had become imprudent didn't know how
+ the resulting credit risk was being distributed globally. The people who understood
+ structured finance didn't know much about housing and mortgage markets.
+ The system was too complex and interconnected for one person to be expert
+ in all its elements and links. In fact we should not expect any system to
+ be entirely within a single person's expertise. This is why interagency
+ cooperation – and international cooperation and information sharing
+ – is so important.
+To conclude, five years on we are still in a world where risk aversion is high and
+ some parts of the financial system seem dysfunctional. In some countries –
+ though not Australia, I believe – the supply of credit is tighter than
+ the underlying risks would require. I hope I won't come back in five years'
+ time to deliver a speech titled ‘Ten Years of Financial Crisis’.
+ But I do think that the experience of the past five years has affected a whole
+ generation of financial market participants and policymakers. We will never
+ be able to regulate the financial boom-bust dynamic away entirely. There will
+ always be people with the risk appetite and the incentives to become over-exuberant.
+ It would not surprise me, though, if the next five or ten years see a lot
+ less of that over-exuberance than we saw in the five or ten years leading
+ up to 2007. The challenge will be to be ready to respond when those memories
+ fade and the next generation of the overconfident are gearing up for a party.
+Thank you for your time.
+Endnotes
+I particularly have in mind the second paragraph from the Overview of the September
+ 2006
+Financial Stability Review
+, which pointed out that
+ valuations were based on favourable expectations and susceptible to disappointing
+ news. The APRA
+Annual Report
+for 2004/05 noted concerns that
+ risk was being underpriced and emphasised that business strategies should
+ not lose touch with economic realities (p 9).
+[1]
+The relevant discussion is on pages 29–30. It wasn't until I went to the
+ BIS in 2007 and was working on related topics that I realised how bad things
+ were in the US mortgage market, especially relative to other countries.
+[2]
+In Australia, not all deposit-taking institutions are called ‘banks’;
+ they include credit unions and building societies. All these institutions
+ are prudentially regulated by APRA, and collectively they are known as authorised
+ deposit-taking institutions (ADIs). I use the terms ‘banking institution’
+ and ‘banking system’ to mean all types of financial firm engaged
+ in banking business, regardless of their label.
+[3]
+HELOC stands for home equity line of credit.
+[4]
+References
+Ellis L (2006), ‘
+Housing and Housing Finance: The View from Australia and Beyond
+’,
+ RBA Research Discussion Paper 2006-12.
+Gabaix X (2011), ‘The Granular Origins of Aggregate Fluctuations’,
+Econometrica
+79(3), pp 733–772.
+Pozsar Z, T Adrian, A Ashcraft and H Boesky (2010), ‘The Shadow Banking System’,
+ Federal Reserve Bank of New York Staff Report 458, available at <http://www.ny.frb.org/research/staff_reports/sr458.pdf>.

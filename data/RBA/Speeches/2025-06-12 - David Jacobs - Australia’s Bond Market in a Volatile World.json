@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia’s Bond Market in a Volatile World",
+  "date_original": "2025-06-12",
+  "date_au": "12/06/2025",
+  "datetime_original": "",
+  "speaker": "David Jacobs",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-so-2025-06-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-06-12 - David Jacobs - Australia’s Bond Market in a Volatile World.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-06-12 - David Jacobs - Australia’s Bond Market in a Volatile World.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a5856883589fef79b6922c31a37a70d4b670069109f56bd91bb300ee675cfa8b"
+}

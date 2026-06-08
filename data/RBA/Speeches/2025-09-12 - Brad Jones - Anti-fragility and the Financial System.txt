@@ -1,0 +1,165 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Anti-fragility and the Financial System
+DATE: 12/09/2025
+SPEAKER: Brad Jones
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2025/sp-ag-2025-09-12.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Anti-fragility and the Financial System
+Brad Jones
+*
+Assistant Governor (Financial System)
+Opening Remarks to FINSIA: The Regulators
+Sydney
+–
+12 September 2025
+Audio
+10MB
+Q&A Transcript
+Watch video: Brad Jones, Assistant Governor (Financial System), Opening Remarks to FINSIA: The Regulators, Sydney
+Thank you to FINSIA for the opportunity to be here with you.
+For industry and those of us in the policymaking community charged with the responsibility of promoting
+ stability, structural change in the external operating environment is making for unusually challenging
+ times. I am not talking about standard business cycle uncertainty here, but rather a new era of
+ strategic, technological and operational disruption that is cutting across the financial system and wider
+ society in complex ways.
+But my main point today is that while these challenges will require a laser-like focus on resilience over
+ the coming years, this does not have to come at the expense of innovation, competition and efficiency.
+ Far from it – these objectives can be mutually reinforcing. As industry and regulators, our
+ challenge here is to work creatively to build a financial system that has an ‘anti-fragile’
+ character. A system that is vulnerable to disruption – geopolitical, technological, or otherwise
+ – has inherent fragility and is more likely to break when stressed. By contrast, and to invoke
+ Nassim Taleb’s characterisation, an anti-fragile system is one that can not only weather most storms
+ but stands to benefit from disruptive change.
+A new era of disruption?
+The international system is undergoing seismic adjustment – on a scale and speed unseen in eight
+ decades. The wheels of globalisation are grinding with more friction. Key tenets of the rules-based
+ international order are being challenged. The strategic environment is becoming more contested and
+ complex. And for financial institutions, and even nations, self-insurance against a wide range of
+ scenarios is assuming more prominence than at any time since the end of the Cold War. In short, the era
+ of the peace dividend is over.
+We are also navigating a period of rapid technological transformation. As the financial system is
+ increasingly digitalised, the surface for cyber-attacks is expanding, fuelling a new cyber arms race.
+ Cloud computing is helping to alleviate single points of failure, but concentration risk in cloud and
+ other advanced technology service offerings risks amplifying third-party dependencies. Quantum computing
+ will also raise its own set of challenges and opportunities. And while artificial intelligence (AI) could
+ unleash a burst of productivity across industries and economies, my discussions with international
+ counterparts reveal concerns about its potential to accelerate fraud, misinformation and other sources of
+ financial instability. One example is contagion and herding risk, where parties could come to rely on
+ similar models trained on similar data that therefore generate similar actions – including in a
+ crisis. Moreover, the complexity of AI systems developed outside the regulatory perimeter means that
+ systemic vulnerabilities could grow in a way that is not obvious to the boards of financial institutions
+ or supervisors.
+The resilience of the financial system to disruptions to critical infrastructure – the electrical
+ grid and telecommunications network – is also a growing focus internationally. These challenges are
+ not just limited to cyber intrusions, surging energy demands from big data and extreme weather events. In
+ April, cascading power outages on the Iberian Peninsula affected 50 million households and prompted
+ the Spanish Government to declare a national emergency. While economic activity declined by almost half
+ its daily level, these disruptions would have been worse still had the functioning of key financial
+ infrastructure also been compromised. And small, low orbit satellites are increasingly being viewed as an
+ important source of ‘all hazard’ redundancy when mainland telecommunications capabilities are
+ stressed, as seen in Ukraine and elsewhere.
+Anti-fragility – building resilience through innovation and dynamism
+Confronted with extreme-but-plausible sources of systemic disruption, it might be tempting for financial
+ system regulators to prioritise resilience over all else, including innovation, competition and
+ efficiency. But I’m not persuaded that casting these objectives as a trade-off – resilience on
+ the one hand, or innovation, competition and efficiency on the other – is a helpful framing.
+ Rather, the opportunity we must grasp is to have these concepts mutually reinforce one another.
+To that end, the RBA’s Payments System Board has long had a mandate to support competition and
+ efficiency in a manner that is consistent with stability in the financial system. My colleagues and I are
+ well aware of the regulator curse, otherwise known as ‘the stability of the graveyard’, where
+ an excessive desire to minimise risk in the system could come at the cost of robbing it of all vitality
+ and therefore its ability to support economic growth over the long term.
+With that in mind, our recently updated Strategic Plan places considerable emphasis on harnessing the
+ forces of innovation, dynamism and competition to better promote resilience in the Australian payments
+ system and across our financial market infrastructure more generally.
+1
+It is in this sense that we are
+ striving to give our system an ‘anti-fragile’ character. Let me provide some recent examples.
+First, under a rebooted Industry Resilience Initiative, the RBA and APRA are working with the major banks,
+ Australian Payments Plus and AusPayNet to enhance existing capabilities and develop new ones to ensure
+ essential payment services can continue to operate in the event of a significant disruption to our
+ payments system. This ‘all hazards’ initiative is one of the key pillars of a significant
+ program of work the Council of Financial Regulators are progressing with industry to strengthen the
+ resilience of our financial system to geopolitical and operational risk. This includes a system-wide
+ mapping of potential vulnerabilities.
+Second, as the vision for Australia’s future account-to-account (A2A) payments takes shape, the RBA
+ is engaging with industry to ensure that resilience is baked into new technological solutions. Following
+ our Risk Assessment in March, we recently set out a Public Interest Framework to guide industry in their
+ strategic planning for the future A2A system.
+2
+This is a technology agnostic, principles-based
+ framework that prioritises the reliability of the payments system through robust contingency and
+ recoverability arrangements, alongside new functionality spurred by competitive tension and innovation.
+ As a practical example, we view interoperability – the ability for systems to connect to each other
+ – as integral to promoting resilience, competition and efficiency. In good times, end users will
+ have greater choice over service providers; when systems go down, contingency options will be available.
+Third, given advances in quantum computing will pose a risk to the secure exchange of payment details, we
+ are strongly supporting industry efforts to migrate to the Advanced Encryption Standard (AES), which is
+ viewed as a quantum-safe solution. Nefarious actors are already storing vast amounts of data with the
+ expectation of breaking current encryption standards down the track – a strategy known as
+ ‘harvest now, decrypt later’. In the absence of greater urgency and effective industry
+ coordination, there is a risk that the migration to the AES for card payments will occur too slowly,
+ leaving end users exposed to increased risk of fraud. This could undermine trust in card payments and the
+ wider financial system.
+Fourth, in an effort to promote more competition in financial market infrastructure (FMI), the Payments
+ System Board recently raised the threshold beyond which firms are required to comply with the Financial
+ Stability Standards for Securities Settlement Facilities. This step, where the annual settlement activity
+ threshold increased from $200 million to $40 billion, has already helped to streamline clearing
+ and settlement facility licence applications for small firms, and we hope to see more entrants emerge to
+ stimulate competition and diversify risk across the FMI landscape.
+Fifth, we have been engaged in two projects – Acacia and Mandala – aimed at strengthening the
+ efficiency and resilience of wholesale and cross-border payments. In Project Acacia, we are working
+ alongside the Digital Finance Cooperative Research Centre, industry partners and regulators to better
+ understand how innovation in financial infrastructure and digital money, including central bank digital
+ currency, might uplift the functioning of Australia’s wholesale financial markets.
+3
+We are
+ also preparing to support Treasury and ASIC in a review of the enhanced regulatory sandbox to ensure it
+ best supports innovation and resilience across the payment and FMI ecosystem. At the same time, we are
+ collaborating with central bank partners on Project Mandala, which aims to develop protocols to automate
+ regulatory compliance processes in cross-border payments using new types of ledger arrangements. The aim
+ here is to make cross-border payments more transparent, faster and safer.
+Finally, we are assisting the Government to advance and implement its payments regulatory reform agenda
+ – including reforms to the Payment Systems (Regulation) Act and licensing arrangements. These
+ reforms will boost regulatory clarity for industry and strengthen the ability of financial regulators to
+ promote innovation, competition and resilience in the system. Without this, network and other effects
+ mean that the payments industry could tend towards anti-competitive outcomes, where dominant players
+ impose barriers to entry that raise costs for businesses and consumers and stifle the sort of positive
+ disruption that startups often introduce.
+Concluding remarks
+To conclude, ensuring our financial system remains strong and resilient has never been more important. If
+ we are to meet this challenge head on, we will need to harness the forces of innovation, competition and
+ dynamism more fully and more creatively. My colleagues and I at the RBA and on the Payments System Board
+ are committed to working constructively with industry to make this happen. Australians are depending on
+ all of us here to get this right.
+Thank you, and I look forward to your questions.
+Endnotes
+Thanks to colleagues in Payments Policy
+ Department for their assistance in preparing these remarks.
+*
+Payments Systems Board (2025),
+Annual
+ Report 2025
+(forthcoming).
+1
+RBA (2025), ‘
+Decommissioning
+ of the Bulk Electronic Clearing System: RBA Risk Assessment
+’, March; RBA (2025),
+ ‘
+Public
+ Interest Framework for a Successful Account-to-Account Payments System
+’, July.
+2
+RBA (2025), ‘
+Project Acacia: RBA and DFCRC Announce Chosen
+ Industry Participants and ASIC Provides Regulatory Relief for Tokenised Asset Settlement
+ Research Project
+’, Media Releases No 2025-18, 10 July.
+3

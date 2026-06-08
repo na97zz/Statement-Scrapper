@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Market Operations in the Past Year – Melbourne",
+  "date_original": "31 October 2008",
+  "date_au": "31/10/2008",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-ag-311008.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-10-31 - Melbourne - Market Operations in the Past Year – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-10-31 - Melbourne - Market Operations in the Past Year – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9afd2daba890b8a849d8a0e4d58f63fddd736a193133691785c2cb0df512f0c0"
+}

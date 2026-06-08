@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Monetary Policy Process at the RBA – Melbourne",
+  "date_original": "10 October 2001",
+  "date_au": "10/10/2001",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2001/sp-ag-101001.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2001-10-10 - Melbourne - The Monetary Policy Process at the RBA – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2001-10-10 - Melbourne - The Monetary Policy Process at the RBA – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:40",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "12a08491c6e207fa8572a4feb0e1ce1689883bbb90176e583ed94ba51efdd7ac"
+}

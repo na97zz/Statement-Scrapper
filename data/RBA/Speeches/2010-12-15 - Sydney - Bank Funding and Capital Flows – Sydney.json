@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Bank Funding and Capital Flows – Sydney",
+  "date_original": "15 December 2010",
+  "date_au": "15/12/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-151210.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-12-15 - Sydney - Bank Funding and Capital Flows – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-12-15 - Sydney - Bank Funding and Capital Flows – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d48a78d47a26f8bdac239ec319a851145d5ee80c0ef68728e274308967123940"
+}

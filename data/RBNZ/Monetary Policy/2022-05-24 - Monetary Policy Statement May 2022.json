@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement May 2022",
+  "date_original": "2022-05-24",
+  "date_au": "24/05/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2022/mpsmay22.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2022-05-24 - Monetary Policy Statement May 2022.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2022-05-24 - Monetary Policy Statement May 2022.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:56",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/monetary-policy-statement-may-2022",
+  "content_sha256": "8c8f7235ac2f68f3ab60334ac683c3d1b507930234f09d619bf504c5a719d396"
+}

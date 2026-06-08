@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy Decision",
+  "date_original": "2024-05-07",
+  "date_au": "07/05/2024",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/mc-gov-2024-05-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-05-07 - Michele Bullock - Monetary Policy Decision.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-05-07 - Michele Bullock - Monetary Policy Decision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "95894a28c8f17f67da90455ab876b7f637f7f431da836b6a3254f0a43ac1c39a"
+}

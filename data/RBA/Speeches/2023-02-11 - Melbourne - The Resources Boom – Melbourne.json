@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Resources Boom – Melbourne",
+  "date_original": "2023-02-11",
+  "date_au": "11/02/2023",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-gov-230211.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-02-11 - Melbourne - The Resources Boom – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-02-11 - Melbourne - The Resources Boom – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0cc2aef938b3e7adc5fcf79a7860605436f747213c82caf7edf335cb48f5f63c"
+}

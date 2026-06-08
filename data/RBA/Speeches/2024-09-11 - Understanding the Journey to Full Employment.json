@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Understanding the Journey to Full Employment",
+  "date_original": "2024-09-11",
+  "date_au": "11/09/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-09-11.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-09-11 - Understanding the Journey to Full Employment.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-09-11 - Understanding the Journey to Full Employment.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "885322978fa1fbb5e9d4e8b38dbcee8458c5404c7268856592394dad82284d68"
+}

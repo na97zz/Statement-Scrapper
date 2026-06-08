@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Technology and the Future of Central Banking at the RBA",
+  "date_original": "2025-09-03",
+  "date_au": "03/09/2025",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-09-03.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-09-03 - Michele Bullock - Technology and the Future of Central Banking at the RBA.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-09-03 - Michele Bullock - Technology and the Future of Central Banking at the RBA.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cd0b23e5f2ffb6228aae29e31b3c351f1fe07ecd3a34b212af404f22ec438b6a"
+}

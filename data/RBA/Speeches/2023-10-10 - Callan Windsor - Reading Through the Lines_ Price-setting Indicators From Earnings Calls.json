@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Reading Through the Lines: Price-setting Indicators From Earnings Calls",
+  "date_original": "2023-10-10",
+  "date_au": "10/10/2023",
+  "datetime_original": "",
+  "speaker": "Callan Windsor",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-10-10.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-10-10 - Callan Windsor - Reading Through the Lines_ Price-setting Indicators From Earnings Calls.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-10-10 - Callan Windsor - Reading Through the Lines_ Price-setting Indicators From Earnings Calls.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7edfcd922bc542ff74117299dd3dc813a932b159745d7b05128139d7f03da0b1"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Report June 2022",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2022/monetary-policy-report-june-2022/",
+  "raw_file_path": "data\\RIKSBANK\\Monetary Policy\\2022-06-01 - Monetary Policy Report June 2022.html",
+  "text_file_path": "data\\RIKSBANK\\Monetary Policy\\2022-06-01 - Monetary Policy Report June 2022.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:59:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "db96b7728463a887d6f4953a93612c41121546c3f913513a8708cd376376f7ef"
+}

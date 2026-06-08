@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Reflections on Financial Stability",
+  "date_original": "2026-03-26",
+  "date_au": "26/03/2026",
+  "datetime_original": "",
+  "speaker": "Reflections on Financial Stability",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/cook20260326a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-26 - Reflections on Financial Stability - Reflections on Financial Stability.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-26 - Reflections on Financial Stability - Reflections on Financial Stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ffe8d186aea2269e3395952ae9e7183b90b65f1e5ef73a20b8ac07dbc2722243"
+}

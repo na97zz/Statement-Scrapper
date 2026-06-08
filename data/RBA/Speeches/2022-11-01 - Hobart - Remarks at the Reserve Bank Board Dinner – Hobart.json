@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks at the Reserve Bank Board Dinner – Hobart",
+  "date_original": "2022-11-01",
+  "date_au": "01/11/2022",
+  "datetime_original": "",
+  "speaker": "Hobart",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-11-01.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-11-01 - Hobart - Remarks at the Reserve Bank Board Dinner – Hobart.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-11-01 - Hobart - Remarks at the Reserve Bank Board Dinner – Hobart.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "de9d1a5919790f72a023d2d5db99b1f651a46a037432f04813055dd1263a9225"
+}

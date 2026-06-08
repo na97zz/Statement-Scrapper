@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "On Risk and Uncertainty – Sydney",
+  "date_original": "31 August 2010",
+  "date_au": "31/08/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-310810.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-08-31 - Sydney - On Risk and Uncertainty – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-08-31 - Sydney - On Risk and Uncertainty – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a9b8fd0131be505bb3f79ac89e6543a31e4d0a42fe328aee2f3954e4723d6e97"
+}

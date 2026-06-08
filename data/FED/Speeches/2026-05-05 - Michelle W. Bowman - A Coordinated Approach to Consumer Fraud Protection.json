@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "A Coordinated Approach to Consumer Fraud Protection",
+  "date_original": "2026-05-05",
+  "date_au": "05/05/2026",
+  "datetime_original": "",
+  "speaker": "Michelle W. Bowman",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/bowman20260505a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-05 - Michelle W. Bowman - A Coordinated Approach to Consumer Fraud Protection.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-05 - Michelle W. Bowman - A Coordinated Approach to Consumer Fraud Protection.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "49197fbd4f43232f620946e37d1d08c54edcb153147d2b4b161d188fbef3db6e"
+}

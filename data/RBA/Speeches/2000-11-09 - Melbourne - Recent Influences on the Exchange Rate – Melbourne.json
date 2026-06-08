@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Influences on the Exchange Rate – Melbourne",
+  "date_original": "9 November 2000",
+  "date_au": "09/11/2000",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-gov-091100.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-11-09 - Melbourne - Recent Influences on the Exchange Rate – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-11-09 - Melbourne - Recent Influences on the Exchange Rate – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:57",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8af793f54db71b8ef543351f80654505b41741c534aa60de32cd4fae44aa35c"
+}

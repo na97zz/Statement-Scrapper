@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Recent Trends in Inflation – Online and Sydney",
+  "date_original": "2021-11-16",
+  "date_au": "16/11/2021",
+  "datetime_original": "",
+  "speaker": "Online and Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-11-16.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-16 - Online and Sydney - Recent Trends in Inflation – Online and Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-16 - Online and Sydney - Recent Trends in Inflation – Online and Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "387524c7de11da947b09a42e7c5fb8dce6c59c4662a1ce11c966a145aa8058d7"
+}

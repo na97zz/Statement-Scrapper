@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Economic perspectives",
+  "date_original": "2026-02-12",
+  "date_au": "12/02/2026",
+  "datetime_original": "",
+  "speaker": "Economic perspectives",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2026/2026-02-12-annual-address/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2026-02-12 - Economic perspectives - Economic perspectives.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2026-02-12 - Economic perspectives - Economic perspectives.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:19",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cac5962bd5262714a280b09ea8271273de6cd2e2c5f5a4cde8c143f79882c19f"
+}

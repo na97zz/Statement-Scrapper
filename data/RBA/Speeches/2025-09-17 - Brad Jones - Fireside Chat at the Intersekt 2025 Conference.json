@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Intersekt 2025 Conference",
+  "date_original": "2025-09-17",
+  "date_au": "17/09/2025",
+  "datetime_original": "",
+  "speaker": "Brad Jones",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-09-17.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-09-17 - Brad Jones - Fireside Chat at the Intersekt 2025 Conference.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-09-17 - Brad Jones - Fireside Chat at the Intersekt 2025 Conference.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "14727cf4d370f6e2b63fe64fda0ddde722fc35ce5348c8e1676b32fdedc0da33"
+}

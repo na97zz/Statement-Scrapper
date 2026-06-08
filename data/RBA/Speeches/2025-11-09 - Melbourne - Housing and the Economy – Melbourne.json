@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Housing and the Economy – Melbourne",
+  "date_original": "2025-11-09",
+  "date_au": "09/11/2025",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-dg-251109.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-11-09 - Melbourne - Housing and the Economy – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-11-09 - Melbourne - Housing and the Economy – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ff01b61498df9546e7999952d6937116844a10ebbd6d6bb2ae6edaaa779c07f3"
+}

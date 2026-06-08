@@ -1,0 +1,1559 @@
+BANK: RBNZ
+CATEGORY: Speeches
+TITLE: Presentation to the Annual Conference of the NZ Association of Economists (NZAE)
+DATE: 30/06/2023
+SPEAKER: Personnel
+SPEAKER ROLE: 
+SOURCE URL: https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2023/bob-buckle-nzae-speech-final-21-june.pdf
+DOCUMENT TYPE: pdf
+
+==== EXTRACTED TEXT START ====
+
+1 
+ 
+Monetary policy and the benefits and limits  
+of central bank independence 
+ 
+ 
+ 
+Robert A. Buckle 
+Emeritus Professor, Victoria University of Wellington.  
+External Member, Reserve Bank of New Zealand Monetary Policy Committee. 
+ 
+ 
+Disclaimer: The views expressed in this paper are those of the author and do not necessarily 
+reflect the views of colleagues, the Reserve Bank of New Zealand, and other members of the 
+Reserve Bank of New Zealand Monetary Policy Committee. 
+ 
+ 
+Abstract: Central bank independence is an important development in macroeconomics. It has 
+become a lynchpin of modern central banking. The period since the Global Financial Crisis 
+and the experience of the Covid-19 pandemic era posed new challenges for central banks, with 
+potential implications for central bank independence. This paper reviews the scope and 
+rationale for central bank independence and the reasons it spread internationally after the 
+1980s. It reviews evidence of the effects of central bank independence on inflation, output 
+volatility, financial stability and fiscal policy. The paper considers political threats and 
+contemporary policy issues that could influence the form of central bank independence and 
+credibility. These issues include matters relating to assessments of monetary policy during the 
+pandemic, the scope of central bank mandates, interpretations of inflation dynamics, the 
+funding of central bank operations, and the interaction between fiscal and monetary policy.  
+ 
+ 
+Presented to the Annual Conference of the New Zealand Association of Economists.                     
+30 June 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgments: I am grateful to Laura Austin, Vanessa Balshaw, Chris Bloor, Alan 
+Bollard, Matthew Brunton, Andrew Coleman, John Creedy, Punnoose Jacob, Ross Kendall, 
+Lewis Kerr, Adrian Orr, Kate Poskitt, Adam Richardson, and Grant Spencer for helpful 
+discussions and suggestions while preparing for this paper. 
+
+
+2 
+ 
+Monetary policy and the benefits and limits  
+of central bank independence 
+ 
+1. Introduction 
+It is a great pleasure to be invited to speak at the Annual Conference of the New Zealand 
+Association of Economists (NZAE). I attended my first NZAE conference during the mid-
+1970s. At that time, average annual inflation for OECD countries was persistently around 10 
+per cent, and rising. Four years later it was over 15 per cent and hovered around 8 per cent until 
+the early 1990s. Thereafter, inflation declined and never exceeded 8 per cent for over 30 years, 
+and persisted for long periods between 1 and 3 per cent, until the resurgence after the Covid-
+19 pandemic. 
+The containment of inflation for over 30 years in many countries was not a chance event. A 
+transformation in central banking took place during the 1990s. Many countries gave greater 
+operational independence to central banks for monetary policy, supported by novel 
+accountability and transparency requirements. This occurred initially among developed 
+economies, although many developing economies also soon adopted this institutional 
+framework for monetary policy. During this process, inflation declined globally. While other 
+factors contributed to low inflation, central bank independence (CBI) came to be regarded as 
+the crucial foundation for credible monetary policy and persistent low inflation.  
+Central bank independence is an important development in macroeconomics, and is a lynchpin 
+of modern central banking. Nevertheless, confidence in CBI has recently come under strain 
+and in some instances been threatened. Some claim central banks have become far less 
+independent than two decades ago.1 Others are concerned with the expanded role of central 
+banks and implications for their clarity of purpose, adequate accountability and legitimacy.2 
+Some have suggested central banks have become less focussed on inflation.3 Others have 
+expressed concern over rising political threats to central bank independence, or that the 
+constituency for low inflation has been eroded.4  
+In extending this invitation, the NZAE Council suggested I speak on the broad developments 
+of a topic in economics or economic policy. In the spirit of that request, I will discuss the 
+background to the emergence of CBI, review its scope and meaning, its spread internationally, 
+and why it was adopted by so many countries. I also will review evidence of the benefits arising 
+from CBI. Finally, I will address some issues that have emerged in recent times relevant to the 
+concerns mentioned above and which have potential implications for central bank 
+independence and monetary policy.  
+                                                          
+1 See for example, Rogoff (2022), Lingle (2021) 
+2 See for example, Tucker (2018a), Rajan, (2023). 
+3 See The Economist (2022). 
+4 See Goodhart & Lastra (2018a) on rising political threats. King (2023) suggests the constituency for low inflation is eroding. 
+
+
+3 
+ 
+2. The scope and growth of central bank independence 
+Central bank independence refers to the freedom of monetary policymakers from direct 
+political or governmental influence in the conduct of policy.5 This does not involve complete 
+independence from government because legislation specifying the objectives of a central bank 
+are determined by governments. Furthermore, funding, board appointments, and accountability 
+requirements of central banks are determined by governments.  
+There are different elements to CBI and the manner in which they are specified varies across 
+central banks. These elements cover how the central bank aligns with the political process and 
+other organs of government, the financing of a central bank, and the nature of the employment 
+conditions of central bank governors and monetary policy committee members. They cover 
+how the specification of central bank objectives are determined and how policy decisions are 
+formed and approved. They also cover issues relating to the choice of policy instruments 
+(degree of instrument autonomy), and accountability requirements.6  
+To provide structure to this complexity, attempts have been made to measure the degree of 
+independence using the laws of a country that establish and govern them.7 The most 
+comprehensive attempt are the coding and weighting rules developed by Cukierman, Webb 
+and Neyapti (1992) (CWN), shown in Table 1. The CWN scheme became a widely accepted 
+basis for de jure measures of CBI (although others have been developed and used for research).  
+Table 1: The CWN coding and weighting rules to measure central bank independence 
+Dimension of 
+independence 
+Components       
+(Weight in index) 
+Variables 
+(Weight in the component)   
+Categories 
+Personnel  
+CEO/Governor 
+(0.20) 
+Term of office of CEO (0.25)                              
+Who appoints the CEO (0.25)                              
+Provisions for dismissal of CEO (0.25)                       
+Rules about CEO holding another office in government (0.25) 
+5            
+5            
+7            
+2 
+Objectives 
+Objectives (0.15) 
+Central Bank objectives (1) 
+6 
+Policy 
+Policy formulation 
+(0.15) 
+Who formulates monetary policy (0.25)                   
+Government directives and resolution of conflicts (0.50)         
+Central Bank role in government budget formulation (0.25) 
+4 
+6 
+2 
+Financial 
+Limitation on 
+lending to 
+government (0.5) 
+Limitations on advances (0.30)                             
+Limitations on securitized lending (0.20)                     
+Who decides control of lending terms to government ((0.20) 
+Beneficiaries of Central Bank lending (0.10)                  
+Type of limits when they exist (0.05)                        
+Maturity of loans (0.05)                                   
+Restrictions on interest rates (0.05)                          
+Prohibition on Central Bank lending in primary market 
+to government (0.05) 
+4            
+4            
+4            
+4            
+4            
+4            
+5            
+2 
+Notes: Adapted from Garriga & Rodriguez (2020) and is a summary of Table 1 in Cukierman, et al. (1992).   
+                                                          
+5 Walsh (2009). 
+6 Bernanke (2017). 
+7 These de jure measures (i.e., based on legislation) of central bank independence trace back to Bade & Parkin (1978). Their 
+approach was to specify four categories of CBI. Subsequent approaches derived indices of CBI (Parkin, 2013). Examples 
+are Alesina (1988), Grilli et al. (1991), Alesina & Summers (1993), Fry, et al. (2000). The development of these indices is 
+reviewed in Eijffinger & de Haan (1996) and Arnone et al. (2006). 
+
+
+4 
+ 
+The most comprehensive application of the CWN rules for measuring CBI appears to be that 
+by Garriga (2016) covering 182 countries over the period 1970 to 2013. Measures of CBI 
+derived by Garriga for different country-income groups are shown in Figure 1. A striking 
+feature is a surge in the degree of central bank independence after 1990, for all income groups. 
+Garriga’s research also reveals the sources of change in central bank independence. There are 
+substantial differences in the contributions of the four components in Table 1. The largest 
+contributions to change in CBI have been from central bank objectives (especially a stronger 
+focus on inflation), operational independence, and financial independence (this refers to 
+limitations on lending to governments; it does not refer to budgetary independence). Personnel 
+independence has also increased but not by as much as the other three components.  
+Figure 1: Central bank independence: annual averages for country-income groups 
+ 
+Source: Garriga (2016, Figure 5.9). Online data appendix available from publisher’s website 
+https://www.tandfonline.com/journals/gini20 
+ 
+ 
+
+
+5 
+ 
+Measures of CBI based on statutes have some weaknesses. Statutes do not cover all 
+contingencies that could affect the relationships between governments and central banks, and 
+they can miss relevant influences on central bank independence. An example is the absence in 
+the CWN coding (and other de jure measures) of a measure of restrictions on funding of some 
+central bank monetary policy operations (discussed in Section 5.6). The weightings attached to 
+each component of central bank laws can be contested. Nevertheless, de jure measures have 
+the advantage of providing common measures of independence over time and across countries. 
+Attempts have been made to derive de facto measures of independence (e.g., the turnover rate 
+of central bank governors, and measures based on surveys of central bankers). But de facto 
+measures also have significant weaknesses, including the difficulty of establishing a consistent 
+measure across countries and over time.8 
+3. Reasons why central bank independence spread internationally 
+What prompted this dramatic change in the institutional framework for monetary policy during 
+the 1990s? After all, it seems the performances of early independent central banks were mixed, 
+and the concept had sceptics among influential monetary economists. According to Goodfriend 
+(2012), independent monetary policy originated in the 19th century with the Bank of England 
+and the US Federal Reserve. He considers the Bank of England’s lender of last resort policy 
+served its purpose well, but the Federal Reserve ran monetary policy according to an ill-defined 
+public interest and became a source of macroeconomic instability. In contrast, the independent 
+Bundesbank and Swiss National Bank were relatively successful at achieving persistently low 
+inflation during the post-WW2 decades. This was influential, especially in European Monetary 
+System countries.9  
+An early contribution to the CBI debate was by Milton Friedman (1962) in his discussion of 
+monetary structures “both stable and free from irresponsible government tinkering”. He 
+considered three alternatives: a commodity standard, an independent central bank, and 
+legislated rules for monetary aggregates. Friedman was sceptical that an independent central 
+bank could deliver low inflation consistently. He argued it was rare for an independent central 
+bank to not take account of government preferences, and the degree of independence was 
+dependent on the personality of central bank governors. He preferred instead that government 
+legislate rules for the instruments of policy, and specifically for money supply growth.  
+A dramatic change in Federal Reserve policy took place under the leadership of Paul Volcker. 
+In October 1979 the focus shifted toward controlling the money supply with the aim of reducing 
+inflation.10 Annual inflation had risen from 3 to 9 per cent in 18 months and was projected to 
+                                                          
+8 Cukierman et al. (1992) first proposed turnover rates of governors. Although often used in subsequent studies, the suitability 
+of turnover rates has been questioned by Dreher et al. (2008, 2010) who found the turnover rate is subject to endogeneity 
+issues. Furthermore, the turnover rate of governors does not take account of the degree of independence of other members 
+of a monetary policy committee. An example of measures of CBI based on surveys of central bankers is Fry et al. (2000). 
+This was based on a one-off survey responded to by central bank staff. Such surveys are not easily replicable and rely on 
+the accuracy of responses which could be influenced by what staff believe or would prefer, or would like others to believe.  
+9 See Cuikerman (1994). Alesina & Summers (1993) suggest the historical experience of hyperinflation in Germany may have 
+raised German public aversion to inflation and its interest in a more independent central bank committed to price stability.   
+10 The Federal Reserve Reform Act of 1977 had earlier required the Federal Reserve to direct its policies toward achieving 
+maximum employment and price stability and report progress to Congress (Federal Reserve System, 2022). 
+
+
+6 
+ 
+rise further. By the end of 1983, the annual inflation rate had been brought down to 4 per cent, 
+and low inflation was sustained until 2021.  
+The Volcker episode showed that monetary policy could achieve a significant reduction in 
+inflation. However, the output and employment costs of this policy were accentuated by weak 
+policy credibility.11 The system was still vulnerable to Friedman’s concern of dependence on 
+the personality of central bank governors. The problem was similar to the consequences of the 
+time-inconsistency of optimal plans highlighted by the seminal work of Kydland and Prescott 
+(1977). To overcome this problem and the inflationary bias it created in the context of monetary 
+policy, subsequent literature emphasised the importance of expectations, the credibility of 
+monetary policy, and the benefits of enforced commitments (or rules) over discretion.12 To 
+achieve a credible commitment to low inflation, Rogoff (1985) proposed delegating monetary 
+policy to an independent central bank in order to insulate central bankers from political 
+pressures that could otherwise induce elected politicians to renege on promises of low inflation.  
+It is widely considered that it was not until New Zealand introduced in 1989 a formal 
+arrangement combining operational independence and inflation targeting supported by a high 
+degree of transparency and accountability, that the idea of CBI (and inflation targeting) took 
+flight. This innovation was introduced in New Zealand as part of a wider set of public sector 
+reforms and a search for a solution to persistent high inflation.13 A feature of the legislation 
+was a contractual relationship between the central bank Governor and the Government that 
+changed the incentives of the central bank in a manner consistent with Rogoff’s proposal.14 
+Many features of New Zealand’s approach influenced central bank governance in other 
+countries. By the late 1990s, a consensus was emerging that the primary aim of monetary policy 
+should be to control inflation and CBI was an effective way to do this.15 
+Other factors influenced the spread of central bank independence. Research revealing the 
+adverse effects of persistent high inflation motivated the search for a solution to breaking high 
+inflation.16 Public-sector debt ratios in many countries had become much lower in this period 
+which meant that when central banks raised interest rates to reduce inflation, it would have 
+been of less concern for governments.17 The potential for CBI to signal creditworthiness to 
+foreign investors in an environment of more internationally integrated financial markets may 
+have also been a motivation.18 The influence of particular interest groups such as the financial 
+sector which was expanding during the 1990s, may therefore have been important. The 
+expansion of democratic regimes during the 1980s and 1990s may have been important. It has 
+                                                          
+11 Goodfriend & King (2005). 
+12 For example, Barro & Gordon (1983) and Backus & Driffill (1985) and earlier work by Milton Friedman, Robert Lucas and 
+others in emphasising the critical role of expectations.   
+13 Evans, et al. (1996), Grimes (1996). The CBI reforms were enacted by the Reserve Bank of New Zealand (RBNZ) Act 1989. 
+14 The influence of the NZ legislation is mentioned by numerous commentators. Examples are Mishkin & Savastano (2001), 
+Goodhart & Lastra (2018b), Loungani (2023). Walsh (1995) concluded the principal-agent approach implicit in the novel 
+accountability aspects of New Zealand’s approach was designed to sustain a socially optimal commitment policy.  
+15 Bernanke & Mishkin (1997). 
+16 High inflation in the 1970s and 1980s prompted more research into the effects of inflation on economic growth and how 
+those effects are manifest. See for example Grimes (1991) and Johnson (1993) and the extensive literature cited in these 
+papers. 
+17 Goodhart & Lastra (2018a). 
+18 Maxfield (1997). 
+
+
+7 
+ 
+been suggested democracies are more predisposed to the decentralisation of policy decisions, 
+and therefore more likely to allow central banks to pursue price stability objectives without 
+political interference.19 The IMF was active promoting the virtues of CBI in its Article IV 
+country reviews. A relatively benign global macroeconomic environment after the 1980s is 
+also likely to have supported the spread of CBI and inflation targeting.  
+4. What have been the benefits of central bank independence? 
+The growth of independent central banks after 1990 was associated with a shift in focus of 
+monetary policy toward inflation targeting.20 Initial interest therefore focussed on the marginal 
+effects of CBI on inflation and, to a lesser extent, output volatility. The effectiveness of 
+monetary policy also depends on the efficiency and stability of financial systems and the 
+cooperation of fiscal authorities. Accordingly, CBI spurred interest in evaluating whether 
+politicians circumvent the discipline of monetary policy independence via financial system 
+regulations and fiscal policy. The research into the marginal effect of central bank 
+independence has evolved considerably and benefitted from the availability of larger samples 
+of countries, improved data on central bank independence, improved econometric estimation 
+techniques and understanding of the importance of other factors that can influence the impact 
+of central bank independence. The following is a flavour of the insights from this research.  
+4.1. Central bank independence and inflation 
+Evaluation of the marginal impact of CBI on inflation goes back to Bade and Parkin (1978), 
+followed by several other studies in the 1990s.21 The broad conclusion was that CBI resulted 
+in lower inflation, with variation by country coverage and choice of indices of independence. 
+These studies focussed on developed economies and samples were relatively small. Subsequent 
+research extended country coverage, tested components of de jure independence and de facto 
+measures of independence, searched for possible coefficient estimation bias due to not 
+adequately controlling for other influences on inflation, allowing for country specific effects, 
+and improved econometric methods including dynamic panel estimation methods.22 This large 
+volume of research was evaluated by Klomp and de Haan (2010a) using meta-analysis. 
+Although they found results varied by time period, the size of inflation rates, and country 
+coverage, their overall conclusion is that CBI reduces inflation.  
+Significant effects of CBI reducing inflation were found in studies for Latin American 
+countries, democratic developing countries, former communist countries, and in countries with 
+initial high rates of inflation. Nevertheless, a common finding from the studies reviewed by 
+Klomp and de Haan is that while the effect of CBI on inflation was found in small subsets of 
+                                                          
+19 Lim (2021)  
+20 Bernanke et al. (2001, p4) defined inflation targeting as “a framework for monetary policy characterised by the public 
+announcement of official quantitative targets (or target ranges) for the inflation rate over one-or-more time horizons, and by 
+explicit acknowledgement that low, stable inflation is monetary policy’s primary long-run goal.” 
+21 These include studies by Alesina (1988), Grilli, et al. (1991), Cukierman, et al. (1992), Alesina & Summers (1993), and in 
+a similar way by Carlstrom & Fuerst (2009). 
+22 Some of the variables included in these studies to account for other influences on inflation include the exchange rate regime, 
+degree of international openness, fiscal policy, size of inflation rates, and characteristics of labour market conditions.  
+
+
+8 
+ 
+developing countries, the effect in developing countries was not always evident.23 Garriga and 
+Rodriguez (2020) suggest these differing results may have been due to sample selection bias 
+and estimation methods. They revisit this question using a sample of 118 non-OECD countries 
+covering 1980 to 2013, using the CWN approach to measure the degree of CBI.24 They find 
+that in most developing countries, a higher degree of CBI results in lower inflation. The effect 
+is stronger in the presence of more democratic institutions, in the presence of a floating 
+exchange rate, and when a central bank operates under an explicit inflation targeting mandate. 
+The effect of CBI on price stability nevertheless persists after controlling for these effects. 
+The spread of CBI facilitated greater use of monetary policy instruments to supplant the 
+prevalent use of less effective nonmonetary devices to stem the persistent high inflation that 
+characterised the decades prior to the 1990s.25 This is likely to be have been an important factor 
+enabling CBI to achieve sustained lower inflation.  
+4.2 Central bank independence and output volatility 
+The decades following the initial surge of CBI were characterised by falling volatility of 
+inflation and output growth, coined the “Great Moderation” by Bernanke (2004). Figure 2 plots 
+at quarterly intervals, the combinations of standard deviations of average annual inflation rates 
+and real output growth for OECD countries. It reveals that volatility of both inflation and output 
+growth were generally higher during the late 1970s and the 1980s. During the subsequent two 
+decades, when central bank independence was spreading globally, inflation and output 
+volatility were on a declining trend. There are cycles about this trend. In the early 2000s, output 
+growth volatility increased (possibly due to spill-over effects of the Asian Financial Crisis and 
+the ‘Dotcom’ share market crash). Thereafter, inflation and output volatility continued to 
+decline, at least until the Global Financial Crisis.  
+ 
+ 
+                                                          
+23 These various studies can be found in Jácome & Vázquez (2008), Bodea & Hicks (2015), Loungani & Sheets (1997), 
+Acemoglu, et al. (2008), Landström (2011), and Klomp & de Haan (2010b) 
+24 Although their conclusions are robust to alternative de facto measures of CBI.  
+25 See discussions and research in De Long (1997), Romer & Romer (2002), Bernanke (2004), and Nelson (2005, 2022).  
+ 
+
+
+9 
+ 
+Figure 2: The “Great Moderation”:  
+OECD inflation and output growth volatility from 1977 to 2008  
+ 
+Notes: Author’s calculations using OECD data. Each data point is the final year of five-year moving average standard 
+deviations for the average of OECD countries’ annual inflation and real GDP growth. Dotted line is an estimated linear trend. 
+Several factors contributed to this development. These include China’s sustained high growth 
+of low-cost manufacturing output exported to the rest of the world, demographic factors 
+resulting in a rising proportion of the working age population, rising labour force participation 
+rates, and technological improvements to supply-chain management and inventory control.26  
+Changes in monetary policy associated with CBI have also been credited as contributing to the 
+decline in macroeconomic volatility (Bernanke, 2004; Taylor, 2013). By strengthening 
+credibility and changing inflation expectations, central bank independence and inflation 
+targeting change the dynamics of inflation. This alters the trade-off between inflation and 
+output volatility, and therefore macroeconomic volatility.27  
+4.3 Central bank independence and financial stability 
+The intersection between monetary and financial conditions means CBI could impact financial 
+stability, though there is debate as to whether CBI fosters or weakens financial stability. 
+Arnone, et al. (2009) and Bernanke (2010) have suggested CBI fosters financial stability. On 
+the other hand, Atkin and Kern (2020) suggest increased CBI resulted in weakening of financial 
+regulation in some countries, as governments sought to compensate for the loss of control of 
+monetary policy and find other ways to expand credit for politically strategic areas.  
+                                                          
+26 A review of research on contributions to declining output volatility during the “Great Moderation” is in Buckle, et al. (2003).  
+27 This point is articulated by Bernanke (2004) who couched his argument within the context of Taylor’s (1979) monetary 
+policy efficiency frontier. The way improved central bank credibility can change inflation dynamics and improve the Taylor 
+efficiency frontier is explained in Clarida, et al. (1999), Orphanides & Williams (2005a), and Buckle (2019) who also 
+reviews evidence of the impact of CBI and inflation targeting on New Zealand’s inflation and output volatility.  
+
+
+10 
+ 
+There are various ways CBI and inflation targeting could influence financial stability. A central 
+bank that credibly committed to low inflation may generate more predictable interest rates and 
+lower long-term interest rates and therefore interest rates and asset prices will be more stable.28 
+There are counter-arguments. An independent central bank that has established a credible low 
+inflation policy may reduce the probability investors and financial institutions assign to 
+economic downturns, which might encourage higher risk investment behaviour.29 The 
+combination of CBI and inflation targeting raised concerns this could result in more abrupt 
+interest rate changes that pose higher financial risks for financial institutions.30 Recent USA 
+bank failures is illustrative of what can happen when policy interest rates are increased rapidly.  
+The empirical research on the effect of CBI on financial stability is more recent, but there is an 
+emerging theme which is that central independence can improve financial stability. Several 
+studies indicate CBI is associated with improved banking stability.31 Others evaluate the impact 
+of CBI on financial stability more broadly using time-series panel models that control for other 
+potential influences. For instance, Klomp and de Haan (2009) cover 75 developed and 
+developing countries from 1985 to 2005 and find that CBI reduces financial instability. 
+Moreover, countries in which central banks have an explicit mandate for financial supervision 
+have improved financial stability. Fouejieu (2017) evaluates developing countries using a 
+composite macro-financial condition index covering the period 2001 to 2010.  The results 
+suggest inflation targeting central banks are relatively more sensitive to financial risks.   
+These studies covered years prior to the Global Financial Crisis (GFC). The GFC challenged 
+the view that inflation targeting central banks will give sufficient consideration to financial 
+stability. There are a few studies that take account of the GFC period. These also suggest that 
+CBI contributes to lower financial instability. They show that the effect of CBI in moderating 
+financial instability is more important in countries with high levels of democracy.32  
+4.4 Central bank independence and fiscal policy 
+Granting independence to a central bank involves politicians foregoing economic policy 
+flexibility. The question that naturally arose when CBI was spreading was whether it would 
+induce more fiscal discipline by governments, or whether the objectives of monetary policy 
+would be compromised by fiscal dominance. If CBI was considered by politicians as part of a 
+broader package of reforms to achieve sustained low inflation and fiscal discipline is deemed 
+part of that broader package, greater fiscal disciple might be an outcome. If on the other hand 
+politicians consider low inflation the sole preserve of the independent central bank thereby 
+easing a constraint on fiscal policy, there may be less fiscal discipline. Alternatively, political 
+parties that have inherited CBI legislation but consider repeal is not politically prudent, may 
+                                                          
+28 See Baltensperger (1993), Cukierman (1994), Schwartz (1995). 
+29 See Borio & Lowe (2002). 
+30 See Cukierman (1992) and Mishkin (1996), while Berger & Kirsmer (2013) explore the potential implications for financial 
+stability of the different incentives of politically determined and politically independent monetary policy decisions.  
+31 For example, García-Herrero & Lopez (2003) and Čihák (2010). 
+32 See for example Doumpos, et al. (2015), Andries, et al. (2022) and Nguyen & Dang (2022). 
+
+
+11 
+ 
+try to use fiscal policy to circumvent the aims of CBI. These motives could result in “fiscal 
+dominance” reducing the effectiveness of CBI.33   
+Fiscal dominance can occur when there is conflict over stabilisation policy that results in a 
+competitive game that frustrates the central bank’s ability to pursue its monetary policy goals.34 
+It can also occur is when governments generate unsustainable fiscal deficits and public debt 
+that influence expectations of the likelihood of future monetisation of public debt and higher 
+inflation. Perceptions that fiscal policy and public debt levels are not sustainable can therefore 
+compromise current and future monetary policy.35   
+An early investigation into the relationship between CBI and government budget deficits by 
+Parkin (1987) suggested countries with independent central banks had smaller deficits, 
+although this was not conclusive. Subsequent studies using different indices of central bank 
+independence and different samples of developed and developing countries spanning the years 
+from 1950 to 1992 (years prior to the surge of CBI and low inflation) produce a mix of 
+significant and insignificant effects of CBI on fiscal deficits.36 However, these studies may not 
+adequately capture the full effects of CBI which became more widespread after the early 1990s.  
+There are several studies that cover the years since the expansion of CBI. In general, these 
+studies are more robust in controlling for other influences on fiscal outcomes and suggest 
+budget deficits tend to be smaller when central banks are more independent, but there are 
+important qualifications that have emerged from this research.37 These studies suggest the 
+impact of CBI on fiscal policy is conditioned by domestic political and legal institutions. The 
+influence of CBI on fiscal policy is more effective in democracies and in countries with robust 
+legal systems, a free press, and constraints on the political executive, and less effective in 
+autocratic regimes. The effect appears stronger for those countries that are part of a currency 
+union and share a common central bank, than for countries that have a national central bank. A 
+higher level of financial development also improves fiscal performance and reduces reliance 
+on central bank financing. These studies find evidence of a political cycle effect within 
+democracies. CBI is more likely to influence fiscal balances outside election years. 
+4.5 Summary of effects of central bank independence on macroeconomic performance 
+Broad conclusions of the marginal effects of central bank independence are provided in Table 
+2. Judgement has had to be used to generate these conclusions. They are drawn from studies 
+using different research methods, different country samples, a mix of stages of economic 
+development, different political regimes, and using different measures of CBI and financial 
+instability, and there is a mixture of conclusions from these studies.  
+                                                          
+33 The basis for considering monetary dominant and fiscal dominant regimes is developed by Leeper (1991) and discussed in 
+the context of recent events by Leeper (2023). 
+34 For example, Buckle & Stemp (1991). 
+35 For example, Sargent & Wallace (1984). 
+36 These papers and results are summarised by Strong & Yayi (2021, Table 1, p4). 
+37 These conclusions and qualifications are drawn from studies by Bodea & Higashijima (2017, which includes post-1990 
+years for 78 countries that include democracies, more autocratic regimes and dictatorships), Burdekin & Laney (2016, which 
+covers Central and South American countries from 1990 to 2012), Strong & Yayi (2021, for 30 African countries from 1990 
+to 2017). 
+
+
+12 
+ 
+The strongest conclusion is that CBI reduces inflation, while the weight of evidence suggests 
+CBI also reduces financial instability and fiscal deficits. There are qualifications to these 
+conclusions. The effects of CBI on inflation, financial stability and fiscal deficits tend to be 
+stronger in democratic regimes, and the effect on fiscal deficits is enhanced in countries with 
+independent legal and media institutions (and some evidence a currency union matters). The 
+evidence points to a stronger effect of CBI where the objectives are specified in legal mandates 
+and the central bank is subject to strong accountability requirements. These studies do not cover 
+the Covid-19 pandemic era, when inflation and macroeconomic volatility increased markedly. 
+Table 2: The marginal effects of central bank independence 
+ 
+Macroeconomic 
+condition 
+The marginal effect 
+of CBI 
+Selection of qualifications 
+Type of 
+economy 
+Other 
+institutional 
+factors 
+Political 
+cycle 
+effect 
+Do explicit 
+mandates 
+matter? 
+Inflation 
+Reduces. 
+Developed  
+and  
+developing. 
+Stronger effects 
+in:  
+Democracies, 
+flexible exchange 
+rates, more 
+internationally 
+open. 
+Labour market 
+institutions 
+matter. 
+na 
+Yes. 
+Inflation 
+targeting also 
+practiced in 
+some countries 
+without new 
+legislation.  
+Output 
+volatility 
+Reduces. 
+Conclusion from 
+theoretical models and 
+evidence of CBI effect 
+on inflation 
+expectations. Limited 
+direct empirical 
+research. 
+Developed. 
+Limited 
+evidence 
+available for 
+developing 
+economies. 
+na 
+na 
+Unclear. 
+But inflation 
+targeting 
+regimes tend to 
+reduce output 
+volatility. 
+Financial 
+instability 
+Reduces. 
+Conclusion for periods 
+before and after the 
+GFC. There are contrary 
+results and contested 
+views. 
+Developed and 
+developing 
+More effective in 
+democracies 
+na 
+Yes.   
+Those with IT 
+or FS mandates 
+more sensitive 
+to financial 
+risks. 
+Fiscal deficits 
+Reduces.     
+There are qualifications. 
+More conclusive in 
+samples that include the 
+post-1980s. 
+More effective 
+with 
+independent 
+legal and media 
+institutions. 
+Financial 
+development 
+important. 
+More effective in 
+democracies. 
+Yes. 
+The effect 
+of CBI on 
+fiscal 
+deficits is 
+weaker in 
+election 
+years. 
+Fiscal 
+frameworks are 
+influential. 
+Stronger effect 
+for countries in 
+a currency 
+union. 
+ 
+ 
+
+
+13 
+ 
+5. Some contemporary issues for central bank independence 
+In spite of these benefits, there are issues that could threaten or impact the characteristics of 
+central bank independence. These include political threats to CBI, the scope of central bank 
+mandates, funding arrangements, dissatisfaction with central bank responses to the Covid-19 
+pandemic, and the relationship between monetary and fiscal policies. 
+5.1  Threats from overt political pressures 
+The status of independent central banks has come under threat from political movements that 
+are discontent with the status quo. Goodhart and Lastra (2018a, p50) suggest this threat is 
+particularly acute when democratically elected politicians try to remove the “checks and 
+balances” generally applied in a democracy. During the 2017 and 2022 French Presidential 
+campaigns, the candidate for the National Rally Party (Marine Le Pen) was advocating changes 
+to the policy decision making processes and institutions that were interpreted as a threat to the 
+independence of the Banque de France.38 Criticism over timing of response to the post-
+pandemic inflation prompted an unusually explicit threat by Pierre Poilievre, leader of the 
+Conservative Party of Canada and of the Parliamentary Official Opposition, to remove the 
+Governor of the Central Bank of Canada if elected.39 During the 2016 USA Presidential 
+campaign the Republican candidate (Donald Trump) publicly criticised the then Federal 
+Reserve Chair. As President, he launched a series of public criticisms of the decisions of the 
+Federal Reserve as he embarked on an expansionary fiscal programme.40  
+The independence of central banks in these countries has to date survived these threats, but this 
+is not the case in Turkey. The coalition Government formed after the 2002 elections and led by 
+Prime Minister Erdoğan (and later President) started to lose support after the GFC. As the 
+economic situation deteriorated and democratic processes were eroded, and as the costs of 
+losing power increased, pressure came on the Central Bank of Turkey by the President and his 
+Government to lower interest rates.41 Having repeatedly stated his belief that high interest rates 
+cause inflation, the President dismissed two central bank governors. Under the new Governor 
+Kavcioğlu, successive interest rate cuts were implemented. Annual inflation soared to 85.5 per 
+cent by October 2022, and the value of the Turkish lira plummeted.42   
+The events in Turkey illustrate how central bank monetary policy decisions can be vulnerable 
+to political pressure. The ultimate outcome in Turkey is extreme. Nevertheless, even in 
+                                                          
+38 Goodhart & Lastra (2018a, p58). 
+39 Rutter (2022). 
+40 In 2018 he remarked that the Federal Reserve is “my biggest threat…Because the Fed is raising rates too fast. And it’s 
+independent…” Cited from “Trump says Fed is his 'biggest threat' because it is raising rates too fast” (cnbc.com). 
+41 Demiralp & Demiralp (2019) discuss and analyse the erosion of democratic processes and systematic pressure placed on the 
+Central Bank of Turkey. They find that commentaries from the President and Cabinet Ministers advocating a lower policy 
+interest rate had a significant influence on the Bank of Turkey’s policy reaction function.  
+42 Based on official statistics. By April 2023 the rate had reduced to 43.68 per cent. In the early 2000s, under CBI, annual 
+inflation in Turkey fell from between 60 and 105 per cent to below 10 per cent. Evidently two factors are helping prevent a 
+more severe currency crisis following the interest rate reductions and soaring inflation: an influx of funds from Russian 
+depositors unable to deposit in other countries, and the government is seeking large transfers from Arab nations (Hardie, 
+2022). 
+
+
+14 
+ 
+countries where there is overt political support for central bank independence, there can be 
+insidious developments that have implications for the nature of central bank independence. 
+5.2  Deteriorating macroeconomic performance and central bank reputations 
+Favourable macroeconomic conditions may have helped build a constituency of support for 
+CBI and inflation targeting in the early decades, but those conditions have been less favourable 
+since the GFC. While the GFC temporarily increased macroeconomic volatility in many 
+countries, inflation was contained. However, macroeconomic volatility increased even more 
+abruptly during the pandemic era. This is illustrated by Figure 3 which extends Figure 2. Output 
+volatility surged in 2020, and a surge of inflation volatility soon followed. Macroeconomic 
+volatility reached levels not previously experienced in the era of central bank independence.  
+The Covid-19 pandemic posed unprecedented challenges for governments and central banks. 
+In a review of the Australian Government’s policy responses, Borland (2023, p66) suggests the 
+defining characteristic of the pandemic is “huge and ongoing uncertainty”: There was 
+uncertainty over the epidemiological features of the virus, its impact on peoples’ health, how 
+society would respond to government health mandates, the frequency and duration of those 
+mandates, how the financial system would react, and the effectiveness of unique fiscal 
+measures introduced to buttress economies. Initial forecasts for economies were dire.43  
+Figure 3: Macroeconomic volatility from the “Great Moderation” to Pandemic, OECD 
+  
+  
+Notes: Author’s calculations using OECD data. Each data point is the final year of five-year moving average standard 
+deviation for the average of OECD countries’ annual inflation and real GDP growth.   
+                                                          
+43 For example, the Secretary to the Australian Treasury remarked in 2020 that in forecasting the effects of the pandemic, falls 
+in Australian GDP of 20 per cent were being “seriously contemplated.” (Kennedy, 2020). Another example of the degree of 
+uncertainty was the reaction of equity markets. The percentage falls in the S&P500 index on 12 and 16 March 2020 were 
+similar to the falls on 28 October and 8 November 1929 (Hawkesby, 2020, p7). 
+
+
+15 
+ 
+Central banks were faced with unique circumstances and enacted unprecedented policy 
+responses. There are variations in the particular features of monetary policy instruments used 
+but overall, they were aimed to lower interest rates and keep them lower, stabilise financial 
+markets and support the flow of credit.44 Fiscal measures to support employment and household 
+incomes were effective and labour markets proved more adaptable than expected, helping to 
+support household incomes.45 Asset prices surged, further supporting aggregate demand. The 
+uncertainties of the pandemic were compounded by Russia’s invasion of Ukraine in February 
+2022 further disrupting supply-chains causing higher energy and food prices globally. As a 
+result of an unexpectedly strong rebound of aggregate demand, enduring disruptions to supply-
+chains and commodity price rises, inflation rose quickly to rates not experienced for 30 years 
+in many countries. 
+Central banks have been widely criticised for their responses to these events.46 Ex post 
+assessments of performance during unusual periods like this are important for accountability 
+and insights to guide future policy.47 There have been some attempts to evaluate central bank 
+decisions, but they have been partial only. It is not sufficient to assess monetary policy 
+decisions solely on the basis of how policy interest rates compare with estimates of “neutral” 
+policy rates as some critics have done. Nor is it sufficient to simply identify demand-induced 
+and supply-induced contributions to inflation to assess the impact of monetary policy and fiscal 
+policy.48 A robust assessment requires taking account of central bank mandates and the trade-
+offs required to sustain price stability over the short and medium terms, the information 
+available at the time decisions were made, including knowledge of the scope and effects of 
+government fiscal and health responses, as well as the efficacy of the policy responses.  
+The perception of the performance of central banks during this period will have a bearing on 
+the tolerance for central bank independence. If central banks are to retain public confidence in 
+their independent status, it is important they respond to criticism and promote research that 
+identifies behavioural responses to monetary policy during the pandemic. This work should 
+evaluate the design and scope of policy initiatives including the size of policy rate cuts, the 
+duration and specification of forward guidance, the design and scope of quantitative easing and 
+other measures introduced to support the funding and liquidity of financial institutions, and the 
+timing of policy reversals. Insights from this research can help central banks adapt their 
+                                                          
+44 The unique economic circumstances and considerable uncertainties faced by central banks during the outbreak of Covid-19 
+and the policy responses and thinking behind those responses are discussed in various central bank speeches and papers 
+such as for example Orr (2020) and Debelle (2020b) for small open economies, and for the USA see Clarida, et al. (2021). 
+45 Although the comparison of US and UK policies by Tenreyro (2021) illustrates there were significant difference among 
+countries in the characteristics of the fiscal measures and the resultant employment outcomes.   
+46 For example, Rogoff (2022) has criticised the timing of the US Federal Reserve Board’s increase in interest rates and 
+curtailing of quantitative easing. Wheeler & Wilkinson (2022) claim that central banks became complacent about their 
+ability to maintain low inflation and are critical of the delays reversing accommodative monetary policies. Borio (2023) 
+suggests central banks initially underestimated the strength and persistence of inflationary pressures.  
+47 An example of the benefits of ex post reviews is the evaluation of Australian fiscal policy during the Covid-19 pandemic is 
+available in Borland (2023).  
+48 Shapiro (2020 and 2022) for example, identifies demand and supply shocks to inflation by classifying demand-induced 
+components of inflation as those where an unexpected change in price moves in the same direction as the unexpected change 
+in quantity in a given month; supply-induced components are identified as those where unexpected changes in price and 
+quantity move in opposite directions. The New Zealand Treasury (2023) and Reserve Bank of Australia (2023) have 
+replicated this approach using New Zealand and Australian data respectively. Some critics have used this type of 
+decomposition to judge the performance of fiscal and monetary policies during the pandemic era. 
+
+
+16 
+ 
+decision processes to be better prepared for future events that threaten inflation and 
+macroeconomic stability. This is particularly so for complex events like the pandemic, that 
+impact the supply-side of economies (production and labour markets.)49 Some central banks 
+have started this process and have acknowledged mistakes in timing, magnitude and duration 
+of their policy responses during the pandemic.50  
+5.3 Implications of state-dependency of inflation dynamics for policy strategy  
+One of the criticisms of central banks during the pandemic is they were slow to react to 
+emerging signs of inflation after the pandemic and many expected inflation impulses from 
+supply-chain disruptions would be temporary (or transient). One reason suggested for this is 
+that central banks’ views of inflation dynamics were conditioned by the post-GFC years.51 This 
+earlier period was dominated by persistent low inflation, frequent occurrence of inflation 
+falling below target bands and fear of disinflation.52 Instead of acting to pre-empt inflation, 
+some central banks signalled during the early stages of the pandemic they would wait until 
+inflation had clearly materialized before taking action.53  
+Research in the 1980s and 1990s produced insights suggesting inflation dynamics may be 
+‘state-dependent’. For example, research revealed asymmetric pricing behaviour that was 
+systematically related to inflation. One reasons for this is that if it is costly to change price, 
+firms will delay changes until the private benefits outweigh the private costs. As inflation rises, 
+the net benefit to firms of raising prices increases.54 The consequence is that firms raise prices 
+more frequently as inflation rises, thereby changing the dynamics of inflation.   
+The more recent idea of ‘rational inattention’ proposed by Sims (2003) is another reason 
+inflation dynamics could be state-dependent. The idea of is that people cannot process all 
+available information, but they can choose which exact pieces of information to attend to. In 
+the context of price-setting and the formation of inflation expectations, it could be rational to 
+pay more attention to inflation when it is high than when it is low. This implies inflation 
+expectations and therefore wage and price setting behaviour could be more responsive to 
+                                                          
+49 This type of challenge is not new. Central banks struggled to understand the reasons for persistent low inflation and 
+undershooting of inflation targets during the decade following the GFC.  
+50 Examples are Reserve Bank of New Zealand, 2022; Kashkari, 2023. The recent review of the Reserve Bank of Australia 
+(Australian Government, 2023) assessed the monetary policy framework, decision-making processes, use of macroeconomic 
+models, and forecasting methods and has made sweeping recommendations. 
+51 For example, Brunnermeier (2023).  
+52 The persistence of very low inflation and the challenges this posed for inflation targeting central banks is discussed in Tarullo 
+(2017), Constancio (2017), and Spencer (2017). This period prompted suggestions that inflation was a concern of the past 
+and inflation targeting and CBI was no longer relevant, a suggestion that has been refuted by several, including Draghi 
+(2018).  
+53 Most notably the Federal Reserve Board (FRB) and the Reserve Bank of Australia (RBA). The FRB approved a new policy 
+framework on 27 August 2020 with the Statement on Longer-Run Goals and Monetary Policy Strategy. This included five 
+elements including one stating “The Committee expects to delay liftoff from the ELB until PCE inflation has risen to 2 
+percent on an annual basis and other complimentary conditions, consistent with achieving this goal on a sustained basis and 
+to be discussed later, are met.” The statement includes other elements suggesting monetary policy would remain 
+accommodative for some time (Clarida, 2022). The RBA initially provided state-dependent forward guidance in March 
+2020, stating that “The Board will not increase the cash rate target until progress is being made towards full employment 
+and it is confident that inflation will be sustainably within the 2–3 per cent target band.” The RBA added a time-dependent 
+component in October 2020 and November 2020, and reiterated this in February 2021 by indicating a time horizon of 3 
+years over which the cash rate would be unlikely to change (Australian Government, 2023, pp 41-42).  
+54 Some of the theoretical and empirical literature is contained in Sheshinski & Weiss (1993). See also Ball & Mankiw (1994). 
+An example of empirical evidence that the frequency of price rises increases with inflation is in Buckle & Carlson (2000).  
+
+
+17 
+ 
+inflation as it rises.55 An implication for monetary policy is that while it may be desirable in 
+some circumstances to tolerate moderate deviations from inflation targets, pre-emptive 
+monetary policy becomes more important as the risk of transition to high-inflation increases.56  
+A further body of emerging research examining the pandemic era of inflation in the USA 
+suggests it may be important to pay particular attention to the initial source of inflation in order 
+to understand the dynamics of inflation. Inflation pressures can arise from product or labour 
+markets, and the ultimate nature of the inflation dynamics can depend on where the original 
+source of inflation pressure arose, the duration of that pressure, how product and labour markets 
+interact, and how expectations are formed.57   
+The fact inflation dynamics, including expectations, can be state-dependent is likely to be 
+relevant to the way monetary policy forward guidance instruments should be applied and the 
+selection of the appropriate monetary policy strategy. When unique events like the Covid-19 
+pandemic occur, using long-duration time-dependent forward guidance could be problematic. 
+This type of policy strategy could ultimately undermine central bank credibility if the dynamics 
+of inflation prove to be different to what the central bank assumed. This is another issue central 
+banks should evaluate when assessing their responses to the pandemic. 
+5.4 The scope of central bank monetary policy mandates 
+The expanding scope of central bank responsibilities in recent years has raised concern they 
+have evolved to the point where there are too many objectives and conflicts of interest. Central 
+bank monetary policy mandates are appropriately determined by governments, but as more 
+objectives are included in mandates and more conditions are attached to those objectives, more 
+trade-offs are involved.58 This can be particularly problematic if a central bank is expected to 
+achieve a specific inflation objective but also contribute to less well-defined objectives. The 
+recent review of the Reserve Bank of Australia highlighted risks created by broad central bank 
+mandates. The review of monetary policy from 2016 to 2019 concluded that the vagueness of 
+including “economic prosperity and welfare” in its mandate meant the Board could draw on 
+many reasons outside the domain of monetary policy, for not lowering interest rates. This 
+caused conflict with the Bank’s inflation and employment goals and the review recommended 
+reducing the scope of the mandate.59  
+Some possible implications of broad central bank mandates have been raised by Tucker (2018a, 
+2018b). His concern is that decisions over trade-offs are based on moral judgements and are 
+inherently political decisions. As mandates expand, a central bank will be drawn into a wider 
+net of inherently political decisions that could threaten central bank independence. Without 
+                                                          
+55 Reserve Bank of New Zealand (2023a) shows the sensitivity of inflation expectations to current inflation has been increasing. 
+56 Borio, et al. (2023). 
+57 For example, Bernanke & Blanchard (2023). 
+58 This concern has also been raised in the context of the growing tendency for central banks to undertake a financial regulatory 
+and supervisory role. Lastra & Wood (1999) expressed concern that regulatory supervision independence would give bank 
+supervisors to some extent “the coercive power of the state against private citizens.” Quintyn & Taylor (2002) consider this 
+is a power that has no equivalent with independent monetary policy.  
+59 Australian Government (2023). 
+
+
+18 
+ 
+clear objectives that can be measured and monitored in a transparent way, Tucker suggests an 
+independent agency’s legitimacy would be precarious.  
+A critical issue is the specification of the primary objectives of monetary policy. These vary 
+among central banks.60 For many central banks the sole or dominant primary objective is 
+inflation. Some central banks explicitly specify employment stabilisation as a secondary 
+objective conditional on not compromising their primary objective of price stability.61 A few 
+central banks have dual primary objectives: an employment related objective coupled with 
+price stability.62 
+Efforts to resolve the optimal specification of monetary policy objectives using stylised models 
+suggest that it may be welfare enhancing to have at least some weighting on resource utilisation 
+objectives (employment, unemployment rate, or the output gap) in addition to inflation. 
+However, conclusions are mixed: some papers conclude that any weight on employment 
+contributes very little to welfare; some find that under certain conditions it is optimal to put 
+some weight on a resource utilisation objective.63 This research highlights the importance of 
+the type of shocks and preferences for stabilising inflation. In response to demand shocks for 
+example, some models show that monetary policy can stabilise the welfare-relevant resource 
+utilisation gap by focussing on the inflation objective, with only mild improvements to welfare 
+if the central bank additionally targets resource utilisation.64 It can also be important to 
+differentiate between the types of supply shocks.65 
+Other considerations are important. One is the way expectations are formed. Theoretical model 
+evaluations of optimal specifications often assume agents form model consistent expectations 
+and implicitly assume agents believe inflation will converge to the target rate. If this condition 
+does not hold, and expectations are formed adaptively, policies that put weight on optimising 
+a measure of resource utilisation run a risk that higher inflation will persist longer and 
+undermine a central bank’s credibility to achieve low inflation.66 This in turn affects the trade-
+off between inflation and resource utilisation objectives.  
+Another issue is optimal policy assignment. Even if monetary policy can mitigate to some 
+degree the adverse effects of supply shocks on resource utilisation, it may not be the optimal 
+policy assignment. Regulatory policies or targeted fiscal measures, may be more efficient. The 
+                                                          
+60 See Wadsworth (2017), Archer (2009). 
+61 For example, Bank of England, Bank of Canada, Sveriges Riksbank, Norges Bank, and the European Central Bank. 
+62 Notably the US Federal Reserve and Reserve Bank of Australia, whose legislation pre-dates formal inflation targeting. The 
+Reserve Bank of New Zealand originally had a sole primary objective of price stability. This changed in December 2018 
+when legislation introduced in addition to price stability, the objective of supporting maximum sustainable employment.  
+63 For a more extensive discussion of these issues see Rotemberg & Woodford (1997), Clarida, et al. (1999), Blanchard & 
+Galí, (2007), Reserve Bank of New Zealand (2023b), Jacob & Ӧzbilgin (2021). 
+64 See for instance, Clarida, et al. (1999), Blanchard & Galí, (2007), Jacob & Ӧzbilgin (2021). Typically, these papers consider 
+the implications for representative households and firms and not potential differences between different types of firms and 
+households. In principle, a demand shock generating this “divine coincidence” property may not be “divine” for all sectors. 
+But monetary policy instruments are typically not designed to differentiate between sectors and hence it is often more 
+efficient to deal with adverse effects of demand shocks for some sectors using other (fiscal or labour) policies.  
+65 For example, Jacob & Ӧzbilgin (2021) find that in the presence of significant cost-push shocks to price and wage inflation, 
+welfare is enhanced when the central bank focusses solely on stabilising inflation. 
+66 Orphanides & Williams (2005a) evaluate related issues.  
+
+
+19 
+ 
+use of various forms of fiscal measures deployed by governments to mitigate the impact of the 
+Covid-19 pandemic on employment and household incomes is an illustration.  
+A further issue is measurement accuracy. Insights from organisational theory suggest the 
+determination of weights assigned to objectives should be based on measurement accuracy: 
+more accurately measured objectives should be weighted more heavily.67 This is consistent 
+with research showing that the chances of policy mistakes due to poorly measured objectives 
+are reduced if greater weight is placed on more accurately measured objectives.68 The rate of 
+inflation is generally able to be measured more accurately than employment or output at the 
+time monetary policy decisions are made. This implies that in a mandate that includes inflation 
+and resource utilisation objectives, the inflation objective should be weighted more heavily, or 
+a lexicographic ordering would be appropriate, requiring the central bank to achieve its 
+inflation objective first, and pursue its other objective(s) subject to achieving this.69   
+Adding objectives to central bank mandates that are not best dealt with by monetary policy 
+risks undermining the credibility of a central bank and diluting the case for independence. 
+These considerations together with measurement issues, imply central bank mandates should 
+put greater weight on price stability than on resource utilisation objectives. Although optimal 
+monetary policy objectives may be shock dependent, central banks cannot shift from one 
+monetary framework to another without risking credibility. This implies it would be 
+appropriate to choose a framework or ordering of objectives for all regimes.70 The importance 
+of maintaining low inflation and central bank credibility in order to maximise the contribution 
+of monetary policy to well-being, together with uncertainty over measurement of the maximum 
+level of employment, are reasons the Canadian Government retained low and stable inflation 
+as the primary objective of the Bank of Canada.71  
+5.5 Monetary policy mandates and ‘secondary objectives’ 
+It is common to find mandates where primary objectives are subject to secondary objectives. 
+These are intended to impose conditions on how a central bank applies monetary policy 
+instruments, or to provide a signal to the public of the intentions of monetary policy.  
+For example, consider a secondary condition that requires a central bank to adopt a medium-
+term perspective toward the achievement of inflation targets. This provides legitimacy for a 
+central bank to adopt a flexible approach to inflation targeting and to “look through” events 
+expected to have a temporary impact on inflation. Similarly, conditions pertaining to the 
+volatility of interest rates and exchange rates could be viewed as encouraging a medium-term 
+approach to targeting objectives. On the other hand, restrictions on variables such as interest 
+rates and exchange rates that are important in the transmission of monetary policy, have the 
+                                                          
+67 Coleman & Dasgupta (2023). Also relevant to the weighting scheme is the extent to which the behaviour of the objectives 
+is correlated. The degree of correlation will depend on the nature of the shocks.   
+68 Orphanides & Williams (2005b). 
+69 A lexicographic ordering is applied by the Bank of England. Similarly, price stability is the primary objective of monetary 
+policy for the Bank of Canada, Norges Bank and the European Central Bank, and consideration of employment is 
+conditioned by the ability to satisfy the primary objective. 
+70 Rajan (2023).   
+71 Government of Canada (2021). 
+
+
+20 
+ 
+potential to limit the discretion over the scope of the use of policy instruments in pursuit of the 
+primary objectives. They may also pose a risk that the public expects the central bank to have 
+responsibility for the behaviour of economic variables it is not equipped to influence with any 
+accuracy or in a sustained way. It is also common for mandates to require central banks to 
+consider the implications of monetary policy for financial stability. Although this makes 
+explicit what monetary policy committees should consider during their policy deliberations, 
+there could be a risk the public interprets this as requiring monetary policy committees to have 
+much broader responsibilities.72 
+There are some secondary conditions that pose more serious risks for central bank credibility. 
+For example, some central banks (e.g., Bank of England and the European Central Bank) have 
+explicit secondary objectives incorporating an element of environmental responsibility. These 
+are not objectives that monetary policy instruments are designed to influence effectively. They 
+may risk raising public expectations about the role of monetary policy and dilute the case for 
+central bank independence. Central bank monetary policy committees should be tasked with 
+focussing on what is critical to achieving their primary objective(s) and managing the trade-
+offs appropriate to the primary objectives and for which it has suitable policy instruments.    
+5.6  Operational independence and alternative monetary policy instruments 
+Following a long period of declining interest rates, the use of policy interest rates during the 
+Covid-19 pandemic was perceived to be constrained by their effective lower bound. There are 
+several policy instruments available when policy rates are close to their effective lower 
+bound.73 Moderately negative interest rate policy (NIRP) was widely considered, particularly 
+in light of the experience using NIRP in a few countries.74 There were however, concerns over 
+institutional (and sometimes legal) constraints and uncertainty over how financial systems 
+would cope with negative rates. Central banks therefore chose to use quantitative intervention 
+measures, supported by forward guidance, to reduce interest rates, influence yield curves, and 
+provide liquidity to the financial sector, to try to achieve their mandates.75 This increased the 
+size of their balance sheets, as illustrated by Figure 4.  
+The measures taken during the pandemic built on and went beyond those employed in the GFC, 
+including non-conventional liquidity support to financial firms, as well as large-scale purchases 
+                                                          
+72 This concern has been raised by Goodhart & Lastra (2018b) in the context of the growing tendency for central banks to 
+undertake financial regulatory and supervisory roles in addition to the traditional monetary policy role. 
+73 Alternative policy instruments are discussed by Lilley & Rogoff (2019) and include raising inflation targets, counter-cyclical 
+fiscal policy, “helicopter money”, negative interest rate policy (NIRP), and forward guidance on interest rates. 
+74 Negative interest rates were used from 2012 in Europe, Denmark, Sweden, Switzerland and Japan. Reviews by The World 
+Bank (Arteta, et al., 2016) and IMF (Brandão-Marques, et al., 2021) conclude NIRP in these countries supported demand 
+and influenced exchange rates in ways similar to conventional interest rate cuts. Prior concern about the consequences for 
+bank profitability, excessive risk taking, and financial instability did not eventuate materially, although they acknowledge 
+these effects could become more evident if rates were substantially negative or used for longer periods. These reviews 
+stressed the effects of NIRP and extent they can be deepened are likely to depend on the structure of financial systems. 
+Banks and banking systems more reliant on retail-oriented deposit funding for instance, could be more vulnerable to negative 
+interest rates. 
+75 Covid-19 initially triggered a rise in demand for liquidity. In addition to their monetary policy decisions, central banks with 
+financial stability responsibilities bought bonds on secondary markets to improve liquidity and mitigate risks to financial 
+stability. For example, see Hawkesby (2020). 
+
+
+21 
+ 
+of government securities under quantitative easing.76 The expansion of central bank assets was 
+larger in advanced economies where quantitative easing programs caused balance sheet 
+expansion relative to emerging market and low-income countries, where financial sector 
+support was more important.77 Central banks typically funded these purchases of government 
+bonds by increasing interest-bearing liabilities, in particular deposits (reserves) held by 
+financial institutions and often remunerated based on the policy interest rate.78 While this 
+process will increase base-money, the principal influence is via a change in interest rates.79 
+Bond purchases on secondary markets amounts to transferring risk from private investors and 
+financial institutions onto central bank balance sheets, and therefore also the consolidated 
+central government balance sheet. This process can therefore increase the risk to central bank 
+equity and therefore to operational independence and credibility.80 The risks to the central bank 
+will depend on political tolerance for equity losses, market perception of their impact, on a 
+central bank’s capital structure, and on loss compensation arrangements with Government. 
+Figure 4: Central Bank balance sheets, 2000 to 2021: 
+Total assets as percentage of GDP for 27 advanced economies 
+ 
+Notes: Data for Figure 3 was provided by the authors of Bell, et al. (2023) and is a recreation of Graph 1A, p1 in their paper. 
+                                                          
+76 Hooley, et al. (2023, p7), who also report that only a few central banks provided direct support to the non-financial sector, 
+and for those that did, the size of support was relatively small in most cases. 
+77 Bullock (2022) discusses reasons for choosing quantitative easing during the pandemic, including a summary of the 
+macroeconomic effects and issues relevant to assessing the impact on the Australian Government’s fiscal position. See also 
+Reserve Bank of New Zealand (2022).   
+78 Debelle (2020a) and Hawkesby (2020) discuss in detail how the RBNZ and RBA balance sheets changed during the 
+pandemic, and how deposits of financial institutions at the central banks are remunerated. 
+79 See for example Silk (2022), Broadbent (2023). 
+80 The financial risks considered here are those that could potentially influence the choice of monetary policy instrument. They 
+do not relate to a central bank’s operational budget. The fiscal risks referred to are limited to the direct effects on the central 
+bank and therefore consolidated government balance sheet. There can be other “quasi-fiscal” risks arising from arising from 
+the effect of quantitative easing on the market for public debt and the efficiency government bond programmes (see Hooley, 
+et al. 2023) 
+
+
+22 
+ 
+The financial risk to central bank equity arises from the possibility bond purchases may 
+ultimately result in a central bank incurring net interest income losses. A central bank’s 
+holdings of bonds involve fixed interest earnings. If, at a later date, market and policy interest 
+rates rise, interest paid on the stock liabilities on its balance sheet created to finance quantitative 
+easing will also rise, resulting in reduced net interest earnings or losses for the central bank.  
+The market value of central bank assets also declines with rising bond yields. This also reduces 
+profits of central banks that sell bonds at the lower market value, or that continue to hold bonds 
+and recognise their decline in the market value when calculating net profits. Some central banks 
+(Bank of England, Bank of Canada, RBA and RBNZ) value their bond holdings based on 
+market values and recognise the decline in value as bond yields rise.81 The impact of net interest 
+rate and market valuation losses on central bank equity will depend on the size and duration of 
+bond holdings and size of the interest rate differential. They also depend on income recognition, 
+rules governing distribution of central bank net income and interest rate risk transfer 
+agreements with the fiscal authority. These conventions and rules vary among central banks.82 
+While the primary purpose of monetary policy is the efficient pursuit of the central bank’s 
+mandate rather than maximising profits from bond trading, risks associated with quantitative 
+easing and bond holdings can have fiscal consequences.83 Therefore, large or sustained 
+operating losses and negative equity can be politically sensitive and may influence public 
+confidence in central bank operations. There may also be financial market confidence effects 
+and perceptions that income and equity losses affect the scope of central bank monetary policy 
+decisions and tolerance for risk (e.g., associated with quantitative easing).84  
+When there is uncertainty about how central bank losses will be dealt with, misperceptions can 
+arise and erode central bank credibility.85 Accordingly, some central banks are compensated 
+for losses by indemnity arrangements with the fiscal authority.86 Some central banks view 
+indemnities as irrelevant from the perspective of the overall public sector balance sheet and 
+consider they could even reduce policy effectiveness if dependence on indemnities negotiated 
+with government weakens actual or even perceptions of CBI. Some central banks therefore 
+hold financial buffers or additional capital to finance potential net interest losses.87 Some rely 
+                                                          
+81 Many central banks (including the Federal Reserve, European Central Bank, and Bank of Japan) value them at the amortized 
+value and do not recognise unrealised profits or losses because they anticipate holding them to maturity (Hooley, et al., 
+2023). 
+82 Bell, et al. (2023, p4) note that in advanced economies, historically the net income of central banks has been a modest source 
+of government revenue. But this can vary over time. When policy rates were continuously low following the GFC from 
+2010 to 2019, central bank income and corresponding transfers to government were relatively large. However, during the 
+pandemic period, net interest losses for several central banks have led to smaller transfers to the fiscal authority or none at 
+all, and in some cases probably for years to come (See Chart 1D, p1). 
+83 Unlike commercial businesses, central banks are not at risk of insolvency because they are typically protected from court-
+ordered bankruptcy, and are underwritten by government. Moreover, central banks have the ability to create “base money” 
+to finance operations. There are limits to the scope to generate their own funding despite a monopoly over base money 
+creation, because there is a limit to the demand for liquidity, and because the extent of the recourse to seigniorage required 
+to safeguard a central bank’s solvency might be of a scale that could undermine monetary policy objectives (Buiter, 2008; 
+Reis, 2013). 
+84 These and other risks are reviewed and discussed by Nordström & Vredin (2022). 
+85 Bell, et al. (2023). 
+86 For example, the Bank of England is fully indemnified by UK Treasury via its subsidiary the Asset Purchase Facility. The 
+RBNZ and Bank of Canada have indemnity agreements for specific operations without a subsidiary. At present these are 
+negotiated on a case-by-case basis which does not necessarily imply that indemnity will be provided in every situation. 
+87 Archer & Moser-Boehm (2013). 
+
+
+23 
+ 
+on their ability to operate with negative equity to manage losses should they arise and have 
+been able to continue to operate effectively during extended periods of negative equity.88  
+There are trade-offs associated with these different approaches. Provision by government of 
+sufficient capital to cover a broad range of contingencies to reduce the likelihood a central bank 
+will have to rely on negative equity, and risk adverse effects on credibility, provides operational 
+independence up to the limit of the capital. Tolerance for negative equity arising from policy 
+actions required to achieve the monetary policy mandate is nevertheless an important 
+component. Indemnity agreements may help protect operational credibility. These make 
+explicit the costs to the fiscal authority which enhances transparency. Reliance on negotiating 
+an indemnity agreement during a monetary crisis risks limiting the independence of a central 
+bank’s choice and scope to use policy instruments. Therefore, where indemnities are 
+considered necessary, it is probably preferable they are pre-negotiated and have broad coverage 
+across instruments so as not to constrain a central bank’s choice of instrument.  
+Because of the fiscal risks, governments may want to impose a degree of constraint on the 
+extent of funding to cover the potential financial costs associated with quantitative easing. This 
+could be in the form of limiting the amount of capital allocated or that can be accumulated, the 
+tolerance for negative equity, or via the way indemnity agreements are specified. Nevertheless, 
+there is an uneasy trade-off involved protecting the government’s fiscal position on the one 
+hand, and potentially impinging on the operational independence of central banks on the other 
+hand. This trade-off arises from constraints on the use of conventional interest rate policy in a 
+low interest environment and the effective lower bound of policy rates.  
+Quantitative easing as a monetary policy instrument poses a range of reputational risks for 
+central banks and should ideally only be undertaken in the event traditional interest rate 
+instruments are compromised, and if monetary policy is the appropriate policy instrument. As 
+with decisions over policy interest rates, the use of alternative monetary policy instruments 
+should be accompanied by strong accountability requirements to ensure robust decision-
+making. These requirements include publication of principles to guide the use of these 
+instruments.89 A careful assessment of the expected benefits as well as the fiscal costs is also 
+important because while there are potential fiscal costs to quantitative easing, there are also 
+potential fiscal benefits. These benefits include lower costs of public debt and, to the extent the 
+measures support aggregate economic activity, they could increase government net taxes. 
+Although fiscal costs and benefits have offsetting effects in consolidated government balance 
+sheets, only the fiscal costs of interest rate losses land on central bank balance sheets.  
+Quantitative easing is used to reduce interest rates, and therefore it might be argued there is a 
+‘coincidence of desires’ between governing politicians and central bankers, and little need to 
+be concerned with independence. However, there can still be conflicts of interest over the 
+                                                          
+88 See Archer & Moser-Boehm (2013), Bell, et al. (2023). The RBA for example, does not rely on indemnities. Recent RBA 
+losses (including unrealised mark-to-market valuation losses) have been partially funded by drawing on reserve funds 
+accumulated from previous retained profits and by moving into negative equity. The RBA is able to continue to operate via 
+its ability to create base money, and has indicated to Government it expects future profits will be retained until its capital is 
+restored (Bullock, 2022). 
+89 An example is Kengmana (2021). 
+
+
+24 
+ 
+extent of interest rate reductions and influences on yield curves. These would be more acute 
+when governments are increasing spending and borrowing. There may be conflicts over the 
+duration of monetary stimulus, and particularly the timing vis-a-vis general elections. There 
+could be conflicts of interest over the form of monetary stimulus. Quantitative easing involving 
+the purchase of private assets (e.g., equities) have direct resource allocation implications, can 
+involve a potential subsidy if purchased at prices above market value, and have direct wealth 
+distributional effects. This type of credit easing would involve central bankers making 
+inherently political trade-offs and are more appropriately fiscal decisions.  
+5.7  Fiscal and monetary policy coordination and risks of fiscal dominance 
+The conventional wisdom that emerged as CBI spread globally and inflation declined, was that 
+macroeconomic stabilisation and inflation targeting should be the responsibility of monetary 
+policy while fiscal policy was considered more appropriate for structural economic priorities.90 
+It was recognised there could be circumstances where fiscal policy might be more effective, 
+such as when monetary policy was compromised by a “liquidity trap” situation or when interest 
+rates are at their effective lower bound.91 Nevertheless, the early decades of central bank 
+independence were characterised by “monetary dominance” of stabilisation policy.  
+The features of the pandemic, notably the health impact on labour supply, meant fiscal policy 
+was more efficient at supporting employment and the incomes of vulnerable households and 
+businesses.92 Monetary policy had a role to play maintaining financial stability and supporting 
+aggregate demand. However, there was a sense of having to respond quickly and have “all 
+hands to the pump”.93 The pandemic warranted a degree of policy coordination for which 
+central banks and fiscal authorities were not adequately prepared. This raises the question 
+whether there should be more coordination of fiscal and monetary policy in some 
+circumstances.94 What are those circumstances? What are the risks to central bank operational 
+independence? How can those risks be mitigated? A central bank cannot dictate what the fiscal 
+response to events should be, although it can explain its policy options and what its response 
+would be in various circumstances, consistent with its legal mandate.   
+ 
+ 
+                                                          
+90 There were several arguments against the active use of fiscal policy for macroeconomic stabilisation, including potential 
+offsetting private behaviour, implementation lags generating pro-cyclical effects and accentuating cycles, incentives of 
+politicians and time-inconsistent discretionary fiscal policy. These are perennial issues (Alesina, 2000; Barker, et al., 2008; 
+Brook, 2013; De Haan & Gootjes, 2023).  
+91 Krugman (2005), De Long & Tyson (2013). 
+92 In the United States for example, the federal government provided large and highly concentrated support in the form of 
+“stimulus checks” sent directly to households (Brunnermeier, 2023). The fiscal support programme implemented in 
+Australia is discussed in detail in Boland (2023). 
+93 The fact there was a combination of fiscal and monetary responses provoked suggestions that a form of “fiscal dominance” 
+was at play. For example, Lingle (2021) described central bank responses to the GFC and the Covid-19 pandemic as 
+indicating they were becoming a “handmaiden to profligate fiscal policy.” In contrast, Haldane’s (2020, p17) interpretation 
+of the circumstances in the UK is that the combination of fiscal and monetary responses did not imply “one policy driving 
+the other, much less of monetary financing of government deficits”. 
+94 This point has also been made by the review of the Reserve Bank of Australia (Australian Government, 2023) which suggests 
+there should be increased joint work between Treasury and RBA on the relative roles of fiscal and monetary policy. 
+ 
+
+
+25 
+ 
+These questions need resolving. How they are resolved could have important implications for 
+central bank operational autonomy. While the empirical evidence reviewed in Section 4.4 
+indicates central bank independence has, in general, lead to smaller fiscal deficits, the exception 
+tends to hold during election years. Despite central bank independence, fiscal policy has tended 
+to be more expansionary during election years. This suggests the intensity of political interests 
+could vary over the political cycle and impede efficient coordination. This was a factor that 
+motivated transferring responsibility for monetary policy to independent central banks.   
+The incentives for governments to put pressure on central banks to moderate interest rates and 
+reduce the cost of servicing public debt have risen in recent years. Government debt ratios have 
+been rising over the last two decades. Figure 5 illustrates gross general government debt as a 
+per cent of nominal GDP per year for the total OECD and for a selection of OECD countries, 
+from 1995 to 2022. As mentioned in Section 3, the public debt environment during the first 
+two decades of central bank independence was conducive to enabling “monetary dominance”. 
+Debt levels were not so pressing to induce political pressure on central banks to lower rates 
+and support lower service costs of public debt. This changed during the GFC and the years that 
+followed, and during the pandemic era. There are countries with public debt ratio trends that 
+are exceptions to that for the whole of the OECD but overall, incentives for politicians to 
+pressure central banks to adopt more accommodating interest rate policies have increased. 
+Figure 5: Gross general government debt ratios: OECD countries, 1995 to 2022 
+ 
+ 
+Notes: Data from OECD (2023) General government debt (indicator) doi: 10.1787/a0528cc2-en (Accessed on 25 May 2023). 
+The data are gross debt of general government as a percentage of GDP. Debt is the sum of the following liability categories 
+(as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and 
+other accounts payable.  
+
+
+26 
+ 
+Moreover, despite some debt reduction in 2022, the prospect is for debt ratios to rise further in 
+the near term. The OECD (2023) expects debt levels of developed economies to increase 
+slightly in 2023 as many countries aim to protect households and businesses from rising prices 
+and as debt servicing costs increase. The current geopolitical environment is adding further 
+uncertainty over future government funding needs. The OECD reports that developing 
+economies also have historically high levels of debt and a challenging funding environment. 
+The combination of high inflation, high nominal interest rates and high public debt levels was 
+a lethal combination for monetary policy to contend with during the 1970s and 1980s. Similar 
+circumstances could arise if central banks struggle to contain the post-pandemic inflation or 
+central bank independence comes under political pressure. 
+There are important reasons to consider improvements to the assignment of fiscal and monetary 
+policies in response to destabilising events. However, higher public debt levels increase the 
+risk of “fiscal dominance” and higher inflation highlighted by Sargent and Wallace (1984) and 
+reiterated by Leeper (2023). This risk can come through pressures on central banks to reduce 
+interest rates and public debt servicing costs or via pressure to monetise debt.  
+6. Conclusion 
+Central bank independence spread globally after the 1980s and has become a critical foundation 
+for credible monetary policy and sustained low inflation. Other benefits accruing from CBI, 
+include improved financial stability and lower fiscal deficits outside election years. There are 
+qualifications to these conclusions. The effects of CBI can vary by type of political 
+environment, the economic characteristics of countries, and the presence of other economic 
+policy frameworks such as fiscal frameworks and currency regimes.  
+Despite these benefits, challenges to central bank independence have emerged. The main 
+characteristics and legislated limits to central bank independence include objectives (mandates) 
+and conditions pertaining to objectives, and accountability and transparency requirements. The 
+most critical aspect of central bank independence is discretion over the choice and operation of 
+monetary policy instruments in pursuit of the legislated objectives. This paper suggests there 
+are intersections between legislated objectives and operational independence that could have 
+implications for central bank independence and the political acceptability of CBI. These 
+intersections involve expanding central bank mandates, conditions attached to the pursuit of 
+primary objectives of monetary policy, and funding arrangements that could influence central 
+bank independence over the choice and scope of alternative monetary policy instruments. 
+Although there have been overt political threats to central bank independence, perhaps the more 
+important challenge is how central banks respond to the criticisms that emerged from the 
+extraordinarily difficult circumstances created by the Covid-19 pandemic, the Russian invasion 
+of Ukraine, and the surge of inflation that followed. There are important lessons from this 
+experience including the choice and application of policy instruments, the scope for improving 
+fiscal and monetary policy coordination while protecting central bank operational 
+independence, and insights into the dynamics of inflation. How central banks respond to this 
+
+
+27 
+ 
+experience and the insights will influence the acceptability of central bank independence and 
+the determination of monetary policy. 
+ 
+References 
+Acemoglu, D., Johnson, S., Querubin, P., & Robinson, J. A. (2008) When does reform work? The case of central bank 
+independence. Brookings Papers on Economic Activity, Spring: 351-429. 
+Alesina, A. (1988) Macroeconomics and Politics. NBER Macroeconomics Annual, 3: 13–52. 
+Alesina, A. (2000) The political economy of the budget surplus in the US. Journal of Economic Perspectives, 14: 3-19. 
+Alesina, A., & Summers, L. H. (1993) Central bank independence and macroeconomic performance: Some comparative 
+evidence. Journal of Money Credit and Banking, 25(2): 151-162. 
+Andrieș, A. M., Podpiera, A. M., & Sprincean, N. (2022) Central bank Independence and systemic risk. International Journal 
+of Central Banking, 18(1): 81–130  
+Archer, D (2009) Roles and objectives of modern central banks. Chapter 2 in Issues in the Governance of Central Banks, Bank 
+for International Settlements, pp 17-55.  
+Archer, D., & Moser-Boehm, P. (2013) Central bank finances. Bank of International Settlements Papers, 71, April. 
+Arnone, M., Laurens, B. J., & Segalotto, J-F. (2006) The measurement of central bank autonomy: survey of models, indicators 
+and empirical evidence. IMF Working Papers, 06/227. 
+Arnone, M., Laurens, B. J., Segalotto, J-F., & Sommer, N. (2009) Central bank autonomy: Lesson from global trends. IMF 
+Staff Papers, 56: 263-296. 
+Arteta, C., Kose, M. A., Stocker, M., & Taskin, T. (2016) Negative Interest Rate Policies: Sources and Implications. 
+Washington, World Bank Policy Research Paper, August.  
+Australian Government (2023) An RBA fit for the future. Commonwealth of Australia, March.  
+Backus, D., & Driffill, J. (1985) Rational expectations and policy credibility following a policy change. The Review of 
+Economic Studies, 52: 211-221. 
+Bade, R., & Parkin, M. (1978) Central Bank Laws and Monetary Policies: A Preliminary Investigation. In Porter, M. (Ed.), 
+The Australian Monetary System in the 1970s, Melbourne, Monash University. 
+Ball, L., & Mankiw, N. G. (1994) Asymmetric price adjustment and economic fluctuations. Economic Journal 104: 247–261. 
+Baltensperger, E. (1993) Central Bank policy and lending of last resort. In Bruni, F. (Ed.), Prudential regulation, supervision 
+and monetary policy, Proceedings of a conference organised by the Paolo Baffi Center at Bocconi University, Milan, February.  
+Barker, F., Buckle, R. A., & St Clair, R. (2008), Roles of fiscal policy in New Zealand. Treasury Working Paper 08/01, June, 
+2008, pp. 42. https://treasury.govt.nz/publications/wp/roles-fiscal-policy-new-zealand-wp-08-02 
+Barro, R. J., & Gordon, D. (1983) Rules, discretion and reputation in a model of monetary policy. Journal of Monetary 
+Economics, 12: 101-121. 
+Bell, S., Chui, M., Gomes, T., Moser-Boehm, P., & Tejada, A. P. (2023) Why are central banks reporting losses? Does it 
+matter? Bank of International Settlements Bulletin, No 8, 7 February. 
+Berger, W., & Kirsmer, F. (2013) Central bank independence and financial stability: A tale of perfect harmony? European 
+Journal of Political Economy, 31: 109-118. 
+Bernanke, B. S. (2004) The Great Moderation. Presentation at the meetings of the Eastern Economic Association, Washington, 
+DC, February 20. 
+Bernanke, B. S. (2010) Central bank independence, transparency, and accountability. Speech at the Institute for Monetary 
+and Economic Studies International Conference, Bank of Japan, Tokyo. 
+Bernanke, B. S. (2017) Monetary policy in a new era. Paper prepared for a conference on Rethinking Macroeconomic Policy, 
+Peterson Institute, October, 48. 
+Bernanke, B. S., & Blanchard, O. (2023) What caused the U.S. pandemic-era inflation? Paper for a conference – “The Fed: 
+Lessons learned from the past three years”. Hutchins Centre on Fiscal & Monetary policy at the Brookings Institution.  
+Bernanke, B. S., Laubach, T., Mishkin, F. S., & A. S. Posen, A. S. (2001) Inflation Targeting: Lessons from the International 
+Experience. Princeton: Princeton University Press. 
+Bernanke, B. S., & F. Mishkin, F. S. (1997) Inflation Targeting: A New Framework for Monetary Policy? Journal of Economic 
+Perspectives 11(2): 97–116.  
+Blanchard, O., & Galí, J. (2007) Real wages and the New Keynesian model. Journal of Money, Credit and Banking, 39(1): 
+35-65. 
+
+
+28 
+ 
+Bodea, C., & Hicks, R. (2015) Price stability and central bank independence: Discipline, credibility, and democratic 
+institutions. International Organisation, 69: 35-61. 
+Bodea, C., & Higashijima, M. (2017) Central bank independence and fiscal policy: Can the central bank restrain deficit 
+spending? British Journal of Political Science, 47(1): 47-70. 
+Borio, C. (2023) Monetary policy under test. International Monetary Fund Finance and Development, March. 
+Borio, C., Lombardi, M., & Zakrajšek, E. (2023) The two-regime of inflation. Bank for International Settlements, Paper No. 
+133. 
+Borio, C., & Lowe, P. (2002) Asset Prices, Financial and Monetary Stability: Exploring the Nexus. Bank for International 
+Settlements, Paper No. 114. 
+Borland, J. (2023) Policy forum: Fiscal policy for COVID-19: An assessment. The Australian Economic Review, 56(1): 61-
+69.  
+Brandão-Marques, L., Casiraghi, M., Gelos, G., Kamber, G., & Meeks, R. (2021) Negative interest rates: Taking stock of the 
+experience so far. International Monetary Fund. Monetary and Capital Markets Department (Series), 21/03, Washington, 
+International Monetary Fund. 
+Broadbent, B. (2023) Monetary policy: Prices versus quantities. Speech to the National Institute of Economic and Social 
+Research, London, 25 April. 
+Brook, A-M. (2013) Making fiscal policy more stabilising in the next upturn: Challenges and options. New Zealand Economic 
+Papers, 47(1): 71-94. 
+Brunnermeier, M. K. (2023) Rethinking monetary policy in a changing world. International Monetary Fund Finance and 
+Development, March: 1-6. 
+Buckle, R. A. (2019) New Zealand’s Thirty-Year Experience with Inflation Targeting: The Origins, Evolution and Impact of 
+a Monetary Policy Innovation. History of Economics Review, 73(1): 47-84.  
+Buckle, R. A., & Carlson, J. (2000) Inflation and asymmetric price adjustment. The Review of Economics and Statistics, 82(1): 
+157–160.    
+Buckle, R. A., Haugh, D., & Thomson, P. (2003) Calm after the storm? Supply-side contributions to New Zealand’s volatility 
+decline. New Zealand Economic Papers, 37(2): 217-243.  
+Buckle, R. A., & Stemp, P. J. (1991) Reserve bank autonomy and the credibility of monetary policy: A game‐theoretic 
+approach. New Zealand Economic Papers, 25(1): 51-85. 
+Buiter, W. H. (2008) Can central banks go broke? Centre for Economic Policy Research Discussion Paper DP6287, 12 June.  
+Bullock, M. (2022) Review of the Bond Purchase Program. Speech at Bloomberg, Sydney, 21 September. 
+Burdekin, R. C. K., & Laney, L. O. (2016) Fiscal policy and the central bank constraint una vez más: New Latin American 
+evidence. Public Choice, 167: 277-290. 
+Carlstrom, C. T., & Fuerst, T. S. (2009) Central bank independence and inflation: A note. Economic Inquiry, 47(1): 182-186.  
+Čihák, M. (2007) Central bank independence and financial stability. IMF Mimeo.  
+Clarida, R. H. (2022) The Federal Reserve’s new framework: Context and consequences. Federal Reserve Board, Finance and 
+Economics Discussion Series:2022-001. 
+Clarida, R. H., Duygan-Bump, B., and Scotti, C. (2021) The COVID-19 crisis and the Federal Reserve’s policy response. 
+Finance and Economics Discussion Series 2021-035. Washington: Board of Governors of the Federal Reserve System. 
+Clarida, R.H., Galí, J., & Gertler, M. (1999) The Science of Monetary Policy: A New Keynesian Perspective. Journal of 
+Economic Literature, 37(4): 1661–1707.  
+Coleman, A., & Dasgupta, K. (2023) Designing a remit for multitasking central banks: Insights from principal-agent 
+literature. Paper presented to the 2023 Annual Conference of the New Zealand Association of Economists, Auckland, June.  
+Crowe, C., & Meade, E. E. (2007) The evolution of central bank governance around the world. The Journal of Economic 
+Perspectives, 21(4): 69-90. 
+Cukierman, A. (1992) Central Bank strategy, credibility and independence. Cambridge, The MIT Press, 1992. 
+Cukierman, A. (1994) Commitment through delegation, political influence and central bank independence. In J. A. H. de 
+Beaufort Wijnholds, S. C. W. Eijffinger & L. H. Hoogduin (Eds), A framework for monetary stability, Dordrecht, Kluwer 
+Academic Publishers, 55-74. 
+Cukierman, A. Webb, S. B., & Neyapti, B. (1992) Measuring the independence of central banks and its effect on policy 
+outcome. World Bank Economic Review, 6(3): 353-398.  
+Debelle, G. (2020a) The Reserve Bank's Policy Actions and Balance Sheet. Speech to the Economic Society of Australia, 30 
+June. 
+Debelle, G. (2020b) Monetary policy in 2020. Online presentation to Australian Business Economists Webinar, 24 November.  
+De Haan, J., Bodea, C., Hicks, R., & Eijffinger, S. C. W. (2018) Central Bank independence before and after the crisis. 
+Comparative Economic Studies, 60:183–202. 
+
+
+29 
+ 
+De Haan, J., and Gootjes, B. (2023) What makes discretionary counter-cyclical fiscal policy so difficult? An analysis of 32 
+OECD countries. CESifo Economic Studies, 69(1):1-20. 
+De Long, B. J. (1997) America’s peacetime inflation: The 1970s. In Romer, C., & Romer, D. (Eds), Reducing inflation: 
+Motivation and strategy, Chicago, University of Chicago Press for NBER.  
+De Long, B. J., and Tyson, L. D. (2013) Discretionary fiscal policy as a stabilisation tool: What do we think now that we did 
+not think in 2007? Mimeo, U.C. Berkeley. https://delong.typepad.com/20130531-delong-tyson-1.4.pdf 
+Demiralp., & Demiralp, S. (2019) Erosion of central bank independence in Turkey. Turkish Studies 20(1): 49-68.  
+Doumpos, M., Gaganis, C., & Pasiouras, F. (2015) Central bank independence, financial supervision structure and bank 
+soundness: An empirical analysis around the crisis. Journal of Banking and Finance, 61(1): S69-S83. 
+Draghi, M. (2018) Central bank independence. First Lamfalussy Lecture, Banque Nationale de Belgique, Brussels, 26 October.  
+Dreher, A., Sturm, J-E., and de Haan, J. (2010) When is a central banker replaced? Evidence based on a new dataset. Journal 
+of Macroeconomics, 32: 766-781. 
+Dreher, A., Sturm, J-E., & de Haan, J. (2008) Does high inflation cause central bankers to lose their job? Evidence based on a 
+new dataset. European Journal of Political Economy, 24: 778-787. 
+Eijffinger, S. C. W., & de Haan, J. (1996) The political economy of central-bank independence. Princeton University Special 
+Papers in International Economics, 19, May.  
+Evans, L., Grimes, A., Wilkinson, B., & Teece, D. (1996) Economic Reform in New Zealand 1984–95: The Pursuit of 
+Efficiency. Journal of Economic Literature, 34: 1856–1902. 
+Federal Reserve System (2022) Overview: The History of the Federal Reserve. Available from: Overview: The History of the 
+Federal Reserve | Federal Reserve History 
+Ftiti, Z., Aguir, A., & Smida, M. (2017) Time-inconsistency and expansionary business cycle theories: what does matter for 
+the central bank independence-inflation relationship? Economic Modelling, 67: 215-227. 
+Fouejieu, A. (2017) Inflation targeting and financial stability in emerging markets. Economic Modelling, 60: 51-70. 
+Friedman, M. (1962) Should there be an independent monetary authority? In L. B. Yeagar, (Ed), In search of a monetary 
+constitution, Cambridge, Massachusetts, Harvard University Press, Chapter VIII: 219-243. 
+Fry, M., Julius, D., Mahadeva, L., Roger, S., & Sterne, G. (2000) Key issues in the choice of monetary policy framework. In 
+L. Mahadeva & G. Sterne, (Eds), Monetary policy frameworks in a global context, London, Routledge, 1-216. 
+García-Herrero, A., & Del Rio Lopez, P. (2003). Financial Stability and the Design of Monetary Policy. Documentos de trabajo 
+Del Banco de España, (15), 1-62. 
+Garriga, A. C. (2016) Central bank independence in the world: A new dataset. International Interactions: Empirical and 
+Theoretical Research in International Relations, 42(5): 849-868. 
+Garriga, A. C., & Rodriguez, C. M. (2020) More effective than we thought: Central Bank independence and inflation in 
+developing economies. Economic Modelling, 85: 87-105.  
+Goodfriend, M. (2012) The elusive promise of independent central banking. Monetary and Economic Studies, Bank of Japan, 
+30 November: 39-54.  
+Goodfriend, M. (2007) How the world achieved consensus on monetary policy during a transition to rational expectations. 
+Journal of Economic Perspectives, 21: 47-68. 
+Goodfriend, M., & King, R. G. (2005) The Incredible Volcker Disinflation. Journal of Monetary Economics, 52(5): 981-1015.  
+Goodhart, C., & Lastra, R. (2018a) Populism and central bank independence. Open Economies Review, 29: 49-68.  
+Goodhart, C., & Lastra, R. (2018b) Potential threats to central bank independence. In Eijffinger, S., & Masciandaro, D. (Eds), 
+Hawks and doves: Deeds and words. London, CEPR Press, Chapter 2: 15-23.  
+Government of Canada (2021) Joint statement of the Government of Canada and the Bank of Canada on the renewal of the 
+Monetary Policy Framework. Government of Canada and Bank of Canada, 13 December.  
+Grilli, V., Masciandaro, D., & Tabellini, G. (1991) Political and monetary institutions and public finance policies in the 
+industrial economies. Economic Policy, 13: 341-392. 
+Grimes, A. (1991) The Effects of Inflation on Growth: Some International Evidence. Weltwirtschaftliches Archiv, 127 (4): 
+631-644 
+Grimes, A. 1996. Monetary Policy. In Silverstone, B., Bollard, A., & Lattimore, R. (Eds) A Study of Economic Reform: The 
+Case of New Zealand, Contributions to Economic Analysis No. 236. Amsterdam: North-Holland: 247–278.  
+Haldane, A. (2020) What has central bank independence ever done for us? Speech to University College London Economists’ 
+Society Economics Conference, London, 28 November. 
+Hardie, D. (2022) Turkish central bank cuts rates drastically despite soaring inflation. Central Banking. 14 November.  
+Hawkesby, C. (2020) Covid-19 and the Reserve Bank’s balance sheet. Presentation to the 2020 KangaNews New Zealand 
+Capital Markets Forum, Wellington, 20 August. 
+
+
+30 
+ 
+Hooley, J., Khan, A., Lattie, C., Mak, I., Salazar, N., Sayegh, A., and Stella, P. (2023) Quasi-fiscal implications of central 
+bank crisis interventions. International Monetary Fund Working Paper WP/23/114, June.  
+Jacob, P., & Ӧzbilgin, M. (2021) Welfare gains in a small open economy with a dual mandate for monetary policy. CAMA 
+Working Paper 89/2021, Canberra, Australian National University, October.  
+Jácome, L. I., & Vázquez, F. (2008) Is there a link between legal central bank independence and inflation? Evidence from 
+Latin America and the Caribbean. European Journal of Political Economy, 24: 788-801. 
+Johnson, S. (1993) The costs of inflation revisited. Reserve Bank of New Zealand Bulletin, 56 (1): 3-31. 
+Kashkari, N. (2023) Why we missed on inflation, and implications for monetary policy going forward. Federal Reserve Bank 
+of Minneapolis, 4 January.  
+Kengmana, B. (2021) RAMPed up: RBNZ’s additional monetary toolkit. Reserve Bank of New Zealand Bulletin, 84(1): 1-31. 
+Kennedy, S. (2020) Policy and the evolution of uncertainty. Speech to Australia Business Economists, 5 November.  
+King, M. (2023). Remarks. International symposium on central bank independence. Sveriges Riksbank (2023).  
+Klomp, J., & de Haan, J. (2009) Central bank independence and financial stability. Journal of Financial Stability, 5: 321-338. 
+Klomp, J., & de Haan, J. (2010a) Inflation and central bank independence: A meta-regression analysis. Journal of Economic 
+Surveys, 24(4): 593-621. 
+Klomp, J., & de Haan, J. (2010b) Central bank independence and inflation revisited. Public Choice, 144: 445-457. 
+Krugman, P. (2005) Is Fiscal Policy poised for a comeback? Oxford Review of Economic Policy, 21(4): 515-523. 
+Kydland, F. E., & Prescott, E. C. (1977) Rules rather than discretion: The inconsistency of optimal plans. Journal of Political 
+Economy, 85: 473-491. 
+Landström, M. (2011) Do central bank independence reforms matter for inflation performance? International Journal for 
+Banking, Accounting and Finance, 3: 320-335. 
+Lastra, R. M., & Wood, G. (1999) Constitutional approach to central bank independence. Central Banking, X (3): 34-39. 
+Leeper, E. M. (1991) Equilibria under ‘Active’ and ‘Passive’ Monetary and Fiscal Policies. Journal of Monetary Economics, 
+27 (1): 129–47. 
+Leeper, E. M. (2023) Fiscal dominance: How worried should we be? George Mason University Mercantus Center, Policy 
+Brief, March: 1-16. 
+Lilley, A., & Rogoff, K. (2019) The Case for Implementing Effective Negative Interest Rate Policy. Paper presented at the 
+ECB Conference on Monetary Policy: bridging science and practice, Frankfurt. 8 October. 
+Lim, J. J. (2021) The limits of central bank independence for inflation performance. Public Choice, 186: 309-335. 
+Lin, S., & Ye, H. (2009) Does inflation targeting make a difference in developing countries? Journal of Development 
+Economics, 89: 118-123. 
+Lingle, C. (2021) Illusions of central bank independence. American Institute for Economic Research. 11 August  
+Loungani, P. (1997) Lars Svensson: Central banking revolutionary. International Monetary Fund Finance & Development, 
+March: 39-41. 
+Loungani, P., & Sheets, N. (1997) Central bank independence, inflation, and growth in transition economies. Journal of Money, 
+Credit and Banking, 29: 381-399. 
+Maxfield, S. (1997) Gatekeepers of growth: The international political economy of central banking in developing countries. 
+Princeton University Press, Princeton, New Jersey.  
+Mishkin, F. (1996) Understanding financial crises: A developing country perspective. NBER Working Paper 5600.  
+Mishkin, F. S., & Savastano, M. (2001) Monetary Policy Strategies for Latin America. Journal of Development Economics, 
+66(2): 415–444.  
+Nelson, E. (2005) Monetary policy neglect and the Great Inflation in Canada, Australia and New Zealand. International 
+Journal of Central Banking, 1(1),133-179. 
+Nelson, E. (2022) How did it happen? The Great Inflation of the 1970s and lessons for today. Finance and Economics 
+Discussion Series 2022-37. Washington: Board of Governors of the Federal Reserve System,  
+Nguyen, D. N., & Dang, T. T. (2022) The relationship between central bank independence and systemic fragility: global 
+evidence. Cogent Economics & Finance, 10(1): 1-27. 
+Nordstrom, A., & Vredin, A. (2022) Does central bank equity matter for monetary policy?  Sveriges Riksbank Staff Memo, 
+December. 
+OECD (2023) OECD sovereign borrowing outlook 2023. OECD, Paris, May.  
+Orphanides, A., & Williams, J. C. (2005a) Inflation scares and forecast-based monetary policy. Review of Economic Dynamics, 
+8(2): 498-527.  
+Orphanides, A., & Williams, J. C. (2005b) Imperfect knowledge, inflation expectations, and monetary policy. In Bernanke, 
+B., & Woodford, M. (Eds), The inflation targeting debate. Chicago, University of Chicago Press, Chp 5: 201-245.  
+
+
+31 
+ 
+Orr, A. (2020) Monetary policy challenges for a small open economy during Covid-19. Sir Leslie Melville Lecture, Australian 
+National University, Canberra, 2 December.  
+Parkin, M. (1987) Domestic monetary institutions and deficits. In J. Buchanan, C. Rowley, & R. Tollinson, Deficits, Oxford, 
+Basil Blackwell Publishing: 310-337.  
+Parkin, M. (2013) Central Bank Laws and Monetary Policy Outcomes: A Three Decade Perspective. Paper for the session 
+“Central Bank Independence: Reality or Myth?”, Meetings of the American Economic Association, San Diego: January 4. 
+Quintyn, M., & Taylor, M. W. (2002) Regulatory and supervisory independence and financial stability. IMF Working Paper 
+WP/02/46, March.  
+Rajan, R. (2023). For central banks, less is more. International Monetary Fund Finance & Development: March.  
+Reis, R. (2013). The mystique surrounding the central bank's balance sheet, applied to the European crisis. National Bureau 
+of Economic Research Working Paper 18730. 
+Reserve Bank of Australia (2022) Annual Report. Reserve Bank of Australia.  
+Reserve Bank of Australia (2023) Supply and demand drivers of inflation in Australia. Reserve Bank of Australia, Statement 
+on Monetary Policy, February.  
+Reserve Bank of New Zealand (2022) Review and assessment of the formulation and implementation of monetary policy 
+(RAFIMP). Reserve Bank of New Zealand, 10 November. 
+Reserve Bank of New Zealand (2023a) Monetary Policy Statement May 2023. Reserve Bank of New Zealand, 24 May.   
+Reserve Bank of New Zealand (2023b) Supporting New Zealand’s economic stability, Toitū te Ōhanga. Reserve Bank of New 
+Zealand, 27 April.   
+Rogoff, K. S. (1985) The optimal degree of commitment to an intermediate monetary target. Quarterly Journal of Economics, 
+100: 1169-1189. 
+Rogoff, K. S. (2022) The age of inflation: Easy money, hard choices. Foreign Affairs, November/December.  
+Romer, C., & Romer, D. (2002) The evolution of economic understanding and post-war stabilization policy. Rethinking 
+stabilization policy, Jackson Hole Economic Policy Symposium, sponsored by Federal Reserve Bank of Kansas City: 11-78.  
+Rotemberg, J., & Woodford, M. (1997) An optimization-based econometric framework for the evaluation of monetary policy. 
+Chapter 7, in Bernanke, B. & Rotemberg, J. (Eds), NBER Macroeconomics Annual 1997, 12: 297-361.  
+Rutter, C. (2022) Canadian politicians row over central bank independence. Public Finance Focus, 13 May.  
+Sargent, T.J., & Wallace, N. (1984) Some unpleasant monetarist arithmetic. In B. Griffiths, B. & Wood, G.E. (Eds), 
+Monetarism in the United Kingdom, London, MacMillan, 15-41. 
+Schwartz, A. (1995) Systemic risk and the macro economy. In Kaufman, G. (Ed), Banking, financial markets and systemic 
+risk, Research in Financial Services, Private and Public Policy. JAI Press. 
+Shapiro, A. H. (2022) How much do supply and demand drive inflation. Federal Reserve Bank of San Francisco Economic 
+Letter, 21 June: 1-6. 
+Shapiro, A. H. (2022) A simple framework to monitor inflation. Federal Reserve Bank of San Francisco Working Paper 2020-
+29: Pp 38. 
+Sheshinski, E., & Weiss, Y. (Eds) (1993) Optimal pricing, inflation, and the cost of price adjustment. Cambridge, MIT Press. 
+Silk, K. (2022) New Zealand’s monetary policy implementation framework. Speech delivered to KangaNews New Zealand 
+Debt Capital Market Summit, 7 September.  
+Sims, C. A. (2003) Implications of rational inattention. Journal of Monetary Economics, 50(3): 665–690. 
+Strong, C., & Yayi, C. (2021) Central bank independence, fiscal deficits and currency union: Lessons from Africa. Journal of 
+Macroeconomics, 68: 1-20. 
+Taylor, J. B. (2013) The effectiveness of central bank independence vs rules. Business Economics, 48(3): 155-162. 
+Taylor, J. B. (1979) Estimation and Control of a Macroeconomic Model with Rational Expectations. Econometrica, 47(5): 
+1267–1286.  
+Tenreyro, S. (2021) Responses to the Covid-19 pandemic: UK and US experiences. Speech to the Federal Reserve Bank of 
+San Francisco Macroeconomics and Monetary Policy Spring Conference, 26 March. 
+The Economist (2022) The insidious threats to central bank independence. December 15th. 
+The Treasury (2023) Decomposing inflation into supply and demand drivers. New Zealand Treasury Fortnightly Economic 
+Update, March: 7-9.  
+Tucker, P. (2018a) Unelected power: The quest for legitimacy in central banking & the regulatory state. Princeton, Princeton 
+University Press. 
+Tucker, P. (2018b) Unelected power: The quest for legitimacy in central banking & the regulatory state. Presentation and 
+responses to remarks at a New City Agenda seminar, London, 12 June. 
+Wadsworth, A. (2017) An international comparison of inflation-targeting frameworks. Reserve Bank of New Zealand Bulletin, 
+80 (8): 4-34. 
+
+
+32 
+ 
+Walsh, C. E. (1995) Is New Zealand's Reserve Bank Act of 1989 an Optimal Central Bank Contract? Journal of Money, Credit 
+and Banking, 27(4): 1179-1191. 
+Walsh, C. E. (2009) Central Bank Independence. In S. E. Durlauf & L. E. Blume (Eds) Monetary Economics. The New 
+Palgrave Economics Edition, London, Palgrave Macmillan, Chp 3, 21-26. 
+Wheeler, G., & Wilkinson, B. (2022) How central bank mistakes after 2019 led to inflation. Central Banking, 33(1).

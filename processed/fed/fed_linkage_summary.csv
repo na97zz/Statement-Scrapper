@@ -1,0 +1,14 @@
+metric,value
+bank,FED
+fed_rows_loaded,556
+meetings_created,43
+documents_linked,552
+documents_unlinked,4
+missing_text_files,0
+date_min,2021-01-08
+date_max,2026-05-31
+statement_count,44
+minutes_count,43
+speech_count,469
+press_conference_count,0
+sep_count,0

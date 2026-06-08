@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the UBS Panel discussion Central Banks and Inflation – Zurich",
+  "date_original": "2022-06-24",
+  "date_au": "24/06/2022",
+  "datetime_original": "",
+  "speaker": "Zurich",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-gov-2022-06-24.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-06-24 - Zurich - Panel Participation at the UBS Panel discussion Central Banks and Inflation – Zurich.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-06-24 - Zurich - Panel Participation at the UBS Panel discussion Central Banks and Inflation – Zurich.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "44d6fb0d50b1ab1548a76ea010eaed9e1e9ec5e305b1292798a6f22d381c4dec"
+}

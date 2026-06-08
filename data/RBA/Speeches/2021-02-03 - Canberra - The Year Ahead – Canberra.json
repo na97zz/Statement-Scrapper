@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Year Ahead – Canberra",
+  "date_original": "2021-02-03",
+  "date_au": "03/02/2021",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-02-03.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-02-03 - Canberra - The Year Ahead – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-02-03 - Canberra - The Year Ahead – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "17982852bad53638b89425b0074e2585c513dcbbf788165e0a360d1419d4eb3e"
+}

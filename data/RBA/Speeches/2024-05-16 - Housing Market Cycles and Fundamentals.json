@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Housing Market Cycles and Fundamentals",
+  "date_original": "2024-05-16",
+  "date_au": "16/05/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-05-16.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-05-16 - Housing Market Cycles and Fundamentals.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-05-16 - Housing Market Cycles and Fundamentals.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "70e72ebb745ced47bd8cadca848b32f55458eb0d6999bb589e7d2994bb19fa00"
+}

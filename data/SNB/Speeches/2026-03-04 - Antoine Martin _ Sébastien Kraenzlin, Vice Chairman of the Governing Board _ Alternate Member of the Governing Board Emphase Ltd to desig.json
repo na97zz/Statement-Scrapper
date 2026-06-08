@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Speeches",
+  "title": "Antoine Martin / Sébastien Kraenzlin, Vice Chairman of the Governing Board / Alternate Member of the Governing Board Emphase Ltd to design new banknote series ﻿",
+  "date_original": "2026-03-04",
+  "date_au": "04/03/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260304_anmarskr",
+  "raw_file_path": "data\\SNB\\Speeches\\2026-03-04 - Antoine Martin _ Sébastien Kraenzlin - Antoine Martin _ Sébastien Kraenzlin, Vice Chairman of the Governing Board _ Alternate Member of t.html",
+  "text_file_path": "data\\SNB\\Speeches\\2026-03-04 - Antoine Martin _ Sébastien Kraenzlin - Antoine Martin _ Sébastien Kraenzlin, Vice Chairman of the Governing Board _ Alternate Member of t.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:26",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

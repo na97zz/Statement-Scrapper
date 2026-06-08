@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Competition in the Deposit Market – Sydney",
+  "date_original": "19 May 2010",
+  "date_au": "19/05/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-190510.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-05-19 - Sydney - Competition in the Deposit Market – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-05-19 - Sydney - Competition in the Deposit Market – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "15e2f1c518cfb87194cfec9796440106d4900a85ad41563a8e48255f71a79c1c"
+}

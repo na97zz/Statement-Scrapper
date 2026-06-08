@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Aspects of Australia's Finances – Sydney",
+  "date_original": "15 June 2010",
+  "date_au": "15/06/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-dg-150610.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-06-15 - Sydney - Aspects of Australia's Finances – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-06-15 - Sydney - Aspects of Australia's Finances – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:24",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8550f60b825abb2749ff7d9d14e312f73c3474f624a0398eac7e9403a73ee5ec"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Ohlsson War Often Leads To Inflation",
+  "date_original": "2022",
+  "date_au": "01/06/2022",
+  "datetime_original": "",
+  "speaker": "Henry Ohlsson",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2022/ohlsson-war-often-leads-to-inflation/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2022-06-01 - Henry Ohlsson - Ohlsson War Often Leads To Inflation.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2022-06-01 - Henry Ohlsson - Ohlsson War Often Leads To Inflation.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:05:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "37bb23f9d48c30faf760273cbfcab5bbad7703ef6f6adc296c12b49b6695fa2a"
+}

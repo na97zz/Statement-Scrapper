@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The End of Libor and the Australian Market – Online",
+  "date_original": "2021-03-18",
+  "date_au": "18/03/2021",
+  "datetime_original": "",
+  "speaker": "Online",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-ag-2021-03-18.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-03-18 - Online - The End of Libor and the Australian Market – Online.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-03-18 - Online - The End of Libor and the Australian Market – Online.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fbb2ab76685c1a5235553487155875452c101e21234ccc979353b9c6a1bb1eb4"
+}

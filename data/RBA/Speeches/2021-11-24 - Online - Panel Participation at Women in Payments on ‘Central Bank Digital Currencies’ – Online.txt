@@ -1,0 +1,180 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Panel Participation at Women in Payments on ‘Central Bank Digital Currencies’ – Online
+DATE: 24/11/2021
+SPEAKER: Online
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2021/sp-ag-2021-11-24.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Panel Participation at Women in Payments on ‘Central Bank Digital Currencies’
+Michele Bullock
+Assistant Governor (Financial System)
+Women in Payments
+Online
+–
+24 November 2021
+Audio
+20MB
+Transcript
+Moderator
+There's so much public interest on CBDC. Michele, it would be great if you could share with us the
+ central bank's perspective.
+Michele Bullock
+What I might do is start by asking why we're all talking about this all of a sudden. I think there
+ are a few big factors at play here. The first is that – and this isn't new – that
+ there's a recognition that there's gaps in payment systems, and the two big gaps are
+ financial inclusion in some countries, typically not in advanced countries, but in many developing
+ countries and cross border payments where there are lots of frictions, lots of costs, very costly,
+ it's slow. We've known about that for ages and it's just percolating along in the
+ background.
+The second factor is that there is a decline in the use of cash, as in banknotes, and that's been
+ accelerated by COVID and a lot of countries are saying, well hang on, the central bank's main
+ method of payment that it issues, the banknote, the claim on the central bank, is declining,
+ shouldn't central banks be offering an alternative claim on the central bank? So there's that
+ in the background. The third factor that's in the background is just the increasing innovation
+ and the whole digital money thing, started with Bitcoin, but advancing. I think something behind this
+ is this really low interest rate environment we've been in since the global financial crisis.
+ People are looking for ways to basically earn yield.
+So those three factors I think have generated … and there's been some specific events
+ along the way, but they've generated a lot of interest in this, and I have to say that in the
+ last couple years, the whole tempo among central banks has increased markedly in this. The Bank for
+ International Settlements has been quite actively calling for central banks to be working on this,
+ many central banks around the world are. So let me go back a little bit, and I'd like to expand
+ on some things Nish said about definitions. When we talk about money in the economy, most of our
+ money is actually already digital.
+Cash, which is the only non-digital thing, or banknotes, it's only around 4 per cent of
+ the total amount of deposits out there. Most money is already digital. It's just in commercial
+ bank deposits. That's what it is. The other point I would make, and people I don't think,
+ think of it this way, is that we actually already have a central bank digital currency. It's
+ called Exchange Settlement Accounts at the Reserve Bank, and that's the way that banks digitally
+ move money between one another. ANZ doesn't take a big bag of cash and pay CBA with a big bag of
+ cash, they exchange central bank account money, which is a digital currency.
+It's not the way people think about it in the context of what I would call a retail central bank
+ digital currency. That's the concept that you, I, our mums and dads, our kids all have some
+ access to money, which is a direct claim on the central bank. So like cash, like banknotes, except
+ it's not in a physical form, it's in a digital form, and that's what we're talking
+ about when we're talking about central bank digital currencies in what I'd call a retail
+ sense. So at the Bank, we've been actually doing quite a lot of work on central bank digital
+ currency. Our focus initially though has been very much on what we call wholesale central bank
+ digital currency. So that's basically about settlement between financial institutions, its big
+ amounts of money exchanging hands. So like we do with exchange settlement accounts, but perhaps doing
+ it with some sort of central bank digital token or something.
+We've done a couple of experiments. One we did, we did try to replicate a simple settlement model.
+ So instead of doing it across central bank accounts, we experimented with issuing a central bank
+ digital currency token, and then the banks themselves could exchange that token amongst themselves,
+ and that was a very simple model. More recently we've been doing some work with a couple of
+ banks, CBA and NAB in particular, and a couple of other participants on a thing called Project Atom,
+ and the concept there is that we have this wholesale digital currency, claim on the central bank, and
+ it's used to settle payments associated with a tokenised syndicated loan. So it's one step
+ further along now, it's saying, can we use the central bank digital currency to effect delivery
+ versus payment in some sense with another tokenised asset.
+So that's really where our work has been focused. We have said in the past we don't really see
+ a case for central bank digital currencies for retail use, although we're constantly looking at
+ that issue, but other central banks have, and I'll just highlight a few and we can come back to
+ some of these conversations. The central bank of The Bahamas in fact has one, it's called the
+ Sand Dollar, and the motivation for them was a financial inclusion motivation, people didn't have
+ bank accounts.
+China. The Chinese have developed, it's in pilot phase, a central bank digital currency. I think
+ everyone's expecting it will go into production if you like, and their motivation is I think also
+ financial inclusion, but also they're looking at the big techs: WeChat and Alipay and worrying
+ about the control of big techs over the payments system. Sweden and Europe are also looking at this
+ issue. Sweden is very worried about the decline in cash and has a philosophical view that the central
+ bank should be offering some sort of currency to their residents, and in Europe I think it's
+ motivated a lot by the fact that they want a single euro.
+So there's a few examples. The work is hotting up, as I said, and I think I'll just stop there
+ and then we can pick up some of these themes later on. So thanks Siew Lee.
+Moderator
+Thanks. Actually, I have a follow-up question for you Michele. You mentioned that there's so many
+ different types of reasons why the public is looking to CBDC. For Australia, what amongst the reasons
+ are the biggest motivator for Australia to adopt this?
+Michele Bullock
+I'd probably preface it by saying at the moment we don't see a lot of motivations because we
+ have fast payment systems. We already have digital currency, we have a highly banked population, so
+ there's not a financial inclusion issue. We have everything we really need, so the question is
+ what gap would it fill? And for me, there're two potential gaps. One is the cross border issue,
+ which we can come to. The second issue is that in a world of digital, and if you don't have any
+ cash, what happens if the systems go down? What happens if the electricity goes? What happens if you
+ have a cyclone in Northern Queensland and there's no power? How do people pay for things if
+ there's no cash? There might be a role for something like this that can operate in an offline
+ environment, which is a central bank digital currency, so there might be something there. There's
+ a couple of potential use cases, but if you looked across the board, for me at the moment, I'm
+ saying, what gap does it fill for me?
+Michele Bullock
+Can I just jump in there? I think your point about programmable money and digital asset is a very
+ important one. Because what you've just explained there, for me, is why it is in the wholesale
+ space that this is of most importance. This concept of being able to have atomistic settlement, of
+ being able to program the way that things will happen, I think is very important in those markets.
+ I'm not as convinced, it's so important in the retail space, in terms of me paying you, or me
+ paying the merchant or something like that.
+The other point I just wanted to make and you alluded to it, is the issue of settlement. It's very
+ important that in the high value space, one of the things that we get out of our current digital
+ system, they're not programmable but its digital money, is that when it's settled, it's
+ final and it's done. And so whatever the technology provides in this sense, it's really
+ important that this concept of probabilistic settlement doesn't exist in high value. We can't
+ have a circumstance where there's a really high value settlement, and it's not quite certain
+ for a while. That's a step backwards, so that's why all those things you're talking about
+ are crucial to this particular aspect.
+Moderator
+I see Michele nodding there. And I think there's a few things we can talk to that. One is, do we
+ see other countries also looking at that from that angle or how they're going to do it
+ sustainably? The other is, what is also the central bank's views? Would you both like to talk to
+ it?
+Michele Bullock
+Let me just say a couple of things. Central banks are clearly focusing on sustainability from a couple
+ of perspectives. There's the financial stability perspective and the impact on the financial
+ system and so on. So that's one perspective. They're also looking at their own operations as
+ other corporations and firms are. One area that has had some recent focus in some countries has been
+ the carbon footprint of the banknote printing business. And it has a reasonable carbon footprint
+ because you're moving lumps of cash around the country, you're transporting around the
+ country and so on. So conceivably, the digital economy offers a lower carbon footprint. So I think
+ there is work to be done there. And I agree with Lisa that it is an opportunity.
+One of the big things that people talk about with Bitcoin and some of the crypto assets, I'm not
+ calling them cryptocurrencies, crypto assets, is their big energy footprint. And it's not only
+ that they are energy using coal, sometimes they're not. Sometimes they're using renewables,
+ but they still have a massive energy consumption. So the more they're consuming, the less others
+ can consume it. This whole energy consumption issue, I think, is a very big issue. And to Lisa's
+ point, I'm no expert in this area, but I think this is going to be something that will be in the
+ thinking of central banks as they think about how this might be implemented.
+Michele Bullock
+I have to say though, despite all that, I get plenty of emails from companies telling me they can set
+ me up a central bank digital currency in a week.
+Michele Bullock
+Can I come at it from two different angles? The first angle is, central bank digital currencies in and
+ of themselves wouldn't typically need to be regulated because they're being issued by a
+ central bank. The central bank has no credit risk, so it's different. The concept of the
+ regulatory framework for the non-central bank digital currencies in particular stablecoins and
+ possibly crypto, which Bragg talked about, it's a very difficult space. Everyone is grappling
+ with it and I won't go into it. But coming back to the central bank digital currencies
+ again … banknotes, of course, are anonymous in the sense that you can exchange them and no
+ one needs to know that you've exchanged them. Would central bank digital currencies offer a
+ similar experience? So could I pay Lisa with complete anonymity? No one can track that I paid Lisa.
+ I'd have to say that I think that's reasonably unlikely … if you are moving into a
+ retail central bank digital currency. Wholesale obviously must be able to do this.
+But the concept of a retail central bank digital currency that allowed people to just not be tracked
+ in terms of what they were paying, to be completely anonymous, I think is highly unlikely. I
+ don't think central banks would go down that route. There would be rules around privacy, there
+ might be rules around when you were allowed to actually track where people were sending their money,
+ but basically you wouldn't have a purely anonymous style of central bank currency. In my view, I
+ think that's an extremely unlikely outcome.
+Michele Bullock
+Well, my prediction actually is, notwithstanding all I said about the use cases for retail CBDC, my
+ prediction is actually that's exactly where we're heading. I think enough countries will
+ start going down this route and we are going to end up there. That's my whole prediction.
+Moderator
+And actually, I'm going to extend that a little bit. I think your colleague, Head of Payments
+ Policy, Mr Tony Richards, spoke a little bit about that prediction.
+Michele Bullock
+Yes, he did.
+Moderator
+Would you like to expand on that a little bit on what he said?
+Michele Bullock
+He gave a speech the other day, which I think set the cat amongst the pigeons. The summary was that he
+ basically felt that if stablecoins and central bank digital currencies for retail use actually got up
+ and running, so-called cryptocurrencies or crypto assets really … will be niche use, they
+ won't become mainstream use. Central bank digital currencies for retail use will basically ensure
+ that they're not used for payments. I don't think they are at the moment anyway, but it will
+ ensure they won't be used for payments.

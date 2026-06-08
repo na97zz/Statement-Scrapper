@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Erik Thedeen Committee On Finance Hearing On The Riksbanks Operations And Monetary Policy",
+  "date_original": "2023",
+  "date_au": "01/06/2023",
+  "datetime_original": "",
+  "speaker": "Erik Thedéen",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2023/erik-thedeen-committee-on-finance-hearing-on-the-riksbanks-operations-and-monetary-policy/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Erik Thedéen - Erik Thedeen Committee On Finance Hearing On The Riksbanks Operations And Monetary Policy.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2023-06-01 - Erik Thedéen - Erik Thedeen Committee On Finance Hearing On The Riksbanks Operations And Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:04:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ddf174e8a19357d2161f7b9442f30b377fb1612985e38bfbff7bcd8a5d0e3b0b"
+}

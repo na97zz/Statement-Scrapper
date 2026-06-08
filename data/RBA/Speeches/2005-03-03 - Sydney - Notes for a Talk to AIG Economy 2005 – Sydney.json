@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Notes for a Talk to AIG Economy 2005 – Sydney",
+  "date_original": "3 March 2005",
+  "date_au": "03/03/2005",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-ag-030305.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-03-03 - Sydney - Notes for a Talk to AIG Economy 2005 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-03-03 - Sydney - Notes for a Talk to AIG Economy 2005 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e6a2c7b8f2b8627e1e2fe920442690f86bd5606b090101a4efbf429ad7058a9f"
+}

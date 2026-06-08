@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economics and the Public Good",
+  "date_original": "2026-05-27",
+  "date_au": "27/05/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2026/sp-mpb-2026-05-27.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2026-05-27 - Economics and the Public Good.html",
+  "text_file_path": "data\\RBA\\Speeches\\2026-05-27 - Economics and the Public Good.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:27:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "25e1829d2bfb1f23cb8f814839b6e0b35d4a539aa4418e425c0c309e3b0e3201"
+}

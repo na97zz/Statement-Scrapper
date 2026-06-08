@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia's RMB Policies and Future Direction – Sydney",
+  "date_original": "2023-07-14",
+  "date_au": "14/07/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2014/sp-dg-230714.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-07-14 - Sydney - Australia's RMB Policies and Future Direction – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-07-14 - Sydney - Australia's RMB Policies and Future Direction – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d61393ccef9d5c0a721fb0a2ae4291daf63a3258460c288522fb160047da00f9"
+}

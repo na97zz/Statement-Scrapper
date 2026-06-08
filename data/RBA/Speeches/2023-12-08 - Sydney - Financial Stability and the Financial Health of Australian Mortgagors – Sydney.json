@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Financial Stability and the Financial Health of Australian Mortgagors – Sydney",
+  "date_original": "2023-12-08",
+  "date_au": "08/12/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-12-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-12-08 - Sydney - Financial Stability and the Financial Health of Australian Mortgagors – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-12-08 - Sydney - Financial Stability and the Financial Health of Australian Mortgagors – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "58dfa001693a05c694c1f88c53c316b2df07ce070ac0b46281194c44a309d9da"
+}

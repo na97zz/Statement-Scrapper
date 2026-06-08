@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Minutes",
+  "title": "7 December 2021",
+  "date_original": "2021-12-07",
+  "date_au": "07/12/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2021/2021-12-07.html",
+  "raw_file_path": "data\\RBA\\Minutes\\2021-12-07 - 7 December 2021.html",
+  "text_file_path": "data\\RBA\\Minutes\\2021-12-07 - 7 December 2021.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:25:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f0c0944412d1474b73e6ddcd187ac5cc1b5de96a0d1733844f2d98d80606fd39"
+}

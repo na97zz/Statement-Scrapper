@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Speeches",
+  "title": "Antoine Martin, Vice Chairman of the Governing Board Situation économique et politique monétaire ﻿",
+  "date_original": "2026-05-21",
+  "date_au": "21/05/2026",
+  "datetime_original": "",
+  "speaker": "Antoine Martin",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260521_anmar",
+  "raw_file_path": "data\\SNB\\Speeches\\2026-05-21 - Antoine Martin - Antoine Martin, Vice Chairman of the Governing Board Situation économique et politique monétaire ﻿.html",
+  "text_file_path": "data\\SNB\\Speeches\\2026-05-21 - Antoine Martin - Antoine Martin, Vice Chairman of the Governing Board Situation économique et politique monétaire ﻿.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:26",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

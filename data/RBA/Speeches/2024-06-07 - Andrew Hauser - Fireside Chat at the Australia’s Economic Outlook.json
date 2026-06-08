@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Australia’s Economic Outlook",
+  "date_original": "2024-06-07",
+  "date_au": "07/06/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-06-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-06-07 - Andrew Hauser - Fireside Chat at the Australia’s Economic Outlook.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-06-07 - Andrew Hauser - Fireside Chat at the Australia’s Economic Outlook.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:36",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1a2338b2c65f39f4e59bcbf521c83cdef1ad731b2c4831bce2e3378c100c7830"
+}

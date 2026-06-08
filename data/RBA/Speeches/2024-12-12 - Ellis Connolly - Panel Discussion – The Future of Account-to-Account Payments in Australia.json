@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Discussion – The Future of Account-to-Account Payments in Australia",
+  "date_original": "2024-12-12",
+  "date_au": "12/12/2024",
+  "datetime_original": "",
+  "speaker": "Ellis Connolly",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-so-2024-12-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-12-12 - Ellis Connolly - Panel Discussion – The Future of Account-to-Account Payments in Australia.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-12-12 - Ellis Connolly - Panel Discussion – The Future of Account-to-Account Payments in Australia.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e53ff23e16cabc6d4978afc55d9b9d19592e185baf6cce346c6adf0da222e77a"
+}

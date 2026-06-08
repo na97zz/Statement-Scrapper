@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The RBA and the Australian Economy – Wagga Wagga",
+  "date_original": "2021-12-16",
+  "date_au": "16/12/2021",
+  "datetime_original": "",
+  "speaker": "Wagga Wagga",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-12-16.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-12-16 - Wagga Wagga - The RBA and the Australian Economy – Wagga Wagga.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-12-16 - Wagga Wagga - The RBA and the Australian Economy – Wagga Wagga.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "30cccc3b7d8a3d6f652816d65649c1476086440f16be70e77d603634d2b7c4a6"
+}

@@ -1,0 +1,787 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Collateral and Liquidity: Striking the Right Balance – Sydney
+DATE: 09/07/2014
+SPEAKER: Sydney
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2014/sp-so-090714.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Collateral and Liquidity: Striking the Right Balance
+Mark Manning
+[
+*
+]
+Deputy Head of Payments Policy (Financial System)
+Global Investor/ISF Australia Conference
+Sydney
+–
+9 July 2014
+Audio
+18
+MB
+Q&A Transcript
+Good morning. It is a pleasure to address this gathering today and I would like to
+
+ thank Global Investors and ISF Australia for the opportunity. The topic I would
+
+ like to cover this morning is collateral and liquidity. In particular, I'd
+
+ like to explore important changes in the way collateral is used and what this
+
+ might imply for policymakers – and central banks in particular.
+Introduction
+Regulatory developments and changes in financial institutions' risk preferences
+
+ are fundamentally altering the way liquidity flows through the system and how
+
+ institutions fund themselves. These include: the expansion of central counterparty
+
+ (CCP) clearing; margining of non-centrally cleared derivatives; higher capital
+
+ charges for uncollateralised exposures; an emerging investor preference for
+
+ collateralised lending; margin segregation; increasing caution around rehypothecation
+
+ and re-use of collateral … The list goes on. Given the experience of
+
+ the global financial crisis, there are good reasons for all of these changes.
+
+ At the same time, central banks and other regulators can help to smooth the
+
+ transition to the eventual new steady state, including by ensuring appropriately
+
+ measured implementation of new regulations.
+An economist at the International Monetary Fund (IMF), Manmohan Singh, has written
+
+ extensively on this topic. In a paper presented at the RBA conference on liquidity
+
+ and funding markets last year, Singh emphasised the ‘financial lubrication’
+
+ role of collateral and the importance of well-functioning collateral markets
+
+ for channelling liquidity within and between the banking and non-bank financial
+
+ sectors (Singh 2013). He observed that the effectiveness of these markets may
+
+ already have declined since the onset of the financial crisis. The broader
+
+ implications of this had probably not yet been felt, however, because less
+
+ effective circulation of collateral through the system had to some extent been
+
+ offset by increased issuance of government debt and easy monetary policy.
+But in time these changes seem likely to alter established market practices and reshape
+
+ incentives. In the remainder of this talk I will discuss some of the key drivers
+
+ and implications of these changes. I will also highlight where central banks
+
+ or other regulators' responses could potentially help to strike the right
+
+ balance.
+Increased Demand for High-quality Liquid Assets
+Much has already been written on the drivers of increased demand for eligible high-quality
+
+ liquid assets. In an article co-authored with my colleague Alex Heath a couple
+
+ of years ago (Heath and Manning 2012), we highlighted two key regulatory reform
+
+ drivers of increased demand.
+First, new liquidity standards introduced under the Basel III reforms. These standards
+
+ include minimum requirements for the size and composition of banks' liquid
+
+ assets: the Liquidity Coverage Ratio. In particular, banks will have to hold
+
+ sufficient high-quality liquid assets to be able to withstand 30 days of outflows
+
+ under stressed market conditions. For these purposes, the Australian Prudential
+
+ Regulation Authority (APRA) has defined high-quality liquid assets to include
+
+ cash, central bank reserves and government securities. Although these requirements
+
+ do not formally take effect in Australia until the start of next year, we have
+
+ already seen a marked change in Australian banks' liquid asset holdings.
+
+ Since late 2006, the total quantum of liquid assets on banks' balance sheets
+
+ has risen from around $100 billion to just over $300 billion. Adjusting for
+
+ the overall growth in balance sheets over that period, this equates to an increase
+
+ from around 7 per cent to 11 per cent of total assets. Within this, the share
+
+ of short-term bank paper has declined from more than 50 per cent to just 15
+
+ per cent, with a particularly marked shift into government securities (Table 1).
+Table 1: Australian Banks' Assets
+Domestic books
+December 2006
+December 2011
+December 2013
+$ billion
+Share
+(a)
+$ billion
+Share
+(a)
+$ billion
+Share
+(a)
+Liquid assets
+(b)
+104
+7
+260
+10
+306
+11
+– Government securities
+(c)
+10
+10
+72
+28
+126
+41
+– Short-term bank paper
+54
+52
+64
+24
+44
+15
+– Long-term bank paper
+9
+9
+74
+29
+60
+19
+– Other
+(d)
+30
+29
+50
+19
+76
+25
+Total bank assets
+1,582
+2,597
+2,896
+(a) Share of total Australian dollar assets (per cent), subcomponents are
+
+ the share of liquid assets
+(b) While deposits with other banks are a store of liquidity, they
+
+ do not contribute to the stock of liquidity held by the banking system
+
+ as a whole, since the recipient banks will, in turn, need to hold additional
+
+ liquidity against these deposits; consequently, they are excluded from
+
+ this table
+(c) Includes Commonwealth Government Securities and securities issued
+
+ by the states and territories
+(d) Includes notes and coins, Australian dollar debt issued by non-residents
+
+ and securitised assets (excluding self-securitised assets)
+Sources: ABS; APRA; RBA
+Second, reforms that encourage or mandate CCP clearing of standardised over-the-counter
+
+ (OTC) derivative trades that require collateralisation of non-centrally cleared
+
+ trades will significantly increase the demand for collateral.
+Collateral agreements in these markets are not new. Since well before the financial
+
+ crisis, the proportion of non-centrally cleared trades that are subject to
+
+ collateral agreements has been on the rise. Indeed, the most recent annual
+
+ margin survey conducted by the International Swaps and Derivatives Association
+
+ (ISDA) reports that around 90 per cent of transactions in credit, fixed-income
+
+ and equity derivatives are subject to a collateral agreement. A smaller proportion
+
+ of trades in foreign exchange and commodity derivatives are subject to such
+
+ agreements, in part reflecting the greater participation of non-financial entities
+
+ in these product markets
+(Graph 1)
+.
+Graph 1
+Agreements to date have typically provided only for the exchange of collateral to
+
+ cover current mark-to-market exposures; that is, variation margin. Looking
+
+ ahead, however, OTC derivative trades, whether or not centrally cleared, will
+
+ also be subject to collateral to cover potential future exposures should a
+
+ counterparty default and the positions have to be closed out; that is, initial
+
+ margin.
+Initial margin requirements are already beginning to bite – at least among
+
+ interdealer trades in the more standardised OTC derivative markets, such as
+
+ that for interest rate derivatives. The majority of outstanding notional value
+
+ of OTC interest rate derivatives is already centrally cleared and therefore
+
+ subject to both initial and variation margin requirements. In some jurisdictions,
+
+ such as the United States, this reflects that central clearing is already mandatory.
+
+ In others, market participants have transitioned to central clearing either
+
+ in anticipation of a mandate, or simply due to a commercial incentive as liquidity
+
+ has shifted to the cleared market.
+The most widely used CCP in the global OTC interest rate derivative market is the
+
+ SwapClear service operated by LCH.Clearnet Limited (LCH.C Ltd). Since the global
+
+ financial crisis, the outstanding notional value of OTC interest rate derivatives
+
+ cleared through SwapClear has increased to more than US$200 trillion. At the
+
+ same time, the initial margin posted by participants to support this activity
+
+ has also risen significantly.
+The transition to central clearing is less advanced in other OTC derivative product
+
+ classes and with initial margining of non-centrally cleared derivatives not
+
+ yet widespread the implications for collateral demand have yet to be fully
+
+ felt on collateral demand. A number of studies have attempted to quantify the
+
+ likely ultimate effect of both central clearing and initial margining of non-centrally
+
+ cleared trades. These have reached a variety of conclusions, depending on assumptions
+
+ around matters such as the volatility of the underlying products and the degree
+
+ of netting efficiency. Several studies – including Duffie and Zhu (2011)
+
+ and Heath, Kelly and Manning (2013) – observe that central clearing of
+
+ multiple products through a single CCP is likely to deliver the greatest netting
+
+ efficiency and as a result could temper the demand for collateral-eligible
+
+ assets. Indeed, Duffie, Scheicher and Vuillemey (2014) estimate that central
+
+ clearing of credit derivatives could reduce collateral demand by almost a third
+
+ relative to a scenario in which these products remained non-centrally cleared
+
+ but were subject to initial margin. Anderson and Jõeveer (2014), on
+
+ the other hand, model conditions under which non-centrally cleared arrangements
+
+ in regional markets could, by accommodating a wider range of local collateral
+
+ assets, be less costly than clearing through CCPs.
+The Australian authorities have closely monitored these developments, paying particular
+
+ attention to the way regulatory changes are implemented. A case in point is
+
+ mandatory clearing requirements for OTC derivatives. The regulators recognise
+
+ the trade-off between the benefits of collateralisation in managing counterparty
+
+ credit risk and the costs in terms of increased liquidity risk. Acknowledging
+
+ that some market participants may face liquidity constraints, the regulators
+
+ favour careful implementation of central clearing requirements. In their latest
+
+ recommendations to government, the regulators observed that where small financial
+
+ institutions and especially non-financial entities had restricted access to
+
+ liquid assets to meet CCPs' initial and variation margin requirements,
+
+ new sources of risk could emerge (ASIC, APRA and RBA 2014). Accordingly, the
+
+ regulators concluded that mandatory clearing requirements should be imposed
+
+ only on internationally active dealers. In particular, they noted that:
+… for some non-dealers it is unclear whether either the private or
+
+ public policy benefits will ever be sufficient to offset the costs. Given this,
+
+ on the basis of currently available information, the Regulators would expect
+
+ to give close consideration to a specific exclusion from any mandatory clearing
+
+ obligation for certain non-dealers.
+ASIC, APRA and RBA 2014, p 4
+Similarly, Australian regulators argued internationally for a narrower product scope
+
+ for mandatory initial margining of non-centrally cleared derivatives that excluded
+
+ foreign exchange derivatives and the currency component of cross-currency swaps.
+
+ And, also recognising the limited supply of high-quality Australian dollar-denominated
+
+ assets eligible to meet the Basel liquidity standards, APRA has permitted authorised
+
+ deposit-taking institutions (ADIs) to access a committed liquidity facility
+
+ made available by the Reserve Bank. I will return to this shortly.
+Collateral Assets
+The fundamental role of collateral is to manage counterparty credit risks in wholesale
+
+ markets. There are a number of reasons why collateral is an effective tool
+
+ for this:
+Collateral overcomes problems of informational asymmetry; a collateral receiver need
+
+ only monitor the quality of the collateral, not its counterparty.
+Collateral offers pre-funded credit protection, since the collateral receiver has
+
+ the assets in hand at the time of default.
+Secured lending and other forms of collateralisation of exposure overcome difficulties
+
+ in writing complex contracts that can anticipate all possible market and economic
+
+ circumstances; legal agreements that underpin collateral arrangements by contrast
+
+ are relatively simple and can rely on standardised documentation.
+Given its role and purpose, collateral typically takes the form of high-quality assets
+
+ that are subject to limited credit and market risk and easy to monitor. Collateral-eligible
+
+ assets typically must also be liquid, since in the event of a counterparty
+
+ default, the holder of collateral will aim to liquidate the assets on a timely
+
+ basis.
+For instance, repurchase agreements – or repos – are typically written
+
+ on a defined set of high-quality assets. In Australia, most repos are contracted
+
+ against Commonwealth Government Securities or securities issued by the states
+
+ and territories. As collateral becomes more scarce, however, market participants
+
+ may begin to accept a broader set of collateral assets than solely high-quality
+
+ liquid assets.
+The CPSS-IOSCO
+Principles for Financial Market Infrastructures
+(the Principles) set international standards for CCPs and other financial market
+
+ infrastructures (CPSS-IOSCO 2012). The Principles state a clear preference
+
+ for collateral assets ‘with low credit, liquidity and market risks’,
+
+ and set similar expectations around the assets in which a CCP reinvests any
+
+ cash collateral received. Other assets may be eligible ‘if an appropriate
+
+ haircut is applied’. In the centrally cleared space, some CCPs already
+
+ accept a relatively wide range of collateral assets to meet margin obligations
+
+ (Table 2). For instance, in addition to cash and government bonds, CME
+
+ and Eurex accept various private debt securities. While in most cases, cash
+
+ and government bonds still predominate, this flexibility is valuable to some
+
+ participants.
+Table 2: Eligible Collateral at a Range of OTC Derivatives CCPs
+ASX Clear
+(Futures)
+CME
+Eurex
+ICE Clear
+(Credit)
+LCH.C Ltd
+(SwapClear)
+Cash
+(a)
+✔
+✔
+✔
+✔
+✔
+Government bonds
+(a)
+✔
+✔
+✔
+✔
+✔
+Corporate bonds
+✔
+✔
+Bank bills
+✔
+Mortgage-backed securities
+✔
+✔
+Money-market fund shares
+✔
+Equities
+✔
+Gold
+✔
+(a) Various currencies/governments
+Sources: CCP websites
+For non-centrally cleared transactions, cash remains the most common form of collateral.
+
+ ISDA reports that around 75 per cent of collateral is currently in cash form,
+
+ with around 15 per cent in government securities and 10 per cent in other fixed-income
+
+ securities, including corporate bonds (ISDA 2014). As initial margin is more
+
+ frequently exchanged in these markets, non-cash collateral is likely to become
+
+ more important. Similar to the Principles, new standards established by the
+
+ Basel Committee on Banking Supervision (BCBS) and International Organization
+
+ of Securities Commissions (IOSCO) require that collateral assets ‘be
+
+ highly liquid and should, after accounting for an appropriate haircut, be able
+
+ to hold their value in a time of financial stress’ (BCBS-IOSCO 2013,
+
+ p4). BCBS-IOSCO (2013) provides an illustrative list of eligible collateral,
+
+ which extends well beyond traditional high-quality liquid assets.
+Clearly, there's a balance to be struck. And that's where the central bank
+
+ comes in. A central bank, uniquely, can use its balance sheet to transform
+
+ financial assets of differing characteristics into cash balances. One way to
+
+ increase the potential size of liquidity operations is to expand the set of
+
+ securities that are eligible for repo to the central bank. Not only does this
+
+ directly contribute to liquidity, but it also does so indirectly since collateral
+
+ eligibility criteria in the private sector typically consider the assets that
+
+ the central bank is willing to accept in its operations. For example, since
+
+ access to liquidity from the Reserve Bank is an important consideration in
+
+ the liquidity frameworks of Australian CCPs, the range of collateral accepted
+
+ by the Bank is a determinant of both their collateral eligibility criteria
+
+ and their decisions around reinvestment of cash collateral. In addition to
+
+ government securities, the Reserve Bank will accept private securities issued
+
+ by ADIs, as well as a range of asset-backed and corporate securities that meet
+
+ minimum criteria for credit quality.
+As previously noted, the Reserve Bank has taken a similar stance in responding to
+
+ the structural shortage of high-quality liquid assets to meet ADIs' requirements
+
+ under the Basel liquidity standard. In particular, ADIs may establish a committed
+
+ liquidity facility with the Reserve Bank to help meet these requirements (APRA
+
+ 2011). Under such a facility, the Reserve Bank would commit, in exchange for
+
+ a fee, to making available a pre-agreed amount of liquidity under repo. All
+
+ securities eligible in the Reserve Bank's normal operations will be eligible
+
+ for the committed facility. It should be noted that, in the case of CCPs, access
+
+ to liquidity from the Reserve Bank has not been formalised in the same way
+
+ as for ADIs.
+Effective Supply
+The basic conclusion of a number of recent studies is that there is no globalised
+
+ shortage of high-quality liquid assets (CGFS 2013). That may well be true today,
+
+ particularly given the rapid expansion of government debt in most jurisdictions
+
+ in recent years (Graph 2). However, the focus of most analyses to date
+
+ has been on outstanding securities issued, rather than the ‘effective’
+
+ supply: that is, the outstanding supply of securities on issue, adjusted to
+
+ reflect how much is actually available to meet collateral needs. This requires
+
+ an adjustment for how much is locked away in long-term portfolios and not made
+
+ available for loan, and a further adjustment for the ‘velocity’
+
+ of collateral. Collateral velocity refers to how many different purposes are
+
+ satisfied, on average, by re-using a single line of collateral. Most re-use
+
+ activity is concentrated in securities lending and repo markets. Standard collateral
+
+ agreements, such as the Credit Support Annexes that support ISDA documentation,
+
+ generally include a right of re-use unless this is expressly removed.
+Graph 2
+Kirk
+et al
+, researchers from the Federal Reserve Bank of New
+
+ York, describe a number of dealer activities that rely on efficient rehypothecation
+
+ and re-use of collateral (Kirk
+et al
+2014). These include,
+
+ for instance, intermediation of offsetting repo or derivative transactions
+
+ between clients. In both cases, considerable efficiencies – and hence
+
+ cost advantages to the clients – can be gained by passing through the
+
+ collateral received from one client to the other, rather than relying on own-sourced
+
+ collateral. In the absence of efficient rehypothecation and re-use, it is likely
+
+ that the costs of such intermediation – which is integral to market funding
+
+ and risk management – could rise materially.
+There are of course important risk considerations associated with rehypothecation
+
+ and re-use. These were revealed by the severe deleveraging that occurred following
+
+ the failure of Lehman Brothers in 2008, and the difficulties experienced by
+
+ many institutions in recalling securities that had passed through long re-use
+
+ chains. Accordingly, some investors in high-quality liquid assets have become
+
+ less inclined to make these assets available in lending programs, and there
+
+ is increasing caution among collateral providers around rehypothecation and
+
+ re-use. Central clearing also naturally curtails this activity, since CCPs
+
+ are not permitted to re-use posted collateral. As a result of such factors,
+
+ Singh (2013) estimates that collateral velocity in the major financial centres
+
+ declined by around a third between 2007 and 2012. Kirk
+et al
+(2014) present similar evidence.
+Looking ahead, some regulatory restrictions on this activity will be introduced,
+
+ including in the derivative margining regime established by BCBS and IOSCO.
+
+ And some policymakers favour more wideranging restrictions. While acknowledging
+
+ the risk considerations, the Reserve Bank has argued strongly in international
+
+ forums that imposing tighter restrictions on collateral rehypothecation and
+
+ re-use would be counterproductive. Such restrictions could materially raise
+
+ the cost of intermediation and increase the risk that the demand for high-quality
+
+ collateral exceeded supply. After extensive consideration of these issues,
+
+ the Financial Stability Board (FSB) concluded last year that the focus should
+
+ instead be on greater transparency of securities lending and repo activity
+
+ and better disclosure to clients around the extent to which their collateral
+
+ would be rehypothecated (FSB 2013). The Bank supports the FSB's conclusions.
+Collateral Efficiency
+Recognising emerging constraints on their collateral, financial institutions are
+
+ increasingly focusing on how to ensure efficient use of collateral. Many institutions
+
+ are taking steps to improve the flow of information on collateral holdings
+
+ across business units and geographical locations, in some cases assisted by
+
+ third-party collateral management services. We will no doubt hear about some
+
+ of these in the next session. Many such services also provide tools that assist
+
+ in optimising collateral use, including by facilitating re-use. These typically
+
+ apply algorithms that identify the collateral that is cheapest to deliver to
+
+ meet a particular collateral need, given the collateral receiver's eligibility
+
+ criteria.
+We have also heard a lot about collateral transformation, whereby one party exchanges
+
+ low-quality or illiquid assets with another for high-quality assets that meet
+
+ some collateral eligibility criteria. There does not yet appear to be very
+
+ active use of these services, neither domestically nor internationally, but
+
+ there remains some prospect that these arrangements will become more important
+
+ and more widely used over time.
+The central bank again has a role to play in improving collateral efficiency. At
+
+ the time ASX was developing its collateral management service, for example,
+
+ market participants made it clear that, as a major counterparty in the Australian
+
+ repo market, the Reserve Bank's participation was important. The Reserve
+
+ Bank has, accordingly, joined the service as a collateral receiver.
+In its financial stability role and as overseer of key financial market infrastructure,
+
+ the Reserve Bank will keep a close eye on the evolution of collateral management
+
+ services. The Bank will also monitor whether, over time, collateral transformation
+
+ evolves as a core financial market activity. As these arrangements become more
+
+ widespread, the Bank will want to be aware of any new interlinkages and dependencies
+
+ and will want to understand how they may be altering market participants'
+
+ behaviour.
+Conclusions
+In conclusion, the way that collateral is used is changing rapidly. Any interruption
+
+ to collateral markets, or material decline in their efficiency, could have
+
+ important implications for the cost of a range of intermediary activities and,
+
+ more broadly, capital allocation and risk transfer in the financial markets.
+Central banks and other financial regulators need to ensure that the implementation
+
+ of regulation in this space strikes the right balance. In this talk, I have
+
+ cited the importance of the appropriate exercise of regulatory discretion and
+
+ a considered approach to implementing regulatory reforms – such as OTC
+
+ derivative reform and Basel liquidity standards. Greater transparency around
+
+ how collateral markets function is also important. For instance, good data
+
+ on collateral rehypothecation and re-use could help central banks and other
+
+ financial regulators to respond effectively if there was some disruption to
+
+ these markets, or if in adjusting to the new steady state new risks emerged.
+Thank you for your attention.
+Endnote
+I would like to acknowledge the assistance of Angus Moore and Belinda Cheung in the
+
+ preparation of this speech, as well as helpful comments and contributions
+
+ from a number of colleagues. Any remaining errors are my own.
+[*]
+References
+Anderson R and K Jõeveer (2014), ‘The Economics of Collateral’,
+
+ Financial Markets Group Discussion Paper No 732.
+APRA (Australian Prudential Regulation Authority) (2011), ‘Implementing Basel
+
+ III Liquidity Reforms in Australia’, APRA Discussion Paper, 16 November.
+ASIC (Australian Securities and Investments Commission), APRA and RBA (Reserve Bank
+
+ of Australia) (2014), ‘
+Report 
+
+ on the Australian OTC Derivatives Market
+’, April.
+BCBS-IOSCO (Basel Committee on Banking Supervision and Board of the International
+
+ Organization of Securities Commissions) (2013),
+Margin Requirements for Non-centrally Cleared Derivatives
+, Bank
+
+ for International Settlements, Basel.
+CGFS (Committee on the Global Financial System) (2013),
+Asset Encumbrance, Financial Reform and the Demand for 
+
+ Collateral Assets
+, CGFS Papers No 49, Bank for International Settlements,
+
+ Basel.
+CPSS-IOSCO (Committee on Payment and Settlement Systems and Technical Committee of
+
+ IOSCO) (2012),
+Principles for Financial Market Infrastructures
+, Bank for International
+
+ Settlements, Basel.
+Duffie D, Scheicher M and G Vuillemey (2014), ‘Central Clearing and Collateral
+
+ Demand’, NBER Working Paper No 19890.
+Duffie D and H Zhu (2011), ‘Does a Central Clearing Counterparty Reduce Counterparty
+
+ Risk?’,
+The Review of Asset Pricing Studies
+, 1(1), pp 74–95.
+FSB (Financial Stability Board) (2013), ‘Strengthening Oversight and Regulation
+
+ of Shadow Banking’, August.
+Heath A, G Kelly and M Manning (2013), ‘
+OTC 
+
+ Derivatives Reform: Netting and Networks
+’, in A Heath, M Lilley
+
+ and M Manning (eds),
+Liquidity 
+
+ and Funding Markets
+, Proceedings of a Conference, Reserve Bank of Australia,
+
+ Sydney, pp 33–73.
+Heath A and MJ Manning (2012), ‘
+Financial 
+
+ Regulation and Australian Dollar Liquid Assets
+’, RBA
+Bulletin
+,
+
+ September, pp 43–52.
+ISDA (International Swap Dealers Association) (2014), ‘ISDA Margin Survey 2014’,
+
+ April. Available at <http://www2.isda.org/functional-areas/research/surveys/margin-surveys/>.
+Kirk A, J McAndrews, P Sastry and P Weed (2014), ‘Matching Collateral Supply
+
+ and Financing Demands in Dealer Banks’, Federal Reserve Bank of New
+
+ York
+Economic Policy Review
+, 20(2), pp 1–25.
+Singh M (2013), ‘
+The Economics of Shadow Banking
+’,
+
+ in A Heath, M Lilley and M Manning (eds),
+Liquidity and Funding Markets
+, Proceedings
+
+ of a Conference, Reserve Bank of Australia, Sydney, pp 5–28.

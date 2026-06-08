@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Economy in Late 2008: Conditions and Prospects – Sydney",
+  "date_original": "19 November 2008",
+  "date_au": "19/11/2008",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-ag-191108.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-11-19 - Sydney - The Economy in Late 2008_ Conditions and Prospects – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-11-19 - Sydney - The Economy in Late 2008_ Conditions and Prospects – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b5c2948fb57f54d0cdb305cbcee107d771b9ba744121e31e5117a84f1cabe1c9"
+}

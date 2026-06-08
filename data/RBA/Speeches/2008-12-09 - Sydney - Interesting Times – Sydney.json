@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interesting Times – Sydney",
+  "date_original": "9 December 2008",
+  "date_au": "09/12/2008",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-091208.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-12-09 - Sydney - Interesting Times – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-12-09 - Sydney - Interesting Times – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "014e4c07842d8bb99fbba4210fe9ce3d6ca27119934746bfdd322135a5f0c799"
+}

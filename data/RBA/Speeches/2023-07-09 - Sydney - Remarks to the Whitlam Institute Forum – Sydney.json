@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks to the Whitlam Institute Forum – Sydney",
+  "date_original": "2023-07-09",
+  "date_au": "09/07/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-230709.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-07-09 - Sydney - Remarks to the Whitlam Institute Forum – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-07-09 - Sydney - Remarks to the Whitlam Institute Forum – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:39:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "286321b582531290ee78022ea43af8254c9b02b70db30d0373aa5de3f6bd0430"
+}

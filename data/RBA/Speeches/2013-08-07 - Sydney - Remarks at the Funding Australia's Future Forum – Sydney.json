@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks at the Funding Australia's Future Forum – Sydney",
+  "date_original": "7 August 2013",
+  "date_au": "07/08/2013",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2013/sp-ag-070813.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2013-08-07 - Sydney - Remarks at the Funding Australia's Future Forum – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2013-08-07 - Sydney - Remarks at the Funding Australia's Future Forum – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:35:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b8acd55d0650ed3d2f54a4c8ea19bce8b5c8d5bc33c8710b4d5e1c7002b30d6d"
+}

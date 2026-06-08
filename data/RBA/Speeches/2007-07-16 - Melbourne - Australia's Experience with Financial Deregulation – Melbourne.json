@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Australia's Experience with Financial Deregulation – Melbourne",
+  "date_original": "16 July 2007",
+  "date_au": "16/07/2007",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2007/sp-dg-160707.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2007-07-16 - Melbourne - Australia's Experience with Financial Deregulation – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2007-07-16 - Melbourne - Australia's Experience with Financial Deregulation – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "52893804d748ffa722f5834b34a617f40fa29dcfc29b7dbb752be6a3410da9dd"
+}

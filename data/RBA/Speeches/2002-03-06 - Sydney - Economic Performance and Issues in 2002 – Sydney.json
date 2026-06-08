@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Performance and Issues in 2002 – Sydney",
+  "date_original": "6 March 2002",
+  "date_au": "06/03/2002",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-dg-060302.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2002-03-06 - Sydney - Economic Performance and Issues in 2002 – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2002-03-06 - Sydney - Economic Performance and Issues in 2002 – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:33",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7e2537e33e068b97f8a32e741fe09665efb3c592dea21930e108eec55d043f96"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the AFR Business Summit",
+  "date_original": "2024-03-12",
+  "date_au": "12/03/2024",
+  "datetime_original": "",
+  "speaker": "Sarah Hunter",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-03-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-03-12 - Sarah Hunter - Panel Participation at the AFR Business Summit.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-03-12 - Sarah Hunter - Panel Participation at the AFR Business Summit.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "49c03e3c36b92f05588bb4fb9f19fdccdeba81f0b345fc076386a7834fab5a8c"
+}

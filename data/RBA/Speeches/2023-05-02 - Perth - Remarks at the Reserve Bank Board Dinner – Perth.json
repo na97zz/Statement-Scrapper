@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Remarks at the Reserve Bank Board Dinner – Perth",
+  "date_original": "2023-05-02",
+  "date_au": "02/05/2023",
+  "datetime_original": "",
+  "speaker": "Perth",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-05-02.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-05-02 - Perth - Remarks at the Reserve Bank Board Dinner – Perth.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-05-02 - Perth - Remarks at the Reserve Bank Board Dinner – Perth.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1cb51aa4d10a832769f29eb1e89206b8391607eec5a84c37ceda8809a4808c51"
+}

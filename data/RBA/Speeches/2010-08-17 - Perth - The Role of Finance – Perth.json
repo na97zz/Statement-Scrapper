@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Role of Finance – Perth",
+  "date_original": "17 August 2010",
+  "date_au": "17/08/2010",
+  "datetime_original": "",
+  "speaker": "Perth",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-gov-170810.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-08-17 - Perth - The Role of Finance – Perth.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-08-17 - Perth - The Role of Finance – Perth.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f14ef3f6c7cfab60c867b7d9ecb8276c34e0fb89850bc2c6c56898b1eb48b294"
+}

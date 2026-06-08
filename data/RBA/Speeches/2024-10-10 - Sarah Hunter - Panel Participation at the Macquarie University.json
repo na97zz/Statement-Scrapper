@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the Macquarie University",
+  "date_original": "2024-10-10",
+  "date_au": "10/10/2024",
+  "datetime_original": "",
+  "speaker": "Sarah Hunter",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-10-10.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-10-10 - Sarah Hunter - Panel Participation at the Macquarie University.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-10-10 - Sarah Hunter - Panel Participation at the Macquarie University.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "889000d01ffb511a347e68ed7eccb66cdce29563152bb4dbe2e17eaead4473ed"
+}

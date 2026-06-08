@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interview with Reuters",
+  "date_original": "2025-11-12",
+  "date_au": "12/11/2025",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-dg-2025-11-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-11-12 - Andrew Hauser - Interview with Reuters.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-11-12 - Andrew Hauser - Interview with Reuters.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6e6c60b554362dacf871ff29a379f11010c6a85c71333b4ca041088bee2460bf"
+}

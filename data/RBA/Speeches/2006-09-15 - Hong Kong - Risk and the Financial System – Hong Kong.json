@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Risk and the Financial System – Hong Kong",
+  "date_original": "15 September 2006",
+  "date_au": "15/09/2006",
+  "datetime_original": "",
+  "speaker": "Hong Kong",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-dg-150906.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-09-15 - Hong Kong - Risk and the Financial System – Hong Kong.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-09-15 - Hong Kong - Risk and the Financial System – Hong Kong.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b4339b1cc623ce1c01f484435ed3e2b013c7d806935a833e3cc69592f2c45b64"
+}

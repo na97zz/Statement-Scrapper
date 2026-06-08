@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Economic Outlook and Energy Effects",
+  "date_original": "2026-03-26",
+  "date_au": "26/03/2026",
+  "datetime_original": "",
+  "speaker": "Philip N. Jefferson",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260326a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-03-26 - Philip N. Jefferson - Economic Outlook and Energy Effects.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-03-26 - Philip N. Jefferson - Economic Outlook and Energy Effects.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:52:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1aa2997b409a082fa2a39233b2da9f32a88fe1e61ef056642b46802bcc185a3c"
+}

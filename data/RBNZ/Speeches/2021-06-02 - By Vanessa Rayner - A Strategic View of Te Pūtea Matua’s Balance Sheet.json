@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "A Strategic View of Te Pūtea Matua’s Balance Sheet",
+  "date_original": "2021-06-02",
+  "date_au": "02/06/2021",
+  "datetime_original": "",
+  "speaker": "By Vanessa Rayner",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2021/speech2021-06-02-a-strategic-view-of-te-putea-matuas-balance-sheet.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2021-06-02 - By Vanessa Rayner - A Strategic View of Te Pūtea Matua’s Balance Sheet.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2021-06-02 - By Vanessa Rayner - A Strategic View of Te Pūtea Matua’s Balance Sheet.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:57",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2021/speech2021-06-02",
+  "content_sha256": "0602a8bfadc748b971018074e23b100da1c330bbb45c0e8bc7f4db2abfb761df"
+}

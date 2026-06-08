@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "OTC Derivatives Regulation – Sydney",
+  "date_original": "18 October 2012",
+  "date_au": "18/10/2012",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-ag-181012.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-10-18 - Sydney - OTC Derivatives Regulation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-10-18 - Sydney - OTC Derivatives Regulation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "13246ba19713b697f0843ad65bf02763a669e91981cb601bacaab05cf7a10284"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Monetary Policy Decision",
+  "date_original": "2025-08-12",
+  "date_au": "12/08/2025",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/mc-gov-2025-08-12.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-08-12 - Michele Bullock - Monetary Policy Decision.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-08-12 - Michele Bullock - Monetary Policy Decision.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "af7e37dc334defcf65182862efd4027f35118c6ea1bfaa474b075eb637b76ba4"
+}

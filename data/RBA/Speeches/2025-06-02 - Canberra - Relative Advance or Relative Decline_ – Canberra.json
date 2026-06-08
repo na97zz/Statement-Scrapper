@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Relative Advance or Relative Decline? – Canberra",
+  "date_original": "2025-06-02",
+  "date_au": "02/06/2025",
+  "datetime_original": "",
+  "speaker": "Canberra",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-gov-250602.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-06-02 - Canberra - Relative Advance or Relative Decline_ – Canberra.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-06-02 - Canberra - Relative Advance or Relative Decline_ – Canberra.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ea14508c96fe4e5dc1a41d8c154546a718b83093f49f52aa448a9eac2bee03b1"
+}

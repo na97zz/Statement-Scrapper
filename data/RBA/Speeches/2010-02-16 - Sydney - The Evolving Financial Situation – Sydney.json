@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Evolving Financial Situation – Sydney",
+  "date_original": "16 February 2010",
+  "date_au": "16/02/2010",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2010/sp-ag-160210.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2010-02-16 - Sydney - The Evolving Financial Situation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2010-02-16 - Sydney - The Evolving Financial Situation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:47",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "80997f9ac0a60508630de1fcb07a4666843f08eb3307c0ff3a46c291a0d415ea"
+}

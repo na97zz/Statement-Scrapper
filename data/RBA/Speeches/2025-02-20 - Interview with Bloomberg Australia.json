@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interview with Bloomberg Australia",
+  "date_original": "2025-02-20",
+  "date_au": "20/02/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-dg-2025-02-20.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-02-20 - Interview with Bloomberg Australia.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-02-20 - Interview with Bloomberg Australia.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:35",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0e63d43591a3fa18bb80a2c6b93f053e3bdb64ecbb67c80581de453be4f9a4a0"
+}

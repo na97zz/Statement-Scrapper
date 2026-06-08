@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Developments in Australian Retail Finance – Sydney",
+  "date_original": "2022-08-06",
+  "date_au": "06/08/2022",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-ag-220806.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-08-06 - Sydney - Developments in Australian Retail Finance – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-08-06 - Sydney - Developments in Australian Retail Finance – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ab5ba8c71a616df0b817b9702973495434ec74d90fbd09140506ebbe30e71496"
+}

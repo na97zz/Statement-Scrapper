@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Prospects in 2008: An Antipodean View – London",
+  "date_original": "18 January 2008",
+  "date_au": "18/01/2008",
+  "datetime_original": "",
+  "speaker": "London",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2008/sp-gov-190108.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2008-01-18 - London - Economic Prospects in 2008_ An Antipodean View – London.html",
+  "text_file_path": "data\\RBA\\Speeches\\2008-01-18 - London - Economic Prospects in 2008_ An Antipodean View – London.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d862f1d8f04517d8e6a518cba397e19462b3f242458fe9543dd8d68532473cab"
+}

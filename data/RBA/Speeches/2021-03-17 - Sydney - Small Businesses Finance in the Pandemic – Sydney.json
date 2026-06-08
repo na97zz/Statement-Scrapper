@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Small Businesses Finance in the Pandemic – Sydney",
+  "date_original": "2021-03-17",
+  "date_au": "17/03/2021",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-ag-2021-03-17.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-03-17 - Sydney - Small Businesses Finance in the Pandemic – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-03-17 - Sydney - Small Businesses Finance in the Pandemic – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:34:01",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9f616d7ef10e667dbe2e90b4bb73f4fed9f1477b047d0d2603c7c0913826404d"
+}

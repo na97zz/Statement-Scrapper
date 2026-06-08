@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Outlook for Dwelling Investment – Sydney",
+  "date_original": "13 November 2012",
+  "date_au": "13/11/2012",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-so-131112.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-11-13 - Sydney - The Outlook for Dwelling Investment – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-11-13 - Sydney - The Outlook for Dwelling Investment – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "04b0ecc27aac5f38e262e6deecca7af70f553bf2c35b7ac1c11679a1439f28fc"
+}

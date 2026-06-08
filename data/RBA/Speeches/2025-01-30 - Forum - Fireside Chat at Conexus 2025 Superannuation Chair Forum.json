@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at Conexus 2025 Superannuation Chair Forum",
+  "date_original": "2025-01-30",
+  "date_au": "30/01/2025",
+  "datetime_original": "",
+  "speaker": "Forum",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-01-30.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-01-30 - Forum - Fireside Chat at Conexus 2025 Superannuation Chair Forum.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-01-30 - Forum - Fireside Chat at Conexus 2025 Superannuation Chair Forum.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "00218fe7639db838b990bdf6887e16c4771ac7b6b79eef5dab05b1df4005f054"
+}

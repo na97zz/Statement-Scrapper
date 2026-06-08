@@ -1,0 +1,124 @@
+BANK: NORGES_BANK
+CATEGORY: Speeches
+TITLE: Digital currencies and real-time payments – the road ahead
+DATE: 04/11/2021
+SPEAKER: the road ahead
+SPEAKER ROLE: 
+SOURCE URL: https://www.norges-bank.no/en/news-events/news/Speeches/2021/2021-11-04-payments-conference/
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+!
+Javascript is disabled
+Due to this, parts of the content on this site will not be displayed.
+Speech
+Digital currencies and real-time payments – the road ahead
+Speech by Deputy Governor Ida Wolden Bache at Finance Norway's Payments Conference, 4 November 2021
+Please note that the text below may differ from the actual address.
+Introduction
+Good afternoon, and thank you for inviting me here today.
+Norway has an effective payment system, which is of benefit to us all. But we cannot sit back and relax. The payments landscape is evolving and did not stop evolving during the pandemic. Quite on the contrary.
+New technology is changing how we make payments. The number of mobile app payments and contactless card payments has soared. New technology is also opening up opportunities for new types of payment systems and new types of money. New cryptocurrencies and stablecoins are being launched every day. Many central banks are considering introducing central bank digital currencies, and some have recently done so.
+At the same time, scale and network advantages are clearly driving mergers and acquisitions and globalisation among market participants. Norway’s payments market appears to be attractive to global tech and payment companies.
+And partly in response to these trends, a number of international regulatory initiatives have been proposed. The regulations play a dual role of fostering innovation and competition while addressing risk.
+Norges Bank’s goal is to have a secure, effective and attractive NOK payment system – today and in the future. This is a goal that I think many of you here today share. For the work to achieve this goal is mainly undertaken by payments market participants and financial sector organisations. This is still the way it has to be. Norges Bank will contribute through the roles we play: as operator, as oversight and supervisory authority and as a driving force for change.
+My remarks today will address three topics of particular concern to Norges Bank. The first is the emergence of crypto-assets. The second is Norges Bank’s role in the infrastructure for real-time payments. The third is central bank digital currency.
+Another key concern is cybersecurity, which my colleague, Anna Grinaker, spoke about earlier today.
+Crypto-assets
+Bitcoin was launched just over ten years ago. When I first heard about Bitcoin, it was a slightly mysterious underground phenomenon, whose characteristics had little in common with the money I was used to. Ownership is verified by cryptographic codes that give access to units in a ledger. Users access these units by signing a transaction with their cryptographic code, then sending the transaction to a peer-to-peer network. Competition to add transactions to the ledger is open to anyone, without the need for a central third party to maintain the ledger. The value of a unit is solely based on whether someone is willing to ascribe any value to it.
+Thousands of new cryptocurrencies have emerged in recent years. Most are unknown and worthless, while others have grown rapidly in value and use. There has been particularly strong growth in cryptocurrencies that can be used as infrastructures for issuing and trading in digital representations of assets, referred to as tokens. Cryptocurrencies and tokens are often referred to collectively as crypto-assets. This area has generated a large number of terms and these terms are not always used uniformly.
+One type of crypto-asset is so-called stablecoins, which aim to preserve a stable value against a benchmark, normally a national currency. Stablecoins can be collateralised in different ways. Some are collateralised by more or less liquid traditional assets, while others are backed by other crypto-assets. A few – so-called algorithm-based stablecoins – are merely backed by confidence that a stabilisation algorithm works. Many stablecoins in the latter category have ended up in a “death spiral”, where confidence has been eroded and the stablecoin has plunged in value.
+The use of cryptocurrencies as financial service infrastructures for other crypto-assets is often referred to as decentralised finance. Decentralised finance includes a range of products and services that are familiar from the world of traditional finance, such as trading platforms, lending activities, financial derivatives and insurance. But it also includes some new services.
+The market capitalisation of crypto-assets has fluctuated considerably, in periods reaching more than USD two trillion, with Bitcoin accounting for over 40 percent. Ethereum, which has played a particular role as a decentralised financial infrastructure, accounts for approximately 20 percent and stablecoins for about 5 percent.
+Speculation has been, and likely still is, an important driver of value volatility in crypto-assets. Social media and technological platforms have increased public awareness about crypto-assets and simplified trading.
+Investment in crypto-assets can entail considerable risk. The assets can rapidly lose value, markets can be manipulated, technology can fail and crypto-assets have created a number of arenas for fraud and other criminal activities. Regulation to protect consumers and prevent the use of crypto-assets for criminal purposes is therefore important. It is also important to question the premises and underlying assumptions that are often taken for granted when crypto-assets are discussed. As pointed out by for example Angela Walch, Professor of Law at St. Mary’s University School of Law in the US, cryptocurrencies are not necessarily as decentralised as they are made out to be. There is a risk that new, but more concealed, power structures may emerge that are difficult to hold accountable.
+[1]
+As central bank, our mission is to promote financial stability, and we are therefore particularly concerned with the potential systemic effects of the increasing use of crypto-assets. In its latest global financial stability report
+[2]
+, the International Monetary Fund (IMF) discusses the consequences of crypto-assets for financial stability. The IMF does not regard crypto-assets as a risk to global financial stability now, but recommends careful monitoring.
+Institutional investors have shown growing interest in crypto-assets, both globally and in Norway. Internationally, banks and other financial institutions are also assessing the potential for adding crypto-asset exposures to their balance sheets and offering related services to their customers.
+[3]
+Norges Bank is not aware of Norwegian financial institutions with substantial crypto-asset exposures.
+Crypto-asset values can fall abruptly, for example if the underlying technology fails. A substantial fall in crypto-asset values could have spillover effects in the financial system, particularly if banks and other systemically important institutions are exposed. The Basel Committee has drawn up proposed capital requirements for banks with crypto-asset exposures.
+[4]
+This proposal primarily entails that any uncollateralised crypto-assets on banks’ balance sheets must be fully financed by equity capital.
+A stablecoin that is widely adopted – a so-called global stablecoin – could become systemically important. Stablecoins that are collateralised by securities share similarities with banks and money market funds and can be exposed to “run risk”, where investors seek to move their stablecoins out and exchange them for, for example, bank deposits. Loss of confidence in the value of a stablecoin can lead to a run on the stablecoin, requiring securities to be liquidated quickly in order to pay those investors. Such fire sales can have systemic effects. Internationally, work is currently in progress on a range of regulatory initiatives to address potential systemic risks related to stablecoins.
+[5]
+Crypto-assets have so far played a modest role in payment systems other than in crypto-asset services. They may play a larger role ahead. Stablecoins could for example provide new opportunities for remittances, ie the transfer of funds to friends and family members in countries without a well-functioning monetary and banking system. As we have seen, El Salvador, which does not have its own official currency, has decided to introduce Bitcoin as legal tender in addition to USD.
+Crypto-assets that are given a more important role as means of payment could impact the security and efficiency of the payment system and thereby also have implications for financial stability. Specific regulations may therefore be needed to address the risk related to the use of crypto-assets in payments, just as traditional payment systems are regulated. Our starting point is that the same activity and the same risk should be subject to the same regulation – and regulation should preferably be technology-neutral. Nonetheless, the regulations must reflect the technology and the new operating environment that has developed around it.
+[6]
+The international cooperating bodies for payment and securities market authorities, CPMI and IOSCO, are working on principles for systemically important stablecoin arrangements.
+[7]
+Using cryptocurrencies as a means of payment allows currency substitution, dispensing with the domestic currency. This is primarily a challenge for countries with ineffective payment systems, where confidence in the monetary system is low and currencies are unstable.
+Cryptocurrencies are not common as a means of payment in Norway, reflecting a secure and effective payment system and confidence that money will retain its value over time. Public payments are required to be made in NOK. In our opinion, any substantial substitution of the Norwegian krone with cryptocurrencies is highly unlikely in the foreseeable future – for much the same reason foreign currencies have a modest role in Norway’s payment system. But we must ensure that the Norwegian krone and the payment system in which it operates continue to have the functions and characteristics users need.
+Real-time payments
+An important part of an effective payment system is a well-functioning solution for real-time payments. Payments are increasingly made in real time, where the funds are available in the recipient’s account a few seconds after the payment was initiated.
+Norwegian banks began to use a new shared infrastructure for real-time payments, called Straks 2.0, in 2020. Although this is undoubtedly a step forward, there is still a need for improvements. The infrastructure must facilitate the development of efficient and robust services for real-time retail payments, including corporate and government payment services.
+Like a number of other central banks, Norges Bank is considering expanding its role in real-time payment settlement. We have considered two alternatives to further developing today’s solution. The first is to establish a system in which Norges Bank is itself responsible for management, development and operation. Because of high costs and a limited provider market, this alternative is considered the least likely choice.
+The second alternative is to join the Eurosystem’s TIPS solution. Payments would then be settled in TIPS in NOK on behalf of Norges Bank. The central banks of Sweden and Denmark, Sveriges Riksbank and Danmarks Nationalbank, have decided to use TIPS for the settlement of real-time payments in SEK and DKK respectively.
+These two central banks are also planning to use the Eurosystem’s TARGET2 as the payment settlement system for their currencies. Norges Bank has no such plans. Our research focuses only on real-time payments. Let me also underline that irrespective of the alternative that is chosen, retail services will still be provided by banks and other market participants. Norges Bank’s role will be limited to settlement.
+We recently launched a consultation to elicit the views of the banking industry and other stakeholders on the real-time payment infrastructure. All the banks and banking groups that have responded regard it as a positive step that Norges Bank is starting negotiations with the European Central Bank (ECB) on participation in TIPS. Many banks expect real-time payments to become more common ahead and regard the use of international standards as important. Some point out that although collaboration within the banking industry and between banks and Norges Bank has resulted in positive developments up to now, the issue of whether future needs would be better met by Norwegian participation in TIPS should be addressed. The ECB and Riksbanken are currently conducting research into whether TIPS could facilitate cross-border multicurrency real-time payments. A number of the responding banks highlight the benefit of introducing such a service.
+Norges Bank’s preliminary assessment is that participation in TIPS would contribute to ensuring the best development of Norwegian real-time payments in the years ahead. Participation in TIPS can ensure that the infrastructure for settlement of Norwegian real-time payments is developed in alignment with developments in the rest of Europe. The use of common standards will increase the pool of system solutions for retail payment solutions. The predictability provided by participation in TIPS could stimulate banks and other market participants to facilitate real-time payment services for their customers. The development of efficient real-time payment services contributes to the attractiveness of the NOK payment system. It also reduces the risk of international payment and technology companies becoming so dominant that Norwegian authorities’ management and control of the payment system is impaired.
+Norges Bank therefore recently decided to start negotiations with the ECB on participation in TIPS. This negotiation process will provide deeper insight into different aspects of TIPS and the scope for safeguarding Norwegian requirements and needs. A final decision on Norges Bank’s participation in TIPS will be taken after the negotiation phase.
+In their response to the consultation, banks provided valuable input on conditions that must be addressed in the negotiations. We look forward to continued fruitful collaboration with the banking industry going forward.
+As most of us here today know, payment settlement concerns far more than real-time payments. Norges Bank’s settlement system – NBO – is the hub of the entire payment system. Just over two weeks ago, Norges Bank switched to a new IT platform and operational services provider, giving Norges Bank a new and more secure IT operation solution for NBO. I doubt if many people noticed – fortunately. But for Norges Bank, it was a milestone.
+As operator of NBO, Norges Bank is also committed to the international standardisation of payment messages. Efforts are in progress both at Norges Bank and in the industry to introduce the ISO 20022 standard, which enables enriched information and process automation in addition to the benefit in itself of international standardisation. Norges Bank and industry representatives maintain close contact and collaborate effectively. We are planning to invite relevant banks to participate in an implementation project for ISO 20022 in NBO, to be launched in spring 2022.
+Central bank digital currency
+Norges Bank is not only concerned with systems where deposit money is the means of payment. We are also considering whether there is a need to issue a central bank digital currency (CBDC).
+Today, there are two types of money available to the public: deposit money, where the money you have in your account is a claim on your bank, and cash, which is a claim on Norges Bank. In addition, central bank reserves are an electronic form of money only available to banks. A CBDC would be publicly available electronic money issued by the central bank as a digital version of cash. CBDCs contrast with cryptocurrencies, which rely on decentralised settlement without the need for a trusted central counterparty.
+Global interest in CBDCs has increased in recent years. So far, only a few central banks have introduced or are in the process of introducing a CBDC. But many central banks are now devoting considerable resources to exploring a potential CBDC. The Eurosystem has announced the launch of the investigation phase of the digital euro project. In the UK, a taskforce chaired jointly by the Bank of England and the Treasury has been established to explore the issue. Central banks in countries such as the US, Canada, Sweden and China have intensified their efforts on CBDC, as have international organisations such as the IMF and the Bank for International Settlements (BIS). The BIS Innovation Hub has been established to experiment with ways in which new technology could strengthen the financial system, with CBDC as a central element.
+CBDCs can take different forms and have different characteristics depending on their purpose. For Norges Bank, the principal question is whether the introduction of a CBDC is an appropriate measure to promote a secure, effective and attractive payment system and confidence in the monetary system. We are considering whether some of the characteristics of cash should be included and further developed in a digital form of central bank money. We also want to be prepared to introduce a CBDC if the payment system evolves in a different direction than we are able to predict today. We want to promote payment system innovation and development, while at the same time mitigating risks related to money and payment functions moving to new types of arenas and infrastructures, such as crypto-asset systems. The introduction of a CBDC is therefore being assessed against the potential effects that other measures, such as regulation, could achieve.
+The Bank’s research into CBDC is in this sense motivated by the same considerations as the research into a future infrastructure for real-time payments. The objective of a CBDC is nevertheless broader:
+A CBDC would not only be a new payment infrastructure, but also a new means of payment issued by the central bank, with characteristics other than cash and bank deposits.
+A CBDC could contribute to competition and have a disciplining effect on banks and other market participants.
+A CBDC would provide a contingency solution for banks’ payment systems.
+With a CBDC, Norges Bank could deliver an infrastructure for NOK payments that offers the functions users expect. One of the questions under consideration is whether programmable payments and money will be important to the users of the future.
+Norges Bank decided in spring 2021 to continue its research into CBDC. Over the next two years, experimental testing of different technical CBDC solutions will be carried out, and we will continue our work on analysing the purposes and consequences of introducing a CBDC. The research will provide a basis for a decision on whether the Bank will test a preferred solution that could be appropriate.
+The purpose of technical testing is to shed light on how the solutions could deliver the required characteristics of a CBDC as well as reveal potential unintended consequences. Testing could also reveal economic and regulatory issues that are not captured by purely analytical work. Norges Bank will draw on external providers in its work on technical testing. We also want to collaborate with existing service providers to explore how a CBDC could be a means of payment in different solutions.
+Norges Bank will seek to draw on CBDC testing experience and other work conducted by other central banks and international organisations. International cooperation can also prepare the ground for standardisation and system interoperability. In the G20 initiative for enhancing cross-border payments, one of the topics is interoperability between CBDCs for cross-border payments. If the public in one country has access to a CBDC in another, financial and economic conditions could be affected in both countries, particularly if there is uncertainty about the financial position of the banking sector in the first country. It is therefore important to include potential effects across national borders when assessing a CBDC.
+The introduction of a CBDC is an important and complex issue. We will give ourselves the time to research the issue thoroughly, while at the same time preparing to be in a position to act if the need should arise.
+Concluding remarks
+Let me conclude. There are strong forces driving change in the payment system. The changes open up opportunities for improved services, but also entail risks. Our overriding objective is a secure, effective and attractive NOK payment system, today and in the future. Norges Bank is currently considering measures in a number of areas that can contribute to this, in dialogue and collaboration with the industry. Norges Bank will facilitate innovation and healthy competition within a secure framework. At the same time, most of the work on developing the payment system will still be undertaken by the industry. Market participants are closest to the users of the system and can ensure the development of secure and effective payment services – in the best interests of users, society and the participants themselves. I look forward to what we can achieve together.
+Footnotes
+[1]
+Walch, A. (2021):
+“Cryptocurrencies: What are they good for?”
+Testimony before the United States Senate Committee on Banking, Housing, and Urban Affairs, July 2021.
+[2]
+IMF (2021)
+Global Financial Stability Report October 2021
+[3]
+Fidelity Digital Assets (2021)
+2021 Institutional Investor Digital Assets Study
+. September 2021.
+[4]
+BCBS (2021)
+Prudential treatment of crypto-asset exposures
+. Consultative Document, June 2021.
+[5]
+The Financial Stability Board (FSB) has drawn up general principles for the regulation of global stablecoins: FSB (2020)
+Regulation, Supervision and Oversight of “Global Stablecoin” Arrangements
+, October 2020. In the EU, work is underway on a comprehensive regulatory framework for crypto-asset market participants –
+Markets in Crypto Assets (MiCA)
+MiCA also includes regulations for stablecoin issuers. This regulatory framework aims to support innovation, protect consumers and safeguard financial stability.
+[6]
+The
+2021
+Financial Infrastructure Report
+describes these regulations in more detail.
+[7]
+CPMI and IOSCO (2021):
+Application of the Principles for Financial Market Infrastructures to stablecoin arrangements
+. Consultative Report, October 2021.
+Published
+4 November 2021
+14:55
+Print
+Downloads
+Charts
+(pdf)
+Published
+4 November 2021
+14:55
+Print

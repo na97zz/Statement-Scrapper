@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at Nomura 100 th Anniversary Event",
+  "date_original": "2025-10-16",
+  "date_au": "16/10/2025",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-gov-2025-10-16.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-10-16 - Michele Bullock - Fireside Chat at Nomura 100 th Anniversary Event.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-10-16 - Michele Bullock - Fireside Chat at Nomura 100 th Anniversary Event.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b12706ca9df208a49aa07d6b896cbe85f9380576891527322fae6d80eaceb8fd"
+}

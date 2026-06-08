@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Skingsley Om Sommarens Utveckling Stark Aterhamtning Med Svagt Inflationstryck",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Cecilia Skingsley",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2021/skingsley-om-sommarens-utveckling-stark-aterhamtning-med-svagt-inflationstryck/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2021-06-01 - Cecilia Skingsley - Skingsley Om Sommarens Utveckling Stark Aterhamtning Med Svagt Inflationstryck.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2021-06-01 - Cecilia Skingsley - Skingsley Om Sommarens Utveckling Stark Aterhamtning Med Svagt Inflationstryck.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:06:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f0915264737c3d63ccd1f94348be6852fef32de685b3dbb7ac2736ef539dbf80"
+}

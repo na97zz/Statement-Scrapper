@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Governor Ingves At The Riksdag Committee On Finance Hearing On Financial Stability",
+  "date_original": "2021",
+  "date_au": "01/06/2021",
+  "datetime_original": "",
+  "speaker": "Ingves",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2021/governor-ingves-at-the-riksdag-committee-on-finance-hearing-on-financial-stability/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2021-06-01 - Ingves - Governor Ingves At The Riksdag Committee On Finance Hearing On Financial Stability.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2021-06-01 - Ingves - Governor Ingves At The Riksdag Committee On Finance Hearing On Financial Stability.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:06:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "00cef5a4064e78712d7aaf38ffc97f49d9042fc06343c02332f74cf678b2ba7e"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "America, Australia, Asia and the World Economy – New York",
+  "date_original": "14 April 2011",
+  "date_au": "14/04/2011",
+  "datetime_original": "",
+  "speaker": "New York",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-gov-140411.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-04-14 - New York - America, Australia, Asia and the World Economy – New York.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-04-14 - New York - America, Australia, Asia and the World Economy – New York.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9cfc10322b8e452f3b0ba9d9bb5080425a6b31a686a57e2ae80e02030f355a8b"
+}

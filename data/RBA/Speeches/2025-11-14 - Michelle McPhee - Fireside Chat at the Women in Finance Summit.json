@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at the Women in Finance Summit",
+  "date_original": "2025-11-14",
+  "date_au": "14/11/2025",
+  "datetime_original": "",
+  "speaker": "Michelle McPhee",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-11-14.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-11-14 - Michelle McPhee - Fireside Chat at the Women in Finance Summit.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-11-14 - Michelle McPhee - Fireside Chat at the Women in Finance Summit.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fbfc13f7f932fd0fe12d12c7d7b229e3b471bb23ab0b2d92777c4c258330767b"
+}

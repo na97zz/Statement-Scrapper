@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement August 2025",
+  "date_original": "2025-08-19",
+  "date_au": "19/08/2025",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2025/aug-20825/mps-report-aug-2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2025-08-19 - Monetary Policy Statement August 2025.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2025-08-19 - Monetary Policy Statement August 2025.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:37",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2025/aug-08hgf/monetary-policy-statement-august-2025",
+  "content_sha256": "3ca351f04bd7ba7b62d78fbdfff99d920e91ac29de3ca83dc5bbfb452a6e564d"
+}

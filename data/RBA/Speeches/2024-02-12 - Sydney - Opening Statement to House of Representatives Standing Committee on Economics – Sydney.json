@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to House of Representatives Standing Committee on Economics – Sydney",
+  "date_original": "2024-02-12",
+  "date_au": "12/02/2024",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-gov-240212.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-02-12 - Sydney - Opening Statement to House of Representatives Standing Committee on Economics – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-02-12 - Sydney - Opening Statement to House of Representatives Standing Committee on Economics – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d2603e15cb5f038d487883ff9ea568c1eecadf3080ce39ed6e3d6eb33507c055"
+}

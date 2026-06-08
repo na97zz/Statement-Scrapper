@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "The Future is Māori",
+  "date_original": "2021-05-06",
+  "date_au": "06/05/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2021/speech2021-05-06-the-future-is-maori.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2021-05-06 - The Future is Māori.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2021-05-06 - The Future is Māori.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:58",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2021/speech2021-05-06",
+  "content_sha256": "ea3c883e3e6935e33d9860be2fa8d2086772f66d5cfa3e4e278f437cf39edad1"
+}

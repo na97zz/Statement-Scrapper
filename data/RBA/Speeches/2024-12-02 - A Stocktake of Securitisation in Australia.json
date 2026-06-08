@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Stocktake of Securitisation in Australia",
+  "date_original": "2024-12-02",
+  "date_au": "02/12/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-so-2024-12-02.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-12-02 - A Stocktake of Securitisation in Australia.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-12-02 - A Stocktake of Securitisation in Australia.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:48",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b82bd9022b98e39056cb5288dea5a2e853b0bec36ce34b2f89c31b03426299ef"
+}

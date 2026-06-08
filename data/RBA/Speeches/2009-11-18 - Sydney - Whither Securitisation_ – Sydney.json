@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Whither Securitisation? – Sydney",
+  "date_original": "18 November 2009",
+  "date_au": "18/11/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-ag-181109.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-11-18 - Sydney - Whither Securitisation_ – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-11-18 - Sydney - Whither Securitisation_ – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:59",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4965409dd1e59746d3f72fdb12ea0f56381870b263d75727e4f1c0b71b8633e4"
+}

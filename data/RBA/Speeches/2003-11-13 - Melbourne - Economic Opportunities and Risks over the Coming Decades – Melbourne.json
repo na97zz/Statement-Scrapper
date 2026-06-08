@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Economic Opportunities and Risks over the Coming Decades – Melbourne",
+  "date_original": "13 November 2003",
+  "date_au": "13/11/2003",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2003/sp-gov-131103.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2003-11-13 - Melbourne - Economic Opportunities and Risks over the Coming Decades – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2003-11-13 - Melbourne - Economic Opportunities and Risks over the Coming Decades – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:58",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a671a4aa4b675171977ae2267184930a450ef9e8024dbc81b4a16595aa745340"
+}

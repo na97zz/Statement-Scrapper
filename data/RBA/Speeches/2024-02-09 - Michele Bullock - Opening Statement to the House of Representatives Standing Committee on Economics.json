@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Opening Statement to the House of Representatives Standing Committee on Economics",
+  "date_original": "2024-02-09",
+  "date_au": "09/02/2024",
+  "datetime_original": "",
+  "speaker": "Michele Bullock",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-gov-2024-02-09.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-02-09 - Michele Bullock - Opening Statement to the House of Representatives Standing Committee on Economics.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-02-09 - Michele Bullock - Opening Statement to the House of Representatives Standing Committee on Economics.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2618b8e41b3bf01060e427f05be7e80d517afb64a78b41f78811ea1b2ca8d51d"
+}

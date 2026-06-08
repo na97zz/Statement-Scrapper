@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "Report from Norges Bank Watch",
+  "date_original": "2022-03-01",
+  "date_au": "01/03/2022",
+  "datetime_original": "",
+  "speaker": "Report from Norges Bank Watch",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-03-01-norges-bank-watch/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-03-01 - Report from Norges Bank Watch - Report from Norges Bank Watch.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-03-01 - Report from Norges Bank Watch - Report from Norges Bank Watch.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:42",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c439d1116bcd6ca08ab2c3a31ceaa03b4dc6f3372cd2391a1ba108864a15e36e"
+}

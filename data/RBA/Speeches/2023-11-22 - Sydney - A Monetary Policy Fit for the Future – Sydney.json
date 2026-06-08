@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Monetary Policy Fit for the Future – Sydney",
+  "date_original": "2023-11-22",
+  "date_au": "22/11/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-gov-2023-11-22.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-11-22 - Sydney - A Monetary Policy Fit for the Future – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-11-22 - Sydney - A Monetary Policy Fit for the Future – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:06",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6b63af5d822b70104568b167a35192916daeec4e2cbf449429a4d67564eef55e"
+}

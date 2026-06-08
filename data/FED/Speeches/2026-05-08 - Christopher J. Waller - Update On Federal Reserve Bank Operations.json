@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Speeches",
+  "title": "Update On Federal Reserve Bank Operations",
+  "date_original": "2026-05-08",
+  "date_au": "08/05/2026",
+  "datetime_original": "",
+  "speaker": "Christopher J. Waller",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm",
+  "raw_file_path": "data\\FED\\Speeches\\2026-05-08 - Christopher J. Waller - Update On Federal Reserve Bank Operations.html",
+  "text_file_path": "data\\FED\\Speeches\\2026-05-08 - Christopher J. Waller - Update On Federal Reserve Bank Operations.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:51:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6fd2b8075d580c2db5c7b49fc1ae4c7521309149ec7352094aa0dce9b89cf9db"
+}

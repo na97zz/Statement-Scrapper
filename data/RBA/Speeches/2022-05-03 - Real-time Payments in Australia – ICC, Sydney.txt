@@ -1,0 +1,282 @@
+BANK: RBA
+CATEGORY: Speeches
+TITLE: Real-time Payments in Australia – ICC, Sydney
+DATE: 03/05/2022
+SPEAKER: 
+SPEAKER ROLE: 
+SOURCE URL: https://www.rba.gov.au/speeches/2022/sp-so-2022-05-03.html
+DOCUMENT TYPE: html
+
+==== EXTRACTED TEXT START ====
+
+Speech
+Real-time Payments in Australia
+Ellis Connolly
+[
+*
+]
+Head of Payments Policy Department
+Opening Address to the Real Time Payments Summit 21/22
+ICC, Sydney
+–
+3 May 2022
+Audio
+39MB
+Q&A Transcript
+Download
+266KB
+Thank you for the opportunity to speak at the Real Time Payments Summit.
+Ten years ago, the Reserve Bank conducted a Strategic Review of Innovation in the Payments System.
+[1]
+The aim
+ was to foster cooperative innovation to improve the safety, efficiency and competitiveness of the
+ payments system. The conclusions of that review set out some strategic objectives for the payments system
+ of the future:
+The ability to make real-time retail payments
+The ability to make and receive payments outside normal banking hours
+The ability to send more complete remittance information with payments
+The ability to address payments in a relatively simple way.
+This set the stage for the development of the New Payments Platform (NPP), involving many participants
+ from across the payments industry and the Reserve Bank.
+Today I am going to highlight what has been achieved in delivering real-time payments in Australia, along
+ with the work that still needs to be done. I'll also raise some issues for us to consider as we look
+ to the horizon.
+The progress on real-time payments
+The NPP we see today has largely met the strategic objectives set by the Reserve Bank in 2012. Most
+ consumers and businesses can make and receive real-time payments 24 hours a day, every day of the
+ year. These payments can carry more detailed remittance information. They can also be addressed more
+ conveniently by using a PayID, such as a mobile number, email address or Australian Business Number
+ (ABN). This is a significant improvement on the existing system of account-to-account payments –
+ the Direct Entry (DE) system – where it can take hours or days for a payment to be processed,
+ payment information is limited to 18 characters, and the payer has to know the Bank-State-Branch
+ (BSB) and account number of the recipient.
+Since its launch in 2018, the NPP has expanded significantly. Over the past year, the NPP processed more
+ than a billion transactions, worth more than $1 trillion. The share of account-to-account credit
+ transfers that are made via the NPP has risen to around 30 per cent, including most ‘pay
+ anyone’ transfers made through online banking. The rate of adoption of the NPP also compares
+ favourably with other jurisdictions that have launched fast payment systems (Graph 1).
+Graph 1
+There are now 107 financial institutions offering NPP payment services for almost 90 million
+ customer accounts. While most of these are banks, there are also a number of non-bank institutions that
+ are using the NPP to offer their customers faster payments and innovative services.
+The Australian Government has also become a significant user of the NPP, with more than $12 billion
+ of payments for COVID-related support and disaster relief made via the NPP in the second half of 2021.
+ The NPP enabled the Government to provide support to households affected by bushfires and floods in near
+ real time, including on weekends.
+Some areas that need to be addressed
+We can all be proud of the substantial progress that has been made on delivering real-time payments in
+ Australia. However, there is more work to be done to realise the full potential of the NPP. In 2019, the
+ Reserve Bank conducted a public review on NPP functionality and access, with assistance from the
+ Australian Competition and Consumer Commission.
+[2]
+In this report, we recommended that NPP Australia
+ (NPPA) periodically publish a roadmap of the additional functionality it had agreed to develop. We also
+ recommended that the NPPA Board have the power to mandate that agreed NPP core capabilities be supported
+ by participants within a specified period of time.
+Deliver the additional functionality in the NPP roadmap
+There are two new business services in the current NPP roadmap that have the potential to deliver
+ substantial benefits for end users.
+The first of these is
+PayTo
+. This service will provide a convenient and secure way for
+ households and businesses to authorise third parties to initiate NPP payments from their accounts. It
+ will modernise the existing ‘direct debit’ system by giving customers more control. PayTo is
+ a way to provide the payment initiation functionality that was envisaged under the Consumer Data Right
+ (CDR). It will also open up new opportunities for innovation and has the potential to provide significant
+ benefits for end users.
+The industry had committed to launch the PayTo service in July this year, and the Reserve Bank's
+ expectation was that this commitment would be met. Unfortunately, several of the major banks have
+ recently indicated that they will not be able to meet this timeline. We recognise the considerable effort
+ and investment required to develop PayTo, and the challenge of delivering multiple key payment
+ initiatives at the same time. Nevertheless, these delays will significantly limit the availability of the
+ service and the realisation of the benefits for end users. Given this, the Governor has written to the
+ CEOs of the relevant banks to seek assurance that they will be ready to launch PayTo by no later than
+ April 2023. To realise the full potential of PayTo, we also expect the banks to make the service
+ available for their entire customer base.
+The other major initiative on the NPP roadmap is the
+international payments business
+ service
+. This will enable the Australian dollar leg of inbound cross-border payments to be
+ processed by the NPP. In particular, additional data about the sender will be provided with the payment,
+ making it easier for payment service providers to meet their compliance obligations related to financial
+ crime. This service will result in safer and faster cross-border payments. The Reserve Bank expects the
+ industry to remain committed to delivering the international payments business service in 2023.
+Encourage use of PayIDs
+We think there is also an opportunity for industry to more actively encourage their customers to sign up
+ for and use PayIDs. They are a convenient and safe way of addressing payments. One of the key benefits of
+ using a PayID is that the payer receives confirmation of the name of the person or business being paid
+ before the payment is initiated. This reduces the chance that the payment will be mistakenly sent to the
+ wrong account. It can also help guard against some types of scams, such as where someone is deceived into
+ sending a payment to a scammer's account rather than that of the intended recipient. Currently, there
+ are around 10 million registered PayIDs in Australia, yet only 16 per cent of Osko
+ payments are addressed using a PayID. The Reserve Bank would like to see the industry do more to promote
+ the use of the PayID addressing system by their customers, especially businesses.
+Improve the reliability of NPP services for end users
+Another issue that needs attention is the reliability of NPP services provided by financial institutions.
+ In the second half of 2021, three-quarters of payment service providers reported unplanned outages
+ affecting their NPP services, with many experiencing multiple outages.
+[3]
+The average accumulated unplanned
+ downtime per NPP service provider was almost seven hours (Graph 2). This figure is considerably
+ higher than other
+24/7
+services such as card payment services, for
+ which the average outage duration per service provider was around two hours.
+[4]
+A
+ substantial amount of the NPP provider outage time occurred during the day (i.e. between 8am and 6pm),
+ when customer service demand is at its highest.
+Graph 2
+These outage data indicate that some industry participants need to do a better job of delivering reliable
+ NPP services to their customers. The Payments System Board is closely monitoring NPP provider
+ reliability, which will become increasingly important as usage of the NPP continues to grow.
+Some issues to consider
+Looking further ahead, there are a number of issues relating to the NPP that we should all keep in mind as
+ we plan for the future.
+Payment system access arrangements
+Access to the NPP for payment service providers continues to be a focus area for the Reserve Bank. Access
+ requirements are an important way for operators to manage risks to payment systems and their
+ participants. At the same time, these arrangements should be as open and fair as possible to support the
+ participation of service providers from across the payments ecosystem to encourage innovation and
+ competition.
+In the 2019 review, the Reserve Bank made a number of recommendations to support access to the NPP for a
+ broader range of payment service providers. In response, NPPA has lowered the capital contribution
+ required for authorised deposit-taking institutions (ADIs) to become direct participants. The governance
+ process for approving applications for new participants has also been made more transparent and
+ independent. However, non-ADIs are still not able to join the NPP directly to clear payments. Instead,
+ they can choose to participate in the NPP indirectly, or as connected institutions to initiate payments.
+ While it suits some non-ADIs to use the NPP this way, others would like to be able to participate more
+ fully.
+As part of the Australian Government's payments system reforms, the Reserve Bank has started work on a
+ set of common access requirements to help support access to payment systems, including the NPP. The
+ intention is that these requirements would be incorporated into the new licensing framework for non-ADI
+ payment service providers that the Government agreed to develop. The Reserve Bank supports the
+ development of such a licensing framework to reduce barriers to entry and support competition and
+ innovation in the payments system. We are engaging with payment system operators as part of this process.
+ To the extent that access requirements can be streamlined, standardised and made more transparent, this
+ should make it easier for new entrants to participate in payment systems such as the NPP.
+The future of the Direct Entry system
+Another key issue is planning for the wind-down and eventual closure of the DE system. We expect that
+ account-to-account credit transfers will continue to migrate from DE to the NPP. For payments that are
+ currently processed in bulk across the DE system, such as payroll, institutions are working on how to
+ send these via the NPP. The introduction of PayTo will also pave the way for direct debit payments to
+ move to the NPP.
+Given these developments, it is appropriate for the industry to be discussing when the DE system may be
+ closed. As part of these discussions, the industry will need to consider at least three challenges:
+Not all accounts that currently send and receive DE payments are reachable via the NPP. PayTo will
+ also need to be available for a broad customer base. So before the DE system can close, the reach of
+ NPP will need to expand further to ensure that all accounts remain capable of sending and receiving
+ payments.
+As noted earlier, the reliability of NPP services for end users also needs further attention. This is
+ particularly important if NPP is to become the sole retail account-to-account transfer system. If DE
+ was closed, the current option to redirect NPP payments to the DE system during an NPP outage would
+ no longer exist.
+A lot of work will be required to bring end-users of the DE system on the journey. Many businesses
+ and government agencies have DE payments embedded in their payments processing systems. NPP service
+ providers will need to support these users in the transition to more modern payments processes.
+The recent merger of NPPA, BPAY and eftpos to form Australian Payments Plus (AP+) should result in a more
+ unified investment roadmap. This should provide industry participants with greater clarity when they are
+ making decisions on when to invest in future payments capability. As part of this roadmap, we expect AP+
+ to be considering how best to support the winding down of the DE system.
+A competitive market for retail payments
+Once the additional functionality for the NPP is delivered, another question is whether it can become an
+ effective competitor to other established payment methods, such as card payments. In Australia, card
+ payments are the dominant payment method for both in-store and online purchases. It is also interesting
+ to note that Australians make debit card payments more frequently than in comparable countries
+ (Graph 3).
+Graph 3
+In other countries with fast payment systems, we can see innovations emerging that provide alternatives to
+ card payments:
+In Singapore, the customers of some financial institutions can make payments to merchants from their
+ accounts using the fast payments system. There is an option to do this by scanning a QR code using a
+ mobile application provided by the payment service provider.
+In India, some consumers can pay merchants in-store by tapping their smartphones at merchant
+ terminals. However, rather than these payments being made from a debit or credit card stored in the
+ mobile phone wallet, they are made directly from customers' accounts via the fast payments
+ system.
+Once PayTo is operational, the NPP could support similar innovations in Australia. NPPA has developed a
+ standard for real-time payments using QR codes in person and online.
+[5]
+PayTo should then provide
+ opportunities for such payments to be made to merchants using QR codes. Customers could also authorise
+ merchants to debit their accounts for one-off payments or provide standing authorisations for recurring
+ purchases. This functionality could enable the NPP to compete more directly with card payments in future,
+ providing consumers with more payment options and placing competitive pressure on payment costs.
+Enhancing cross-border payments
+The NPP also has the potential to play a significant role in Australia's commitment to enhance
+ cross-border payments. As the G20 has highlighted, payments made across borders via the banking
+ system are too expensive, slow and opaque. The NPP's international payments business service should
+ significantly increase the end-to-end speed of payments coming into Australia.
+Efficiency gains could also be achieved by making sure that the NPP is interoperable with major payments
+ systems in other countries. To support this, the industry should implement any internationally harmonised
+ messaging and data practices in a timely way. Several countries in Southeast Asia are going a step
+ further by linking up their fast payment systems to others in the region. This can remove the need for
+ correspondent banks to intermediate international payments between these countries, increasing speed and
+ reducing cost. Given these examples, we think it would be worth exploring ways in which the NPP could
+ connect to fast payment systems in other countries in the future.
+High-value payments and increasing oversight of NPP
+So far, the NPP has almost entirely been used for low-value payments. Looking ahead, some high-value
+ payments may also start to flow across the NPP. For instance, the introduction of the NPP's
+ international payments business service should lead to some cross-border transactions for large
+ businesses migrating to the NPP. We could also see the NPP being used for after-hours payments in
+ financial markets. For example, in its role as a supervisor of systemically important clearing and
+ settlement facilities, the Reserve Bank has recommended that ASX Clear (Futures) has the capacity to
+ collect margin overnight to manage large price movements. Since the Australian high-value payments system
+ is closed at that time, the ASX is instead collecting margin from its participants in US dollars. An
+ alternative that the ASX is exploring is to instead collect this margin in Australian dollars using the
+ NPP.
+As the NPP grows in importance, it will naturally be subject to greater oversight. The Reserve Bank
+ oversees systemically important payment systems operating in Australia, and regularly assesses their
+ compliance with the international standards – the
+Principles for Financial Market
+ Infrastructures
+.
+[6]
+Given its current level of usage, we do not consider
+ NPP to be systemically important. However, this may change in the future as the NPP grows, and especially
+ if it is used by other financial market infrastructures, such as clearing and settlement facilities.
+Reflecting the growing importance of the NPP to the economy, the NPP has been specified by the Australian
+ Government as a critical infrastructure asset. The Government's reforms include new obligations to
+ help bolster the reliability and security of critical infrastructure assets against cyber and other
+ threats. The Reserve Bank is working with the Government to apply the obligations to NPPA, as the
+ operator of the central NPP infrastructure.
+Conclusion
+The payments industry has made significant progress on delivering real-time payments over the past
+ 10 years. This has been undertaken with a spirit of great cooperation. Nevertheless, there is more
+ work to be done. We expect the industry to implement the NPP roadmap, encourage use of PayIDs and improve
+ the reliability of NPP services for end users. The NPP has developed into an important piece of national
+ infrastructure that is supporting further innovation. I look forward to hearing more today about how you
+ are leveraging this infrastructure to enhance the safety, efficiency and competitiveness of our payments
+ system.
+Endnotes
+I would like to thank Elizabeth Kandelas, Georgia
+ Wiley, Grant Turner and Adnan Arif for their excellent assistance in preparing this talk.
+[*]
+See RBA (2012), ‘Strategic Review of
+ Innovation in the Payments System’, available at:
+https://www.rba.gov.au/payments-and-infrastructure/payments-system-regulation/past-regulatory-reviews/strategic-review-of-innovation-in-the-payments-system/conclusions/pdf/conclusions-062012.pdf
+[1]
+See RBA (2019), ‘New Payments Platform
+ Functionality and Access: Conclusions Paper’, available at:
+https://www.rba.gov.au/payments-and-infrastructure/new-payments-platform/functionality-and-access-report.html
+[2]
+Similar patterns were observed from data
+ collected over the previous few years.
+[3]
+An outage is generally defined as a significant
+ disruption affecting at least 10 per cent of customers, transactions or service points
+ for at least 30 minutes. These data are published on the websites of 34 retail payments
+ providers. For more information, see RBA, ‘Disclosures on Retail Payments Service
+ Reliability’, available at
+https://www.rba.gov.au/payments-and-infrastructure/resources/reliability-disclosures.html
+[4]
+One of the undertakings made by NPPA, BPAY and
+ eftpos as part of their merger to form AP+ was to agree on an industry-wide standard to support
+ QR code payments in Australia.
+[5]
+CPSS-IOSCO,
+Principles for financial market
+ infrastructures
+, CPSS Publications No. 101, Bank for International Settlements, April
+ 2012, available at: <http://www.bis.org/publ/cpss101a.pdf>
+[6]

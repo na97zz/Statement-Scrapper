@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Monetary Policy",
+  "title": "Monetary Policy Statement November 2024",
+  "date_original": "2027-11-24",
+  "date_au": "24/11/2027",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/monetary-policy-statements/2024/nov-271124gsp/mps_report_nov2024.pdf",
+  "raw_file_path": "data\\RBNZ\\Monetary Policy\\2027-11-24 - Monetary Policy Statement November 2024.pdf",
+  "text_file_path": "data\\RBNZ\\Monetary Policy\\2027-11-24 - Monetary Policy Statement November 2024.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:51:41",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/monetary-policy-statement/2024/monetary-policy-statement-291124",
+  "content_sha256": "23e3173b5d106fbd0a0cfe3a8e44e5b5bd23d2f11c1047d24626b901a06362b2"
+}

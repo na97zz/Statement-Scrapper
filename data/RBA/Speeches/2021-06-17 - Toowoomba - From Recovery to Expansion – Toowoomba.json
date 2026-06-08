@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "From Recovery to Expansion – Toowoomba",
+  "date_original": "2021-06-17",
+  "date_au": "17/06/2021",
+  "datetime_original": "",
+  "speaker": "Toowoomba",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-gov-2021-06-17.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-06-17 - Toowoomba - From Recovery to Expansion – Toowoomba.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-06-17 - Toowoomba - From Recovery to Expansion – Toowoomba.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b75ebce1dd5150f1f57d8bd59f1d3826a21656a7df88262ce1e41c956e356460"
+}

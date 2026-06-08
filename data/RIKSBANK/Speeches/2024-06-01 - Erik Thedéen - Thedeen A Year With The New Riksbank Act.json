@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Thedeen A Year With The New Riksbank Act",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Erik Thedéen",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2024/thedeen-a-year-with-the-new-riksbank-act/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Erik Thedéen - Thedeen A Year With The New Riksbank Act.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Erik Thedéen - Thedeen A Year With The New Riksbank Act.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:02:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "4fab98788b0c336328b1d19d8cd163627f2860e57f254ba63e05e69de791898f"
+}

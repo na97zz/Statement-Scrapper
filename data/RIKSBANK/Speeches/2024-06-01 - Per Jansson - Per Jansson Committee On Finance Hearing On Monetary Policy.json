@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Per Jansson Committee On Finance Hearing On Monetary Policy",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Per Jansson",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2024/per-jansson-committee-on-finance-hearing-on-monetary-policy/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Per Jansson - Per Jansson Committee On Finance Hearing On Monetary Policy.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Per Jansson - Per Jansson Committee On Finance Hearing On Monetary Policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:02:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "840ccc1367a509d32c03d536b390317501cc375c7298f576cafad8500d5f6da7"
+}

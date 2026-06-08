@@ -1,0 +1,18 @@
+{
+  "bank": "SNB",
+  "category": "Monetary Policy",
+  "title": "Monetary policy assessment of 12 December 2024",
+  "date_original": "2024-12-12",
+  "date_au": "12/12/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20241212",
+  "raw_file_path": "data\\SNB\\Monetary Policy\\2024-12-12 - Monetary policy assessment of 12 December 2024.html",
+  "text_file_path": "data\\SNB\\Monetary Policy\\2024-12-12 - Monetary policy assessment of 12 December 2024.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T12:52:12",
+  "status": "success",
+  "notes": "Duplicate source_url in master index"
+}

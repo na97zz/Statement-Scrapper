@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Developments in Financial Regulation – Sydney",
+  "date_original": "8 December 2009",
+  "date_au": "08/12/2009",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2009/sp-gov-081209.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2009-12-08 - Sydney - Developments in Financial Regulation – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2009-12-08 - Sydney - Developments in Financial Regulation – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:38:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f288247f2be4b87e04524a10937c556acddecf4555b4f3c8cbec630f44a5c75a"
+}

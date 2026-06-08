@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Australian Economy: Past, Present and Future – Melbourne",
+  "date_original": "4 April 2002",
+  "date_au": "04/04/2002",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2002/sp-gov-040402.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2002-04-04 - Melbourne - The Australian Economy_ Past, Present and Future – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2002-04-04 - Melbourne - The Australian Economy_ Past, Present and Future – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:42:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cc89c4e68060b2aed7663971bc099ea8193da554feebaacf2822be2d74e7ecb6"
+}

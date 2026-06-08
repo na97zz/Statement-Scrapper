@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Panel Participation at the Australian Banking Association Annual Conference – Sydney",
+  "date_original": "2023-06-07",
+  "date_au": "07/06/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-dg-2023-06-07.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-06-07 - Sydney - Panel Participation at the Australian Banking Association Annual Conference – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-06-07 - Sydney - Panel Participation at the Australian Banking Association Annual Conference – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:38",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "340d362771d0f30083bd7bb4722db1f79d5ff00eede62c043c61bb2660cdd4bd"
+}

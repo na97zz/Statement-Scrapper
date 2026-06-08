@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Strangers in Paradise",
+  "date_original": "2024-06-27",
+  "date_au": "27/06/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-06-27.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-06-27 - Andrew Hauser - Strangers in Paradise.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-06-27 - Andrew Hauser - Strangers in Paradise.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "57ad0062e399f764a6c24c7d2797aa56f933c3d5295384023da0100c6fd125ee"
+}

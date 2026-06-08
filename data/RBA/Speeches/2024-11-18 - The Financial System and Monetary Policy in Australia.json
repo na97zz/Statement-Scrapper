@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Financial System and Monetary Policy in Australia",
+  "date_original": "2024-11-18",
+  "date_au": "18/11/2024",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-ag-2024-11-18.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-11-18 - The Financial System and Monetary Policy in Australia.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-11-18 - The Financial System and Monetary Policy in Australia.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:29:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6578eabd6acbc13f87eb62d37b4b9d1dd4198593b05bca221ee60629937640ea"
+}

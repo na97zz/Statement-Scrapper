@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "A Tokenised Future for the Australian Financial System? – Sydney",
+  "date_original": "2023-10-16",
+  "date_au": "16/10/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-ag-2023-10-16.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-10-16 - Sydney - A Tokenised Future for the Australian Financial System_ – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-10-16 - Sydney - A Tokenised Future for the Australian Financial System_ – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:21",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "96e3be7a791f33fcb1b6764ad9ad8b9be22c98d5313809cf4fb88a0c8342b913"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "The conduct of monetary policy",
+  "date_original": "2026-05-07",
+  "date_au": "07/05/2026",
+  "datetime_original": "",
+  "speaker": "The conduct of monetary policy",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2026/2026-05-07-finansmarkedsmeldingen/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2026-05-07 - The conduct of monetary policy - The conduct of monetary policy.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2026-05-07 - The conduct of monetary policy - The conduct of monetary policy.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:08:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cbe8d59b11660ecb3e8740148a891c568d7bfe7450930ba65206d8d41d96c5d5"
+}

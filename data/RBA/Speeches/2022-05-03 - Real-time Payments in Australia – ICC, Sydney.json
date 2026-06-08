@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Real-time Payments in Australia – ICC, Sydney",
+  "date_original": "2022-05-03",
+  "date_au": "03/05/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2022/sp-so-2022-05-03.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2022-05-03 - Real-time Payments in Australia – ICC, Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2022-05-03 - Real-time Payments in Australia – ICC, Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:32:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "76668324bd609e377a8b20318ee2fc5725670cb590f6ba9956a3d97d597ea1e1"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Payments Imbalances – Beijing",
+  "date_original": "12 May 2005",
+  "date_au": "12/05/2005",
+  "datetime_original": "",
+  "speaker": "Beijing",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2005/sp-gov-120505.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2005-05-12 - Beijing - Payments Imbalances – Beijing.html",
+  "text_file_path": "data\\RBA\\Speeches\\2005-05-12 - Beijing - Payments Imbalances – Beijing.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:41:27",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "244ff3f92c9b42a04db74232358075ec0498dbf0463043c4c6b7e513326b40d5"
+}

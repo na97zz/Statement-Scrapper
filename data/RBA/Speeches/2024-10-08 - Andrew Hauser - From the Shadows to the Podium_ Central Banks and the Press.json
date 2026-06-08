@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "From the Shadows to the Podium: Central Banks and the Press",
+  "date_original": "2024-10-08",
+  "date_au": "08/10/2024",
+  "datetime_original": "",
+  "speaker": "Andrew Hauser",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2024/sp-dg-2024-10-08.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2024-10-08 - Andrew Hauser - From the Shadows to the Podium_ Central Banks and the Press.html",
+  "text_file_path": "data\\RBA\\Speeches\\2024-10-08 - Andrew Hauser - From the Shadows to the Podium_ Central Banks and the Press.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:30:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "ff60076035f0f2712d455884cb2574243ee71c4e057bd8f3409ce0d2d1f3f19f"
+}

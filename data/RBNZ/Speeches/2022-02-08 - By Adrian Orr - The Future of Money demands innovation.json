@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "The Future of Money demands innovation",
+  "date_original": "2022-02-08",
+  "date_au": "08/02/2022",
+  "datetime_original": "",
+  "speaker": "By Adrian Orr",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2022/speech2022-02-08.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2022-02-08 - By Adrian Orr - The Future of Money demands innovation.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2022-02-08 - By Adrian Orr - The Future of Money demands innovation.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:54",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/hub/publications/speech/2022/speech2022-02-08",
+  "content_sha256": "0cf004992329b9c15a3bc8374ea54c50bdac1e76d4d75d537976e366206f17d4"
+}

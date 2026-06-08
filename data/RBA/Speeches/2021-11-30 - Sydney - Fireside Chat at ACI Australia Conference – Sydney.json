@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Fireside Chat at ACI Australia Conference – Sydney",
+  "date_original": "2021-11-30",
+  "date_au": "30/11/2021",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2021/sp-dg-2021-11-30-2.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2021-11-30 - Sydney - Fireside Chat at ACI Australia Conference – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2021-11-30 - Sydney - Fireside Chat at ACI Australia Conference – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:33:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3aaa800a6b5ff76b2804817f9b6664a7f84a93e56ce960a0e28802dec50558b0"
+}

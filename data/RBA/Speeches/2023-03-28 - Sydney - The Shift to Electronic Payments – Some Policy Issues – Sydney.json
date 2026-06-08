@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Shift to Electronic Payments – Some Policy Issues – Sydney",
+  "date_original": "2023-03-28",
+  "date_au": "28/03/2023",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2023/sp-so-2023-03-28.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2023-03-28 - Sydney - The Shift to Electronic Payments – Some Policy Issues – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2023-03-28 - Sydney - The Shift to Electronic Payments – Some Policy Issues – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:31:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d355d85889cc4df088027d456eb82df1c53f1dc69ee73c471bf697df1631eae5"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "On Europe's Effects on Australian Financial Markets – Sydney",
+  "date_original": "14 February 2012",
+  "date_au": "14/02/2012",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-ag-140212.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-02-14 - Sydney - On Europe's Effects on Australian Financial Markets – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-02-14 - Sydney - On Europe's Effects on Australian Financial Markets – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:09",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "64acc898fc9f58c2775d646300dffe6fdee9fbc963bb57cef0a0a635027cc8f4"
+}

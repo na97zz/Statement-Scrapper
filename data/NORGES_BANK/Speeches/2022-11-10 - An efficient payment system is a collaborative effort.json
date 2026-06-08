@@ -1,0 +1,19 @@
+{
+  "bank": "NORGES_BANK",
+  "category": "Speeches",
+  "title": "An efficient payment system is a collaborative effort",
+  "date_original": "2022-11-10",
+  "date_au": "10/11/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.norges-bank.no/en/news-events/news/Speeches/2022/2022-11-10-betalingsformidlingskonferansen/",
+  "raw_file_path": "data\\NORGES_BANK\\Speeches\\2022-11-10 - An efficient payment system is a collaborative effort.html",
+  "text_file_path": "data\\NORGES_BANK\\Speeches\\2022-11-10 - An efficient payment system is a collaborative effort.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:09:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c6073556a14b8735a68beee4c2d745dcba4d54db42f7bc974dc2b8ab77fab2f4"
+}

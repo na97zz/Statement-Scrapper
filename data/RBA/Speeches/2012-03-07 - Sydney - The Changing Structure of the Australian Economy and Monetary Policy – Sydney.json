@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The Changing Structure of the Australian Economy and Monetary Policy – Sydney",
+  "date_original": "7 March 2012",
+  "date_au": "07/03/2012",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-dg-070312.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-03-07 - Sydney - The Changing Structure of the Australian Economy and Monetary Policy – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-03-07 - Sydney - The Changing Structure of the Australian Economy and Monetary Policy – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:02",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "de93d008b59fea7296657b62bb433b61a4197e97019394880901ff9b5babcab8"
+}

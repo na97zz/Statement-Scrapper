@@ -1,0 +1,19 @@
+{
+  "bank": "RBNZ",
+  "category": "Speeches",
+  "title": "Forecasting (conditionally) charting the path forward",
+  "date_original": "2025-04-14",
+  "date_au": "14/04/2025",
+  "datetime_original": "",
+  "speaker": "Chief Economist Paul Conway",
+  "speaker_role": "",
+  "source_url": "https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/speeches/2025/paul-conway-speech-forecasting-at-the-rbnz-april-2025.pdf",
+  "raw_file_path": "data\\RBNZ\\Speeches\\2025-04-14 - Chief Economist Paul Conway - Forecasting (conditionally) charting the path forward.pdf",
+  "text_file_path": "data\\RBNZ\\Speeches\\2025-04-14 - Chief Economist Paul Conway - Forecasting (conditionally) charting the path forward.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:52:46",
+  "status": "success",
+  "notes": "HTML source page: https://www.rbnz.govt.nz/news-and-events/events/2025/april/speech-on-rbnz-forecasting-by-chief-economist-paul-conway",
+  "content_sha256": "b7662c3d57d30fc252ef4510c9b596a24caf8b3629b14c6139b174a267b7b687"
+}

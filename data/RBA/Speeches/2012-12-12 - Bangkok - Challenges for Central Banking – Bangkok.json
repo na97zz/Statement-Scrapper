@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Challenges for Central Banking – Bangkok",
+  "date_original": "12 December 2012",
+  "date_au": "12/12/2012",
+  "datetime_original": "",
+  "speaker": "Bangkok",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2012/sp-gov-121212.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2012-12-12 - Bangkok - Challenges for Central Banking – Bangkok.html",
+  "text_file_path": "data\\RBA\\Speeches\\2012-12-12 - Bangkok - Challenges for Central Banking – Bangkok.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:36:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "671d80e1f910ceab2cc8b7ec61dccac1164531082c71d71ae5e3170b5d0c8f78"
+}

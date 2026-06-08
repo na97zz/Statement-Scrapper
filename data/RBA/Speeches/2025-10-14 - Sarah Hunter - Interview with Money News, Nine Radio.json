@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Interview with Money News, Nine Radio",
+  "date_original": "2025-10-14",
+  "date_au": "14/10/2025",
+  "datetime_original": "",
+  "speaker": "Sarah Hunter",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2025/sp-ag-2025-10-14.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2025-10-14 - Sarah Hunter - Interview with Money News, Nine Radio.html",
+  "text_file_path": "data\\RBA\\Speeches\\2025-10-14 - Sarah Hunter - Interview with Money News, Nine Radio.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:28:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6973969563d94060c80e0e661338664add6cfb074ea90cf01ec85664301695d0"
+}

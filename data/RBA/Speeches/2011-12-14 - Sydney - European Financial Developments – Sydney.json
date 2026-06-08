@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "European Financial Developments – Sydney",
+  "date_original": "14 December 2011",
+  "date_au": "14/12/2011",
+  "datetime_original": "",
+  "speaker": "Sydney",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2011/sp-dg-141211.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2011-12-14 - Sydney - European Financial Developments – Sydney.html",
+  "text_file_path": "data\\RBA\\Speeches\\2011-12-14 - Sydney - European Financial Developments – Sydney.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:37:11",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "3b17bbec88c47ca2031e9227044f2984c3604ba5193ecf856fa85ea0de6dcf43"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "Risk Measurement – A Central Bank Perspective – Melbourne",
+  "date_original": "5 September 2006",
+  "date_au": "05/09/2006",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2006/sp-ag-050906.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2006-09-05 - Melbourne - Risk Measurement – A Central Bank Perspective – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2006-09-05 - Melbourne - Risk Measurement – A Central Bank Perspective – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:40:53",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "43cca712c8cd0131bee7fe021d4a931792af768fa3e71d18e1c5fe7a5f20d4a1"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "RBA",
+  "category": "Speeches",
+  "title": "The International Economic Outlook – Melbourne",
+  "date_original": "3 February 2000",
+  "date_au": "03/02/2000",
+  "datetime_original": "",
+  "speaker": "Melbourne",
+  "speaker_role": "",
+  "source_url": "https://www.rba.gov.au/speeches/2000/sp-ag-030200.html",
+  "raw_file_path": "data\\RBA\\Speeches\\2000-02-03 - Melbourne - The International Economic Outlook – Melbourne.html",
+  "text_file_path": "data\\RBA\\Speeches\\2000-02-03 - Melbourne - The International Economic Outlook – Melbourne.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T02:43:17",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "32b08f384c104b7e291df84ed6333ffdb84ffe9f6b83299844dee55b38ef033f"
+}

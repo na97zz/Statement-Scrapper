@@ -1,0 +1,19 @@
+{
+  "bank": "RIKSBANK",
+  "category": "Speeches",
+  "title": "Jansson Interest Rates Have Peaked",
+  "date_original": "2024",
+  "date_au": "01/06/2024",
+  "datetime_original": "",
+  "speaker": "Per Jansson",
+  "speaker_role": "",
+  "source_url": "https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2024/jansson-interest-rates-have-peaked/",
+  "raw_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Per Jansson - Jansson Interest Rates Have Peaked.html",
+  "text_file_path": "data\\RIKSBANK\\Speeches\\2024-06-01 - Per Jansson - Jansson Interest Rates Have Peaked.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-03T13:02:23",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "539e8143c46470891e59b68d719aaa8cc951fbfff445ce49f791be860cdb8c5a"
+}
