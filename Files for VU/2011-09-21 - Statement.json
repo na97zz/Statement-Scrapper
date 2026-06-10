@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2011-09-21",
+  "date_au": "21/09/2011",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110921a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2011-09-21 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2011-09-21 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:22",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d892b15c846a0a30d54fed33cdd3ae68ede8b5f35aacff86dd7312d5307c5911"
+}

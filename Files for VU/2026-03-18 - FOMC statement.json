@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2026-03-18",
+  "date_au": "18/03/2026",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260318a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2026-03-18 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2026-03-18 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:47:51",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6d0f8f1fdeab2b08dd5102c3ccc6b4f876a84a933e03d915ef5b21bae7b684d4"
+}

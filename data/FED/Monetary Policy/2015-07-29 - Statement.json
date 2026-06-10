@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2015-07-29",
+  "date_au": "29/07/2015",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150729a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2015-07-29 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2015-07-29 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "aec2e28e2b7af3915e6004d21cb96995fc4457a655c8f822880447ee2f9171b6"
+}

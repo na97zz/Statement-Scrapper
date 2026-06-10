@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2006-09-20",
+  "date_au": "20/09/2006",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20060920a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2006-09-20 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2006-09-20 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:57:25",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "19062116b43ac120ac6ef1d8af2877bc99171d0568eec3c63ad7e2060260cef4"
+}

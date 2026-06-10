@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2022-05-04",
+  "date_au": "04/05/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20220504a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2022-05-04 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2022-05-04 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a4ade0244cf268ccacdc46614d055620089ec9a411b24f47cea073d15e9f4b3d"
+}

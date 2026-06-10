@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2004-06-30",
+  "date_au": "30/06/2004",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2004/20040630/default.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2004-06-30 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2004-06-30 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:58:00",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6251150c6e6c2e3474e5a0292249f9ec28c89bee282fb5043a6f44a08b4234ba"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2022-01-26",
+  "date_au": "26/01/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20220126a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2022-01-26 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2022-01-26 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:46",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "81b6336f6325fb41d651aa93a8844a8890c40c65350da5ac82df1f5bdd6f492a"
+}

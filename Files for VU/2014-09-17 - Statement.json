@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2014-09-17",
+  "date_au": "17/09/2014",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20140917a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2014-09-17 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2014-09-17 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:28",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7809c83f021fc93b7ef66a1877791de952c2e70c752f56472ba282f88b075a1c"
+}

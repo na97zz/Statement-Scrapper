@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2015-10-28",
+  "date_au": "28/10/2015",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20151028a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2015-10-28 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2015-10-28 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cade97009a2c83f3e0f168692610eead91e5c7d158b9cb5d61d525e69e47faba"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2000-11-15",
+  "date_au": "15/11/2000",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/general/2000/20001115/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2000-11-15 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2000-11-15 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:59:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d17d87d6eb2731d87f71ede5b7047204585df2356ee47b89fefd6b5594fc46c5"
+}

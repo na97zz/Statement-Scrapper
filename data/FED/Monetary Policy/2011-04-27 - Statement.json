@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2011-04-27",
+  "date_au": "27/04/2011",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110427a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2011-04-27 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2011-04-27 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2ef27a6f65297c52a4dfa9e2a1ed4637de8dacf70c16f91ac3cd376a68128fc9"
+}

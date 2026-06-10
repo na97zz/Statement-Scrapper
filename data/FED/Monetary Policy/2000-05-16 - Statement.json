@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2000-05-16",
+  "date_au": "16/05/2000",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/general/2000/20000516/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2000-05-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2000-05-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:59:08",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9c2d6d29f386d15cc43cd251076a29e7bf09d4fb99a92dfe4f422db3cc5d0612"
+}

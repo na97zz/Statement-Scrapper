@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2007-05-09",
+  "date_au": "09/05/2007",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20070509a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2007-05-09 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2007-05-09 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:56:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5a492a66461881e146d377066b082618b03e41d6465e5c19d05ed75d6fbfcaa0"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2011-12-13",
+  "date_au": "13/12/2011",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20111213a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2011-12-13 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2011-12-13 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:26",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8dd0cdcd19263b419177ab3900262c98086d2520f05baf1648c7b1c87bb06ea9"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2010-04-28",
+  "date_au": "28/04/2010",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20100428a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2010-04-28 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2010-04-28 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "411c8bb5c15f562dd802dc686dbbffa16fa646b3b272123e6e70f0dfd2ae8e7c"
+}

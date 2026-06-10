@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2016-07-27",
+  "date_au": "27/07/2016",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160727a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2016-07-27 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2016-07-27 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:52",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0f8c7b702aae021ec2aa079e8e835f6f1714f68ab24a3f8f3900234ff6887156"
+}

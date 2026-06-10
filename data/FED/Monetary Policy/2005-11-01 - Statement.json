@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2005-11-01",
+  "date_au": "01/11/2005",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2005/20051101/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2005-11-01 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2005-11-01 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:57:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "39f45f7db8b91605e4d006b95dcd9a599368421043d908671134d13ae3798f7b"
+}

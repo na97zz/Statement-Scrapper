@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2020-01-29",
+  "date_au": "29/01/2020",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200129a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2020-01-29 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2020-01-29 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:10",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6b731fdcc00834c2351e36c0c897a656eee8edff5486da99f9b29b9df31056a3"
+}

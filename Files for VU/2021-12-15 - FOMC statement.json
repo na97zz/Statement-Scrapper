@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2021-12-15",
+  "date_au": "15/12/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20211215a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2021-12-15 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2021-12-15 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:49:15",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f26cd5c0ab7af30bbceaf0fdab6d8a35bbe77f805b6121a104e04da28209a45d"
+}

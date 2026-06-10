@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2008-08-05",
+  "date_au": "05/08/2008",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20080805a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2008-08-05 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2008-08-05 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:56:34",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "06b3b8d05a16b95884c4cacaf9b3881f3732e406ca0563651af2bb5322c0cb2b"
+}

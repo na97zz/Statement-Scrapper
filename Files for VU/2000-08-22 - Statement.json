@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2000-08-22",
+  "date_au": "22/08/2000",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/general/2000/20000822/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2000-08-22 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2000-08-22 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:59:13",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "62cf9948ec60ebdd003e2a2b32ac178dbd61b88bc53d8c2d240c6acb1b4a71aa"
+}

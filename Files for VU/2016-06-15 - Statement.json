@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2016-06-15",
+  "date_au": "15/06/2016",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160615a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2016-06-15 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2016-06-15 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7d217c2a683ebdb1795538141ff8b2210e19a3c1568f3aa164b310b801612dd2"
+}

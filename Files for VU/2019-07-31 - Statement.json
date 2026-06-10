@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2019-07-31",
+  "date_au": "31/07/2019",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2019-07-31 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2019-07-31 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:55",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "fbf7688e932ea020e52868a78179f06c75bb1d0ac84ab593c47107b3a3fbf099"
+}

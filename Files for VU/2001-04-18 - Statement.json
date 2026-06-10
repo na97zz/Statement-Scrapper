@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2001-04-18",
+  "date_au": "18/04/2001",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/general/2001/20010418/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2001-04-18 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2001-04-18 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:58:49",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "d0f039cb8a61b37aef76481344f85e6d35f1048b11df2d7c579885e4e98fd94f"
+}

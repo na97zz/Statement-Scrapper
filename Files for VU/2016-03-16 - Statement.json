@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2016-03-16",
+  "date_au": "16/03/2016",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20160316a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2016-03-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2016-03-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:45",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1563c0af97cebb9887c43e5b6c6e97af615cf0c44b89bec0fe0c6b92dcb43b7f"
+}

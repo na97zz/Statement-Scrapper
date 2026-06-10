@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2002-11-06",
+  "date_au": "06/11/2002",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2002/20021106/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2002-11-06 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2002-11-06 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:58:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "9ae4fe88ec343be1ca2f21cd0005661b6c715eeab5cbfa8b5b29978bb82e080f"
+}

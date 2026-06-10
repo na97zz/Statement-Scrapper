@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2020-03-15",
+  "date_au": "15/03/2020",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2020-03-15 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2020-03-15 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:14",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f4b7797e75748c457bc1b68051f10f34910a1a2b0c98ab534d4b73447f1875a9"
+}

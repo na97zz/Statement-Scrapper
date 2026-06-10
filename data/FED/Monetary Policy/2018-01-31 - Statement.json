@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2018-01-31",
+  "date_au": "31/01/2018",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180131a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2018-01-31 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2018-01-31 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "a4b3c923a407f2dfa53411ee530c01fae72b34dadc779cb49d7cb0c3685e7b0e"
+}

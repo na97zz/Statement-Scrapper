@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2017-05-03",
+  "date_au": "03/05/2017",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170503a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2017-05-03 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2017-05-03 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:32",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "1148003d012f321801df8f09704c86e8a1ccfd957b58a120c7d321b2b754d516"
+}

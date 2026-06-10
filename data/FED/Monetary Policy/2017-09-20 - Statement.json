@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2017-09-20",
+  "date_au": "20/09/2017",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2017-09-20 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2017-09-20 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:37",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "6f1ee0c900e4aa1fb094730b59b4c00c8f53aac5081706684bc6c6e50a6677e5"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2018-09-26",
+  "date_au": "26/09/2018",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180926a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2018-09-26 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2018-09-26 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "2833d60852769055870bde92787ae3e3dd8eeff904ded045e424d785256aa912"
+}

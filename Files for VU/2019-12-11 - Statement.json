@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2019-12-11",
+  "date_au": "11/12/2019",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191211a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2019-12-11 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2019-12-11 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "0aed600462ed274d4628df0e8cf409fb513214af90fbc266efb089727f3b2728"
+}

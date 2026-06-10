@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2009-12-16",
+  "date_au": "16/12/2009",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20091216a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2009-12-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2009-12-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:56:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "239bf3a8518120c5a0f860d52723420141926057c92057f60ba31081a1653356"
+}

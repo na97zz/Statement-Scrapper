@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2011-06-22",
+  "date_au": "22/06/2011",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20110622a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2011-06-22 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2011-06-22 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:18",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cca0f83b93798f87007c68c57862ee4ff33788a1225a6300a55665c5c77afb5e"
+}

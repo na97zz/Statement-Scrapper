@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2003-06-25",
+  "date_au": "25/06/2003",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2003/20030625/default.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2003-06-25 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2003-06-25 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:58:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8f1a7618a4a9bf9a37f4222c5fea761eeae4318f58ba800849a9f3b43c54a74a"
+}

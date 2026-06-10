@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2019-05-01",
+  "date_au": "01/05/2019",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190501a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2019-05-01 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2019-05-01 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:50",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "8992de5aaf97fb029ad8bfa697a7df891c8cf854cb89abe4f3d0618f786e5547"
+}

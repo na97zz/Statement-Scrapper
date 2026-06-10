@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2020-06-10",
+  "date_au": "10/06/2020",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200610a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2020-06-10 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2020-06-10 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "009e545fcecd33c2bbeed972f23fc146b2e8364a3354cab696d642b58cce8a49"
+}

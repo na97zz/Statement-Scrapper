@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2005-09-20",
+  "date_au": "20/09/2005",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2005/20050920/",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2005-09-20 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2005-09-20 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:57:43",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "17c39c02759c400cc51e53c9a5235ad05bfe01a938bacbd0e81fe640cff84071"
+}

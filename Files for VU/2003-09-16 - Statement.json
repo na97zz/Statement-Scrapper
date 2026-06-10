@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2003-09-16",
+  "date_au": "16/09/2003",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2003/20030916/default.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2003-09-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2003-09-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:58:20",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c1e226fe95647115be5134037b192495e33d2f93913c099609ce9c6a8670450e"
+}

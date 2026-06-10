@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2004-11-10",
+  "date_au": "10/11/2004",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/boarddocs/press/monetary/2004/20041110/default.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2004-11-10 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2004-11-10 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:58:07",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "29156f7d4e5936821f355c62a216ceab706e0465bcd60a3cd7ad9313688f10b4"
+}

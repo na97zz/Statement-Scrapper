@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2012-01-25",
+  "date_au": "25/01/2012",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120125a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2012-01-25 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2012-01-25 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:56",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "dcf77bcaf0ba443e74bd7ef3ece9ac3b2523aeeca95f4c022b525730bb74cd5a"
+}

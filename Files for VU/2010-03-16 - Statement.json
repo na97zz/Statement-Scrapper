@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2010-03-16",
+  "date_au": "16/03/2010",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20100316a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2010-03-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2010-03-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5bc334f2367e480fbb85daec77ba4b59a1cf425b764d4a336eab02b0a9a8b07b"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2012-09-13",
+  "date_au": "13/09/2012",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20120913a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2012-09-13 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2012-09-13 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:55:05",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "5fe9a9cb449067173c0f89e6642dd85bef2a7ffddf8736f73b235a75c1591a0f"
+}

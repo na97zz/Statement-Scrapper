@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2022-07-27",
+  "date_au": "27/07/2022",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20220727a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2022-07-27 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2022-07-27 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:48:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "cfac7f7a513c34d6b61a1f6af3352c48b18ddff898af7f6690cd981ce5f801e1"
+}

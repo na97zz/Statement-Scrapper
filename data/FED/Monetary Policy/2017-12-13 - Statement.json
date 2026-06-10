@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2017-12-13",
+  "date_au": "13/12/2017",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20171213a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2017-12-13 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2017-12-13 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:41",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "69c86b40433f855532ad4ae1236fe99a9111118816218cff870afe1a6fa1612f"
+}

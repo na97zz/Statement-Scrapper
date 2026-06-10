@@ -15,7 +15,7 @@ MASTER_INDEX_CSV = DATA_DIR / "master_index.csv"
 MASTER_INDEX_JSONL = DATA_DIR / "master_index.jsonl"
 FAILED_SCRAPES_CSV = DATA_DIR / "failed_scrapes.csv"
 
-START_YEAR = 2021
+START_YEAR = 2000
 CURRENT_YEAR = datetime.now().year
 YEARS = list(range(CURRENT_YEAR, START_YEAR - 1, -1))
 

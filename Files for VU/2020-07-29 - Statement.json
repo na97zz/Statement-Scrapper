@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2020-07-29",
+  "date_au": "29/07/2020",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200729a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2020-07-29 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2020-07-29 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:29",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "65c1d45b13f9433c0cbbd421a40e13928401afb02e5f0a939fb1b30aaca29640"
+}

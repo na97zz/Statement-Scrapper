@@ -9,12 +9,25 @@ class FEDScraper(BaseScraper):
             bank=bank,
             category="Monetary Policy",
             url="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-            include_keywords=("monetary20", "fomcstatement", "fomc statement"),
-            exclude_keywords=("minutes", "financial statements", "reportingforms"),
+            include_keywords=("monetary20", "fomcstatement", "fomc statement", "statement"),
+            exclude_keywords=("minutes", "financial statements", "reportingforms", "press release"),
             include_url_patterns=(
                 r"/monetarypolicy/files/monetary20\d{6}a1\.pdf$",
                 r"/newsevents/pressreleases/monetary20\d{6}a\.htm$",
             ),
+        ),
+        ScrapeTarget(
+            bank=bank,
+            category="Monetary Policy",
+            url="https://www.federalreserve.gov/monetarypolicy/fomchistorical{year}.htm",
+            include_keywords=("monetary20", "fomcstatement", "fomc statement", "statement"),
+            exclude_keywords=("minutes", "financial statements", "reportingforms", "press release"),
+            include_url_patterns=(
+                r"/newsevents/pressreleases/monetary20\d{6}a\.htm$",
+                r"/newsevents/press/monetary/20\d{6}[a-z]?\.htm$",
+                r"/boarddocs/press/(?:general|monetary)/20\d{2}/20\d{6}/(?:default\.htm)?$",
+            ),
+            years=tuple(range(2020, 1999, -1)),
         ),
         ScrapeTarget(
             bank=bank,

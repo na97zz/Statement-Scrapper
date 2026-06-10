@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "FOMC statement",
+  "date_original": "2021-03-17",
+  "date_au": "17/03/2021",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20210317a1.pdf",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2021-03-17 - FOMC statement.pdf",
+  "text_file_path": "data\\FED\\Monetary Policy\\2021-03-17 - FOMC statement.txt",
+  "document_type": "pdf",
+  "language": "English",
+  "scraped_at": "2026-06-03T01:49:04",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "51bdbed7bb1f39fbbb8ec5f508d2bcccae931d6cf656f2c3bf6a237f912653c3"
+}

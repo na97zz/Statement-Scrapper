@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2013-05-01",
+  "date_au": "01/05/2013",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20130501a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2013-05-01 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2013-05-01 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:39",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "b24e57304ad38d561a352865a4a4938ff47284a931831816236e54b112df6e8e"
+}

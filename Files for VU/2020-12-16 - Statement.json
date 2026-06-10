@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2020-12-16",
+  "date_au": "16/12/2020",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20201216a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2020-12-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2020-12-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:52:44",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "f8394f303ce24eadb7f492435e12bc795340be85ca8d21438c310bf83301adb4"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2018-05-02",
+  "date_au": "02/05/2018",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20180502a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2018-05-02 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2018-05-02 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:53:12",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "595e42e90017c6dbbe91d1ea7521788b08bfdf8799a67ee4a4ee709a8ba311f1"
+}

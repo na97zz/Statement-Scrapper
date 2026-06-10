@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2013-12-18",
+  "date_au": "18/12/2013",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20131218a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2013-12-18 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2013-12-18 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:54",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "e065e2b0b96695f0bec65ab539f3f0d6552995dbd55bf49332d02b507e4ed276"
+}

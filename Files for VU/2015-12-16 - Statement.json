@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2015-12-16",
+  "date_au": "16/12/2015",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20151216a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2015-12-16 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2015-12-16 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:16",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "c3d6535d90b0f77aa92f1c42dc8b1b10db8014efda9cd45bc0cc277035f2b0df"
+}

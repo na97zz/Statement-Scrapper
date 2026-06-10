@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2006-12-12",
+  "date_au": "12/12/2006",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/press/monetary/20061212a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2006-12-12 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2006-12-12 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:57:31",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "eb744fbe2f955875b392ce20885f7d7ea3d75e238e676b35694b5f5ab654d3f7"
+}

@@ -1,0 +1,19 @@
+{
+  "bank": "FED",
+  "category": "Monetary Policy",
+  "title": "Statement",
+  "date_original": "2015-03-18",
+  "date_au": "18/03/2015",
+  "datetime_original": "",
+  "speaker": "",
+  "speaker_role": "",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20150318a.htm",
+  "raw_file_path": "data\\FED\\Monetary Policy\\2015-03-18 - Statement.html",
+  "text_file_path": "data\\FED\\Monetary Policy\\2015-03-18 - Statement.txt",
+  "document_type": "html",
+  "language": "English",
+  "scraped_at": "2026-06-11T00:54:03",
+  "status": "success",
+  "notes": "",
+  "content_sha256": "7205b79cdf191e504b08bbd39d1115674bed9784d51984df6ff00934a5e9fa88"
+}
